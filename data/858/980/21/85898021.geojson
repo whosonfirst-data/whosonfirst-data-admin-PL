@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18993658.876343,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.560034,54.480903,18.560034,54.480903",
     "geom:latitude":54.480903,
     "geom:longitude":18.560034,
@@ -26,8 +26,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0627\u062d\u062a\u064a\u0627\u0644 \u0639\u0628\u0631 \u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a"
     ],
+    "name:aze_x_preferred":[
+        "Nigeriya f\u0131r\u0131lda\u011f\u0131"
+    ],
     "name:cat_x_preferred":[
         "Scam"
+    ],
+    "name:cat_x_variant":[
+        "scam"
     ],
     "name:ces_x_preferred":[
         "Nigerijsk\u00e9 dopisy"
@@ -35,8 +41,14 @@
     "name:deu_x_preferred":[
         "Vorschussbetrug"
     ],
+    "name:eng_x_preferred":[
+        "advance-fee scam"
+    ],
     "name:epo_x_preferred":[
         "Anta\u016dpaga fra\u016ddo"
+    ],
+    "name:epo_x_variant":[
+        "anta\u016dpaga fra\u016ddo"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0644\u0627\u0647\u0628\u0631\u062f\u0627\u0631\u06cc \u06f4\u06f1\u06f9"
@@ -62,11 +74,20 @@
     "name:jpn_x_preferred":[
         "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2\u306e\u624b\u7d19"
     ],
+    "name:nan_x_preferred":[
+        "Nigeria ch\u00e0-khi"
+    ],
     "name:nld_x_preferred":[
         "Nigeriaanse oplichting"
     ],
     "name:nno_x_preferred":[
         "Svindelbrev"
+    ],
+    "name:nno_x_variant":[
+        "Nigeriabedrageri"
+    ],
+    "name:nob_x_preferred":[
+        "Nigeriabrev"
     ],
     "name:nor_x_preferred":[
         "Nigeriabrev"
@@ -85,11 +106,20 @@
     "name:por_x_preferred":[
         "Fraude nigeriana"
     ],
+    "name:por_x_variant":[
+        "fraude nigeriana"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u0433\u0435\u0440\u0438\u0439\u0441\u043a\u0438\u0435 \u043f\u0438\u0441\u044c\u043c\u0430"
     ],
+    "name:slv_x_preferred":[
+        "Nigerijska prevara"
+    ],
     "name:spa_x_preferred":[
         "Estafa nigeriana"
+    ],
+    "name:spa_x_variant":[
+        "estafa nigeriana"
     ],
     "name:swe_x_preferred":[
         "Nigeriabrev"
@@ -145,10 +175,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":10583,
     "wof:belongsto":[
+        85687267,
         102191581,
         85633723,
-        102080251,
-        85687267
+        102080251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,7 +203,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1531931994,
+    "wof:lastmodified":1563574226,
     "wof:name":"Orowo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
