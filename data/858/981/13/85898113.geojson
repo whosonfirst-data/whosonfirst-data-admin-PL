@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22919742.46746,
-    "geom:bbox":"18.838474,54.344861,18.838474,54.344861",
-    "geom:latitude":54.344861,
-    "geom:longitude":18.838474,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.826229,54.344928,18.826229,54.344928",
+    "geom:latitude":54.344928,
+    "geom:longitude":18.826229,
     "iso:country":"PL",
-    "lbl:latitude":54.344861,
-    "lbl:longitude":18.838474,
+    "lbl:latitude":54.344928,
+    "lbl:longitude":18.826229,
     "mps:latitude":54.349758,
     "mps:longitude":18.839032,
     "mz:hierarchy_label":0,
@@ -23,6 +23,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "mz:tier_metro":30,
     "name:pol_x_preferred":[
         "Sobieszewo"
     ],
@@ -55,18 +56,19 @@
     "qs:woe_lau":12618131,
     "qs:woe_local":493417,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":76,
     "wof:belongsto":[
+        85687267,
         102191581,
         85633723,
-        102080225,
-        85687267
+        102080225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +78,7 @@
         "qs_pg:id":1343009
     },
     "wof:country":"PL",
-    "wof:geomhash":"4320143dfbf5c907fca7a968d46f4e9a",
+    "wof:geomhash":"b183faa2a50b935923cbf0d369407c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +93,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1531932011,
+    "wof:lastmodified":1566247519,
     "wof:name":"Sobieszewo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -101,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.838474,
-    54.344861,
-    18.838474,
-    54.344861
+    18.826229,
+    54.344928,
+    18.826229,
+    54.344928
 ],
-  "geometry": {"coordinates":[18.838474,54.344861],"type":"Point"}
+  "geometry": {"coordinates":[18.826229,54.344928],"type":"Point"}
 }

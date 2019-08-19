@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.905597,52.393283,16.905597,52.393283",
-    "geom:latitude":52.393283,
-    "geom:longitude":16.905597,
+    "geom:bbox":"16.918071,52.390978,16.918071,52.390978",
+    "geom:latitude":52.390978,
+    "geom:longitude":16.918071,
     "iso:country":"PL",
-    "lbl:latitude":52.393283,
-    "lbl:longitude":16.905597,
+    "lbl:latitude":52.390978,
+    "lbl:longitude":16.918071,
     "mps:latitude":52.377835,
     "mps:longitude":16.908555,
     "mz:hierarchy_label":0,
@@ -19,7 +19,7 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
@@ -59,12 +59,13 @@
     "qs:woe_lau":12618604,
     "qs:woe_local":514048,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":639,
     "wof:belongsto":[
         85687323,
@@ -83,7 +84,7 @@
         "wk:page":"Wilda, Pozna\u0144"
     },
     "wof:country":"PL",
-    "wof:geomhash":"ec3fbeca5c6caa11580b53faa033b1be",
+    "wof:geomhash":"0e6b68834595d5c969c8e5b9928ec7e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +99,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1563574235,
+    "wof:lastmodified":1566247510,
     "wof:name":"Wilda",
     "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
@@ -108,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.905597,
-    52.393283,
-    16.905597,
-    52.393283
+    16.918071,
+    52.390978,
+    16.918071,
+    52.390978
 ],
-  "geometry": {"coordinates":[16.905597,52.393283],"type":"Point"}
+  "geometry": {"coordinates":[16.918071,52.390978],"type":"Point"}
 }

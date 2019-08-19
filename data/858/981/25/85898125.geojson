@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.934236,52.409631,16.934236,52.409631",
-    "geom:latitude":52.409631,
-    "geom:longitude":16.934236,
+    "geom:bbox":"16.934322,52.409526,16.934322,52.409526",
+    "geom:latitude":52.409526,
+    "geom:longitude":16.934322,
     "iso:country":"PL",
-    "lbl:latitude":52.409631,
-    "lbl:longitude":16.934236,
+    "lbl:latitude":52.409526,
+    "lbl:longitude":16.934322,
     "mps:latitude":52.41951,
     "mps:longitude":16.9402,
     "mz:hierarchy_label":0,
@@ -19,9 +19,9 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
-    "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:is_official":1,
+    "mz:max_zoom":16.0,
+    "mz:min_zoom":12.0,
     "mz:tier_locality":2,
     "mz:tier_metro":30,
     "name:ceb_x_preferred":[
@@ -83,12 +83,13 @@
     "qs:woe_lau":12618604,
     "qs:woe_local":514048,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         85687323,
         102191581,
@@ -104,7 +105,7 @@
         "qs_pg:id":562821
     },
     "wof:country":"PL",
-    "wof:geomhash":"680377f4e39b7f6be399bcf63c375482",
+    "wof:geomhash":"78749cb35aeafb8fd69cef64d3567e54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,7 +120,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1564207524,
+    "wof:lastmodified":1566247509,
     "wof:name":"Stare Miasto",
     "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
@@ -129,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.934236,
-    52.409631,
-    16.934236,
-    52.409631
+    16.934322,
+    52.409526,
+    16.934322,
+    52.409526
 ],
-  "geometry": {"coordinates":[16.934236,52.409631],"type":"Point"}
+  "geometry": {"coordinates":[16.934322,52.409526],"type":"Point"}
 }
