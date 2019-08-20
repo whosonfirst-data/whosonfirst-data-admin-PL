@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"042934a8b718b9647c50e65b683115c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71899ccdb09c6d112f0ebd8e2f60df56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835795,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835795,
-    "wof:lastmodified":1566258247,
+    "wof:lastmodified":1566340182,
     "wof:name":"Osiedle Czecha",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.979776827588466,
+    16.97977682758847,
     52.38466230518138,
-    16.979776827588466,
+    16.97977682758847,
     52.38466230518138
 ],
   "geometry": {"coordinates":[16.97977682758847,52.38466230518138],"type":"Point"}

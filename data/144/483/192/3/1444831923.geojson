@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"0582e6eaae3994ac856d95cd728d4521",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d03d21663e1e2b68382b5058c76f159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831923,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831923,
-    "wof:lastmodified":1566258241,
+    "wof:lastmodified":1566337133,
     "wof:name":"Winniki",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.626025621278195,
+    18.6260256212782,
     54.35069633676943,
-    18.626025621278195,
+    18.6260256212782,
     54.35069633676943
 ],
   "geometry": {"coordinates":[18.6260256212782,54.35069633676943],"type":"Point"}

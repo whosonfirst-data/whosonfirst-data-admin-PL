@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"922dd57dea8326378dd281ff04c0ebb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fc67b8c35677ee97ec526a30311c5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834823,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834823,
-    "wof:lastmodified":1566258244,
+    "wof:lastmodified":1566340072,
     "wof:name":"Osiedle Stefana Batorego",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.922956883227865,
-    52.457455628990864,
-    16.922956883227865,
-    52.457455628990864
+    16.92295688322787,
+    52.45745562899086,
+    16.92295688322787,
+    52.45745562899086
 ],
   "geometry": {"coordinates":[16.92295688322787,52.45745562899086],"type":"Point"}
 }

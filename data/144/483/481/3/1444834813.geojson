@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"7aad77e0074c7fd9bc3dfc82e8a1cb5c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1141d6dc3b4319236c1195a339ae6424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834813,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834813,
-    "wof:lastmodified":1566258244,
+    "wof:lastmodified":1566340069,
     "wof:name":"Osiedle Boleslawa Smialego",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     16.92392963152004,
-    52.450795466349035,
+    52.45079546634904,
     16.92392963152004,
-    52.450795466349035
+    52.45079546634904
 ],
   "geometry": {"coordinates":[16.92392963152004,52.45079546634904],"type":"Point"}
 }

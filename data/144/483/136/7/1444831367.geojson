@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"97c7c8734f570610b4be25311b131a4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ff971d571f303d72bd14c828bdc0669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831367,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831367,
-    "wof:lastmodified":1566258240,
+    "wof:lastmodified":1566337070,
     "wof:name":"Wrzeszcz",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.611668006869287,
-    54.379514004022745,
-    18.611668006869287,
-    54.379514004022745
+    18.61166800686929,
+    54.37951400402275,
+    18.61166800686929,
+    54.37951400402275
 ],
   "geometry": {"coordinates":[18.61166800686929,54.37951400402275],"type":"Point"}
 }

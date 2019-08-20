@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ba9c2b8aa68505c3f668d583b031dd79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"632621fd460a53d7a66223367f2a25f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835767,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835767,
-    "wof:lastmodified":1566258247,
+    "wof:lastmodified":1566340177,
     "wof:name":"Osiedle Zegrze",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.964212854913665,
+    16.96421285491367,
     52.38247944255832,
-    16.964212854913665,
+    16.96421285491367,
     52.38247944255832
 ],
   "geometry": {"coordinates":[16.96421285491367,52.38247944255832],"type":"Point"}

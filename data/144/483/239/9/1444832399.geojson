@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ceba6717498d5a12e17bae938201bdaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7896dad5f32c56b02e2f963938e0702f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832399,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832399,
-    "wof:lastmodified":1566258242,
+    "wof:lastmodified":1566337185,
     "wof:name":"Olszynka",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.669718572666557,
+    18.66971857266656,
     54.33612543318078,
-    18.669718572666557,
+    18.66971857266656,
     54.33612543318078
 ],
   "geometry": {"coordinates":[18.66971857266656,54.33612543318078],"type":"Point"}

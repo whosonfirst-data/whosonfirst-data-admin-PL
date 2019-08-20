@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"4b487dc550cb7b2c141c8cbd8825568d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2de008d348031c190a8799d6b20f1a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835179,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835179,
-    "wof:lastmodified":1566258245,
+    "wof:lastmodified":1566340112,
     "wof:name":"Czekalskie",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.988588782705822,
-    52.407479853381886,
-    16.988588782705822,
-    52.407479853381886
+    16.98858878270582,
+    52.40747985338189,
+    16.98858878270582,
+    52.40747985338189
 ],
   "geometry": {"coordinates":[16.98858878270582,52.40747985338189],"type":"Point"}
 }

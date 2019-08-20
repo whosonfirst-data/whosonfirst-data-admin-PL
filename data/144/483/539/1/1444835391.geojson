@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"c52a152d566acd3889a4448a9a306ada",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91a5ff62a14e1c662e0877f61f13759c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835391,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835391,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340137,
     "wof:name":"Dzielnica Cesarska",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.918808397864183,
-    52.406484995936154,
-    16.918808397864183,
-    52.406484995936154
+    16.91880839786418,
+    52.40648499593615,
+    16.91880839786418,
+    52.40648499593615
 ],
   "geometry": {"coordinates":[16.91880839786418,52.40648499593615],"type":"Point"}
 }

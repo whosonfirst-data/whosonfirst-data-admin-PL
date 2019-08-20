@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"dca23e5634a787d9851e4274c7a78c0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2b055b13090caefd023a9135ca326c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834799,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834799,
-    "wof:lastmodified":1566258244,
+    "wof:lastmodified":1566340068,
     "wof:name":"Osiedle Boleslawa Chrobrego",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.915747101768215,
+    16.91574710176821,
     52.4508652114905,
-    16.915747101768215,
+    16.91574710176821,
     52.4508652114905
 ],
   "geometry": {"coordinates":[16.91574710176821,52.4508652114905],"type":"Point"}

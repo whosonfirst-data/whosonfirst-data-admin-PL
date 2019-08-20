@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"d4ffbf0b46de22aafde3365e8330a334",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5921c2f61aa89888e058739a45e48f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834625,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834625,
-    "wof:lastmodified":1566258244,
+    "wof:lastmodified":1566340047,
     "wof:name":"Staroleka-Minikowo-Marlewo",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     16.93550111277999,
-    52.354249677113266,
+    52.35424967711327,
     16.93550111277999,
-    52.354249677113266
+    52.35424967711327
 ],
   "geometry": {"coordinates":[16.93550111277999,52.35424967711327],"type":"Point"}
 }

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fe884888b93187d50026c7d51f9683cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9ff9a2db67288976ac570934acd9e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830819,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830819,
-    "wof:lastmodified":1566258250,
+    "wof:lastmodified":1566340825,
     "wof:name":"Kozanow",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.976857119176927,
+    16.97685711917693,
     51.13793065774855,
-    16.976857119176927,
+    16.97685711917693,
     51.13793065774855
 ],
   "geometry": {"coordinates":[16.97685711917693,51.13793065774855],"type":"Point"}

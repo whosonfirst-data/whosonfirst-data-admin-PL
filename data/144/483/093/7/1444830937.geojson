@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"7cc7dedfdf821c9eeb35d90a8aae1e12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97750d6eff64768fff5c4ec626490b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830937,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830937,
-    "wof:lastmodified":1566258250,
+    "wof:lastmodified":1566340840,
     "wof:name":"Jarnoltow",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.848539491128708,
+    16.84853949112871,
     51.11877153600126,
-    16.848539491128708,
+    16.84853949112871,
     51.11877153600126
 ],
   "geometry": {"coordinates":[16.84853949112871,51.11877153600126],"type":"Point"}

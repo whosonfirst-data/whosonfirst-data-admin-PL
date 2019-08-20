@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ebaa20500363ea015db0ff72d0cd8011",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a481404a0c000507cae5c53b02abb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831507,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831507,
-    "wof:lastmodified":1566258240,
+    "wof:lastmodified":1566337085,
     "wof:name":"Zaspa",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.601697336874498,
+    18.6016973368745,
     54.39489939750267,
-    18.601697336874498,
+    18.6016973368745,
     54.39489939750267
 ],
   "geometry": {"coordinates":[18.6016973368745,54.39489939750267],"type":"Point"}

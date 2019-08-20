@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"24c7ecc54947fe0ac95bd2ca7d0db7ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f63246a87a8860cdc8c7cd67d2517685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835203,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835203,
-    "wof:lastmodified":1566258245,
+    "wof:lastmodified":1566340114,
     "wof:name":"Malta",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.966730556375765,
-    52.403151187253705,
-    16.966730556375765,
-    52.403151187253705
+    16.96673055637577,
+    52.40315118725371,
+    16.96673055637577,
+    52.40315118725371
 ],
   "geometry": {"coordinates":[16.96673055637577,52.40315118725371],"type":"Point"}
 }

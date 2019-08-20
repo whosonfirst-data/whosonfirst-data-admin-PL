@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fb58a66a51a4e78672a3ee319758a248",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eec592b05daa0583a26699533f61d519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832445,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832445,
-    "wof:lastmodified":1566258242,
+    "wof:lastmodified":1566337190,
     "wof:name":"Orunia",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.633383562929442,
+    18.63338356292944,
     54.32361307672996,
-    18.633383562929442,
+    18.63338356292944,
     54.32361307672996
 ],
   "geometry": {"coordinates":[18.63338356292944,54.32361307672996],"type":"Point"}

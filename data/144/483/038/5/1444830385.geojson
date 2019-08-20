@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"3a95b55c5fdf88b36c500245e033abbd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7474ce726f1809a183f3be1b50c33ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830385,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830385,
-    "wof:lastmodified":1566258249,
+    "wof:lastmodified":1566340777,
     "wof:name":"Zerniki",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.917536299928102,
+    16.9175362999281,
     51.12400835106871,
-    16.917536299928102,
+    16.9175362999281,
     51.12400835106871
 ],
   "geometry": {"coordinates":[16.9175362999281,51.12400835106871],"type":"Point"}

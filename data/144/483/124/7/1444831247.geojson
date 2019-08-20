@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"89f8ba56d9cee18817519b030e80c3d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55f15c63b7ce3e97c6868b34ce73402c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831247,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831247,
-    "wof:lastmodified":1566258240,
+    "wof:lastmodified":1566337065,
     "wof:name":"Matemblewo",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.552072868851678,
+    18.55207286885168,
     54.36637312883879,
-    18.552072868851678,
+    18.55207286885168,
     54.36637312883879
 ],
   "geometry": {"coordinates":[18.55207286885168,54.36637312883879],"type":"Point"}

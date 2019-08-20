@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"58176dd09aebf4e49827c932c89536d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc5487d34ab2cfee427c735baec3b156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830209,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830209,
-    "wof:lastmodified":1566258248,
+    "wof:lastmodified":1566340758,
     "wof:name":"Bienkowice",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.096820809422397,
+    17.0968208094224,
     51.05125444203081,
-    17.096820809422397,
+    17.0968208094224,
     51.05125444203081
 ],
   "geometry": {"coordinates":[17.0968208094224,51.05125444203081],"type":"Point"}

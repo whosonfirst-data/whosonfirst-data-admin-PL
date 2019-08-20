@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"142e814e6eb314c4d10e5378be4b5a29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44c4017e29571e9accede4f5fdf19635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835155,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835155,
-    "wof:lastmodified":1566258245,
+    "wof:lastmodified":1566340108,
     "wof:name":"Karolin",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.982065647099475,
+    16.98206564709947,
     52.43567560041894,
-    16.982065647099475,
+    16.98206564709947,
     52.43567560041894
 ],
   "geometry": {"coordinates":[16.98206564709947,52.43567560041894],"type":"Point"}

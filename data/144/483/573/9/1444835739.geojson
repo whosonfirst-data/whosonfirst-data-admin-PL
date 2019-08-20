@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"80ac884eadb9b5fcd0efb0e27323239b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95f6b94de5fa11941246166c43b37371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835739,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835739,
-    "wof:lastmodified":1566258247,
+    "wof:lastmodified":1566340174,
     "wof:name":"Osiedle Rzeczypospolitej",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.948276949068333,
+    16.94827694906833,
     52.38649582638077,
-    16.948276949068333,
+    16.94827694906833,
     52.38649582638077
 ],
   "geometry": {"coordinates":[16.94827694906833,52.38649582638077],"type":"Point"}

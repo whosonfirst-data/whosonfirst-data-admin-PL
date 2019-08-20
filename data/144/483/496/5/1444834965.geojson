@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"c2af7e38d2659308e82dbafeed589afa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c44c4803a19fb944ec2a12c02cf0bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834965,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834965,
-    "wof:lastmodified":1566258245,
+    "wof:lastmodified":1566340088,
     "wof:name":"Niestachow",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.900183129093417,
+    16.90018312909342,
     52.42075992365372,
-    16.900183129093417,
+    16.90018312909342,
     52.42075992365372
 ],
   "geometry": {"coordinates":[16.90018312909342,52.42075992365372],"type":"Point"}

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"5a6b85ff9a9933ad95cd1272de668ce6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ad81509e67299357cc37d70549d24c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830253,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830253,
-    "wof:lastmodified":1566258248,
+    "wof:lastmodified":1566340763,
     "wof:name":"Przedmiescie O\u0142awskie",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.057487983359877,
+    17.05748798335988,
     51.09960222744228,
-    17.057487983359877,
+    17.05748798335988,
     51.09960222744228
 ],
   "geometry": {"coordinates":[17.05748798335988,51.09960222744228],"type":"Point"}

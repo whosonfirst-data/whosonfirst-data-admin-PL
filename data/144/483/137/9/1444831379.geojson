@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"bd34a38de0c4be6fefd241683e334bfa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"533871bf19797319fa2c8637bab140c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831379,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831379,
-    "wof:lastmodified":1566258240,
+    "wof:lastmodified":1566337073,
     "wof:name":"Wrzeszcz Gorny",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.599980722241256,
+    18.59998072224126,
     54.37765603789247,
-    18.599980722241256,
+    18.59998072224126,
     54.37765603789247
 ],
   "geometry": {"coordinates":[18.59998072224126,54.37765603789247],"type":"Point"}

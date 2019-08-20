@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"9699c9579f15d0120d87f711bf6cf602",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb335f44e623b13e4fdf06f69ea025b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830947,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830947,
-    "wof:lastmodified":1566258250,
+    "wof:lastmodified":1566340843,
     "wof:name":"Jerzmanowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.871407413258037,
-    51.121570555085455,
-    16.871407413258037,
-    51.121570555085455
+    16.87140741325804,
+    51.12157055508546,
+    16.87140741325804,
+    51.12157055508546
 ],
   "geometry": {"coordinates":[16.87140741325804,51.12157055508546],"type":"Point"}
 }

@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"5d6eb54acbd963acf5183d6466ba0b58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"870895c0f0fcd9a557a4c2a56a7dfa53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834545,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834545,
-    "wof:lastmodified":1566258244,
+    "wof:lastmodified":1566340038,
     "wof:name":"Kwiatowe",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -48,9 +63,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.817054703085805,
+    16.81705470308581,
     52.38254929583391,
-    16.817054703085805,
+    16.81705470308581,
     52.38254929583391
 ],
   "geometry": {"coordinates":[16.81705470308581,52.38254929583391],"type":"Point"}

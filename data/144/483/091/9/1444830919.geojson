@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"74d774fe5af3e0baf36b5bd9ca7e970f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d41dc4d1cfc30a611dcb34a4057af4a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830919,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830919,
-    "wof:lastmodified":1566258250,
+    "wof:lastmodified":1566340839,
     "wof:name":"Ratyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.853284584970552,
+    16.85328458497055,
     51.14040569478755,
-    16.853284584970552,
+    16.85328458497055,
     51.14040569478755
 ],
   "geometry": {"coordinates":[16.85328458497055,51.14040569478755],"type":"Point"}

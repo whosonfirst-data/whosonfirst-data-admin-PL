@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"3b7f239de1dbc6e40ee9fa3dd2c1192c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60736009918013c6c9e21f6ab589f4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830303,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830303,
-    "wof:lastmodified":1566258248,
+    "wof:lastmodified":1566340767,
     "wof:name":"Plac Grunwaldzki",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.059431756740867,
+    17.05943175674087,
     51.1113044127833,
-    17.059431756740867,
+    17.05943175674087,
     51.1113044127833
 ],
   "geometry": {"coordinates":[17.05943175674087,51.1113044127833],"type":"Point"}

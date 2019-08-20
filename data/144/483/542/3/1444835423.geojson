@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"dcc24cac057ff1b4b3fdc96bb6fce966",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffae3c979e74a35eb2a57ff203dd0702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835423,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835423,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340139,
     "wof:name":"Edwardowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.850029371558612,
+    16.85002937155861,
     52.4095916676141,
-    16.850029371558612,
+    16.85002937155861,
     52.4095916676141
 ],
   "geometry": {"coordinates":[16.85002937155861,52.4095916676141],"type":"Point"}

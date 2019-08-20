@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"bca639548442b936b6d4d1d2602d8360",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44ab1c0af0d9c9e113e9fcd1faabfceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835945,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835945,
-    "wof:lastmodified":1566258247,
+    "wof:lastmodified":1566340199,
     "wof:name":"Splawie",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.024952402686825,
-    52.350614832420455,
-    17.024952402686825,
-    52.350614832420455
+    17.02495240268683,
+    52.35061483242045,
+    17.02495240268683,
+    52.35061483242045
 ],
   "geometry": {"coordinates":[17.02495240268683,52.35061483242045],"type":"Point"}
 }

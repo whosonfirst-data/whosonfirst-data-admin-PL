@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"328bd1ee963f2747c0224d4b25466437",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68575a5be1ac466612852d4909d57be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831963,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831963,
-    "wof:lastmodified":1566258241,
+    "wof:lastmodified":1566337135,
     "wof:name":"Dolina",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.619817198354607,
+    18.61981719835461,
     54.34887875514073,
-    18.619817198354607,
+    18.61981719835461,
     54.34887875514073
 ],
   "geometry": {"coordinates":[18.61981719835461,54.34887875514073],"type":"Point"}

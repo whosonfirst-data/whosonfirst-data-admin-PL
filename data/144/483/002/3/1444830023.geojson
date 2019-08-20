@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"3d8f323c3b7c340f5398940c094a7eaf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83e77bde69cbb9aeabac83c0dbc481f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830023,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830023,
-    "wof:lastmodified":1566258248,
+    "wof:lastmodified":1566340736,
     "wof:name":"Tarnogaj",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.060803269798953,
+    17.06080326979895,
     51.07818626299427,
-    17.060803269798953,
+    17.06080326979895,
     51.07818626299427
 ],
   "geometry": {"coordinates":[17.06080326979895,51.07818626299427],"type":"Point"}

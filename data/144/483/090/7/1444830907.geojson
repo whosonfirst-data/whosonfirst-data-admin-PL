@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"e89d1d01380461d6baa11dc6a6bfc8de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2edd90043236395c926f2c41b09a818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444830907,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444830907,
-    "wof:lastmodified":1566258239,
+    "wof:lastmodified":1566337027,
     "wof:name":"Zabianka",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     18.57453191030337,
-    54.420542775925014,
+    54.42054277592501,
     18.57453191030337,
-    54.420542775925014
+    54.42054277592501
 ],
   "geometry": {"coordinates":[18.57453191030337,54.42054277592501],"type":"Point"}
 }

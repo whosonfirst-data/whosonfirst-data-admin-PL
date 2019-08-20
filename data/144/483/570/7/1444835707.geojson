@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"5fdac1ea49e662e509fecadfe206be55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6c291ca0076557933652656908be196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835707,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835707,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340172,
     "wof:name":"Osiedle Piastowskie",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.944500396875185,
+    16.94450039687518,
     52.39145467918084,
-    16.944500396875185,
+    16.94450039687518,
     52.39145467918084
 ],
   "geometry": {"coordinates":[16.94450039687518,52.39145467918084],"type":"Point"}

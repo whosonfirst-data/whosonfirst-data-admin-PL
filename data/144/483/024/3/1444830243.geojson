@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"60beed860cfb0e1127bc2c4c6369daf2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e3aaec34d05ab5ae5ca5d8a1307e432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830243,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830243,
-    "wof:lastmodified":1566258248,
+    "wof:lastmodified":1566340762,
     "wof:name":"Szczepin",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.009122328056247,
-    51.118123349227496,
-    17.009122328056247,
-    51.118123349227496
+    17.00912232805625,
+    51.1181233492275,
+    17.00912232805625,
+    51.1181233492275
 ],
   "geometry": {"coordinates":[17.00912232805625,51.1181233492275],"type":"Point"}
 }

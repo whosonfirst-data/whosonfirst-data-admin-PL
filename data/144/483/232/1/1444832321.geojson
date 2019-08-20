@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"9d07d16fdb486a3522cfbb476e7be331",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41e2c00a987ba33f5e2be9a514a6872f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832321,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832321,
-    "wof:lastmodified":1566258242,
+    "wof:lastmodified":1566337178,
     "wof:name":"Knipawa",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.673527822281297,
+    18.6735278222813,
     54.34906754439187,
-    18.673527822281297,
+    18.6735278222813,
     54.34906754439187
 ],
   "geometry": {"coordinates":[18.6735278222813,54.34906754439187],"type":"Point"}

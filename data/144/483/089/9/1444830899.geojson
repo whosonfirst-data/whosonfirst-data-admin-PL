@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"d38ac6bebec29744bba0f3a2d862ec33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f160795b741939fd67082814244caef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444830899,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444830899,
-    "wof:lastmodified":1566258239,
+    "wof:lastmodified":1566337026,
     "wof:name":"Tysiaclecia",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.589924221514842,
-    54.417779390607905,
-    18.589924221514842,
-    54.417779390607905
+    18.58992422151484,
+    54.4177793906079,
+    18.58992422151484,
+    54.4177793906079
 ],
   "geometry": {"coordinates":[18.58992422151484,54.4177793906079],"type":"Point"}
 }

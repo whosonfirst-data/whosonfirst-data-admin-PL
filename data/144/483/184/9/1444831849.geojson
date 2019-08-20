@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ba1e5e245e2c317e5d8ccd67c8e07bd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4bc95c7548ea662f73340dc3d113afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831849,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831849,
-    "wof:lastmodified":1566258241,
+    "wof:lastmodified":1566337124,
     "wof:name":"Diabelkowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.598793397119934,
-    54.359345436994325,
-    18.598793397119934,
-    54.359345436994325
+    18.59879339711993,
+    54.35934543699432,
+    18.59879339711993,
+    54.35934543699432
 ],
   "geometry": {"coordinates":[18.59879339711993,54.35934543699432],"type":"Point"}
 }

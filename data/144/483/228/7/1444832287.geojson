@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"f0f5a823e65b729426b86ed575efde86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ee65a42d241ab6b3ec5268ebe2f037f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832287,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832287,
-    "wof:lastmodified":1566258242,
+    "wof:lastmodified":1566337174,
     "wof:name":"Dolne Miasto",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.660309889605283,
+    18.66030988960528,
     54.34182980396455,
-    18.660309889605283,
+    18.66030988960528,
     54.34182980396455
 ],
   "geometry": {"coordinates":[18.66030988960528,54.34182980396455],"type":"Point"}

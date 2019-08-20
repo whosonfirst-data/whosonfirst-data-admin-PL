@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"aa50744fbc4d1f1cbdb5890eda76e498",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afb9e38b34da66edd35fd9bb6d7d18f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832131,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832131,
-    "wof:lastmodified":1566258242,
+    "wof:lastmodified":1566337154,
     "wof:name":"Lostowice",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.590954571244225,
+    18.59095457124423,
     54.31856892506439,
-    18.590954571244225,
+    18.59095457124423,
     54.31856892506439
 ],
   "geometry": {"coordinates":[18.59095457124423,54.31856892506439],"type":"Point"}

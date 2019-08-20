@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"2d25a4bedfe235e68ddc569fbceab5a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eaef1882212b94b454b5356ac52f7cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831433,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831433,
-    "wof:lastmodified":1566258240,
+    "wof:lastmodified":1566337079,
     "wof:name":"Kolonia",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.629849816859775,
-    54.390318535264136,
-    18.629849816859775,
-    54.390318535264136
+    18.62984981685977,
+    54.39031853526414,
+    18.62984981685977,
+    54.39031853526414
 ],
   "geometry": {"coordinates":[18.62984981685977,54.39031853526414],"type":"Point"}
 }

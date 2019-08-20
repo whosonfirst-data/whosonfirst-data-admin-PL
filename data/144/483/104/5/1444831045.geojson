@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"a8bef38f92a9448dcb0d1f18c9431149",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9682127d543de36941d583be4b002b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444831045,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444831045,
-    "wof:lastmodified":1566258250,
+    "wof:lastmodified":1566340854,
     "wof:name":"Popiele",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.112864086041057,
+    17.11286408604106,
     51.11880742193445,
-    17.112864086041057,
+    17.11286408604106,
     51.11880742193445
 ],
   "geometry": {"coordinates":[17.11286408604106,51.11880742193445],"type":"Point"}

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"5a64eedc3209e7685d91f94f3e326210",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa61736e63e2809fd6c63931ccee4fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835407,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835407,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340138,
     "wof:name":"Osiedle Lotnikow Wielkopolskich",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.862217335454687,
+    16.86221733545469,
     52.41758423913834,
-    16.862217335454687,
+    16.86221733545469,
     52.41758423913834
 ],
   "geometry": {"coordinates":[16.86221733545469,52.41758423913834],"type":"Point"}

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fe3e50d4e7437d5267633fd5d48ec052",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98af1f07eb1d848bc028f7acdcbdf18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834253,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834253,
-    "wof:lastmodified":1566258243,
+    "wof:lastmodified":1566340002,
     "wof:name":"Zegrze",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.969432862030544,
-    52.376576441544785,
-    16.969432862030544,
-    52.376576441544785
+    16.96943286203054,
+    52.37657644154478,
+    16.96943286203054,
+    52.37657644154478
 ],
   "geometry": {"coordinates":[16.96943286203054,52.37657644154478],"type":"Point"}
 }

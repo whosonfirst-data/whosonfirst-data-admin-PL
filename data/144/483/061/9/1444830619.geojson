@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"3f0b45c0a1e85ce5965a129ad8eb50b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06e9755a3951b875d0255532f92ae726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830619,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830619,
-    "wof:lastmodified":1566258249,
+    "wof:lastmodified":1566340802,
     "wof:name":"Biskupin",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.101708827777554,
+    17.10170882777755,
     51.10146902773751,
-    17.101708827777554,
+    17.10170882777755,
     51.10146902773751
 ],
   "geometry": {"coordinates":[17.10170882777755,51.10146902773751],"type":"Point"}

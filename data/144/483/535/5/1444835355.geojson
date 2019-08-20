@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"bf3f0b079b88aae046601ec7c032d10d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3150ba0104bf08597f3169ccae9d3bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835355,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835355,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340133,
     "wof:name":"Grobla",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.941067167608672,
-    52.404547577573354,
-    16.941067167608672,
-    52.404547577573354
+    16.94106716760867,
+    52.40454757757335,
+    16.94106716760867,
+    52.40454757757335
 ],
   "geometry": {"coordinates":[16.94106716760867,52.40454757757335],"type":"Point"}
 }

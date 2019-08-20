@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"55af45d7d7419cae30a36f59f399d168",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b3047e9a37e47ef08e9dd9a1ebe3e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830667,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830667,
-    "wof:lastmodified":1566258249,
+    "wof:lastmodified":1566340808,
     "wof:name":"Zacisze",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     17.07844071701091,
-    51.123254818975745,
+    51.12325481897575,
     17.07844071701091,
-    51.123254818975745
+    51.12325481897575
 ],
   "geometry": {"coordinates":[17.07844071701091,51.12325481897575],"type":"Point"}
 }

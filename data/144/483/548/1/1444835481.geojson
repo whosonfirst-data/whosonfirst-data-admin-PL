@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"6568b777027d13c9a4bf35c6481a7aec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d49c5c7ce6fe677b0acad3d4fba0a9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835481,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835481,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340147,
     "wof:name":"Osiedle Poetow",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.852604293508488,
+    16.85260429350849,
     52.4079161872885,
-    16.852604293508488,
+    16.85260429350849,
     52.4079161872885
 ],
   "geometry": {"coordinates":[16.85260429350849,52.4079161872885],"type":"Point"}

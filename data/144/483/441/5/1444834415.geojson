@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"16cc516b9b6284485a32b2cc6effad2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98e93ae345fa59fa9027c6424c5593fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834415,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834415,
-    "wof:lastmodified":1566258243,
+    "wof:lastmodified":1566340022,
     "wof:name":"Jana III Sobieskiego i Marysienki",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.908378601574658,
-    52.462946890181094,
-    16.908378601574658,
-    52.462946890181094
+    16.90837860157466,
+    52.46294689018109,
+    16.90837860157466,
+    52.46294689018109
 ],
   "geometry": {"coordinates":[16.90837860157466,52.46294689018109],"type":"Point"}
 }

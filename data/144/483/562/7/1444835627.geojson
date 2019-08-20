@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"0c47bf1cfe6e4c82bde03724b2e5159d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e30f90cced96a0d3e092c0821ca5b5f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835627,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835627,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340163,
     "wof:name":"Wierzbiecice",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.919838366644132,
+    16.91983836664413,
     52.39826347306998,
-    16.919838366644132,
+    16.91983836664413,
     52.39826347306998
 ],
   "geometry": {"coordinates":[16.91983836664413,52.39826347306998],"type":"Point"}

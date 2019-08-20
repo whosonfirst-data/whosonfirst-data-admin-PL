@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"db1b04f4a69cda9403a412d777453023",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15d033a328749ec7e702abb1e0107ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832205,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832205,
-    "wof:lastmodified":1566258242,
+    "wof:lastmodified":1566337164,
     "wof:name":"Nowe Ogrody",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.639036129686062,
+    18.63903612968606,
     54.35078268516447,
-    18.639036129686062,
+    18.63903612968606,
     54.35078268516447
 ],
   "geometry": {"coordinates":[18.63903612968606,54.35078268516447],"type":"Point"}

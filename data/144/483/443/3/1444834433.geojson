@@ -29,15 +29,31 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101820347,
+        102079955,
+        85687323,
+        1175613149
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"f65b70699b5db92f70083da4566737f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8625426264f74faa44728d27542a3ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079955,
+            "locality_id":101820347,
+            "neighbourhood_id":1444834433,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834433,
-    "wof:lastmodified":1566258243,
+    "wof:lastmodified":1566340023,
     "wof:name":"Kiekrz",
-    "wof:parent_id":-1,
+    "wof:parent_id":1175613149,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.776542597741127,
-    52.474171347634424,
-    16.776542597741127,
-    52.474171347634424
+    16.77654259774113,
+    52.47417134763442,
+    16.77654259774113,
+    52.47417134763442
 ],
   "geometry": {"coordinates":[16.77654259774113,52.47417134763442],"type":"Point"}
 }

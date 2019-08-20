@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"2a2f8de6fccc3c1e471626c0bf73063d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db7eb44080f25d1b5a56f3b684104e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830249,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830249,
-    "wof:lastmodified":1566258248,
+    "wof:lastmodified":1566340763,
     "wof:name":"Przedmiescie Swidnickie",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.023414779387103,
+    17.0234147793871,
     51.10355114517746,
-    17.023414779387103,
+    17.0234147793871,
     51.10355114517746
 ],
   "geometry": {"coordinates":[17.0234147793871,51.10355114517746],"type":"Point"}

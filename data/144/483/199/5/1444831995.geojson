@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"acf96e674f6480f7cafd17752e7e1259",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c09297bae30c6ae3b0413d6b6f3b84e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831995,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831995,
-    "wof:lastmodified":1566258241,
+    "wof:lastmodified":1566337139,
     "wof:name":"Kolonia Jordana",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     18.63277048627469,
-    54.357719951248036,
+    54.35771995124804,
     18.63277048627469,
-    54.357719951248036
+    54.35771995124804
 ],
   "geometry": {"coordinates":[18.63277048627469,54.35771995124804],"type":"Point"}
 }

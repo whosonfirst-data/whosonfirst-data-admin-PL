@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"01039f4c233c226ea96c5307371b0f17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89f3956e955abf755a4676de068f591b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835549,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835549,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340153,
     "wof:name":"Osiedla spolki Strzecha",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.877294933983404,
+    16.8772949339834,
     52.39267685099802,
-    16.877294933983404,
+    16.8772949339834,
     52.39267685099802
 ],
   "geometry": {"coordinates":[16.8772949339834,52.39267685099802],"type":"Point"}

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b36c7ea69f2c2966dd5cd7af21a2f062",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9ec0fb28943f3f2e152f5cc9f77ca57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835171,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835171,
-    "wof:lastmodified":1566258245,
+    "wof:lastmodified":1566340109,
     "wof:name":"Janikowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.014910207082337,
+    17.01491020708234,
     52.43658258987528,
-    17.014910207082337,
+    17.01491020708234,
     52.43658258987528
 ],
   "geometry": {"coordinates":[17.01491020708234,52.43658258987528],"type":"Point"}

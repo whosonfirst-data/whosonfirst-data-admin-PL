@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"2502e1b59a5b069283f26e83909e2afb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc6a538eacc5629ccc0eb43546c125f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835445,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835445,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340143,
     "wof:name":"Pogodno",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.859756854480366,
-    52.401702385581586,
-    16.859756854480366,
-    52.401702385581586
+    16.85975685448037,
+    52.40170238558159,
+    16.85975685448037,
+    52.40170238558159
 ],
   "geometry": {"coordinates":[16.85975685448037,52.40170238558159],"type":"Point"}
 }

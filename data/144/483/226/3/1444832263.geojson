@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"cab59aebc8ea13d106b14bf35b98d777",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7f76846ba86d33d8b4f26763f6e3603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832263,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832263,
-    "wof:lastmodified":1566258242,
+    "wof:lastmodified":1566337170,
     "wof:name":"Olowianka",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.660309889605283,
-    54.352235739327625,
-    18.660309889605283,
-    54.352235739327625
+    18.66030988960528,
+    54.35223573932763,
+    18.66030988960528,
+    54.35223573932763
 ],
   "geometry": {"coordinates":[18.66030988960528,54.35223573932763],"type":"Point"}
 }

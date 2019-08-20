@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"e10f48fd79eb638947735dfd6721ec8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ebb58b500a2ffb6b991a310189f27bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830701,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830701,
-    "wof:lastmodified":1566258249,
+    "wof:lastmodified":1566340813,
     "wof:name":"Zakrzow",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.128121277836982,
-    51.160808483634206,
-    17.128121277836982,
-    51.160808483634206
+    17.12812127783698,
+    51.16080848363421,
+    17.12812127783698,
+    51.16080848363421
 ],
   "geometry": {"coordinates":[17.12812127783698,51.16080848363421],"type":"Point"}
 }

@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"8de7042e47ee717ea1a552c4e5ae4d4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9cc89d38261643d30e0b624fe9e3d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444836057,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444836057,
-    "wof:lastmodified":1566258247,
+    "wof:lastmodified":1566340213,
     "wof:name":"Staroleka Mala",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -48,9 +63,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.932884637856827,
+    16.93288463785683,
     52.3674409411309,
-    16.932884637856827,
+    16.93288463785683,
     52.3674409411309
 ],
   "geometry": {"coordinates":[16.93288463785683,52.3674409411309],"type":"Point"}

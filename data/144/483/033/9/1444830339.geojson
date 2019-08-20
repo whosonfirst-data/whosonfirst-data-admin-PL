@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"f0757abc0d3b3f71f87e3792e1c6883b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"150a51b1b3f629d7e33cd6ee38961f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830339,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830339,
-    "wof:lastmodified":1566258248,
+    "wof:lastmodified":1566340772,
     "wof:name":"Partynice",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.003748366355843,
-    51.061890976453455,
-    17.003748366355843,
-    51.061890976453455
+    17.00374836635584,
+    51.06189097645345,
+    17.00374836635584,
+    51.06189097645345
 ],
   "geometry": {"coordinates":[17.00374836635584,51.06189097645345],"type":"Point"}
 }

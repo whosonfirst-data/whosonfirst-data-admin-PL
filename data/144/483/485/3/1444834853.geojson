@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"0494656c6e8ea7918e0c06cd964b3057",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c693bd9447938e598cd9e2f77454487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834853,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834853,
-    "wof:lastmodified":1566258244,
+    "wof:lastmodified":1566340074,
     "wof:name":"Strzeszynek",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.828485857911303,
-    52.461360596185465,
-    16.828485857911303,
-    52.461360596185465
+    16.8284858579113,
+    52.46136059618546,
+    16.8284858579113,
+    52.46136059618546
 ],
   "geometry": {"coordinates":[16.8284858579113,52.46136059618546],"type":"Point"}
 }

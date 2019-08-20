@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"d48904aa3a2d336a8bcc0de934fe6611",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3261ca74867d9dfa4e773917b2f6adfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835639,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835639,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340163,
     "wof:name":"Debiec",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.906219890553682,
+    16.90621989055368,
     52.37207004549037,
-    16.906219890553682,
+    16.90621989055368,
     52.37207004549037
 ],
   "geometry": {"coordinates":[16.90621989055368,52.37207004549037],"type":"Point"}

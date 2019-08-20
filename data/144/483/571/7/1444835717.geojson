@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b04e6f603e1e85e7d5f70e7805e12386",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ddf49c0a6661c21b9f3691231d4ff1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835717,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835717,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340173,
     "wof:name":"Osiedle Polanka",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     16.96487089052309,
-    52.397181120281154,
+    52.39718112028115,
     16.96487089052309,
-    52.397181120281154
+    52.39718112028115
 ],
   "geometry": {"coordinates":[16.96487089052309,52.39718112028115],"type":"Point"}
 }

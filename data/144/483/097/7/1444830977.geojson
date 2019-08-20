@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"6e23884b895f228917b441b4d07531c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa64b476938a8cf7c196744f53f2aaf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830977,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830977,
-    "wof:lastmodified":1566258250,
+    "wof:lastmodified":1566340845,
     "wof:name":"Grabiszynek",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.985661269196687,
+    16.98566126919669,
     51.08235089724214,
-    16.985661269196687,
+    16.98566126919669,
     51.08235089724214
 ],
   "geometry": {"coordinates":[16.98566126919669,51.08235089724214],"type":"Point"}

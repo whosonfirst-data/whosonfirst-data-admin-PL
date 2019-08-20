@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"c27b49883c6dd13775d8a24ed917df79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7eda1bff4b1ad5c96fdab400d4a2fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834523,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834523,
-    "wof:lastmodified":1566258243,
+    "wof:lastmodified":1566340036,
     "wof:name":"Grunwald",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     16.87988279866273,
-    52.400497908299705,
+    52.40049790829971,
     16.87988279866273,
-    52.400497908299705
+    52.40049790829971
 ],
   "geometry": {"coordinates":[16.87988279866273,52.40049790829971],"type":"Point"}
 }

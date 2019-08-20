@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"8581fe7325217ff48b4b98a2439e2a2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e583f527e270390e561cc193e9c776c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835751,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835751,
-    "wof:lastmodified":1566258247,
+    "wof:lastmodified":1566340177,
     "wof:name":"Osiedle Bohaterow II Wojny Swiatowej",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.949821902238245,
-    52.383003339430665,
-    16.949821902238245,
-    52.383003339430665
+    16.94982190223825,
+    52.38300333943067,
+    16.94982190223825,
+    52.38300333943067
 ],
   "geometry": {"coordinates":[16.94982190223825,52.38300333943067],"type":"Point"}
 }

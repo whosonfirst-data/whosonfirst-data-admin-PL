@@ -26,15 +26,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"d3541629eb39856629b8497620773195",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a46d517812bdf3ddabcc16c7826b2ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835035,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835035,
-    "wof:lastmodified":1566258245,
+    "wof:lastmodified":1566340094,
     "wof:name":"Osiedle Slowianskie",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.915003235427147,
+    16.91500323542715,
     52.42452857111616,
-    16.915003235427147,
+    16.91500323542715,
     52.42452857111616
 ],
   "geometry": {"coordinates":[16.91500323542715,52.42452857111616],"type":"Point"}

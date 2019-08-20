@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"354fdf62c74db005ee92f7c5798396e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2dec36cd125121e8315b35e8681c964b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831493,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831493,
-    "wof:lastmodified":1566258240,
+    "wof:lastmodified":1566337084,
     "wof:name":"Swieta Studzienka",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.612454788576184,
-    54.372573279260195,
-    18.612454788576184,
-    54.372573279260195
+    18.61245478857618,
+    54.37257327926019,
+    18.61245478857618,
+    54.37257327926019
 ],
   "geometry": {"coordinates":[18.61245478857618,54.37257327926019],"type":"Point"}
 }

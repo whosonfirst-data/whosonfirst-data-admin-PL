@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"113faacf4e164f2d654825134c2f00b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58dd636ff66eca6f2cfac37743c8f016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835467,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835467,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340144,
     "wof:name":"Wydmy",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.832863225226106,
+    16.83286322522611,
     52.4047046687185,
-    16.832863225226106,
+    16.83286322522611,
     52.4047046687185
 ],
   "geometry": {"coordinates":[16.83286322522611,52.4047046687185],"type":"Point"}

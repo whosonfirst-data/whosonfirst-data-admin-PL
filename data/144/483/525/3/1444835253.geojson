@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b4c4dc6a40d537cc2c6f924048207b62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91be6178f23ae5de1ea029b6fdaaba92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835253,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835253,
-    "wof:lastmodified":1566258245,
+    "wof:lastmodified":1566340122,
     "wof:name":"Berdychowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.953054859797536,
+    16.95305485979754,
     52.40667698992654,
-    16.953054859797536,
+    16.95305485979754,
     52.40667698992654
 ],
   "geometry": {"coordinates":[16.95305485979754,52.40667698992654],"type":"Point"}

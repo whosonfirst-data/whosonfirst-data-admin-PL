@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"e119001322dfb8302a327393ab62b856",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b694e61302bb4c2de29798ef79b388e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830573,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830573,
-    "wof:lastmodified":1566258249,
+    "wof:lastmodified":1566340797,
     "wof:name":"Biskupin-Sepolno-Dabie-Bartoszowice",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.095677413315933,
+    17.09567741331593,
     51.10491524023837,
-    17.095677413315933,
+    17.09567741331593,
     51.10491524023837
 ],
   "geometry": {"coordinates":[17.09567741331593,51.10491524023837],"type":"Point"}

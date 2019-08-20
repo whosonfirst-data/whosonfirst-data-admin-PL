@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ad1bed8ee40baacad37430f16bfca172",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a81b3ee506ec3dc01ece550c3d4990ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831613,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831613,
-    "wof:lastmodified":1566258240,
+    "wof:lastmodified":1566337098,
     "wof:name":"Sklady",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.638547331001565,
+    18.63854733100156,
     54.37423982683221,
-    18.638547331001565,
+    18.63854733100156,
     54.37423982683221
 ],
   "geometry": {"coordinates":[18.63854733100156,54.37423982683221],"type":"Point"}

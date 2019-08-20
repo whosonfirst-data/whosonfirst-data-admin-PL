@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"bd8784118facda85947ca021e0096d53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b109d1663ad3151b4151755bda08991f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834473,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834473,
-    "wof:lastmodified":1566258243,
+    "wof:lastmodified":1566340031,
     "wof:name":"Wola",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.856536839650527,
+    16.85653683965053,
     52.42625577512293,
-    16.856536839650527,
+    16.85653683965053,
     52.42625577512293
 ],
   "geometry": {"coordinates":[16.85653683965053,52.42625577512293],"type":"Point"}

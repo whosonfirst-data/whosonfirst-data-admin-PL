@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"3787280369ae1a057af571b096582a6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41933b48d30b82ac0492ed0c5a38b152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835685,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835685,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340168,
     "wof:name":"Osiedle Jagiellonskie",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.950336886628232,
-    52.390826126624596,
-    16.950336886628232,
-    52.390826126624596
+    16.95033688662823,
+    52.3908261266246,
+    16.95033688662823,
+    52.3908261266246
 ],
   "geometry": {"coordinates":[16.95033688662823,52.3908261266246],"type":"Point"}
 }

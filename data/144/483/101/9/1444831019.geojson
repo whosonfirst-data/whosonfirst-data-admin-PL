@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"aae94e67326c41283a6337b37f1151c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"185e965bb6cf45c0f772561dda62977b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444831019,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444831019,
-    "wof:lastmodified":1566258250,
+    "wof:lastmodified":1566340851,
     "wof:name":"Polanka",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.030653905986135,
+    17.03065390598614,
     51.13493532678594,
-    17.030653905986135,
+    17.03065390598614,
     51.13493532678594
 ],
   "geometry": {"coordinates":[17.03065390598614,51.13493532678594],"type":"Point"}

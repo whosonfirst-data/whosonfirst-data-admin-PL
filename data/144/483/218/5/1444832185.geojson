@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"f9703d8e1bec45804eb1ca40e5b4e81f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f176c1790e04cb224ad4ee8755fdfea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832185,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832185,
-    "wof:lastmodified":1566258242,
+    "wof:lastmodified":1566337159,
     "wof:name":"Zabornia",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.584251599819144,
+    18.58425159981914,
     54.34425999718335,
-    18.584251599819144,
+    18.58425159981914,
     54.34425999718335
 ],
   "geometry": {"coordinates":[18.58425159981914,54.34425999718335],"type":"Point"}

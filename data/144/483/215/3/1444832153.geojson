@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b51c9e3b372cfd50272956dc2ef80a34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e87042eed470ea15dfe102630e9fde6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832153,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832153,
-    "wof:lastmodified":1566258242,
+    "wof:lastmodified":1566337158,
     "wof:name":"Zakoniczyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     18.57689467996235,
-    54.320523726485526,
+    54.32052372648553,
     18.57689467996235,
-    54.320523726485526
+    54.32052372648553
 ],
   "geometry": {"coordinates":[18.57689467996235,54.32052372648553],"type":"Point"}
 }

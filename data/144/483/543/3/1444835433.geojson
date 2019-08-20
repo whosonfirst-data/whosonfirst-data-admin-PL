@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ff5ffffa7702ce41b63cc9dc77c974cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22c71f21b906f13e006e0b88eb68cc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835433,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835433,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340142,
     "wof:name":"Marcelin",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.860557941309214,
+    16.86055794130921,
     52.40833506377833,
-    16.860557941309214,
+    16.86055794130921,
     52.40833506377833
 ],
   "geometry": {"coordinates":[16.86055794130921,52.40833506377833],"type":"Point"}

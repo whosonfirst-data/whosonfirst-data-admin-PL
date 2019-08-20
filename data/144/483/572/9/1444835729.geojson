@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fb6ef1bf819e5b35e35c2b5a2a08290e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31c75e280c630dd4a71d043ad68767c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835729,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835729,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340173,
     "wof:name":"Osiedle Powstan Narodowych",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     16.95571561247909,
-    52.388800716420334,
+    52.38880071642033,
     16.95571561247909,
-    52.388800716420334
+    52.38880071642033
 ],
   "geometry": {"coordinates":[16.95571561247909,52.38880071642033],"type":"Point"}
 }

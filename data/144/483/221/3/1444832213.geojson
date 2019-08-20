@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b9dbe2d4320d6b3041caa66566c03e20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b438af4895c317c8f1a2d6d7215f88e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832213,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832213,
-    "wof:lastmodified":1566258242,
+    "wof:lastmodified":1566337164,
     "wof:name":"Stare Przedmiescie",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.650038812049672,
-    54.343564320423354,
-    18.650038812049672,
-    54.343564320423354
+    18.65003881204967,
+    54.34356432042335,
+    18.65003881204967,
+    54.34356432042335
 ],
   "geometry": {"coordinates":[18.65003881204967,54.34356432042335],"type":"Point"}
 }

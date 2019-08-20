@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"a326f95c89fe36b58b1e2d18a561e518",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6cbf58318026bcfd66ea6629245dd14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831391,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831391,
-    "wof:lastmodified":1566258240,
+    "wof:lastmodified":1566337074,
     "wof:name":"Wrzeszcz Dolny",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.620236774913586,
+    18.62023677491359,
     54.38592042635251,
-    18.620236774913586,
+    18.62023677491359,
     54.38592042635251
 ],
   "geometry": {"coordinates":[18.62023677491359,54.38592042635251],"type":"Point"}

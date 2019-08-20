@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"93c211b89c6a07b3d50ae3392693ddaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69acd73c76f7a4ad98c49d9a60b4191b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834393,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834393,
-    "wof:lastmodified":1566258243,
+    "wof:lastmodified":1566340018,
     "wof:name":"Winogrady",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.933727277658967,
-    52.433547590339366,
-    16.933727277658967,
-    52.433547590339366
+    16.93372727765897,
+    52.43354759033937,
+    16.93372727765897,
+    52.43354759033937
 ],
   "geometry": {"coordinates":[16.93372727765897,52.43354759033937],"type":"Point"}
 }

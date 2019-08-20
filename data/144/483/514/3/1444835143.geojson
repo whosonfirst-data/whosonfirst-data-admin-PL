@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"9cc88f7bc9588b4fe840447adf357c70",
-    "wof:hierarchy":[],
+    "wof:geomhash":"203d04e1c817adaa6876ece407ec151d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835143,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835143,
-    "wof:lastmodified":1566258245,
+    "wof:lastmodified":1566340108,
     "wof:name":"Nadolnik",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.967932186619045,
-    52.427197834827915,
-    16.967932186619045,
-    52.427197834827915
+    16.96793218661904,
+    52.42719783482791,
+    16.96793218661904,
+    52.42719783482791
 ],
   "geometry": {"coordinates":[16.96793218661904,52.42719783482791],"type":"Point"}
 }

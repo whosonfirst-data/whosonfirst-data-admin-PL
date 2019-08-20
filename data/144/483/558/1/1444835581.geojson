@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"2c4ded2968715acc944d3b7d7f36b72f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f767413bda50f4a9131a4ce812709f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835581,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835581,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340158,
     "wof:name":"City Park Pozna\u0144",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     16.89414636763315,
-    52.400253536333544,
+    52.40025353633354,
     16.89414636763315,
-    52.400253536333544
+    52.40025353633354
 ],
   "geometry": {"coordinates":[16.89414636763315,52.40025353633354],"type":"Point"}
 }

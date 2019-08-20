@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"03290449886b6a4f964f41043d13325d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd12886ad234f701a598b66aff748e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832521,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832521,
-    "wof:lastmodified":1566258243,
+    "wof:lastmodified":1566337199,
     "wof:name":"Orunia nad Motlaw\u0105",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.629329082652813,
+    18.62932908265281,
     54.32140574061954,
-    18.629329082652813,
+    18.62932908265281,
     54.32140574061954
 ],
   "geometry": {"coordinates":[18.62932908265281,54.32140574061954],"type":"Point"}

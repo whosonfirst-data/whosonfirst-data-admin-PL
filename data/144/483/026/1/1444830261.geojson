@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b38c417bdbc01264b0f5e48210205631",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd34815bb60452c38aa9a67e28dad835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830261,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830261,
-    "wof:lastmodified":1566258248,
+    "wof:lastmodified":1566340766,
     "wof:name":"Nadodrze",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     17.03221892940691,
-    51.121281241259794,
+    51.12128124125979,
     17.03221892940691,
-    51.121281241259794
+    51.12128124125979
 ],
   "geometry": {"coordinates":[17.03221892940691,51.12128124125979],"type":"Point"}
 }

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"d452e8d383849fdee6f95b54123bd85d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20541a1bbf7a6c329956f67fcd59f6a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832347,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832347,
-    "wof:lastmodified":1566258242,
+    "wof:lastmodified":1566337179,
     "wof:name":"Gesia Karczma",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.681571387991376,
+    18.68157138799138,
     54.35224526736504,
-    18.681571387991376,
+    18.68157138799138,
     54.35224526736504
 ],
   "geometry": {"coordinates":[18.68157138799138,54.35224526736504],"type":"Point"}

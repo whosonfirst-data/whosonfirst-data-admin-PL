@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"a77361040bda78acccd968aab0fa08df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e03aef42cd3de02bc95a3cb6281862e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834745,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834745,
-    "wof:lastmodified":1566258244,
+    "wof:lastmodified":1566340062,
     "wof:name":"Wilczy Mlyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.955687002235184,
-    52.439303446236956,
-    16.955687002235184,
-    52.439303446236956
+    16.95568700223518,
+    52.43930344623696,
+    16.95568700223518,
+    52.43930344623696
 ],
   "geometry": {"coordinates":[16.95568700223518,52.43930344623696],"type":"Point"}
 }

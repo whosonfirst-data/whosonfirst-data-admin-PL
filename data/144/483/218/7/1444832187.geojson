@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ddd0d77f56fd4bb00d3c99611e8feb2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2df532a714da1838e57ef42f3b64b140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832187,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832187,
-    "wof:lastmodified":1566258242,
+    "wof:lastmodified":1566337159,
     "wof:name":"Srodmiescie",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.656390286192693,
+    18.65639028619269,
     54.34957256626432,
-    18.656390286192693,
+    18.65639028619269,
     54.34957256626432
 ],
   "geometry": {"coordinates":[18.65639028619269,54.34957256626432],"type":"Point"}

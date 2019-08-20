@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"da30e75897af2a97235e1289e7c657dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ed74b7b6d925b286f1243b87217ce36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830225,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830225,
-    "wof:lastmodified":1566258248,
+    "wof:lastmodified":1566340758,
     "wof:name":"Muchobor Wielki",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     16.94223365582782,
-    51.098381577535584,
+    51.09838157753558,
     16.94223365582782,
-    51.098381577535584
+    51.09838157753558
 ],
   "geometry": {"coordinates":[16.94223365582782,51.09838157753558],"type":"Point"}
 }

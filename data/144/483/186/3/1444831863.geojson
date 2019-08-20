@@ -26,15 +26,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"f1b82fc2b4ad49608d7327851ec289cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b6a02e29d942ca4e3335c72b6d511cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831863,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831863,
-    "wof:lastmodified":1566258241,
+    "wof:lastmodified":1566337124,
     "wof:name":"Suchanino",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.606565846709362,
+    18.60656584670936,
     54.35642787648544,
-    18.606565846709362,
+    18.60656584670936,
     54.35642787648544
 ],
   "geometry": {"coordinates":[18.60656584670936,54.35642787648544],"type":"Point"}

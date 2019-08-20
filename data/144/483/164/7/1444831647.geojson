@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"c7769e56492573b92f3907b80dd1497c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9a9c8ccf6698c693980be522d754d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831647,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831647,
-    "wof:lastmodified":1566258241,
+    "wof:lastmodified":1566337100,
     "wof:name":"Westerplatte",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.679517200248423,
+    18.67951720024842,
     54.40552502839154,
-    18.679517200248423,
+    18.67951720024842,
     54.40552502839154
 ],
   "geometry": {"coordinates":[18.67951720024842,54.40552502839154],"type":"Point"}

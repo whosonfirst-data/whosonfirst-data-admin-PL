@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"f9399a4e606f1f6d628ec81e176acca7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55fd48fe7c18d462f98b2461c0e3de51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831877,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831877,
-    "wof:lastmodified":1566258241,
+    "wof:lastmodified":1566337128,
     "wof:name":"Siedlce",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.614767449957103,
-    54.349536053796264,
-    18.614767449957103,
-    54.349536053796264
+    18.6147674499571,
+    54.34953605379626,
+    18.6147674499571,
+    54.34953605379626
 ],
   "geometry": {"coordinates":[18.6147674499571,54.34953605379626],"type":"Point"}
 }

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"837275bc32084106c8f24b8b2c8017a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00ca5e8eccb31824550f8078dd8aadeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834875,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834875,
-    "wof:lastmodified":1566258244,
+    "wof:lastmodified":1566340077,
     "wof:name":"Strzeszyn Grecki",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.876436626666774,
+    16.87643662666677,
     52.44626179524249,
-    16.876436626666774,
+    16.87643662666677,
     52.44626179524249
 ],
   "geometry": {"coordinates":[16.87643662666677,52.44626179524249],"type":"Point"}

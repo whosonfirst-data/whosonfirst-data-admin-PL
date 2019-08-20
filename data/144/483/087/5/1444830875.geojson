@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"c896c939196143622fcf593ed1537bf5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c05094d6ee8d0e9ef08d5860002f59eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830875,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830875,
-    "wof:lastmodified":1566258250,
+    "wof:lastmodified":1566340833,
     "wof:name":"Marszowice",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.884956657119677,
+    16.88495665711968,
     51.16808836615951,
-    16.884956657119677,
+    16.88495665711968,
     51.16808836615951
 ],
   "geometry": {"coordinates":[16.88495665711968,51.16808836615951],"type":"Point"}

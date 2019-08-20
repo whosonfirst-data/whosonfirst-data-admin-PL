@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"42e5aa56e5adf391e7d690617dfb0604",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff9477d4100102223e149c4a79fde450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832297,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832297,
-    "wof:lastmodified":1566258242,
+    "wof:lastmodified":1566337174,
     "wof:name":"Sienna Grobla",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.673585042769073,
-    54.354169890174326,
-    18.673585042769073,
-    54.354169890174326
+    18.67358504276907,
+    54.35416989017433,
+    18.67358504276907,
+    54.35416989017433
 ],
   "geometry": {"coordinates":[18.67358504276907,54.35416989017433],"type":"Point"}
 }

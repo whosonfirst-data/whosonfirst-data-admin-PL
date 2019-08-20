@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"983af7dc13673ab48107a1496967dcc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bd74cea5c5bd689c9e4273969701061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834367,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834367,
-    "wof:lastmodified":1566258243,
+    "wof:lastmodified":1566340016,
     "wof:name":"Umultowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     16.94734575374941,
-    52.468838340999575,
+    52.46883834099958,
     16.94734575374941,
-    52.468838340999575
+    52.46883834099958
 ],
   "geometry": {"coordinates":[16.94734575374941,52.46883834099958],"type":"Point"}
 }

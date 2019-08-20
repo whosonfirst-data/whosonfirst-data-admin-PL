@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"d7e50e482b4f127bec1e417837372dd4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2194ec1a1af1ecef2b25b53e86060ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444831005,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444831005,
-    "wof:lastmodified":1566258250,
+    "wof:lastmodified":1566340850,
     "wof:name":"Mirowiec",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.073416920367976,
+    17.07341692036798,
     51.13482770648848,
-    17.073416920367976,
+    17.07341692036798,
     51.13482770648848
 ],
   "geometry": {"coordinates":[17.07341692036798,51.13482770648848],"type":"Point"}

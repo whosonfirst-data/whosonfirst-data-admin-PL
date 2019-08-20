@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"8300f73180cd1e8e6de3c10d047d3f9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92bec0f9e73211b5d2d52d4e40c53d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830787,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830787,
-    "wof:lastmodified":1566258250,
+    "wof:lastmodified":1566340822,
     "wof:name":"Osobowice",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.992750325056807,
+    16.99275032505681,
     51.14237845536357,
-    16.992750325056807,
+    16.99275032505681,
     51.14237845536357
 ],
   "geometry": {"coordinates":[16.99275032505681,51.14237845536357],"type":"Point"}

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"89738bd81c16a56aff0cddbfe27bcaa3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82cec03f151f8fbf3cdb295c2cb2f782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834561,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834561,
-    "wof:lastmodified":1566258244,
+    "wof:lastmodified":1566340038,
     "wof:name":"Junikowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.844749419168892,
-    52.387159367667515,
-    16.844749419168892,
-    52.387159367667515
+    16.84474941916889,
+    52.38715936766751,
+    16.84474941916889,
+    52.38715936766751
 ],
   "geometry": {"coordinates":[16.84474941916889,52.38715936766751],"type":"Point"}
 }

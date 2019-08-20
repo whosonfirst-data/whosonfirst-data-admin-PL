@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"aef2d673775052b4aadb4a78b86730f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d9a907051110dc1191612efc3232040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834673,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834673,
-    "wof:lastmodified":1566258244,
+    "wof:lastmodified":1566340052,
     "wof:name":"Chartowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.979310208134553,
+    16.97931020813455,
     52.3890967193426,
-    16.979310208134553,
+    16.97931020813455,
     52.3890967193426
 ],
   "geometry": {"coordinates":[16.97931020813455,52.3890967193426],"type":"Point"}

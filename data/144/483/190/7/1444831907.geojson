@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"190922e5e29cf97bd3536bdd28772cd7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6af2715bc765ee9251543bdaad068d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831907,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831907,
-    "wof:lastmodified":1566258241,
+    "wof:lastmodified":1566337129,
     "wof:name":"Szkodka",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.610747751042258,
-    54.350062693585954,
-    18.610747751042258,
-    54.350062693585954
+    18.61074775104226,
+    54.35006269358595,
+    18.61074775104226,
+    54.35006269358595
 ],
   "geometry": {"coordinates":[18.61074775104226,54.35006269358595],"type":"Point"}
 }

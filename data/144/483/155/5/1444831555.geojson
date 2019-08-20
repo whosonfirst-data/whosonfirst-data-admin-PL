@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"cdd4691db32aaca8f30cea0b6f6d6b94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"371bc954b81509024b0028c431d64500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831555,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831555,
-    "wof:lastmodified":1566258240,
+    "wof:lastmodified":1566337090,
     "wof:name":"Nowy Port",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.669560835375574,
+    18.66956083537557,
     54.40096200688024,
-    18.669560835375574,
+    18.66956083537557,
     54.40096200688024
 ],
   "geometry": {"coordinates":[18.66956083537557,54.40096200688024],"type":"Point"}

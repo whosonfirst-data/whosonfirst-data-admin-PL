@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"7f32ebde9a062a104ab241bc6117c2bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f787281fcf4e8a03bd2d937114d8c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831937,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831937,
-    "wof:lastmodified":1566258241,
+    "wof:lastmodified":1566337133,
     "wof:name":"Kolonia Wyzyny",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.616898953478074,
+    18.61689895347807,
     54.35441462352858,
-    18.616898953478074,
+    18.61689895347807,
     54.35441462352858
 ],
   "geometry": {"coordinates":[18.61689895347807,54.35441462352858],"type":"Point"}

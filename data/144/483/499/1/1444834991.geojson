@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"8a95708c1db7231aa5eb154dc4819d8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1c07f855aec68bd3e2cc26972b70183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834991,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834991,
-    "wof:lastmodified":1566258245,
+    "wof:lastmodified":1566340089,
     "wof:name":"Bonin",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.907278469577523,
+    16.90727846957752,
     52.4303902716428,
-    16.907278469577523,
+    16.90727846957752,
     52.4303902716428
 ],
   "geometry": {"coordinates":[16.90727846957752,52.4303902716428],"type":"Point"}

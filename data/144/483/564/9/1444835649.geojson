@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"09aabf732fab3a34fa55bf09dd259a9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf4d7f0d144784233bd4493d441001e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835649,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835649,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340164,
     "wof:name":"Piotrowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     16.95016522516491,
-    52.402313331846756,
+    52.40231333184676,
     16.95016522516491,
-    52.402313331846756
+    52.40231333184676
 ],
   "geometry": {"coordinates":[16.95016522516491,52.40231333184676],"type":"Point"}
 }

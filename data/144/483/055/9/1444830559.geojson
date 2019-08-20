@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"5652e05b399e2387ddad15caa6c50fbb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"763143e761c39338f7dcebe6fd19ff18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830559,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830559,
-    "wof:lastmodified":1566258249,
+    "wof:lastmodified":1566340797,
     "wof:name":"Zacisze-Zalesie-Szczytniki",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.084929489915123,
-    51.120922415860626,
-    17.084929489915123,
-    51.120922415860626
+    17.08492948991512,
+    51.12092241586063,
+    17.08492948991512,
+    51.12092241586063
 ],
   "geometry": {"coordinates":[17.08492948991512,51.12092241586063],"type":"Point"}
 }

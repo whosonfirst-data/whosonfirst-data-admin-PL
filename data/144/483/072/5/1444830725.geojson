@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752181,
+        102079661,
+        85687301
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"e6882cbb593ecb21f7a74a8f4dc0587c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21bd7e45c3e2361149b227aa7b8a1657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079661,
+            "locality_id":101752181,
+            "neighbourhood_id":1444830725,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1444830725,
-    "wof:lastmodified":1566258249,
+    "wof:lastmodified":1566340814,
     "wof:name":"Rozanka",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.020241855191667,
-    51.143990244319816,
-    17.020241855191667,
-    51.143990244319816
+    17.02024185519167,
+    51.14399024431982,
+    17.02024185519167,
+    51.14399024431982
 ],
   "geometry": {"coordinates":[17.02024185519167,51.14399024431982],"type":"Point"}
 }

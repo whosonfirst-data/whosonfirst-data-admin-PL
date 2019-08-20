@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"2fc0832efae21c2ca0efe69e03199edb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df4aa50351597acca0c95ea9ce20b8ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444835515,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444835515,
-    "wof:lastmodified":1566258246,
+    "wof:lastmodified":1566340149,
     "wof:name":"Raszyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.870113762767637,
+    16.87011376276764,
     52.38700221405354,
-    16.870113762767637,
+    16.87011376276764,
     52.38700221405354
 ],
   "geometry": {"coordinates":[16.87011376276764,52.38700221405354],"type":"Point"}

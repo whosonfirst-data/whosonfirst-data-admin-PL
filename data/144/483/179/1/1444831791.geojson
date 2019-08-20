@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"925cfb2e7716e10685e50ffeeb7e4d6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb4864ced2d3cc15379a676ec0313947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831791,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831791,
-    "wof:lastmodified":1566258241,
+    "wof:lastmodified":1566337118,
     "wof:name":"Piecki-Migowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -49,9 +64,9 @@
 },
   "bbox": [
     18.57780778322847,
-    54.355420575339366,
+    54.35542057533937,
     18.57780778322847,
-    54.355420575339366
+    54.35542057533937
 ],
   "geometry": {"coordinates":[18.57780778322847,54.35542057533937],"type":"Point"}
 }

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b8864d26c6fb90fa155338aa2ad359dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c3d09788a389950c842dcf91d7fd9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444832501,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444832501,
-    "wof:lastmodified":1566258243,
+    "wof:lastmodified":1566337198,
     "wof:name":"Ptaszniki",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.629656056868672,
+    18.62965605686867,
     54.32676893295253,
-    18.629656056868672,
+    18.62965605686867,
     54.32676893295253
 ],
   "geometry": {"coordinates":[18.62965605686867,54.32676893295253],"type":"Point"}

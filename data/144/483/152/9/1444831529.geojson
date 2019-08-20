@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"961f86102d19a49b0fb8c364e7468ed6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"042b3a1174024eaec4ed7cbbe9e8b8a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831529,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831529,
-    "wof:lastmodified":1566258240,
+    "wof:lastmodified":1566337089,
     "wof:name":"Zaspa-Mlyniec",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -49,9 +64,9 @@
 },
   "bbox": [
     18.5962041700481,
-    54.393100428954575,
+    54.39310042895458,
     18.5962041700481,
-    54.393100428954575
+    54.39310042895458
 ],
   "geometry": {"coordinates":[18.5962041700481,54.39310042895458],"type":"Point"}
 }

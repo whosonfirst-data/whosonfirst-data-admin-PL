@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752271,
+        102080225,
+        85687267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"63bcd0be1bdfd3c3cb87c70cdcd501fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b6afb23ed458fab86b0c2454c5a4c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080225,
+            "locality_id":101752271,
+            "neighbourhood_id":1444831259,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1444831259,
-    "wof:lastmodified":1566258240,
+    "wof:lastmodified":1566337068,
     "wof:name":"Nowiec",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.565362327137407,
+    18.56536232713741,
     54.36285596014366,
-    18.565362327137407,
+    18.56536232713741,
     54.36285596014366
 ],
   "geometry": {"coordinates":[18.56536232713741,54.36285596014366],"type":"Point"}

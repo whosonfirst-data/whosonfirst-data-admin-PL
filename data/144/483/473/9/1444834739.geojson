@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752223,
+        102079921,
+        85687323
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"2b1ceada49ffd30ca6ed6daf2bafde39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d58451be88118234e91f6c128e9b85dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079921,
+            "locality_id":101752223,
+            "neighbourhood_id":1444834739,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1444834739,
-    "wof:lastmodified":1566258244,
+    "wof:lastmodified":1566340062,
     "wof:name":"Osiedle Rozany Potok",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.937920040781044,
-    52.466415619648366,
-    16.937920040781044,
-    52.466415619648366
+    16.93792004078104,
+    52.46641561964837,
+    16.93792004078104,
+    52.46641561964837
 ],
   "geometry": {"coordinates":[16.93792004078104,52.46641561964837],"type":"Point"}
 }
