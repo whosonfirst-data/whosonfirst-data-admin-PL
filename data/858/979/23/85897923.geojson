@@ -5,14 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":30545174.658101,
-    "geom:bbox":"16.876534,52.411708,16.876534,52.411708",
-    "geom:latitude":52.411708,
-    "geom:longitude":16.876534,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.90377,52.412267,16.90377,52.412267",
+    "geom:latitude":52.412267,
+    "geom:longitude":16.90377,
     "gn:id":"",
     "iso:country":"PL",
-    "lbl:latitude":52.411708,
-    "lbl:longitude":16.876534,
+    "lbl:latitude":52.412267,
+    "lbl:longitude":16.90377,
     "mps:latitude":52.407087,
     "mps:longitude":16.856372,
     "mz:hierarchy_label":0,
@@ -20,11 +20,14 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "mz:tier_metro":30,
+    "name:eng_x_variant":[
+        "Jeyce"
+    ],
     "name:pol_x_colloquial":[
         "Jezyce"
     ],
@@ -55,18 +58,19 @@
     "qs:woe_lau":12618604,
     "qs:woe_local":514048,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85687323,
         102191581,
         85633723,
         101752223,
-        102079921,
-        85687323
+        102079921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +79,7 @@
         "qs_pg:id":1060250
     },
     "wof:country":"PL",
-    "wof:geomhash":"166a0dcddf87068224bf5b1551267ca5",
+    "wof:geomhash":"6b48862e3c6109b47b867d2a72c06669",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +94,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1531931975,
+    "wof:lastmodified":1566247509,
     "wof:name":"Jeyce",
     "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
@@ -100,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.876534,
-    52.411708,
-    16.876534,
-    52.411708
+    16.90377,
+    52.412267,
+    16.90377,
+    52.412267
 ],
-  "geometry": {"coordinates":[16.876534,52.411708],"type":"Point"}
+  "geometry": {"coordinates":[16.90377,52.412267],"type":"Point"}
 }

@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.576456,54.422182,18.576456,54.422182",
-    "geom:latitude":54.422182,
-    "geom:longitude":18.576456,
+    "geom:bbox":"18.60272,54.421516,18.60272,54.421516",
+    "geom:latitude":54.421516,
+    "geom:longitude":18.60272,
     "iso:country":"PL",
-    "lbl:latitude":54.422182,
-    "lbl:longitude":18.576456,
+    "lbl:latitude":54.421516,
+    "lbl:longitude":18.60272,
     "mps:latitude":54.41775,
     "mps:longitude":18.580393,
     "mz:hierarchy_label":0,
@@ -21,8 +21,9 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":13.0,
+    "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "mz:tier_metro":30,
     "name:eng_x_preferred":[
         "Jelitkowo"
     ],
@@ -70,12 +71,13 @@
     "qs:woe_lau":12618711,
     "qs:woe_local":519349,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":123,
     "wof:belongsto":[
         85687267,
@@ -94,7 +96,7 @@
         "wk:page":"Jelitkowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1c4710b2d0bf602293a17d2e6670224e",
+    "wof:geomhash":"2ee18507491f0be6834adeeed322c900",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +111,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1563574201,
+    "wof:lastmodified":1566247510,
     "wof:name":"Jelitkowo",
     "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
@@ -119,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.576456,
-    54.422182,
-    18.576456,
-    54.422182
+    18.60272,
+    54.421516,
+    18.60272,
+    54.421516
 ],
-  "geometry": {"coordinates":[18.576456,54.422182],"type":"Point"}
+  "geometry": {"coordinates":[18.60272,54.421516],"type":"Point"}
 }

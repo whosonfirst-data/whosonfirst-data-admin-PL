@@ -6,12 +6,12 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.99974,51.074584,16.99974,51.074584",
-    "geom:latitude":51.074584,
-    "geom:longitude":16.99974,
+    "geom:bbox":"16.973395,51.060764,16.973395,51.060764",
+    "geom:latitude":51.060764,
+    "geom:longitude":16.973395,
     "iso:country":"PL",
-    "lbl:latitude":51.074584,
-    "lbl:longitude":16.99974,
+    "lbl:latitude":51.060764,
+    "lbl:longitude":16.973395,
     "mps:latitude":51.060218,
     "mps:longitude":16.993585,
     "mz:hierarchy_label":0,
@@ -19,7 +19,7 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
@@ -97,12 +97,13 @@
     "qs:woe_lau":12618090,
     "qs:woe_local":12618090,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":317,
     "wof:belongsto":[
         85687301,
@@ -120,7 +121,7 @@
         "wd:id":"Q1531939"
     },
     "wof:country":"PL",
-    "wof:geomhash":"428dfe2590d1ca5cd49df5596f2fdde7",
+    "wof:geomhash":"8ba9f3065eff3ae6a37b97114efa6cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +136,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1563574205,
+    "wof:lastmodified":1566247509,
     "wof:name":"Klecina",
     "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
@@ -145,10 +146,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.99974,
-    51.074584,
-    16.99974,
-    51.074584
+    16.973395,
+    51.060764,
+    16.973395,
+    51.060764
 ],
-  "geometry": {"coordinates":[16.99974,51.074584],"type":"Point"}
+  "geometry": {"coordinates":[16.973395,51.060764],"type":"Point"}
 }

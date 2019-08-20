@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18169628.483295,
-    "geom:bbox":"16.966351,51.101213,16.966351,51.101213",
-    "geom:latitude":51.101213,
-    "geom:longitude":16.966351,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.955126,51.078911,16.955126,51.078911",
+    "geom:latitude":51.078911,
+    "geom:longitude":16.955126,
     "iso:country":"PL",
-    "lbl:latitude":51.101213,
-    "lbl:longitude":16.966351,
+    "lbl:latitude":51.078911,
+    "lbl:longitude":16.955126,
     "mps:latitude":51.095059,
     "mps:longitude":16.959895,
     "mz:hierarchy_label":0,
@@ -25,6 +25,9 @@
     "mz:tier_locality":2,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
+        "Opor\u00f3w"
+    ],
+    "name:eng_x_variant":[
         "Opor\u00f3w"
     ],
     "name:fra_x_preferred":[
@@ -66,25 +69,26 @@
     "qs:woe_lau":12618090,
     "qs:woe_local":12618090,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":113,
     "wof:belongsto":[
+        85687301,
         102191581,
         85633723,
         101752181,
-        102079661,
-        85687301
+        102079661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":510693
     },
     "wof:country":"PL",
-    "wof:geomhash":"0017fa5bbf0ab064106cbff91a8fe455",
+    "wof:geomhash":"52fea54f61be32ffb408cedc488223ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +103,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1531931994,
+    "wof:lastmodified":1566247509,
     "wof:name":"Opor\u00f3w",
     "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
@@ -109,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.966351,
-    51.101213,
-    16.966351,
-    51.101213
+    16.955126,
+    51.078911,
+    16.955126,
+    51.078911
 ],
-  "geometry": {"coordinates":[16.966351,51.101213],"type":"Point"}
+  "geometry": {"coordinates":[16.955126,51.078911],"type":"Point"}
 }
