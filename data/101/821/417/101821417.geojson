@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.636647,
     "lbl:longitude":15.136787,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.636647,
     "mps:longitude":15.136787,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0698\u0627\u0631\u0647"
     ],
@@ -143,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u0430\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Z\u00f3raw"
     ],
     "name:vie_x_preferred":[
@@ -172,7 +175,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2439,
     "wof:belongsto":[
@@ -185,10 +188,12 @@
     "wof:concordances":{
         "gn:id":3080644,
         "gp:id":527963,
-        "qs:id":1078923,
-        "qs_pg:id":1244116,
+        "qs_pg:id":1078923,
         "wd:id":"Q148849",
         "wk:page":"\u017bary"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1244116
     },
     "wof:country":"PL",
     "wof:geomhash":"b06f8f8c255be7cefd4d6dac73d9befb",
@@ -202,7 +207,7 @@
         }
     ],
     "wof:id":101821417,
-    "wof:lastmodified":1563577638,
+    "wof:lastmodified":1566598191,
     "wof:name":"\u017bary",
     "wof:parent_id":102079779,
     "wof:placetype":"locality",

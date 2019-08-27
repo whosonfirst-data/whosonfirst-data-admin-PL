@@ -9,16 +9,19 @@
     "geom:bbox":"16.0617589581,50.6653214665,16.0715153569,50.6718871911",
     "geom:latitude":50.668562,
     "geom:longitude":16.066828,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PL",
     "lbl:latitude":50.668605,
     "lbl:longitude":16.066828,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.668605,
     "mps:longitude":16.066828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Che\u0142msko \u015al\u0105skie"
     ],
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u043b\u043c\u0441\u044c\u043a\u043e-\u0428\u043b\u044c\u043e\u043d\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sch\u00f6mberg"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -101,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":214,
     "wof:belongsto":[
         102191581,
@@ -113,14 +116,13 @@
     "wof:concordances":{
         "gn:id":3101790,
         "gp:id":489173,
-        "qs:id":272091,
-        "qs_pg:id":580939,
+        "qs_pg:id":272091,
         "wd:id":"Q990196",
         "wk:page":"Che\u0142msko \u015al\u0105skie"
     },
     "wof:concordances_alt":{
         "gn:id":3101789,
-        "qs_pg:id":272091
+        "qs_pg:id":580939
     },
     "wof:country":"PL",
     "wof:geomhash":"b24b22e95f446efacb1fdda625dc577b",
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":101823697,
-    "wof:lastmodified":1563578171,
+    "wof:lastmodified":1566598332,
     "wof:name":"Che\u0142msko \u015al\u0105skie",
     "wof:parent_id":102079601,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.867211,
     "lbl:longitude":21.036274,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.867211,
     "mps:longitude":21.036274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tuch\u00f3w"
     ],
@@ -116,7 +119,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":220.0,
     "wd:latitude":49.9,
@@ -132,7 +135,7 @@
     "wof:concordances":{
         "gn:id":756634,
         "gp:id":12618582,
-        "qs:id":49194,
+        "qs_pg:id":49194,
         "wd:id":"Q1922294",
         "wk:page":"Tuch\u00f3w"
     },
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101848021,
-    "wof:lastmodified":1563578082,
+    "wof:lastmodified":1566598305,
     "wof:name":"Tuch\u00f3w",
     "wof:parent_id":102079535,
     "wof:placetype":"locality",

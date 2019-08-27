@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.36713,
     "lbl:longitude":19.037602,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.36713,
     "mps:longitude":19.037602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0648\u06cc\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0439\u043a\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wojkowice-Korne"
     ],
     "name:vie_x_preferred":[
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.366667,
     "wd:longitude":19.05,
@@ -137,10 +140,12 @@
     "wof:concordances":{
         "gn:id":3081637,
         "gp:id":525448,
-        "qs:id":340444,
         "qs_pg:id":182290,
         "wd:id":"Q985640",
         "wk:page":"Wojkowice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":340444
     },
     "wof:country":"PL",
     "wof:geomhash":"0419b6f58fd320cd406d120dfab19ae0",
@@ -154,7 +159,7 @@
         }
     ],
     "wof:id":101758649,
-    "wof:lastmodified":1563577920,
+    "wof:lastmodified":1566598258,
     "wof:name":"Wojkowice",
     "wof:parent_id":102079571,
     "wof:placetype":"locality",

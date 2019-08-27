@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.580887,
     "lbl:longitude":23.105371,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.580887,
     "mps:longitude":23.105371,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Suchowola"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0445\u043e\u0432\u043e\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Suchowolce"
     ],
     "name:vie_x_preferred":[
@@ -128,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.576667,
     "wd:longitude":23.101667,
@@ -143,10 +146,12 @@
     "wof:concordances":{
         "gn:id":757849,
         "gp:id":520846,
-        "qs:id":310099,
         "qs_pg:id":232932,
         "wd:id":"Q547381",
         "wk:page":"Suchowola"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":310099
     },
     "wof:country":"PL",
     "wof:geomhash":"6d5dcd35d2cade5d1bc30e41861d363e",
@@ -160,7 +165,7 @@
         }
     ],
     "wof:id":101817627,
-    "wof:lastmodified":1563577508,
+    "wof:lastmodified":1566598162,
     "wof:name":"Suchowola",
     "wof:parent_id":102080189,
     "wof:placetype":"locality",

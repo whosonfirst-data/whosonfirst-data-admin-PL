@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.355135,
     "lbl:longitude":21.580792,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.355135,
     "mps:longitude":21.580792,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Zwole\u0144"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.356944,
     "wd:longitude":21.583889,
@@ -127,10 +130,12 @@
     "wof:concordances":{
         "gn:id":3079906,
         "gp:id":529368,
-        "qs:id":83422,
-        "qs_pg:id":312086,
+        "qs_pg:id":83422,
         "wd:id":"Q1897640",
         "wk:page":"Zwole\u0144"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":312086
     },
     "wof:country":"PL",
     "wof:geomhash":"c2e7aa5c7f0cc9294dffc6ddd89db5b2",
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":101821805,
-    "wof:lastmodified":1563577604,
+    "wof:lastmodified":1566598184,
     "wof:name":"Zwole\u0144",
     "wof:parent_id":102079799,
     "wof:placetype":"locality",

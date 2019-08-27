@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.120708,
     "lbl:longitude":20.864491,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.120708,
     "mps:longitude":20.864491,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Biskupice Rad\u0142owskie"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":93,
     "wof:belongsto":[
@@ -68,10 +71,12 @@
     "wof:concordances":{
         "gn:id":775905,
         "gp:id":486507,
-        "qs:id":1213850,
         "qs_pg:id":398685,
         "wd:id":"Q2904701",
         "wk:page":"Biskupice Rad\u0142owskie"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1213850
     },
     "wof:country":"PL",
     "wof:geomhash":"58b6011a2fd53228e6271bfdd7b2c9ec",
@@ -85,7 +90,7 @@
         }
     ],
     "wof:id":101824879,
-    "wof:lastmodified":1563578239,
+    "wof:lastmodified":1566598352,
     "wof:name":"Biskupice Rad\u0142owskie",
     "wof:parent_id":102079535,
     "wof:placetype":"locality",

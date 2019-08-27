@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.811076,
     "lbl:longitude":20.264516,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.811076,
     "mps:longitude":20.264516,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ma\u0142ogoszcz"
     ],
@@ -107,7 +110,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.813333,
     "wd:longitude":20.268333,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":765313,
         "gp:id":24548500,
-        "qs:id":206290,
+        "qs_pg:id":206290,
         "wd:id":"Q592809",
         "wk:page":"Ma\u0142ogoszcz"
     },
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101822759,
-    "wof:lastmodified":1563578373,
+    "wof:lastmodified":1566598392,
     "wof:name":"Ma\u0142ogoszcz",
     "wof:parent_id":102079641,
     "wof:placetype":"locality",

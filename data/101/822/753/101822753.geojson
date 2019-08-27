@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.915957,
     "lbl:longitude":17.519403,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.915957,
     "mps:longitude":17.519403,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Lubsza"
     ],
@@ -241,7 +244,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":21,
     "wof:belongsto":[
@@ -254,9 +257,11 @@
     "wof:concordances":{
         "gn:id":3092807,
         "gp:id":505599,
-        "qs:id":332017,
-        "qs_pg:id":1011080,
+        "qs_pg:id":332017,
         "wd:id":"Q1223472"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1011080
     },
     "wof:country":"PL",
     "wof:geomhash":"25c8fdf2fd4f59410aceb08df384b4a6",
@@ -270,7 +275,7 @@
         }
     ],
     "wof:id":101822753,
-    "wof:lastmodified":1563578311,
+    "wof:lastmodified":1566598374,
     "wof:name":"Lubsza",
     "wof:parent_id":102079631,
     "wof:placetype":"locality",

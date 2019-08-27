@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.058198,
     "lbl:longitude":19.093592,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.058198,
     "mps:longitude":19.093592,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Bojszowy"
     ],
@@ -62,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":254,
     "wof:belongsto":[
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3103004,
         "gp:id":12617901,
-        "qs:id":1180675,
+        "qs_pg:id":1180675,
         "wd:id":"Q891194",
         "wk:page":"Bojszowy"
     },
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101824787,
-    "wof:lastmodified":1563578260,
+    "wof:lastmodified":1566598357,
     "wof:name":"Bojszowy",
     "wof:parent_id":102079475,
     "wof:placetype":"locality",

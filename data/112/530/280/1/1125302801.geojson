@@ -9,15 +9,18 @@
     "geom:bbox":"18.52098,50.01695,18.52098,50.01695",
     "geom:latitude":50.01695,
     "geom:longitude":18.52098,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":5173,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":5173,
     "iso:country":"PL",
+    "lbl:bbox":"18.42098,49.91695,18.62098,50.11695",
     "lbl:latitude":50.01695,
     "lbl:longitude":18.52098,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0645\u0627\u0631\u06a9\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043a\u043b\u044c\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mark\u0142owice"
     ],
     "qs_pg:aaroncc":"PL",
@@ -62,7 +65,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":12618364,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125302801,
-    "wof:lastmodified":1564212090,
+    "wof:lastmodified":1566598845,
     "wof:name":"Marklowice",
     "wof:parent_id":102079445,
     "wof:placetype":"localadmin",

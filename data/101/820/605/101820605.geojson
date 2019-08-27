@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.23624,
     "lbl:longitude":21.456948,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.23624,
     "mps:longitude":21.456948,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u06a9\u0627\u062c\u062f\u0648\u0648"
     ],
@@ -86,7 +89,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":129,
     "wof:belongsto":[
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gn:id":769835,
         "gp:id":12616724,
-        "qs:id":1256343,
+        "qs_pg:id":1256343,
         "wd:id":"Q2318268",
         "wk:page":"Gmina Kadzid\u0142o"
     },
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101820605,
-    "wof:lastmodified":1563577358,
+    "wof:lastmodified":1566598129,
     "wof:name":"Kadzid\u0142o",
     "wof:parent_id":102080139,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.543969,
     "lbl:longitude":18.833138,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.543969,
     "mps:longitude":18.833138,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Lubraniec"
     ],
@@ -113,7 +116,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.541944,
     "wd:longitude":18.835556,
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gn:id":3092818,
         "gp:id":24547631,
-        "qs:id":59439,
+        "qs_pg:id":59439,
         "wd:id":"Q1007479",
         "wk:page":"Lubraniec"
     },
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101820453,
-    "wof:lastmodified":1563577369,
+    "wof:lastmodified":1566598131,
     "wof:name":"Lubraniec",
     "wof:parent_id":102079997,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.754286,
     "lbl:longitude":22.324336,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.754286,
     "mps:longitude":22.324336,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0645\u0648\u062f\u0644\u06cc\u0628\u0648\u0698\u062a\u0633\u0647"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":142,
     "wof:belongsto":[
@@ -101,10 +104,12 @@
     "wof:concordances":{
         "gn:id":764530,
         "gp:id":507971,
-        "qs:id":1148856,
         "qs_pg:id":302732,
         "wd:id":"Q2460426",
         "wk:page":"Gmina Modliborzyce"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1148856
     },
     "wof:country":"PL",
     "wof:geomhash":"43caffb322853bc36fcfb4b89c2491a5",
@@ -118,7 +123,7 @@
         }
     ],
     "wof:id":101823983,
-    "wof:lastmodified":1563578130,
+    "wof:lastmodified":1566598319,
     "wof:name":"Modliborzyce",
     "wof:parent_id":102079697,
     "wof:placetype":"locality",

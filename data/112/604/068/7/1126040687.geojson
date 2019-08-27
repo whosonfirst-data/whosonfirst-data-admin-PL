@@ -9,15 +9,18 @@
     "geom:bbox":"18.38408,54.47123,18.38408,54.47123",
     "geom:latitude":54.47123,
     "geom:longitude":18.38408,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2100,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
     "gn:population":2100,
     "iso:country":"PL",
+    "lbl:bbox":"18.36408,54.45123,18.40408,54.49123",
     "lbl:latitude":54.47123,
     "lbl:longitude":18.38408,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Bojano"
@@ -43,9 +46,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u044f\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Bojano"
-    ],
     "qs_pg:aaroncc":"PL",
     "qs_pg:gn_country":"PL",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +67,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":486984,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1126040687,
-    "wof:lastmodified":1563578981,
+    "wof:lastmodified":1566598673,
     "wof:name":"Bojan",
     "wof:parent_id":102080267,
     "wof:placetype":"locality",

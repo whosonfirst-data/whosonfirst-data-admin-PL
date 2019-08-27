@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.039435,
     "lbl:longitude":21.076059,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.039435,
     "mps:longitude":21.076059,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430\u0445\u043e\u0432\u0438\u0446\u0435"
     ],
@@ -119,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430\u0445\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Starachowice-Wierzbnik"
     ],
     "name:vie_x_preferred":[
@@ -152,7 +155,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":571,
     "wof:belongsto":[
@@ -165,10 +168,12 @@
     "wof:concordances":{
         "gn:id":758274,
         "gp:id":519779,
-        "qs:id":129265,
-        "qs_pg:id":993153,
+        "qs_pg:id":129265,
         "wd:id":"Q751094",
         "wk:page":"Starachowice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":993153
     },
     "wof:country":"PL",
     "wof:geomhash":"0381f0da3d2a73ae7fa933efc5764af6",
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":101752187,
-    "wof:lastmodified":1563577216,
+    "wof:lastmodified":1566598094,
     "wof:name":"Starachowice",
     "wof:parent_id":102079727,
     "wof:placetype":"locality",

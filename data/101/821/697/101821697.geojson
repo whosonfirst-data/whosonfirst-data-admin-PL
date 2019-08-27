@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.363559,
     "lbl:longitude":17.410274,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.363559,
     "mps:longitude":17.410274,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Nekla"
     ],
@@ -92,7 +95,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.366667,
     "wd:longitude":17.416667,
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3091089,
         "gp:id":24547608,
-        "qs:id":1083375,
+        "qs_pg:id":1083375,
         "wd:id":"Q1005827",
         "wk:page":"Nekla"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101821697,
-    "wof:lastmodified":1563577650,
+    "wof:lastmodified":1566598194,
     "wof:name":"Nekla",
     "wof:parent_id":102079907,
     "wof:placetype":"locality",

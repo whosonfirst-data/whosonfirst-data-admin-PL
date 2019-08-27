@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.28633,
     "lbl:longitude":21.112201,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.28633,
     "mps:longitude":21.112201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0632\u0627\u0646\u0628\u06a9\u06cc"
     ],
@@ -119,7 +122,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -131,7 +134,7 @@
     "wof:concordances":{
         "gn:id":754351,
         "gp:id":12616859,
-        "qs:id":450676,
+        "qs_pg:id":450676,
         "wd:id":"Q248999",
         "wk:page":"Z\u0105bki"
     },
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101756117,
-    "wof:lastmodified":1563577942,
+    "wof:lastmodified":1566598265,
     "wof:name":"Z\u0105bki",
     "wof:parent_id":102079995,
     "wof:placetype":"locality",

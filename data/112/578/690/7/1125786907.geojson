@@ -9,15 +9,18 @@
     "geom:bbox":"19.05012,50.05284,19.05012,50.05284",
     "geom:latitude":50.05284,
     "geom:longitude":19.05012,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1192,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
     "gn:population":1192,
     "iso:country":"PL",
+    "lbl:bbox":"19.03012,50.03284,19.07012,50.07284",
     "lbl:latitude":50.05284,
     "lbl:longitude":19.05012,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Bojszowy Nowe"
@@ -37,9 +40,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0439\u0448\u043e\u0432\u0438-\u041d\u043e\u0432\u0456"
     ],
-    "name:unk_x_variant":[
-        "Nowe Bojszowy"
-    ],
     "qs_pg:aaroncc":"PL",
     "qs_pg:gn_country":"PL",
     "qs_pg:gn_fcode":"PPL",
@@ -52,7 +52,7 @@
     "qs_pg:qs_id":580951,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1125786907,
-    "wof:lastmodified":1563580153,
+    "wof:lastmodified":1566599135,
     "wof:name":"Bojszowy Nowe",
     "wof:parent_id":102079475,
     "wof:placetype":"locality",

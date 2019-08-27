@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.42989,
     "lbl:longitude":22.5921,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.42989,
     "mps:longitude":22.5921,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ustrzyki Dolne"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0442\u0440\u0438\u043a\u0438-\u0414\u043e\u043b\u0456\u0448\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhniye Ustriki"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":480.0,
     "wd:latitude":49.433333,
@@ -146,10 +149,12 @@
     "wof:concordances":{
         "gn:id":756280,
         "gp:id":523661,
-        "qs:id":1327009,
         "qs_pg:id":1030216,
         "wd:id":"Q1906346",
         "wk:page":"Ustrzyki Dolne"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327009
     },
     "wof:country":"PL",
     "wof:geomhash":"a7f1ecaed53590541fb028d454cc581b",
@@ -163,7 +168,7 @@
         }
     ],
     "wof:id":101826163,
-    "wof:lastmodified":1563577837,
+    "wof:lastmodified":1566598239,
     "wof:name":"Ustrzyki Dolne",
     "wof:parent_id":102079439,
     "wof:placetype":"locality",

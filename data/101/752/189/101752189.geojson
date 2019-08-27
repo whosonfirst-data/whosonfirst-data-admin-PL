@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.404953,
     "lbl:longitude":16.199386,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.404953,
     "mps:longitude":16.199386,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u044e\u0431\u0456\u043d"
     ],
@@ -161,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0431\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u00fcben"
     ],
     "name:vie_x_preferred":[
@@ -193,7 +196,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1087,
     "wof:belongsto":[
@@ -206,7 +209,6 @@
     "wof:concordances":{
         "gn:id":3092931,
         "gp:id":505452,
-        "qs:id":1043165,
         "qs_pg:id":1043165,
         "wd:id":"Q237512",
         "wk:page":"Lubin"
@@ -223,7 +225,7 @@
         }
     ],
     "wof:id":101752189,
-    "wof:lastmodified":1563577218,
+    "wof:lastmodified":1566598094,
     "wof:name":"Lubin",
     "wof:parent_id":102079735,
     "wof:placetype":"locality",

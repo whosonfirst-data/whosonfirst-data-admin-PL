@@ -11,12 +11,16 @@
     "geom:longitude":20.088028,
     "gn:population":1600,
     "iso:country":"PL",
+    "lbl:bbox":"20.068028,49.770222,20.108028,49.810222",
     "lbl:latitude":49.790222,
     "lbl:longitude":20.088028,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.790222,
     "mps:longitude":20.088028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Lipnik"
     ],
@@ -57,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":100,
     "wof:belongsto":[
@@ -70,10 +74,12 @@
     "wof:concordances":{
         "gn:id":3093280,
         "gp:id":504873,
-        "qs:id":195940,
-        "qs_pg:id":1215617,
+        "qs_pg:id":195940,
         "wd:id":"Q6556606",
         "wk:page":"Lipnik, Lesser Poland Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1215617
     },
     "wof:country":"PL",
     "wof:geomhash":"cbecd620c8e648230d2d6f9498837e1e",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":101863245,
-    "wof:lastmodified":1563578440,
+    "wof:lastmodified":1566598410,
     "wof:name":"Lipnik",
     "wof:parent_id":102079441,
     "wof:placetype":"locality",

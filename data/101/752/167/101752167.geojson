@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.487123,
     "lbl:longitude":19.429627,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.487123,
     "mps:longitude":19.429627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Zawiercie"
     ],
@@ -260,7 +263,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0432\u0435\u0440\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zavertse"
     ],
     "name:vec_x_preferred":[
@@ -310,7 +313,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1254,
     "wof:belongsto":[
@@ -323,10 +326,12 @@
     "wof:concordances":{
         "gn:id":3080526,
         "gp:id":528234,
-        "qs:id":1244115,
-        "qs_pg:id":1327025,
+        "qs_pg:id":1244115,
         "wd:id":"Q148827",
         "wk:page":"Zawiercie"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327025
     },
     "wof:country":"PL",
     "wof:geomhash":"73993b37b8ab4c4c7b5ba3f4e9a42f6f",
@@ -340,7 +345,7 @@
         }
     ],
     "wof:id":101752167,
-    "wof:lastmodified":1563577191,
+    "wof:lastmodified":1566598089,
     "wof:name":"Zawiercie",
     "wof:parent_id":102079613,
     "wof:placetype":"locality",

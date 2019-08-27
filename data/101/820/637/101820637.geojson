@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.64955,
     "lbl:longitude":17.601769,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.64955,
     "mps:longitude":17.601769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Lichnowy"
     ],
@@ -31,7 +34,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0445\u043d\u043e\u0432\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gross Lichtenau"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":103,
     "wof:belongsto":[
         102191581,
@@ -63,9 +66,11 @@
     "wof:concordances":{
         "gn:id":3093443,
         "gp:id":504610,
-        "qs:id":301292,
-        "qs_pg:id":301293,
+        "qs_pg:id":301292,
         "wd:id":"Q6543317"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":301293
     },
     "wof:country":"PL",
     "wof:geomhash":"96921442b91ca9301693b6c1b642a251",
@@ -79,7 +84,7 @@
         }
     ],
     "wof:id":101820637,
-    "wof:lastmodified":1563577428,
+    "wof:lastmodified":1566598144,
     "wof:name":"Lichnowy",
     "wof:parent_id":102080161,
     "wof:placetype":"locality",

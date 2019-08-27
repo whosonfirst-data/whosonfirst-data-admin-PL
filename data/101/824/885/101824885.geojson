@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.230268,
     "lbl:longitude":19.852689,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.230268,
     "mps:longitude":19.852689,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ska\u0142a"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.233333,
     "wd:longitude":19.866667,
@@ -127,10 +130,12 @@
     "wof:concordances":{
         "gn:id":7534566,
         "gp:id":518146,
-        "qs:id":1189922,
         "qs_pg:id":211230,
         "wd:id":"Q1280559",
         "wk:page":"Ska\u0142a"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1189922
     },
     "wof:country":"PL",
     "wof:geomhash":"a52f8720baade40dddbca445316290a8",
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":101824885,
-    "wof:lastmodified":1563578243,
+    "wof:lastmodified":1566598353,
     "wof:name":"Ska\u0142a",
     "wof:parent_id":102079541,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.439696,
     "lbl:longitude":17.77311,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.439696,
     "mps:longitude":17.77311,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0456\u0442\u043a\u043e\u0432\u0430"
     ],
@@ -92,7 +95,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.436389,
     "wd:longitude":17.774167,
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3081826,
         "gp:id":24547573,
-        "qs:id":206237,
+        "qs_pg:id":206237,
         "wd:id":"Q1122800",
         "wk:page":"Witkowo"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101820401,
-    "wof:lastmodified":1563577355,
+    "wof:lastmodified":1566598128,
     "wof:name":"Witkowo",
     "wof:parent_id":102079967,
     "wof:placetype":"locality",

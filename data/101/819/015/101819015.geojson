@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.818956,
     "lbl:longitude":18.035472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.818956,
     "mps:longitude":18.035472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Piechcin"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":124,
     "wof:belongsto":[
         102191581,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":3089156,
         "gp:id":512192,
-        "qs:id":963217,
+        "qs_pg:id":963217,
         "wd:id":"Q604316"
     },
     "wof:country":"PL",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101819015,
-    "wof:lastmodified":1563577696,
+    "wof:lastmodified":1566598204,
     "wof:name":"Piechcin",
     "wof:parent_id":102080017,
     "wof:placetype":"locality",

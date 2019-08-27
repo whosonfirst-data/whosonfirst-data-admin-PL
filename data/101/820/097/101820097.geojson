@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.966851,
     "lbl:longitude":17.496332,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.966851,
     "mps:longitude":17.496332,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Jarocin"
     ],
@@ -149,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.966667,
     "wd:longitude":17.5,
@@ -164,10 +167,12 @@
     "wof:concordances":{
         "gn:id":770382,
         "gp:id":496974,
-        "qs:id":145597,
-        "qs_pg:id":1214917,
+        "qs_pg:id":145597,
         "wd:id":"Q52840",
         "wk:page":"Jarocin"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1214917
     },
     "wof:country":"PL",
     "wof:geomhash":"27d67a6db62392b0fb62d70f12acc9e6",
@@ -181,7 +186,7 @@
         }
     ],
     "wof:id":101820097,
-    "wof:lastmodified":1563577368,
+    "wof:lastmodified":1566598131,
     "wof:name":"Jarocin",
     "wof:parent_id":102079857,
     "wof:placetype":"locality",

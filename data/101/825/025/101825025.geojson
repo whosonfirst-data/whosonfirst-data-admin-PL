@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.486235,
     "lbl:longitude":17.600279,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.486235,
     "mps:longitude":17.600279,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Korfant\u00f3w"
     ],
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0444\u0430\u043d\u0442\u0443\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Friedland in Oberschlesien"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +101,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":203.0,
     "wd:latitude":50.5,
@@ -114,7 +117,7 @@
     "wof:concordances":{
         "gn:id":3095202,
         "gp:id":24548711,
-        "qs:id":1189941,
+        "qs_pg:id":1189941,
         "wd:id":"Q1005503",
         "wk:page":"Korfant\u00f3w"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":101825025,
-    "wof:lastmodified":1563578275,
+    "wof:lastmodified":1566598362,
     "wof:name":"Korfant\u00f3w",
     "wof:parent_id":102079569,
     "wof:placetype":"locality",

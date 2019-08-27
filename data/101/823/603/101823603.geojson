@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.106414,
     "lbl:longitude":22.111054,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.106414,
     "mps:longitude":22.111054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "\u0141ukawiec"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":92,
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":765760,
         "gp:id":505751,
-        "qs:id":260844,
+        "qs_pg:id":260844,
         "wd:id":"Q8081001",
         "wk:page":"\u0141ukawiec, Rzesz\u00f3w County"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101823603,
-    "wof:lastmodified":1563578125,
+    "wof:lastmodified":1566598318,
     "wof:name":"\u0141ukawiec",
     "wof:parent_id":102079585,
     "wof:placetype":"locality",

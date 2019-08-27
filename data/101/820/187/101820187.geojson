@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.945654,
     "lbl:longitude":20.05222,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.945654,
     "mps:longitude":20.05222,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Mak\u00f3w"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":99,
     "wof:belongsto":[
@@ -77,10 +80,12 @@
     "wof:concordances":{
         "gn:id":3092530,
         "gp:id":506218,
-        "qs:id":276283,
-        "qs_pg:id":301984,
+        "qs_pg:id":276283,
         "wd:id":"Q2801191",
         "wk:page":"Mak\u00f3w, \u0141\u00f3d\u017a Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":301984
     },
     "wof:country":"PL",
     "wof:geomhash":"01cd4be60a0771f5626afc78f1a14117",
@@ -94,7 +99,7 @@
         }
     ],
     "wof:id":101820187,
-    "wof:lastmodified":1563577372,
+    "wof:lastmodified":1566598132,
     "wof:name":"Mak\u00f3w",
     "wof:parent_id":102079895,
     "wof:placetype":"locality",

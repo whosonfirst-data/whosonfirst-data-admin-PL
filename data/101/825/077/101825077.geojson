@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.983131,
     "lbl:longitude":22.413018,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.983131,
     "mps:longitude":22.413018,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ka\u0144czuga"
     ],
@@ -101,7 +104,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":220.0,
     "wd:latitude":50.0,
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gn:id":769591,
         "gp:id":24548490,
-        "qs:id":499900,
+        "qs_pg:id":499900,
         "wd:id":"Q653844",
         "wk:page":"Ka\u0144czuga"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101825077,
-    "wof:lastmodified":1563578273,
+    "wof:lastmodified":1566598362,
     "wof:name":"Ka\u0144czuga",
     "wof:parent_id":102079589,
     "wof:placetype":"locality",

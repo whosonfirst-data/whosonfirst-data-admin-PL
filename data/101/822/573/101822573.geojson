@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.749564,
     "lbl:longitude":23.35155,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":50.749564,
     "mps:longitude":23.35155,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Sitno"
     ],
@@ -250,7 +253,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":158,
     "wof:belongsto":[
@@ -263,9 +266,11 @@
     "wof:concordances":{
         "gn:id":3085882,
         "gp:id":12618560,
-        "qs:id":234889,
         "qs_pg:id":94544,
         "wd:id":"Q341720"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":234889
     },
     "wof:country":"PL",
     "wof:geomhash":"5679ce82ade91554194f919ab4c42f58",
@@ -279,7 +284,7 @@
         }
     ],
     "wof:id":101822573,
-    "wof:lastmodified":1563578358,
+    "wof:lastmodified":1566598388,
     "wof:name":"Sitno",
     "wof:parent_id":102079715,
     "wof:placetype":"locality",

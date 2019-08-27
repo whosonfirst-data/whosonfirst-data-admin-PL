@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.971076,
     "lbl:longitude":20.521899,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.971076,
     "mps:longitude":20.521899,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0634\u062a\u0634\u0648\u0646\u0648\u0641"
     ],
@@ -134,7 +137,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.974167,
     "wd:longitude":20.526667,
@@ -149,7 +152,7 @@
     "wof:concordances":{
         "gn:id":764269,
         "gp:id":24548276,
-        "qs:id":985752,
+        "qs_pg:id":985752,
         "wd:id":"Q477955",
         "wk:page":"Mszczon\u00f3w"
     },
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101820189,
-    "wof:lastmodified":1563577376,
+    "wof:lastmodified":1566598133,
     "wof:name":"Mszczon\u00f3w",
     "wof:parent_id":102079897,
     "wof:placetype":"locality",

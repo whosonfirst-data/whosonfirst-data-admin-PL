@@ -9,15 +9,18 @@
     "geom:bbox":"15.76452,51.36063,15.76452,51.36063",
     "geom:latitude":51.36063,
     "geom:longitude":15.76452,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":2150,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":2150,
     "iso:country":"PL",
+    "lbl:bbox":"15.66452,51.26063,15.86452,51.46063",
     "lbl:latitude":51.36063,
     "lbl:longitude":15.76452,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0642\u0631\u0648\u0645\u0627\u062f\u06a9\u0627"
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0440\u043e\u043c\u0430\u0434\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Greulich"
     ],
     "qs_pg:aaroncc":"PL",
@@ -64,7 +67,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":12616947,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125304217,
-    "wof:lastmodified":1564212122,
+    "wof:lastmodified":1566598857,
     "wof:name":"Gromadka",
     "wof:parent_id":102079707,
     "wof:placetype":"localadmin",

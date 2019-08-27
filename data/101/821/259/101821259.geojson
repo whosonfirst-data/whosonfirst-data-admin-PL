@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.539619,
     "lbl:longitude":17.566065,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.539619,
     "mps:longitude":17.566065,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "\u0141ambinowice"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043c\u0431\u0456\u043d\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lamsdorf"
     ],
     "name:vie_x_preferred":[
@@ -74,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":764,
     "wof:belongsto":[
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3093941,
         "gp:id":12616861,
-        "qs:id":344473,
+        "qs_pg:id":344473,
         "wd:id":"Q345210",
         "wk:page":"\u0141ambinowice"
     },
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101821259,
-    "wof:lastmodified":1563577593,
+    "wof:lastmodified":1566598182,
     "wof:name":"\u0141ambinowice",
     "wof:parent_id":102079569,
     "wof:placetype":"locality",

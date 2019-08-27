@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.685795,
     "lbl:longitude":20.473011,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.685795,
     "mps:longitude":20.473011,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sochocin"
     ],
@@ -68,7 +71,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":94,
     "wof:belongsto":[
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":758681,
         "gp:id":12617601,
-        "qs:id":272336,
+        "qs_pg:id":272336,
         "wd:id":"Q3078177",
         "wk:page":"Sochocin"
     },
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101819039,
-    "wof:lastmodified":1563577726,
+    "wof:lastmodified":1566598213,
     "wof:name":"Sochocin",
     "wof:parent_id":102080031,
     "wof:placetype":"locality",

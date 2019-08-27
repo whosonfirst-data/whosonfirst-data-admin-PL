@@ -9,17 +9,19 @@
     "geom:bbox":"19.1352139825,49.9114086965,19.170996086,49.9270054348",
     "geom:latitude":49.918512,
     "geom:longitude":19.151767,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2813,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
     "gn:population":2813,
     "iso:country":"PL",
     "lbl:latitude":49.916349,
     "lbl:longitude":19.151496,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.916349,
     "mps:longitude":19.151496,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Wilamowice"
     ],
@@ -154,7 +156,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.9,
     "wd:longitude":19.15,
@@ -170,7 +172,6 @@
         "gn:id":7534526,
         "gp:id":24943473,
         "loc:id":"n2002048904",
-        "qs:id":926358,
         "qs_pg:id":892439,
         "wd:id":"Q948267",
         "wk:page":"Wilamowice"
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":101824729,
-    "wof:lastmodified":1563578263,
+    "wof:lastmodified":1566598358,
     "wof:name":"Wilamowice",
     "wof:parent_id":102079427,
     "wof:placetype":"locality",

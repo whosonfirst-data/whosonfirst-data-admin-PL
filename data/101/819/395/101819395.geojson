@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.315005,
     "lbl:longitude":22.918227,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.315005,
     "mps:longitude":22.918227,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Knyszyn"
     ],
@@ -122,7 +125,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.313056,
     "wd:longitude":22.9175,
@@ -137,7 +140,7 @@
     "wof:concordances":{
         "gn:id":768963,
         "gp:id":24548154,
-        "qs:id":129322,
+        "qs_pg:id":129322,
         "wd:id":"Q668322",
         "wk:page":"Knyszyn"
     },
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101819395,
-    "wof:lastmodified":1563577742,
+    "wof:lastmodified":1566598216,
     "wof:name":"Knyszyn",
     "wof:parent_id":102080175,
     "wof:placetype":"locality",

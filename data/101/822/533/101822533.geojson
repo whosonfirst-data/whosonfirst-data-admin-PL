@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.273638,
     "lbl:longitude":15.935561,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.273638,
     "mps:longitude":15.935561,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0425\u043e\u0439\u043d\u0430\u045e"
     ],
@@ -161,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1216,
     "wof:belongsto":[
@@ -174,10 +177,12 @@
     "wof:concordances":{
         "gn:id":774431,
         "gp:id":24547505,
-        "qs:id":1200360,
         "qs_pg:id":553148,
         "wd:id":"Q478869",
         "wk:page":"Chojn\u00f3w"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1200360
     },
     "wof:country":"PL",
     "wof:geomhash":"61f74bbb064b40bf26a3ef86eea38e82",
@@ -191,7 +196,7 @@
         }
     ],
     "wof:id":101822533,
-    "wof:lastmodified":1563578306,
+    "wof:lastmodified":1566598372,
     "wof:name":"Chojn\u00f3w",
     "wof:parent_id":102079691,
     "wof:placetype":"locality",

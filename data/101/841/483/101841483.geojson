@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.726162,
     "lbl:longitude":21.108329,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.726162,
     "mps:longitude":21.108329,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Moszczenica"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -74,9 +77,11 @@
     "wof:concordances":{
         "gn:id":764342,
         "gp:id":508313,
-        "qs:id":223028,
-        "qs_pg:id":302901,
+        "qs_pg:id":223028,
         "wd:id":"Q397606"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":302901
     },
     "wof:country":"PL",
     "wof:geomhash":"52abde12d726e81796e3ab088475e2cf",
@@ -90,7 +95,7 @@
         }
     ],
     "wof:id":101841483,
-    "wof:lastmodified":1563577986,
+    "wof:lastmodified":1566598277,
     "wof:name":"Moszczenica",
     "wof:parent_id":102079429,
     "wof:placetype":"locality",

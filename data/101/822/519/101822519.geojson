@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.114665,
     "lbl:longitude":18.209667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.114665,
     "mps:longitude":18.209667,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Byczyna"
     ],
@@ -95,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0438\u0447\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pitschen"
     ],
     "name:urd_x_preferred":[
@@ -122,7 +125,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":197.0,
     "wd:latitude":51.116667,
@@ -138,7 +141,7 @@
     "wof:concordances":{
         "gn:id":3102019,
         "gp:id":24548644,
-        "qs:id":905203,
+        "qs_pg:id":905203,
         "wd:id":"Q990828",
         "wk:page":"Byczyna"
     },
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101822519,
-    "wof:lastmodified":1563578348,
+    "wof:lastmodified":1566598384,
     "wof:name":"Byczyna",
     "wof:parent_id":102079677,
     "wof:placetype":"locality",

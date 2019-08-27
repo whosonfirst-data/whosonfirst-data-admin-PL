@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.929829,
     "lbl:longitude":20.104442,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.929829,
     "mps:longitude":20.104442,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0643\u0631\u064a\u0646\u0641\u064a\u062a\u0633\u0647"
     ],
@@ -185,7 +188,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u0435\u0440\u043d\u0435\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Skieniewice"
     ],
     "name:urd_x_preferred":[
@@ -215,7 +218,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":226,
     "wof:belongsto":[
@@ -229,7 +232,7 @@
         "fct:id":"0246135c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":759123,
         "gp:id":518258,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2734",
         "wk:page":"Skierniewice"
     },
@@ -245,7 +248,7 @@
         }
     ],
     "wof:id":101913797,
-    "wof:lastmodified":1563577862,
+    "wof:lastmodified":1566598247,
     "wof:name":"Skierniewice",
     "wof:parent_id":102079895,
     "wof:placetype":"locality",

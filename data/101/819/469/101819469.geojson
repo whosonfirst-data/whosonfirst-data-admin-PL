@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":54.285575,
     "lbl:longitude":20.487448,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.285575,
     "mps:longitude":20.487448,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0648\u0631\u0648\u0648\u0648 \u0627\u06cc\u0648\u0627\u0648\u062a\u0633\u06a9\u06cc\u0647"
     ],
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0440\u043e\u0432\u043e-\u0406\u043b\u0430\u0432\u0435\u0446\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Landsberg"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.266667,
     "wd:longitude":20.483333,
@@ -132,7 +135,7 @@
     "wof:concordances":{
         "gn:id":771779,
         "gp:id":24547479,
-        "qs:id":1255010,
+        "qs_pg:id":1255010,
         "wd:id":"Q987197",
         "wk:page":"G\u00f3rowo I\u0142aweckie"
     },
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101819469,
-    "wof:lastmodified":1563577778,
+    "wof:lastmodified":1566598224,
     "wof:name":"G\u00f3rowo I\u0142aweckie",
     "wof:parent_id":102080247,
     "wof:placetype":"locality",

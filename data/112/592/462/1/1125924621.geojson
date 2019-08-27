@@ -9,15 +9,18 @@
     "geom:bbox":"19.93546,54.27034,19.93546,54.27034",
     "geom:latitude":54.27034,
     "geom:longitude":19.93546,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":460,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
     "gn:population":460,
     "iso:country":"PL",
+    "lbl:bbox":"19.91546,54.25034,19.95546,54.29034",
     "lbl:latitude":54.27034,
     "lbl:longitude":19.93546,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u067e\u0648\u0648\u0633\u06a9\u06cc\u0646\u0642\u0627"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043b\u043e\u0441\u043a\u0456\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u0142oskinie"
     ],
     "qs_pg:aaroncc":"PL",
@@ -71,7 +74,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":512822,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125924621,
-    "wof:lastmodified":1564211707,
+    "wof:lastmodified":1566598580,
     "wof:name":"P\u0142oskinia",
     "wof:parent_id":102080237,
     "wof:placetype":"locality",

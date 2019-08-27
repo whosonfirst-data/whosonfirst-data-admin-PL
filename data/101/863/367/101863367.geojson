@@ -11,12 +11,16 @@
     "geom:longitude":20.716972,
     "gn:population":1601,
     "iso:country":"PL",
+    "lbl:bbox":"20.696972,49.941334,20.736972,49.981334",
     "lbl:latitude":49.961334,
     "lbl:longitude":20.716972,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.961334,
     "mps:longitude":20.716972,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "D\u0119bno"
     ],
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.733333,
     "wd:longitude":14.7,
@@ -80,9 +84,11 @@
     "wof:concordances":{
         "gn:id":773342,
         "gp:id":491425,
-        "qs:id":1178178,
         "qs_pg:id":1165598,
         "wd:id":"Q2931640"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1178178
     },
     "wof:country":"PL",
     "wof:geomhash":"5201d1ced7afefabdd18d50397c71229",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":101863367,
-    "wof:lastmodified":1563578467,
+    "wof:lastmodified":1566598419,
     "wof:name":"D\u0119bno",
     "wof:parent_id":102079517,
     "wof:placetype":"locality",

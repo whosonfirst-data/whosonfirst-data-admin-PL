@@ -9,15 +9,18 @@
     "geom:bbox":"20.23364,52.62811,20.23364,52.62811",
     "geom:latitude":52.62811,
     "geom:longitude":20.23364,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":442,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":442,
     "iso:country":"PL",
+    "lbl:bbox":"20.13364,52.52811,20.33364,52.72811",
     "lbl:latitude":52.62811,
     "lbl:longitude":20.23364,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062c\u0698\u0627\u0646\u0698\u0646\u0642\u0627"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0437\u0435\u0436\u043e\u043d\u0436\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzierz\u0105\u017ana"
     ],
     "qs_pg:aaroncc":"PL",
@@ -65,7 +68,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":12617419,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125375575,
-    "wof:lastmodified":1564212028,
+    "wof:lastmodified":1566598819,
     "wof:name":"Dzierz\u0105\u017cnia",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",

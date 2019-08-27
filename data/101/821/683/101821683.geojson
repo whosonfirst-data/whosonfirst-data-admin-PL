@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.975848,
     "lbl:longitude":21.678962,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.975848,
     "mps:longitude":21.678962,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u067e\u0627\u0631\u0633\u0648\u0648"
     ],
@@ -83,7 +86,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":108,
     "wof:belongsto":[
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":762619,
         "gp:id":12618409,
-        "qs:id":24211,
+        "qs_pg:id":24211,
         "wd:id":"Q2460079",
         "wk:page":"Gmina Parys\u00f3w"
     },
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101821683,
-    "wof:lastmodified":1563577647,
+    "wof:lastmodified":1566598193,
     "wof:name":"Parys\u00f3w",
     "wof:parent_id":102079901,
     "wof:placetype":"locality",

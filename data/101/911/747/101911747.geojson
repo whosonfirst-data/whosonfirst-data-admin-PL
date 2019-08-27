@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.375821,
     "lbl:longitude":23.447926,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.375821,
     "mps:longitude":23.447926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Smoliska"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":50,
     "wof:belongsto":[
         102191581,
@@ -66,10 +69,12 @@
     "wof:concordances":{
         "gn:id":4446219,
         "gp:id":24941454,
-        "qs:id":953842,
         "qs_pg:id":356478,
         "wd:id":"Q7546289",
         "wk:page":"Sipsey Fork, Mississippi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":953842
     },
     "wof:country":"PL",
     "wof:geomhash":"9dba80181be73164e4e765d0c8630671",
@@ -86,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563578499,
+    "wof:lastmodified":1566598428,
     "wof:name":"Smoliska",
     "wof:parent_id":102079689,
     "wof:placetype":"locality",

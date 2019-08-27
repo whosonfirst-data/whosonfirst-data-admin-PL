@@ -9,17 +9,19 @@
     "geom:bbox":"21.3877407403,52.4085000932,21.4147677537,52.4170791442",
     "geom:latitude":52.413667,
     "geom:longitude":21.40081,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2000,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
     "gn:population":2000,
     "iso:country":"PL",
     "lbl:latitude":52.414792,
     "lbl:longitude":21.403984,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.414792,
     "mps:longitude":21.403984,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Jasienica"
     ],
@@ -88,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":408,
     "wof:belongsto":[
@@ -101,15 +103,14 @@
     "wof:concordances":{
         "gn:id":770347,
         "gp:id":497058,
-        "qs:id":215706,
-        "qs_pg:id":1214932,
+        "qs_pg:id":215706,
         "wd:id":"Q6161482",
         "wk:page":"Jasienica, Wo\u0142omin County"
     },
     "wof:concordances_alt":{
         "gn:id":770348,
         "gp:id":497059,
-        "qs_pg:id":215706
+        "qs_pg:id":1214932
     },
     "wof:country":"PL",
     "wof:geomhash":"906f2cd9424d0178906d6b86f19c3c27",
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":101821763,
-    "wof:lastmodified":1563577560,
+    "wof:lastmodified":1566598173,
     "wof:name":"Jasienica",
     "wof:parent_id":102079995,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.620083,
     "lbl:longitude":17.85979,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.620083,
     "mps:longitude":17.85979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Domecko"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":196,
     "wof:belongsto":[
         102191581,
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gn:id":3100190,
         "gp:id":492030,
-        "qs:id":925599,
+        "qs_pg:id":925599,
         "wd:id":"Q788006"
     },
     "wof:country":"PL",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101823835,
-    "wof:lastmodified":1563578123,
+    "wof:lastmodified":1566598317,
     "wof:name":"Domecko",
     "wof:parent_id":102079627,
     "wof:placetype":"locality",

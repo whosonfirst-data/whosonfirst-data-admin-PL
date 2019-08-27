@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.921593,
     "lbl:longitude":20.426483,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.921593,
     "mps:longitude":20.426483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Promnik"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":761272,
         "gp:id":514170,
-        "qs:id":305319,
+        "qs_pg:id":305319,
         "wd:id":"Q7249839",
         "wk:page":"Promnik, \u015awi\u0119tokrzyskie Voivodeship"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101822539,
-    "wof:lastmodified":1563578363,
+    "wof:lastmodified":1566598388,
     "wof:name":"Promnik",
     "wof:parent_id":102079693,
     "wof:placetype":"locality",

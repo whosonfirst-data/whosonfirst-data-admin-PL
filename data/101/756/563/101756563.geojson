@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.912152,
     "lbl:longitude":19.013281,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.912152,
     "mps:longitude":19.013281,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Czechowice-Dziedzice"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0445\u043e\u0432\u0456\u0446\u0435-\u0414\u0437\u0435\u0434\u0437\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zabracze"
     ],
     "name:vie_x_preferred":[
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.933333,
     "wd:longitude":19.0,
@@ -142,10 +145,12 @@
     "wof:concordances":{
         "gn:id":3101076,
         "gp:id":490484,
-        "qs:id":1043207,
-        "qs_pg:id":1078686,
+        "qs_pg:id":1043207,
         "wd:id":"Q263684",
         "wk:page":"Czechowice-Dziedzice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078686
     },
     "wof:country":"PL",
     "wof:geomhash":"d245334f33ff88b1eca1c09a493bf50a",
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":101756563,
-    "wof:lastmodified":1563577945,
+    "wof:lastmodified":1566598265,
     "wof:name":"Czechowice-Dziedzice",
     "wof:parent_id":102079427,
     "wof:placetype":"locality",

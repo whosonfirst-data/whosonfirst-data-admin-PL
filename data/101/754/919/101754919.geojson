@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.09227,
     "lbl:longitude":23.115338,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.09227,
     "mps:longitude":23.115338,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Kleosin"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":88,
     "wof:belongsto":[
         102191581,
@@ -65,9 +68,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24935435,
-        "qs:id":8,
-        "qs_pg:id":1194326,
+        "qs_pg:id":8,
         "wd:id":"Q5737236"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1194326
     },
     "wof:country":"PL",
     "wof:geomhash":"c3ee8127901ec874bd99d23026d1e106",
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":101754919,
-    "wof:lastmodified":1563577287,
+    "wof:lastmodified":1566598107,
     "wof:name":"Kleosin",
     "wof:parent_id":102080145,
     "wof:placetype":"locality",

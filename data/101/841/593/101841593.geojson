@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.150103,
     "lbl:longitude":19.486936,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.150103,
     "mps:longitude":19.486936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "M\u0142oszowa"
     ],
@@ -109,7 +112,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":91,
     "wof:belongsto":[
         102191581,
@@ -121,7 +124,7 @@
     "wof:concordances":{
         "gn:id":3091650,
         "gp:id":507817,
-        "qs:id":888963,
+        "qs_pg:id":888963,
         "wd:id":"Q959536",
         "wk:page":"M\u0142oszowa"
     },
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101841593,
-    "wof:lastmodified":1563577967,
+    "wof:lastmodified":1566598272,
     "wof:name":"M\u0142oszowa",
     "wof:parent_id":102079495,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.102698,
     "lbl:longitude":19.253963,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.102698,
     "mps:longitude":19.253963,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Che\u0142mek"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.116667,
     "wd:longitude":19.25,
@@ -124,10 +127,12 @@
     "wof:concordances":{
         "gn:id":3101812,
         "gp:id":489155,
-        "qs:id":52451,
-        "qs_pg:id":1078605,
+        "qs_pg:id":52451,
         "wd:id":"Q985669",
         "wk:page":"Che\u0142mek"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078605
     },
     "wof:country":"PL",
     "wof:geomhash":"aaca5775fce202c10ec9a1db3e36f385",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":101824769,
-    "wof:lastmodified":1563578233,
+    "wof:lastmodified":1566598350,
     "wof:name":"Che\u0142mek",
     "wof:parent_id":102079465,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.216947,
     "lbl:longitude":19.75508,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.216947,
     "mps:longitude":19.75508,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Jerzmanowice"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":86,
     "wof:belongsto":[
@@ -83,10 +86,12 @@
     "wof:concordances":{
         "gn:id":7534594,
         "gp:id":24934807,
-        "qs:id":580927,
         "qs_pg:id":508888,
         "wd:id":"Q986691",
         "wk:page":"Jerzmanowice, Lesser Poland Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":580927
     },
     "wof:country":"PL",
     "wof:geomhash":"37fd9a2a7211b316ecc13dc22687ba3c",
@@ -100,7 +105,7 @@
         }
     ],
     "wof:id":101824903,
-    "wof:lastmodified":1563578233,
+    "wof:lastmodified":1566598350,
     "wof:name":"Jerzmanowice",
     "wof:parent_id":102079541,
     "wof:placetype":"locality",

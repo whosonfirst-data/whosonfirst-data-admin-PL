@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.391424,
     "lbl:longitude":18.899081,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":50.391424,
     "mps:longitude":18.899081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0637\u0648\u0645"
     ],
@@ -289,7 +292,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -301,7 +304,7 @@
     "wof:concordances":{
         "gn:id":3101950,
         "gp:id":515313,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q102350",
         "wk:page":"Bytom"
     },
@@ -317,7 +320,7 @@
         }
     ],
     "wof:id":101913757,
-    "wof:lastmodified":1563577896,
+    "wof:lastmodified":1566598254,
     "wof:name":"Bytom",
     "wof:parent_id":102079581,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.674914,
     "lbl:longitude":14.897369,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.674914,
     "mps:longitude":14.897369,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Witnica"
     ],
@@ -80,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0442\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vietz"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +107,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":17.0,
     "wd:latitude":52.677778,
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gn:id":3081818,
         "gp:id":24547968,
-        "qs:id":502792,
+        "qs_pg:id":502792,
         "wd:id":"Q988636",
         "wk:page":"Witnica"
     },
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101820409,
-    "wof:lastmodified":1563577364,
+    "wof:lastmodified":1566598130,
     "wof:name":"Witnica",
     "wof:parent_id":102079975,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.564385,
     "lbl:longitude":15.529707,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.564385,
     "mps:longitude":15.529707,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Szprotawa"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u043f\u0440\u043e\u0442\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sprottau"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.566667,
     "wd:longitude":15.5,
@@ -128,7 +131,6 @@
     "wof:concordances":{
         "gn:id":3083632,
         "gp:id":521958,
-        "qs:id":1121403,
         "qs_pg:id":1121403,
         "wd:id":"Q165066",
         "wk:page":"Szprotawa"
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101821373,
-    "wof:lastmodified":1563577671,
+    "wof:lastmodified":1566598198,
     "wof:name":"Szprotawa",
     "wof:parent_id":102079759,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.837212,
     "lbl:longitude":15.582182,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.837212,
     "mps:longitude":15.582182,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Zwierzyn"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":156,
     "wof:belongsto":[
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":3079923,
         "gp:id":24933814,
-        "qs:id":580883,
+        "qs_pg:id":580883,
         "wd:id":"Q7274482",
         "wk:page":"Zwierzyn, Lubusz Voivodeship"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101820481,
-    "wof:lastmodified":1563577411,
+    "wof:lastmodified":1566598141,
     "wof:name":"Zwierzyn",
     "wof:parent_id":102080011,
     "wof:placetype":"locality",

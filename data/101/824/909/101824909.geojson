@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.050902,
     "lbl:longitude":19.647436,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.050902,
     "mps:longitude":19.647436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Rybna"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3086593,
         "gp:id":516807,
-        "qs:id":1216844,
+        "qs_pg:id":1216844,
         "wd:id":"Q7384759",
         "wk:page":"Rybna, Lesser Poland Voivodeship"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101824909,
-    "wof:lastmodified":1563578197,
+    "wof:lastmodified":1566598340,
     "wof:name":"Rybna",
     "wof:parent_id":102079541,
     "wof:placetype":"locality",

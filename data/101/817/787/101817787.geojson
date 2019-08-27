@@ -9,14 +9,17 @@
     "geom:bbox":"23.3317284269,54.0956872783,23.3633527837,54.117597413",
     "geom:latitude":54.10789,
     "geom:longitude":23.347276,
-    "geonames:id":"759503,761407",
+    "gn:id":"759503,761407",
     "iso:country":"PL",
     "lbl:latitude":54.108051,
     "lbl:longitude":23.347515,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.108051,
     "mps:longitude":23.347515,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u044d\u0439\u043d\u044b"
     ],
@@ -111,9 +114,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0439\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Posejny"
-    ],
     "name:vie_x_preferred":[
         "Sejny"
     ],
@@ -144,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2498,
     "wof:belongsto":[
         102191581,
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":101817787,
-    "wof:lastmodified":1563577555,
+    "wof:lastmodified":1566598171,
     "wof:name":"Sejny",
     "wof:parent_id":102080257,
     "wof:placetype":"locality",

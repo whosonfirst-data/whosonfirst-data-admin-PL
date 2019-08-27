@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.072831,
     "lbl:longitude":15.867848,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.072831,
     "mps:longitude":15.867848,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kargowa"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.066667,
     "wd:longitude":15.866667,
@@ -135,10 +138,12 @@
     "wof:concordances":{
         "gn:id":3096640,
         "gp:id":498593,
-        "qs:id":1112674,
         "qs_pg:id":1060260,
         "wd:id":"Q280407",
         "wk:page":"Kargowa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1112674
     },
     "wof:country":"PL",
     "wof:geomhash":"bd011fce0a051b9b210f4b59e3884970",
@@ -152,7 +157,7 @@
         }
     ],
     "wof:id":101820085,
-    "wof:lastmodified":1563577351,
+    "wof:lastmodified":1566598127,
     "wof:name":"Kargowa",
     "wof:parent_id":102079851,
     "wof:placetype":"locality",

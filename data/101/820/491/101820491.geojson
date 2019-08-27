@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.758017,
     "lbl:longitude":17.49172,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.758017,
     "mps:longitude":17.49172,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Janowiec Wielkopolski"
     ],
@@ -80,7 +83,7 @@
     "name:ukr_x_variant":[
         "\u042f\u043d\u043e\u0432\u0435\u0446\u044c-\u0412\u0435\u043b\u0438\u043a\u043e\u043f\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Janowiec"
     ],
     "name:urd_x_preferred":[
@@ -107,7 +110,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.756944,
     "wd:longitude":17.488056,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":3097594,
         "gp:id":24548063,
-        "qs:id":59510,
+        "qs_pg:id":59510,
         "wd:id":"Q948367",
         "wk:page":"Janowiec Wielkopolski"
     },
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101820491,
-    "wof:lastmodified":1563577370,
+    "wof:lastmodified":1566598132,
     "wof:name":"Janowiec Wielkopolski",
     "wof:parent_id":102080017,
     "wof:placetype":"locality",

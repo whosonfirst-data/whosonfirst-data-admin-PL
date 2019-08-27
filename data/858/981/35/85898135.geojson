@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":44825177.530277,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.294877,50.825273,16.294877,50.825273",
     "geom:latitude":50.825273,
     "geom:longitude":16.294877,
     "iso:country":"PL",
+    "lbl:bbox":"16.289877,50.820273,16.299877,50.830273",
     "lbl:latitude":50.825273,
     "lbl:longitude":16.294877,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.794149,
     "mps:longitude":16.293432,
     "mz:hierarchy_label":0,
@@ -29,10 +31,6 @@
     "name:pol_x_variant":[
         "Nieder Bad Salzbrunn",
         "Nieder Salzbrunn"
-    ],
-    "name:unk_x_variant":[
-        "Nieder Bad Salzbrunn",
-        "Szczawienko"
     ],
     "qs:gn_adm0_cc":"PL",
     "qs:gn_fcode":"PPLX",
@@ -64,19 +62,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687301,
         102191581,
         85633723,
         101752161,
-        102079595,
-        85687301
+        102079595
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3083846,
         "gp:id":521570,
-        "qs:id":1156194,
         "qs_pg:id":1156194
     },
     "wof:country":"PL",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1531932016,
+    "wof:lastmodified":1566596107,
     "wof:name":"Szczawienko",
     "wof:parent_id":101752161,
     "wof:placetype":"neighbourhood",

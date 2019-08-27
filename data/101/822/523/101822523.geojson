@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.851444,
     "lbl:longitude":19.991635,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.851444,
     "mps:longitude":19.991635,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "W\u0142oszczowa"
     ],
@@ -122,7 +125,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":240.0,
     "wd:latitude":50.854167,
@@ -138,7 +141,7 @@
     "wof:concordances":{
         "gn:id":3081699,
         "gp:id":24548727,
-        "qs:id":1043117,
+        "qs_pg:id":1043117,
         "wd:id":"Q611784",
         "wk:page":"W\u0142oszczowa"
     },
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101822523,
-    "wof:lastmodified":1563578410,
+    "wof:lastmodified":1566598402,
     "wof:name":"W\u0142oszczowa",
     "wof:parent_id":102079679,
     "wof:placetype":"locality",

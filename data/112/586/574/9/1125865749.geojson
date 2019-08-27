@@ -9,15 +9,18 @@
     "geom:bbox":"19.47996,52.58271,19.47996,52.58271",
     "geom:latitude":52.58271,
     "geom:longitude":19.47996,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":873,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":873,
     "iso:country":"PL",
+    "lbl:bbox":"19.45996,52.56271,19.49996,52.60271",
     "lbl:latitude":52.58271,
     "lbl:longitude":19.47996,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0646\u0648\u0648 \u062f\u0648\u0646\u0642\u0646\u0648\u0648"
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0438\u0439 \u0414\u0443\u043d\u0456\u043d\u0443\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dunin\u00f3w Nowy"
     ],
     "qs_pg:aaroncc":"PL",
@@ -61,7 +64,7 @@
     "qs_pg:qs_id":94558,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125865749,
-    "wof:lastmodified":1564211907,
+    "wof:lastmodified":1566598716,
     "wof:name":"Nowy Dunin\u00f3w",
     "wof:parent_id":102080003,
     "wof:placetype":"locality",

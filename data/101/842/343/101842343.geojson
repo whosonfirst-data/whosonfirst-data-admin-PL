@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.36944,
     "lbl:longitude":20.947811,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.36944,
     "mps:longitude":20.947811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Powro\u017anik"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0432\u043e\u0440\u0430\u0437\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Powro\u017cnik"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -67,7 +70,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":74,
     "wof:belongsto":[
         102191581,
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gn:id":761339,
         "gp:id":508486,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2492222",
         "wk:page":"Powro\u017anik"
     },
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101842343,
-    "wof:lastmodified":1563577479,
+    "wof:lastmodified":1566598155,
     "wof:name":"Powro\u017anik",
     "wof:parent_id":102079425,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.300286,
     "lbl:longitude":20.808146,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.300286,
     "mps:longitude":20.808146,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Nowy Korczyn"
     ],
@@ -80,7 +83,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1260,
     "wof:belongsto":[
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":763545,
         "gp:id":12617084,
-        "qs:id":827420,
+        "qs_pg:id":827420,
         "wd:id":"Q1008390",
         "wk:page":"Nowy Korczyn"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101825107,
-    "wof:lastmodified":1563578286,
+    "wof:lastmodified":1566598365,
     "wof:name":"Nowy Korczyn",
     "wof:parent_id":102079615,
     "wof:placetype":"locality",

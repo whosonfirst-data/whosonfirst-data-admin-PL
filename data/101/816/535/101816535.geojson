@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.891055,
     "lbl:longitude":21.395471,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.891055,
     "mps:longitude":21.395471,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "R\u00f3\u017can"
     ],
@@ -83,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0436\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rozalin"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.882778,
     "wd:longitude":21.385556,
@@ -124,10 +127,12 @@
     "wof:concordances":{
         "gn:id":760258,
         "gp:id":516182,
-        "qs:id":994286,
         "qs_pg:id":475611,
         "wd:id":"Q995141",
         "wk:page":"R\u00f3\u017can"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":994286
     },
     "wof:country":"PL",
     "wof:geomhash":"f3a00834c7f8d34c3895c89a4acc3e68",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":101816535,
-    "wof:lastmodified":1563577457,
+    "wof:lastmodified":1566598150,
     "wof:name":"R\u00f3\u017can",
     "wof:parent_id":102080077,
     "wof:placetype":"locality",

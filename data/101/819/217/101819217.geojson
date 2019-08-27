@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.382374,
     "lbl:longitude":19.929165,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.382374,
     "mps:longitude":19.929165,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0631\u0628\u0646\u0648"
     ],
@@ -71,7 +74,7 @@
     "name:ukr_x_variant":[
         "\u0490\u043c\u0456\u043d\u0430 \u0420\u0438\u0431\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ribben"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":145,
     "wof:belongsto":[
@@ -107,10 +110,12 @@
     "wof:concordances":{
         "gn:id":759892,
         "gp:id":516819,
-        "qs:id":1216847,
         "qs_pg:id":216194,
         "wd:id":"Q339507",
         "wk:page":"Gmina Rybno, Warmian-Masurian Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1216847
     },
     "wof:country":"PL",
     "wof:geomhash":"f10acf52e6ef3031b106b41e3359162b",
@@ -124,7 +129,7 @@
         }
     ],
     "wof:id":101819217,
-    "wof:lastmodified":1563577705,
+    "wof:lastmodified":1566598207,
     "wof:name":"Rybno",
     "wof:parent_id":102080111,
     "wof:placetype":"locality",

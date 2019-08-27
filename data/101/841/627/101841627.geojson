@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.247058,
     "lbl:longitude":19.667617,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.247058,
     "mps:longitude":19.667617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Zederman"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         102191581,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":3080365,
         "gp:id":528556,
-        "qs:id":1218013,
+        "qs_pg:id":1218013,
         "wd:id":"Q8068376",
         "wk:page":"Zederman"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101841627,
-    "wof:lastmodified":1563577990,
+    "wof:lastmodified":1566598278,
     "wof:name":"Zederman",
     "wof:parent_id":102079555,
     "wof:placetype":"locality",

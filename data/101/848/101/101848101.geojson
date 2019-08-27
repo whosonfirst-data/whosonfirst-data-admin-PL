@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.245535,
     "lbl:longitude":15.816594,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.245535,
     "mps:longitude":15.816594,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Zb\u0105szynek"
     ],
@@ -80,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0431\u043e\u043d\u0448\u0438\u043d\u0435\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neu Bentschen"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.25,
     "wd:longitude":15.816667,
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":3080494,
         "gp:id":528302,
-        "qs:id":206267,
-        "qs_pg:id":1327019,
+        "qs_pg:id":206267,
         "wd:id":"Q168902",
         "wk:page":"Zb\u0105szynek"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327019
     },
     "wof:country":"PL",
     "wof:geomhash":"db18ea5cd1654578533d7fd38d59b58f",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":101848101,
-    "wof:lastmodified":1563578076,
+    "wof:lastmodified":1566598303,
     "wof:name":"Zb\u0105szynek",
     "wof:parent_id":102079887,
     "wof:placetype":"locality",

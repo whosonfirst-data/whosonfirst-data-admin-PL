@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.010775,
     "lbl:longitude":16.522013,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.010775,
     "mps:longitude":16.522013,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "\u015amigiel"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.009167,
     "wd:longitude":16.518611,
@@ -121,10 +124,12 @@
     "wof:concordances":{
         "gn:id":3085391,
         "gp:id":518900,
-        "qs:id":1189874,
         "qs_pg:id":470568,
         "wd:id":"Q387194",
         "wk:page":"\u015amigiel"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1189874
     },
     "wof:country":"PL",
     "wof:geomhash":"e11ffe27f7c34d417f3880fd43236c5d",
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":101848099,
-    "wof:lastmodified":1563578072,
+    "wof:lastmodified":1566598302,
     "wof:name":"\u015amigiel",
     "wof:parent_id":102079871,
     "wof:placetype":"locality",

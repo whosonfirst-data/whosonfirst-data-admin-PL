@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.622336,
     "lbl:longitude":21.58715,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.622336,
     "mps:longitude":21.58715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Nienasz\u00f3w"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":98,
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":763908,
         "gp:id":509105,
-        "qs:id":1216060,
+        "qs_pg:id":1216060,
         "wd:id":"Q7031752",
         "wk:page":"Nienasz\u00f3w"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101827351,
-    "wof:lastmodified":1563577307,
+    "wof:lastmodified":1566598115,
     "wof:name":"Nienasz\u00f3w",
     "wof:parent_id":102079453,
     "wof:placetype":"locality",

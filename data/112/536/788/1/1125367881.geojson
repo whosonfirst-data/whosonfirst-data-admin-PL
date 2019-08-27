@@ -9,15 +9,18 @@
     "geom:bbox":"23.89251,50.80502,23.89251,50.80502",
     "geom:latitude":50.80502,
     "geom:longitude":23.89251,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":18605,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":18605,
     "iso:country":"PL",
+    "lbl:bbox":"23.79251,50.70502,23.99251,50.90502",
     "lbl:latitude":50.80502,
     "lbl:longitude":23.89251,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062e\u0631\u0648\u0628\u06cc\u0634\u0648\u0648"
@@ -109,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0443\u0431\u0435\u0448\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khrubeshuv"
     ],
     "name:vie_x_preferred":[
@@ -142,7 +145,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24548545,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1125367881,
-    "wof:lastmodified":1564212284,
+    "wof:lastmodified":1566598945,
     "wof:name":"Hrubiesz\u00f3w",
     "wof:parent_id":102079743,
     "wof:placetype":"localadmin",

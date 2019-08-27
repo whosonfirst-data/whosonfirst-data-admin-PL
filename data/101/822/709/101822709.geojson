@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.32708,
     "lbl:longitude":21.879985,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.32708,
     "mps:longitude":21.879985,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Janowiec"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043d\u043e\u0432\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Janowiec nad Wist\u0105"
     ],
     "name:urd_x_preferred":[
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":127,
     "wof:belongsto":[
@@ -86,9 +89,11 @@
     "wof:concordances":{
         "gn:id":770448,
         "gp:id":496855,
-        "qs:id":332081,
         "qs_pg:id":228716,
         "wd:id":"Q2688480"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":332081
     },
     "wof:country":"PL",
     "wof:geomhash":"8cefdf29d5e8a15be09d938a9cae17a2",
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":101822709,
-    "wof:lastmodified":1563578314,
+    "wof:lastmodified":1566598374,
     "wof:name":"Janowiec",
     "wof:parent_id":102079833,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":20.117805,
     "gn:population":1900,
     "iso:country":"PL",
+    "lbl:bbox":"20.097805,49.767472,20.137805,49.807472",
     "lbl:latitude":49.787472,
     "lbl:longitude":20.117805,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.787472,
     "mps:longitude":20.117805,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Wi\u015bniowa"
     ],
@@ -44,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0441\u043d\u044c\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wi\u015bnjowa"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":59,
     "wof:belongsto":[
@@ -78,9 +82,11 @@
     "wof:concordances":{
         "gn:id":755568,
         "gp:id":525089,
-        "qs:id":338726,
         "qs_pg:id":310054,
         "wd:id":"Q396594"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":338726
     },
     "wof:country":"PL",
     "wof:geomhash":"20b6645462479fee33a38ee6e36100cf",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101863247,
-    "wof:lastmodified":1563578475,
+    "wof:lastmodified":1566598421,
     "wof:name":"Wi\u015bniowa",
     "wof:parent_id":102079441,
     "wof:placetype":"locality",

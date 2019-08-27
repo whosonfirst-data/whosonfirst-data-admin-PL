@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":54.32696,
     "lbl:longitude":18.098646,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.32696,
     "mps:longitude":18.098646,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u062e\u0645\u06cc\u0644\u0646\u0648"
     ],
@@ -68,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u043c\u0456\u043d\u0430 \u0425\u043c\u0435\u043b\u044c\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ludwigsdorf"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":145,
     "wof:belongsto":[
@@ -107,10 +110,12 @@
     "wof:concordances":{
         "gn:id":3101736,
         "gp:id":489268,
-        "qs:id":59490,
-        "qs_pg:id":195727,
+        "qs_pg:id":59490,
         "wd:id":"Q946365",
         "wk:page":"Gmina Chmielno"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":195727
     },
     "wof:country":"PL",
     "wof:geomhash":"e5330e4050d3fa2bb5084e02b796cce7",
@@ -124,7 +129,7 @@
         }
     ],
     "wof:id":101819459,
-    "wof:lastmodified":1563577791,
+    "wof:lastmodified":1566598226,
     "wof:name":"Chmielno",
     "wof:parent_id":102080233,
     "wof:placetype":"locality",

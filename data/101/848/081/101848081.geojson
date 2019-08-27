@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.545821,
     "lbl:longitude":23.211414,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.545821,
     "mps:longitude":23.211414,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Krasnobr\u00f3d"
     ],
@@ -98,7 +101,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.533333,
     "wd:longitude":23.183333,
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gn:id":767619,
         "gp:id":24548675,
-        "qs:id":1113173,
+        "qs_pg:id":1113173,
         "wd:id":"Q999623",
         "wk:page":"Krasnobr\u00f3d"
     },
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101848081,
-    "wof:lastmodified":1563578079,
+    "wof:lastmodified":1566598305,
     "wof:name":"Krasnobr\u00f3d",
     "wof:parent_id":102079715,
     "wof:placetype":"locality",

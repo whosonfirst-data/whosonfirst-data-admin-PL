@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.802573,
     "lbl:longitude":23.897435,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.802573,
     "mps:longitude":23.897435,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u062e\u0631\u0648\u0628\u06cc\u0634\u0648\u0648"
     ],
@@ -128,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0443\u0431\u0435\u0448\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khrubeshuv"
     ],
     "name:vie_x_preferred":[
@@ -158,7 +161,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":926,
     "wof:belongsto":[
@@ -171,7 +174,6 @@
     "wof:concordances":{
         "gn:id":770966,
         "gp:id":495994,
-        "qs:id":976950,
         "qs_pg:id":976950,
         "wd:id":"Q924103",
         "wk:page":"Hrubiesz\u00f3w"
@@ -188,7 +190,7 @@
         }
     ],
     "wof:id":101821327,
-    "wof:lastmodified":1563577665,
+    "wof:lastmodified":1566598197,
     "wof:name":"Hrubiesz\u00f3w",
     "wof:parent_id":102079743,
     "wof:placetype":"locality",

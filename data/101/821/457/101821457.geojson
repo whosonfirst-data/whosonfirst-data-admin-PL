@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.708775,
     "lbl:longitude":17.997508,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.708775,
     "mps:longitude":17.997508,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nowe Skalmierzyce"
     ],
@@ -69,7 +72,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0435 \u0421\u043a\u0430\u043b\u044c\u043c\u0435\u0436\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Skalmierzyce Stare"
     ],
     "name:vie_x_preferred":[
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.716667,
     "wd:longitude":18.0,
@@ -110,10 +113,12 @@
     "wof:concordances":{
         "gn:id":3085855,
         "gp:id":518167,
-        "qs:id":206278,
-        "qs_pg:id":307011,
+        "qs_pg:id":206278,
         "wd:id":"Q557257",
         "wk:page":"Nowe Skalmierzyce"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":307011
     },
     "wof:country":"PL",
     "wof:geomhash":"e6a04c42c218a96d419fdfd16e7235a8",
@@ -127,7 +132,7 @@
         }
     ],
     "wof:id":101821457,
-    "wof:lastmodified":1563577658,
+    "wof:lastmodified":1566598196,
     "wof:name":"Nowe Skalmierzyce",
     "wof:parent_id":102079789,
     "wof:placetype":"locality",

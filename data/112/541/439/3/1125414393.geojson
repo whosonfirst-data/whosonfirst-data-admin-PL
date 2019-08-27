@@ -9,15 +9,18 @@
     "geom:bbox":"16.01132,53.53286,16.01132,53.53286",
     "geom:latitude":53.53286,
     "geom:longitude":16.01132,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":13337,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":13337,
     "iso:country":"PL",
+    "lbl:bbox":"15.91132,53.43286,16.11132,53.63286",
     "lbl:latitude":53.53286,
     "lbl:longitude":16.01132,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0417\u043b\u0430\u0446\u0435\u043d\u0435\u0446"
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u043b\u043e\u0446\u0435\u043d\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Falkenburg"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24547734,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1125414393,
-    "wof:lastmodified":1564212447,
+    "wof:lastmodified":1566599150,
     "wof:name":"Z\u0142ocieniec",
     "wof:parent_id":102080113,
     "wof:placetype":"localadmin",

@@ -11,12 +11,16 @@
     "geom:longitude":19.234704,
     "gn:population":2489,
     "iso:country":"PL",
+    "lbl:bbox":"19.214704,49.989953,19.254704,50.029953",
     "lbl:latitude":50.009953,
     "lbl:longitude":19.234704,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.009953,
     "mps:longitude":19.234704,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Zaborze"
     ],
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":94,
     "wof:belongsto":[
@@ -72,10 +76,12 @@
     "wof:concordances":{
         "gn:id":754302,
         "gp:id":527114,
-        "qs:id":1163945,
         "qs_pg:id":311100,
         "wd:id":"Q8063569",
         "wk:page":"Zaborze, O\u015bwi\u0119cim County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1163945
     },
     "wof:country":"PL",
     "wof:geomhash":"1a5d6933c0ff785dc72cca2acff97030",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":101875859,
-    "wof:lastmodified":1563577855,
+    "wof:lastmodified":1566598244,
     "wof:name":"Zaborze",
     "wof:parent_id":102079465,
     "wof:placetype":"locality",

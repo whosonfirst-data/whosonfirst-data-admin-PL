@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.092761,
     "lbl:longitude":20.804798,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.092761,
     "mps:longitude":20.804798,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Nadarzyn"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":149,
     "wof:belongsto":[
@@ -80,10 +83,12 @@
     "wof:concordances":{
         "gn:id":764193,
         "gp:id":508612,
-        "qs:id":895523,
         "qs_pg:id":504783,
         "wd:id":"Q1020457",
         "wk:page":"Nadarzyn"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":895523
     },
     "wof:country":"PL",
     "wof:geomhash":"1ec1ddad2425c245ccb4d8af6e403e31",
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101816515,
-    "wof:lastmodified":1563577466,
+    "wof:lastmodified":1566598152,
     "wof:name":"Nadarzyn",
     "wof:parent_id":102079919,
     "wof:placetype":"locality",

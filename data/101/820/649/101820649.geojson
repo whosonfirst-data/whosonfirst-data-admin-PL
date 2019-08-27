@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.263285,
     "lbl:longitude":23.777504,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.263285,
     "mps:longitude":23.777504,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Krynki"
     ],
@@ -107,7 +110,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.265278,
     "wd:longitude":23.771944,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":767357,
         "gp:id":12617507,
-        "qs:id":225669,
+        "qs_pg:id":225669,
         "wd:id":"Q286696",
         "wk:page":"Krynki"
     },
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101820649,
-    "wof:lastmodified":1563577410,
+    "wof:lastmodified":1566598140,
     "wof:name":"Krynki",
     "wof:parent_id":102080189,
     "wof:placetype":"locality",

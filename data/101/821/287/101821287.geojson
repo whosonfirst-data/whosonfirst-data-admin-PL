@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.087299,
     "lbl:longitude":19.876766,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.087299,
     "mps:longitude":19.876766,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Wola Przedborska"
     ],
@@ -38,9 +41,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u044f-\u041f\u0448\u0435\u0434\u0431\u043e\u0440\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Wola Przedborska"
-    ],
     "qs:a0":"Rzeczpospolita Polska",
     "qs:a1":"*L\u00f3dzkie",
     "qs:a1r":"0",
@@ -56,7 +56,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":91,
     "wof:belongsto":[
@@ -69,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3081532,
         "gp:id":525774,
-        "qs:id":310411,
+        "qs_pg:id":310411,
         "wd:id":"Q8029571",
         "wk:page":"Wola Przedborska"
     },
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":101821287,
-    "wof:lastmodified":1563577584,
+    "wof:lastmodified":1566598179,
     "wof:name":"Przedb\u00f3rz",
     "wof:parent_id":102079711,
     "wof:placetype":"locality",

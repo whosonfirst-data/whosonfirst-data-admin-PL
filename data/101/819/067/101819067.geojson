@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.004323,
     "lbl:longitude":14.961021,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.004323,
     "mps:longitude":14.961021,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Lipiany"
     ],
@@ -77,7 +80,7 @@
     "name:ukr_x_variant":[
         "\u041b\u0456\u043f\u044f\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lippehne"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":54.0,
     "wd:latitude":53.000278,
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gn:id":3093350,
         "gp:id":24547615,
-        "qs:id":1205694,
+        "qs_pg:id":1205694,
         "wd:id":"Q558614",
         "wk:page":"Lipiany"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101819067,
-    "wof:lastmodified":1563577796,
+    "wof:lastmodified":1566598228,
     "wof:name":"Lipiany",
     "wof:parent_id":102080041,
     "wof:placetype":"locality",

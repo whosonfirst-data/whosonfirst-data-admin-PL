@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.734029,
     "lbl:longitude":21.791802,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.734029,
     "mps:longitude":21.791802,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Dwikozy"
     ],
@@ -83,7 +86,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":119,
     "wof:belongsto":[
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":772822,
         "gp:id":12618062,
-        "qs:id":52070,
+        "qs_pg:id":52070,
         "wd:id":"Q2500949",
         "wk:page":"Dwikozy"
     },
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101822817,
-    "wof:lastmodified":1563578327,
+    "wof:lastmodified":1566598378,
     "wof:name":"Dwikozy",
     "wof:parent_id":102079681,
     "wof:placetype":"locality",

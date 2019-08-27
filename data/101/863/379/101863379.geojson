@@ -11,12 +11,16 @@
     "geom:longitude":20.563999,
     "gn:population":2500,
     "iso:country":"PL",
+    "lbl:bbox":"20.543999,49.917946,20.583999,49.957946",
     "lbl:latitude":49.937946,
     "lbl:longitude":20.563999,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.937946,
     "mps:longitude":20.563999,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Por\u0119ba Spytkowska"
     ],
@@ -35,7 +39,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0435\u043c\u0431\u0430-\u0421\u043f\u0438\u0442\u043a\u043e\u0432\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Por\u0119ba"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -69,10 +73,12 @@
     "wof:concordances":{
         "gn:id":761472,
         "gp:id":513826,
-        "qs:id":1216536,
         "qs_pg:id":963256,
         "wd:id":"Q664970",
         "wk:page":"Por\u0119ba Spytkowska"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1216536
     },
     "wof:country":"PL",
     "wof:geomhash":"b14dad397e47bbec4b7c0650e8755335",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":101863379,
-    "wof:lastmodified":1563578453,
+    "wof:lastmodified":1566598414,
     "wof:name":"Por\u0119ba Spytkowska",
     "wof:parent_id":102079517,
     "wof:placetype":"locality",

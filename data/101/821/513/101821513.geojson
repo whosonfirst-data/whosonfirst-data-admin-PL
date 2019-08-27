@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.699832,
     "lbl:longitude":17.174837,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.699832,
     "mps:longitude":17.174837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Smolice"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":100,
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3085350,
         "gp:id":518970,
-        "qs:id":1011509,
+        "qs_pg:id":1011509,
         "wd:id":"Q4713343",
         "wk:page":"Smolice, Greater Poland Voivodeship"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101821513,
-    "wof:lastmodified":1563577669,
+    "wof:lastmodified":1566598198,
     "wof:name":"Smolice",
     "wof:parent_id":102079811,
     "wof:placetype":"locality",

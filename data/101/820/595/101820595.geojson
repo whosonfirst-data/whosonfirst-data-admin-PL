@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.757999,
     "lbl:longitude":14.785983,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.757999,
     "mps:longitude":14.785983,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Przybiern\u00f3w"
     ],
@@ -227,7 +230,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0448\u0438\u0431\u0435\u0440\u043d\u0443\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pribbernow"
     ],
     "name:vec_x_preferred":[
@@ -271,7 +274,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":125,
     "wof:belongsto":[
@@ -284,10 +287,12 @@
     "wof:concordances":{
         "gn:id":3087903,
         "gp:id":514491,
-        "qs:id":497821,
         "qs_pg:id":305479,
         "wd:id":"Q2067681",
         "wk:page":"Przybiern\u00f3w"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":497821
     },
     "wof:country":"PL",
     "wof:geomhash":"22954dbc8f5764c66168a0ed5026dc42",
@@ -301,7 +306,7 @@
         }
     ],
     "wof:id":101820595,
-    "wof:lastmodified":1563577328,
+    "wof:lastmodified":1566598121,
     "wof:name":"Przybiern\u00f3w",
     "wof:parent_id":102080123,
     "wof:placetype":"locality",

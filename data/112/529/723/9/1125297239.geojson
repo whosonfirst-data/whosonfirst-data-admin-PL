@@ -9,15 +9,18 @@
     "geom:bbox":"19.12409,50.79646,19.12409,50.79646",
     "geom:latitude":50.79646,
     "geom:longitude":19.12409,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":248125,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":248125,
     "iso:country":"PL",
+    "lbl:bbox":"19.02409,50.69646,19.22409,50.89646",
     "lbl:latitude":50.79646,
     "lbl:longitude":19.12409,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0633\u062a\u0648\u062e\u0648\u0641\u0627"
@@ -215,7 +218,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u043d\u0441\u0442\u043e\u0445\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chenstokhov"
     ],
     "name:uzb_x_preferred":[
@@ -254,7 +257,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":12618380,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":1125297239,
-    "wof:lastmodified":1564211978,
+    "wof:lastmodified":1566598771,
     "wof:name":"Cz\u0119stochowa",
     "wof:parent_id":102079633,
     "wof:placetype":"localadmin",

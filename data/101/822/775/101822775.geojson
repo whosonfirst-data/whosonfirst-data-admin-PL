@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.962395,
     "lbl:longitude":17.39454,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.962395,
     "mps:longitude":17.39454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Bystrzyca"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":97,
     "wof:belongsto":[
@@ -74,10 +77,12 @@
     "wof:concordances":{
         "gn:id":3101975,
         "gp:id":488879,
-        "qs:id":182008,
-        "qs_pg:id":962795,
+        "qs_pg:id":182008,
         "wd:id":"Q5004582",
         "wk:page":"Bystrzyca, O\u0142awa County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":962795
     },
     "wof:country":"PL",
     "wof:geomhash":"ff3691418b70094ae04e700611b34421",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":101822775,
-    "wof:lastmodified":1563578401,
+    "wof:lastmodified":1566598400,
     "wof:name":"Bystrzyca",
     "wof:parent_id":102079651,
     "wof:placetype":"locality",

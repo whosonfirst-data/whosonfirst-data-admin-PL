@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.621922,
     "lbl:longitude":20.947974,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.621922,
     "mps:longitude":20.947974,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0631\u0628\u0648\u0648"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.624444,
     "wd:longitude":20.948333,
@@ -143,7 +146,6 @@
         "gn:id":771313,
         "gp:id":495464,
         "loc:id":"n95010045",
-        "qs:id":129325,
         "qs_pg:id":129325,
         "wd:id":"Q990669",
         "wk:page":"Gryb\u00f3w"
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101842351,
-    "wof:lastmodified":1563577474,
+    "wof:lastmodified":1566598154,
     "wof:name":"Gryb\u00f3w",
     "wof:parent_id":102079425,
     "wof:placetype":"locality",

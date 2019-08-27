@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.904064,
     "lbl:longitude":17.839193,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.904064,
     "mps:longitude":17.839193,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Pok\u00f3j"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043a\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Carlsruhe"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -119,7 +122,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":405,
     "wof:belongsto":[
@@ -132,7 +135,7 @@
     "wof:concordances":{
         "gn:id":3088526,
         "gp:id":12618338,
-        "qs:id":497940,
+        "qs_pg:id":497940,
         "wd:id":"Q910522",
         "wk:page":"Pok\u00f3j, Opole Voivodeship"
     },
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101822803,
-    "wof:lastmodified":1563578336,
+    "wof:lastmodified":1566598381,
     "wof:name":"Pok\u00f3j",
     "wof:parent_id":102079673,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.914186,
     "lbl:longitude":23.518925,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.914186,
     "mps:longitude":23.518925,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0646\u0627\u0631\u0648"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":149,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":764125,
         "gp:id":508739,
-        "qs:id":928567,
         "qs_pg:id":928567,
         "wd:id":"Q2113624",
         "wk:page":"Gmina Narew"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101820565,
-    "wof:lastmodified":1563577402,
+    "wof:lastmodified":1566598139,
     "wof:name":"Narew",
     "wof:parent_id":102080091,
     "wof:placetype":"locality",

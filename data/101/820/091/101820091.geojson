@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.800447,
     "lbl:longitude":19.757783,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.800447,
     "mps:longitude":19.757783,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0411\u0436\u044d\u0437\u0456\u043d\u044b"
     ],
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":367,
     "wof:belongsto":[
@@ -158,10 +161,12 @@
     "wof:concordances":{
         "gn:id":3102391,
         "gp:id":488079,
-        "qs:id":847943,
         "qs_pg:id":580945,
         "wd:id":"Q324917",
         "wk:page":"Brzeziny"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":847943
     },
     "wof:country":"PL",
     "wof:geomhash":"a476983c2a9aded69c333ffba277b1b5",
@@ -175,7 +180,7 @@
         }
     ],
     "wof:id":101820091,
-    "wof:lastmodified":1563577356,
+    "wof:lastmodified":1566598128,
     "wof:name":"Brzeziny",
     "wof:parent_id":102079853,
     "wof:placetype":"locality",

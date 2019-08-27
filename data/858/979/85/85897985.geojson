@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":28737946.283077,
+    "geom:area_square_m":0.0,
     "geom:bbox":"16.191065,54.199515,16.191065,54.199515",
     "geom:latitude":54.199515,
     "geom:longitude":16.191065,
     "iso:country":"PL",
+    "lbl:bbox":"16.186065,54.194515,16.196065,54.204515",
     "lbl:latitude":54.199515,
     "lbl:longitude":16.191065,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.203006,
     "mps:longitude":16.198847,
     "mz:hierarchy_label":0,
@@ -34,9 +36,8 @@
     "name:pol_x_variant":[
         "M\u00fchlentor-Vorstadt"
     ],
-    "name:unk_x_variant":[
-        "Maskow",
-        "Miakowo"
+    "name:und_x_variant":[
+        "Maskow"
     ],
     "qs:gn_adm0_cc":"PL",
     "qs:gn_fcode":"PPL",
@@ -68,19 +69,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687271,
         102191581,
         85633723,
         101752259,
-        102080185,
-        85687271
+        102080185
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3092188,
         "gp:id":507534,
-        "qs:id":1301639,
         "qs_pg:id":1301639
     },
     "wof:country":"PL",
@@ -99,7 +99,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1531931989,
+    "wof:lastmodified":1566596095,
     "wof:name":"Miakowo",
     "wof:parent_id":101752259,
     "wof:placetype":"neighbourhood",

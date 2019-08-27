@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.883619,
     "lbl:longitude":22.097296,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.883619,
     "mps:longitude":22.097296,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "B\u0142a\u017cowa Dolna"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":486573,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q5005613"
     },
     "wof:country":"PL",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101848035,
-    "wof:lastmodified":1563578083,
+    "wof:lastmodified":1566598306,
     "wof:name":"B\u0142a\u017cowa Dolna",
     "wof:parent_id":102079585,
     "wof:placetype":"locality",

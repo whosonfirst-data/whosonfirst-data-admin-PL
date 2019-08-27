@@ -9,15 +9,18 @@
     "geom:bbox":"20.92664,52.40149,20.92664,52.40149",
     "geom:latitude":52.40149,
     "geom:longitude":20.92664,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":50786,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":50786,
     "iso:country":"PL",
+    "lbl:bbox":"20.82664,52.30149,21.02664,52.50149",
     "lbl:latitude":52.40149,
     "lbl:longitude":20.92664,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0435\u0433\u044c\u043e\u043d\u043e\u0432\u043e"
@@ -109,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0491\u044c\u043e\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jab\u0142onna-Legionowo"
     ],
     "name:vie_x_preferred":[
@@ -142,7 +145,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":12618791,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1125350201,
-    "wof:lastmodified":1564211743,
+    "wof:lastmodified":1566598611,
     "wof:name":"Legionowo",
     "wof:parent_id":102079985,
     "wof:placetype":"localadmin",

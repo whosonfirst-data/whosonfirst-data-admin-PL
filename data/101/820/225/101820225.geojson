@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.448005,
     "lbl:longitude":16.177524,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.448005,
     "mps:longitude":16.177524,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0644\u0648\u0648\u0648\u06a9"
     ],
@@ -65,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u043c\u0456\u043d\u0430 \u041b\u044c\u0432\u0443\u0432\u0435\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neustadt bei Pinne"
     ],
     "name:war_x_preferred":[
@@ -86,7 +89,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":162,
     "wof:belongsto":[
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3092639,
         "gp:id":24547486,
-        "qs:id":1314785,
+        "qs_pg:id":1314785,
         "wd:id":"Q555314",
         "wk:page":"Gmina Lw\u00f3wek"
     },
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101820225,
-    "wof:lastmodified":1563577419,
+    "wof:lastmodified":1566598142,
     "wof:name":"Lw\u00f3wek",
     "wof:parent_id":102079915,
     "wof:placetype":"locality",

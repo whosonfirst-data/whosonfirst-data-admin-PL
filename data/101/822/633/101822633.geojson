@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.533388,
     "lbl:longitude":17.973333,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.533388,
     "mps:longitude":17.973333,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Mikstat"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":215.0,
     "wd:latitude":51.533333,
@@ -119,7 +122,6 @@
     "wof:concordances":{
         "gn:id":3091817,
         "gp:id":507509,
-        "qs:id":94563,
         "qs_pg:id":94563,
         "wd:id":"Q1551924",
         "wk:page":"Mikstat"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101822633,
-    "wof:lastmodified":1563578332,
+    "wof:lastmodified":1566598380,
     "wof:name":"Mikstat",
     "wof:parent_id":102079747,
     "wof:placetype":"locality",

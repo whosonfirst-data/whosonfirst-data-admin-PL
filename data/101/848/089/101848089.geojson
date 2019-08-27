@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.848152,
     "lbl:longitude":16.130119,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.848152,
     "mps:longitude":16.130119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Stare Str\u0105cze"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":91,
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3084849,
         "gp:id":519871,
-        "qs:id":963350,
+        "qs_pg:id":963350,
         "wd:id":"Q2114014",
         "wk:page":"Stare Str\u0105cze"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101848089,
-    "wof:lastmodified":1563578077,
+    "wof:lastmodified":1566598304,
     "wof:name":"Stare Str\u0105cze",
     "wof:parent_id":102079817,
     "wof:placetype":"locality",

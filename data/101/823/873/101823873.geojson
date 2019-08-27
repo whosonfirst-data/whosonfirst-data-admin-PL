@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.491052,
     "lbl:longitude":21.612924,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.491052,
     "mps:longitude":21.612924,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "D\u0105browica"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":96,
     "wof:belongsto":[
         102191581,
@@ -63,10 +66,12 @@
     "wof:concordances":{
         "gn:id":8131401,
         "gp:id":24932927,
-        "qs:id":1214294,
         "qs_pg:id":246672,
         "wd:id":"Q5320719",
         "wk:page":"D\u0105browica, Tarnobrzeg County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1214294
     },
     "wof:country":"PL",
     "wof:geomhash":"262bbb5a47aa8d3e28c101c426161ac8",
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":101823873,
-    "wof:lastmodified":1563578112,
+    "wof:lastmodified":1566598314,
     "wof:name":"D\u0105browica",
     "wof:parent_id":102079653,
     "wof:placetype":"locality",

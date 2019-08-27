@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.147431,
     "lbl:longitude":21.739444,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.147431,
     "mps:longitude":21.739444,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ceg\u0142\u00f3w"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -83,10 +86,12 @@
     "wof:concordances":{
         "gn:id":6941564,
         "gp:id":24932302,
-        "qs:id":1190590,
         "qs_pg:id":919107,
         "wd:id":"Q2406134",
         "wk:page":"Ceg\u0142\u00f3w, Mi\u0144sk County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1190590
     },
     "wof:country":"PL",
     "wof:geomhash":"d577faf32497b5acf027dd298262abc5",
@@ -100,7 +105,7 @@
         }
     ],
     "wof:id":101820389,
-    "wof:lastmodified":1563577445,
+    "wof:lastmodified":1566598147,
     "wof:name":"Ceg\u0142\u00f3w",
     "wof:parent_id":102079965,
     "wof:placetype":"locality",

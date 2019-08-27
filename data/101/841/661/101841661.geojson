@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.462025,
     "lbl:longitude":17.005869,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.462025,
     "mps:longitude":17.005869,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Paczk\u00f3w"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0447\u043a\u0443\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Patschkau"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +113,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.45,
     "wd:longitude":17.0,
@@ -125,7 +128,7 @@
     "wof:concordances":{
         "gn:id":3089566,
         "gp:id":24548798,
-        "qs:id":1257559,
+        "qs_pg:id":1257559,
         "wd:id":"Q988574",
         "wk:page":"Paczk\u00f3w"
     },
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101841661,
-    "wof:lastmodified":1563578002,
+    "wof:lastmodified":1566598281,
     "wof:name":"Paczk\u00f3w",
     "wof:parent_id":102079569,
     "wof:placetype":"locality",

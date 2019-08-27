@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.348765,
     "lbl:longitude":18.439862,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.348765,
     "mps:longitude":18.439862,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u044d\u043b\u043c\u043d\u0430"
     ],
@@ -193,7 +196,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1070,
     "wof:belongsto":[
@@ -206,7 +209,6 @@
     "wof:concordances":{
         "gn:id":3101795,
         "gp:id":489166,
-        "qs:id":900668,
         "qs_pg:id":900668,
         "wd:id":"Q161962"
     },
@@ -222,7 +224,7 @@
         }
     ],
     "wof:id":101819189,
-    "wof:lastmodified":1563577731,
+    "wof:lastmodified":1566598214,
     "wof:name":"Che\u0142mno",
     "wof:parent_id":102080093,
     "wof:placetype":"locality",

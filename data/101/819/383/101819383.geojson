@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.608918,
     "lbl:longitude":19.259821,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.608918,
     "mps:longitude":19.259821,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kisielice"
     ],
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0441\u0435\u043b\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Freystadt"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.606944,
     "wd:longitude":19.259444,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":3096208,
         "gp:id":24547496,
-        "qs:id":59417,
+        "qs_pg:id":59417,
         "wd:id":"Q989801",
         "wk:page":"Kisielice"
     },
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101819383,
-    "wof:lastmodified":1563577728,
+    "wof:lastmodified":1566598214,
     "wof:name":"Kisielice",
     "wof:parent_id":102080171,
     "wof:placetype":"locality",

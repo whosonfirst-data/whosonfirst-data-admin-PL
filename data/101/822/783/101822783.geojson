@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.94561,
     "lbl:longitude":15.924938,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.94561,
     "mps:longitude":15.924938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0648\u06cc\u0686\u06cc\u0634\u0648\u0648"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0439\u0446\u0435\u0448\u0443\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kauffung"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +116,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.954722,
     "wd:longitude":15.923056,
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gn:id":3081653,
         "gp:id":12618821,
-        "qs:id":24299,
+        "qs_pg:id":24299,
         "wd:id":"Q987981",
         "wk:page":"Wojciesz\u00f3w"
     },
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101822783,
-    "wof:lastmodified":1563578355,
+    "wof:lastmodified":1566598387,
     "wof:name":"Wojciesz\u00f3w",
     "wof:parent_id":102079657,
     "wof:placetype":"locality",

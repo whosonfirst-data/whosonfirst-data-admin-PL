@@ -9,14 +9,17 @@
     "geom:bbox":"17.7864183409,51.9561798971,17.8206054909,51.9689280209",
     "geom:latitude":51.962791,
     "geom:longitude":17.808573,
-    "geonames:id":"3102567,7535721",
+    "gn:id":"3102567,7535721",
     "iso:country":"PL",
     "lbl:latitude":51.962668,
     "lbl:longitude":17.812587,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.962668,
     "mps:longitude":17.812587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Broniszewice"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":78,
     "wof:belongsto":[
         102191581,
@@ -70,9 +73,11 @@
     "wof:concordances":{
         "gn:id":7535721,
         "gp:id":487781,
-        "qs:id":1193254,
-        "qs_pg:id":1213963,
+        "qs_pg:id":1193254,
         "wd:id":"Q4973925"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1213963
     },
     "wof:country":"PL",
     "wof:geomhash":"eeaadb0545b3491519fe3d91b3774548",
@@ -86,7 +91,7 @@
         }
     ],
     "wof:id":101821609,
-    "wof:lastmodified":1563577663,
+    "wof:lastmodified":1566598197,
     "wof:name":"Broniszewice",
     "wof:parent_id":102079847,
     "wof:placetype":"locality",

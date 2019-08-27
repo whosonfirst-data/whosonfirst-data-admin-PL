@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":54.600065,
     "lbl:longitude":18.349742,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.600065,
     "mps:longitude":18.349742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0631\u062f\u0627"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":189,
     "wof:belongsto":[
@@ -137,10 +140,12 @@
     "wof:concordances":{
         "gn:id":3087281,
         "gp:id":515577,
-        "qs:id":1251929,
         "qs_pg:id":470549,
         "wd:id":"Q936933",
         "wk:page":"Reda, Poland"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1251929
     },
     "wof:country":"PL",
     "wof:geomhash":"41d082ac0297f66335fb21279a456398",
@@ -154,7 +159,7 @@
         }
     ],
     "wof:id":101841909,
-    "wof:lastmodified":1563577963,
+    "wof:lastmodified":1566598271,
     "wof:name":"Reda",
     "wof:parent_id":102080267,
     "wof:placetype":"locality",

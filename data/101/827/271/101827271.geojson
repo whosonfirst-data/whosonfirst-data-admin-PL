@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.749229,
     "lbl:longitude":18.877064,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":49.749229,
     "mps:longitude":18.877064,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "G\u00f3rki Ma\u0142e"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0443\u0440\u043a\u0456-\u041c\u0430\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00f3rke Ma\u0142e"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":550,
     "wof:belongsto":[
@@ -80,10 +83,12 @@
     "wof:concordances":{
         "gn:id":3098818,
         "gp:id":494404,
-        "qs:id":1010824,
         "qs_pg:id":297276,
         "wd:id":"Q5626288",
         "wk:page":"G\u00f3rki Ma\u0142e, Silesian Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1010824
     },
     "wof:country":"PL",
     "wof:geomhash":"059532a0be9d1e4efddeaf67ae364dac",
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101827271,
-    "wof:lastmodified":1563577311,
+    "wof:lastmodified":1566598116,
     "wof:name":"G\u00f3rki Wielkie",
     "wof:parent_id":102079421,
     "wof:placetype":"locality",

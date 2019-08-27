@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.977038,
     "lbl:longitude":17.870739,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.977038,
     "mps:longitude":17.870739,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u062e\u0648\u0686"
     ],
@@ -86,7 +89,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":115,
     "wof:belongsto":[
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3101695,
         "gp:id":12618141,
-        "qs:id":1003822,
+        "qs_pg:id":1003822,
         "wd:id":"Q553976",
         "wk:page":"Gmina Chocz"
     },
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101821607,
-    "wof:lastmodified":1563577660,
+    "wof:lastmodified":1566598196,
     "wof:name":"Chocz",
     "wof:parent_id":102079847,
     "wof:placetype":"locality",

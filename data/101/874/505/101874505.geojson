@@ -11,12 +11,16 @@
     "geom:longitude":14.386703,
     "gn:population":1300,
     "iso:country":"PL",
+    "lbl:bbox":"14.366703,53.111923,14.406703,53.151923",
     "lbl:latitude":53.131923,
     "lbl:longitude":14.386703,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.131923,
     "mps:longitude":14.386703,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0648\u06cc\u062f\u0648\u062e\u0648\u0648\u0627"
     ],
@@ -68,7 +72,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u043c\u0456\u043d\u0430 \u0412\u0456\u0434\u0443\u0445\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fiddichow"
     ],
     "name:war_x_preferred":[
@@ -95,7 +99,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":144,
     "wof:belongsto":[
@@ -108,10 +112,12 @@
     "wof:concordances":{
         "gn:id":755933,
         "gp:id":524296,
-        "qs:id":1310155,
         "qs_pg:id":309709,
         "wd:id":"Q557633",
         "wk:page":"Gmina Widuchowa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1310155
     },
     "wof:country":"PL",
     "wof:geomhash":"d0e32d93a5b012927eb901191cee5637",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":101874505,
-    "wof:lastmodified":1563577480,
+    "wof:lastmodified":1566598155,
     "wof:name":"Widuchowa",
     "wof:parent_id":102080047,
     "wof:placetype":"locality",

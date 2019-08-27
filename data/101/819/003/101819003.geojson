@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.891905,
     "lbl:longitude":18.407028,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.891905,
     "mps:longitude":18.407028,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Gniewkowo"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043d\u0435\u0432\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gniekowo"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +113,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.9,
     "wd:longitude":18.416667,
@@ -125,7 +128,7 @@
     "wof:concordances":{
         "gn:id":3099120,
         "gp:id":24547623,
-        "qs:id":206252,
+        "qs_pg:id":206252,
         "wd:id":"Q990799",
         "wk:page":"Gniewkowo"
     },
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101819003,
-    "wof:lastmodified":1563577776,
+    "wof:lastmodified":1566598223,
     "wof:name":"Gniewkowo",
     "wof:parent_id":102080013,
     "wof:placetype":"locality",

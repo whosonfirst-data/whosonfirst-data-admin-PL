@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.645013,
     "lbl:longitude":19.78201,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.645013,
     "mps:longitude":19.78201,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Bystra Podhala\u0144ska"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":100,
     "wof:belongsto":[
@@ -82,10 +85,12 @@
     "wof:concordances":{
         "gn:id":3101987,
         "gp:id":488850,
-        "qs:id":1270957,
         "qs_pg:id":294899,
         "wd:id":"Q5004546",
         "wk:page":"Bystra, Sucha County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1270957
     },
     "wof:country":"PL",
     "wof:geomhash":"7b4bbad3f93bf45e7a8b53c7caf11358",
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":101842311,
-    "wof:lastmodified":1563577477,
+    "wof:lastmodified":1566598154,
     "wof:name":"Bystra",
     "wof:parent_id":102079419,
     "wof:placetype":"locality",

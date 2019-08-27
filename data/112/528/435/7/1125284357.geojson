@@ -9,15 +9,18 @@
     "geom:bbox":"17.56096,50.53869,17.56096,50.53869",
     "geom:latitude":50.53869,
     "geom:longitude":17.56096,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":2800,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":2800,
     "iso:country":"PL",
+    "lbl:bbox":"17.46096,50.43869,17.66096,50.63869",
     "lbl:latitude":50.53869,
     "lbl:longitude":17.56096,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0648\u0627\u0645\u0628\u06cc\u0646\u0648\u0648\u06cc\u062a\u0633\u0647"
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043c\u0431\u0456\u043d\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lamsdorf"
     ],
     "name:vie_x_preferred":[
@@ -67,7 +70,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":12616861,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125284357,
-    "wof:lastmodified":1564211891,
+    "wof:lastmodified":1566598707,
     "wof:name":"\u0141ambinowice",
     "wof:parent_id":102079569,
     "wof:placetype":"localadmin",

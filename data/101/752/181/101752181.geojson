@@ -13,6 +13,8 @@
     "iso:country":"PL",
     "lbl:latitude":51.097349,
     "lbl:longitude":17.023978,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":51.097349,
     "mps:longitude":17.023978,
     "mz:hierarchy_label":1,
@@ -388,9 +390,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0440\u043e\u0446\u043b\u0430\u0432"
     ],
-    "name:unk_x_variant":[
-        "Vrotslav"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0631\u0627\u062a\u0633\u0648\u0627\u0641"
     ],
@@ -528,7 +527,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":7304,
     "wof:belongsto":[
@@ -542,10 +541,12 @@
         "gn:id":3081368,
         "gp:id":526363,
         "loc:id":"n80050802",
-        "qs:id":352936,
-        "qs_pg:id":478738,
+        "qs_pg:id":352936,
         "wd:id":"Q1799",
         "wk:page":"Wroc\u0142aw"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":478738
     },
     "wof:country":"PL",
     "wof:geomhash":"b27e1b045e104f6f60f1767bf4bcdd18",
@@ -559,7 +560,7 @@
         }
     ],
     "wof:id":101752181,
-    "wof:lastmodified":1563577226,
+    "wof:lastmodified":1566598096,
     "wof:megacity":1,
     "wof:name":"Wroc\u0142aw",
     "wof:parent_id":102079661,

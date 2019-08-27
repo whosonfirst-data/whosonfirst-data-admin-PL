@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.924768,
     "lbl:longitude":19.030966,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.924768,
     "mps:longitude":19.030966,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sztum"
     ],
@@ -98,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0442\u0443\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stuhm"
     ],
     "name:vie_x_preferred":[
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.921667,
     "wd:longitude":19.033611,
@@ -142,10 +145,12 @@
     "wof:concordances":{
         "gn:id":3083616,
         "gp:id":521976,
-        "qs:id":1013474,
         "qs_pg:id":459324,
         "wd:id":"Q640368",
         "wk:page":"Sztum"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1013474
     },
     "wof:country":"PL",
     "wof:geomhash":"8cc7a3c852ccd7016766264b1415634b",
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":101817595,
-    "wof:lastmodified":1563577499,
+    "wof:lastmodified":1566598160,
     "wof:name":"Sztum",
     "wof:parent_id":102080179,
     "wof:placetype":"locality",

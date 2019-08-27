@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.449757,
     "lbl:longitude":16.952925,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.449757,
     "mps:longitude":16.952925,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kamienica"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":122,
     "wof:belongsto":[
@@ -74,10 +77,12 @@
     "wof:concordances":{
         "gn:id":7536025,
         "gp:id":24935066,
-        "qs:id":203367,
-        "qs_pg:id":1197853,
+        "qs_pg:id":203367,
         "wd:id":"Q1723030",
         "wk:page":"Kamienica, Opole Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1197853
     },
     "wof:country":"PL",
     "wof:geomhash":"198a9d6d40062c4c2d7e056adb5cd327",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":101841653,
-    "wof:lastmodified":1563578046,
+    "wof:lastmodified":1566598293,
     "wof:name":"Kamienica",
     "wof:parent_id":102079569,
     "wof:placetype":"locality",

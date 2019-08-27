@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.02302,
     "lbl:longitude":21.037543,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.02302,
     "mps:longitude":21.037543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Zalesie G\u00f3rne"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":219,
     "wof:belongsto":[
@@ -86,10 +89,12 @@
     "wof:concordances":{
         "gn:id":7534722,
         "gp:id":527631,
-        "qs:id":1135768,
         "qs_pg:id":692614,
         "wd:id":"Q2403872",
         "wk:page":"Zalesie G\u00f3rne"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1135768
     },
     "wof:country":"PL",
     "wof:geomhash":"2b378cdcda9421d3e45bffe1645c6b4b",
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":101821701,
-    "wof:lastmodified":1563577569,
+    "wof:lastmodified":1566598175,
     "wof:name":"Zalesie G\u00f3rne",
     "wof:parent_id":102079911,
     "wof:placetype":"locality",

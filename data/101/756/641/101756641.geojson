@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.821072,
     "lbl:longitude":19.31329,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.821072,
     "mps:longitude":19.31329,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Aleksandr\u00f3w \u0141\u00f3dzki"
     ],
@@ -122,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0443\u0432-\u041b\u043e\u0434\u0437\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aleksandr\u00f3w"
     ],
     "name:vie_x_preferred":[
@@ -149,7 +152,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":206.0,
     "wd:latitude":51.816667,
@@ -165,7 +168,7 @@
     "wof:concordances":{
         "gn:id":3104132,
         "gp:id":24548349,
-        "qs:id":1257555,
+        "qs_pg:id":1257555,
         "wd:id":"Q664371",
         "wk:page":"Aleksandr\u00f3w \u0141\u00f3dzki"
     },
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":101756641,
-    "wof:lastmodified":1563577952,
+    "wof:lastmodified":1566598267,
     "wof:name":"Aleksandr\u00f3w \u0141\u00f3dzki",
     "wof:parent_id":102079873,
     "wof:placetype":"locality",

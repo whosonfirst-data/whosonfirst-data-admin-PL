@@ -9,14 +9,17 @@
     "geom:bbox":"21.03667,52.29199,21.03667,52.29199",
     "geom:latitude":52.29199,
     "geom:longitude":21.03667,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PL",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"PL",
+    "lbl:bbox":"21.03167,52.28699,21.04167,52.29699",
     "lbl:latitude":52.29199,
     "lbl:longitude":21.03667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Br\u00f3dno"
@@ -26,9 +29,6 @@
     ],
     "name:swe_x_preferred":[
         "Wola S\u0142awi\u0144ska"
-    ],
-    "name:unk_x_variant":[
-        "Br\u00f3dno"
     ],
     "qs_pg:aaroncc":"PL",
     "qs_pg:gn_country":"PL",
@@ -51,7 +51,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":509603,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1126061357,
-    "wof:lastmodified":1563579751,
+    "wof:lastmodified":1566598992,
     "wof:name":"Nowe Br\u00f3dno",
     "wof:parent_id":101752777,
     "wof:placetype":"neighbourhood",

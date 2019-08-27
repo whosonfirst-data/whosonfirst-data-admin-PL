@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.805336,
     "lbl:longitude":22.933163,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.805336,
     "mps:longitude":22.933163,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Medyka"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":154,
     "wof:belongsto":[
@@ -86,10 +89,12 @@
     "wof:concordances":{
         "gn:id":765028,
         "gp:id":506982,
-        "qs:id":290025,
-        "qs_pg:id":976987,
+        "qs_pg:id":290025,
         "wd:id":"Q1916757",
         "wk:page":"Medyka"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":976987
     },
     "wof:country":"PL",
     "wof:geomhash":"db83433ceacc4362d7abdd36cda8abc9",
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":101841599,
-    "wof:lastmodified":1563578019,
+    "wof:lastmodified":1566598286,
     "wof:name":"Medyka",
     "wof:parent_id":102079513,
     "wof:placetype":"locality",

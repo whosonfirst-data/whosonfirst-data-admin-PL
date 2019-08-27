@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":54.374177,
     "lbl:longitude":17.155848,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.374177,
     "mps:longitude":17.155848,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "D\u0119bnica Kaszubska"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043c\u0431\u043d\u0438\u0446\u044f-\u041a\u0430\u0448\u0443\u0431\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rathsdamnitz"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -74,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":113,
     "wof:belongsto":[
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3100553,
         "gp:id":12618044,
-        "qs:id":1265074,
+        "qs_pg:id":1265074,
         "wd:id":"Q959872",
         "wk:page":"D\u0119bnica Kaszubska"
     },
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101819487,
-    "wof:lastmodified":1563577771,
+    "wof:lastmodified":1566598222,
     "wof:name":"D\u0119bnica Kaszubska",
     "wof:parent_id":102080255,
     "wof:placetype":"locality",

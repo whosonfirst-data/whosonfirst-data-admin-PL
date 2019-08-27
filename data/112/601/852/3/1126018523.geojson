@@ -9,15 +9,18 @@
     "geom:bbox":"14.95625,52.76167,14.95625,52.76167",
     "geom:latitude":52.76167,
     "geom:longitude":14.95625,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":400,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
     "gn:population":400,
     "iso:country":"PL",
+    "lbl:bbox":"14.93625,52.74167,14.97625,52.78167",
     "lbl:latitude":52.76167,
     "lbl:longitude":14.95625,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u0646\u0648\u0641"
@@ -160,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u043d\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tornow"
     ],
     "name:vie_x_preferred":[
@@ -192,7 +195,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":522303,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":1126018523,
-    "wof:lastmodified":1564212344,
+    "wof:lastmodified":1566599036,
     "wof:name":"Tarn\u00f3w",
     "wof:parent_id":102079975,
     "wof:placetype":"locality",

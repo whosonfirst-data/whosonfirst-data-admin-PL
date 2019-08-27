@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.706132,
     "lbl:longitude":19.433551,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.706132,
     "mps:longitude":19.433551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Z\u0142oty Potok"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -71,9 +74,11 @@
     "wof:concordances":{
         "gn:id":3088211,
         "gp:id":529049,
-        "qs:id":244568,
-        "qs_pg:id":1060356,
+        "qs_pg:id":244568,
         "wd:id":"Q8076233"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060356
     },
     "wof:country":"PL",
     "wof:geomhash":"25fcabf88cc88cabc54fb7e2dd7e3fcf",
@@ -87,7 +92,7 @@
         }
     ],
     "wof:id":101913137,
-    "wof:lastmodified":1563577897,
+    "wof:lastmodified":1566598254,
     "wof:name":"Z\u0142oty Potok",
     "wof:parent_id":102079663,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.627608,
     "lbl:longitude":21.927653,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.627608,
     "mps:longitude":21.927653,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ryki"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.633333,
     "wd:longitude":21.933333,
@@ -133,10 +136,12 @@
     "wof:concordances":{
         "gn:id":759853,
         "gp:id":12591229,
-        "qs:id":247208,
-        "qs_pg:id":1030209,
+        "qs_pg:id":247208,
         "wd:id":"Q1922307",
         "wk:page":"Ryki"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1030209
     },
     "wof:country":"PL",
     "wof:geomhash":"4bb2bbd2e0b016b76a9a650e14edaa51",
@@ -150,7 +155,7 @@
         }
     ],
     "wof:id":101820129,
-    "wof:lastmodified":1563577377,
+    "wof:lastmodified":1566598133,
     "wof:name":"Ryki",
     "wof:parent_id":102079869,
     "wof:placetype":"locality",

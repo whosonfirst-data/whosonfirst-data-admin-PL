@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.915295,
     "lbl:longitude":19.93314,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.915295,
     "mps:longitude":19.93314,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0627\u063a"
     ],
@@ -131,9 +134,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u043e\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "Mohrungen"
-    ],
     "name:vie_x_preferred":[
         "Mor\u0105g"
     ],
@@ -158,7 +158,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.916667,
     "wd:longitude":19.933333,
@@ -173,7 +173,6 @@
     "wof:concordances":{
         "gn:id":3091462,
         "gp:id":508165,
-        "qs:id":226828,
         "qs_pg:id":226828,
         "wd:id":"Q139725",
         "wk:page":"Mor\u0105g"
@@ -190,7 +189,7 @@
         }
     ],
     "wof:id":101817661,
-    "wof:lastmodified":1563577515,
+    "wof:lastmodified":1566598164,
     "wof:name":"Mor\u0105g",
     "wof:parent_id":102080197,
     "wof:placetype":"locality",

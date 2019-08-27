@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.843339,
     "lbl:longitude":19.183887,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.843339,
     "mps:longitude":19.183887,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0644\u06cc\u067e\u0646\u0648"
     ],
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":83,
     "wof:belongsto":[
@@ -158,10 +161,12 @@
     "wof:concordances":{
         "gn:id":3093271,
         "gp:id":504900,
-        "qs:id":962370,
         "qs_pg:id":301417,
         "wd:id":"Q324922",
         "wk:page":"Lipno, Lipno County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":962370
     },
     "wof:country":"PL",
     "wof:geomhash":"65e368f4b6ee4b82a790e22c518ed2c9",
@@ -175,7 +180,7 @@
         }
     ],
     "wof:id":101819047,
-    "wof:lastmodified":1563577709,
+    "wof:lastmodified":1566598208,
     "wof:name":"Lipno",
     "wof:parent_id":102080033,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.924971,
     "lbl:longitude":16.255205,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.924971,
     "mps:longitude":16.255205,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tychowo"
     ],
@@ -65,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0438\u0445\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gross Tychow"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.930278,
     "wd:longitude":16.260833,
@@ -106,10 +109,12 @@
     "wof:concordances":{
         "gn:id":3082917,
         "gp:id":523315,
-        "qs:id":1200455,
-        "qs_pg:id":1217560,
+        "qs_pg:id":1200455,
         "wd:id":"Q2305215",
         "wk:page":"Tychowo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1217560
     },
     "wof:country":"PL",
     "wof:geomhash":"d565ccc9e2b246e03b7822fed502d7d3",
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":101819389,
-    "wof:lastmodified":1563577799,
+    "wof:lastmodified":1566598228,
     "wof:name":"Tychowo",
     "wof:parent_id":102080173,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"20.57954,54.12588,20.57954,54.12588",
     "geom:latitude":54.12588,
     "geom:longitude":20.57954,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":16540,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":16540,
     "iso:country":"PL",
+    "lbl:bbox":"20.47954,54.02588,20.67954,54.22588",
     "lbl:latitude":54.12588,
     "lbl:longitude":20.57954,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0644\u06cc\u0632\u0628\u0627\u0631\u06a9 \u0648\u0627\u0631\u0645\u06cc\u0646\u0642\u0633\u06a9\u06cc"
@@ -109,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0434\u0437\u0431\u0430\u0440\u043a-\u0412\u0430\u0440\u043c\u0456\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kheyl'sberg"
     ],
     "name:vie_x_preferred":[
@@ -142,7 +145,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24547562,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1125376705,
-    "wof:lastmodified":1564212067,
+    "wof:lastmodified":1566598835,
     "wof:name":"Lidzbark Warmi\u0144ski",
     "wof:parent_id":102080215,
     "wof:placetype":"localadmin",

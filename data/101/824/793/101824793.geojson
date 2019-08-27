@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.984225,
     "lbl:longitude":18.270155,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.984225,
     "mps:longitude":18.270155,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u06a9\u0698\u0698\u0627\u0646\u0648\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -71,7 +74,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u043c\u0456\u043d\u0430 \u041a\u0448\u0438\u0436\u0430\u043d\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kreuzenort"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":121,
     "wof:belongsto":[
@@ -107,10 +110,12 @@
     "wof:concordances":{
         "gn:id":7874460,
         "gp:id":24936305,
-        "qs:id":1190560,
         "qs_pg:id":1061821,
         "wd:id":"Q554865",
         "wk:page":"Gmina Krzy\u017canowice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1190560
     },
     "wof:country":"PL",
     "wof:geomhash":"7690855c44d9fd968f0e086282f4afcc",
@@ -124,7 +129,7 @@
         }
     ],
     "wof:id":101824793,
-    "wof:lastmodified":1563578232,
+    "wof:lastmodified":1566598350,
     "wof:name":"Krzy\u017canowice",
     "wof:parent_id":102079477,
     "wof:placetype":"locality",

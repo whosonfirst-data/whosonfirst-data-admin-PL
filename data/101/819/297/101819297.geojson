@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.379516,
     "lbl:longitude":21.354126,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.379516,
     "mps:longitude":21.354126,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Myszyniec"
     ],
@@ -104,7 +107,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.382222,
     "wd:longitude":21.351389,
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":764204,
         "gp:id":24548190,
-        "qs:id":1049670,
+        "qs_pg:id":1049670,
         "wd:id":"Q101704",
         "wk:page":"Myszyniec"
     },
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101819297,
-    "wof:lastmodified":1563577793,
+    "wof:lastmodified":1566598227,
     "wof:name":"Myszyniec",
     "wof:parent_id":102080139,
     "wof:placetype":"locality",

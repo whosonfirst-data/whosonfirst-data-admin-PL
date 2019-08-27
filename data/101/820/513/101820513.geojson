@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.78231,
     "lbl:longitude":20.122598,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.78231,
     "mps:longitude":20.122598,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0631\u0627\u0686\u06cc\u0627\u0646\u0698"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
@@ -131,10 +134,12 @@
     "wof:concordances":{
         "gn:id":760844,
         "gp:id":515018,
-        "qs:id":59523,
-        "qs_pg:id":1074334,
+        "qs_pg:id":59523,
         "wd:id":"Q615367",
         "wk:page":"Raci\u0105\u017c"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074334
     },
     "wof:country":"PL",
     "wof:geomhash":"23a317d2dde5efe951b6cf8f3916b225",
@@ -148,7 +153,7 @@
         }
     ],
     "wof:id":101820513,
-    "wof:lastmodified":1563577446,
+    "wof:lastmodified":1566598147,
     "wof:name":"Raci\u0105\u017c",
     "wof:parent_id":102080031,
     "wof:placetype":"locality",

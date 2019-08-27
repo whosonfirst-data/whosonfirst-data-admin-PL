@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.479952,
     "lbl:longitude":14.951375,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":51.479952,
     "mps:longitude":14.951375,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Przew\u00f3z"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0448\u0435\u0432\u0443\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Priebus"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":293,
     "wof:belongsto":[
@@ -80,10 +83,12 @@
     "wof:concordances":{
         "gn:id":3087917,
         "gp:id":514462,
-        "qs:id":1148916,
-        "qs_pg:id":1323170,
+        "qs_pg:id":1148916,
         "wd:id":"Q4831262",
         "wk:page":"Przew\u00f3z, \u017bary County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1323170
     },
     "wof:country":"PL",
     "wof:geomhash":"2aeba19ea37863db8b3786a4d659071c",
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101911749,
-    "wof:lastmodified":1563578499,
+    "wof:lastmodified":1566598428,
     "wof:name":"Przew\u00f3z",
     "wof:parent_id":102079779,
     "wof:placetype":"locality",

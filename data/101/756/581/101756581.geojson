@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.435516,
     "lbl:longitude":18.904155,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.435516,
     "mps:longitude":18.904155,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:csb_x_preferred":[
         "Nak\u0142o"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.140278,
     "wd:longitude":17.592778,
@@ -67,9 +70,11 @@
     "wof:concordances":{
         "gn:id":3091152,
         "gp:id":508689,
-        "qs:id":1212610,
         "qs_pg:id":94562,
         "wd:id":"Q988576"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1212610
     },
     "wof:country":"PL",
     "wof:geomhash":"34d2078776481e7651b0dc24c9c3762a",
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":101756581,
-    "wof:lastmodified":1563577939,
+    "wof:lastmodified":1566598264,
     "wof:name":"Nak\u0142o",
     "wof:parent_id":102079581,
     "wof:placetype":"locality",

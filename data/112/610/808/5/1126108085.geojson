@@ -9,16 +9,19 @@
     "geom:bbox":"18.81508,50.3984,18.81508,50.3984",
     "geom:latitude":50.3984,
     "geom:longitude":18.81508,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PL",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"PL",
+    "lbl:bbox":"18.81008,50.3934,18.82008,50.4034",
     "lbl:latitude":50.3984,
     "lbl:longitude":18.81508,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stollarzowitz"
     ],
     "qs_pg:aaroncc":"PL",
@@ -42,16 +45,16 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":520294,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687277,
         102191581,
         85633723,
-        102079537,
-        85687277
+        102079537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126108085,
-    "wof:lastmodified":1509412472,
+    "wof:lastmodified":1566598639,
     "wof:name":"Stolarzowice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":54.090462,
     "lbl:longitude":18.785033,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":54.090462,
     "mps:longitude":18.785033,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:bel_x_preferred":[
         "\u0422\u0447\u044d\u045e"
     ],
@@ -170,7 +173,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0447\u0435\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dirschau"
     ],
     "name:vie_x_preferred":[
@@ -202,7 +205,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1815,
     "wof:belongsto":[
@@ -215,9 +218,11 @@
     "wof:concordances":{
         "gn:id":3083426,
         "gp:id":522376,
-        "qs:id":1043121,
-        "qs_pg:id":1060329,
+        "qs_pg:id":1043121,
         "wd:id":"Q474697"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060329
     },
     "wof:country":"PL",
     "wof:geomhash":"b8d97e1fc4060b130fbd482116ebe2f2",
@@ -231,7 +236,7 @@
         }
     ],
     "wof:id":101752261,
-    "wof:lastmodified":1563577206,
+    "wof:lastmodified":1566598092,
     "wof:name":"Tczew",
     "wof:parent_id":102080191,
     "wof:placetype":"locality",

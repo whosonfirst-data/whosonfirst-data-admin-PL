@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.949501,
     "lbl:longitude":18.22279,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.949501,
     "mps:longitude":18.22279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Kuni\u00f3w"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         102191581,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":3094257,
         "gp:id":503202,
-        "qs:id":1011014,
+        "qs_pg:id":1011014,
         "wd:id":"Q6444803",
         "wk:page":"Kuni\u00f3w"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101823943,
-    "wof:lastmodified":1563578194,
+    "wof:lastmodified":1566598339,
     "wof:name":"Kuni\u00f3w",
     "wof:parent_id":102079677,
     "wof:placetype":"locality",

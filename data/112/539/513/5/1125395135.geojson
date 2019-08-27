@@ -9,15 +9,18 @@
     "geom:bbox":"17.86405,50.35355,17.86405,50.35355",
     "geom:latitude":50.35355,
     "geom:longitude":17.86405,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":5755,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":5755,
     "iso:country":"PL",
+    "lbl:bbox":"17.76405,50.25355,17.96405,50.45355",
     "lbl:latitude":50.35355,
     "lbl:longitude":17.86405,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0413\u043b\u043e\u0433\u043e\u0432\u0435\u043a"
@@ -73,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u043e\u0433\u0443\u0432\u0435\u043a"
     ],
-    "name:unk_x_variant":[
-        "Oberglogau"
-    ],
     "name:vie_x_preferred":[
         "G\u0142og\u00f3wek"
     ],
@@ -103,7 +103,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24548554,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":1125395135,
-    "wof:lastmodified":1564212181,
+    "wof:lastmodified":1566598880,
     "wof:name":"G\u0142og\u00f3wek",
     "wof:parent_id":102079549,
     "wof:placetype":"localadmin",

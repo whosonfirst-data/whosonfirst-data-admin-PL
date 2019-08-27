@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.031673,
     "lbl:longitude":15.41999,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.031673,
     "mps:longitude":15.41999,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Gryf\u00f3w \u015al\u0105ski"
     ],
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0440\u0438\u0444\u0443\u0432-\u0428\u043b\u044c\u043e\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Greiffe\u0144berg"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +116,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":325.0,
     "wd:latitude":51.027222,
@@ -129,7 +132,7 @@
     "wof:concordances":{
         "gn:id":3098199,
         "gp:id":24547751,
-        "qs:id":999051,
+        "qs_pg:id":999051,
         "wd:id":"Q988179",
         "wk:page":"Gryf\u00f3w \u015al\u0105ski"
     },
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101822765,
-    "wof:lastmodified":1563578313,
+    "wof:lastmodified":1566598374,
     "wof:name":"Gryf\u00f3w \u015al\u0105ski",
     "wof:parent_id":102079649,
     "wof:placetype":"locality",

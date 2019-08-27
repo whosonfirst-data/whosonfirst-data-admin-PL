@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.079051,
     "lbl:longitude":18.01282,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.079051,
     "mps:longitude":18.01282,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kietrz"
     ],
@@ -107,7 +110,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.079167,
     "wd:longitude":18.008889,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":3096240,
         "gp:id":24548473,
-        "qs:id":905219,
+        "qs_pg:id":905219,
         "wd:id":"Q999384",
         "wk:page":"Kietrz"
     },
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101824813,
-    "wof:lastmodified":1563578245,
+    "wof:lastmodified":1566598353,
     "wof:name":"Kietrz",
     "wof:parent_id":102079489,
     "wof:placetype":"locality",

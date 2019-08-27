@@ -9,14 +9,17 @@
     "geom:bbox":"14.72813164,54.0185604027,14.7734080178,54.0310027487",
     "geom:latitude":54.023904,
     "geom:longitude":14.751023,
-    "geonames:id":"3099780,3099783",
+    "gn:id":"3099780,3099783",
     "iso:country":"PL",
     "lbl:latitude":54.022771,
     "lbl:longitude":14.749136,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.022771,
     "mps:longitude":14.749136,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Dziwn\u00f3w"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0437\u0456\u0432\u043d\u0443\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sch\u00f6nebeck"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.016667,
     "wd:longitude":14.75,
     "wd:wordcount":112,
@@ -126,9 +129,11 @@
     "wof:concordances":{
         "gn:id":3099765,
         "gp:id":492744,
-        "qs:id":4,
-        "qs_pg:id":1263902,
+        "qs_pg:id":4,
         "wd:id":"Q990830"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1263902
     },
     "wof:country":"PL",
     "wof:geomhash":"b9f24185e2577e82df266bde1d5afd94",
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":101819337,
-    "wof:lastmodified":1563577687,
+    "wof:lastmodified":1566598203,
     "wof:name":"Dziwn\u00f3w",
     "wof:parent_id":102080153,
     "wof:placetype":"locality",

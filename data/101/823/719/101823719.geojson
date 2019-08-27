@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.295758,
     "lbl:longitude":21.732605,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.295758,
     "mps:longitude":21.732605,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Cmolas"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":89,
     "wof:belongsto":[
@@ -84,7 +87,7 @@
     "wof:concordances":{
         "gn:id":774058,
         "gp:id":12618391,
-        "qs:id":1148921,
+        "qs_pg:id":1148921,
         "wd:id":"Q5137322",
         "wk:page":"Cmolas"
     },
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101823719,
-    "wof:lastmodified":1563578187,
+    "wof:lastmodified":1566598337,
     "wof:name":"Cmolas",
     "wof:parent_id":102079607,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.644864,
     "lbl:longitude":17.804784,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.644864,
     "mps:longitude":17.804784,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0627\u0648\u0633\u062a\u0631\u0648 \u0648\u0644\u0643\u0648\u0628\u0648\u0644\u064a\u0633\u0643\u064a"
     ],
@@ -167,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u0443\u0432-\u0412\u0435\u043b\u0438\u043a\u043e\u043f\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ostr\u00f3w"
     ],
     "name:vie_x_preferred":[
@@ -196,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":613,
     "wof:belongsto":[
@@ -209,10 +212,12 @@
     "wof:concordances":{
         "gn:id":3089684,
         "gp:id":511173,
-        "qs:id":1043152,
         "qs_pg:id":977025,
         "wd:id":"Q52895",
         "wk:page":"Ostr\u00f3w Wielkopolski"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043152
     },
     "wof:country":"PL",
     "wof:geomhash":"f28373d6b05047ef08fadd26b0df876d",
@@ -226,7 +231,7 @@
         }
     ],
     "wof:id":101752203,
-    "wof:lastmodified":1563577209,
+    "wof:lastmodified":1566598093,
     "wof:name":"Ostr\u00f3w Wielkopolski",
     "wof:parent_id":102079789,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.978135,
     "lbl:longitude":18.945627,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.978135,
     "mps:longitude":18.945627,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Pszczyna"
     ],
@@ -116,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0449\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pszczyn"
     ],
     "name:vie_x_preferred":[
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":262.0,
     "wd:latitude":49.983333,
@@ -161,7 +164,6 @@
     "wof:concordances":{
         "gn:id":3087705,
         "gp:id":514819,
-        "qs:id":145573,
         "qs_pg:id":145573,
         "wd:id":"Q948304",
         "wk:page":"Pszczyna"
@@ -178,7 +180,7 @@
         }
     ],
     "wof:id":101841527,
-    "wof:lastmodified":1563578011,
+    "wof:lastmodified":1566598283,
     "wof:name":"Pszczyna",
     "wof:parent_id":102079457,
     "wof:placetype":"locality",

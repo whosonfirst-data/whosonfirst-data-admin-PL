@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.822852,
     "lbl:longitude":22.749338,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.822852,
     "mps:longitude":22.749338,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Turobin"
     ],
@@ -77,7 +80,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":89,
     "wof:belongsto":[
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":756577,
         "gp:id":12618556,
-        "qs:id":234887,
+        "qs_pg:id":234887,
         "wd:id":"Q2595900",
         "wk:page":"Turobin"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101821281,
-    "wof:lastmodified":1563577592,
+    "wof:lastmodified":1566598181,
     "wof:name":"Turobin",
     "wof:parent_id":102079699,
     "wof:placetype":"locality",

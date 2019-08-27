@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.514738,
     "lbl:longitude":18.289254,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.514738,
     "mps:longitude":18.289254,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Strzelce Opolskie"
     ],
@@ -110,7 +113,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0442\u0448\u0435\u043b\u044c\u0446\u0435-\u041e\u043f\u043e\u043b\u044c\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gross Strehlitz"
     ],
     "name:vie_x_preferred":[
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.866667,
     "wd:longitude":18.5,
@@ -154,9 +157,11 @@
     "wof:concordances":{
         "gn:id":3084429,
         "gp:id":24942329,
-        "qs:id":1078915,
         "qs_pg:id":509900,
         "wd:id":"Q510827"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078915
     },
     "wof:country":"PL",
     "wof:geomhash":"3e88fc9d1cd88ac6dd4e8c635394f150",
@@ -170,7 +175,7 @@
         }
     ],
     "wof:id":101821263,
-    "wof:lastmodified":1563577661,
+    "wof:lastmodified":1566598196,
     "wof:name":"Strzelce Opolskie",
     "wof:parent_id":102079587,
     "wof:placetype":"locality",

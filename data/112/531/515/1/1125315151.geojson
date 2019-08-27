@@ -9,15 +9,18 @@
     "geom:bbox":"20.97324,49.78575,20.97324,49.78575",
     "geom:latitude":49.78575,
     "geom:longitude":20.97324,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":2395,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":2395,
     "iso:country":"PL",
+    "lbl:bbox":"20.87324,49.68575,21.07324,49.88575",
     "lbl:latitude":49.78575,
     "lbl:longitude":20.97324,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0427\u0435\u043d\u0436\u043a\u043e\u0432\u0438\u0446\u0435"
@@ -73,7 +76,7 @@
     "name:ukr_x_variant":[
         "\u0426\u0435\u043d\u0436\u043a\u043e\u0432\u0438\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tzezhkovitz"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24548719,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1125315151,
-    "wof:lastmodified":1564212258,
+    "wof:lastmodified":1566598932,
     "wof:name":"Ci\u0119\u017ckowice",
     "wof:parent_id":102079535,
     "wof:placetype":"localadmin",

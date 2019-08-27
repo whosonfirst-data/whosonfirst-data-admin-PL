@@ -9,15 +9,17 @@
     "geom:bbox":"18.93949,50.50262,18.93949,50.50262",
     "geom:latitude":50.50262,
     "geom:longitude":18.93949,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":7327,
+    "gn:country":"PL",
+    "gn:fcode":"PPLX",
     "gn:population":7327,
     "iso:country":"PL",
+    "lbl:bbox":"18.93449,50.49762,18.94449,50.50762",
     "lbl:latitude":50.50262,
     "lbl:longitude":18.93949,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0627\u0633\u062a\u0686\u06a9\u0648 \u0634\u0644\u0627\u0646\u0633\u06a9\u06cc\u0647"
@@ -76,7 +78,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u044f\u0441\u0442\u0435\u0447\u043a\u043e-\u0428\u043b\u044c\u043e\u043d\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Miasteczko"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +99,7 @@
     "qs_pg:qs_id":374843,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687277,
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":1126063385,
-    "wof:lastmodified":1564212314,
+    "wof:lastmodified":1566598992,
     "wof:name":"Miasteczko \u015al\u0105skie",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

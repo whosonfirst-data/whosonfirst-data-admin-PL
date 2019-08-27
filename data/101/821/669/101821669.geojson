@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.61818,
     "lbl:longitude":20.558891,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.61818,
     "mps:longitude":20.558891,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Nowe Miasto nad Pilic\u0105"
     ],
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0435-\u041c\u044f\u0441\u0442\u043e-\u043d\u0430\u0434-\u041f\u0438\u043b\u0438\u0446\u0435\u044e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nowe Miasto"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.619444,
     "wd:longitude":20.576111,
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":763659,
         "gp:id":509662,
-        "qs:id":259737,
-        "qs_pg:id":977019,
+        "qs_pg:id":259737,
         "wd:id":"Q1019505",
         "wk:page":"Nowe Miasto nad Pilic\u0105"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":977019
     },
     "wof:country":"PL",
     "wof:geomhash":"1b8cc993bc59c0fec759acc967b6bf62",
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":101821669,
-    "wof:lastmodified":1563577596,
+    "wof:lastmodified":1566598182,
     "wof:name":"Nowe Miasto nad Pilic\u0105",
     "wof:parent_id":102079877,
     "wof:placetype":"locality",

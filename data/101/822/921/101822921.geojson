@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.439019,
     "lbl:longitude":15.093786,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.439019,
     "mps:longitude":15.093786,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gozdnica"
     ],
@@ -122,7 +125,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.438889,
     "wd:longitude":15.095556,
@@ -137,7 +140,7 @@
     "wof:concordances":{
         "gn:id":3098583,
         "gp:id":12618011,
-        "qs:id":24105,
+        "qs_pg:id":24105,
         "wd:id":"Q985667",
         "wk:page":"Gozdnica"
     },
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101822921,
-    "wof:lastmodified":1563578408,
+    "wof:lastmodified":1566598401,
     "wof:name":"Gozdnica",
     "wof:parent_id":102079759,
     "wof:placetype":"locality",

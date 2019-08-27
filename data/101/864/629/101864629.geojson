@@ -11,12 +11,16 @@
     "geom:longitude":22.180489,
     "gn:population":1600,
     "iso:country":"PL",
+    "lbl:bbox":"22.160489,50.091218,22.200489,50.131218",
     "lbl:latitude":50.111218,
     "lbl:longitude":22.180489,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.111218,
     "mps:longitude":22.180489,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Czarna"
     ],
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":102,
     "wof:belongsto":[
@@ -81,9 +85,11 @@
     "wof:concordances":{
         "gn:id":773965,
         "gp:id":490297,
-        "qs:id":1262403,
         "qs_pg:id":1056026,
         "wd:id":"Q527444"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1262403
     },
     "wof:country":"PL",
     "wof:geomhash":"27410dc23bb71e17647e9ff9b32d95b7",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":101864629,
-    "wof:lastmodified":1563578415,
+    "wof:lastmodified":1566598404,
     "wof:name":"Czarna",
     "wof:parent_id":102079565,
     "wof:placetype":"locality",

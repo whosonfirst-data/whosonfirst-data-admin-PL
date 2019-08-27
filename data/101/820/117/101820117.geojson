@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.13812,
     "lbl:longitude":16.00421,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.13812,
     "mps:longitude":16.00421,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0634\u062f\u0644\u062a\u0633"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":140,
     "wof:belongsto":[
@@ -98,10 +101,12 @@
     "wof:concordances":{
         "gn:id":3086086,
         "gp:id":517713,
-        "qs:id":1148864,
-        "qs_pg:id":1151363,
+        "qs_pg:id":1148864,
         "wd:id":"Q554727",
         "wk:page":"Gmina Siedlec"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1151363
     },
     "wof:country":"PL",
     "wof:geomhash":"a828cca666ff92fe87fa06978910befc",
@@ -115,7 +120,7 @@
         }
     ],
     "wof:id":101820117,
-    "wof:lastmodified":1563577388,
+    "wof:lastmodified":1566598136,
     "wof:name":"Siedlec",
     "wof:parent_id":102079867,
     "wof:placetype":"locality",

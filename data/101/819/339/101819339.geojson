@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.96391,
     "lbl:longitude":14.773378,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.96391,
     "mps:longitude":14.773378,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kamie\u0144 Pomorski"
     ],
@@ -122,9 +125,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u0456\u043d\u044c-\u041f\u043e\u043c\u043e\u0440\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "Cammin"
-    ],
     "name:vie_x_preferred":[
         "Kamie\u0144 Pomorski"
     ],
@@ -151,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":10.0,
     "wd:latitude":53.969722,
@@ -167,7 +167,6 @@
     "wof:concordances":{
         "gn:id":3096765,
         "gp:id":498272,
-        "qs:id":1060258,
         "qs_pg:id":1060258,
         "wd:id":"Q161887",
         "wk:page":"Kamie\u0144 Pomorski"
@@ -184,7 +183,7 @@
         }
     ],
     "wof:id":101819339,
-    "wof:lastmodified":1563577689,
+    "wof:lastmodified":1566598203,
     "wof:name":"Kamie\u0144 Pomorski",
     "wof:parent_id":102080153,
     "wof:placetype":"locality",

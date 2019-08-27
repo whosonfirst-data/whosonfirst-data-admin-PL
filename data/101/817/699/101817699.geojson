@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.861275,
     "lbl:longitude":20.959126,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.861275,
     "mps:longitude":20.959126,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0411\u0456\u0441\u043a\u0443\u043f\u0435\u0446"
     ],
@@ -98,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0441\u043a\u0443\u043f\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bischofsburg"
     ],
     "name:vie_x_preferred":[
@@ -122,7 +125,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.85,
     "wd:longitude":20.95,
@@ -137,7 +140,7 @@
     "wof:concordances":{
         "gn:id":775890,
         "gp:id":24547598,
-        "qs:id":129351,
+        "qs_pg:id":129351,
         "wd:id":"Q201186",
         "wk:page":"Biskupiec"
     },
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101817699,
-    "wof:lastmodified":1563577544,
+    "wof:lastmodified":1566598169,
     "wof:name":"Biskupiec",
     "wof:parent_id":102080207,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.919644,
     "lbl:longitude":18.830352,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.919644,
     "mps:longitude":18.830352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Z\u0142ochowice"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":82,
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3080103,
         "gp:id":528982,
-        "qs:id":1218057,
+        "qs_pg:id":1218057,
         "wd:id":"Q8076160",
         "wk:page":"Z\u0142ochowice"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101822503,
-    "wof:lastmodified":1563578314,
+    "wof:lastmodified":1566598374,
     "wof:name":"Z\u0142ochowice",
     "wof:parent_id":102079667,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.391873,
     "lbl:longitude":21.366677,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.391873,
     "mps:longitude":21.366677,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ostr\u00f3wek"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":174,
     "wof:belongsto":[
@@ -78,10 +81,12 @@
     "wof:concordances":{
         "gn:id":762868,
         "gp:id":511184,
-        "qs:id":509528,
-        "qs_pg:id":553083,
+        "qs_pg:id":509528,
         "wd:id":"Q411247",
         "wk:page":"Anakar"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":553083
     },
     "wof:country":"PL",
     "wof:geomhash":"0a334c719ca10689184f11521e9bfbd9",
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":101821765,
-    "wof:lastmodified":1563577574,
+    "wof:lastmodified":1566598176,
     "wof:name":"Ostr\u00f3wek",
     "wof:parent_id":102079995,
     "wof:placetype":"locality",

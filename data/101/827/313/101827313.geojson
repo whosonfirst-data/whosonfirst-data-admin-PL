@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.761349,
     "lbl:longitude":19.092707,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.761349,
     "mps:longitude":19.092707,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Wilkowice"
     ],
@@ -235,7 +238,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":71,
     "wof:belongsto":[
@@ -248,7 +251,6 @@
     "wof:concordances":{
         "gn:id":3081942,
         "gp:id":524928,
-        "qs:id":1135759,
         "qs_pg:id":1135759,
         "wd:id":"Q357560"
     },
@@ -264,7 +266,7 @@
         }
     ],
     "wof:id":101827313,
-    "wof:lastmodified":1563577305,
+    "wof:lastmodified":1566598114,
     "wof:name":"Wilkowice",
     "wof:parent_id":102079427,
     "wof:placetype":"locality",

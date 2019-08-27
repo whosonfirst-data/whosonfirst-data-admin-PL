@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.462383,
     "lbl:longitude":16.66269,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.462383,
     "mps:longitude":16.66269,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tarnowo Podg\u00f3rne"
     ],
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":86,
     "wof:belongsto":[
@@ -92,10 +95,12 @@
     "wof:concordances":{
         "gn:id":3083442,
         "gp:id":522341,
-        "qs:id":1190518,
         "qs_pg:id":343308,
         "wd:id":"Q51807",
         "wk:page":"Tarnowo Podg\u00f3rne"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1190518
     },
     "wof:country":"PL",
     "wof:geomhash":"7d4a8d4876811d0390e9f52f609ed5f2",
@@ -109,7 +114,7 @@
         }
     ],
     "wof:id":101911377,
-    "wof:lastmodified":1563578499,
+    "wof:lastmodified":1566598428,
     "wof:name":"Tarnowo Podg\u00f3rne",
     "wof:parent_id":102079955,
     "wof:placetype":"locality",

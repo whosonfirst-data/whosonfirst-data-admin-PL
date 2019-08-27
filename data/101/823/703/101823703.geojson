@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.57488,
     "lbl:longitude":19.340572,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.57488,
     "mps:longitude":19.340572,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0645\u0634\u06a9\u0648\u0648"
     ],
@@ -110,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0448\u043a\u0443\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myszk\u00f3w Nowy"
     ],
     "name:vie_x_preferred":[
@@ -137,7 +140,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":489,
     "wof:belongsto":[
@@ -150,7 +153,7 @@
     "wof:concordances":{
         "gn:id":3091217,
         "gp:id":12617335,
-        "qs:id":466498,
+        "qs_pg:id":466498,
         "wd:id":"Q731079",
         "wk:page":"Myszk\u00f3w"
     },
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101823703,
-    "wof:lastmodified":1563578154,
+    "wof:lastmodified":1566598326,
     "wof:name":"Myszk\u00f3w",
     "wof:parent_id":102079605,
     "wof:placetype":"locality",

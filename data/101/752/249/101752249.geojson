@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.342565,
     "lbl:longitude":15.025211,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":53.342565,
     "mps:longitude":15.025211,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u0631\u063a\u0627\u0631\u062f \u0632\u062a\u0633\u064a\u0633\u064a\u0646\u0633\u0643\u064a"
     ],
@@ -215,7 +218,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0442\u0430\u0440\u0433\u0430\u0440\u0434-\u0429\u0435\u0446\u0438\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Starogrod"
     ],
     "name:vie_x_preferred":[
@@ -247,7 +250,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":824,
     "wof:belongsto":[
@@ -261,10 +264,12 @@
         "gn:id":3084840,
         "gp:id":519883,
         "loc:id":"n84200473",
-        "qs:id":279638,
-        "qs_pg:id":1057544,
+        "qs_pg:id":279638,
         "wd:id":"Q106268",
         "wk:page":"Stargard"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1057544
     },
     "wof:country":"PL",
     "wof:geomhash":"8561ef0f6d30aa713fe931ed3ee42799",
@@ -278,7 +283,7 @@
         }
     ],
     "wof:id":101752249,
-    "wof:lastmodified":1563577255,
+    "wof:lastmodified":1566598101,
     "wof:name":"Stargard Szczeci\u0144ski",
     "wof:parent_id":102080083,
     "wof:placetype":"locality",

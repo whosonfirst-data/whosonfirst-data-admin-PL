@@ -9,15 +9,18 @@
     "geom:bbox":"16.53395,53.57661,16.53395,53.57661",
     "geom:latitude":53.57661,
     "geom:longitude":16.53395,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":4349,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":4349,
     "iso:country":"PL",
+    "lbl:bbox":"16.43395,53.47661,16.63395,53.67661",
     "lbl:latitude":53.57661,
     "lbl:longitude":16.53395,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0628\u0648\u0631\u0646\u0647 \u0633\u0648\u0644\u06cc\u0646\u0648\u0648\u0648"
@@ -70,7 +73,7 @@
     "name:ukr_x_variant":[
         "\u0413\u043c\u0456\u043d\u0430 \u0411\u043e\u0440\u043d\u0435-\u0421\u0443\u043b\u0456\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Linde bei Krangen"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24547978,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1125389425,
-    "wof:lastmodified":1564212220,
+    "wof:lastmodified":1566598915,
     "wof:name":"Gmina Borne Sulinowo",
     "wof:parent_id":102080155,
     "wof:placetype":"localadmin",

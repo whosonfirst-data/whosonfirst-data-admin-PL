@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.212517,
     "lbl:longitude":22.329184,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":49.212517,
     "mps:longitude":22.329184,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Cisna"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.2,
     "wd:longitude":22.31667,
@@ -85,10 +88,12 @@
     "wof:concordances":{
         "gn:id":774090,
         "gp:id":490076,
-        "qs:id":303123,
         "qs_pg:id":276169,
         "wd:id":"Q2402303",
         "wk:page":"Cisna"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":303123
     },
     "wof:country":"PL",
     "wof:geomhash":"ded62eda96d4970adebbcfe1e2b49473",
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":101910847,
-    "wof:lastmodified":1563578505,
+    "wof:lastmodified":1566598430,
     "wof:name":"Cisna",
     "wof:parent_id":102079415,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.026405,
     "lbl:longitude":21.810144,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.026405,
     "mps:longitude":21.810144,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Latowicz"
     ],
@@ -77,7 +80,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":89,
     "wof:belongsto":[
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":766675,
         "gp:id":12618007,
-        "qs:id":69762,
+        "qs_pg:id":69762,
         "wd:id":"Q2347920",
         "wk:page":"Latowicz"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101821727,
-    "wof:lastmodified":1563577678,
+    "wof:lastmodified":1566598200,
     "wof:name":"Latowicz",
     "wof:parent_id":102079965,
     "wof:placetype":"locality",

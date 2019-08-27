@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.64161,
     "lbl:longitude":15.004878,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.64161,
     "mps:longitude":15.004878,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Lipinki \u0141u\u017cyckie"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043f\u0456\u043d\u043a\u0456-\u041b\u0443\u0436\u0438\u0446\u044c\u043a\u0456"
     ],
-    "name:unk_x_variant":[
-        "Lipinki"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Lipinki \u0141u\u017cyckie"
     ],
@@ -76,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":110,
     "wof:belongsto":[
@@ -89,10 +89,12 @@
     "wof:concordances":{
         "gn:id":3093320,
         "gp:id":504782,
-        "qs:id":1015828,
         "qs_pg:id":301369,
         "wd:id":"Q159634",
         "wk:page":"Lipinki \u0141u\u017cyckie"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1015828
     },
     "wof:country":"PL",
     "wof:geomhash":"194ac74837e26b897d13c04d263383d4",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101821427,
-    "wof:lastmodified":1563577644,
+    "wof:lastmodified":1566598193,
     "wof:name":"Lipinki \u0141u\u017cyckie",
     "wof:parent_id":102079779,
     "wof:placetype":"locality",

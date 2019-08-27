@@ -9,15 +9,18 @@
     "geom:bbox":"20.13554,49.72969,20.13554,49.72969",
     "geom:latitude":49.72969,
     "geom:longitude":20.13554,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2800,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
     "gn:population":2800,
     "iso:country":"PL",
+    "lbl:bbox":"20.11554,49.70969,20.15554,49.74969",
     "lbl:latitude":49.72969,
     "lbl:longitude":20.13554,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Kasina Wielka"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0441\u0456\u043d\u0430-\u0412\u0435\u043b\u0438\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kosina Wielka"
     ],
     "qs_pg:aaroncc":"PL",
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":498789,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125871519,
-    "wof:lastmodified":1563579349,
+    "wof:lastmodified":1566598813,
     "wof:name":"Kasina Wielka",
     "wof:parent_id":102079423,
     "wof:placetype":"locality",

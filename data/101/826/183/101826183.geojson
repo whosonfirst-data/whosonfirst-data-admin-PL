@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.06115,
     "lbl:longitude":18.927887,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.06115,
     "mps:longitude":18.927887,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kobi\u00f3r"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":200,
     "wof:belongsto":[
@@ -86,10 +89,12 @@
     "wof:concordances":{
         "gn:id":3095958,
         "gp:id":499751,
-        "qs:id":1180722,
         "qs_pg:id":1072801,
         "wd:id":"Q3141273",
         "wk:page":"Kobi\u00f3r"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1180722
     },
     "wof:country":"PL",
     "wof:geomhash":"45afd185a7ff35664909720666868cc8",
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":101826183,
-    "wof:lastmodified":1563577852,
+    "wof:lastmodified":1566598243,
     "wof:name":"Kobi\u00f3r",
     "wof:parent_id":102079457,
     "wof:placetype":"locality",

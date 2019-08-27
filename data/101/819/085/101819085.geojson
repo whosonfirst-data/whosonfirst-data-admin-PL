@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.140895,
     "lbl:longitude":17.598648,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.140895,
     "mps:longitude":17.598648,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Nak\u0142o nad Noteci\u0105"
     ],
@@ -104,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043a\u043b\u043e-\u043d\u0430\u0434-\u041d\u043e\u0442\u0435\u0446\u0435\u043c"
     ],
-    "name:unk_x_variant":[
-        "Nak\u0142o"
-    ],
     "name:vie_x_preferred":[
         "Nak\u0142o nad Noteci\u0105"
     ],
@@ -131,7 +131,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.140278,
     "wd:longitude":17.592778,
@@ -146,7 +146,7 @@
     "wof:concordances":{
         "gn:id":3091150,
         "gp:id":24547986,
-        "qs:id":350348,
+        "qs_pg:id":350348,
         "wd:id":"Q988576",
         "wk:page":"Nak\u0142o nad Noteci\u0105"
     },
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":101819085,
-    "wof:lastmodified":1563577707,
+    "wof:lastmodified":1566598208,
     "wof:name":"Nak\u0142o nad Noteci\u0105",
     "wof:parent_id":102080053,
     "wof:placetype":"locality",

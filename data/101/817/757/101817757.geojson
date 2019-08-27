@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":54.355277,
     "lbl:longitude":19.681942,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.355277,
     "mps:longitude":19.681942,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Frombork"
     ],
@@ -140,9 +143,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0440\u043e\u043c\u0431\u043e\u0440\u043a"
     ],
-    "name:unk_x_variant":[
-        "Frauenburg"
-    ],
     "name:vie_x_preferred":[
         "Frombork"
     ],
@@ -166,7 +166,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.35,
     "wd:longitude":19.683333,
@@ -181,7 +181,6 @@
     "wof:concordances":{
         "gn:id":3099634,
         "gp:id":493048,
-        "qs:id":1060042,
         "qs_pg:id":1060042,
         "wd:id":"Q497115",
         "wk:page":"Frombork"
@@ -198,7 +197,7 @@
         }
     ],
     "wof:id":101817757,
-    "wof:lastmodified":1563577532,
+    "wof:lastmodified":1566598167,
     "wof:name":"Frombork",
     "wof:parent_id":102080237,
     "wof:placetype":"locality",

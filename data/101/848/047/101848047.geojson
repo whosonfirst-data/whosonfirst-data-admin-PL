@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.640727,
     "lbl:longitude":16.639717,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.640727,
     "mps:longitude":16.639717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ostroszowice"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0448\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Weigelsdorf"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -59,7 +62,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":78,
     "wof:belongsto":[
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3089764,
         "gp:id":24942289,
-        "qs:id":509895,
+        "qs_pg:id":509895,
         "wd:id":"Q1675405",
         "wk:page":"Ostroszowice"
     },
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101848047,
-    "wof:lastmodified":1563578069,
+    "wof:lastmodified":1566598301,
     "wof:name":"Ostroszowice",
     "wof:parent_id":102079591,
     "wof:placetype":"locality",

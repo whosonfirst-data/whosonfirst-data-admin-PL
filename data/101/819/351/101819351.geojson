@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.703725,
     "lbl:longitude":16.704884,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.703725,
     "mps:longitude":16.704884,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u0447\u0430\u0446\u0456\u043d\u0430\u043a"
     ],
@@ -132,7 +135,7 @@
     "name:ukr_x_preferred":[
         "\u0429\u0435\u0446\u0438\u043d\u0435\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neustettin"
     ],
     "name:vie_x_preferred":[
@@ -164,7 +167,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":722,
     "wof:belongsto":[
@@ -177,10 +180,12 @@
     "wof:concordances":{
         "gn:id":3083826,
         "gp:id":521601,
-        "qs:id":145558,
-        "qs_pg:id":1326981,
+        "qs_pg:id":145558,
         "wd:id":"Q848999",
         "wk:page":"Szczecinek"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1326981
     },
     "wof:country":"PL",
     "wof:geomhash":"8694f30cb53eb3a32debcd05f01079a3",
@@ -194,7 +199,7 @@
         }
     ],
     "wof:id":101819351,
-    "wof:lastmodified":1563577749,
+    "wof:lastmodified":1566598218,
     "wof:name":"Szczecinek",
     "wof:parent_id":102080155,
     "wof:placetype":"locality",

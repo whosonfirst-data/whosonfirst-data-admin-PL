@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.072938,
     "lbl:longitude":22.123218,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.072938,
     "mps:longitude":22.123218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Palik\u00f3wka"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":762708,
         "gp:id":511526,
-        "qs:id":926072,
+        "qs_pg:id":926072,
         "wd:id":"Q968890",
         "wk:page":"Palik\u00f3wka"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101841683,
-    "wof:lastmodified":1563578036,
+    "wof:lastmodified":1566598291,
     "wof:name":"Palik\u00f3wka",
     "wof:parent_id":102079585,
     "wof:placetype":"locality",

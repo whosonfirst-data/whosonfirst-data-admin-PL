@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.579995,
     "lbl:longitude":14.544588,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.579995,
     "mps:longitude":14.544588,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u043b\u0456\u0446\u044b"
     ],
@@ -143,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00f6litz"
     ],
     "name:vie_x_preferred":[
@@ -175,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.533333,
     "wd:longitude":14.566667,
@@ -190,7 +193,6 @@
     "wof:concordances":{
         "gn:id":3088461,
         "gp:id":29397226,
-        "qs:id":1043147,
         "qs_pg:id":1043147,
         "wd:id":"Q208022",
         "wk:page":"Police, Poland"
@@ -207,7 +209,7 @@
         }
     ],
     "wof:id":101819235,
-    "wof:lastmodified":1563577714,
+    "wof:lastmodified":1566598210,
     "wof:name":"Police",
     "wof:parent_id":102080119,
     "wof:placetype":"locality",

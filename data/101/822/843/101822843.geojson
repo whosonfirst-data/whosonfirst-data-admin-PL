@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.928475,
     "lbl:longitude":21.103934,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.928475,
     "mps:longitude":21.103934,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u067e\u0627\u0648\u0648\u0648\u0648"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":164,
     "wof:belongsto":[
@@ -98,10 +101,12 @@
     "wof:concordances":{
         "gn:id":3089350,
         "gp:id":511842,
-        "qs:id":998980,
-        "qs_pg:id":1216330,
+        "qs_pg:id":998980,
         "wd:id":"Q554621",
         "wk:page":"Gmina Paw\u0142\u00f3w"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1216330
     },
     "wof:country":"PL",
     "wof:geomhash":"f9a66a486432563948cf57f5754f17fe",
@@ -115,7 +120,7 @@
         }
     ],
     "wof:id":101822843,
-    "wof:lastmodified":1563578331,
+    "wof:lastmodified":1566598380,
     "wof:name":"Paw\u0142\u00f3w",
     "wof:parent_id":102079727,
     "wof:placetype":"locality",

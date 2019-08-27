@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.997846,
     "lbl:longitude":16.968198,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.997846,
     "mps:longitude":16.968198,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Miastko"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u044f\u0441\u0442\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rummelsburg in Pommern"
     ],
     "name:vie_x_preferred":[
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.016667,
     "wd:longitude":16.983333,
@@ -142,10 +145,12 @@
     "wof:concordances":{
         "gn:id":3092080,
         "gp:id":507058,
-        "qs:id":1311677,
         "qs_pg:id":976988,
         "wd:id":"Q255385",
         "wk:page":"Miastko"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1311677
     },
     "wof:country":"PL",
     "wof:geomhash":"d34f13cc6cd3f0c00148d49f55784e82",
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":101817723,
-    "wof:lastmodified":1563577522,
+    "wof:lastmodified":1566598165,
     "wof:name":"Miastko",
     "wof:parent_id":102080217,
     "wof:placetype":"locality",

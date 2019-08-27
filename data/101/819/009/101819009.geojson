@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.745904,
     "lbl:longitude":18.109979,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.745904,
     "mps:longitude":18.109979,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u06cc\u0627\u0646\u0642\u06a9\u0648\u0648\u0648"
     ],
@@ -62,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u043c\u0456\u043d\u0430 \u042f\u043d\u0456\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hanshagen"
     ],
     "name:war_x_preferred":[
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":144,
     "wof:belongsto":[
@@ -102,10 +105,12 @@
     "wof:concordances":{
         "gn:id":770536,
         "gp:id":496670,
-        "qs:id":1123144,
         "qs_pg:id":298184,
         "wd:id":"Q428194",
         "wk:page":"Gmina Janikowo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1123144
     },
     "wof:country":"PL",
     "wof:geomhash":"7e354b487b1a1ddaf03961bd6adcd637",
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":101819009,
-    "wof:lastmodified":1563577716,
+    "wof:lastmodified":1566598211,
     "wof:name":"Janikowo",
     "wof:parent_id":102080013,
     "wof:placetype":"locality",

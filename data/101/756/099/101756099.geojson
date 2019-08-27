@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.073784,
     "lbl:longitude":21.025101,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.073784,
     "mps:longitude":21.025101,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0627\u0633\u064a\u062a\u0634\u0646\u0648"
     ],
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.066667,
     "wd:longitude":21.016667,
@@ -160,10 +163,12 @@
     "wof:concordances":{
         "gn:id":762424,
         "gp:id":512058,
-        "qs:id":275693,
         "qs_pg:id":232479,
         "wd:id":"Q741876",
         "wk:page":"Piaseczno"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":275693
     },
     "wof:country":"PL",
     "wof:geomhash":"176bce8845e915099a04ad9530d1f899",
@@ -177,7 +182,7 @@
         }
     ],
     "wof:id":101756099,
-    "wof:lastmodified":1563577936,
+    "wof:lastmodified":1566598263,
     "wof:name":"Piaseczno",
     "wof:parent_id":102079911,
     "wof:placetype":"locality",

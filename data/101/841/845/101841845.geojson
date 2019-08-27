@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.124362,
     "lbl:longitude":20.672363,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.124362,
     "mps:longitude":20.672363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0644\u0627\u0646\u0648\u0648\u06a9"
     ],
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":420,
     "wof:belongsto":[
@@ -143,7 +146,6 @@
     "wof:concordances":{
         "gn:id":764749,
         "gp:id":507537,
-        "qs:id":265198,
         "qs_pg:id":265198,
         "wd:id":"Q422283",
         "wk:page":"Milan\u00f3wek"
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101841845,
-    "wof:lastmodified":1563577982,
+    "wof:lastmodified":1566598276,
     "wof:name":"Milan\u00f3wek",
     "wof:parent_id":102079909,
     "wof:placetype":"locality",

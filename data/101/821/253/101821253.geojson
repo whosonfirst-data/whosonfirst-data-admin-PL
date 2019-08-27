@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.473485,
     "lbl:longitude":17.335455,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.473485,
     "mps:longitude":17.335455,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0633\u0627"
     ],
@@ -163,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neisze"
     ],
     "name:vie_x_preferred":[
@@ -192,7 +195,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":195.0,
     "wd:latitude":50.471389,
@@ -208,10 +211,12 @@
     "wof:concordances":{
         "gn:id":3090436,
         "gp:id":509984,
-        "qs:id":1078906,
         "qs_pg:id":1033392,
         "wd:id":"Q815721",
         "wk:page":"Nysa, Poland"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078906
     },
     "wof:country":"PL",
     "wof:geomhash":"36e20752b85e9c6f6b2afaf9f975f227",
@@ -225,7 +230,7 @@
         }
     ],
     "wof:id":101821253,
-    "wof:lastmodified":1563577654,
+    "wof:lastmodified":1566598195,
     "wof:name":"Nysa",
     "wof:parent_id":102079569,
     "wof:placetype":"locality",

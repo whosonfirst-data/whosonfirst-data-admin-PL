@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.693117,
     "lbl:longitude":22.069231,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.693117,
     "mps:longitude":22.069231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Lipa"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":97,
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":766288,
         "gp:id":504706,
-        "qs:id":301341,
+        "qs_pg:id":301341,
         "wd:id":"Q4762990",
         "wk:page":"Lipa, Stalowa Wola County"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101823919,
-    "wof:lastmodified":1563578190,
+    "wof:lastmodified":1566598338,
     "wof:name":"Lipa",
     "wof:parent_id":102079669,
     "wof:placetype":"locality",

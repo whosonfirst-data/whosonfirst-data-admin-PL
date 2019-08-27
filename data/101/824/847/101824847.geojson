@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.280563,
     "lbl:longitude":18.196852,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.280563,
     "mps:longitude":18.196852,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0686\u06cc\u0633\u06a9"
     ],
@@ -68,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0490\u043c\u0456\u043d\u0430 \u0426\u0438\u0441\u0435\u043a"
     ],
-    "name:unk_x_variant":[
-        "Czissek"
-    ],
     "name:war_x_preferred":[
         "Gmina Cisek"
     ],
@@ -92,7 +92,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":177,
     "wof:belongsto":[
@@ -105,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3101294,
         "gp:id":12607143,
-        "qs:id":487605,
+        "qs_pg:id":487605,
         "wd:id":"Q923798",
         "wk:page":"Gmina Cisek"
     },
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":101824847,
-    "wof:lastmodified":1563578244,
+    "wof:lastmodified":1566598353,
     "wof:name":"Cisek",
     "wof:parent_id":102079523,
     "wof:placetype":"locality",

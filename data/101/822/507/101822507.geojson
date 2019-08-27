@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.878627,
     "lbl:longitude":18.424983,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.878627,
     "mps:longitude":18.424983,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u064a\u0646\u0633\u0648"
     ],
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u0435\u0441\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rosenberg"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":240.0,
     "wd:latitude":50.875,
@@ -134,10 +137,12 @@
     "wof:concordances":{
         "gn:id":3090158,
         "gp:id":510445,
-        "qs:id":1200814,
         "qs_pg:id":313886,
         "wd:id":"Q717404",
         "wk:page":"Olesno"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1200814
     },
     "wof:country":"PL",
     "wof:geomhash":"159899eaf507ce9838dbcaa3741bd8f7",
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":101822507,
-    "wof:lastmodified":1563578367,
+    "wof:lastmodified":1566598390,
     "wof:name":"Olesno",
     "wof:parent_id":102079671,
     "wof:placetype":"locality",

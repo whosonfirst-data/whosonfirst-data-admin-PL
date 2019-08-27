@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.648591,
     "lbl:longitude":19.828003,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.648591,
     "mps:longitude":19.828003,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u06cc\u0648\u0631\u062f\u0627\u0646\u0648\u0648"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":382,
     "wof:belongsto":[
@@ -134,10 +137,12 @@
     "wof:concordances":{
         "gn:id":3097106,
         "gp:id":497690,
-        "qs:id":59628,
-        "qs_pg:id":298599,
+        "qs_pg:id":59628,
         "wd:id":"Q514407",
         "wk:page":"Jordan\u00f3w"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":298599
     },
     "wof:country":"PL",
     "wof:geomhash":"34f778cff4f04a8e749dcf072d280278",
@@ -151,7 +156,7 @@
         }
     ],
     "wof:id":101827253,
-    "wof:lastmodified":1563577313,
+    "wof:lastmodified":1566598116,
     "wof:name":"Jordan\u00f3w",
     "wof:parent_id":102079419,
     "wof:placetype":"locality",

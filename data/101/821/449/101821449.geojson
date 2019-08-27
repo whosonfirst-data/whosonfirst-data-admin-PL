@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.377071,
     "lbl:longitude":20.279404,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.377071,
     "mps:longitude":20.279404,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Ogonowice"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_variant":[
         "\u041e\u0491\u043e\u043d\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Ogonowice"
-    ],
     "name:yid_x_preferred":[
         "\u05d0\u05e4\u05d0\u05d8\u05e9\u05e0\u05d0"
     ],
@@ -79,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":101,
     "wof:belongsto":[
@@ -92,10 +92,12 @@
     "wof:concordances":{
         "gn:id":763111,
         "gp:id":510215,
-        "qs:id":303660,
         "qs_pg:id":129298,
         "wd:id":"Q7080204",
         "wk:page":"Ogonowice, \u0141\u00f3d\u017a Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":303660
     },
     "wof:country":"PL",
     "wof:geomhash":"d3c5b23255d6c04c8fc8bd204694f3b4",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":101821449,
-    "wof:lastmodified":1563577582,
+    "wof:lastmodified":1566598178,
     "wof:name":"Opoczno",
     "wof:parent_id":102079785,
     "wof:placetype":"locality",

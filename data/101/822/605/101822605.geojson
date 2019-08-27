@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.024961,
     "lbl:longitude":21.227473,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.024961,
     "mps:longitude":21.227473,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0628\u0631\u0648\u062f\u0647"
     ],
@@ -77,7 +80,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":134,
     "wof:belongsto":[
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":775318,
         "gp:id":12616605,
-        "qs:id":954921,
+        "qs_pg:id":954921,
         "wd:id":"Q554042",
         "wk:page":"Gmina Brody, \u015awi\u0119tokrzyskie Voivodeship"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101822605,
-    "wof:lastmodified":1563578334,
+    "wof:lastmodified":1566598380,
     "wof:name":"Brody",
     "wof:parent_id":102079727,
     "wof:placetype":"locality",

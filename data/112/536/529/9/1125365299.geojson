@@ -9,15 +9,18 @@
     "geom:bbox":"15.39854,51.19543,15.39854,51.19543",
     "geom:latitude":51.19543,
     "geom:longitude":15.39854,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":4031,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":4031,
     "iso:country":"PL",
+    "lbl:bbox":"15.29854,51.09543,15.49854,51.29543",
     "lbl:latitude":51.19543,
     "lbl:longitude":15.39854,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0646\u0648\u0648\u0648\u0642\u0631\u0648\u062c\u062a\u0633"
@@ -64,7 +67,7 @@
     "name:ukr_x_variant":[
         "\u0413\u043c\u0456\u043d\u0430 \u041d\u043e\u0432\u043e\u0491\u0440\u043e\u0434\u0437\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naumburg am Queis"
     ],
     "name:war_x_preferred":[
@@ -92,7 +95,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24547549,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1125365299,
-    "wof:lastmodified":1564212268,
+    "wof:lastmodified":1566598938,
     "wof:name":"Gmina Nowogrodziec",
     "wof:parent_id":102079707,
     "wof:placetype":"localadmin",

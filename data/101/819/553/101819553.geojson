@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.87824,
     "lbl:longitude":18.79423,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.87824,
     "mps:longitude":18.79423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0686\u062e\u0648\u0686\u06cc\u0646\u06a9"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":40.0,
     "wd:latitude":52.883333,
@@ -138,10 +141,12 @@
         "gn:id":3101426,
         "gp:id":489840,
         "loc:id":"n82167582",
-        "qs:id":905465,
-        "qs_pg:id":1078643,
+        "qs_pg:id":905465,
         "wd:id":"Q985659",
         "wk:page":"Ciechocinek"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078643
     },
     "wof:country":"PL",
     "wof:geomhash":"ed1175a26240b25ece2e951f0221d710",
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":101819553,
-    "wof:lastmodified":1563577758,
+    "wof:lastmodified":1566598219,
     "wof:name":"Ciechocinek",
     "wof:parent_id":102080009,
     "wof:placetype":"locality",

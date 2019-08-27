@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.601703,
     "lbl:longitude":18.948595,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.601703,
     "mps:longitude":18.948595,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0417\u0434\u0443\u043d\u044c\u0441\u043a\u0430 \u0412\u043e\u043b\u044f"
     ],
@@ -146,7 +149,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
     "wof:belongsto":[
@@ -159,10 +162,12 @@
     "wof:concordances":{
         "gn:id":3080414,
         "gp:id":528458,
-        "qs:id":1327023,
         "qs_pg:id":374817,
         "wd:id":"Q169237",
         "wk:page":"Zdu\u0144ska Wola"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327023
     },
     "wof:country":"PL",
     "wof:geomhash":"a8a46c390fd121de16d327aeb405f040",
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":101841817,
-    "wof:lastmodified":1563577987,
+    "wof:lastmodified":1566598277,
     "wof:name":"Zdu\u0144ska Wola",
     "wof:parent_id":102079803,
     "wof:placetype":"locality",

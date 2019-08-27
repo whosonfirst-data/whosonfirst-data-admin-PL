@@ -9,15 +9,18 @@
     "geom:bbox":"22.8229,53.77367,22.8229,53.77367",
     "geom:latitude":53.77367,
     "geom:longitude":22.8229,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":800,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
     "gn:population":800,
     "iso:country":"PL",
+    "lbl:bbox":"22.8029,53.75367,22.8429,53.79367",
     "lbl:latitude":53.77367,
     "lbl:longitude":22.8229,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0628\u0627\u0631\u0642\u0648\u0648\u0641 \u06a9\u0648\u0634\u0686\u06cc\u0644\u0646\u0647"
@@ -74,7 +77,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0430\u0440\u0491\u043b\u0443\u0432-\u041a\u043e\u0441\u044c\u0446\u0435\u043b\u044c\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barg\u0142\u00f3w"
     ],
     "name:war_x_preferred":[
@@ -97,7 +100,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":485596,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1126003503,
-    "wof:lastmodified":1564212371,
+    "wof:lastmodified":1566599080,
     "wof:name":"Barg\u0142\u00f3w Ko\u015bcielny",
     "wof:parent_id":102080221,
     "wof:placetype":"locality",

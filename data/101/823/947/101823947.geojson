@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.938549,
     "lbl:longitude":18.277823,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.938549,
     "mps:longitude":18.277823,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Chocianowice"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
     "wof:concordances":{
         "gn:id":3101721,
         "gp:id":489298,
-        "qs:id":295078,
+        "qs_pg:id":295078,
         "wd:id":"Q25150",
         "wk:page":"Chocianowice"
     },
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101823947,
-    "wof:lastmodified":1563578138,
+    "wof:lastmodified":1566598322,
     "wof:name":"Chocianowice",
     "wof:parent_id":102079677,
     "wof:placetype":"locality",

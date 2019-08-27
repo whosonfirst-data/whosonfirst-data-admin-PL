@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.183103,
     "lbl:longitude":14.839054,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.183103,
     "mps:longitude":14.839054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "\u017bab\u00f3w"
     ],
@@ -62,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":106,
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3081000,
         "gp:id":527120,
-        "qs:id":311102,
+        "qs_pg:id":311102,
         "wd:id":"Q8083044",
         "wk:page":"\u017bab\u00f3w"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101819063,
-    "wof:lastmodified":1563577722,
+    "wof:lastmodified":1566598212,
     "wof:name":"\u017bab\u00f3w",
     "wof:parent_id":102080041,
     "wof:placetype":"locality",

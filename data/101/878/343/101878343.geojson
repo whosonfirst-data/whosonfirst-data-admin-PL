@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.683716,
     "lbl:longitude":21.464652,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.683716,
     "mps:longitude":21.464652,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "D\u0119bowiec"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043c\u0431\u043e\u0432\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eichholz"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":746,
     "wof:belongsto":[
@@ -76,10 +79,12 @@
     "wof:concordances":{
         "gn:id":773313,
         "gp:id":491484,
-        "qs:id":83486,
-        "qs_pg:id":296021,
+        "qs_pg:id":83486,
         "wd:id":"Q2214289",
         "wk:page":"D\u0119bowiec, Podkarpackie Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":296021
     },
     "wof:country":"PL",
     "wof:geomhash":"fc572d0c62ec4feb46477b4cb61231b5",
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":101878343,
-    "wof:lastmodified":1563578268,
+    "wof:lastmodified":1566598360,
     "wof:name":"D\u0119bowiec",
     "wof:parent_id":102079453,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.899021,
     "lbl:longitude":19.483991,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.899021,
     "mps:longitude":19.483991,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tomice"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":101,
     "wof:belongsto":[
@@ -71,10 +74,12 @@
     "wof:concordances":{
         "gn:id":3083319,
         "gp:id":522604,
-        "qs:id":287026,
-        "qs_pg:id":963416,
+        "qs_pg:id":287026,
         "wd:id":"Q2869561",
         "wk:page":"Tomice, Lesser Poland Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":963416
     },
     "wof:country":"PL",
     "wof:geomhash":"8f9f41c8e8048101901001b8e57e8a25",
@@ -88,7 +93,7 @@
         }
     ],
     "wof:id":101841499,
-    "wof:lastmodified":1563577996,
+    "wof:lastmodified":1566598280,
     "wof:name":"Tomice",
     "wof:parent_id":102079451,
     "wof:placetype":"locality",

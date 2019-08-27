@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.372357,
     "lbl:longitude":18.428533,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.372357,
     "mps:longitude":18.428533,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0644\u0648\u062a\u0648\u062a\u0648\u0648"
     ],
@@ -86,7 +89,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":138,
     "wof:belongsto":[
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3092646,
         "gp:id":12616971,
-        "qs:id":23917,
+        "qs_pg:id":23917,
         "wd:id":"Q2422711",
         "wk:page":"Gmina Lutut\u00f3w"
     },
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101821303,
-    "wof:lastmodified":1563577625,
+    "wof:lastmodified":1566598188,
     "wof:name":"Lutut\u00f3w",
     "wof:parent_id":102079731,
     "wof:placetype":"locality",

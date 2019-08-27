@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.5931,
     "lbl:longitude":14.646714,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.5931,
     "mps:longitude":14.646714,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0448\u044b\u043d-\u043d\u0430\u0434-\u041e\u0434\u0440\u0430\u0439"
     ],
@@ -132,7 +135,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0448\u0438\u043d-\u043d\u0430\u0434-\u041e\u0434\u0440\u043e\u044e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kistrzyn"
     ],
     "name:vie_x_preferred":[
@@ -161,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.588333,
     "wd:longitude":14.666667,
@@ -176,7 +179,6 @@
     "wof:concordances":{
         "gn:id":3095057,
         "gp:id":501568,
-        "qs:id":46217,
         "qs_pg:id":46217,
         "wd:id":"Q156837",
         "wk:page":"Kostrzyn nad Odr\u0105"
@@ -193,7 +195,7 @@
         }
     ],
     "wof:id":101820413,
-    "wof:lastmodified":1563577343,
+    "wof:lastmodified":1566598125,
     "wof:name":"Kostrzyn",
     "wof:parent_id":102079975,
     "wof:placetype":"locality",

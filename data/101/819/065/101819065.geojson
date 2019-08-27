@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.145978,
     "lbl:longitude":14.894278,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.145978,
     "mps:longitude":14.894278,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Pyrzyce"
     ],
@@ -116,9 +119,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0438\u0436\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Pyritz"
-    ],
     "name:vie_x_preferred":[
         "Pyrzyce"
     ],
@@ -145,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.133333,
     "wd:longitude":14.883333,
@@ -160,7 +160,6 @@
     "wof:concordances":{
         "gn:id":3087630,
         "gp:id":514958,
-        "qs:id":94534,
         "qs_pg:id":94534,
         "wd:id":"Q219093",
         "wk:page":"Pyrzyce"
@@ -177,7 +176,7 @@
         }
     ],
     "wof:id":101819065,
-    "wof:lastmodified":1563577711,
+    "wof:lastmodified":1566598209,
     "wof:name":"Pyrzyce",
     "wof:parent_id":102080041,
     "wof:placetype":"locality",

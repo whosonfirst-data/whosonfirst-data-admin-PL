@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.780416,
     "lbl:longitude":16.670402,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.780416,
     "mps:longitude":16.670402,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "K\u0142oda"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":103,
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":3096081,
         "gp:id":499552,
-        "qs:id":299356,
+        "qs_pg:id":299356,
         "wd:id":"Q6454917",
         "wk:page":"K\u0142oda, Leszno County"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101841959,
-    "wof:lastmodified":1563578017,
+    "wof:lastmodified":1566598286,
     "wof:name":"K\u0142oda",
     "wof:parent_id":102079821,
     "wof:placetype":"locality",

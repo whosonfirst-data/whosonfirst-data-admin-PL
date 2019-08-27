@@ -9,15 +9,18 @@
     "geom:bbox":"18.52982,50.27214,18.52982,50.27214",
     "geom:latitude":50.27214,
     "geom:longitude":18.52982,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":1691,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":1691,
     "iso:country":"PL",
+    "lbl:bbox":"18.42982,50.17214,18.62982,50.37214",
     "lbl:latitude":50.27214,
     "lbl:longitude":18.52982,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u043e\u0448\u043d\u0438\u0446\u043e\u0432\u0438\u0446\u0435"
@@ -67,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0441\u043d\u0456\u0446\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Kieferst\u00e4dtel"
-    ],
     "name:vie_x_preferred":[
         "So\u015bnicowice"
     ],
@@ -94,7 +94,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24548756,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":1125290919,
-    "wof:lastmodified":1564211967,
+    "wof:lastmodified":1566598768,
     "wof:name":"So\u015bnicowice",
     "wof:parent_id":102079563,
     "wof:placetype":"localadmin",

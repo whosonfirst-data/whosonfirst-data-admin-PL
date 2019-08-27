@@ -9,14 +9,18 @@
     "geom:bbox":"21.52688,52.05102,21.52688,52.05102",
     "geom:latitude":52.05102,
     "geom:longitude":21.52688,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PL",
+    "lbl:bbox":"21.50688,52.03102,21.54688,52.07102",
     "lbl:latitude":52.05102,
     "lbl:longitude":21.52688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Wola Sufczy\u0144ska"
@@ -39,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u044f-\u0421\u0443\u0444\u0447\u0438\u043d\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sufczy\u0144ska Wola"
     ],
     "qs_pg:aaroncc":"PL",
@@ -59,7 +63,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":525831,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1125888343,
-    "wof:lastmodified":1563579140,
+    "wof:lastmodified":1566598737,
     "wof:name":"Wola Sufczy\u0144ska",
     "wof:parent_id":102079931,
     "wof:placetype":"locality",

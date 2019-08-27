@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.803445,
     "lbl:longitude":16.31876,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.803445,
     "mps:longitude":16.31876,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Wschowa"
     ],
@@ -95,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0441\u0445\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Fraustadt"
-    ],
     "name:vie_x_preferred":[
         "Wschowa"
     ],
@@ -125,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.8,
     "wd:longitude":16.3,
@@ -140,7 +140,6 @@
     "wof:concordances":{
         "gn:id":3081300,
         "gp:id":526460,
-        "qs:id":145548,
         "qs_pg:id":145548,
         "wd:id":"Q717938",
         "wk:page":"Wschowa"
@@ -157,7 +156,7 @@
         }
     ],
     "wof:id":101821519,
-    "wof:lastmodified":1563577608,
+    "wof:lastmodified":1566598185,
     "wof:name":"Wschowa",
     "wof:parent_id":102079817,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.106707,
     "lbl:longitude":21.274516,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.106707,
     "mps:longitude":21.274516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u041e\u0442\u0432\u0430\u0446\u043a"
     ],
@@ -110,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0442\u0432\u043e\u0446\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Otvotsk"
     ],
     "name:vie_x_preferred":[
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":696,
     "wof:belongsto":[
@@ -158,10 +161,12 @@
     "wof:concordances":{
         "gn:id":762788,
         "gp:id":511360,
-        "qs:id":248461,
-        "qs_pg:id":454255,
+        "qs_pg:id":248461,
         "wd:id":"Q745059",
         "wk:page":"Otwock"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":454255
     },
     "wof:country":"PL",
     "wof:geomhash":"12474f89cb4e19aba5592836a0079d1b",
@@ -175,7 +180,7 @@
         }
     ],
     "wof:id":101756103,
-    "wof:lastmodified":1563577922,
+    "wof:lastmodified":1566598259,
     "wof:name":"Otwock",
     "wof:parent_id":102079931,
     "wof:placetype":"locality",

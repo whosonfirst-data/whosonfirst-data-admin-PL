@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.374912,
     "lbl:longitude":20.008506,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.374912,
     "mps:longitude":20.008506,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Bia\u0142y Dunajec"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -90,10 +93,12 @@
     "wof:concordances":{
         "gn:id":776080,
         "gp:id":486116,
-        "qs:id":202624,
-        "qs_pg:id":1055792,
+        "qs_pg:id":202624,
         "wd:id":"Q2470939",
         "wk:page":"Bia\u0142y Dunajec"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1055792
     },
     "wof:country":"PL",
     "wof:geomhash":"34bffc4d8a3016f14e89d06edb1ccf29",
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":101842277,
-    "wof:lastmodified":1563577476,
+    "wof:lastmodified":1566598154,
     "wof:name":"Bia\u0142y Dunajec",
     "wof:parent_id":102079405,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.420725,
     "lbl:longitude":18.138737,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.420725,
     "mps:longitude":18.138737,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Zdzieszowice"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0434\u0437\u0435\u0448\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Odertal"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +113,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.419167,
     "wd:longitude":18.123611,
@@ -125,7 +128,7 @@
     "wof:concordances":{
         "gn:id":3080389,
         "gp:id":24548638,
-        "qs:id":341583,
+        "qs_pg:id":341583,
         "wd:id":"Q1002944",
         "wk:page":"Zdzieszowice"
     },
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101823495,
-    "wof:lastmodified":1563578177,
+    "wof:lastmodified":1566598334,
     "wof:name":"Zdzieszowice",
     "wof:parent_id":102079553,
     "wof:placetype":"locality",

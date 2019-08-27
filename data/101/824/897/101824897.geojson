@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.26961,
     "lbl:longitude":19.727106,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.26961,
     "mps:longitude":19.727106,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Su\u0142oszowa"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -81,10 +84,12 @@
     "wof:concordances":{
         "gn:id":3084178,
         "gp:id":520994,
-        "qs:id":498008,
         "qs_pg:id":343283,
         "wd:id":"Q5335679",
         "wk:page":"Su\u0142oszowa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":498008
     },
     "wof:country":"PL",
     "wof:geomhash":"c504768c63d9a03e4b4ab5e4305fb9e3",
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":101824897,
-    "wof:lastmodified":1563578254,
+    "wof:lastmodified":1566598356,
     "wof:name":"Su\u0142oszowa",
     "wof:parent_id":102079541,
     "wof:placetype":"locality",
