@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.259663,
     "lbl:longitude":17.254297,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.259663,
     "mps:longitude":17.254297,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0648\u0648\u0628\u0698\u0646\u0642\u062a\u0633\u0627"
     ],
@@ -80,7 +83,7 @@
     "name:ukr_x_variant":[
         "\u041b\u043e\u0431\u0436\u0435\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lobsens"
     ],
     "name:war_x_preferred":[
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":165,
     "wof:belongsto":[
@@ -119,10 +122,12 @@
     "wof:concordances":{
         "gn:id":3093150,
         "gp:id":505100,
-        "qs:id":59451,
-        "qs_pg:id":976981,
+        "qs_pg:id":59451,
         "wd:id":"Q556240",
         "wk:page":"Gmina \u0141ob\u017cenica"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":976981
     },
     "wof:country":"PL",
     "wof:geomhash":"86865c280aff8a54fcedf029dd5b9039",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101819121,
-    "wof:lastmodified":1563577738,
+    "wof:lastmodified":1566598215,
     "wof:name":"\u0141ob\u017cenica",
     "wof:parent_id":102080065,
     "wof:placetype":"locality",

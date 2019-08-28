@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":50.437424,
     "lbl:longitude":18.979761,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.437424,
     "mps:longitude":18.979761,
     "mz:hierarchy_label":1,
@@ -288,9 +289,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043b\u0435\u0437\u044c\u043a\u0435 \u0432\u043e\u0454\u0432\u043e\u0434\u0441\u0442\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Wojew\u00f3dztwo \u015al\u0105skie"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0644\u06cc\u0632\u06cc\u0627 \u0635\u0648\u0628\u06c1"
     ],
@@ -379,9 +377,9 @@
     "qs:type":"Wojew\u00f3dztwo",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-21",
+    "src:population_date":"2011-03-21",
     "statoids:area_km":"12,333",
     "statoids:area_mi":"4,762",
     "statoids:as_of_date":"2011-03-21",
@@ -429,11 +427,10 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1565733451,
+    "wof:lastmodified":1566596087,
     "wof:name":"\u015al\u0105skie",
     "wof:parent_id":85633723,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"voivodship",
     "wof:population":4630364,
     "wof:population_rank":12,

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.082619,
     "lbl:longitude":18.25056,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.082619,
     "mps:longitude":18.25056,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0633\u0648\u0644\u062a\u0633 \u06a9\u0648\u06cc\u0627\u0648\u0633\u06a9\u06cc"
     ],
@@ -77,7 +80,7 @@
     "name:ukr_x_variant":[
         "\u0421\u043e\u043b\u0435\u0446\u044c-\u041a\u0443\u044f\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schulitz"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":142,
     "wof:belongsto":[
@@ -122,7 +125,6 @@
     "wof:concordances":{
         "gn:id":3085172,
         "gp:id":519305,
-        "qs:id":1043138,
         "qs_pg:id":1043138,
         "wd:id":"Q2458609",
         "wk:page":"Gmina Solec Kujawski"
@@ -139,7 +141,7 @@
         }
     ],
     "wof:id":101819171,
-    "wof:lastmodified":1563577811,
+    "wof:lastmodified":1566598231,
     "wof:name":"Solec Kujawski",
     "wof:parent_id":102080085,
     "wof:placetype":"locality",

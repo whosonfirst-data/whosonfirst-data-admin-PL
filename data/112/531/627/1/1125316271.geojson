@@ -9,15 +9,18 @@
     "geom:bbox":"15.01471,54.0812,15.01471,54.0812",
     "geom:latitude":54.0812,
     "geom:longitude":15.01471,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":959,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":959,
     "iso:country":"PL",
+    "lbl:bbox":"14.91471,53.9812,15.11471,54.1812",
     "lbl:latitude":54.0812,
     "lbl:longitude":15.01471,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Rewal"
@@ -55,7 +58,7 @@
     "name:ukr_x_variant":[
         "\u0420\u0435\u0432\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rewahl"
     ],
     "name:vie_x_preferred":[
@@ -85,7 +88,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":12618685,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1125316271,
-    "wof:lastmodified":1564212232,
+    "wof:lastmodified":1566598920,
     "wof:name":"Rewal",
     "wof:parent_id":102080165,
     "wof:placetype":"localadmin",

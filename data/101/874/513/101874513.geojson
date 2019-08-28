@@ -11,12 +11,16 @@
     "geom:longitude":16.605333,
     "gn:population":1300,
     "iso:country":"PL",
+    "lbl:bbox":"16.585333,53.449722,16.625333,53.489722",
     "lbl:latitude":53.469722,
     "lbl:longitude":16.605333,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.469722,
     "mps:longitude":16.605333,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sypniewo"
     ],
@@ -41,7 +45,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043f\u043d\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zippnow"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":168,
     "wof:belongsto":[
@@ -76,10 +80,12 @@
     "wof:concordances":{
         "gn:id":3083910,
         "gp:id":521448,
-        "qs:id":308486,
-        "qs_pg:id":963386,
+        "qs_pg:id":308486,
         "wd:id":"Q7662990",
         "wk:page":"Sypniewo, Z\u0142ot\u00f3w County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":963386
     },
     "wof:country":"PL",
     "wof:geomhash":"c58dea7ba09a3f917416f70317f870e1",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":101874513,
-    "wof:lastmodified":1563577489,
+    "wof:lastmodified":1566598157,
     "wof:name":"Sypniewo",
     "wof:parent_id":102080109,
     "wof:placetype":"locality",

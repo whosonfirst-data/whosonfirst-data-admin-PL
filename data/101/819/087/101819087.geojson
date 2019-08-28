@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.246545,
     "lbl:longitude":17.605808,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.246545,
     "mps:longitude":17.605808,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Mrocza"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0440\u043e\u0447\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mrotschen"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +113,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.2425,
     "wd:longitude":17.598889,
@@ -125,7 +128,7 @@
     "wof:concordances":{
         "gn:id":3091351,
         "gp:id":24547772,
-        "qs:id":999052,
+        "qs_pg:id":999052,
         "wd:id":"Q761508",
         "wk:page":"Mrocza"
     },
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101819087,
-    "wof:lastmodified":1563577760,
+    "wof:lastmodified":1566598220,
     "wof:name":"Mrocza",
     "wof:parent_id":102080053,
     "wof:placetype":"locality",

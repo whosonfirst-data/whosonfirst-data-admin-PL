@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.032146,
     "lbl:longitude":22.601152,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.032146,
     "mps:longitude":22.601152,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Wierzbna"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":96,
     "wof:belongsto":[
@@ -68,10 +71,12 @@
     "wof:concordances":{
         "gn:id":3082148,
         "gp:id":524606,
-        "qs:id":309843,
-        "qs_pg:id":994150,
+        "qs_pg:id":309843,
         "wd:id":"Q7999246",
         "wk:page":"Wierzbna, Podkarpackie Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":994150
     },
     "wof:country":"PL",
     "wof:geomhash":"c560777b42c5e359f8d403f9add90e61",
@@ -85,7 +90,7 @@
         }
     ],
     "wof:id":101825029,
-    "wof:lastmodified":1563578290,
+    "wof:lastmodified":1566598366,
     "wof:name":"Wierzbna",
     "wof:parent_id":102079573,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.713969,
     "lbl:longitude":20.253109,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.713969,
     "mps:longitude":20.253109,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u062f\u0648\u0628\u0631\u0627"
     ],
@@ -62,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u043c\u0456\u043d\u0430 \u0414\u043e\u0431\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dobra Pod\u0142opie\u0144"
     ],
     "name:war_x_preferred":[
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":123,
     "wof:belongsto":[
@@ -98,10 +101,12 @@
     "wof:concordances":{
         "gn:id":3100371,
         "gp:id":491746,
-        "qs:id":83484,
         "qs_pg:id":53447,
         "wd:id":"Q2285653",
         "wk:page":"Gmina Dobra, Lesser Poland Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":83484
     },
     "wof:country":"PL",
     "wof:geomhash":"fd823600412f4b4654abc29621074752",
@@ -115,7 +120,7 @@
         }
     ],
     "wof:id":101847997,
-    "wof:lastmodified":1563578266,
+    "wof:lastmodified":1566598359,
     "wof:name":"Dobra",
     "wof:parent_id":102079423,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.018378,
     "lbl:longitude":19.621901,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.018378,
     "mps:longitude":19.621901,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Skrwilno"
     ],
@@ -68,7 +71,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":92,
     "wof:belongsto":[
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3085709,
         "gp:id":12616982,
-        "qs:id":23914,
+        "qs_pg:id":23914,
         "wd:id":"Q984967",
         "wk:page":"Skrwilno"
     },
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101819107,
-    "wof:lastmodified":1563577746,
+    "wof:lastmodified":1566598218,
     "wof:name":"Skrwilno",
     "wof:parent_id":102080059,
     "wof:placetype":"locality",

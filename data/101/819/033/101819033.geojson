@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.902007,
     "lbl:longitude":16.562534,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.902007,
     "mps:longitude":16.562534,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0686\u0627\u0631\u0646\u06a9\u0648\u0648"
     ],
@@ -141,7 +144,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":337,
     "wof:belongsto":[
@@ -154,7 +157,7 @@
     "wof:concordances":{
         "gn:id":3101145,
         "gp:id":24547583,
-        "qs:id":1043208,
+        "qs_pg:id":1043208,
         "wd:id":"Q51438",
         "wk:page":"Czarnk\u00f3w"
     },
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101819033,
-    "wof:lastmodified":1563577788,
+    "wof:lastmodified":1566598226,
     "wof:name":"Czarnk\u00f3w",
     "wof:parent_id":102080029,
     "wof:placetype":"locality",

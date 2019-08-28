@@ -14,10 +14,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.56488,
     "lbl:longitude":20.137273,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":51.56488,
     "mps:longitude":20.137273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Konewka"
     ],
@@ -51,7 +54,7 @@
     "name:szl_x_preferred":[
         "K\u016fnewka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stillaguamish"
     ],
     "name:uzb_x_preferred":[
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":430,
     "wof:belongsto":[
@@ -89,10 +92,12 @@
     "wof:concordances":{
         "gn:id":5810397,
         "gp:id":24935794,
-        "qs:id":1118054,
         "qs_pg:id":242570,
         "wd:id":"Q6429093",
         "wk:page":"Silvana, Washington"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118054
     },
     "wof:country":"PL",
     "wof:geomhash":"6557add76e55027a8387eb7383adb886",
@@ -109,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563578498,
+    "wof:lastmodified":1566598428,
     "wof:name":"Konewka",
     "wof:parent_id":102079831,
     "wof:placetype":"locality",

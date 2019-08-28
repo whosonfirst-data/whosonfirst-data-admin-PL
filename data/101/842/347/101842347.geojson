@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.422477,
     "lbl:longitude":20.955873,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.422477,
     "mps:longitude":20.955873,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Krynica-Zdr\u00f3j"
     ],
@@ -110,9 +113,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0438\u043d\u0438\u0446\u044f-\u0417\u0434\u0440\u0443\u0439"
     ],
-    "name:unk_x_variant":[
-        "Krynica Zdr\u00f3j"
-    ],
     "name:vie_x_preferred":[
         "Krynica-Zdr\u00f3j"
     ],
@@ -136,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":590.0,
     "wd:latitude":49.411667,
@@ -152,7 +152,6 @@
     "wof:concordances":{
         "gn:id":767374,
         "gp:id":502603,
-        "qs:id":676198,
         "qs_pg:id":676198,
         "wd:id":"Q259497",
         "wk:page":"Krynica-Zdr\u00f3j"
@@ -169,7 +168,7 @@
         }
     ],
     "wof:id":101842347,
-    "wof:lastmodified":1563577472,
+    "wof:lastmodified":1566598153,
     "wof:name":"Krynica-Zdr\u00f3j",
     "wof:parent_id":102079425,
     "wof:placetype":"locality",

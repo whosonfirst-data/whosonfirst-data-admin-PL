@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":54.044475,
     "lbl:longitude":21.765289,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":54.044475,
     "mps:longitude":21.765289,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0413\u0456\u0436\u044b\u0446\u043a\u0430"
     ],
@@ -110,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0436\u0438\u0446\u044c\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u00f6tzen"
     ],
     "name:vie_x_preferred":[
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":923,
     "wof:belongsto":[
@@ -152,10 +155,12 @@
     "wof:concordances":{
         "gn:id":772195,
         "gp:id":493564,
-        "qs:id":192563,
-        "qs_pg:id":1056163,
+        "qs_pg:id":192563,
         "wd:id":"Q841356",
         "wk:page":"Gi\u017cycko"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1056163
     },
     "wof:country":"PL",
     "wof:geomhash":"18cfd359853f8dfbff820055780fa17e",
@@ -169,7 +174,7 @@
         }
     ],
     "wof:id":101817749,
-    "wof:lastmodified":1563577520,
+    "wof:lastmodified":1566598165,
     "wof:name":"Gi\u017cycko",
     "wof:parent_id":102080235,
     "wof:placetype":"locality",

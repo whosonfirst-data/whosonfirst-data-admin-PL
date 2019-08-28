@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.128283,
     "lbl:longitude":17.544936,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.128283,
     "mps:longitude":17.544936,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Bierut\u00f3w"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0443\u0442\u0443\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bernstadt in Schlesien"
     ],
     "name:vie_x_preferred":[
@@ -125,7 +128,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":148.0,
     "wd:latitude":51.133333,
@@ -141,7 +144,7 @@
     "wof:concordances":{
         "gn:id":3103364,
         "gp:id":24547648,
-        "qs:id":335518,
+        "qs_pg:id":335518,
         "wd:id":"Q858130",
         "wk:page":"Bierut\u00f3w"
     },
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101822893,
-    "wof:lastmodified":1563578340,
+    "wof:lastmodified":1566598382,
     "wof:name":"Bierut\u00f3w",
     "wof:parent_id":102079717,
     "wof:placetype":"locality",

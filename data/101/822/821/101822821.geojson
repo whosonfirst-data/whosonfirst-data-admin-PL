@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.650413,
     "lbl:longitude":21.782881,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.650413,
     "mps:longitude":21.782881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sokolniki"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":101,
     "wof:belongsto":[
@@ -65,10 +68,12 @@
     "wof:concordances":{
         "gn:id":3085221,
         "gp:id":519231,
-        "qs:id":216258,
-        "qs_pg:id":307521,
+        "qs_pg:id":216258,
         "wd:id":"Q9339216",
         "wk:page":"Sokolniki, Podkarpackie Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":307521
     },
     "wof:country":"PL",
     "wof:geomhash":"21eff0f41f2c70130483d26b58b1bc0d",
@@ -82,7 +87,7 @@
         }
     ],
     "wof:id":101822821,
-    "wof:lastmodified":1563578327,
+    "wof:lastmodified":1566598378,
     "wof:name":"Sokolniki",
     "wof:parent_id":102079653,
     "wof:placetype":"locality",

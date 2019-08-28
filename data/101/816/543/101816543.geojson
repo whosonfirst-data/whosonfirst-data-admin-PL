@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.257965,
     "lbl:longitude":19.82128,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.257965,
     "mps:longitude":19.82128,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Lidzbark"
     ],
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0434\u0437\u0431\u0430\u0440\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lautenburg"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.260278,
     "wd:longitude":19.821111,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":3093439,
         "gp:id":24548010,
-        "qs:id":1043167,
+        "qs_pg:id":1043167,
         "wd:id":"Q1005464",
         "wk:page":"Lidzbark"
     },
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101816543,
-    "wof:lastmodified":1563577460,
+    "wof:lastmodified":1566598151,
     "wof:name":"Lidzbark",
     "wof:parent_id":102080111,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"14.1549,52.94279,14.1549,52.94279",
     "geom:latitude":52.94279,
     "geom:longitude":14.1549,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":210,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
     "gn:population":210,
     "iso:country":"PL",
+    "lbl:bbox":"14.1349,52.92279,14.1749,52.96279",
     "lbl:latitude":52.94279,
     "lbl:longitude":14.1549,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Bielinek"
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0456\u043d\u0435\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bellinchen"
     ],
     "name:vie_x_preferred":[
@@ -68,7 +71,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":486283,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1126005413,
-    "wof:lastmodified":1563580073,
+    "wof:lastmodified":1566599105,
     "wof:name":"Bielinek",
     "wof:parent_id":102080047,
     "wof:placetype":"locality",

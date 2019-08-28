@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.791745,
     "lbl:longitude":16.66091,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.791745,
     "mps:longitude":16.66091,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Rydzyna"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.8,
     "wd:longitude":16.666667,
@@ -106,10 +109,12 @@
     "wof:concordances":{
         "gn:id":3086527,
         "gp:id":516901,
-        "qs:id":1059794,
-        "qs_pg:id":1326944,
+        "qs_pg:id":1059794,
         "wd:id":"Q995872",
         "wk:page":"Rydzyna"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1326944
     },
     "wof:country":"PL",
     "wof:geomhash":"9770dfe6d830f54869abe91c1558e0f3",
@@ -123,7 +128,7 @@
         }
     ],
     "wof:id":101841819,
-    "wof:lastmodified":1563577989,
+    "wof:lastmodified":1566598278,
     "wof:name":"Rydzyna",
     "wof:parent_id":102079821,
     "wof:placetype":"locality",

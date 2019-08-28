@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.761691,
     "lbl:longitude":19.638573,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":51.761691,
     "mps:longitude":19.638573,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "\u0141\u00f3d\u017a"
     ],
@@ -379,7 +382,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":51.783333,
     "wd:longitude":19.466667,
@@ -395,7 +398,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":524215,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q580"
     },
     "wof:country":"PL",
@@ -410,7 +413,7 @@
         }
     ],
     "wof:id":1175613137,
-    "wof:lastmodified":1563576546,
+    "wof:lastmodified":1566597618,
     "wof:name":"\u0141\u00f3d\u017a",
     "wof:parent_id":102079837,
     "wof:placetype":"locality",

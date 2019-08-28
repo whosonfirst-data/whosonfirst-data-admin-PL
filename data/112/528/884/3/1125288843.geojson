@@ -9,15 +9,18 @@
     "geom:bbox":"17.08726,54.19996,17.08726,54.19996",
     "geom:latitude":54.19996,
     "geom:longitude":17.08726,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":744,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":744,
     "iso:country":"PL",
+    "lbl:bbox":"16.98726,54.09996,17.18726,54.29996",
     "lbl:latitude":54.19996,
     "lbl:longitude":17.08726,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0686\u0628\u06cc\u0644\u06cc\u0646\u0648"
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0448\u0435\u0431\u0435\u043b\u0456\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Treblin"
     ],
     "qs_pg:aaroncc":"PL",
@@ -64,7 +67,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":12617494,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125288843,
-    "wof:lastmodified":1564211878,
+    "wof:lastmodified":1566598702,
     "wof:name":"Trzebielino",
     "wof:parent_id":102080217,
     "wof:placetype":"localadmin",

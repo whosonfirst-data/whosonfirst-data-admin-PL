@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.305028,
     "lbl:longitude":18.961503,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":50.305028,
     "mps:longitude":18.961503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062e\u0648\u062c\u0648\u0641"
     ],
@@ -245,7 +248,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0436\u0443\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f6nigsh\u00fctte"
     ],
     "name:urd_x_preferred":[
@@ -280,7 +283,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -292,10 +295,12 @@
     "wof:concordances":{
         "gn:id":3101621,
         "gp:id":489488,
-        "qs:id":1257279,
         "qs_pg:id":1165594,
         "wd:id":"Q104302",
         "wk:page":"Chorz\u00f3w"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1257279
     },
     "wof:country":"PL",
     "wof:geomhash":"f832987a9621e77f3555d917e5f0739c",
@@ -309,7 +314,7 @@
         }
     ],
     "wof:id":101752139,
-    "wof:lastmodified":1563577248,
+    "wof:lastmodified":1566598100,
     "wof:name":"Chorz\u00f3w",
     "wof:parent_id":102079515,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.295604,
     "lbl:longitude":21.951941,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.295604,
     "mps:longitude":21.951941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Wola Rani\u017cowska"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":755157,
         "gp:id":525792,
-        "qs:id":310420,
+        "qs_pg:id":310420,
         "wd:id":"Q8029589",
         "wk:page":"Wola Rani\u017cowska"
     },
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101825105,
-    "wof:lastmodified":1563578270,
+    "wof:lastmodified":1566598360,
     "wof:name":"Wola Rani\u017cowska",
     "wof:parent_id":102079607,
     "wof:placetype":"locality",

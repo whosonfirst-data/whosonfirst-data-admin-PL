@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.663556,
     "lbl:longitude":19.352964,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.663556,
     "mps:longitude":19.352964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bak_x_preferred":[
         "\u041f\u0430\u0431\u044c\u044f\u043d\u0438\u0446\u0435"
     ],
@@ -143,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0431'\u044f\u043d\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pabjanice"
     ],
     "name:vec_x_preferred":[
@@ -175,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":588,
     "wof:belongsto":[
@@ -188,10 +191,12 @@
     "wof:concordances":{
         "gn:id":3089579,
         "gp:id":511429,
-        "qs:id":953685,
-        "qs_pg:id":1011255,
+        "qs_pg:id":953685,
         "wd:id":"Q158589",
         "wk:page":"Pabianice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1011255
     },
     "wof:country":"PL",
     "wof:geomhash":"40243d34db7c5fe58c72b911dcef6ebc",
@@ -205,7 +210,7 @@
         }
     ],
     "wof:id":101752213,
-    "wof:lastmodified":1563577259,
+    "wof:lastmodified":1566598102,
     "wof:name":"Pabianice",
     "wof:parent_id":102079823,
     "wof:placetype":"locality",

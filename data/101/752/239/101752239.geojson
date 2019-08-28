@@ -9,13 +9,14 @@
     "geom:bbox":"18.2219405,52.746072,18.2892325,52.8162995",
     "geom:latitude":52.782414,
     "geom:longitude":18.253168,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":77597,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":77597,
     "iso:country":"PL",
     "lbl:latitude":52.793919,
     "lbl:longitude":18.257795,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.793919,
     "mps:longitude":18.257795,
     "mz:hierarchy_label":1,
@@ -162,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043d\u043e\u0432\u0440\u043e\u0446\u043b\u0430\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Inowrac\u0142aw"
     ],
     "name:vie_x_preferred":[
@@ -294,7 +295,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":950,
     "wof:belongsto":[
@@ -307,13 +308,12 @@
     "wof:concordances":{
         "gn:id":3097872,
         "gp:id":496267,
-        "qs:id":1043189,
-        "qs_pg:id":1326862,
+        "qs_pg:id":1043189,
         "wd:id":"Q378821",
         "wk:page":"Inowroc\u0142aw"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1043189
+        "qs_pg:id":1326862
     },
     "wof:country":"PL",
     "wof:geomhash":"c98091660c1ee69ad932d08c127114b8",
@@ -327,7 +327,7 @@
         }
     ],
     "wof:id":101752239,
-    "wof:lastmodified":1563577265,
+    "wof:lastmodified":1566598103,
     "wof:name":"Inowroc\u0142aw",
     "wof:parent_id":102080013,
     "wof:placetype":"locality",

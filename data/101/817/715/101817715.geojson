@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":54.127519,
     "lbl:longitude":20.58484,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.127519,
     "mps:longitude":20.58484,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0644\u06cc\u0632\u0628\u0627\u0631\u06a9 \u0648\u0627\u0631\u0645\u06cc\u0646\u0642\u0633\u06a9\u06cc"
     ],
@@ -122,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0434\u0437\u0431\u0430\u0440\u043a-\u0412\u0430\u0440\u043c\u0456\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kheyl'sberg"
     ],
     "name:vie_x_preferred":[
@@ -151,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":608,
     "wof:belongsto":[
@@ -164,7 +167,6 @@
     "wof:concordances":{
         "gn:id":766307,
         "gp:id":504624,
-        "qs:id":1060266,
         "qs_pg:id":1060266,
         "wd:id":"Q751123",
         "wk:page":"Lidzbark Warmi\u0144ski"
@@ -181,7 +183,7 @@
         }
     ],
     "wof:id":101817715,
-    "wof:lastmodified":1563577521,
+    "wof:lastmodified":1566598165,
     "wof:name":"Lidzbark Warmi\u0144ski",
     "wof:parent_id":102080215,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"20.3096,52.39828,20.3096,52.39828",
     "geom:latitude":52.39828,
     "geom:longitude":20.3096,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":1200,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":1200,
     "iso:country":"PL",
+    "lbl:bbox":"20.2096,52.29828,20.4096,52.49828",
     "lbl:latitude":52.39828,
     "lbl:longitude":20.3096,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0686\u0631\u0648\u06cc\u0646\u0642\u0633\u06a9 \u0646\u0627\u062f \u0648\u06cc\u0633\u0648\u0627\u0646"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0432\u0456\u043d\u0441\u044c\u043a-\u043d\u0430\u0434-\u0412\u0456\u0441\u043b\u043e\u044e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Czerwi\u0144sk"
     ],
     "qs_pg:aaroncc":"PL",
@@ -76,7 +79,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":12617728,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125324275,
-    "wof:lastmodified":1564211792,
+    "wof:lastmodified":1566598633,
     "wof:name":"Czerwi\u0144sk nad Wis\u0142\u0105",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",

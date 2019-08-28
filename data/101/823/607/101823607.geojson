@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.231372,
     "lbl:longitude":22.119956,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.231372,
     "mps:longitude":22.119956,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Soko\u0142\u00f3w Ma\u0142opolski"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043a\u043e\u043b\u0456\u0432-\u041c\u0430\u043b\u043e\u043f\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Soko\u0142\u00f3w"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.241944,
     "wd:longitude":22.128889,
@@ -127,10 +130,12 @@
     "wof:concordances":{
         "gn:id":758633,
         "gp:id":519248,
-        "qs:id":994301,
-        "qs_pg:id":1060317,
+        "qs_pg:id":994301,
         "wd:id":"Q867039",
         "wk:page":"Soko\u0142\u00f3w Ma\u0142opolski"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060317
     },
     "wof:country":"PL",
     "wof:geomhash":"248cf938dfeee30f573ccb3bcb2944d1",
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":101823607,
-    "wof:lastmodified":1563578179,
+    "wof:lastmodified":1566598335,
     "wof:name":"Soko\u0142\u00f3w Ma\u0142opolski",
     "wof:parent_id":102079585,
     "wof:placetype":"locality",

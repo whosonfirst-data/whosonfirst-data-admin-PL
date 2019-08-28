@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.309577,
     "lbl:longitude":17.817789,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.309577,
     "mps:longitude":17.817789,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0633\u062a\u0698\u0627\u0648\u06a9\u0648\u0648\u0648"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":151,
     "wof:belongsto":[
@@ -98,10 +101,12 @@
     "wof:concordances":{
         "gn:id":3084449,
         "gp:id":520533,
-        "qs:id":202612,
-        "qs_pg:id":1057568,
+        "qs_pg:id":202612,
         "wd:id":"Q554693",
         "wk:page":"Gmina Strza\u0142kowo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1057568
     },
     "wof:country":"PL",
     "wof:geomhash":"db448d49d335f08298b2fd68499b1428",
@@ -115,7 +120,7 @@
         }
     ],
     "wof:id":101820283,
-    "wof:lastmodified":1563577406,
+    "wof:lastmodified":1566598139,
     "wof:name":"Strza\u0142kowo",
     "wof:parent_id":102079941,
     "wof:placetype":"locality",

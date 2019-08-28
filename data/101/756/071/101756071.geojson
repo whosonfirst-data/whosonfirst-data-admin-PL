@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.801689,
     "lbl:longitude":22.713698,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.801689,
     "mps:longitude":22.713698,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ostr\u00f3w"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":101,
     "wof:belongsto":[
         102191581,
@@ -60,10 +63,12 @@
     "wof:concordances":{
         "gn:id":762902,
         "gp:id":511156,
-        "qs:id":8,
-        "qs_pg:id":1011248,
+        "qs_pg:id":8,
         "wd:id":"Q614582",
         "wk:page":"Ostr\u00f3w, Przemy\u015bl County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1011248
     },
     "wof:country":"PL",
     "wof:geomhash":"7d6ca595d0537ad7c43343df739d3946",
@@ -77,7 +82,7 @@
         }
     ],
     "wof:id":101756071,
-    "wof:lastmodified":1563577929,
+    "wof:lastmodified":1566598261,
     "wof:name":"Ostr\u00f3w",
     "wof:parent_id":102079513,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.01917,
     "lbl:longitude":20.86183,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.01917,
     "mps:longitude":20.86183,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0648\u06cc\u0698\u062e\u0648\u0633\u0648\u0627\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":115,
     "wof:belongsto":[
@@ -107,10 +110,12 @@
     "wof:concordances":{
         "gn:id":3082120,
         "gp:id":524655,
-        "qs:id":192580,
-        "qs_pg:id":974402,
+        "qs_pg:id":192580,
         "wd:id":"Q1877335",
         "wk:page":"Gmina Wierzchos\u0142awice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":974402
     },
     "wof:country":"PL",
     "wof:geomhash":"96cd2e8d133d73ab6c7c96346b47bb70",
@@ -124,7 +129,7 @@
         }
     ],
     "wof:id":101826263,
-    "wof:lastmodified":1563577849,
+    "wof:lastmodified":1566598243,
     "wof:name":"Wierzchos\u0142awice",
     "wof:parent_id":102079535,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.532659,
     "lbl:longitude":16.847431,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.532659,
     "mps:longitude":16.847431,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0627\u0648\u06a9\u0648\u0646\u06a9"
     ],
@@ -62,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u043c\u0456\u043d\u0430 \u041e\u043a\u043e\u043d\u0435\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ratzenbuhr"
     ],
     "name:vie_x_preferred":[
@@ -90,7 +93,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":162,
     "wof:belongsto":[
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3090245,
         "gp:id":24548122,
-        "qs:id":1043155,
+        "qs_pg:id":1043155,
         "wd:id":"Q302024",
         "wk:page":"Gmina Okonek"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101819209,
-    "wof:lastmodified":1563577777,
+    "wof:lastmodified":1566598224,
     "wof:name":"Okonek",
     "wof:parent_id":102080109,
     "wof:placetype":"locality",

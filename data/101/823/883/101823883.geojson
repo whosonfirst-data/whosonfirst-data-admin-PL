@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.892114,
     "lbl:longitude":19.332693,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.892114,
     "mps:longitude":19.332693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Rzerz\u0119czyce"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":100,
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":3086423,
         "gp:id":517109,
-        "qs:id":1216877,
+        "qs_pg:id":1216877,
         "wd:id":"Q7385756",
         "wk:page":"Rzerz\u0119czyce"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101823883,
-    "wof:lastmodified":1563578161,
+    "wof:lastmodified":1566598329,
     "wof:name":"Rzerz\u0119czyce",
     "wof:parent_id":102079663,
     "wof:placetype":"locality",

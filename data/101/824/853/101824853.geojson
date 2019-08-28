@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.240531,
     "lbl:longitude":18.287963,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.240531,
     "mps:longitude":18.287963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Dziergowice"
     ],
@@ -50,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0437\u0435\u0440\u0491\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Oderwalde"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Dziergowice"
     ],
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":133,
     "wof:belongsto":[
@@ -86,7 +86,6 @@
     "wof:concordances":{
         "gn:id":3099873,
         "gp:id":492611,
-        "qs:id":269943,
         "qs_pg:id":269943,
         "wd:id":"Q984113",
         "wk:page":"Dziergowice"
@@ -103,7 +102,7 @@
         }
     ],
     "wof:id":101824853,
-    "wof:lastmodified":1563578250,
+    "wof:lastmodified":1566598355,
     "wof:name":"Dziergowice",
     "wof:parent_id":102079523,
     "wof:placetype":"locality",

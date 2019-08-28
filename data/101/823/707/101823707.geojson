@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.674078,
     "lbl:longitude":19.222078,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.674078,
     "mps:longitude":19.222078,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Poraj"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":3088281,
         "gp:id":513811,
-        "qs:id":210862,
         "qs_pg:id":210862,
         "wd:id":"Q400128"
     },
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101823707,
-    "wof:lastmodified":1563578104,
+    "wof:lastmodified":1566598312,
     "wof:name":"Poraj",
     "wof:parent_id":102079605,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.08297,
     "lbl:longitude":17.019832,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.08297,
     "mps:longitude":17.019832,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "\u015arem"
     ],
@@ -143,7 +146,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":80.0,
     "wd:latitude":52.083333,
@@ -159,10 +162,12 @@
     "wof:concordances":{
         "gn:id":3085056,
         "gp:id":519521,
-        "qs:id":1043137,
         "qs_pg:id":318684,
         "wd:id":"Q387260",
         "wk:page":"\u015arem"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043137
     },
     "wof:country":"PL",
     "wof:geomhash":"5097a732216fc0f61525204bb8ef7dcc",
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":101820109,
-    "wof:lastmodified":1563577393,
+    "wof:lastmodified":1566598137,
     "wof:name":"\u015arem",
     "wof:parent_id":102079865,
     "wof:placetype":"locality",

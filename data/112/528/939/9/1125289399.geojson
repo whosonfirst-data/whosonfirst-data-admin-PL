@@ -9,15 +9,18 @@
     "geom:bbox":"18.15585,50.57163,18.15585,50.57163",
     "geom:latitude":50.57163,
     "geom:longitude":18.15585,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":1100,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":1100,
     "iso:country":"PL",
+    "lbl:bbox":"18.05585,50.47163,18.25585,50.67163",
     "lbl:latitude":50.57163,
     "lbl:longitude":18.15585,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0632\u0628\u06cc\u062a\u0633\u06a9\u0648"
@@ -43,9 +46,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0437\u0431\u0456\u0446\u044c\u043a\u043e"
     ],
-    "name:unk_x_variant":[
-        "Stubendorf"
-    ],
     "qs_pg:aaroncc":"PL",
     "qs_pg:gn_country":"PL",
     "qs_pg:gn_fcode":"PPLA3",
@@ -67,7 +67,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":12618786,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125289399,
-    "wof:lastmodified":1564211841,
+    "wof:lastmodified":1566598688,
     "wof:name":"Izbicko",
     "wof:parent_id":102079587,
     "wof:placetype":"localadmin",

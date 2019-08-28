@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.507749,
     "lbl:longitude":22.645955,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.507749,
     "mps:longitude":22.645955,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "S\u00f3l"
     ],
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kolonja S\u00f3l"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         102191581,
@@ -70,10 +73,12 @@
     "wof:concordances":{
         "gn:id":3085187,
         "gp:id":519286,
-        "qs:id":1217114,
         "qs_pg:id":887735,
         "wd:id":"Q7666241",
         "wk:page":"S\u00f3l, Lublin Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1217114
     },
     "wof:country":"PL",
     "wof:geomhash":"24caae7ffdb3b0e39cd58f326282673f",
@@ -87,7 +92,7 @@
         }
     ],
     "wof:id":101823999,
-    "wof:lastmodified":1563578103,
+    "wof:lastmodified":1566598312,
     "wof:name":"S\u00f3l",
     "wof:parent_id":102079699,
     "wof:placetype":"locality",

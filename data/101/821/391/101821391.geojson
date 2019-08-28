@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.3254,
     "lbl:longitude":18.988519,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.3254,
     "mps:longitude":18.988519,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0631\u0648\u0634\u062a\u0633"
     ],
@@ -92,7 +95,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":133,
     "wof:belongsto":[
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3086654,
         "gp:id":12616866,
-        "qs:id":954925,
+        "qs_pg:id":954925,
         "wd:id":"Q613697",
         "wk:page":"Gmina Rusiec"
     },
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101821391,
-    "wof:lastmodified":1563577568,
+    "wof:lastmodified":1566598174,
     "wof:name":"Rusiec",
     "wof:parent_id":102079763,
     "wof:placetype":"locality",

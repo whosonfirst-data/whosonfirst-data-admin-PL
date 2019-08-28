@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.026503,
     "lbl:longitude":17.113824,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.026503,
     "mps:longitude":17.113824,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "\u015awi\u0119ta Katarzyna"
     ],
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u044c\u0432\u0435\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0436\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u015awieta Katarzyna"
     ],
     "name:vie_x_preferred":[
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":210,
     "wof:belongsto":[
@@ -95,10 +98,12 @@
     "wof:concordances":{
         "gn:id":757604,
         "gp:id":521294,
-        "qs:id":340188,
-        "qs_pg:id":494400,
+        "qs_pg:id":340188,
         "wd:id":"Q2867610",
         "wk:page":"\u015awi\u0119ta Katarzyna, Lower Silesian Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":494400
     },
     "wof:country":"PL",
     "wof:geomhash":"e2f6b2d31630dedb95e2ea7b301b524c",
@@ -112,7 +117,7 @@
         }
     ],
     "wof:id":101841771,
-    "wof:lastmodified":1563578010,
+    "wof:lastmodified":1566598283,
     "wof:name":"\u015awi\u0119ta Katarzyna",
     "wof:parent_id":102079685,
     "wof:placetype":"locality",

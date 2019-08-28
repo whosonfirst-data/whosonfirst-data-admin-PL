@@ -9,14 +9,18 @@
     "geom:bbox":"20.54532,53.58324,20.54532,53.58324",
     "geom:latitude":53.58324,
     "geom:longitude":20.54532,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PL",
+    "lbl:bbox":"20.52532,53.56324,20.56532,53.60324",
     "lbl:latitude":53.58324,
     "lbl:longitude":20.54532,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Nowa Kaletka"
@@ -36,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u041a\u0430\u043b\u0435\u0442\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neu Kaletka"
     ],
     "qs_pg:aaroncc":"PL",
@@ -58,7 +62,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":509371,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1125810223,
-    "wof:lastmodified":1563579103,
+    "wof:lastmodified":1566598722,
     "wof:name":"Nowa Kaletka",
     "wof:parent_id":102080207,
     "wof:placetype":"locality",

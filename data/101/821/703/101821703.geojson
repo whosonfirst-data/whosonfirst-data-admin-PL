@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.983596,
     "lbl:longitude":20.837562,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.983596,
     "mps:longitude":20.837562,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tarczyn"
     ],
@@ -107,7 +110,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":140.0,
     "wd:latitude":51.978611,
@@ -123,7 +126,7 @@
     "wof:concordances":{
         "gn:id":757071,
         "gp:id":24548193,
-        "qs:id":270658,
+        "qs_pg:id":270658,
         "wd:id":"Q1922330",
         "wk:page":"Tarczyn"
     },
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101821703,
-    "wof:lastmodified":1563577630,
+    "wof:lastmodified":1566598189,
     "wof:name":"Tarczyn",
     "wof:parent_id":102079911,
     "wof:placetype":"locality",

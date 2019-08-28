@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.241124,
     "lbl:longitude":18.041639,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.241124,
     "mps:longitude":18.041639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "S\u0142upia pod K\u0119pnem"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":69,
     "wof:belongsto":[
@@ -74,10 +77,12 @@
     "wof:concordances":{
         "gn:id":3085475,
         "gp:id":518790,
-        "qs:id":79201,
-        "qs_pg:id":307301,
+        "qs_pg:id":79201,
         "wd:id":"Q7667491",
         "wk:page":"S\u0142upia pod K\u0119pnem"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":307301
     },
     "wof:country":"PL",
     "wof:geomhash":"3d87111c0584a8c1b9caebcc981da94e",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":101822567,
-    "wof:lastmodified":1563578305,
+    "wof:lastmodified":1566598372,
     "wof:name":"S\u0142upia pod K\u0119pnem",
     "wof:parent_id":102079713,
     "wof:placetype":"locality",

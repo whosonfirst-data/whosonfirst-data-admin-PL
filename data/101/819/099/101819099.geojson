@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.819815,
     "lbl:longitude":20.288299,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.819815,
     "mps:longitude":20.288299,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Glinojeck"
     ],
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u0456\u043d\u043e\u0454\u0446\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Glinojek"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.816667,
     "wd:longitude":20.283333,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":772107,
         "gp:id":24548202,
-        "qs:id":1301626,
+        "qs_pg:id":1301626,
         "wd:id":"Q988185",
         "wk:page":"Glinojeck"
     },
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101819099,
-    "wof:lastmodified":1563577718,
+    "wof:lastmodified":1566598211,
     "wof:name":"Glinojeck",
     "wof:parent_id":102080055,
     "wof:placetype":"locality",

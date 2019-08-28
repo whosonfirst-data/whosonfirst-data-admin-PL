@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.960672,
     "lbl:longitude":19.287528,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.960672,
     "mps:longitude":19.287528,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:aka_x_preferred":[
         "Ozork\u00f3w"
     ],
@@ -125,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0437\u043e\u0440\u043a\u0443\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ozorkov"
     ],
     "name:vie_x_preferred":[
@@ -155,7 +158,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":600,
     "wof:belongsto":[
@@ -168,7 +171,7 @@
     "wof:concordances":{
         "gn:id":3089582,
         "gp:id":24548699,
-        "qs:id":145578,
+        "qs_pg:id":145578,
         "wd:id":"Q628460",
         "wk:page":"Ozork\u00f3w"
     },
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":101820137,
-    "wof:lastmodified":1563577404,
+    "wof:lastmodified":1566598139,
     "wof:name":"Ozork\u00f3w",
     "wof:parent_id":102079873,
     "wof:placetype":"locality",

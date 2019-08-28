@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.73979,
     "lbl:longitude":19.593107,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.73979,
     "mps:longitude":19.593107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u062a\u0634\u0627 \u0628\u0633\u0643\u064a\u062a\u0633\u0643\u0627"
     ],
@@ -125,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0445\u0430-\u0411\u0435\u0441\u043a\u0438\u0434\u0437\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sucha"
     ],
     "name:vie_x_preferred":[
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":877,
     "wof:belongsto":[
@@ -170,10 +173,12 @@
     "wof:concordances":{
         "gn:id":3084300,
         "gp:id":520758,
-        "qs:id":470576,
-        "qs_pg:id":1043130,
+        "qs_pg:id":470576,
         "wd:id":"Q745005",
         "wk:page":"Sucha Beskidzka"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043130
     },
     "wof:country":"PL",
     "wof:geomhash":"ff57161ef5142470fb129c95aaa6f662",
@@ -187,7 +192,7 @@
         }
     ],
     "wof:id":101826127,
-    "wof:lastmodified":1563577830,
+    "wof:lastmodified":1566598237,
     "wof:name":"Sucha Beskidzka",
     "wof:parent_id":102079419,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.749687,
     "lbl:longitude":16.990507,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.749687,
     "mps:longitude":16.990507,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Rogo\u017ano"
     ],
@@ -92,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0437\u044c\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rogasen"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +122,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":63.0,
     "wd:latitude":52.749167,
@@ -135,7 +138,7 @@
     "wof:concordances":{
         "gn:id":3087072,
         "gp:id":24547706,
-        "qs:id":246667,
+        "qs_pg:id":246667,
         "wd:id":"Q987193",
         "wk:page":"Rogo\u017ano"
     },
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101820437,
-    "wof:lastmodified":1563577358,
+    "wof:lastmodified":1566598129,
     "wof:name":"Rogo\u017ano",
     "wof:parent_id":102079987,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.404422,
     "lbl:longitude":19.030372,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.404422,
     "mps:longitude":19.030372,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Chodecz"
     ],
@@ -116,7 +119,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.405278,
     "wd:longitude":19.028333,
@@ -131,7 +134,7 @@
     "wof:concordances":{
         "gn:id":3101689,
         "gp:id":24547397,
-        "qs:id":267461,
+        "qs_pg:id":267461,
         "wd:id":"Q987986",
         "wk:page":"Chodecz"
     },
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101821767,
-    "wof:lastmodified":1563577624,
+    "wof:lastmodified":1566598188,
     "wof:name":"Chodecz",
     "wof:parent_id":102079997,
     "wof:placetype":"locality",

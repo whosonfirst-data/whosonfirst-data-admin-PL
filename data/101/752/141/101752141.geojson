@@ -14,6 +14,8 @@
     "iso:country":"PL",
     "lbl:latitude":50.298586,
     "lbl:longitude":18.670967,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":50.298586,
     "mps:longitude":18.670967,
     "mz:hierarchy_label":1,
@@ -250,9 +252,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u0456\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Gleiwitz"
-    ],
     "name:urd_x_preferred":[
         "\u06af\u0644\u06cc\u0648\u06cc\u062a\u0633\u06c1"
     ],
@@ -384,7 +383,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -396,7 +395,7 @@
     "wof:concordances":{
         "gn:id":3099230,
         "gp:id":12618710,
-        "qs:id":835415,
+        "qs_pg:id":835415,
         "wd:id":"Q105084",
         "wk:page":"Gliwice"
     },
@@ -412,7 +411,7 @@
         }
     ],
     "wof:id":101752141,
-    "wof:lastmodified":1563577277,
+    "wof:lastmodified":1566598105,
     "wof:name":"Gliwice",
     "wof:parent_id":102079519,
     "wof:placetype":"locality",

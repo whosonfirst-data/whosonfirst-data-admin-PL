@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.464332,
     "lbl:longitude":19.218804,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.464332,
     "mps:longitude":19.218804,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Zel\u00f3w"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.466667,
     "wd:longitude":19.216667,
@@ -130,10 +133,12 @@
     "wof:concordances":{
         "gn:id":3080295,
         "gp:id":528670,
-        "qs:id":59568,
-        "qs_pg:id":1075746,
+        "qs_pg:id":59568,
         "wd:id":"Q189273",
         "wk:page":"Zel\u00f3w"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1075746
     },
     "wof:country":"PL",
     "wof:geomhash":"f5403962c99319cb92b76d1a9ef4fe19",
@@ -147,7 +152,7 @@
         }
     ],
     "wof:id":101821389,
-    "wof:lastmodified":1563577667,
+    "wof:lastmodified":1566598198,
     "wof:name":"Zel\u00f3w",
     "wof:parent_id":102079763,
     "wof:placetype":"locality",

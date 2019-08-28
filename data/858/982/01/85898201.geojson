@@ -10,8 +10,10 @@
     "geom:latitude":53.140945,
     "geom:longitude":23.115967,
     "iso:country":"PL",
+    "lbl:bbox":"23.110967,53.135945,23.120967,53.145945",
     "lbl:latitude":53.140945,
     "lbl:longitude":23.115967,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.125007,
     "mps:longitude":23.090515,
     "mz:hierarchy_label":0,
@@ -47,9 +49,8 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0432\u0430\u0434\u0438"
     ],
-    "name:unk_x_variant":[
-        "Auglitten",
-        "Zawady"
+    "name:und_x_variant":[
+        "Auglitten"
     ],
     "qs:gn_adm0_cc":"PL",
     "qs:gn_fcode":"PPLX",
@@ -81,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":349,
     "wof:belongsto":[
         85687283,
@@ -94,7 +95,6 @@
     "wof:concordances":{
         "gn:id":753627,
         "gp:id":528174,
-        "qs:id":982807,
         "qs_pg:id":982807
     },
     "wof:country":"PL",
@@ -113,7 +113,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1564207515,
+    "wof:lastmodified":1566596101,
     "wof:name":"Zawady",
     "wof:parent_id":101752255,
     "wof:placetype":"neighbourhood",

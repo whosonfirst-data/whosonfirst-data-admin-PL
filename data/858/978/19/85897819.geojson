@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":24869524.830844,
+    "geom:area_square_m":0.0,
     "geom:bbox":"18.945853,50.361049,18.945853,50.361049",
     "geom:latitude":50.361049,
     "geom:longitude":18.945853,
     "iso:country":"PL",
+    "lbl:bbox":"18.940853,50.356049,18.950853,50.366049",
     "lbl:latitude":50.361049,
     "lbl:longitude":18.945853,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.34911,
     "mps:longitude":18.915687,
     "mz:hierarchy_label":0,
@@ -32,10 +34,6 @@
     "name:pol_x_variant":[
         "Bryzozowice",
         "Brzozowice"
-    ],
-    "name:unk_x_variant":[
-        "Brzozowice",
-        "Brzozowice-Kamie"
     ],
     "qs:gn_adm0_cc":"PL",
     "qs:gn_fcode":"PPLX",
@@ -66,19 +64,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687277,
         102191581,
         85633723,
         101752151,
-        102079543,
-        85687277
+        102079543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3102300,
         "gp:id":488227,
-        "qs:id":1165595,
         "qs_pg:id":1165595
     },
     "wof:country":"PL",
@@ -97,7 +94,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1531931949,
+    "wof:lastmodified":1566596098,
     "wof:name":"Brzozowice-Kamie",
     "wof:parent_id":101752151,
     "wof:placetype":"neighbourhood",

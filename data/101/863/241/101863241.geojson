@@ -11,12 +11,16 @@
     "geom:longitude":19.841723,
     "gn:population":2641,
     "iso:country":"PL",
+    "lbl:bbox":"19.821723,49.831944,19.861723,49.871944",
     "lbl:latitude":49.851944,
     "lbl:longitude":19.841723,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.851944,
     "mps:longitude":19.841723,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0420\u0443\u0434\u043d\u0456\u043a"
     ],
@@ -90,7 +94,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":343,
     "wof:belongsto":[
@@ -103,9 +107,11 @@
     "wof:concordances":{
         "gn:id":3086761,
         "gp:id":516517,
-        "qs:id":182214,
-        "qs_pg:id":306307,
+        "qs_pg:id":182214,
         "wd:id":"Q357287"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":306307
     },
     "wof:country":"PL",
     "wof:geomhash":"354ce36aa9aee9edd3f5a2a3ea0ceaea",
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":101863241,
-    "wof:lastmodified":1563578472,
+    "wof:lastmodified":1566598421,
     "wof:name":"Rudnik",
     "wof:parent_id":102079441,
     "wof:placetype":"locality",

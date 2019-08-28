@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.529455,
     "lbl:longitude":16.009329,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.529455,
     "mps:longitude":16.009329,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Z\u0142ocieniec"
     ],
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u043b\u043e\u0446\u0435\u043d\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Falkenburg"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +116,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.526944,
     "wd:longitude":16.012222,
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gn:id":3080102,
         "gp:id":24547734,
-        "qs:id":246665,
+        "qs_pg:id":246665,
         "wd:id":"Q249049",
         "wk:page":"Z\u0142ocieniec"
     },
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101819227,
-    "wof:lastmodified":1563577696,
+    "wof:lastmodified":1566598204,
     "wof:name":"Z\u0142ocieniec",
     "wof:parent_id":102080113,
     "wof:placetype":"locality",

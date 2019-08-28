@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.062461,
     "lbl:longitude":19.543762,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.062461,
     "mps:longitude":19.543762,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Alwernia"
     ],
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":312.0,
     "wd:latitude":50.066667,
@@ -149,10 +152,12 @@
     "wof:concordances":{
         "gn:id":3104127,
         "gp:id":485000,
-        "qs:id":331924,
         "qs_pg:id":300308,
         "wd:id":"Q983896",
         "wk:page":"Alwernia"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":331924
     },
     "wof:country":"PL",
     "wof:geomhash":"340fde211a68959e3b563f062f5273c3",
@@ -166,7 +171,7 @@
         }
     ],
     "wof:id":101824819,
-    "wof:lastmodified":1563578212,
+    "wof:lastmodified":1566598345,
     "wof:name":"Alwernia",
     "wof:parent_id":102079495,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.883053,
     "lbl:longitude":16.070322,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.883053,
     "mps:longitude":16.070322,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "S\u0142awa"
     ],
@@ -68,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schlawa Schlesien"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.883333,
     "wd:longitude":16.083333,
@@ -109,10 +112,12 @@
     "wof:concordances":{
         "gn:id":3085637,
         "gp:id":518541,
-        "qs:id":962335,
         "qs_pg:id":421981,
         "wd:id":"Q1005492",
         "wk:page":"S\u0142awa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":962335
     },
     "wof:country":"PL",
     "wof:geomhash":"0842ce5d796ca7e9450fb0f629d1c4aa",
@@ -126,7 +131,7 @@
         }
     ],
     "wof:id":101821521,
-    "wof:lastmodified":1563577608,
+    "wof:lastmodified":1566598185,
     "wof:name":"S\u0142awa",
     "wof:parent_id":102079817,
     "wof:placetype":"locality",

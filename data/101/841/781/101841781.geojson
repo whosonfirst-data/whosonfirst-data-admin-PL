@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.743207,
     "lbl:longitude":20.626558,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.743207,
     "mps:longitude":20.626558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0645\u0648\u0631\u0627\u0648\u06cc\u062a\u0633\u0627"
     ],
@@ -89,7 +92,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":131,
     "wof:belongsto":[
@@ -102,7 +105,7 @@
     "wof:concordances":{
         "gn:id":764414,
         "gp:id":12617604,
-        "qs:id":1190559,
+        "qs_pg:id":1190559,
         "wd:id":"Q554619",
         "wk:page":"Gmina Morawica"
     },
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101841781,
-    "wof:lastmodified":1563578057,
+    "wof:lastmodified":1566598296,
     "wof:name":"Morawica",
     "wof:parent_id":102079693,
     "wof:placetype":"locality",

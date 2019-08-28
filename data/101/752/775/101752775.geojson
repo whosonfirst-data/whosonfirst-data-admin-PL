@@ -9,17 +9,19 @@
     "geom:bbox":"21.3273103526,50.9029935845,21.4639987886,50.969756",
     "geom:latitude":50.942491,
     "geom:longitude":21.393566,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":73989,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA2",
     "gn:population":73989,
     "iso:country":"PL",
     "lbl:latitude":50.943363,
     "lbl:longitude":21.383383,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.943363,
     "mps:longitude":21.383383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0633\u062a\u0631\u0648\u0648\u06cc\u062a\u0633 \u0634\u0648\u06cc\u0646\u062a\u0648\u06a9\u0698\u0633\u06a9\u06cc"
     ],
@@ -145,7 +147,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432\u0435\u0446\u044c-\u0421\u0432\u0435\u043d\u0442\u043e\u043a\u0448\u0438\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ostrovets"
     ],
     "name:vie_x_preferred":[
@@ -188,7 +190,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1015,
     "wof:belongsto":[
@@ -201,14 +203,13 @@
     "wof:concordances":{
         "gn:id":3089728,
         "gp:id":511213,
-        "qs:id":129295,
-        "qs_pg:id":226833,
+        "qs_pg:id":129295,
         "wd:id":"Q730929",
         "wk:page":"Ostrowiec \u015awi\u0119tokrzyski"
     },
     "wof:concordances_alt":{
         "gn:id":762863,
-        "qs_pg:id":129295
+        "qs_pg:id":226833
     },
     "wof:country":"PL",
     "wof:geomhash":"cdbb9e02f6f6a81f7263db9d3a7fde90",
@@ -222,7 +223,7 @@
         }
     ],
     "wof:id":101752775,
-    "wof:lastmodified":1563577272,
+    "wof:lastmodified":1566598104,
     "wof:name":"Ostrowiec \u015awi\u0119tokrzyski",
     "wof:parent_id":102079703,
     "wof:placetype":"locality",

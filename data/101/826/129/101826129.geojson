@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.731271,
     "lbl:longitude":19.673249,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.731271,
     "mps:longitude":19.673249,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Mak\u00f3w Podhala\u0144ski"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0456\u0432-\u041f\u0456\u0434\u0445\u0430\u043b\u044f\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mak\u00f3w"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":455.0,
     "wd:latitude":49.730556,
@@ -125,10 +128,12 @@
     "wof:concordances":{
         "gn:id":3092529,
         "gp:id":506217,
-        "qs:id":1200770,
         "qs_pg:id":925934,
         "wd:id":"Q1280822",
         "wk:page":"Mak\u00f3w Podhala\u0144ski"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1200770
     },
     "wof:country":"PL",
     "wof:geomhash":"ddda6c6b006e78df1f78daa297d41147",
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":101826129,
-    "wof:lastmodified":1563577829,
+    "wof:lastmodified":1566598237,
     "wof:name":"Mak\u00f3w Podhala\u0144ski",
     "wof:parent_id":102079419,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"21.03599,49.80542,21.03599,49.80542",
     "geom:latitude":49.80542,
     "geom:longitude":21.03599,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":1324,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":1324,
     "iso:country":"PL",
+    "lbl:bbox":"20.93599,49.70542,21.13599,49.90542",
     "lbl:latitude":49.80542,
     "lbl:longitude":21.03599,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0698\u067e\u06cc\u0646\u0646\u0642\u06a9 \u0633\u062a\u0698\u0698\u0648\u0633\u06a9\u06cc"
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u0435\u043f\u0435\u043d\u043d\u0438\u043a-\u0421\u0442\u0448\u0438\u0436\u0435\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u017cepiennik"
     ],
     "qs_pg:aaroncc":"PL",
@@ -62,7 +65,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":12618873,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125286167,
-    "wof:lastmodified":1564211850,
+    "wof:lastmodified":1566598692,
     "wof:name":"Rzepiennik Strzy\u017cewski",
     "wof:parent_id":102079535,
     "wof:placetype":"localadmin",

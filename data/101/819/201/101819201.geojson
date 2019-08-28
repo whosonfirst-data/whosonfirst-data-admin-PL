@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.358209,
     "lbl:longitude":17.488272,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.358209,
     "mps:longitude":17.488272,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Wi\u0119cbork"
     ],
@@ -83,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043d\u0446\u0431\u043e\u0440\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wiebork"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.35,
     "wd:longitude":17.483333,
@@ -125,10 +128,12 @@
     "wof:concordances":{
         "gn:id":3082364,
         "gp:id":524311,
-        "qs:id":335510,
-        "qs_pg:id":1060343,
+        "qs_pg:id":335510,
         "wd:id":"Q991829",
         "wk:page":"Wi\u0119cbork"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060343
     },
     "wof:country":"PL",
     "wof:geomhash":"239c6ecbf1aa3c0a1ebc2ed824df45d5",
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":101819201,
-    "wof:lastmodified":1563577789,
+    "wof:lastmodified":1566598226,
     "wof:name":"Wi\u0119cbork",
     "wof:parent_id":102080107,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.783106,
     "lbl:longitude":17.502091,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.783106,
     "mps:longitude":17.502091,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Rozdra\u017cew"
     ],
@@ -59,7 +62,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3086903,
         "gp:id":12618240,
-        "qs:id":497901,
+        "qs_pg:id":497901,
         "wd:id":"Q985156",
         "wk:page":"Rozdra\u017cew"
     },
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101821511,
-    "wof:lastmodified":1563577616,
+    "wof:lastmodified":1566598186,
     "wof:name":"Rozdra\u017cew",
     "wof:parent_id":102079811,
     "wof:placetype":"locality",

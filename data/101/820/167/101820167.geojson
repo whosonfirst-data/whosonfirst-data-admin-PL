@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.245025,
     "lbl:longitude":15.535219,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.245025,
     "mps:longitude":15.535219,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0634\u0648\u06cc\u0628\u0648\u062c\u0646"
     ],
@@ -71,7 +74,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u043c\u0456\u043d\u0430 \u0421\u0432\u0435\u0431\u043e\u0434\u0437\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schweibus"
     ],
     "name:war_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":160,
     "wof:belongsto":[
@@ -107,10 +110,12 @@
     "wof:concordances":{
         "gn:id":3084062,
         "gp:id":521206,
-        "qs:id":1075006,
         "qs_pg:id":145561,
         "wd:id":"Q773270",
         "wk:page":"Gmina \u015awiebodzin"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1075006
     },
     "wof:country":"PL",
     "wof:geomhash":"0df0d88c18ae4b2045bfcbf1fbe99c41",
@@ -124,7 +129,7 @@
         }
     ],
     "wof:id":101820167,
-    "wof:lastmodified":1563577332,
+    "wof:lastmodified":1566598122,
     "wof:name":"\u015awiebodzin",
     "wof:parent_id":102079887,
     "wof:placetype":"locality",

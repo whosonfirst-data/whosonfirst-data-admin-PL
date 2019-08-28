@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.086056,
     "lbl:longitude":18.217176,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.086056,
     "mps:longitude":18.217176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:abk_x_preferred":[
         "\u0420\u0430\u0446\u0438\u0431\u0443\u0436"
     ],
@@ -303,9 +306,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0442\u0438\u0431\u043e\u0440"
     ],
-    "name:unk_x_variant":[
-        "Ratibor"
-    ],
     "name:uzb_x_preferred":[
         "Racib\u00f3rz"
     ],
@@ -348,7 +348,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1341,
     "wof:belongsto":[
@@ -362,10 +362,12 @@
         "gn:id":3087584,
         "gp:id":515031,
         "loc:id":"n82150399",
-        "qs:id":145571,
-        "qs_pg:id":1060292,
+        "qs_pg:id":145571,
         "wd:id":"Q25302",
         "wk:page":"Racib\u00f3rz"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060292
     },
     "wof:country":"PL",
     "wof:geomhash":"082e32bebf3fbb11dfaab159209d4701",
@@ -379,7 +381,7 @@
         }
     ],
     "wof:id":101752115,
-    "wof:lastmodified":1563577270,
+    "wof:lastmodified":1566598103,
     "wof:name":"Racib\u00f3rz",
     "wof:parent_id":102079477,
     "wof:placetype":"locality",

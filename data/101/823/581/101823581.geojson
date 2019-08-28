@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.491889,
     "lbl:longitude":18.912044,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.491889,
     "mps:longitude":18.912044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0627\u0633\u062a\u0686\u06a9\u0648 \u0634\u0644\u0627\u0646\u0633\u06a9\u06cc\u0647"
     ],
@@ -83,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u044f\u0441\u0442\u0435\u0447\u043a\u043e-\u0428\u043b\u044c\u043e\u043d\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Miasteczko"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +110,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":274,
     "wof:belongsto":[
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gn:id":3092082,
         "gp:id":507057,
-        "qs:id":374843,
+        "qs_pg:id":374843,
         "wd:id":"Q651788",
         "wk:page":"Miasteczko \u015al\u0105skie"
     },
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101823581,
-    "wof:lastmodified":1563578134,
+    "wof:lastmodified":1566598320,
     "wof:name":"Miasteczko \u015al\u0105skie",
     "wof:parent_id":102079581,
     "wof:placetype":"locality",

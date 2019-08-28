@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.037602,
     "lbl:longitude":17.119314,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.037602,
     "mps:longitude":17.119314,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Szamocin"
     ],
@@ -83,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043c\u043e\u0446\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Samotschin"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +110,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.030278,
     "wd:longitude":17.120556,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":3083880,
         "gp:id":24548114,
-        "qs:id":59512,
+        "qs_pg:id":59512,
         "wd:id":"Q995859",
         "wk:page":"Szamocin"
     },
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101819021,
-    "wof:lastmodified":1563577775,
+    "wof:lastmodified":1566598223,
     "wof:name":"Szamocin",
     "wof:parent_id":102080021,
     "wof:placetype":"locality",

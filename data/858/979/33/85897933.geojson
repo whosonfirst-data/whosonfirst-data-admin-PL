@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3507090.178204,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.550011,53.421747,14.550011,53.421747",
     "geom:latitude":53.421747,
     "geom:longitude":14.550011,
     "iso:country":"PL",
+    "lbl:bbox":"14.545011,53.416747,14.555011,53.426747",
     "lbl:latitude":53.421747,
     "lbl:longitude":14.550011,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.420431,
     "mps:longitude":14.550337,
     "mz:hierarchy_label":0,
@@ -32,10 +34,6 @@
     "name:pol_x_variant":[
         "Silberwiese",
         "Stettin-Wilberwiese"
-    ],
-    "name:unk_x_variant":[
-        "Silberwiese",
-        "Kpa Parnicka"
     ],
     "qs:gn_adm0_cc":"PL",
     "qs:gn_fcode":"PPLX",
@@ -67,13 +65,13 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85687271,
         102191581,
         85633723,
         101752779,
-        102080073,
-        85687271
+        102080073
     ],
     "wof:breaches":[
         85898203
@@ -81,7 +79,6 @@
     "wof:concordances":{
         "gn:id":3096357,
         "gp:id":499078,
-        "qs:id":1082830,
         "qs_pg:id":1082830
     },
     "wof:country":"PL",
@@ -100,7 +97,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1531931977,
+    "wof:lastmodified":1566596091,
     "wof:name":"Kpa Parnicka",
     "wof:parent_id":101752779,
     "wof:placetype":"neighbourhood",

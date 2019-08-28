@@ -9,17 +9,19 @@
     "geom:bbox":"21.472573352,50.0946434326,21.5250196506,50.1232773614",
     "geom:latitude":50.110571,
     "geom:longitude":21.499381,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2800,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
     "gn:population":2800,
     "iso:country":"PL",
     "lbl:latitude":50.112477,
     "lbl:longitude":21.504148,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.112477,
     "mps:longitude":21.504148,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Brze\u017anica"
     ],
@@ -83,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -96,15 +98,14 @@
     "wof:concordances":{
         "gn:id":3102369,
         "gp:id":488094,
-        "qs:id":215487,
-        "qs_pg:id":1213996,
+        "qs_pg:id":215487,
         "wd:id":"Q4981461",
         "wk:page":"Brze\u017anica, Podkarpackie Voivodeship"
     },
     "wof:concordances_alt":{
         "gn:id":775136,
         "gp:id":488100,
-        "qs_pg:id":215487
+        "qs_pg:id":1213996
     },
     "wof:country":"PL",
     "wof:geomhash":"d2a04a536064efe80ab7836cbb14c055",
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":101826259,
-    "wof:lastmodified":1563577824,
+    "wof:lastmodified":1566598235,
     "wof:name":"Brze\u017anica",
     "wof:parent_id":102079533,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.15761,
     "lbl:longitude":17.164292,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.15761,
     "mps:longitude":17.164292,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Zaniemy\u015bl"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":142,
     "wof:belongsto":[
@@ -71,10 +74,12 @@
     "wof:concordances":{
         "gn:id":3080705,
         "gp:id":527830,
-        "qs:id":1190587,
         "qs_pg:id":977053,
         "wd:id":"Q146933",
         "wk:page":"Zaniemy\u015bl"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1190587
     },
     "wof:country":"PL",
     "wof:geomhash":"f7379d4d2a22e4ec693a187b479ad8b0",
@@ -88,7 +93,7 @@
         }
     ],
     "wof:id":101820181,
-    "wof:lastmodified":1563577384,
+    "wof:lastmodified":1566598134,
     "wof:name":"Zaniemy\u015bl",
     "wof:parent_id":102079893,
     "wof:placetype":"locality",

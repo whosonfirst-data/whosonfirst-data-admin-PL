@@ -9,17 +9,19 @@
     "geom:bbox":"19.0774137935,50.3642249824,19.140478833,50.3852617859",
     "geom:latitude":50.377244,
     "geom:longitude":19.105127,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":2717,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":2717,
     "iso:country":"PL",
     "lbl:latitude":50.378202,
     "lbl:longitude":19.100357,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.378202,
     "mps:longitude":19.100357,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0441\u0430\u0440\u0438"
     ],
@@ -78,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":187,
     "wof:belongsto":[
@@ -91,7 +93,6 @@
     "wof:concordances":{
         "gn:id":3087735,
         "gp:id":514760,
-        "qs:id":580911,
         "qs_pg:id":305611,
         "wd:id":"Q448852"
     },
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":101756575,
-    "wof:lastmodified":1563577940,
+    "wof:lastmodified":1566598264,
     "wof:name":"Psary",
     "wof:parent_id":102079571,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.445005,
     "lbl:longitude":22.294855,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.445005,
     "mps:longitude":22.294855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Bieliny"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":96,
     "wof:belongsto":[
@@ -65,10 +68,12 @@
     "wof:concordances":{
         "gn:id":775996,
         "gp:id":486290,
-        "qs:id":293854,
         "qs_pg:id":83493,
         "wd:id":"Q4904489",
         "wk:page":"Bieliny, Podkarpackie Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":293854
     },
     "wof:country":"PL",
     "wof:geomhash":"efd24bc3d42e00e3b70c4b69769a4625",
@@ -82,7 +87,7 @@
         }
     ],
     "wof:id":101822479,
-    "wof:lastmodified":1563578328,
+    "wof:lastmodified":1566598379,
     "wof:name":"Bieliny",
     "wof:parent_id":102079639,
     "wof:placetype":"locality",

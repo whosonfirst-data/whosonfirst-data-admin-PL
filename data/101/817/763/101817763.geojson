@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":54.212356,
     "lbl:longitude":19.117677,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.212356,
     "mps:longitude":19.117677,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u0438 \u0414\u0432\u0443\u0440 \u0413\u0434\u0430\u043d\u0441\u043a\u0438"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0438\u0439 \u0414\u0432\u0443\u0440-\u0490\u0434\u0430\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tiegenhof"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +116,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.216667,
     "wd:longitude":19.116667,
@@ -129,7 +132,7 @@
         "gn:id":3090502,
         "gp:id":24548123,
         "loc:id":"n88215606",
-        "qs:id":1200718,
+        "qs_pg:id":1200718,
         "wd:id":"Q604251",
         "wk:page":"Nowy Dw\u00f3r Gda\u0144ski"
     },
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101817763,
-    "wof:lastmodified":1563577493,
+    "wof:lastmodified":1566598158,
     "wof:name":"Nowy Dw\u00f3r Gda\u0144ski",
     "wof:parent_id":102080239,
     "wof:placetype":"locality",

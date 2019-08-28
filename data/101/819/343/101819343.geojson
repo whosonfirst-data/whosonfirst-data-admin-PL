@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.844409,
     "lbl:longitude":14.613494,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.844409,
     "mps:longitude":14.613494,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Wolin"
     ],
@@ -149,7 +152,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.666667,
     "wd:longitude":14.616667,
@@ -164,7 +167,7 @@
     "wof:concordances":{
         "gn:id":3081471,
         "gp:id":24548818,
-        "qs:id":145551,
+        "qs_pg:id":145551,
         "wd:id":"Q1862",
         "wk:page":"Wolin (town)"
     },
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":101819343,
-    "wof:lastmodified":1563577812,
+    "wof:lastmodified":1566598232,
     "wof:name":"Wolin",
     "wof:parent_id":102080153,
     "wof:placetype":"locality",

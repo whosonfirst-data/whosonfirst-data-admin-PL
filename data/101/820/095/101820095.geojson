@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.496129,
     "lbl:longitude":22.856863,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.496129,
     "mps:longitude":22.856863,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ostr\u00f3w Lubelski"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u0456\u0432-\u041b\u044e\u0431\u0435\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ostr\u00f3w"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":758,
     "wof:belongsto":[
@@ -125,10 +128,12 @@
     "wof:concordances":{
         "gn:id":762887,
         "gp:id":511131,
-        "qs:id":59570,
-        "qs_pg:id":1165658,
+        "qs_pg:id":59570,
         "wd:id":"Q1946017",
         "wk:page":"Ostr\u00f3w Lubelski"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1165658
     },
     "wof:country":"PL",
     "wof:geomhash":"9c41740e158c3689db15b2f4c86cb72e",
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":101820095,
-    "wof:lastmodified":1563577426,
+    "wof:lastmodified":1566598144,
     "wof:name":"Ostr\u00f3w Lubelski",
     "wof:parent_id":102079855,
     "wof:placetype":"locality",

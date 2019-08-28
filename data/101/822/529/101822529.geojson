@@ -14,10 +14,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.444068,
     "lbl:longitude":23.416586,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.444068,
     "mps:longitude":23.416586,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u043c\u0430\u0448\u043e\u0432 \u041b\u044e\u0431\u0435\u043b\u0441\u043a\u0438"
     ],
@@ -117,7 +120,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043c\u0430\u0448\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tomasz\u00f3w"
     ],
     "name:vie_x_preferred":[
@@ -149,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":363,
     "wof:belongsto":[
@@ -162,10 +165,12 @@
     "wof:concordances":{
         "gn:id":756868,
         "gp:id":522584,
-        "qs:id":129264,
-        "qs_pg:id":1075139,
+        "qs_pg:id":129264,
         "wd:id":"Q911009",
         "wk:page":"Tomasz\u00f3w Lubelski"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1075139
     },
     "wof:country":"PL",
     "wof:geomhash":"13ea6f65c77b61381ed53275a6d76a48",
@@ -179,7 +184,7 @@
         }
     ],
     "wof:id":101822529,
-    "wof:lastmodified":1563578353,
+    "wof:lastmodified":1566598386,
     "wof:name":"Tomasz\u00f3w Lubelski",
     "wof:parent_id":102079689,
     "wof:placetype":"locality",

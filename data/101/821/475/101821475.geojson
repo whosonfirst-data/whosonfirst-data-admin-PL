@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.599124,
     "lbl:longitude":18.086767,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.599124,
     "mps:longitude":18.086767,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Wielowie\u015b"
     ],
@@ -34,7 +37,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u044c\u043e\u0432\u0435\u0441\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wielowie\u015b Klasztorna"
     ],
     "name:zho_x_preferred":[
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":106,
     "wof:belongsto":[
         102191581,
@@ -69,10 +72,12 @@
     "wof:concordances":{
         "gn:id":3082206,
         "gp:id":524509,
-        "qs:id":309806,
-        "qs_pg:id":926352,
+        "qs_pg:id":309806,
         "wd:id":"Q7999095",
         "wk:page":"Wielowie\u015b, Ostr\u00f3w Wielkopolski County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":926352
     },
     "wof:country":"PL",
     "wof:geomhash":"7a8047d249dd6db71758f1bc9067f3f4",
@@ -86,7 +91,7 @@
         }
     ],
     "wof:id":101821475,
-    "wof:lastmodified":1563577641,
+    "wof:lastmodified":1566598192,
     "wof:name":"Wielowie\u015b",
     "wof:parent_id":102079789,
     "wof:placetype":"locality",

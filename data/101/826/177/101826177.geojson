@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.730709,
     "lbl:longitude":21.576666,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.730709,
     "mps:longitude":21.576666,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Tarnowiec"
     ],
@@ -236,7 +239,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":57,
     "wof:belongsto":[
@@ -249,9 +252,11 @@
     "wof:concordances":{
         "gn:id":3083458,
         "gp:id":24942767,
-        "qs:id":1321333,
         "qs_pg:id":509964,
         "wd:id":"Q396422"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1321333
     },
     "wof:country":"PL",
     "wof:geomhash":"8fbde36c1e43b0bcf43b7ff51c746830",
@@ -265,7 +270,7 @@
         }
     ],
     "wof:id":101826177,
-    "wof:lastmodified":1563577851,
+    "wof:lastmodified":1566598243,
     "wof:name":"Tarnowiec",
     "wof:parent_id":102079453,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.073626,
     "lbl:longitude":21.692644,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.073626,
     "mps:longitude":21.692644,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "S\u0119dzisz\u00f3w Ma\u0142opolski"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0434\u0437\u0456\u0448\u0443\u0432-\u041c\u0430\u043b\u043e\u043f\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u0119zisz\u00f3w"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +113,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.069444,
     "wd:longitude":21.701389,
@@ -125,7 +128,7 @@
     "wof:concordances":{
         "gn:id":759504,
         "gp:id":24548640,
-        "qs:id":923478,
+        "qs_pg:id":923478,
         "wd:id":"Q867704",
         "wk:page":"S\u0119dzisz\u00f3w Ma\u0142opolski"
     },
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101824931,
-    "wof:lastmodified":1563578198,
+    "wof:lastmodified":1566598341,
     "wof:name":"S\u0119dzisz\u00f3w Ma\u0142opolski",
     "wof:parent_id":102079547,
     "wof:placetype":"locality",

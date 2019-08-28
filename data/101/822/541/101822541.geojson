@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.012414,
     "lbl:longitude":20.479694,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.012414,
     "mps:longitude":20.479694,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Mni\u00f3w"
     ],
@@ -68,7 +71,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":83,
     "wof:belongsto":[
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":764578,
         "gp:id":12617971,
-        "qs:id":973999,
+        "qs_pg:id":973999,
         "wd:id":"Q2321379",
         "wk:page":"Mni\u00f3w"
     },
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101822541,
-    "wof:lastmodified":1563578405,
+    "wof:lastmodified":1566598401,
     "wof:name":"Mni\u00f3w",
     "wof:parent_id":102079693,
     "wof:placetype":"locality",

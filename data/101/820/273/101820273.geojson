@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.565875,
     "lbl:longitude":14.803901,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.565875,
     "mps:longitude":14.803901,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "S\u0142o\u0144sk"
     ],
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u043e\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sonnenburg"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -77,7 +80,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":618,
     "wof:belongsto":[
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3085520,
         "gp:id":12616765,
-        "qs:id":49122,
+        "qs_pg:id":49122,
         "wd:id":"Q1012582",
         "wk:page":"S\u0142o\u0144sk"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101820273,
-    "wof:lastmodified":1563577340,
+    "wof:lastmodified":1566598124,
     "wof:name":"S\u0142o\u0144sk",
     "wof:parent_id":102079933,
     "wof:placetype":"locality",

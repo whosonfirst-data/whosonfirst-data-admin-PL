@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.752835,
     "lbl:longitude":19.209952,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.752835,
     "mps:longitude":19.209952,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Prabuty"
     ],
@@ -95,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0430\u0431\u0443\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Riesenburg"
     ],
     "name:vie_x_preferred":[
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":90.0,
     "wd:latitude":53.755833,
@@ -137,10 +140,12 @@
     "wof:concordances":{
         "gn:id":3088161,
         "gp:id":514059,
-        "qs:id":246668,
         "qs_pg:id":236172,
         "wd:id":"Q988169",
         "wk:page":"Prabuty"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":246668
     },
     "wof:country":"PL",
     "wof:geomhash":"afe7a10cc51b8a552e05a2327852e3b8",
@@ -154,7 +159,7 @@
         }
     ],
     "wof:id":101817575,
-    "wof:lastmodified":1563577518,
+    "wof:lastmodified":1566598164,
     "wof:name":"Prabuty",
     "wof:parent_id":102080159,
     "wof:placetype":"locality",

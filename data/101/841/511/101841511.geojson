@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.714913,
     "lbl:longitude":21.646825,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.714913,
     "mps:longitude":21.646825,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Jedlicze"
     ],
@@ -107,7 +110,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":49.716389,
     "wd:longitude":21.645556,
@@ -123,7 +126,7 @@
     "wof:concordances":{
         "gn:id":770169,
         "gp:id":24548660,
-        "qs:id":59623,
+        "qs_pg:id":59623,
         "wd:id":"Q655210",
         "wk:page":"Jedlicze"
     },
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101841511,
-    "wof:lastmodified":1563578012,
+    "wof:lastmodified":1566598284,
     "wof:name":"Jedlicze",
     "wof:parent_id":102079455,
     "wof:placetype":"locality",

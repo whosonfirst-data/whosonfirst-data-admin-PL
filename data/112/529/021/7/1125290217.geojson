@@ -9,15 +9,18 @@
     "geom:bbox":"18.49905,52.55111,18.49905,52.55111",
     "geom:latitude":52.55111,
     "geom:longitude":18.49905,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":5030,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":5030,
     "iso:country":"PL",
+    "lbl:bbox":"18.39905,52.45111,18.59905,52.65111",
     "lbl:latitude":52.55111,
     "lbl:longitude":18.49905,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u067e\u06cc\u0648\u062a\u0631\u06a9\u0648\u0641 \u06a9\u0648\u06cc\u0627\u0641\u0633\u06a9\u06cc"
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0439\u043e\u0442\u0440\u043a\u0443\u0432-\u041a\u0443\u044f\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Piotrk\u00f3w"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24547600,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1125290217,
-    "wof:lastmodified":1564211992,
+    "wof:lastmodified":1566598776,
     "wof:name":"Piotrk\u00f3w Kujawski",
     "wof:parent_id":102079977,
     "wof:placetype":"localadmin",

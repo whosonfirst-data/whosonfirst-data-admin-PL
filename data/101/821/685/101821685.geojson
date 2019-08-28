@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.739464,
     "lbl:longitude":21.667922,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.739464,
     "mps:longitude":21.667922,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sobolew"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":104,
     "wof:belongsto":[
@@ -83,10 +86,12 @@
     "wof:concordances":{
         "gn:id":7534411,
         "gp:id":24941515,
-        "qs:id":270394,
-        "qs_pg:id":509826,
+        "qs_pg:id":270394,
         "wd:id":"Q3542928",
         "wk:page":"Sobolew, Masovian Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":509826
     },
     "wof:country":"PL",
     "wof:geomhash":"e24e5dbe2c828fbb2195c372054aeb31",
@@ -100,7 +105,7 @@
         }
     ],
     "wof:id":101821685,
-    "wof:lastmodified":1563577640,
+    "wof:lastmodified":1566598192,
     "wof:name":"Sobolew",
     "wof:parent_id":102079901,
     "wof:placetype":"locality",

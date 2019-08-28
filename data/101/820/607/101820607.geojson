@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.174729,
     "lbl:longitude":21.291489,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.174729,
     "mps:longitude":21.291489,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Baranowo"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0430\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hoverbeck"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":97,
     "wof:belongsto":[
@@ -84,10 +87,12 @@
     "wof:concordances":{
         "gn:id":776405,
         "gp:id":485539,
-        "qs:id":396894,
-        "qs_pg:id":984933,
+        "qs_pg:id":396894,
         "wd:id":"Q1986598",
         "wk:page":"Baranowo, Masovian Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":984933
     },
     "wof:country":"PL",
     "wof:geomhash":"ba164c871e809c236314a8561f596460",
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":101820607,
-    "wof:lastmodified":1563577437,
+    "wof:lastmodified":1566598146,
     "wof:name":"Baranowo",
     "wof:parent_id":102080139,
     "wof:placetype":"locality",

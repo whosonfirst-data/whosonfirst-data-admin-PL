@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.854256,
     "lbl:longitude":19.407744,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.854256,
     "mps:longitude":19.407744,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0417\u0433\u0435\u0436"
     ],
@@ -202,7 +205,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":212,
     "wof:belongsto":[
@@ -215,10 +218,12 @@
     "wof:concordances":{
         "gn:id":3080251,
         "gp:id":528753,
-        "qs:id":145539,
-        "qs_pg:id":1060358,
+        "qs_pg:id":145539,
         "wd:id":"Q104407",
         "wk:page":"Zgierz"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060358
     },
     "wof:country":"PL",
     "wof:geomhash":"ddbcb0061835a69fca1899ff72d69c60",
@@ -232,7 +237,7 @@
         }
     ],
     "wof:id":101752219,
-    "wof:lastmodified":1563577198,
+    "wof:lastmodified":1566598090,
     "wof:name":"Zgierz",
     "wof:parent_id":102079873,
     "wof:placetype":"locality",

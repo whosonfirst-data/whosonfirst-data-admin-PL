@@ -9,15 +9,18 @@
     "geom:bbox":"17.19961,52.80842,17.19961,52.80842",
     "geom:latitude":52.80842,
     "geom:longitude":17.19961,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":24428,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
     "gn:population":24428,
     "iso:country":"PL",
+    "lbl:bbox":"17.17961,52.78842,17.21961,52.82842",
     "lbl:latitude":52.80842,
     "lbl:longitude":17.19961,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0412\u043e\u043d\u0433\u0440\u043e\u0432\u0435\u0446"
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043d\u0433\u0440\u043e\u0432\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eichenbr\u00fcck"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +63,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":29397322,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125910199,
-    "wof:lastmodified":1509400084,
+    "wof:lastmodified":1566598971,
     "wof:name":"Wagrowiec",
     "wof:parent_id":102080019,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"23.76345,52.73213,23.76345,52.73213",
     "geom:latitude":52.73213,
     "geom:longitude":23.76345,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PL",
+    "lbl:bbox":"23.74345,52.71213,23.78345,52.75213",
     "lbl:latitude":52.73213,
     "lbl:longitude":23.76345,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Teremiski"
@@ -42,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0440\u0435\u043c\u0456\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Teremyski"
     ],
     "name:vie_x_preferred":[
@@ -69,7 +73,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24942813,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1125896651,
-    "wof:lastmodified":1563579291,
+    "wof:lastmodified":1566598793,
     "wof:name":"Teremiski",
     "wof:parent_id":102080091,
     "wof:placetype":"locality",

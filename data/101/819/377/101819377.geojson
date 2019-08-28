@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.563018,
     "lbl:longitude":21.0003,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.563018,
     "mps:longitude":21.0003,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0428\u0447\u044b\u0442\u043d\u0430"
     ],
@@ -116,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u0429\u0438\u0442\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Szczyton"
     ],
     "name:vie_x_preferred":[
@@ -146,7 +149,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":981,
     "wof:belongsto":[
@@ -159,7 +162,7 @@
     "wof:concordances":{
         "gn:id":757357,
         "gp:id":24547662,
-        "qs:id":1229407,
+        "qs_pg:id":1229407,
         "wd:id":"Q953181",
         "wk:page":"Szczytno"
     },
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":101819377,
-    "wof:lastmodified":1563577730,
+    "wof:lastmodified":1566598214,
     "wof:name":"Szczytno",
     "wof:parent_id":102080167,
     "wof:placetype":"locality",

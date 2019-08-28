@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.158395,
     "lbl:longitude":18.291988,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.158395,
     "mps:longitude":18.291988,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "\u0141ubnice"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":98,
     "wof:belongsto":[
@@ -89,10 +92,12 @@
     "wof:concordances":{
         "gn:id":3082774,
         "gp:id":505493,
-        "qs:id":1313611,
         "qs_pg:id":301672,
         "wd:id":"Q345499",
         "wk:page":"\u0141ubnice, \u0141\u00f3d\u017a Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1313611
     },
     "wof:country":"PL",
     "wof:geomhash":"fe32dd1432d6691189218035ac19b6f5",
@@ -106,7 +111,7 @@
         }
     ],
     "wof:id":101822911,
-    "wof:lastmodified":1563578399,
+    "wof:lastmodified":1566598400,
     "wof:name":"\u0141ubnice",
     "wof:parent_id":102079731,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.882765,
     "lbl:longitude":17.01237,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.882765,
     "mps:longitude":17.01237,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Gosty\u0144"
     ],
@@ -104,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0438\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gostingen"
     ],
     "name:vie_x_preferred":[
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":90.0,
     "wd:latitude":51.879167,
@@ -149,10 +152,12 @@
     "wof:concordances":{
         "gn:id":3098626,
         "gp:id":494695,
-        "qs:id":962337,
         "qs_pg:id":215628,
         "wd:id":"Q422286",
         "wk:page":"Gosty\u0144"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":962337
     },
     "wof:country":"PL",
     "wof:geomhash":"a875b5fee19c2abd13418c1146829f20",
@@ -166,7 +171,7 @@
         }
     ],
     "wof:id":101821569,
-    "wof:lastmodified":1563577561,
+    "wof:lastmodified":1566598173,
     "wof:name":"Gosty\u0144",
     "wof:parent_id":102079829,
     "wof:placetype":"locality",

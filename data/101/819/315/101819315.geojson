@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.205121,
     "lbl:longitude":23.336722,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.205121,
     "mps:longitude":23.336722,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0633\u0648\u067e\u0631\u0627\u0634\u0644"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":191,
     "wof:belongsto":[
@@ -104,10 +107,12 @@
     "wof:concordances":{
         "gn:id":757758,
         "gp:id":521021,
-        "qs:id":192565,
-        "qs_pg:id":343294,
+        "qs_pg:id":192565,
         "wd:id":"Q1857009",
         "wk:page":"Gmina Supra\u015bl"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":343294
     },
     "wof:country":"PL",
     "wof:geomhash":"4178ab9583afaccf5e115fc31c220d45",
@@ -121,7 +126,7 @@
         }
     ],
     "wof:id":101819315,
-    "wof:lastmodified":1563577734,
+    "wof:lastmodified":1566598214,
     "wof:name":"Supra\u015bl",
     "wof:parent_id":102080145,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.870209,
     "lbl:longitude":19.356941,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.870209,
     "mps:longitude":19.356941,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sk\u0119pe"
     ],
@@ -104,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.866111,
     "wd:longitude":19.346944,
@@ -119,10 +122,12 @@
     "wof:concordances":{
         "gn:id":3085846,
         "gp:id":518239,
-        "qs:id":1200476,
         "qs_pg:id":252473,
         "wd:id":"Q607132",
         "wk:page":"Sk\u0119pe"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1200476
     },
     "wof:country":"PL",
     "wof:geomhash":"9799385dac77fcc1ea2a85fb8fbbd9b9",
@@ -136,7 +141,7 @@
         }
     ],
     "wof:id":101819053,
-    "wof:lastmodified":1563577714,
+    "wof:lastmodified":1566598210,
     "wof:name":"Sk\u0119pe",
     "wof:parent_id":102080033,
     "wof:placetype":"locality",

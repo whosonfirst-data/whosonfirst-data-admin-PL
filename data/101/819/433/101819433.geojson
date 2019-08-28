@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.756898,
     "lbl:longitude":21.339906,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.756898,
     "mps:longitude":21.339906,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u067e\u06cc\u062a\u0633\u06a9\u06cc"
     ],
@@ -77,7 +80,7 @@
     "name:ukr_x_variant":[
         "\u0490\u043c\u0456\u043d\u0430 \u041f\u0435\u0446\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Peitschendorf"
     ],
     "name:war_x_preferred":[
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":171,
     "wof:belongsto":[
@@ -116,7 +119,6 @@
     "wof:concordances":{
         "gn:id":762361,
         "gp:id":512201,
-        "qs:id":270732,
         "qs_pg:id":270732,
         "wd:id":"Q556805",
         "wk:page":"Gmina Piecki"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101819433,
-    "wof:lastmodified":1563577787,
+    "wof:lastmodified":1566598225,
     "wof:name":"Piecki",
     "wof:parent_id":102080203,
     "wof:placetype":"locality",

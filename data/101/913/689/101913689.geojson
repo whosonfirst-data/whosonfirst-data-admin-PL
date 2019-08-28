@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.835578,
     "lbl:longitude":16.522661,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.835578,
     "mps:longitude":16.522661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0634\u0646\u0648"
     ],
@@ -194,7 +197,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0448\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leshno"
     ],
     "name:urd_x_preferred":[
@@ -230,7 +233,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1324,
     "wof:belongsto":[
@@ -244,7 +247,7 @@
         "fct:id":"0241390e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3093524,
         "gp:id":504488,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q52892",
         "wk:page":"Leszno"
     },
@@ -260,7 +263,7 @@
         }
     ],
     "wof:id":101913689,
-    "wof:lastmodified":1563577877,
+    "wof:lastmodified":1566598250,
     "wof:name":"Leszno",
     "wof:parent_id":102079821,
     "wof:placetype":"locality",

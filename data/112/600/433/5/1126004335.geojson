@@ -9,15 +9,18 @@
     "geom:bbox":"21.88107,54.25299,21.88107,54.25299",
     "geom:latitude":54.25299,
     "geom:longitude":21.88107,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":420,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
     "gn:population":420,
     "iso:country":"PL",
+    "lbl:bbox":"21.86107,54.23299,21.90107,54.27299",
     "lbl:latitude":54.25299,
     "lbl:longitude":21.88107,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0628\u0648\u062f\u0631\u0647"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0434\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Buddern"
     ],
     "name:vie_x_preferred":[
@@ -72,7 +75,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":488401,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1126004335,
-    "wof:lastmodified":1564212382,
+    "wof:lastmodified":1566599098,
     "wof:name":"Budry",
     "wof:parent_id":102080253,
     "wof:placetype":"locality",

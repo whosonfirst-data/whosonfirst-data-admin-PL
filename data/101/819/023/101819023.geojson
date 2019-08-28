@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.972187,
     "lbl:longitude":17.09637,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.972187,
     "mps:longitude":17.09637,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Margonin"
     ],
@@ -101,7 +104,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.966667,
     "wd:longitude":17.083333,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":3092312,
         "gp:id":24547904,
-        "qs:id":206260,
+        "qs_pg:id":206260,
         "wd:id":"Q990186",
         "wk:page":"Margonin"
     },
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101819023,
-    "wof:lastmodified":1563577695,
+    "wof:lastmodified":1566598204,
     "wof:name":"Margonin",
     "wof:parent_id":102080021,
     "wof:placetype":"locality",

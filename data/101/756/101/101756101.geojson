@@ -9,14 +9,17 @@
     "geom:bbox":"20.729838155,52.1332845729,20.8200394524,52.1930214839",
     "geom:latitude":52.165912,
     "geom:longitude":20.784079,
-    "geonames:id":"763729,763730",
+    "gn:id":"763729,763730",
     "iso:country":"PL",
     "lbl:latitude":52.16173,
     "lbl:longitude":20.794668,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.16173,
     "mps:longitude":20.794668,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Nowa Wie\u015b"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":66,
     "wof:belongsto":[
         102191581,
@@ -67,10 +70,12 @@
     "wof:concordances":{
         "gn:id":763720,
         "gp:id":509446,
-        "qs:id":27958,
-        "qs_pg:id":1156539,
+        "qs_pg:id":27958,
         "wd:id":"Q7066219",
         "wk:page":"Nowa Wie\u015b, Pruszk\u00f3w County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1156539
     },
     "wof:country":"PL",
     "wof:geomhash":"0774e65d5f2d55001aaf573744b10752",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":101756101,
-    "wof:lastmodified":1563577946,
+    "wof:lastmodified":1566598266,
     "wof:name":"Nowa Wie\u015b",
     "wof:parent_id":102079919,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.902548,
     "lbl:longitude":15.744222,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.902548,
     "mps:longitude":15.744222,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0644\u064a\u0646\u064a\u0627 \u062c\u0648\u0631\u0627"
     ],
@@ -199,7 +202,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u043b\u0435\u043d\u044f-\u0490\u0443\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hirschberg"
     ],
     "name:urd_x_preferred":[
@@ -231,7 +234,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -242,9 +245,11 @@
     "wof:concordances":{
         "gn:id":3097257,
         "gp:id":497451,
-        "qs:id":8,
-        "qs_pg:id":675976,
+        "qs_pg:id":8,
         "wd:id":"Q147934"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":675976
     },
     "wof:country":"PL",
     "wof:geomhash":"e95127a002b1683e028b2ca207aa8383",
@@ -258,7 +263,7 @@
         }
     ],
     "wof:id":101752165,
-    "wof:lastmodified":1563577240,
+    "wof:lastmodified":1566598098,
     "wof:name":"Jelenia G\u00f3ra",
     "wof:parent_id":102079603,
     "wof:placetype":"locality",

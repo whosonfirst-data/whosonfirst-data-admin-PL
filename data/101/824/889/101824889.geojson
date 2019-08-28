@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.137178,
     "lbl:longitude":19.633891,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.137178,
     "mps:longitude":19.633891,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Krzeszowice"
     ],
@@ -203,7 +206,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":50.133333,
     "wd:longitude":19.633333,
@@ -219,7 +222,7 @@
     "wof:concordances":{
         "gn:id":3094490,
         "gp:id":24548729,
-        "qs:id":1043171,
+        "qs_pg:id":1043171,
         "wd:id":"Q146509",
         "wk:page":"Krzeszowice"
     },
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":101824889,
-    "wof:lastmodified":1563578210,
+    "wof:lastmodified":1566598344,
     "wof:name":"Krzeszowice",
     "wof:parent_id":102079541,
     "wof:placetype":"locality",

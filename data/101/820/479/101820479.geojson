@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.838161,
     "lbl:longitude":15.830913,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.838161,
     "mps:longitude":15.830913,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Drezdenko"
     ],
@@ -119,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0440\u0435\u0437\u0434\u0435\u043d\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Driesen"
     ],
     "name:vie_x_preferred":[
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.833333,
     "wd:longitude":15.833333,
@@ -160,10 +163,12 @@
     "wof:concordances":{
         "gn:id":3100127,
         "gp:id":492133,
-        "qs:id":145603,
-        "qs_pg:id":478153,
+        "qs_pg:id":145603,
         "wd:id":"Q836961",
         "wk:page":"Drezdenko"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":478153
     },
     "wof:country":"PL",
     "wof:geomhash":"dd9b724d82dd8d9d3f985f4bdb3a7f8b",
@@ -177,7 +182,7 @@
         }
     ],
     "wof:id":101820479,
-    "wof:lastmodified":1563577348,
+    "wof:lastmodified":1566598126,
     "wof:name":"Drezdenko",
     "wof:parent_id":102080011,
     "wof:placetype":"locality",

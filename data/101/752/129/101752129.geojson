@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.300614,
     "lbl:longitude":18.906076,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.300614,
     "mps:longitude":18.906076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "\u015awi\u0119toch\u0142owice"
     ],
@@ -233,7 +236,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u043d\u0442\u043e\u0445\u043b\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schwientochlowitz"
     ],
     "name:vie_x_preferred":[
@@ -271,7 +274,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":540,
     "wof:belongsto":[
@@ -284,10 +287,12 @@
     "wof:concordances":{
         "gn:id":3083988,
         "gp:id":521319,
-        "qs:id":145559,
-        "qs_pg:id":1326980,
+        "qs_pg:id":145559,
         "wd:id":"Q45197",
         "wk:page":"\u015awi\u0119toch\u0142owice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1326980
     },
     "wof:country":"PL",
     "wof:geomhash":"88e8de79c5d24b666744de23d57c98a3",
@@ -301,7 +306,7 @@
         }
     ],
     "wof:id":101752129,
-    "wof:lastmodified":1563577220,
+    "wof:lastmodified":1566598095,
     "wof:name":"\u015awi\u0119toch\u0142owice",
     "wof:parent_id":102079507,
     "wof:placetype":"locality",

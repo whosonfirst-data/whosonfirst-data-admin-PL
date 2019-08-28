@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.118212,
     "lbl:longitude":16.352417,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.118212,
     "mps:longitude":16.352417,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Wielichowo"
     ],
@@ -95,7 +98,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.118889,
     "wd:longitude":16.349444,
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3082299,
         "gp:id":24547602,
-        "qs:id":59429,
+        "qs_pg:id":59429,
         "wd:id":"Q1002658",
         "wk:page":"Wielichowo"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101821673,
-    "wof:lastmodified":1563577588,
+    "wof:lastmodified":1566598181,
     "wof:name":"Wielichowo",
     "wof:parent_id":102079879,
     "wof:placetype":"locality",

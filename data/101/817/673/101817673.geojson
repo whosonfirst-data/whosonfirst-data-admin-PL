@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.957937,
     "lbl:longitude":16.589244,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.957937,
     "mps:longitude":16.589244,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Bobolice"
     ],
@@ -81,7 +84,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0431\u043e\u043b\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bablitz"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":145.0,
     "wd:latitude":53.95,
@@ -123,10 +126,12 @@
     "wof:concordances":{
         "gn:id":3103181,
         "gp:id":486703,
-        "qs:id":206262,
-        "qs_pg:id":294015,
+        "qs_pg:id":206262,
         "wd:id":"Q511956",
         "wk:page":"Bobolice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":294015
     },
     "wof:country":"PL",
     "wof:geomhash":"020c94ecb9eda46e2096d651130434e0",
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":101817673,
-    "wof:lastmodified":1563577507,
+    "wof:lastmodified":1566598162,
     "wof:name":"Bobolice",
     "wof:parent_id":102080199,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.346718,
     "lbl:longitude":16.869153,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.346718,
     "mps:longitude":16.869153,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0644\u0648\u0628\u0648\u0646\u0642"
     ],
@@ -113,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0431\u043e\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lubonia"
     ],
     "name:vie_x_preferred":[
@@ -143,7 +146,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":160,
     "wof:belongsto":[
@@ -156,10 +159,12 @@
     "wof:concordances":{
         "gn:id":3092853,
         "gp:id":505545,
-        "qs:id":189658,
-        "qs_pg:id":475602,
+        "qs_pg:id":189658,
         "wd:id":"Q50973",
         "wk:page":"Lubo\u0144"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":475602
     },
     "wof:country":"PL",
     "wof:geomhash":"75dba6472fabcdb1f12a4a098becbe93",
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":101756659,
-    "wof:lastmodified":1563577938,
+    "wof:lastmodified":1566598264,
     "wof:name":"Lubo\u0144",
     "wof:parent_id":102079955,
     "wof:placetype":"locality",

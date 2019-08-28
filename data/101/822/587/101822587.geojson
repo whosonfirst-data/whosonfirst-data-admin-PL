@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.885504,
     "lbl:longitude":21.856386,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.885504,
     "mps:longitude":21.856386,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Annopol"
     ],
@@ -95,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u043d\u043e\u043f\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rach\u00f3w-Annopol"
     ],
     "name:vie_x_preferred":[
@@ -120,7 +123,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.883333,
     "wd:longitude":21.866667,
@@ -135,7 +138,7 @@
     "wof:concordances":{
         "gn:id":776677,
         "gp:id":24548630,
-        "qs:id":1014980,
+        "qs_pg:id":1014980,
         "wd:id":"Q567332",
         "wk:page":"Annopol"
     },
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101822587,
-    "wof:lastmodified":1563578357,
+    "wof:lastmodified":1566598388,
     "wof:name":"Annopol",
     "wof:parent_id":102079721,
     "wof:placetype":"locality",

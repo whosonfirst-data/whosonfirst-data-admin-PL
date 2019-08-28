@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.896945,
     "lbl:longitude":22.881756,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.896945,
     "mps:longitude":22.881756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "So\u015bnica"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":52,
     "wof:belongsto":[
@@ -65,9 +68,11 @@
     "wof:concordances":{
         "gn:id":3085145,
         "gp:id":519366,
-        "qs:id":307576,
         "qs_pg:id":307575,
         "wd:id":"Q7572109"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":307576
     },
     "wof:country":"PL",
     "wof:geomhash":"80db256ecb293cb47c64f22903a88a91",
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":101824833,
-    "wof:lastmodified":1563578219,
+    "wof:lastmodified":1566598346,
     "wof:name":"So\u015bnica",
     "wof:parent_id":102079573,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.626836,
     "lbl:longitude":19.363818,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.626836,
     "mps:longitude":19.363818,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "\u017barki"
     ],
@@ -104,7 +107,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.628056,
     "wd:longitude":19.370278,
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":3080674,
         "gp:id":24548713,
-        "qs:id":1189942,
+        "qs_pg:id":1189942,
         "wd:id":"Q149411",
         "wk:page":"\u017barki"
     },
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101823699,
-    "wof:lastmodified":1563578171,
+    "wof:lastmodified":1566598332,
     "wof:name":"\u017barki",
     "wof:parent_id":102079605,
     "wof:placetype":"locality",

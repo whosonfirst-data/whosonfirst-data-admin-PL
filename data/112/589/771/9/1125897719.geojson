@@ -9,14 +9,18 @@
     "geom:bbox":"14.63419,52.35095,14.63419,52.35095",
     "geom:latitude":52.35095,
     "geom:longitude":14.63419,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PL",
+    "lbl:bbox":"14.61419,52.33095,14.65419,52.37095",
     "lbl:latitude":52.35095,
     "lbl:longitude":14.63419,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Kunowice"
@@ -54,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043d\u043e\u0432\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kunersdorf"
     ],
     "name:vie_x_preferred":[
@@ -77,7 +81,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24938587,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1125897719,
-    "wof:lastmodified":1563579277,
+    "wof:lastmodified":1566598787,
     "wof:name":"Nowice",
     "wof:parent_id":102079913,
     "wof:placetype":"locality",

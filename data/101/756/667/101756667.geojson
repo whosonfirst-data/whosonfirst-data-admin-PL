@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.316976,
     "lbl:longitude":16.874938,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.316976,
     "mps:longitude":16.874938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Wiry"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":132,
     "wof:belongsto":[
         102191581,
@@ -66,10 +69,12 @@
     "wof:concordances":{
         "gn:id":3081880,
         "gp:id":525044,
-        "qs:id":1161162,
         "qs_pg:id":477142,
         "wd:id":"Q973460",
         "wk:page":"Wiry, Greater Poland Voivodeship"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1161162
     },
     "wof:country":"PL",
     "wof:geomhash":"ea3bdcaa26fa2003edc379bcf707015e",
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":101756667,
-    "wof:lastmodified":1563577935,
+    "wof:lastmodified":1566598263,
     "wof:name":"Wiry",
     "wof:parent_id":102079955,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.160494,
     "lbl:longitude":19.453413,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.160494,
     "mps:longitude":19.453413,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0632\u0628\u064a\u0646\u064a\u0627"
     ],
@@ -131,7 +134,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.166667,
     "wd:longitude":19.483333,
@@ -146,9 +149,11 @@
     "wof:concordances":{
         "gn:id":3083112,
         "gp:id":522954,
-        "qs:id":34111,
-        "qs_pg:id":926323,
+        "qs_pg:id":34111,
         "wd:id":"Q686167"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":926323
     },
     "wof:country":"PL",
     "wof:geomhash":"64e3ed2bb74d35d1c5a8a0175c9f9c49",
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":101841591,
-    "wof:lastmodified":1563578024,
+    "wof:lastmodified":1566598287,
     "wof:name":"Trzebinia",
     "wof:parent_id":102079495,
     "wof:placetype":"locality",

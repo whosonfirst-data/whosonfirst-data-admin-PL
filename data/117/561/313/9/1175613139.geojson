@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.354065,
     "lbl:longitude":19.87753,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.354065,
     "mps:longitude":19.87753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sulej\u00f3w"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.352778,
     "wd:longitude":19.884722,
@@ -137,10 +140,12 @@
     "wof:concordances":{
         "gn:id":3084230,
         "gp:id":520910,
-        "qs:id":458840,
-        "qs_pg:id":1043128,
+        "qs_pg:id":458840,
         "wd:id":"Q1015172",
         "wk:page":"Sulej\u00f3w"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1043128
     },
     "wof:country":"PL",
     "wof:geomhash":"9696511ded5b81ef6244d4793da5b205",
@@ -154,7 +159,7 @@
         }
     ],
     "wof:id":1175613139,
-    "wof:lastmodified":1563576544,
+    "wof:lastmodified":1566597618,
     "wof:name":"Sulej\u00f3w",
     "wof:parent_id":102079783,
     "wof:placetype":"locality",

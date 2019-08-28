@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.312893,
     "lbl:longitude":19.069242,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.312893,
     "mps:longitude":19.069242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062c\u0644\u0627\u062c"
     ],
@@ -119,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u043b\u044f\u0434\u0437\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Czeladz Piaski"
     ],
     "name:vie_x_preferred":[
@@ -148,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":795,
     "wof:belongsto":[
@@ -161,9 +164,11 @@
     "wof:concordances":{
         "gn:id":3101057,
         "gp:id":490516,
-        "qs:id":1207106,
         "qs_pg:id":1056030,
         "wd:id":"Q161605"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1207106
     },
     "wof:country":"PL",
     "wof:geomhash":"98bd3e0d584874fef51ab78eff256bfc",
@@ -177,7 +182,7 @@
         }
     ],
     "wof:id":101756571,
-    "wof:lastmodified":1563577960,
+    "wof:lastmodified":1566598270,
     "wof:name":"Czelad\u017a",
     "wof:parent_id":102079571,
     "wof:placetype":"locality",

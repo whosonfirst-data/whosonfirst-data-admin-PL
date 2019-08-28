@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.233157,
     "lbl:longitude":18.539693,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.233157,
     "mps:longitude":18.539693,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "D\u0105browa"
     ],
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043c\u0431\u0440\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzia\u0142y"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":86,
     "wof:belongsto":[
         102191581,
@@ -69,10 +72,12 @@
     "wof:concordances":{
         "gn:id":773619,
         "gp:id":490908,
-        "qs:id":1056054,
         "qs_pg:id":295771,
         "wd:id":"Q679762",
         "wk:page":"D\u0105browa, Wielu\u0144 County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1056054
     },
     "wof:country":"PL",
     "wof:geomhash":"e3ded8c3522fa06edf91e869e9585e51",
@@ -86,7 +91,7 @@
         }
     ],
     "wof:id":101841803,
-    "wof:lastmodified":1563577995,
+    "wof:lastmodified":1566598280,
     "wof:name":"D\u0105browa",
     "wof:parent_id":102079729,
     "wof:placetype":"locality",

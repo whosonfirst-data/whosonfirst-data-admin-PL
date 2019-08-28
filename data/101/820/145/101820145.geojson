@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.865144,
     "lbl:longitude":20.868307,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.865144,
     "mps:longitude":20.868307,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Gr\u00f3jec"
     ],
@@ -136,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":153.0,
     "wd:latitude":51.865556,
@@ -152,10 +155,12 @@
     "wof:concordances":{
         "gn:id":771385,
         "gp:id":495323,
-        "qs:id":1254104,
         "qs_pg:id":297645,
         "wd:id":"Q391461",
         "wk:page":"Gr\u00f3jec"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1254104
     },
     "wof:country":"PL",
     "wof:geomhash":"e0f3133f8797c9b16d411cd9efc8159e",
@@ -169,7 +174,7 @@
         }
     ],
     "wof:id":101820145,
-    "wof:lastmodified":1563577374,
+    "wof:lastmodified":1566598132,
     "wof:name":"Gr\u00f3jec",
     "wof:parent_id":102079877,
     "wof:placetype":"locality",

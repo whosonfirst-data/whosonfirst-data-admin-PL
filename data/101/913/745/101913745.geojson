@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.027924,
     "lbl:longitude":18.588902,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":50.027924,
     "mps:longitude":18.588902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0628\u0646\u064a\u0643"
     ],
@@ -233,7 +236,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1795,
     "wof:belongsto":[
@@ -246,7 +249,7 @@
     "wof:concordances":{
         "gn:id":3086586,
         "gp:id":521253,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q107094",
         "wk:page":"Rybnik"
     },
@@ -262,7 +265,7 @@
         }
     ],
     "wof:id":101913745,
-    "wof:lastmodified":1563577917,
+    "wof:lastmodified":1566598257,
     "wof:name":"Rybnik",
     "wof:parent_id":102079443,
     "wof:placetype":"locality",

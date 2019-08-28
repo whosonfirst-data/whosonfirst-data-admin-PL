@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.737622,
     "lbl:longitude":14.703414,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.737622,
     "mps:longitude":14.703414,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "D\u0119bno"
     ],
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043c\u0431\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neudamm"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +116,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.733333,
     "wd:longitude":14.7,
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gn:id":3100545,
         "gp:id":24547778,
-        "qs:id":59464,
+        "qs_pg:id":59464,
         "wd:id":"Q335446",
         "wk:page":"D\u0119bno"
     },
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101820473,
-    "wof:lastmodified":1563577419,
+    "wof:lastmodified":1566598142,
     "wof:name":"D\u0119bno",
     "wof:parent_id":102080005,
     "wof:placetype":"locality",

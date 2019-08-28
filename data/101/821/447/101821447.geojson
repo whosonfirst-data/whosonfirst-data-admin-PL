@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.448956,
     "lbl:longitude":20.475347,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.448956,
     "mps:longitude":20.475347,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Drzewica"
     ],
@@ -109,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.446944,
     "wd:longitude":20.469167,
@@ -124,10 +127,12 @@
     "wof:concordances":{
         "gn:id":772914,
         "gp:id":492264,
-        "qs:id":335630,
-        "qs_pg:id":1319693,
+        "qs_pg:id":335630,
         "wd:id":"Q1005409",
         "wk:page":"Drzewica"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1319693
     },
     "wof:country":"PL",
     "wof:geomhash":"a6cb73975d2a7959c647cc18cc8fdd67",
@@ -141,7 +146,7 @@
         }
     ],
     "wof:id":101821447,
-    "wof:lastmodified":1563577580,
+    "wof:lastmodified":1566598178,
     "wof:name":"Drzewica",
     "wof:parent_id":102079785,
     "wof:placetype":"locality",

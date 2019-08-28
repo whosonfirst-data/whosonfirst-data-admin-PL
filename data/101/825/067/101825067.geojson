@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.38902,
     "lbl:longitude":18.350706,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.38902,
     "mps:longitude":18.350706,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Ujazd"
     ],
@@ -77,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u044f\u0437\u0434"
     ],
-    "name:unk_x_variant":[
-        "Ujest"
-    ],
     "name:vie_x_preferred":[
         "Ujazd"
     ],
@@ -101,7 +101,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.390556,
     "wd:longitude":18.354167,
@@ -116,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3082855,
         "gp:id":24548469,
-        "qs:id":59581,
+        "qs_pg:id":59581,
         "wd:id":"Q1005394",
         "wk:page":"Ujazd"
     },
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":101825067,
-    "wof:lastmodified":1563578297,
+    "wof:lastmodified":1566598369,
     "wof:name":"Ujazd",
     "wof:parent_id":102079587,
     "wof:placetype":"locality",

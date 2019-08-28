@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.84251,
     "lbl:longitude":19.802022,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.84251,
     "mps:longitude":19.802022,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Su\u0142kowice"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.837778,
     "wd:longitude":19.795556,
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":757783,
         "gp:id":520972,
-        "qs:id":1097032,
         "qs_pg:id":1011566,
         "wd:id":"Q1003272",
         "wk:page":"Su\u0142kowice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1097032
     },
     "wof:country":"PL",
     "wof:geomhash":"21760a374704fccddac118a015883e95",
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":101826167,
-    "wof:lastmodified":1563577818,
+    "wof:lastmodified":1566598233,
     "wof:name":"Su\u0142kowice",
     "wof:parent_id":102079441,
     "wof:placetype":"locality",

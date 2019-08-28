@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.807056,
     "lbl:longitude":18.089374,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.807056,
     "mps:longitude":18.089374,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Pako\u015b\u0107"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.805278,
     "wd:longitude":18.083889,
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":3089546,
         "gp:id":24547780,
-        "qs:id":1097001,
         "qs_pg:id":94552,
         "wd:id":"Q999632",
         "wk:page":"Pako\u015b\u0107"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1097001
     },
     "wof:country":"PL",
     "wof:geomhash":"79e3e6800463493c286b5bb0fa5c6e87",
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":101819005,
-    "wof:lastmodified":1563577790,
+    "wof:lastmodified":1566598226,
     "wof:name":"Pako\u015b\u0107",
     "wof:parent_id":102080013,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.921171,
     "lbl:longitude":17.647132,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.921171,
     "mps:longitude":17.647132,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kotlin"
     ],
@@ -66,7 +69,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":57,
     "wof:belongsto":[
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gn:id":3095013,
         "gp:id":12618836,
-        "qs:id":342031,
+        "qs_pg:id":342031,
         "wd:id":"Q439574"
     },
     "wof:country":"PL",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101821647,
-    "wof:lastmodified":1563577641,
+    "wof:lastmodified":1566598192,
     "wof:name":"Kotlin",
     "wof:parent_id":102079857,
     "wof:placetype":"locality",

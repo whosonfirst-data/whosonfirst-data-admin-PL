@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.058568,
     "lbl:longitude":18.421268,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.058568,
     "mps:longitude":18.421268,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "G\u00f3rsk"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         102191581,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3098786,
         "gp:id":494466,
-        "qs:id":925658,
+        "qs_pg:id":925658,
         "wd:id":"Q2858600",
         "wk:page":"G\u00f3rsk"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101819113,
-    "wof:lastmodified":1563577807,
+    "wof:lastmodified":1566598231,
     "wof:name":"G\u00f3rsk",
     "wof:parent_id":102080063,
     "wof:placetype":"locality",

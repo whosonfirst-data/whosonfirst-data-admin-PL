@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.968961,
     "lbl:longitude":20.608915,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.968961,
     "mps:longitude":20.608915,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Brzesko"
     ],
@@ -104,7 +107,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0436\u0435\u0441\u044c\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Briegel"
     ],
     "name:urd_x_preferred":[
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.966667,
     "wd:longitude":20.616667,
@@ -154,7 +157,6 @@
     "wof:concordances":{
         "gn:id":775183,
         "gp:id":487978,
-        "qs:id":1055899,
         "qs_pg:id":1055899,
         "wd:id":"Q324884",
         "wk:page":"Brzesko"
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":101825185,
-    "wof:lastmodified":1563578300,
+    "wof:lastmodified":1566598370,
     "wof:name":"Brzesko",
     "wof:parent_id":102079517,
     "wof:placetype":"locality",

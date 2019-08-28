@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.809073,
     "lbl:longitude":15.243334,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.809073,
     "mps:longitude":15.243334,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043c\u0456\u043d\u0430 \u041d\u0430\u0432\u043e\u0433\u0440\u0443\u0434 \u0411\u0430\u0431\u0436\u0430\u043d\u044c\u0441\u043a\u0456"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u043c\u0456\u043d\u0430 \u041d\u043e\u0432\u043e\u0491\u0440\u0443\u0434-\u0411\u043e\u0431\u0436\u0430\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naumburg am Bober"
     ],
     "name:war_x_preferred":[
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":203,
     "wof:belongsto":[
@@ -91,7 +94,7 @@
     "wof:concordances":{
         "gn:id":3090553,
         "gp:id":24547817,
-        "qs:id":907750,
+        "qs_pg:id":907750,
         "wd:id":"Q2325774",
         "wk:page":"Gmina Nowogr\u00f3d Bobrza\u0144ski"
     },
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101821619,
-    "wof:lastmodified":1563577585,
+    "wof:lastmodified":1566598180,
     "wof:name":"Nowogr\u00f3d Bobrza\u0144ski",
     "wof:parent_id":102079851,
     "wof:placetype":"locality",

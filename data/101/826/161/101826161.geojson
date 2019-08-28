@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.564924,
     "lbl:longitude":22.19934,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.564924,
     "mps:longitude":22.19934,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u0648\u0643"
     ],
@@ -167,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u044f\u043d\u0456\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sunok"
     ],
     "name:vie_x_preferred":[
@@ -203,7 +206,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2755,
     "wof:belongsto":[
@@ -216,7 +219,6 @@
     "wof:concordances":{
         "gn:id":759591,
         "gp:id":517369,
-        "qs:id":1057438,
         "qs_pg:id":1057438,
         "wd:id":"Q201729",
         "wk:page":"Sanok"
@@ -233,7 +235,7 @@
         }
     ],
     "wof:id":101826161,
-    "wof:lastmodified":1563577815,
+    "wof:lastmodified":1566598233,
     "wof:name":"Sanok",
     "wof:parent_id":102079437,
     "wof:placetype":"locality",

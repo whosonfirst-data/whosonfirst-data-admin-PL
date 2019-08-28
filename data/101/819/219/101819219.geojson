@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.184389,
     "lbl:longitude":20.254779,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.184389,
     "mps:longitude":20.254779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Narzym"
     ],
@@ -62,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":96,
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":764105,
         "gp:id":508759,
-        "qs:id":303077,
+        "qs_pg:id":303077,
         "wd:id":"Q382784",
         "wk:page":"Narzym"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101819219,
-    "wof:lastmodified":1563577704,
+    "wof:lastmodified":1566598207,
     "wof:name":"Narzym",
     "wof:parent_id":102080111,
     "wof:placetype":"locality",

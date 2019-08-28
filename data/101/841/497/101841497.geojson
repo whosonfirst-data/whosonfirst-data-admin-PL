@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.879744,
     "lbl:longitude":19.497743,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.879744,
     "mps:longitude":19.497743,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Wadowice"
     ],
@@ -194,7 +197,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.883333,
     "wd:longitude":19.5,
@@ -209,7 +212,7 @@
     "wof:concordances":{
         "gn:id":3082722,
         "gp:id":12591268,
-        "qs:id":953684,
+        "qs_pg:id":953684,
         "wd:id":"Q212856",
         "wk:page":"Wadowice"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":101841497,
-    "wof:lastmodified":1563577995,
+    "wof:lastmodified":1566598280,
     "wof:name":"Wadowice",
     "wof:parent_id":102079451,
     "wof:placetype":"locality",

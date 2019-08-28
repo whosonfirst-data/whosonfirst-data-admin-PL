@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.838493,
     "lbl:longitude":19.225625,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.838493,
     "mps:longitude":19.225625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Jaskr\u00f3w"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
         102191581,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3097430,
         "gp:id":497146,
-        "qs:id":1138092,
+        "qs_pg:id":1138092,
         "wd:id":"Q6161647",
         "wk:page":"Jaskr\u00f3w"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101823887,
-    "wof:lastmodified":1563578111,
+    "wof:lastmodified":1566598314,
     "wof:name":"Jaskr\u00f3w",
     "wof:parent_id":102079663,
     "wof:placetype":"locality",

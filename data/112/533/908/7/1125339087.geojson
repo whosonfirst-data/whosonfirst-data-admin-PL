@@ -9,15 +9,18 @@
     "geom:bbox":"22.85287,51.49416,22.85287,51.49416",
     "geom:latitude":51.49416,
     "geom:longitude":22.85287,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":2206,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":2206,
     "iso:country":"PL",
+    "lbl:bbox":"22.75287,51.39416,22.95287,51.59416",
     "lbl:latitude":51.49416,
     "lbl:longitude":22.85287,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Ostr\u00f3w Lubelski"
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u0456\u0432-\u041b\u044e\u0431\u0435\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ostr\u00f3w"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24548421,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1125339087,
-    "wof:lastmodified":1564211655,
+    "wof:lastmodified":1566598559,
     "wof:name":"Ostr\u00f3w Lubelski",
     "wof:parent_id":102079855,
     "wof:placetype":"localadmin",

@@ -9,15 +9,18 @@
     "geom:bbox":"19.32461,50.5752,19.32461,50.5752",
     "geom:latitude":50.5752,
     "geom:longitude":19.32461,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":33273,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":33273,
     "iso:country":"PL",
+    "lbl:bbox":"19.22461,50.4752,19.42461,50.6752",
     "lbl:latitude":50.5752,
     "lbl:longitude":19.32461,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u0645\u0634\u06a9\u0648\u0648"
@@ -100,7 +103,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0448\u043a\u0443\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myszk\u00f3w Nowy"
     ],
     "name:vie_x_preferred":[
@@ -133,7 +136,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":12617335,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":1125297337,
-    "wof:lastmodified":1564211980,
+    "wof:lastmodified":1566598772,
     "wof:name":"Myszk\u00f3w",
     "wof:parent_id":102079605,
     "wof:placetype":"localadmin",

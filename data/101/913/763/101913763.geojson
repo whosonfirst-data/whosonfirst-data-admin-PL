@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.877352,
     "lbl:longitude":19.088041,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.877352,
     "mps:longitude":19.088041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Cz\u0119stochowa"
     ],
@@ -338,7 +341,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u043d\u0441\u0442\u043e\u0445\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chenstokhov"
     ],
     "name:urd_x_preferred":[
@@ -395,7 +398,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":7759,
     "wof:belongsto":[
@@ -408,7 +411,7 @@
     "wof:concordances":{
         "gn:id":3100946,
         "gp:id":525625,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q103217",
         "wk:page":"Cz\u0119stochowa"
     },
@@ -424,7 +427,7 @@
         }
     ],
     "wof:id":101913763,
-    "wof:lastmodified":1563577863,
+    "wof:lastmodified":1566598247,
     "wof:name":"Cz\u0119stochowa",
     "wof:parent_id":102079663,
     "wof:placetype":"locality",

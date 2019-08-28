@@ -13,6 +13,8 @@
     "iso:country":"PL",
     "lbl:latitude":53.482105,
     "lbl:longitude":18.756298,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":53.482105,
     "mps:longitude":18.756298,
     "mz:hierarchy_label":1,
@@ -220,9 +222,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0443\u0434\u0437\u044c\u043e\u043d\u0434\u0437"
     ],
-    "name:unk_x_variant":[
-        "Graudenz"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0631\u0648\u062f\u0632\u06cc\u062f\u0632"
     ],
@@ -345,7 +344,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":4440,
     "wof:belongsto":[
@@ -359,7 +358,6 @@
         "fct:id":"023e8ed4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3098218,
         "gp:id":495423,
-        "qs:id":274256,
         "qs_pg:id":274256,
         "wd:id":"Q123511",
         "wk:page":"Grudzi\u0105dz"
@@ -379,7 +377,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1563577263,
+    "wof:lastmodified":1566598102,
     "wof:name":"Grudzi\u0105dz",
     "wof:parent_id":102080105,
     "wof:placetype":"locality",

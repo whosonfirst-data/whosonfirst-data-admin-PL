@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.375759,
     "lbl:longitude":21.964177,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.375759,
     "mps:longitude":21.964177,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0644\u06cc\u0648"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":152,
     "wof:belongsto":[
         102191581,
@@ -102,10 +105,12 @@
     "wof:concordances":{
         "gn:id":766090,
         "gp:id":505074,
-        "qs:id":52060,
-        "qs_pg:id":1078882,
+        "qs_pg:id":52060,
         "wd:id":"Q1982871",
         "wk:page":"Gmina Liw"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078882
     },
     "wof:country":"PL",
     "wof:geomhash":"ae34c416586e89a77e52207ab7d40fe5",
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":101913073,
-    "wof:lastmodified":1563577900,
+    "wof:lastmodified":1566598254,
     "wof:name":"Liw",
     "wof:parent_id":102080015,
     "wof:placetype":"locality",

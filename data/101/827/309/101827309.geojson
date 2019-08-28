@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.85537,
     "lbl:longitude":18.884784,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.85537,
     "mps:longitude":18.884784,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Rudzica"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":926,
     "wof:belongsto":[
         102191581,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":3086728,
         "gp:id":516570,
-        "qs:id":306344,
+        "qs_pg:id":306344,
         "wd:id":"Q7377734",
         "wk:page":"Rudzica, Silesian Voivodeship"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101827309,
-    "wof:lastmodified":1563577293,
+    "wof:lastmodified":1566598109,
     "wof:name":"Rudzica",
     "wof:parent_id":102079427,
     "wof:placetype":"locality",

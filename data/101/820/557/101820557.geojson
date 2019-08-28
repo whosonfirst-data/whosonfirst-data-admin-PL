@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.279777,
     "lbl:longitude":15.317749,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.279777,
     "mps:longitude":15.317749,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sucha\u0144"
     ],
@@ -81,7 +84,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0445\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zachan"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +105,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.278611,
     "wd:longitude":15.324722,
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gn:id":3084289,
         "gp:id":24547713,
-        "qs:id":206254,
+        "qs_pg:id":206254,
         "wd:id":"Q1021286",
         "wk:page":"Sucha\u0144"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":101820557,
-    "wof:lastmodified":1563577329,
+    "wof:lastmodified":1566598122,
     "wof:name":"Sucha\u0144",
     "wof:parent_id":102080083,
     "wof:placetype":"locality",

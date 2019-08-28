@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.987509,
     "lbl:longitude":20.05598,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.987509,
     "mps:longitude":20.05598,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Wieliczka"
     ],
@@ -320,7 +323,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":49.989444,
     "wd:longitude":20.066111,
@@ -336,7 +339,7 @@
     "wof:concordances":{
         "gn:id":755889,
         "gp:id":12591269,
-        "qs:id":885514,
+        "qs_pg:id":885514,
         "wd:id":"Q472621",
         "wk:page":"Wieliczka"
     },
@@ -352,7 +355,7 @@
         }
     ],
     "wof:id":101756065,
-    "wof:lastmodified":1563577932,
+    "wof:lastmodified":1566598262,
     "wof:name":"Wieliczka",
     "wof:parent_id":102079479,
     "wof:placetype":"locality",

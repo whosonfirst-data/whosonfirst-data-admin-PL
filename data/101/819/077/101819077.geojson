@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.263173,
     "lbl:longitude":15.549514,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.263173,
     "mps:longitude":15.549514,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Recz"
     ],
@@ -89,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reetz"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +116,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.262222,
     "wd:longitude":15.547222,
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gn:id":3087287,
         "gp:id":24547987,
-        "qs:id":1073120,
+        "qs_pg:id":1073120,
         "wd:id":"Q989432",
         "wk:page":"Recz"
     },
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101819077,
-    "wof:lastmodified":1563577700,
+    "wof:lastmodified":1566598206,
     "wof:name":"Recz",
     "wof:parent_id":102080049,
     "wof:placetype":"locality",

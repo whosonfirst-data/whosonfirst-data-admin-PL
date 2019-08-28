@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.339028,
     "lbl:longitude":20.004133,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.339028,
     "mps:longitude":20.004133,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Poronin"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -86,10 +89,12 @@
     "wof:concordances":{
         "gn:id":761437,
         "gp:id":513865,
-        "qs:id":1190585,
         "qs_pg:id":315664,
         "wd:id":"Q763079",
         "wk:page":"Poronin"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1190585
     },
     "wof:country":"PL",
     "wof:geomhash":"4f7b7006af53e8c9516dee9f3446cc41",
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":101842283,
-    "wof:lastmodified":1563577476,
+    "wof:lastmodified":1566598154,
     "wof:name":"Poronin",
     "wof:parent_id":102079405,
     "wof:placetype":"locality",

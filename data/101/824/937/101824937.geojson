@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.321217,
     "lbl:longitude":17.576254,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.321217,
     "mps:longitude":17.576254,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Prudnik"
     ],
@@ -137,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0443\u0434\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neustadt in Oberschlesien"
     ],
     "name:vie_x_preferred":[
@@ -166,7 +169,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":265.0,
     "wd:latitude":50.322778,
@@ -182,7 +185,6 @@
     "wof:concordances":{
         "gn:id":3088065,
         "gp:id":514207,
-        "qs:id":236173,
         "qs_pg:id":236173,
         "wd:id":"Q986984",
         "wk:page":"Prudnik"
@@ -199,7 +201,7 @@
         }
     ],
     "wof:id":101824937,
-    "wof:lastmodified":1563578204,
+    "wof:lastmodified":1566598342,
     "wof:name":"Prudnik",
     "wof:parent_id":102079549,
     "wof:placetype":"locality",

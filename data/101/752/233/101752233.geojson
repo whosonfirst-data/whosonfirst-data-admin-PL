@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.532689,
     "lbl:longitude":17.599834,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.532689,
     "mps:longitude":17.599834,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:als_x_preferred":[
         "Gnesen"
     ],
@@ -230,7 +233,7 @@
     "name:ukr_x_variant":[
         "\u0413\u043d\u0454\u0437\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gnezno"
     ],
     "name:vie_x_preferred":[
@@ -268,7 +271,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1490,
     "wof:belongsto":[
@@ -281,7 +284,6 @@
     "wof:concordances":{
         "gn:id":3099112,
         "gp:id":493932,
-        "qs:id":145600,
         "qs_pg:id":145600,
         "wd:id":"Q51432",
         "wk:page":"Gniezno"
@@ -298,7 +300,7 @@
         }
     ],
     "wof:id":101752233,
-    "wof:lastmodified":1563577215,
+    "wof:lastmodified":1566598094,
     "wof:name":"Gniezno",
     "wof:parent_id":102079967,
     "wof:placetype":"locality",

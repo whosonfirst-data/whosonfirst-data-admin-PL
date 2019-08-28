@@ -9,15 +9,18 @@
     "geom:bbox":"18.80722,49.88944,18.80722,49.88944",
     "geom:latitude":49.88944,
     "geom:longitude":18.80722,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3541,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
     "gn:population":3541,
     "iso:country":"PL",
+    "lbl:bbox":"18.78722,49.86944,18.82722,49.90944",
     "lbl:latitude":49.88944,
     "lbl:longitude":18.80722,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Mnich"
@@ -43,9 +46,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043d\u0456\u0445"
     ],
-    "name:unk_x_variant":[
-        "Mnich"
-    ],
     "qs_pg:aaroncc":"PL",
     "qs_pg:gn_country":"PL",
     "qs_pg:gn_fcode":"PPL",
@@ -63,7 +63,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24937757,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1126050861,
-    "wof:lastmodified":1563578956,
+    "wof:lastmodified":1566598662,
     "wof:name":"Mnichus",
     "wof:parent_id":102079421,
     "wof:placetype":"locality",

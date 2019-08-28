@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.594156,
     "lbl:longitude":15.501808,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.594156,
     "mps:longitude":15.501808,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Skwierzyna"
     ],
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u0432\u0435\u0436\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schwerin"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.6,
     "wd:longitude":15.5,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":3085656,
         "gp:id":24548816,
-        "qs:id":145569,
+        "qs_pg:id":145569,
         "wd:id":"Q994585",
         "wk:page":"Skwierzyna"
     },
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101820309,
-    "wof:lastmodified":1563577322,
+    "wof:lastmodified":1566598119,
     "wof:name":"Skwierzyna",
     "wof:parent_id":102079947,
     "wof:placetype":"locality",

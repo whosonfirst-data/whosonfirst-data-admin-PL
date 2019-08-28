@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.002103,
     "lbl:longitude":20.618242,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.002103,
     "mps:longitude":20.618242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Mokrzyska"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":764451,
         "gp:id":508121,
-        "qs:id":302793,
+        "qs_pg:id":302793,
         "wd:id":"Q2433607",
         "wk:page":"Mokrzyska"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101826239,
-    "wof:lastmodified":1563577847,
+    "wof:lastmodified":1566598242,
     "wof:name":"Mokrzyska",
     "wof:parent_id":102079517,
     "wof:placetype":"locality",

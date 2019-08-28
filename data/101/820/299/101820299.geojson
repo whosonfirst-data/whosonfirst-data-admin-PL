@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.246027,
     "lbl:longitude":18.091199,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.246027,
     "mps:longitude":18.091199,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Golina"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.246667,
     "wd:longitude":18.095278,
@@ -112,10 +115,12 @@
     "wof:concordances":{
         "gn:id":3098951,
         "gp:id":494173,
-        "qs:id":59511,
-        "qs_pg:id":927569,
+        "qs_pg:id":59511,
         "wd:id":"Q1192513",
         "wk:page":"Golina"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":927569
     },
     "wof:country":"PL",
     "wof:geomhash":"e718b89bf8370b929b4e0b2b3b594ba2",
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":101820299,
-    "wof:lastmodified":1563577441,
+    "wof:lastmodified":1566598146,
     "wof:name":"Golina",
     "wof:parent_id":102079943,
     "wof:placetype":"locality",

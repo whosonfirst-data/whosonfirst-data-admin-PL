@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.949259,
     "lbl:longitude":14.729779,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.949259,
     "mps:longitude":14.729779,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u0443\u0431\u0456\u043d"
     ],
@@ -110,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0443\u0431\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guben"
     ],
     "name:vie_x_preferred":[
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":390,
     "wof:belongsto":[
@@ -152,10 +155,12 @@
     "wof:concordances":{
         "gn:id":3098129,
         "gp:id":655675,
-        "qs:id":962336,
-        "qs_pg:id":1157268,
+        "qs_pg:id":962336,
         "wd:id":"Q312061",
         "wk:page":"Gubin, Poland"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1157268
     },
     "wof:country":"PL",
     "wof:geomhash":"acf064b1c6af9fc43318ce030f3c71cc",
@@ -169,7 +174,7 @@
         }
     ],
     "wof:id":101913685,
-    "wof:lastmodified":1563577901,
+    "wof:lastmodified":1566598255,
     "wof:name":"Gubin",
     "wof:parent_id":102079843,
     "wof:placetype":"locality",

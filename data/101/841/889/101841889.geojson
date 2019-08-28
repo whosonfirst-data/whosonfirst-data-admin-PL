@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.420313,
     "lbl:longitude":21.179957,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.420313,
     "mps:longitude":21.179957,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Radzymin"
     ],
@@ -128,7 +131,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.416667,
     "wd:longitude":21.183333,
@@ -143,7 +146,7 @@
     "wof:concordances":{
         "gn:id":760684,
         "gp:id":24548284,
-        "qs:id":467723,
+        "qs_pg:id":467723,
         "wd:id":"Q609246",
         "wk:page":"Radzymin"
     },
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101841889,
-    "wof:lastmodified":1563577983,
+    "wof:lastmodified":1566598276,
     "wof:name":"Radzymin",
     "wof:parent_id":102079995,
     "wof:placetype":"locality",

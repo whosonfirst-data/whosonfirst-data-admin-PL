@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.966716,
     "lbl:longitude":22.026464,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.966716,
     "mps:longitude":22.026464,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Tyczyn"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.966667,
     "wd:longitude":22.033333,
@@ -127,9 +130,11 @@
     "wof:concordances":{
         "gn:id":3082912,
         "gp:id":523323,
-        "qs:id":1019768,
         "qs_pg:id":309291,
         "wd:id":"Q1946067"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1019768
     },
     "wof:country":"PL",
     "wof:geomhash":"0c047988be0fc0b83d5ce24789422547",
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":101756085,
-    "wof:lastmodified":1563577930,
+    "wof:lastmodified":1566598262,
     "wof:name":"Tyczyn",
     "wof:parent_id":102079585,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.776925,
     "lbl:longitude":22.650771,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":49.776925,
     "mps:longitude":22.650771,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Krasiczyn"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":214,
     "wof:belongsto":[
@@ -98,10 +101,12 @@
     "wof:concordances":{
         "gn:id":767673,
         "gp:id":502106,
-        "qs:id":1190586,
         "qs_pg:id":1078884,
         "wd:id":"Q2753756",
         "wk:page":"Krasiczyn"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1190586
     },
     "wof:country":"PL",
     "wof:geomhash":"5fa3c50e960f0980592aa73fd70aeb9f",
@@ -115,7 +120,7 @@
         }
     ],
     "wof:id":101913153,
-    "wof:lastmodified":1563577890,
+    "wof:lastmodified":1566598253,
     "wof:name":"Krasiczyn",
     "wof:parent_id":102079513,
     "wof:placetype":"locality",

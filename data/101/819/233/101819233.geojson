@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.259485,
     "lbl:longitude":20.898395,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.259485,
     "mps:longitude":20.898395,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Chorzele"
     ],
@@ -101,7 +104,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.25,
     "wd:longitude":20.9,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":774387,
         "gp:id":24548249,
-        "qs:id":435502,
+        "qs_pg:id":435502,
         "wd:id":"Q991962",
         "wk:page":"Chorzele"
     },
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101819233,
-    "wof:lastmodified":1563577725,
+    "wof:lastmodified":1566598212,
     "wof:name":"Chorzele",
     "wof:parent_id":102080117,
     "wof:placetype":"locality",

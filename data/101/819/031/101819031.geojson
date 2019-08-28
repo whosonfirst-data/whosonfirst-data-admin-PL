@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.041468,
     "lbl:longitude":16.465022,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.041468,
     "mps:longitude":16.465022,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Trzcianka"
     ],
@@ -233,7 +236,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0448\u0446\u044f\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sch\u00f6nlanke"
     ],
     "name:urd_x_preferred":[
@@ -281,7 +284,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.05,
     "wd:longitude":16.466667,
@@ -296,7 +299,7 @@
     "wof:concordances":{
         "gn:id":3083185,
         "gp:id":24548117,
-        "qs:id":206279,
+        "qs_pg:id":206279,
         "wd:id":"Q934785",
         "wk:page":"Trzcianka"
     },
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":101819031,
-    "wof:lastmodified":1563577716,
+    "wof:lastmodified":1566598211,
     "wof:name":"Trzcianka",
     "wof:parent_id":102080029,
     "wof:placetype":"locality",

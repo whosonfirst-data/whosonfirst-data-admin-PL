@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.895857,
     "lbl:longitude":22.953275,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.895857,
     "mps:longitude":22.953275,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Stubno"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":757948,
         "gp:id":12617287,
-        "qs:id":1015823,
+        "qs_pg:id":1015823,
         "wd:id":"Q3331113",
         "wk:page":"Stubno"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101826235,
-    "wof:lastmodified":1563577825,
+    "wof:lastmodified":1566598236,
     "wof:name":"Stubno",
     "wof:parent_id":102079513,
     "wof:placetype":"locality",

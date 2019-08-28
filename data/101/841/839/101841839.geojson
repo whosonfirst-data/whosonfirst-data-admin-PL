@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.782296,
     "lbl:longitude":22.625458,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.782296,
     "mps:longitude":22.625458,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0430\u0434\u0437\u044b\u043d\u044c \u041f\u0430\u0434\u043b\u044f\u0441\u043a\u0456"
     ],
@@ -113,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u0438\u043d\u044c-\u041f\u0456\u0434\u043b\u044f\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Radzy\u0144"
     ],
     "name:vie_x_preferred":[
@@ -140,7 +143,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.782778,
     "wd:longitude":22.624167,
@@ -155,7 +158,7 @@
     "wof:concordances":{
         "gn:id":760680,
         "gp:id":24548587,
-        "qs:id":236453,
+        "qs_pg:id":236453,
         "wd:id":"Q983866",
         "wk:page":"Radzy\u0144 Podlaski"
     },
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101841839,
-    "wof:lastmodified":1563578048,
+    "wof:lastmodified":1566598293,
     "wof:name":"Radzy\u0144 Podlaski",
     "wof:parent_id":102079905,
     "wof:placetype":"locality",

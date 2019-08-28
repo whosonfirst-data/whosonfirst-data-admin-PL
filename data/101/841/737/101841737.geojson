@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.467279,
     "lbl:longitude":20.719308,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.467279,
     "mps:longitude":20.719308,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Busko-Zdr\u00f3j"
     ],
@@ -113,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0441\u044c\u043a\u043e-\u0417\u0434\u0440\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Busk"
     ],
     "name:vie_x_preferred":[
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.466667,
     "wd:longitude":20.716667,
@@ -157,7 +160,6 @@
     "wof:concordances":{
         "gn:id":774747,
         "gp:id":488771,
-        "qs:id":1030240,
         "qs_pg:id":1030240,
         "wd:id":"Q256782",
         "wk:page":"Busko-Zdr\u00f3j"
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":101841737,
-    "wof:lastmodified":1563577970,
+    "wof:lastmodified":1566598273,
     "wof:name":"Busko-Zdr\u00f3j",
     "wof:parent_id":102079615,
     "wof:placetype":"locality",

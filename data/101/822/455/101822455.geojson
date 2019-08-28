@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.090805,
     "lbl:longitude":21.662653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.090805,
     "mps:longitude":21.662653,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Borek Wielki"
     ],
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0435\u043a-\u0412\u0435\u043b\u0438\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Borek"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":97,
     "wof:belongsto":[
         102191581,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":775578,
         "gp:id":487180,
-        "qs:id":294229,
+        "qs_pg:id":294229,
         "wd:id":"Q2108750",
         "wk:page":"Borek Wielki"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101822455,
-    "wof:lastmodified":1563578337,
+    "wof:lastmodified":1566598381,
     "wof:name":"Borek Wielki",
     "wof:parent_id":102079547,
     "wof:placetype":"locality",

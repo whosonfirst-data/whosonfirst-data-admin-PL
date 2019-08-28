@@ -9,15 +9,18 @@
     "geom:bbox":"16.69937,53.70791,16.69937,53.70791",
     "geom:latitude":53.70791,
     "geom:longitude":16.69937,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":38496,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":38496,
     "iso:country":"PL",
+    "lbl:bbox":"16.59937,53.60791,16.79937,53.80791",
     "lbl:latitude":53.70791,
     "lbl:longitude":16.69937,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u0447\u0430\u0446\u0456\u043d\u0430\u043a"
@@ -109,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u0429\u0435\u0446\u0438\u043d\u0435\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neustettin"
     ],
     "name:vie_x_preferred":[
@@ -142,7 +145,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24547925,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1125295943,
-    "wof:lastmodified":1564211951,
+    "wof:lastmodified":1566598762,
     "wof:name":"Szczecinek",
     "wof:parent_id":102080155,
     "wof:placetype":"localadmin",

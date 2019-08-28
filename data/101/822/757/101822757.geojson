@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.439012,
     "lbl:longitude":22.249077,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.439012,
     "mps:longitude":22.249077,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Rudnik nad Sanem"
     ],
@@ -107,7 +110,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.443889,
     "wd:longitude":22.240833,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":760055,
         "gp:id":12618360,
-        "qs:id":24200,
+        "qs_pg:id":24200,
         "wd:id":"Q1028027",
         "wk:page":"Rudnik nad Sanem"
     },
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101822757,
-    "wof:lastmodified":1563578370,
+    "wof:lastmodified":1566598391,
     "wof:name":"Rudnik nad Sanem",
     "wof:parent_id":102079639,
     "wof:placetype":"locality",

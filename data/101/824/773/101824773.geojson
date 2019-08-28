@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.983294,
     "lbl:longitude":19.147295,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.983294,
     "mps:longitude":19.147295,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Brzeszcze"
     ],
@@ -99,7 +102,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0436\u0435\u0449\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bresha"
     ],
     "name:urd_x_preferred":[
@@ -128,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.0,
     "wd:longitude":19.15,
@@ -143,7 +146,6 @@
     "wof:concordances":{
         "gn:id":3102444,
         "gp:id":487981,
-        "qs:id":1342895,
         "qs_pg:id":1342895,
         "wd:id":"Q916514",
         "wk:page":"Brzeszcze"
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101824773,
-    "wof:lastmodified":1563578260,
+    "wof:lastmodified":1566598357,
     "wof:name":"Brzeszcze",
     "wof:parent_id":102079465,
     "wof:placetype":"locality",

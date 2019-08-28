@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.648955,
     "lbl:longitude":20.791254,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.648955,
     "mps:longitude":20.791254,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Pasym"
     ],
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0441\u0438\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Passenheim"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +101,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.647778,
     "wd:longitude":20.790833,
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gn:id":762588,
         "gp:id":12618624,
-        "qs:id":1099649,
+        "qs_pg:id":1099649,
         "wd:id":"Q1005483",
         "wk:page":"Pasym"
     },
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101817583,
-    "wof:lastmodified":1563577558,
+    "wof:lastmodified":1566598172,
     "wof:name":"Pasym",
     "wof:parent_id":102080167,
     "wof:placetype":"locality",

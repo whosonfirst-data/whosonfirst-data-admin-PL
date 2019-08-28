@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.078482,
     "lbl:longitude":21.102982,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.078482,
     "mps:longitude":21.102982,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Konstancin-Jeziorna"
     ],
@@ -110,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0446\u0438\u043d-\u0404\u0437\u044c\u043e\u0440\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Skolim\u00f3w-Konstancin"
     ],
     "name:vie_x_preferred":[
@@ -136,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.083333,
     "wd:longitude":21.116667,
@@ -151,10 +154,12 @@
     "wof:concordances":{
         "gn:id":768216,
         "gp:id":501124,
-        "qs:id":1316332,
         "qs_pg:id":308699,
         "wd:id":"Q985687",
         "wk:page":"Konstancin-Jeziorna"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1316332
     },
     "wof:country":"PL",
     "wof:geomhash":"12bfcd36829531f00205ab0727a7178e",
@@ -168,7 +173,7 @@
         }
     ],
     "wof:id":101841851,
-    "wof:lastmodified":1563577998,
+    "wof:lastmodified":1566598280,
     "wof:name":"Konstancin-Jeziorna",
     "wof:parent_id":102079911,
     "wof:placetype":"locality",

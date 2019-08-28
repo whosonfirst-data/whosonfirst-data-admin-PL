@@ -11,12 +11,16 @@
     "geom:longitude":21.892452,
     "gn:population":1334,
     "iso:country":"PL",
+    "lbl:bbox":"21.872452,50.613606,21.912452,50.653606",
     "lbl:latitude":50.633606,
     "lbl:longitude":21.892452,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.633606,
     "mps:longitude":21.892452,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "K\u0119pie Zalesza\u0144skie"
     ],
@@ -35,7 +39,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043c\u043f\u0435-\u0417\u0430\u043b\u0435\u0448\u0430\u043d\u0441\u044c\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u0119pie"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -59,7 +63,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -72,10 +76,12 @@
     "wof:concordances":{
         "gn:id":769285,
         "gp:id":499095,
-        "qs:id":1,
-        "qs_pg:id":299159,
+        "qs_pg:id":1,
         "wd:id":"Q6454546",
         "wk:page":"K\u0119pie Zalesza\u0144skie"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":299159
     },
     "wof:country":"PL",
     "wof:geomhash":"02f1edff7b4a445ab2b5eebdf031fa86",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":101864663,
-    "wof:lastmodified":1563578426,
+    "wof:lastmodified":1566598406,
     "wof:name":"K\u0119pie Zalesza\u0144skie",
     "wof:parent_id":102079669,
     "wof:placetype":"locality",

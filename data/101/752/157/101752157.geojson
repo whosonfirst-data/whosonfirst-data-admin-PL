@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.450165,
     "lbl:longitude":18.862943,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.450165,
     "mps:longitude":18.862943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Tarnowskie G\u00f3ry"
     ],
@@ -211,7 +214,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":4064,
     "wof:belongsto":[
@@ -224,9 +227,11 @@
     "wof:concordances":{
         "gn:id":3083440,
         "gp:id":522346,
-        "qs:id":847920,
-        "qs_pg:id":1060326,
+        "qs_pg:id":847920,
         "wd:id":"Q329833"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060326
     },
     "wof:country":"PL",
     "wof:geomhash":"f9979b22fecaeab1d316e20cdea18f36",
@@ -240,7 +245,7 @@
         }
     ],
     "wof:id":101752157,
-    "wof:lastmodified":1563577185,
+    "wof:lastmodified":1566598087,
     "wof:name":"Tarnowskie G\u00f3ry",
     "wof:parent_id":102079581,
     "wof:placetype":"locality",

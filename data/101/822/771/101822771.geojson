@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.015449,
     "lbl:longitude":15.673968,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.015449,
     "mps:longitude":15.673968,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0648\u0644\u0646\u0642"
     ],
@@ -68,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u043c\u0456\u043d\u0430 \u0412\u043b\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u00e4hn"
     ],
     "name:war_x_preferred":[
@@ -90,7 +93,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":140,
     "wof:belongsto":[
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3081748,
         "gp:id":24547656,
-        "qs:id":1200404,
+        "qs_pg:id":1200404,
         "wd:id":"Q2328035",
         "wk:page":"Gmina Wle\u0144"
     },
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101822771,
-    "wof:lastmodified":1563578351,
+    "wof:lastmodified":1566598385,
     "wof:name":"Wle\u0144",
     "wof:parent_id":102079649,
     "wof:placetype":"locality",

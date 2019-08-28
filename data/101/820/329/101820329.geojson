@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.406532,
     "lbl:longitude":17.082875,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.406532,
     "mps:longitude":17.082875,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0627\u0631\u062c\u062f\u062c"
     ],
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.408333,
     "wd:longitude":17.071389,
@@ -160,10 +163,12 @@
     "wof:concordances":{
         "gn:id":3084130,
         "gp:id":521090,
-        "qs:id":192533,
-        "qs_pg:id":1074994,
+        "qs_pg:id":192533,
         "wd:id":"Q50991",
         "wk:page":"Swarz\u0119dz"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074994
     },
     "wof:country":"PL",
     "wof:geomhash":"de5904447ade7c7058396793b00d99f9",
@@ -177,7 +182,7 @@
         }
     ],
     "wof:id":101820329,
-    "wof:lastmodified":1563577445,
+    "wof:lastmodified":1566598147,
     "wof:name":"Swarz\u0119dz",
     "wof:parent_id":102079955,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.964849,
     "lbl:longitude":19.705904,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.964849,
     "mps:longitude":19.705904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0642\u0648\u0648\u0646\u0648"
     ],
@@ -122,7 +125,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1829,
     "wof:belongsto":[
@@ -135,7 +138,7 @@
     "wof:concordances":{
         "gn:id":3099180,
         "gp:id":24548634,
-        "qs:id":206299,
+        "qs_pg:id":206299,
         "wd:id":"Q867358",
         "wk:page":"G\u0142owno"
     },
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101820089,
-    "wof:lastmodified":1563577405,
+    "wof:lastmodified":1566598139,
     "wof:name":"G\u0142owno",
     "wof:parent_id":102079873,
     "wof:placetype":"locality",

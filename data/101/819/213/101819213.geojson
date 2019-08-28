@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.420969,
     "lbl:longitude":16.815121,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.420969,
     "mps:longitude":16.815121,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Jastrowie"
     ],
@@ -86,9 +89,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u0441\u0442\u0440\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
-        "Jastrow"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0633\u062a\u0631\u0648\u0648\u0626\u06d2"
     ],
@@ -113,7 +113,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.421667,
     "wd:longitude":16.815556,
@@ -128,7 +128,7 @@
     "wof:concordances":{
         "gn:id":3097420,
         "gp:id":24547389,
-        "qs:id":206224,
+        "qs_pg:id":206224,
         "wd:id":"Q199970",
         "wk:page":"Jastrowie"
     },
@@ -144,7 +144,7 @@
         }
     ],
     "wof:id":101819213,
-    "wof:lastmodified":1563577774,
+    "wof:lastmodified":1566598223,
     "wof:name":"Jastrowie",
     "wof:parent_id":102080109,
     "wof:placetype":"locality",

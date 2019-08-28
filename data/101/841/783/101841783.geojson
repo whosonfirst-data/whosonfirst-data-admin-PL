@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.898371,
     "lbl:longitude":14.833158,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.898371,
     "mps:longitude":14.833158,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Sieniawka"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":125,
     "wof:belongsto":[
         85682523,
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3085997,
         "gp:id":517908,
-        "qs:id":1011470,
+        "qs_pg:id":1011470,
         "wd:id":"Q457486",
         "wk:page":"Sieniawka, Zgorzelec County"
     },
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101841783,
-    "wof:lastmodified":1563578013,
+    "wof:lastmodified":1566598284,
     "wof:name":"Sieniawka",
     "wof:parent_id":1377687115,
     "wof:placetype":"locality",

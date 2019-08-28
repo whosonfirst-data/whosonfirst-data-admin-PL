@@ -10,12 +10,16 @@
     "geom:latitude":49.983806,
     "geom:longitude":20.232027,
     "iso:country":"PL",
+    "lbl:bbox":"20.212027,49.963806,20.252027,50.003806",
     "lbl:latitude":49.983806,
     "lbl:longitude":20.232027,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.983806,
     "mps:longitude":20.232027,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Brzezie"
     ],
@@ -55,7 +59,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":93,
     "wof:belongsto":[
         102191581,
@@ -67,10 +71,12 @@
     "wof:concordances":{
         "gn:id":3102434,
         "gp:id":488007,
-        "qs:id":1,
-        "qs_pg:id":1160979,
+        "qs_pg:id":1,
         "wd:id":"Q4981271",
         "wk:page":"Brzezie, Wieliczka County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1160979
     },
     "wof:country":"PL",
     "wof:geomhash":"7bb8e88ba9c21629ae9d4bace9920461",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":101863321,
-    "wof:lastmodified":1563578494,
+    "wof:lastmodified":1566598427,
     "wof:name":"Brzezie",
     "wof:parent_id":102079479,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.524598,
     "lbl:longitude":17.279019,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.524598,
     "mps:longitude":17.279019,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u064a\u062a\u0634"
     ],
@@ -98,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043b\u0438\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Militsch"
     ],
     "name:vie_x_preferred":[
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.533333,
     "wd:longitude":17.283333,
@@ -142,7 +145,6 @@
     "wof:concordances":{
         "gn:id":3091788,
         "gp:id":507578,
-        "qs:id":1043162,
         "qs_pg:id":1043162,
         "wd:id":"Q717933",
         "wk:page":"Milicz"
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":101821357,
-    "wof:lastmodified":1563577623,
+    "wof:lastmodified":1566598188,
     "wof:name":"Milicz",
     "wof:parent_id":102079753,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"20.69112,53.83055,20.69112,53.83055",
     "geom:latitude":53.83055,
     "geom:longitude":20.69112,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":7315,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":7315,
     "iso:country":"PL",
+    "lbl:bbox":"20.59112,53.73055,20.79112,53.93055",
     "lbl:latitude":53.83055,
     "lbl:longitude":20.69112,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0411\u0430\u0440\u0447\u044d\u0432\u0430"
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0447\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wartenbork"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +115,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24547585,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1125410519,
-    "wof:lastmodified":1564212467,
+    "wof:lastmodified":1566599157,
     "wof:name":"Barczewo",
     "wof:parent_id":102080207,
     "wof:placetype":"localadmin",

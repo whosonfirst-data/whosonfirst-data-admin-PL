@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.078461,
     "lbl:longitude":15.062833,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.078461,
     "mps:longitude":15.062833,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sulik\u00f3w"
     ],
@@ -32,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043b\u0456\u043a\u0443\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sch\u00f6nberg in der Oberlausitz"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":17,
     "wof:belongsto":[
@@ -65,9 +68,11 @@
     "wof:concordances":{
         "gn:id":3084225,
         "gp:id":520923,
-        "qs:id":55915,
-        "qs_pg:id":308253,
+        "qs_pg:id":55915,
         "wd:id":"Q369374"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":308253
     },
     "wof:country":"PL",
     "wof:geomhash":"52b41075e83fedcb1a217ba43ae3da7a",
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":101822863,
-    "wof:lastmodified":1563578398,
+    "wof:lastmodified":1566598399,
     "wof:name":"Sulik\u00f3w",
     "wof:parent_id":102079695,
     "wof:placetype":"locality",

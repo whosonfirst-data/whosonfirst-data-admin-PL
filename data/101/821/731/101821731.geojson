@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.428974,
     "lbl:longitude":17.487581,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.428974,
     "mps:longitude":17.487581,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Czerniejewo"
     ],
@@ -98,7 +101,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.433333,
     "wd:longitude":17.483333,
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3101006,
         "gp:id":24548095,
-        "qs:id":1026078,
+        "qs_pg:id":1026078,
         "wd:id":"Q1149495",
         "wk:page":"Czerniejewo"
     },
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101821731,
-    "wof:lastmodified":1563577578,
+    "wof:lastmodified":1566598177,
     "wof:name":"Czerniejewo",
     "wof:parent_id":102079967,
     "wof:placetype":"locality",

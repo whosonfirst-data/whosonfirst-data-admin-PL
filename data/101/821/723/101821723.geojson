@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.198074,
     "lbl:longitude":21.437945,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.198074,
     "mps:longitude":21.437945,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "D\u0119be Wielkie"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":107,
     "wof:belongsto":[
@@ -88,10 +91,12 @@
         "gn:id":773391,
         "gp:id":491309,
         "loc:id":"n2013037748",
-        "qs:id":1190644,
         "qs_pg:id":295939,
         "wd:id":"Q2492580",
         "wk:page":"D\u0119be Wielkie, Mi\u0144sk County"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1190644
     },
     "wof:country":"PL",
     "wof:geomhash":"130b32427bed15a9633a21a5f851f6b1",
@@ -105,7 +110,7 @@
         }
     ],
     "wof:id":101821723,
-    "wof:lastmodified":1563577616,
+    "wof:lastmodified":1566598186,
     "wof:name":"D\u0119be Wielkie",
     "wof:parent_id":102079965,
     "wof:placetype":"locality",

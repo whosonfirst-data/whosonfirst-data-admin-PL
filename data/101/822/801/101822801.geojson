@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.644901,
     "lbl:longitude":21.888805,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.644901,
     "mps:longitude":21.888805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Zaleszany"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -74,10 +77,12 @@
     "wof:concordances":{
         "gn:id":753943,
         "gp:id":499095,
-        "qs:id":299159,
         "qs_pg:id":83429,
         "wd:id":"Q1918447",
         "wk:page":"K\u0119pie Zalesza\u0144skie"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":299159
     },
     "wof:country":"PL",
     "wof:geomhash":"43b204f17520b55573bcef1b3f51a770",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":101822801,
-    "wof:lastmodified":1563578396,
+    "wof:lastmodified":1566598399,
     "wof:name":"Zaleszany",
     "wof:parent_id":102079669,
     "wof:placetype":"locality",

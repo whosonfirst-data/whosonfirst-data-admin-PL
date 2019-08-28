@@ -13,6 +13,8 @@
     "iso:country":"PL",
     "lbl:latitude":52.237695,
     "lbl:longitude":21.005427,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":52.237695,
     "mps:longitude":21.005427,
     "mz:hierarchy_label":1,
@@ -695,12 +697,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u0448\u0430\u0432\u0430"
     ],
-    "name:und_x_variant":[
-        "Varsava"
-    ],
-    "name:unk_x_variant":[
-        "Varshava"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0631\u0633\u0627"
     ],
@@ -879,7 +875,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":14581,
     "wof:belongsto":[
@@ -898,7 +894,6 @@
         "gp:id":523920,
         "loc:id":"n79018894",
         "nyt:id":"N38439611599745838241",
-        "qs:id":900428,
         "qs_pg:id":900428,
         "wd:id":"Q270",
         "wk:page":"Warsaw"
@@ -918,7 +913,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1563577233,
+    "wof:lastmodified":1566598096,
     "wof:megacity":1,
     "wof:name":"Warszawa",
     "wof:parent_id":102079951,

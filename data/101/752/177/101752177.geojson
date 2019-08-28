@@ -13,6 +13,8 @@
     "iso:country":"PL",
     "lbl:latitude":50.879655,
     "lbl:longitude":20.628806,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.879655,
     "mps:longitude":20.628806,
     "mz:hierarchy_label":1,
@@ -252,7 +254,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043b\u044c\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kel'tsy"
     ],
     "name:urd_x_preferred":[
@@ -397,7 +399,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3998,
     "wof:belongsto":[
@@ -410,7 +412,6 @@
     "wof:concordances":{
         "gn:id":769250,
         "gp:id":499162,
-        "qs:id":242928,
         "qs_pg:id":242928,
         "wd:id":"Q102317",
         "wk:page":"Kielce"
@@ -427,7 +428,7 @@
         }
     ],
     "wof:id":101752177,
-    "wof:lastmodified":1563577275,
+    "wof:lastmodified":1566598104,
     "wof:name":"Kielce",
     "wof:parent_id":102079655,
     "wof:placetype":"locality",

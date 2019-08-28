@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.115787,
     "lbl:longitude":18.610769,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.115787,
     "mps:longitude":18.610769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Dzietrzniki"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":92,
     "wof:belongsto":[
         102191581,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3099823,
         "gp:id":492685,
-        "qs:id":296520,
+        "qs_pg:id":296520,
         "wd:id":"Q4988345",
         "wk:page":"Dzietrzniki"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101822609,
-    "wof:lastmodified":1563578398,
+    "wof:lastmodified":1566598399,
     "wof:name":"Dzietrzniki",
     "wof:parent_id":102079729,
     "wof:placetype":"locality",

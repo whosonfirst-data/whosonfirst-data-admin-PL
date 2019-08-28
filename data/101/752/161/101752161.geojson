@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.763617,
     "lbl:longitude":16.269241,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":50.763617,
     "mps:longitude":16.269241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u0648\u0628 \u062c\u064a\u062e"
     ],
@@ -218,9 +221,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u0431\u0436\u0438\u0445"
     ],
-    "name:unk_x_variant":[
-        "Waldenburg"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0644\u0628\u0631\u0632\u06cc\u0686"
     ],
@@ -253,7 +253,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -265,10 +265,12 @@
     "wof:concordances":{
         "gn:id":3082707,
         "gp:id":523749,
-        "qs:id":944571,
-        "qs_pg:id":1078921,
+        "qs_pg:id":944571,
         "wd:id":"Q110732",
         "wk:page":"Wa\u0142brzych"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078921
     },
     "wof:country":"PL",
     "wof:geomhash":"de11399a53ed724602cfffe6b20e2fa7",
@@ -282,7 +284,7 @@
         }
     ],
     "wof:id":101752161,
-    "wof:lastmodified":1563577188,
+    "wof:lastmodified":1566598088,
     "wof:name":"Wa\u0142brzych",
     "wof:parent_id":102079595,
     "wof:placetype":"locality",

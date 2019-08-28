@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.573384,
     "lbl:longitude":17.0109,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.573384,
     "mps:longitude":17.0109,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Murowana Go\u015blina"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.575833,
     "wd:longitude":17.009722,
@@ -130,10 +133,12 @@
     "wof:concordances":{
         "gn:id":3091293,
         "gp:id":508463,
-        "qs:id":962512,
-        "qs_pg:id":1060275,
+        "qs_pg:id":962512,
         "wd:id":"Q51003",
         "wk:page":"Murowana Go\u015blina"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1060275
     },
     "wof:country":"PL",
     "wof:geomhash":"fce6fc6d10ab52b225ebf42034ae3c79",
@@ -147,7 +152,7 @@
         }
     ],
     "wof:id":101820331,
-    "wof:lastmodified":1563577324,
+    "wof:lastmodified":1566598120,
     "wof:name":"Murowana Go\u015blina",
     "wof:parent_id":102079955,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.036512,
     "lbl:longitude":18.688635,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.036512,
     "mps:longitude":18.688635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:azb_x_preferred":[
         "\u0698\u0648\u0631\u06cc"
     ],
@@ -169,7 +172,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":370,
     "wof:belongsto":[
@@ -183,10 +186,12 @@
     "wof:concordances":{
         "gn:id":3080004,
         "gp:id":529162,
-        "qs:id":1212366,
         "qs_pg:id":1060359,
         "wd:id":"Q393171",
         "wk:page":"\u017bory"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1212366
     },
     "wof:country":"PL",
     "wof:geomhash":"54e711583b3d6e5fb533c267e5629159",
@@ -200,7 +205,7 @@
         }
     ],
     "wof:id":1175613157,
-    "wof:lastmodified":1563576538,
+    "wof:lastmodified":1566597617,
     "wof:name":"\u017bory",
     "wof:parent_id":102079447,
     "wof:placetype":"locality",

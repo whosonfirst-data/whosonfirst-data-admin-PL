@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.154752,
     "lbl:longitude":17.271682,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.154752,
     "mps:longitude":17.271682,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Wyrzysk"
     ],
@@ -113,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0436\u0438\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wirsitz"
     ],
     "name:vie_x_preferred":[
@@ -137,7 +140,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":90.0,
     "wd:latitude":53.15,
@@ -153,7 +156,7 @@
     "wof:concordances":{
         "gn:id":3081158,
         "gp:id":24547414,
-        "qs:id":59388,
+        "qs_pg:id":59388,
         "wd:id":"Q988588",
         "wk:page":"Wyrzysk"
     },
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":101819125,
-    "wof:lastmodified":1563577805,
+    "wof:lastmodified":1566598230,
     "wof:name":"Wyrzysk",
     "wof:parent_id":102080065,
     "wof:placetype":"locality",

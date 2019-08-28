@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.494527,
     "lbl:longitude":20.463049,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.494527,
     "mps:longitude":20.463049,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0645\u06cc\u062e\u0627\u0648\u0648\u0648"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":133,
     "wof:belongsto":[
@@ -101,10 +104,12 @@
     "wof:concordances":{
         "gn:id":3092056,
         "gp:id":507113,
-        "qs:id":1148946,
         "qs_pg:id":302372,
         "wd:id":"Q553593",
         "wk:page":"Gmina Micha\u0142\u00f3w"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1148946
     },
     "wof:country":"PL",
     "wof:geomhash":"9efda0e8baa691e7ac25088e09f73646",
@@ -118,7 +123,7 @@
         }
     ],
     "wof:id":101848057,
-    "wof:lastmodified":1563578084,
+    "wof:lastmodified":1566598306,
     "wof:name":"Micha\u0142\u00f3w",
     "wof:parent_id":102079619,
     "wof:placetype":"locality",

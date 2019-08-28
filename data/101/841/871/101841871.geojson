@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.610509,
     "lbl:longitude":15.920978,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.610509,
     "mps:longitude":15.920978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Bielsko"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":3103405,
         "gp:id":486313,
-        "qs:id":398648,
+        "qs_pg:id":398648,
         "wd:id":"Q3526957",
         "wk:page":"Bielsko, Mi\u0119dzych\u00f3d County"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101841871,
-    "wof:lastmodified":1563578032,
+    "wof:lastmodified":1566598290,
     "wof:name":"Bielsko",
     "wof:parent_id":102079961,
     "wof:placetype":"locality",

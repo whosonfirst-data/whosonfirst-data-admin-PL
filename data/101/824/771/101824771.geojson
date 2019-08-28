@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.994974,
     "lbl:longitude":19.43526,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.994974,
     "mps:longitude":19.43526,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Zator"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":239.0,
     "wd:latitude":49.996389,
@@ -128,9 +131,11 @@
     "wof:concordances":{
         "gn:id":8426603,
         "gp:id":528078,
-        "qs:id":909134,
-        "qs_pg:id":1343011,
+        "qs_pg:id":909134,
         "wd:id":"Q1281557"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1343011
     },
     "wof:country":"PL",
     "wof:geomhash":"568623c24d80e0fbde57495550e70849",
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":101824771,
-    "wof:lastmodified":1563578223,
+    "wof:lastmodified":1566598348,
     "wof:name":"Zator",
     "wof:parent_id":102079465,
     "wof:placetype":"locality",

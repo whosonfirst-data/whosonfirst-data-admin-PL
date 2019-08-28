@@ -10,8 +10,10 @@
     "geom:latitude":51.187991,
     "geom:longitude":22.536611,
     "iso:country":"PL",
+    "lbl:bbox":"22.531611,51.182991,22.541611,51.192991",
     "lbl:latitude":51.187991,
     "lbl:longitude":22.536611,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.187991,
     "mps:longitude":22.536611,
     "mz:hierarchy_label":0,
@@ -68,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u044f\u0441\u043a\u0456"
     ],
-    "name:unk_x_variant":[
-        "Piaski"
-    ],
     "name:vie_x_preferred":[
         "Piaski"
     ],
@@ -106,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687309,
         102191581,
@@ -117,7 +116,7 @@
     "wof:concordances":{
         "gn:id":762406,
         "gp:id":512104,
-        "qs:id":1165661
+        "qs_pg:id":1165661
     },
     "wof:country":"PL",
     "wof:geomhash":"98b87ede649073ce6fd73ddb1e0ae001",
@@ -132,7 +131,7 @@
         }
     ],
     "wof:id":85898029,
-    "wof:lastmodified":1564207516,
+    "wof:lastmodified":1566596103,
     "wof:name":"Piaski",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

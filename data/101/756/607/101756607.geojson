@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.639436,
     "lbl:longitude":17.72284,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.639436,
     "mps:longitude":17.72284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Gorzyce Wielkie"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":93,
     "wof:belongsto":[
@@ -80,10 +83,12 @@
     "wof:concordances":{
         "gn:id":3098706,
         "gp:id":494583,
-        "qs:id":54788,
-        "qs_pg:id":297339,
+        "qs_pg:id":54788,
         "wd:id":"Q2238913",
         "wk:page":"Gorzyce Wielkie"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":297339
     },
     "wof:country":"PL",
     "wof:geomhash":"8e73a10e487e4af9fce14ba1ec41d301",
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101756607,
-    "wof:lastmodified":1563577958,
+    "wof:lastmodified":1566598269,
     "wof:name":"Gorzyce Wielkie",
     "wof:parent_id":102079789,
     "wof:placetype":"locality",

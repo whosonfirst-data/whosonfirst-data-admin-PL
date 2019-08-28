@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.616281,
     "lbl:longitude":20.745397,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.616281,
     "mps:longitude":20.745397,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Chmielnik"
     ],
@@ -101,7 +104,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:area":8.0,
     "wd:elevation":240.0,
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gn:id":774504,
         "gp:id":24548339,
-        "qs:id":129350,
+        "qs_pg:id":129350,
         "wd:id":"Q991973"
     },
     "wof:country":"PL",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101823963,
-    "wof:lastmodified":1563578100,
+    "wof:lastmodified":1566598311,
     "wof:name":"Chmielnik",
     "wof:parent_id":102079693,
     "wof:placetype":"locality",

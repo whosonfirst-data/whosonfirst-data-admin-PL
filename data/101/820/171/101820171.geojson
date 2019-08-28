@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.549566,
     "lbl:longitude":23.555343,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.549566,
     "mps:longitude":23.555343,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u043b\u0430\u0434\u0430\u0432\u0430"
     ],
@@ -119,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u043e\u0434\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vlodavka"
     ],
     "name:vie_x_preferred":[
@@ -149,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1029,
     "wof:belongsto":[
@@ -162,7 +165,6 @@
     "wof:concordances":{
         "gn:id":620115,
         "gp:id":525280,
-        "qs:id":1156203,
         "qs_pg:id":1156203,
         "wd:id":"Q751076"
     },
@@ -178,7 +180,7 @@
         }
     ],
     "wof:id":101820171,
-    "wof:lastmodified":1563577455,
+    "wof:lastmodified":1566598150,
     "wof:name":"W\u0142odawa",
     "wof:parent_id":102079889,
     "wof:placetype":"locality",

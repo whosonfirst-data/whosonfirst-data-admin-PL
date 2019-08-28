@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.890899,
     "lbl:longitude":16.979157,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.890899,
     "mps:longitude":16.979157,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Budzy\u0144"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":66,
     "wof:belongsto":[
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3102162,
         "gp:id":12618165,
-        "qs:id":1171437,
+        "qs_pg:id":1171437,
         "wd:id":"Q1215444"
     },
     "wof:country":"PL",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101820503,
-    "wof:lastmodified":1563577332,
+    "wof:lastmodified":1566598122,
     "wof:name":"Budzy\u0144",
     "wof:parent_id":102080021,
     "wof:placetype":"locality",

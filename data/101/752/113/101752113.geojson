@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.113039,
     "lbl:longitude":18.992468,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":50.113039,
     "mps:longitude":18.992468,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u062a\u0634\u064a"
     ],
@@ -268,7 +271,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -280,10 +283,12 @@
     "wof:concordances":{
         "gn:id":3082914,
         "gp:id":523318,
-        "qs:id":1150167,
         "qs_pg:id":1060328,
         "wd:id":"Q11977",
         "wk:page":"Tychy"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1150167
     },
     "wof:country":"PL",
     "wof:geomhash":"8b83b141a5fa36d40dfb1fc0885f8fd5",
@@ -297,7 +302,7 @@
         }
     ],
     "wof:id":101752113,
-    "wof:lastmodified":1563577281,
+    "wof:lastmodified":1566598106,
     "wof:name":"Tychy",
     "wof:parent_id":102079471,
     "wof:placetype":"locality",

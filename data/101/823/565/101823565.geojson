@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.601374,
     "lbl:longitude":17.039626,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.601374,
     "mps:longitude":17.039626,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Zi\u0119bice"
     ],
@@ -116,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u043c\u0431\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00fcnsterberg"
     ],
     "name:vie_x_preferred":[
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.6,
     "wd:longitude":17.044444,
@@ -157,10 +160,12 @@
     "wof:concordances":{
         "gn:id":3080226,
         "gp:id":528800,
-        "qs:id":145538,
-        "qs_pg:id":323854,
+        "qs_pg:id":145538,
         "wd:id":"Q207100",
         "wk:page":"Zi\u0119bice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":323854
     },
     "wof:country":"PL",
     "wof:geomhash":"08aed7bc993b8848beaa726142b78bda",
@@ -174,7 +179,7 @@
         }
     ],
     "wof:id":101823565,
-    "wof:lastmodified":1563578157,
+    "wof:lastmodified":1566598327,
     "wof:name":"Zi\u0119bice",
     "wof:parent_id":102079577,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.919184,
     "lbl:longitude":23.549049,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.919184,
     "mps:longitude":23.549049,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0648\u0648\u06cc\u0633\u0648\u0627\u0648\u06cc\u062a\u0633\u0647"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":139,
     "wof:belongsto":[
@@ -96,10 +99,12 @@
     "wof:concordances":{
         "gn:id":3081618,
         "gp:id":525493,
-        "qs:id":1165692,
         "qs_pg:id":310256,
         "wd:id":"Q2212388",
         "wk:page":"Gmina Wojs\u0142awice"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1165692
     },
     "wof:country":"PL",
     "wof:geomhash":"71f8bdb1938a20b6c74f4890c5d5d425",
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":101822673,
-    "wof:lastmodified":1563578329,
+    "wof:lastmodified":1566598379,
     "wof:name":"Wojs\u0142awice",
     "wof:parent_id":102079813,
     "wof:placetype":"locality",

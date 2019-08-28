@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.878684,
     "lbl:longitude":16.010233,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.878684,
     "mps:longitude":16.010233,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Krzy\u017c Wielkopolski"
     ],
@@ -80,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0448\u0438\u0436-\u0412\u0435\u043b\u0438\u043a\u043e\u043f\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kreuz"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.879167,
     "wd:longitude":16.008333,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":3094408,
         "gp:id":24547696,
-        "qs:id":335519,
+        "qs_pg:id":335519,
         "wd:id":"Q1021294"
     },
     "wof:country":"PL",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101819037,
-    "wof:lastmodified":1563577724,
+    "wof:lastmodified":1566598212,
     "wof:name":"Krzy\u017c Wielkopolski",
     "wof:parent_id":102080029,
     "wof:placetype":"locality",

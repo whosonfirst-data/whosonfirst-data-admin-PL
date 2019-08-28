@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.826184,
     "lbl:longitude":15.521107,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.826184,
     "mps:longitude":15.521107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0428\u043a\u043b\u044f\u0440\u0441\u043a\u0430 \u041f\u043e\u0440\u0435\u043c\u0431\u0430"
     ],
@@ -110,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u043a\u043b\u044f\u0440\u0441\u044c\u043a\u0430 \u041f\u043e\u0440\u0435\u043c\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schreibhau"
     ],
     "name:vie_x_preferred":[
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":756,
     "wof:belongsto":[
@@ -152,7 +155,6 @@
     "wof:concordances":{
         "gn:id":3083677,
         "gp:id":521861,
-        "qs:id":242968,
         "qs_pg:id":242968,
         "wd:id":"Q186495",
         "wk:page":"Szklarska Por\u0119ba"
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":101823761,
-    "wof:lastmodified":1563578158,
+    "wof:lastmodified":1566598327,
     "wof:name":"Szklarska Por\u0119ba",
     "wof:parent_id":102079617,
     "wof:placetype":"locality",

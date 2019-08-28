@@ -11,12 +11,16 @@
     "geom:longitude":19.137861,
     "gn:population":3658,
     "iso:country":"PL",
+    "lbl:bbox":"19.117861,53.366471,19.157861,53.406471",
     "lbl:latitude":53.386471,
     "lbl:longitude":19.137861,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.386471,
     "mps:longitude":19.137861,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Jab\u0142onowo Pomorskie"
     ],
@@ -86,7 +90,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u0431\u043b\u043e\u043d\u043e\u0432\u043e-\u041f\u043e\u043c\u043e\u0440\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jab\u0142onowo"
     ],
     "name:urd_x_preferred":[
@@ -116,7 +120,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":80.0,
     "wd:latitude":53.391944,
@@ -133,10 +137,12 @@
         "gn:id":3097808,
         "gp:id":496418,
         "loc:id":"n2012005216",
-        "qs:id":1043195,
-        "qs_pg:id":1326863,
+        "qs_pg:id":1043195,
         "wd:id":"Q643761",
         "wk:page":"Jab\u0142onowo Pomorskie"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1326863
     },
     "wof:country":"PL",
     "wof:geomhash":"384d2571488e718c6cce1c48ac487e3a",
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":101874511,
-    "wof:lastmodified":1563577485,
+    "wof:lastmodified":1566598156,
     "wof:name":"Jab\u0142onowo Pomorskie",
     "wof:parent_id":102080099,
     "wof:placetype":"locality",

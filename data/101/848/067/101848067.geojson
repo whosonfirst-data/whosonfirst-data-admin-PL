@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.917133,
     "lbl:longitude":20.58943,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.917133,
     "mps:longitude":20.58943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Kostom\u0142oty Pierwsze"
     ],
@@ -62,7 +65,7 @@
     "name:ukr_x_variant":[
         "\u041a\u043e\u0441\u0442\u043e\u043c\u043b\u043e\u0442\u0438-\u041f\u0435\u0440\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zam\u0142ynie Kostom\u0142oty"
     ],
     "name:war_x_preferred":[
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":91,
     "wof:belongsto":[
@@ -101,10 +104,12 @@
     "wof:concordances":{
         "gn:id":3095064,
         "gp:id":501549,
-        "qs:id":1165620,
         "qs_pg:id":925811,
         "wd:id":"Q2788086",
         "wk:page":"Kostom\u0142oty Pierwsze"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1165620
     },
     "wof:country":"PL",
     "wof:geomhash":"600ec3e0df91cb2012ffaefad9e5152a",
@@ -118,7 +123,7 @@
         }
     ],
     "wof:id":101848067,
-    "wof:lastmodified":1563578085,
+    "wof:lastmodified":1566598307,
     "wof:name":"Kostom\u0142oty Pierwsze",
     "wof:parent_id":102079693,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.60628,
     "lbl:longitude":18.909224,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.60628,
     "mps:longitude":18.909224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Czechy"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":97,
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":3101072,
         "gp:id":490494,
-        "qs:id":927276,
+        "qs_pg:id":927276,
         "wd:id":"Q5201913",
         "wk:page":"Czechy, \u0141\u00f3d\u017a Voivodeship"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101841815,
-    "wof:lastmodified":1563578031,
+    "wof:lastmodified":1566598290,
     "wof:name":"Czechy",
     "wof:parent_id":102079803,
     "wof:placetype":"locality",

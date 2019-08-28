@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.978467,
     "lbl:longitude":20.9442,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.978467,
     "mps:longitude":20.9442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Koszyce Wielkie"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -71,10 +74,12 @@
     "wof:concordances":{
         "gn:id":767938,
         "gp:id":501623,
-        "qs:id":509070,
         "qs_pg:id":299949,
         "wd:id":"Q6433708",
         "wk:page":"Koszyce Wielkie"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":509070
     },
     "wof:country":"PL",
     "wof:geomhash":"334b2a15eb2be19179a031d666a92722",
@@ -88,7 +93,7 @@
         }
     ],
     "wof:id":101756081,
-    "wof:lastmodified":1563577950,
+    "wof:lastmodified":1566598267,
     "wof:name":"Koszyce Wielkie",
     "wof:parent_id":102079535,
     "wof:placetype":"locality",

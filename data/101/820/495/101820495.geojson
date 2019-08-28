@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.802705,
     "lbl:longitude":17.201283,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.802705,
     "mps:longitude":17.201283,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0412\u0430\u043d\u0433\u0440\u043e\u0432\u0435\u0446"
     ],
@@ -107,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043d\u0433\u0440\u043e\u0432\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eichenbr\u00fcck"
     ],
     "name:vie_x_preferred":[
@@ -134,7 +137,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":929,
     "wof:belongsto":[
@@ -147,7 +150,7 @@
     "wof:concordances":{
         "gn:id":3082712,
         "gp:id":29397322,
-        "qs:id":1061976,
+        "qs_pg:id":1061976,
         "wd:id":"Q645022",
         "wk:page":"W\u0105growiec"
     },
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101820495,
-    "wof:lastmodified":1563577434,
+    "wof:lastmodified":1566598145,
     "wof:name":"W\u0105growiec",
     "wof:parent_id":102080019,
     "wof:placetype":"locality",

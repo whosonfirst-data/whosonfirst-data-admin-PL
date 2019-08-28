@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.24957,
     "lbl:longitude":19.402535,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.24957,
     "mps:longitude":19.402535,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0411\u0440\u043e\u0434\u043d\u0438\u0446\u0430"
     ],
@@ -134,7 +137,7 @@
     "name:ukr_x_variant":[
         "\u0490\u043c\u0456\u043d\u0430 \u0411\u0440\u043e\u0434\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brodnitz"
     ],
     "name:vie_x_preferred":[
@@ -169,7 +172,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1142,
     "wof:belongsto":[
@@ -182,10 +185,12 @@
     "wof:concordances":{
         "gn:id":3102628,
         "gp:id":487676,
-        "qs:id":1230068,
         "qs_pg:id":580949,
         "wd:id":"Q690030",
         "wk:page":"Brodnica"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1230068
     },
     "wof:country":"PL",
     "wof:geomhash":"234c71a37482a22dde15b5d758db7247",
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":101819195,
-    "wof:lastmodified":1563577684,
+    "wof:lastmodified":1566598202,
     "wof:name":"Brodnica",
     "wof:parent_id":102080099,
     "wof:placetype":"locality",

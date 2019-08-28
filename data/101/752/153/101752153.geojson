@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.322979,
     "lbl:longitude":19.120214,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.322979,
     "mps:longitude":19.120214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bak_x_preferred":[
         "\u0411\u0435\u043d\u0434\u0437\u0438\u043d"
     ],
@@ -181,7 +184,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1362,
     "wof:belongsto":[
@@ -194,10 +197,12 @@
     "wof:concordances":{
         "gn:id":3102194,
         "gp:id":485799,
-        "qs:id":145607,
-        "qs_pg:id":281832,
+        "qs_pg:id":145607,
         "wd:id":"Q461513",
         "wk:page":"B\u0119dzin"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":281832
     },
     "wof:country":"PL",
     "wof:geomhash":"81d47dd21c83027bd734db147e1fad87",
@@ -211,7 +216,7 @@
         }
     ],
     "wof:id":101752153,
-    "wof:lastmodified":1563577239,
+    "wof:lastmodified":1566598098,
     "wof:name":"B\u0119dzin",
     "wof:parent_id":102079571,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.562596,
     "lbl:longitude":20.041015,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.562596,
     "mps:longitude":20.041015,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "S\u0119dzisz\u00f3w"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.583333,
     "wd:longitude":20.066667,
@@ -130,10 +133,12 @@
     "wof:concordances":{
         "gn:id":759507,
         "gp:id":517541,
-        "qs:id":59630,
-        "qs_pg:id":470557,
+        "qs_pg:id":59630,
         "wd:id":"Q999607",
         "wk:page":"S\u0119dzisz\u00f3w"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":470557
     },
     "wof:country":"PL",
     "wof:geomhash":"b5b9643a994d7b3100a038b2f9ac9b08",
@@ -147,7 +152,7 @@
         }
     ],
     "wof:id":101823861,
-    "wof:lastmodified":1563578120,
+    "wof:lastmodified":1566598316,
     "wof:name":"S\u0119dzisz\u00f3w",
     "wof:parent_id":102079641,
     "wof:placetype":"locality",

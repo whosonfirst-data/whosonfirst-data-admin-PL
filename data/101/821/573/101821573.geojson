@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.763096,
     "lbl:longitude":16.806552,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.763096,
     "mps:longitude":16.806552,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Poniec"
     ],
@@ -107,7 +110,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.758333,
     "wd:longitude":16.816667,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":3088345,
         "gp:id":24548052,
-        "qs:id":956340,
+        "qs_pg:id":956340,
         "wd:id":"Q1002670",
         "wk:page":"Poniec"
     },
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101821573,
-    "wof:lastmodified":1563577618,
+    "wof:lastmodified":1566598186,
     "wof:name":"Poniec",
     "wof:parent_id":102079829,
     "wof:placetype":"locality",

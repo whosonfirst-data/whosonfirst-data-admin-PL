@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.172941,
     "lbl:longitude":22.952286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.172941,
     "mps:longitude":22.952286,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Stare Sio\u0142o"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         102191581,
@@ -63,10 +66,12 @@
     "wof:concordances":{
         "gn:id":758323,
         "gp:id":24941955,
-        "qs:id":1217184,
         "qs_pg:id":394664,
         "wd:id":"Q9344105",
         "wk:page":"Stare Sio\u0142o"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1217184
     },
     "wof:country":"PL",
     "wof:geomhash":"bdee074a1964dc992d0a5de3eef38eb3",
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":101823791,
-    "wof:lastmodified":1563578097,
+    "wof:lastmodified":1566598310,
     "wof:name":"Stare Sio\u0142o",
     "wof:parent_id":102079623,
     "wof:placetype":"locality",

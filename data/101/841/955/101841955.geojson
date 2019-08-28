@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":49.977937,
     "lbl:longitude":18.49576,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.977937,
     "mps:longitude":18.49576,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0645\u0634\u0627\u0646\u0627"
     ],
@@ -83,7 +86,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":106,
     "wof:belongsto":[
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3091315,
         "gp:id":12618727,
-        "qs:id":1027297,
+        "qs_pg:id":1027297,
         "wd:id":"Q553539",
         "wk:page":"Gmina Mszana"
     },
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101841955,
-    "wof:lastmodified":1563577977,
+    "wof:lastmodified":1566598274,
     "wof:name":"Mszana",
     "wof:parent_id":102079445,
     "wof:placetype":"locality",

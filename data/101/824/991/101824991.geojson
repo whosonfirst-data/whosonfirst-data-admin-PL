@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.41302,
     "lbl:longitude":18.564627,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.41302,
     "mps:longitude":18.564627,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Paczyna"
     ],
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0447\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hartlingen"
     ],
     "qs:a0":"Rzeczpospolita Polska",
@@ -62,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":96,
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3089562,
         "gp:id":511462,
-        "qs:id":304174,
+        "qs_pg:id":304174,
         "wd:id":"Q2045780",
         "wk:page":"Paczyna"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101824991,
-    "wof:lastmodified":1563578201,
+    "wof:lastmodified":1566598341,
     "wof:name":"Paczyna",
     "wof:parent_id":102079563,
     "wof:placetype":"locality",

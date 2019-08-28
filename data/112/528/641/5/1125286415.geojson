@@ -9,15 +9,18 @@
     "geom:bbox":"19.92602,53.91711,19.92602,53.91711",
     "geom:latitude":53.91711,
     "geom:longitude":19.92602,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":14745,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":14745,
     "iso:country":"PL",
+    "lbl:bbox":"19.82602,53.81711,20.02602,54.01711",
     "lbl:latitude":53.91711,
     "lbl:longitude":19.92602,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0627\u063a"
@@ -94,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u043e\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "Mohrungen"
-    ],
     "name:vie_x_preferred":[
         "Mor\u0105g"
     ],
@@ -124,7 +124,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24547436,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":1125286415,
-    "wof:lastmodified":1564211885,
+    "wof:lastmodified":1566598705,
     "wof:name":"Mor\u0105g",
     "wof:parent_id":102080197,
     "wof:placetype":"localadmin",

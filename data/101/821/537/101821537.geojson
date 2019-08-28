@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.417471,
     "lbl:longitude":18.417161,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":51.417471,
     "mps:longitude":18.417161,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u06a9\u0644\u0648\u0646\u0648\u0648\u0627"
     ],
@@ -92,7 +95,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":109,
     "wof:belongsto":[
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3096039,
         "gp:id":12618546,
-        "qs:id":932289,
+        "qs_pg:id":932289,
         "wd:id":"Q679262",
         "wk:page":"Gmina Klonowa"
     },
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101821537,
-    "wof:lastmodified":1563577620,
+    "wof:lastmodified":1566598187,
     "wof:name":"Klonowa",
     "wof:parent_id":102079819,
     "wof:placetype":"locality",

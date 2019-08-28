@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":53.358627,
     "lbl:longitude":15.427019,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.358627,
     "mps:longitude":15.427019,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Dobrzany"
     ],
@@ -83,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0436\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jakobshagen"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +110,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.358611,
     "wd:longitude":15.426111,
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gn:id":3100297,
         "gp:id":24547699,
-        "qs:id":203297,
+        "qs_pg:id":203297,
         "wd:id":"Q988639",
         "wk:page":"Dobrzany"
     },
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101819157,
-    "wof:lastmodified":1563577683,
+    "wof:lastmodified":1566598201,
     "wof:name":"Dobrzany",
     "wof:parent_id":102080083,
     "wof:placetype":"locality",

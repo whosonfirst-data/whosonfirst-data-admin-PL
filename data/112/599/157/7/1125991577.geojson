@@ -9,14 +9,18 @@
     "geom:bbox":"16.11604,54.17665,16.11604,54.17665",
     "geom:latitude":54.17665,
     "geom:longitude":16.11604,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PL",
+    "lbl:bbox":"16.09604,54.15665,16.13604,54.19665",
     "lbl:latitude":54.17665,
     "lbl:longitude":16.11604,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Stare Bielice"
@@ -42,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0435 \u0411\u0435\u043b\u0456\u0446\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alt Belz"
     ],
     "name:vie_x_preferred":[
@@ -67,7 +71,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":519797,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1125991577,
-    "wof:lastmodified":1563579503,
+    "wof:lastmodified":1566598882,
     "wof:name":"Stare Bielice",
     "wof:parent_id":102080199,
     "wof:placetype":"locality",

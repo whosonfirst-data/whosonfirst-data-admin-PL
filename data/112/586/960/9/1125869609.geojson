@@ -9,14 +9,18 @@
     "geom:bbox":"22.70563,49.63276,22.70563,49.63276",
     "geom:latitude":49.63276,
     "geom:longitude":22.70563,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PL",
+    "lbl:bbox":"22.68563,49.61276,22.72563,49.65276",
     "lbl:latitude":49.63276,
     "lbl:longitude":22.70563,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Kalwaria Pac\u0142awska"
@@ -48,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u044c\u0432\u0430\u0440\u0456\u044f \u041f\u0430\u0446\u043b\u0430\u0432\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalwaria"
     ],
     "qs_pg:aaroncc":"PL",
@@ -72,7 +76,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":498216,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":1125869609,
-    "wof:lastmodified":1563579091,
+    "wof:lastmodified":1566598717,
     "wof:name":"Kalwaria Pac\u0142awska",
     "wof:parent_id":102079513,
     "wof:placetype":"locality",

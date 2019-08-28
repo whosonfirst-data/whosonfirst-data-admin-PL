@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":52.683844,
     "lbl:longitude":18.576201,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.683844,
     "mps:longitude":18.576201,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Dobre"
     ],
@@ -251,7 +254,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":109,
     "wof:belongsto":[
@@ -264,7 +267,7 @@
     "wof:concordances":{
         "gn:id":3100355,
         "gp:id":12618119,
-        "qs:id":1056461,
+        "qs_pg:id":1056461,
         "wd:id":"Q419040"
     },
     "wof:country":"PL",
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":101820423,
-    "wof:lastmodified":1563577352,
+    "wof:lastmodified":1566598128,
     "wof:name":"Dobre",
     "wof:parent_id":102079977,
     "wof:placetype":"locality",

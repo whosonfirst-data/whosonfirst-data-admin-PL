@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":54.242232,
     "lbl:longitude":16.888701,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.242232,
     "mps:longitude":16.888701,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "K\u0119pice"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.241111,
     "wd:longitude":16.889722,
@@ -127,7 +130,7 @@
     "wof:concordances":{
         "gn:id":3096353,
         "gp:id":24547581,
-        "qs:id":59427,
+        "qs_pg:id":59427,
         "wd:id":"Q988604",
         "wk:page":"K\u0119pice"
     },
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":101817785,
-    "wof:lastmodified":1563577519,
+    "wof:lastmodified":1566598165,
     "wof:name":"K\u0119pice",
     "wof:parent_id":102080255,
     "wof:placetype":"locality",

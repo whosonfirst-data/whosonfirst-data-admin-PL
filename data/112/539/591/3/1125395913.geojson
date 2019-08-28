@@ -9,15 +9,18 @@
     "geom:bbox":"17.61688,50.7487,17.61688,50.7487",
     "geom:latitude":50.7487,
     "geom:longitude":17.61688,
-    "gn:gn_country":"PL",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":6000,
+    "gn:country":"PL",
+    "gn:fcode":"PPLA3",
     "gn:population":6000,
     "iso:country":"PL",
+    "lbl:bbox":"17.51688,50.6487,17.71688,50.8487",
     "lbl:latitude":50.7487,
     "lbl:longitude":17.61688,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041b\u0435\u0432\u0438\u043d \u0411\u0436\u0435\u0441\u043a\u0438"
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0432\u0456\u043d-\u0411\u0436\u0435\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lewin"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24548465,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":1125395913,
-    "wof:lastmodified":1564212172,
+    "wof:lastmodified":1566598878,
     "wof:name":"Lewin Brzeski",
     "wof:parent_id":102079631,
     "wof:placetype":"localadmin",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.201642,
     "lbl:longitude":17.82217,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.201642,
     "mps:longitude":17.82217,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "G\u0142ubczyce"
     ],
@@ -104,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u0490\u043b\u0443\u0431\u0447\u0438\u0446\u0435"
     ],
-    "name:unk_x_variant":[
-        "Leobsch\u00fctz"
-    ],
     "name:vie_x_preferred":[
         "G\u0142ubczyce"
     ],
@@ -133,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.2,
     "wd:longitude":17.833333,
@@ -148,7 +148,6 @@
     "wof:concordances":{
         "gn:id":3099174,
         "gp:id":493832,
-        "qs:id":145601,
         "qs_pg:id":145601,
         "wd:id":"Q717947",
         "wk:page":"G\u0142ubczyce"
@@ -165,7 +164,7 @@
         }
     ],
     "wof:id":101824809,
-    "wof:lastmodified":1563578248,
+    "wof:lastmodified":1566598354,
     "wof:name":"G\u0142ubczyce",
     "wof:parent_id":102079489,
     "wof:placetype":"locality",

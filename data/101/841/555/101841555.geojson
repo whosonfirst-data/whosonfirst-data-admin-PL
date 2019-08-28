@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":50.160345,
     "lbl:longitude":18.660559,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.160345,
     "mps:longitude":18.660559,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Czerwionka-Leszczyny"
     ],
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.183333,
     "wd:longitude":18.683333,
@@ -122,10 +125,12 @@
     "wof:concordances":{
         "gn:id":3100974,
         "gp:id":504476,
-        "qs:id":1218784,
         "qs_pg:id":343187,
         "wd:id":"Q1005538",
         "wk:page":"Czerwionka-Leszczyny"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1218784
     },
     "wof:country":"PL",
     "wof:geomhash":"3516a7fcc948edc98485d099e28b378d",
@@ -139,7 +144,7 @@
         }
     ],
     "wof:id":101841555,
-    "wof:lastmodified":1563578018,
+    "wof:lastmodified":1566598286,
     "wof:name":"Czerwionka-Leszczyny",
     "wof:parent_id":102079473,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.133422,
     "lbl:longitude":23.000229,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.133422,
     "mps:longitude":23.000229,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Trawniki"
     ],
@@ -77,7 +80,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":267,
     "wof:belongsto":[
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":756819,
         "gp:id":12617705,
-        "qs:id":528091,
+        "qs_pg:id":528091,
         "wd:id":"Q153096",
         "wk:page":"Trawniki"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101822641,
-    "wof:lastmodified":1563578382,
+    "wof:lastmodified":1566598394,
     "wof:name":"Trawniki",
     "wof:parent_id":102079777,
     "wof:placetype":"locality",

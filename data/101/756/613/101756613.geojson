@@ -12,10 +12,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.608752,
     "lbl:longitude":17.837802,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.608752,
     "mps:longitude":17.837802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Wysocko Ma\u0142e"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
         102191581,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":3081145,
         "gp:id":526769,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q8040532",
         "wk:page":"Wysocko Ma\u0142e"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101756613,
-    "wof:lastmodified":1563577947,
+    "wof:lastmodified":1566598266,
     "wof:name":"Wysocko Ma\u0142e",
     "wof:parent_id":102079789,
     "wof:placetype":"locality",

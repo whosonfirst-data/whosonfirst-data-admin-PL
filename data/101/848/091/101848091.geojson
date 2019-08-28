@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":51.760173,
     "lbl:longitude":17.119247,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.760173,
     "mps:longitude":17.119247,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u067e\u0646\u067e\u0648\u0648\u0648"
     ],
@@ -83,7 +86,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":114,
     "wof:belongsto":[
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3089276,
         "gp:id":12617018,
-        "qs:id":240325,
+        "qs_pg:id":240325,
         "wd:id":"Q555557",
         "wk:page":"Gmina P\u0119powo"
     },
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101848091,
-    "wof:lastmodified":1563578070,
+    "wof:lastmodified":1566598302,
     "wof:name":"P\u0119powo",
     "wof:parent_id":102079829,
     "wof:placetype":"locality",

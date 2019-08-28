@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":54.378596,
     "lbl:longitude":19.820948,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.378596,
     "mps:longitude":19.820948,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0440\u0430\u043d\u0435\u0432\u0430"
     ],
@@ -143,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u043d\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brunsberga"
     ],
     "name:vep_x_preferred":[
@@ -178,7 +181,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1231,
     "wof:belongsto":[
@@ -191,10 +194,12 @@
     "wof:concordances":{
         "gn:id":3096506,
         "gp:id":487601,
-        "qs:id":847946,
         "qs_pg:id":494334,
         "wd:id":"Q160814",
         "wk:page":"Braniewo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":847946
     },
     "wof:country":"PL",
     "wof:geomhash":"073c20673d1ccb3453f709ea608a9292",
@@ -208,7 +213,7 @@
         }
     ],
     "wof:id":101817755,
-    "wof:lastmodified":1563577496,
+    "wof:lastmodified":1566598159,
     "wof:name":"Braniewo",
     "wof:parent_id":102080237,
     "wof:placetype":"locality",

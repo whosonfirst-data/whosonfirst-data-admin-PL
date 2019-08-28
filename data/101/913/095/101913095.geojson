@@ -13,10 +13,13 @@
     "iso:country":"PL",
     "lbl:latitude":54.779267,
     "lbl:longitude":18.161985,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":54.779267,
     "mps:longitude":18.161985,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Krokowa"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u043e\u043a\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krokowo"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":107,
     "wof:belongsto":[
@@ -86,10 +89,12 @@
     "wof:concordances":{
         "gn:id":3094672,
         "gp:id":502351,
-        "qs:id":1190555,
-        "qs_pg:id":1326886,
+        "qs_pg:id":1190555,
         "wd:id":"Q1411532",
         "wk:page":"Krokowa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1326886
     },
     "wof:country":"PL",
     "wof:geomhash":"f8a5b47466a5e18480c92be819298cce",
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":101913095,
-    "wof:lastmodified":1563577905,
+    "wof:lastmodified":1566598255,
     "wof:name":"Krokowa",
     "wof:parent_id":102080269,
     "wof:placetype":"locality",
