@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-03",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-09-03",
     "geom:area":0.041424,
     "geom:area_square_m":326360372.539996,
     "geom:bbox":"18.9576155,50.294327,19.306776,50.536364",
@@ -23,7 +25,7 @@
     "mps:latitude":50.389567,
     "mps:longitude":19.109083,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "qs:a0":"Rzeczpospolita Polska",
     "qs:a0_lc":"PL0000000",
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":102079571,
-    "wof:lastmodified":1566595648,
+    "wof:lastmodified":1567542199,
     "wof:name":"B\u00c4dzi\u00c5ski",
     "wof:parent_id":85687277,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "102079527"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

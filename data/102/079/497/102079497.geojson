@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-03",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2019-09-03",
     "geom:area":0.007888,
     "geom:area_square_m":62561021.78025,
     "geom:bbox":"20.184929,50.0534345,20.353756,50.1604655",
@@ -23,7 +25,7 @@
     "mps:latitude":50.09752,
     "mps:longitude":20.270017,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Krakowski"
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":102079497,
-    "wof:lastmodified":1566595612,
+    "wof:lastmodified":1567542140,
     "wof:name":"Krakowski",
     "wof:parent_id":85687291,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "102079541"
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
