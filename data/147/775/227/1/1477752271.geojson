@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024319,
-    "geom:area_square_m":187810876.962247,
+    "geom:area_square_m":187810876.962242,
     "geom:bbox":"19.696421963,51.26344404,19.927586727,51.440384674",
     "geom:latitude":51.350182,
     "geom:longitude":19.826066,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":19.816719,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079783
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ab879238b19b7fcc6d092bc96c24a5f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"450a0dd49c63d5bea71934c1f6c52037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079783,
+            "localadmin_id":1477752271,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477752271,
-    "wof:lastmodified":1567641816,
+    "wof:lastmodified":1568261646,
     "wof:name":"Gmina Sulej\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079783,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.696421963000034,
+    19.69642196300003,
     51.26344404000008,
     19.92758672700006,
     51.44038467400003

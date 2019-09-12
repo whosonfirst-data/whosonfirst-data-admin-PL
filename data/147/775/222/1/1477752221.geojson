@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011077,
-    "geom:area_square_m":86870581.735092,
+    "geom:area_square_m":86870581.735083,
     "geom:bbox":"21.857066432,50.584604984,22.044388314,50.702703569",
     "geom:latitude":50.636058,
     "geom:longitude":21.940396,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":21.938973,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687295,
+        102079669
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fcbeed9e125cb4c94d6a0f81b9c9c58c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3de262d3f91db64787f50d097fb2a2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079669,
+            "localadmin_id":1477752221,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477752221,
-    "wof:lastmodified":1567638762,
+    "wof:lastmodified":1568252542,
     "wof:name":"Zaleszany",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079669,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.857066432000067,
-    50.584604984000066,
+    21.85706643200007,
+    50.58460498400007,
     22.04438831400006,
     50.70270356900005
 ],

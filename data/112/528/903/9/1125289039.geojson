@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011497,
-    "geom:area_square_m":86983471.058397,
+    "geom:area_square_m":86983471.058398,
     "geom:bbox":"18.479471907,52.223220905,18.654462467,52.340485495",
     "geom:latitude":52.275748,
     "geom:longitude":18.578533,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.572595,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687323,
+        102079927
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"5193a4553fb9e9aa0c075a6e6e2b0c4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13438e0066768d4f2ff6f80321668774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079927,
+            "localadmin_id":1125289039,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1125289039,
-    "wof:lastmodified":1567638805,
+    "wof:lastmodified":1568243396,
     "wof:name":"Osiek Ma\u0142y",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079927,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

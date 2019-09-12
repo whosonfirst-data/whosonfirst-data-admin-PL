@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687287,
+        102191581,
+        1125300507,
+        85633723,
+        102079709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +62,18 @@
     "wof:geomhash":"77d62c238c690bde1b331d17b1720788",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209256877
+            "county_id":102079709,
+            "localadmin_id":1125300507,
+            "locality_id":1209256877,
+            "region_id":85687287
         }
     ],
     "wof:id":1209256877,
-    "wof:lastmodified":1566597021,
+    "wof:lastmodified":1568244168,
     "wof:name":"Brzozowa",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125300507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

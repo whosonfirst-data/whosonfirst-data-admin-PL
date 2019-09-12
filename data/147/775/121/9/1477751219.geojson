@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032253,
-    "geom:area_square_m":248533049.119846,
+    "geom:area_square_m":248533049.119858,
     "geom:bbox":"16.438415915,51.373001511,16.798129056,51.517850223",
     "geom:latitude":51.45135,
     "geom:longitude":16.598139,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":16.540782,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079725
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"415bca9e36079b176ce4ffe82567aaf6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ded1007480a364bab3a1ab963dd7b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079725,
+            "localadmin_id":1477751219,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477751219,
-    "wof:lastmodified":1567638909,
+    "wof:lastmodified":1568250301,
     "wof:name":"Wi\u0144sko",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079725,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.438415915000064,
+    16.43841591500006,
     51.37300151100004,
     16.79812905600005,
     51.51785022300004

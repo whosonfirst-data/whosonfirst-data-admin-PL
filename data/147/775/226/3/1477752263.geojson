@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014948,
-    "geom:area_square_m":116460440.335573,
+    "geom:area_square_m":116460440.335589,
     "geom:bbox":"18.426864987,50.88753397,18.629606775,51.008880308",
     "geom:latitude":50.944929,
     "geom:longitude":18.532876,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.541105,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687313,
+        102079671
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"be521ad496da748640e4fb0bf6bf6942",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26e21ab98c99d4c1b8c2a0ef62caed97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079671,
+            "localadmin_id":1477752263,
+            "region_id":85687313
+        }
+    ],
     "wof:id":1477752263,
-    "wof:lastmodified":1567638765,
+    "wof:lastmodified":1568252621,
     "wof:name":"Rad\u0142\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079671,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.426864987000048,
+    18.42686498700005,
     50.88753397000005,
     18.62960677500007,
     51.00888030800007

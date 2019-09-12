@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04262,
-    "geom:area_square_m":324192645.405417,
+    "geom:area_square_m":324192645.405423,
     "geom:bbox":"22.864635307,51.937641557,23.330674579,52.123134669",
     "geom:latitude":52.036303,
     "geom:longitude":23.112026,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":23.174085,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687309,
+        102079973
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ad4353b763b71b9c2dc5ca2260032298",
-    "wof:hierarchy":[],
+    "wof:geomhash":"595a77e6ad688007d5b31b4f700f55d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079973,
+            "localadmin_id":1477751485,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477751485,
-    "wof:lastmodified":1567641730,
+    "wof:lastmodified":1568260381,
     "wof:name":"Gmina Bia\u0142a Podlaska",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079973,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.864635307000075,
+    22.86463530700007,
     51.93764155700006,
     23.33067457900006,
     52.12313466900008

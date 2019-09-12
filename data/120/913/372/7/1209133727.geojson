@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687277,
+        102191581,
+        1125304637,
+        85633723,
+        102079563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"59dacc8018e7b1ec342d66c4668f3d42",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209133727
+            "county_id":102079563,
+            "localadmin_id":1125304637,
+            "locality_id":1209133727,
+            "region_id":85687277
         }
     ],
     "wof:id":1209133727,
-    "wof:lastmodified":1566597060,
+    "wof:lastmodified":1568230120,
     "wof:name":"Bycina",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125304637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

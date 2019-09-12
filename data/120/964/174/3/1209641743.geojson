@@ -111,7 +111,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687291,
+        102191581,
+        1125358955,
+        85633723,
+        102079407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,14 +125,18 @@
     "wof:geomhash":"851175aa0bc92663f8af571b603c961d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209641743
+            "county_id":102079407,
+            "localadmin_id":1125358955,
+            "locality_id":1209641743,
+            "region_id":85687291
         }
     ],
     "wof:id":1209641743,
-    "wof:lastmodified":1566596916,
+    "wof:lastmodified":1568257564,
     "wof:name":"Czarna Woda",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125358955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

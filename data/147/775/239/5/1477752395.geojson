@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003461,
-    "geom:area_square_m":25173160.701856,
+    "geom:area_square_m":25173160.701848,
     "geom:bbox":"18.481067,53.934226096,18.571824858,53.996706977",
     "geom:latitude":53.968132,
     "geom:longitude":18.522664,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":18.523535,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687267,
+        102080183
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"8b439ea95d41ebc9a247f3b0001567e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e99b1ec36bced6e35b023970ec41e983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080183,
+            "localadmin_id":1477752395,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477752395,
-    "wof:lastmodified":1567641821,
+    "wof:lastmodified":1568261846,
     "wof:name":"Gmina Starogard Gda\u0144ski",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080183,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

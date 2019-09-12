@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008614,
-    "geom:area_square_m":66074489.160274,
+    "geom:area_square_m":66074489.160271,
     "geom:bbox":"19.418932046,51.617425334,19.600142858,51.698442472",
     "geom:latitude":51.661504,
     "geom:longitude":19.502039,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":19.493113,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079837
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"660c6ed336e612800d5f513ad1861d4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0be3871bf5fd4462e4a990d98d73658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079837,
+            "localadmin_id":1477751555,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477751555,
-    "wof:lastmodified":1567641732,
+    "wof:lastmodified":1568260470,
     "wof:name":"Gmina Rzg\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079837,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,8 +55,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.418932046000066,
-    51.617425334000075,
+    19.41893204600007,
+    51.61742533400007,
     19.60014285800003,
     51.69844247200007
 ],

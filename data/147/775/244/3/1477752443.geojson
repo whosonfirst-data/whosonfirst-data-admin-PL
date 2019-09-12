@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020843,
-    "geom:area_square_m":157378095.250796,
+    "geom:area_square_m":157378095.25079,
     "geom:bbox":"20.397586456,52.285082462,20.632160652,52.429457489",
     "geom:latitude":52.36383,
     "geom:longitude":20.513815,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.50438,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102080001
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fe88f55ef82fb6810466012f3aef1712",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1dba0915bd0ae0dc9ff25bd15abf7b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080001,
+            "localadmin_id":1477752443,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477752443,
-    "wof:lastmodified":1567638874,
+    "wof:lastmodified":1568252991,
     "wof:name":"Leoncin",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080001,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.397586456000056,
+    20.39758645600006,
     52.28508246200005,
     20.63216065200004,
     52.42945748900007

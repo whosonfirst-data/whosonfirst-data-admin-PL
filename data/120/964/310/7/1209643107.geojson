@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1125414763,
+        85633723,
+        102079559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"b8a55eea346c4f79b2f1809fda3eef10",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209643107
+            "county_id":102079559,
+            "localadmin_id":1125414763,
+            "locality_id":1209643107,
+            "region_id":85687301
         }
     ],
     "wof:id":1209643107,
-    "wof:lastmodified":1566596939,
+    "wof:lastmodified":1568259850,
     "wof:name":"Ponikwa",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125414763,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

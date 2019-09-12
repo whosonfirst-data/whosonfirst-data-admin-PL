@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032352,
-    "geom:area_square_m":241933338.604504,
+    "geom:area_square_m":241933338.604522,
     "geom:bbox":"19.962745215,52.668144944,20.264334839,52.896751353",
     "geom:latitude":52.78678,
     "geom:longitude":20.126526,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":20.111471,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102080031
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"3c5e9622fb67f1a6e73ac0cb7f9292d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"612ffdefaa3548e86f28e370e60de902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080031,
+            "localadmin_id":1477751331,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477751331,
-    "wof:lastmodified":1567641790,
+    "wof:lastmodified":1568260183,
     "wof:name":"Gmina Raci\u0105\u017c",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080031,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687291,
+        102191581,
+        1125408965,
+        85633723,
+        102079541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"cb671997d1c536b5320eadd4c8ed5915",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209037315
+            "county_id":102079541,
+            "localadmin_id":1125408965,
+            "locality_id":1209037315,
+            "region_id":85687291
         }
     ],
     "wof:id":1209037315,
-    "wof:lastmodified":1566597070,
+    "wof:lastmodified":1568249714,
     "wof:name":"Nowy Swiat",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125408965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

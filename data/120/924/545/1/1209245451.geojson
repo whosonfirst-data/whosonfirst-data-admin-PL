@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1477752185,
+        85633723,
+        102079675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"968084709cce13729d33b8be0ae719e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245451
+            "county_id":102079675,
+            "localadmin_id":1477752185,
+            "locality_id":1209245451,
+            "region_id":85687301
         }
     ],
     "wof:id":1209245451,
-    "wof:lastmodified":1566596989,
+    "wof:lastmodified":1568252478,
     "wof:name":"Jarostow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

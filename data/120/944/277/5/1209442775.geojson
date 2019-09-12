@@ -60,7 +60,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1477751641,
+        85633723,
+        102080161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,14 +74,18 @@
     "wof:geomhash":"bb30761beff1b30f8084eeac8dd4882a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209442775
+            "county_id":102080161,
+            "localadmin_id":1477751641,
+            "locality_id":1209442775,
+            "region_id":85687267
         }
     ],
     "wof:id":1209442775,
-    "wof:lastmodified":1566597246,
+    "wof:lastmodified":1568260566,
     "wof:name":"Zalesie",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751641,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

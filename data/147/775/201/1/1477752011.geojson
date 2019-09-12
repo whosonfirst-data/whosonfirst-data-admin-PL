@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031893,
-    "geom:area_square_m":231982651.75587,
+    "geom:area_square_m":231982651.7559,
     "geom:bbox":"21.886342291,53.858990959,22.196877986,54.079102882",
     "geom:latitude":53.966894,
     "geom:longitude":22.047323,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.034501,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687305,
+        102080235
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"873eec9b6fff1015323977436fa9234e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"661a11f3395df9cfe90445fd0ce2ea5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080235,
+            "localadmin_id":1477752011,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477752011,
-    "wof:lastmodified":1567638939,
+    "wof:lastmodified":1568252077,
     "wof:name":"Wydminy",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080235,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.886342291000062,
+    21.88634229100006,
     53.85899095900004,
     22.19687798600006,
     54.07910288200003

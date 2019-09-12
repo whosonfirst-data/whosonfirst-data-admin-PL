@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002545,
-    "geom:area_square_m":18946258.345599,
+    "geom:area_square_m":18946258.345603,
     "geom:bbox":"22.204247096,52.942844245,22.290331298,53.009192123",
     "geom:latitude":52.977257,
     "geom:longitude":22.245688,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":22.234957,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687283,
+        102080103
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"badd56462709afc7d2bbecaedf428aed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc7d602cd0371bb3bd61c739fa041536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080103,
+            "localadmin_id":1477752701,
+            "region_id":85687283
+        }
+    ],
     "wof:id":1477752701,
-    "wof:lastmodified":1567641831,
+    "wof:lastmodified":1568262231,
     "wof:name":"Gmina Zambr\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080103,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.204247096000074,
+    22.20424709600007,
     52.94284424500006,
     22.29033129800007,
     53.00919212300005

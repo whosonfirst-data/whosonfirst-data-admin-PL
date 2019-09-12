@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125312149,
+        85633723,
+        102080161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"6a248c40940740199c4fa18151342091",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209341017
+            "county_id":102080161,
+            "localadmin_id":1125312149,
+            "locality_id":1209341017,
+            "region_id":85687267
         }
     ],
     "wof:id":1209341017,
-    "wof:lastmodified":1566597167,
+    "wof:lastmodified":1568256483,
     "wof:name":"Lichnowy",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125312149,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

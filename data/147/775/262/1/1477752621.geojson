@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011852,
-    "geom:area_square_m":88741914.83225,
+    "geom:area_square_m":88741914.832248,
     "geom:bbox":"22.328247624,52.661864032,22.460744905,52.795457794",
     "geom:latitude":52.731779,
     "geom:longitude":22.398281,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.39954,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102080057
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ba6d3015958fa3b38d6ce730b3d917ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74572ffbc853d357f5accaa65bfbc3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080057,
+            "localadmin_id":1477752621,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477752621,
-    "wof:lastmodified":1567638785,
+    "wof:lastmodified":1568253409,
     "wof:name":"Boguty-Pianki",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080057,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

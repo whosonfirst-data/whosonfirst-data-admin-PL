@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010937,
-    "geom:area_square_m":85582552.037436,
+    "geom:area_square_m":85582552.037445,
     "geom:bbox":"18.730806605,50.682106675,18.93629482,50.797526889",
     "geom:latitude":50.741617,
     "geom:longitude":18.831301,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.829715,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687277,
+        102079621
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fce69ac1d1f1ea99e4db81b6ee8f4d2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96b93ba60504319ea2beab88373ba55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079621,
+            "localadmin_id":1477751983,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477751983,
-    "wof:lastmodified":1567638748,
+    "wof:lastmodified":1568252020,
     "wof:name":"Herby",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079621,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

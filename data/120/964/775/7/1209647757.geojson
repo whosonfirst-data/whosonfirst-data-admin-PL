@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1477751865,
+        85633723,
+        102079839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +69,18 @@
     "wof:geomhash":"4c3dfaeec19cfeedd18a22f5b5f8f7eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647757
+            "county_id":102079839,
+            "localadmin_id":1477751865,
+            "locality_id":1209647757,
+            "region_id":85687257
         }
     ],
     "wof:id":1209647757,
-    "wof:lastmodified":1566596934,
+    "wof:lastmodified":1568260978,
     "wof:name":"Okraglik",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

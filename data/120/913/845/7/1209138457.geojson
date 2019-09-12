@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1477751623,
+        85633723,
+        102079601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"20fe00f17dc359de14939996dd717629",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209138457
+            "county_id":102079601,
+            "localadmin_id":1477751623,
+            "locality_id":1209138457,
+            "region_id":85687301
         }
     ],
     "wof:id":1209138457,
-    "wof:lastmodified":1566597026,
+    "wof:lastmodified":1568251204,
     "wof:name":"Swidnik",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751623,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020969,
-    "geom:area_square_m":160371835.120858,
+    "geom:area_square_m":160371835.120852,
     "geom:bbox":"21.982854468,51.708114567,22.267124519,51.858907952",
     "geom:latitude":51.79195,
     "geom:longitude":22.125158,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.127307,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687309,
+        102079925
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"0b39deaeea2a9569cf2c5d7bf31f7118",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d07311febe7bb30c49611063f54e59af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079925,
+            "localadmin_id":1477751511,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477751511,
-    "wof:lastmodified":1567638828,
+    "wof:lastmodified":1568250983,
     "wof:name":"Krzywda",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079925,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.982854468000028,
+    21.98285446800003,
     51.70811456700005,
     22.26712451900005,
     51.85890795200004

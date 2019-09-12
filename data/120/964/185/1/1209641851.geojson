@@ -50,7 +50,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125349169,
+        85633723,
+        102080253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +65,18 @@
     "wof:geomhash":"d28e7a978b65a1eb5687efcdcd3309c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209641851
+            "county_id":102080253,
+            "localadmin_id":1125349169,
+            "locality_id":1209641851,
+            "region_id":85687305
         }
     ],
     "wof:id":1209641851,
-    "wof:lastmodified":1566596942,
+    "wof:lastmodified":1568246697,
     "wof:name":"Pilaki Wielkie",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125349169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002556,
-    "geom:area_square_m":20002207.081644,
+    "geom:area_square_m":20002207.081642,
     "geom:bbox":"16.604454675,50.700225488,16.690166193,50.758132232",
     "geom:latitude":50.731201,
     "geom:longitude":16.649302,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":16.648656,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079591
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"1c19a1fbb2a555aead176db88d22dd60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5e7aec4dea5a84435b91908cfb1d207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079591,
+            "localadmin_id":1477752245,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477752245,
-    "wof:lastmodified":1567641814,
+    "wof:lastmodified":1568261623,
     "wof:name":"Gmina Dzier\u017coni\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079591,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.604454675000056,
+    16.60445467500006,
     50.70022548800006,
     16.69016619300004,
     50.75813223200004

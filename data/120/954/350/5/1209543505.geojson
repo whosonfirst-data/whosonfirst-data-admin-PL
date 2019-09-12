@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125375575,
+        85633723,
+        102080031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"67be09e96d6ab753f36d31b221e27734",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209543505
+            "county_id":102080031,
+            "localadmin_id":1125375575,
+            "locality_id":1209543505,
+            "region_id":85687257
         }
     ],
     "wof:id":1209543505,
-    "wof:lastmodified":1566596897,
+    "wof:lastmodified":1568248385,
     "wof:name":"Podmarszczyn",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125375575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0166,
-    "geom:area_square_m":119318319.526165,
+    "geom:area_square_m":119318319.526164,
     "geom:bbox":"17.845791998,54.40995533,18.12586409,54.501475537",
     "geom:latitude":54.458153,
     "geom:longitude":17.979204,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":17.979266,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687267,
+        102080267
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"3cf2892379d4b77b92eefeea10cbacee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddc20dd5755f15e19055539f2a90de82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080267,
+            "localadmin_id":1477751439,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477751439,
-    "wof:lastmodified":1567638726,
+    "wof:lastmodified":1568250757,
     "wof:name":"Linia",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080267,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

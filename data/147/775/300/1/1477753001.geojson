@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006218,
-    "geom:area_square_m":46530964.820116,
+    "geom:area_square_m":46530964.820122,
     "geom:bbox":"22.178564665,52.712880021,22.311017104,52.803599378",
     "geom:latitude":52.759008,
     "geom:longitude":22.243684,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.243656,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102080057
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b869ff3a43965b77a1479d4edc3ec8b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ea69e17101c0865a3b38c62041d750d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080057,
+            "localadmin_id":1477753001,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477753001,
-    "wof:lastmodified":1567638904,
+    "wof:lastmodified":1568254189,
     "wof:name":"Szulborze Wielkie",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080057,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.178564665000067,
-    52.712880021000046,
+    22.17856466500007,
+    52.71288002100005,
     22.31101710400003,
     52.80359937800006
 ],

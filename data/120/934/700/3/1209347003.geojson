@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125288645,
+        85633723,
+        102079923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,14 +68,18 @@
     "wof:geomhash":"7a1e12d924931b704380a884b3617964",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209347003
+            "county_id":102079923,
+            "localadmin_id":1125288645,
+            "locality_id":1209347003,
+            "region_id":85687261
         }
     ],
     "wof:id":1209347003,
-    "wof:lastmodified":1566597151,
+    "wof:lastmodified":1568243032,
     "wof:name":"Kapera",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125288645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

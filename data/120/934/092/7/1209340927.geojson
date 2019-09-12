@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687271,
+        102191581,
+        1477751599,
+        85633723,
+        102080083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"966319a5a5dedfe8806a7b3db384d323",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209340927
+            "county_id":102080083,
+            "localadmin_id":1477751599,
+            "locality_id":1209340927,
+            "region_id":85687271
         }
     ],
     "wof:id":1209340927,
-    "wof:lastmodified":1566597177,
+    "wof:lastmodified":1568260496,
     "wof:name":"Strumiany",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751599,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

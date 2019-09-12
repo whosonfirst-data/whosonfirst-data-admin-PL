@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125417985,
+        85633723,
+        102079891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +56,18 @@
     "wof:geomhash":"fc6aaf30d807eb2618bab27162704289",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209132265
+            "county_id":102079891,
+            "localadmin_id":1125417985,
+            "locality_id":1209132265,
+            "region_id":85687261
         }
     ],
     "wof:id":1209132265,
-    "wof:lastmodified":1566597028,
+    "wof:lastmodified":1568236165,
     "wof:name":"Kobyle",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125417985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

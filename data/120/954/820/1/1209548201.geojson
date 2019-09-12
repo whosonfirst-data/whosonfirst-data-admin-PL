@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687277,
+        102191581,
+        1125269567,
+        85633723,
+        102079477
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"3baacd40b13268cf9195f1882494b076",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548201
+            "county_id":102079477,
+            "localadmin_id":1125269567,
+            "locality_id":1209548201,
+            "region_id":85687277
         }
     ],
     "wof:id":1209548201,
-    "wof:lastmodified":1566596884,
+    "wof:lastmodified":1568242454,
     "wof:name":"Kolonia Kornowacka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125269567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

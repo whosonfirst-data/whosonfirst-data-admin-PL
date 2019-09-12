@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687271,
+        102191581,
+        1125372129,
+        85633723,
+        102080199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"b63a308534cd13d016eb8fb20442b16a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209037319
+            "county_id":102080199,
+            "localadmin_id":1125372129,
+            "locality_id":1209037319,
+            "region_id":85687271
         }
     ],
     "wof:id":1209037319,
-    "wof:lastmodified":1566597070,
+    "wof:lastmodified":1568258030,
     "wof:name":"Wietrzno",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125372129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

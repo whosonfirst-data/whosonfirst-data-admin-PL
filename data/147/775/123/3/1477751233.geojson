@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014732,
-    "geom:area_square_m":110400615.651708,
+    "geom:area_square_m":110400615.651715,
     "geom:bbox":"16.434883828,52.629196005,16.650729388,52.759569685",
     "geom:latitude":52.695533,
     "geom:longitude":16.524766,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":16.524874,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687323,
+        102079963
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"dc64fc7746ee4e7902414db129d0d175",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a37c2b323c5058a02df2c7a3bb3e084d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079963,
+            "localadmin_id":1477751233,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477751233,
-    "wof:lastmodified":1567641724,
+    "wof:lastmodified":1568260023,
     "wof:name":"Gmina Obrzycko",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079963,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.434883828000068,
+    16.43488382800007,
     52.62919600500004,
     16.65072938800006,
     52.75956968500003

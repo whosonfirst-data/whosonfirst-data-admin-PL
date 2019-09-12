@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011427,
-    "geom:area_square_m":88724332.629248,
+    "geom:area_square_m":88724332.629257,
     "geom:bbox":"16.254908631,51.057922377,16.480376107,51.149530992",
     "geom:latitude":51.101324,
     "geom:longitude":16.369144,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":16.348685,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079645
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fcc620afb9153cd3d78ef9246c783270",
-    "wof:hierarchy":[],
+    "wof:geomhash":"443af5e1aafc0efb68f638b1997f984e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079645,
+            "localadmin_id":1477751393,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477751393,
-    "wof:lastmodified":1567638724,
+    "wof:lastmodified":1568250675,
     "wof:name":"W\u0105dro\u017ce Wielkie",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079645,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.254908631000035,
+    16.25490863100003,
     51.05792237700007,
     16.48037610700004,
     51.14953099200005

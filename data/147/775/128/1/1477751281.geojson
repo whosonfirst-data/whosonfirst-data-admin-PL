@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013552,
-    "geom:area_square_m":104968667.955545,
+    "geom:area_square_m":104968667.95555,
     "geom:bbox":"17.588062784,51.160815262,17.79526917,51.271321917",
     "geom:latitude":51.213909,
     "geom:longitude":17.680067,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":17.67168,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079717
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"a286304b8302fea52071984ce2320d8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3428340c6ae108a12e17162619abc2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079717,
+            "localadmin_id":1477751281,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477751281,
-    "wof:lastmodified":1567638817,
+    "wof:lastmodified":1568250438,
     "wof:name":"Dziadowa K\u0142oda",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079717,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.588062784000044,
-    51.160815262000035,
+    17.58806278400004,
+    51.16081526200004,
     17.79526917000004,
     51.27132191700008
 ],

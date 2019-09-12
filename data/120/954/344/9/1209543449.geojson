@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125411185,
+        85633723,
+        102079865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +62,18 @@
     "wof:geomhash":"acd982a7ae6c40f397f349c51353e577",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209543449
+            "county_id":102079865,
+            "localadmin_id":1125411185,
+            "locality_id":1209543449,
+            "region_id":85687323
         }
     ],
     "wof:id":1209543449,
-    "wof:lastmodified":1566596908,
+    "wof:lastmodified":1568259720,
     "wof:name":"Ostrowo",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125411185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

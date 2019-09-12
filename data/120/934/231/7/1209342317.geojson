@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687277,
+        102191581,
+        1125341099,
+        85633723,
+        102079421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +63,18 @@
     "wof:geomhash":"f5c3c29592c471707bf129031c8db962",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209342317
+            "county_id":102079421,
+            "localadmin_id":1125341099,
+            "locality_id":1209342317,
+            "region_id":85687277
         }
     ],
     "wof:id":1209342317,
-    "wof:lastmodified":1566597172,
+    "wof:lastmodified":1568246589,
     "wof:name":"Godziszow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125341099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

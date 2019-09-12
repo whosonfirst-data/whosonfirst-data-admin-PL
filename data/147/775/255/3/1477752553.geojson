@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028636,
-    "geom:area_square_m":220877242.78172,
+    "geom:area_square_m":220877242.781718,
     "geom:bbox":"15.815994662,51.326293427,16.108570056,51.517634665",
     "geom:latitude":51.406797,
     "geom:longitude":15.960954,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":15.960972,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079741
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"6b85a86395f7cb2ad0003b8f31c2b0a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5eb54cb76910030b677693c5e7f38dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079741,
+            "localadmin_id":1477752553,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477752553,
-    "wof:lastmodified":1567641826,
+    "wof:lastmodified":1568262048,
     "wof:name":"Gmina Chocian\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079741,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.815994662000035,
+    15.81599466200004,
     51.32629342700005,
     16.10857005600008,
     51.51763466500006

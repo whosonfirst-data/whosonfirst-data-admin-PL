@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008959,
-    "geom:area_square_m":70840963.178513,
+    "geom:area_square_m":70840963.178497,
     "geom:bbox":"18.150277101,50.180955181,18.267448394,50.328910126",
     "geom:latitude":50.247156,
     "geom:longitude":18.202269,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.212852,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687313,
+        102079523
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"039d0b6414a94dc7e2ffd9214d52d689",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc1d45bad3518263ccce2d0794d57bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079523,
+            "localadmin_id":1477752217,
+            "region_id":85687313
+        }
+    ],
     "wof:id":1477752217,
-    "wof:lastmodified":1567638762,
+    "wof:lastmodified":1568252539,
     "wof:name":"Cisek",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079523,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

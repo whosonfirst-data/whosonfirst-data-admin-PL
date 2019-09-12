@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010219,
-    "geom:area_square_m":77435429.530227,
+    "geom:area_square_m":77435429.530229,
     "geom:bbox":"21.383216593,52.140733928,21.525524343,52.269881674",
     "geom:latitude":52.208166,
     "geom:longitude":21.459145,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":21.459144,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102079965
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"3572c2992c18b3b38feb8b4008c51897",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2b5528d021824d57c4852a93374e21b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079965,
+            "localadmin_id":1125304513,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1125304513,
-    "wof:lastmodified":1567638899,
+    "wof:lastmodified":1568244619,
     "wof:name":"D\u0119be Wielkie",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079965,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.383216593000043,
+    21.38321659300004,
     52.14073392800003,
     21.52552434300003,
     52.26988167400003

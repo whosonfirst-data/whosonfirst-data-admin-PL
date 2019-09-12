@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006198,
-    "geom:area_square_m":49258684.268583,
+    "geom:area_square_m":49258684.268591,
     "geom:bbox":"18.355869944,49.96592613,18.524055468,50.038663534",
     "geom:latitude":50.005178,
     "geom:longitude":18.44747,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.447456,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687277,
+        102079445
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"50ddc94c0cfe33364bc5e97d828da526",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64c6fd1f81f09cc7ffb34d7da633a1e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079445,
+            "localadmin_id":1477751809,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477751809,
-    "wof:lastmodified":1567638840,
+    "wof:lastmodified":1568251606,
     "wof:name":"Wodzis\u0142aw \u015al\u0105ski",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079445,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.355869944000062,
+    18.35586994400006,
     49.96592613000007,
     18.52405546800003,
     50.03866353400008

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007463,
-    "geom:area_square_m":58905214.78939,
+    "geom:area_square_m":58905214.789397,
     "geom:bbox":"20.133880307,50.297864278,20.305327253,50.368703754",
     "geom:latitude":50.331567,
     "geom:longitude":20.21946,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.217835,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079579
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"9d4ed1eadcfe72602fe6e02f953ea8bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f9689c7378a931a8daf92082d14e9f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079579,
+            "localadmin_id":1477751279,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477751279,
-    "wof:lastmodified":1567638719,
+    "wof:lastmodified":1568250432,
     "wof:name":"Rac\u0142awice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079579,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.133880307000027,
-    50.297864278000084,
+    20.13388030700003,
+    50.29786427800008,
     20.30532725300003,
     50.36870375400008
 ],

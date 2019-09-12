@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01252,
-    "geom:area_square_m":97925037.101699,
+    "geom:area_square_m":97925037.1017,
     "geom:bbox":"16.85789385,50.699561627,17.012141671,50.834422825",
     "geom:latitude":50.763653,
     "geom:longitude":16.937297,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":16.931055,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079609
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"6064046f6432fd518a345f13cc71e3c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00d3c404dc85ebda2eecc749b6361095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079609,
+            "localadmin_id":1477751351,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477751351,
-    "wof:lastmodified":1567638819,
+    "wof:lastmodified":1568250601,
     "wof:name":"Kondratowice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079609,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

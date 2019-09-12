@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012079,
-    "geom:area_square_m":95399928.892335,
+    "geom:area_square_m":95399928.892316,
     "geom:bbox":"19.671618103,50.24934019,19.920946544,50.345693481",
     "geom:latitude":50.304063,
     "geom:longitude":19.795256,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.79339,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079555
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"39300f068e04762b8b8262ef70abfa9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"220f17b401ebb9d378959e8cb2bf7188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079555,
+            "localadmin_id":1477751939,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477751939,
-    "wof:lastmodified":1567638845,
+    "wof:lastmodified":1568251930,
     "wof:name":"Trzyci\u0105\u017c",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079555,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -40,7 +53,7 @@
 },
   "bbox": [
     19.67161810300007,
-    50.249340190000055,
+    50.24934019000005,
     19.92094654400006,
     50.34569348100007
 ],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014216,
-    "geom:area_square_m":110503303.894032,
+    "geom:area_square_m":110503303.89403,
     "geom:bbox":"16.331656051,50.997716036,16.555328671,51.117939343",
     "geom:latitude":51.049375,
     "geom:longitude":16.453157,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":16.460806,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079675
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"f3f76d49abe496ad61e9cbe0bf267656",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69c3cd0e1034bd75fd9509573ce62458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079675,
+            "localadmin_id":1477752185,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477752185,
-    "wof:lastmodified":1567638759,
+    "wof:lastmodified":1568252479,
     "wof:name":"Udanin",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079675,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

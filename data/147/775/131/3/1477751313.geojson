@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02487,
-    "geom:area_square_m":193041983.464331,
+    "geom:area_square_m":193041983.464348,
     "geom:bbox":"21.868659319,51.045998392,22.109685131,51.198205638",
     "geom:latitude":51.116316,
     "geom:longitude":21.984573,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":21.986882,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687309,
+        102079761
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fb43054cbd80343f87d041597f38493c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90a8c4ad49b3c29f0a983a83d1c4481b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079761,
+            "localadmin_id":1477751313,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477751313,
-    "wof:lastmodified":1567641849,
+    "wof:lastmodified":1568260160,
     "wof:name":"Gmina Opole Lubelskie",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079761,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.868659319000074,
+    21.86865931900007,
     51.04599839200006,
     22.10968513100005,
     51.19820563800005

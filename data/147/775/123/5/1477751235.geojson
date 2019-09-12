@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00551,
-    "geom:area_square_m":43949060.018425,
+    "geom:area_square_m":43949060.018433,
     "geom:bbox":"20.327755913,49.777264508,20.426794972,49.882456109",
     "geom:latitude":49.834388,
     "geom:longitude":20.373139,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.373885,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079493
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"10e75856dccc79b6aab8ce238742d538",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d776af3c92bf484e73a9958e7ac27420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079493,
+            "localadmin_id":1477751235,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477751235,
-    "wof:lastmodified":1567638909,
+    "wof:lastmodified":1568250324,
     "wof:name":"Trzciana",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079493,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.327755913000033,
+    20.32775591300003,
     49.77726450800003,
     20.42679497200004,
     49.88245610900003

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011711,
-    "geom:area_square_m":85672004.504312,
+    "geom:area_square_m":85672004.504305,
     "geom:bbox":"18.509264736,53.67489609,18.734717847,53.77544313",
     "geom:latitude":53.729044,
     "geom:longitude":18.634995,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.633269,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687267,
+        102080183
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"d9ced57ac766ae3ed757ea25ea2d22d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37e1aee6bae0ee780e1fa6e7dcdeec4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080183,
+            "localadmin_id":1477752941,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477752941,
-    "wof:lastmodified":1567638899,
+    "wof:lastmodified":1568254080,
     "wof:name":"Sm\u0119towo Graniczne",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080183,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.509264736000034,
+    18.50926473600003,
     53.67489609000006,
     18.73471784700007,
     53.77544313000004

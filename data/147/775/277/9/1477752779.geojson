@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004385,
-    "geom:area_square_m":32748280.346617,
+    "geom:area_square_m":32748280.346618,
     "geom:bbox":"18.754104283,52.818268373,18.886010831,52.883336484",
     "geom:latitude":52.848149,
     "geom:longitude":18.81414,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.820628,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687319,
+        102080009
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"934c41429e73c92441d2b70d35804f41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b55d8c6623ec75008549a9e0efff3187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080009,
+            "localadmin_id":1477752779,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477752779,
-    "wof:lastmodified":1567638794,
+    "wof:lastmodified":1568253723,
     "wof:name":"Raci\u0105\u017cek",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080009,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

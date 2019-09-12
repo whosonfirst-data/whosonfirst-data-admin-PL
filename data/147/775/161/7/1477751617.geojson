@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016776,
-    "geom:area_square_m":126709155.137047,
+    "geom:area_square_m":126709155.137029,
     "geom:bbox":"19.491544009,52.287258518,19.696614694,52.416076689",
     "geom:latitude":52.350587,
     "geom:longitude":19.596816,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.586577,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102079959
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"8dfde5ce3d91b11bebe83e5a20808774",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a841eacaf72b50e11b523e59f0ea83d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079959,
+            "localadmin_id":1477751617,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477751617,
-    "wof:lastmodified":1567638924,
+    "wof:lastmodified":1568251196,
     "wof:name":"Szczawin Ko\u015bcielny",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079959,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -40,7 +53,7 @@
 },
   "bbox": [
     19.49154400900005,
-    52.287258518000044,
+    52.28725851800004,
     19.69661469400006,
     52.41607668900008
 ],

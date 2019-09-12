@@ -46,7 +46,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125349169,
+        85633723,
+        102080253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +61,18 @@
     "wof:geomhash":"1e92f625b94f4110060e0817621ae7ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647715
+            "county_id":102080253,
+            "localadmin_id":1125349169,
+            "locality_id":1209647715,
+            "region_id":85687305
         }
     ],
     "wof:id":1209647715,
-    "wof:lastmodified":1566596919,
+    "wof:lastmodified":1568246697,
     "wof:name":"Wyludy",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125349169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

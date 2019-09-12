@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014019,
-    "geom:area_square_m":106825854.607722,
+    "geom:area_square_m":106825854.60771,
     "geom:bbox":"18.29549283,51.887554743,18.48197042,52.024799326",
     "geom:latitude":51.956779,
     "geom:longitude":18.38457,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.378217,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687323,
+        102079883
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"6ef977f149d1d984bbc5608eef5cb2ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba4d68be51815a441737232c93ef57df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079883,
+            "localadmin_id":1477751489,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477751489,
-    "wof:lastmodified":1567638919,
+    "wof:lastmodified":1568250912,
     "wof:name":"Malan\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079883,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.295492830000057,
+    18.29549283000006,
     51.88755474300007,
     18.48197042000004,
     52.02479932600005

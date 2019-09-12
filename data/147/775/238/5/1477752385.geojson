@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025606,
-    "geom:area_square_m":190020018.670437,
+    "geom:area_square_m":190020018.670431,
     "geom:bbox":"19.634233692,53.036733775,19.974188616,53.213157504",
     "geom:latitude":53.119894,
     "geom:longitude":19.80931,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":19.806662,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102080069
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"4de6f312ad1d7578878f80f63d00cd78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0940a9af1f6dbb24a58c56a4b49f0a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080069,
+            "localadmin_id":1477752385,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477752385,
-    "wof:lastmodified":1567641761,
+    "wof:lastmodified":1568261830,
     "wof:name":"Gmina Lubowidz",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080069,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.634233692000066,
+    19.63423369200007,
     53.03673377500007,
     19.97418861600005,
     53.21315750400004

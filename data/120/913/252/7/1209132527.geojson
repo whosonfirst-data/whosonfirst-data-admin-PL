@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687295,
+        102191581,
+        1477752019,
+        85633723,
+        102079513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"9a83b230f03d690dd94d695d589ad171",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209132527
+            "county_id":102079513,
+            "localadmin_id":1477752019,
+            "locality_id":1209132527,
+            "region_id":85687295
         }
     ],
     "wof:id":1209132527,
-    "wof:lastmodified":1566597057,
+    "wof:lastmodified":1568252082,
     "wof:name":"Posada Rybotycka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

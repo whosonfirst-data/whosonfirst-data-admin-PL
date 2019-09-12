@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011277,
-    "geom:area_square_m":88938025.14551,
+    "geom:area_square_m":88938025.145539,
     "geom:bbox":"21.400152715,50.325691081,21.640607425,50.415721683",
     "geom:latitude":50.370111,
     "geom:longitude":21.509814,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":21.491658,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687295,
+        102079597
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"8eabd6191cef52cad321edbddbae86d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ee214adaccbbb71a1914c0ea22f6758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079597,
+            "localadmin_id":1477752449,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477752449,
-    "wof:lastmodified":1567638874,
+    "wof:lastmodified":1568253001,
     "wof:name":"Tusz\u00f3w Narodowy",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079597,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.400152715000047,
+    21.40015271500005,
     50.32569108100006,
     21.64060742500004,
     50.41572168300007

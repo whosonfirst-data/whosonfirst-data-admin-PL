@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687295,
+        102191581,
+        1125326581,
+        85633723,
+        102079415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"2999edd10c87357d4ecfc9248fcbdd58",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209240719
+            "county_id":102079415,
+            "localadmin_id":1125326581,
+            "locality_id":1209240719,
+            "region_id":85687295
         }
     ],
     "wof:id":1209240719,
-    "wof:lastmodified":1566596986,
+    "wof:lastmodified":1568227986,
     "wof:name":"Rapiska",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125326581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

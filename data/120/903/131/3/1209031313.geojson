@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687271,
+        102191581,
+        1477752315,
+        85633723,
+        102080113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"5fc5478fcb7f7c3e29623684656c3bdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031313
+            "county_id":102080113,
+            "localadmin_id":1477752315,
+            "locality_id":1209031313,
+            "region_id":85687271
         }
     ],
     "wof:id":1209031313,
-    "wof:lastmodified":1566597090,
+    "wof:lastmodified":1568261711,
     "wof:name":"Ostrorog",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752315,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

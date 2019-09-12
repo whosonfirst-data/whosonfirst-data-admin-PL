@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012119,
-    "geom:area_square_m":94183123.178719,
+    "geom:area_square_m":94183123.178725,
     "geom:bbox":"14.983324608,50.990126472,15.168244957,51.133328354",
     "geom:latitude":51.061531,
     "geom:longitude":15.087374,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":15.081131,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079695
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"4034e7004efef2bc9b1e10cde7d3e6eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"057274b8e21ab31ad263dccde033c907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079695,
+            "localadmin_id":1477752041,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477752041,
-    "wof:lastmodified":1567638940,
+    "wof:lastmodified":1568252117,
     "wof:name":"Sulik\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079695,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

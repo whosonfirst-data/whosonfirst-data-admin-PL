@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017314,
-    "geom:area_square_m":137542754.402698,
+    "geom:area_square_m":137542754.40268,
     "geom:bbox":"22.769550736,49.96396268,23.071132595,50.077887669",
     "geom:latitude":50.025082,
     "geom:longitude":22.916056,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.943292,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687295,
+        102079573
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"2849cf57d99f1855123bd0047d95667c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"304ad8d584646c743c7cbc4c387e17be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079573,
+            "localadmin_id":1477752819,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477752819,
-    "wof:lastmodified":1567638797,
+    "wof:lastmodified":1568253827,
     "wof:name":"Laszki",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079573,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.769550736000042,
-    49.963962680000066,
+    22.76955073600004,
+    49.96396268000007,
     23.07113259500005,
     50.07788766900006
 ],

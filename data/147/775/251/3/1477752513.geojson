@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015294,
-    "geom:area_square_m":118570321.508521,
+    "geom:area_square_m":118570321.508509,
     "geom:bbox":"18.631909274,51.101426672,18.833872997,51.231447497",
     "geom:latitude":51.172553,
     "geom:longitude":18.720153,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.720167,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079729
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"087656698931fbeaf3cae5defcc1f19c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5a10f59b84ab718e6258791f77387f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079729,
+            "localadmin_id":1477752513,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477752513,
-    "wof:lastmodified":1567638780,
+    "wof:lastmodified":1568253174,
     "wof:name":"Wierzchlas",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079729,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.631909274000066,
+    18.63190927400007,
     51.10142667200006,
     18.83387299700007,
     51.23144749700003

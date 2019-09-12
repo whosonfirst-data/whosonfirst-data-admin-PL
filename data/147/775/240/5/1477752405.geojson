@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019622,
-    "geom:area_square_m":155169026.431139,
+    "geom:area_square_m":155169026.431131,
     "geom:bbox":"22.797822173,50.14815272,23.037647498,50.30155639",
     "geom:latitude":50.243869,
     "geom:longitude":22.917457,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.925636,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687295,
+        102079623
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"80e1944104cb8226e2a5457f0aa14093",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a15ba8d548ca5eb69474a59c0e14653d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079623,
+            "localadmin_id":1477752405,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477752405,
-    "wof:lastmodified":1567638871,
+    "wof:lastmodified":1568252896,
     "wof:name":"Stary Dzik\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079623,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.797822173000043,
+    22.79782217300004,
     50.14815272000004,
     23.03764749800007,
     50.30155639000003

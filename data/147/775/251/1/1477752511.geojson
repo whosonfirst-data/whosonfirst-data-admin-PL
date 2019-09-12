@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007098,
-    "geom:area_square_m":55028155.365353,
+    "geom:area_square_m":55028155.365343,
     "geom:bbox":"18.347485822,51.114055139,18.450461858,51.22450056",
     "geom:latitude":51.170425,
     "geom:longitude":18.396849,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.390735,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079729
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"a81362a414dca3751c62443acbfb1a99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"133baac88357d89ceebf2500d66d78c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079729,
+            "localadmin_id":1477752511,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477752511,
-    "wof:lastmodified":1567638780,
+    "wof:lastmodified":1568253163,
     "wof:name":"Skomlin",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079729,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.347485822000067,
+    18.34748582200007,
     51.11405513900007,
     18.45046185800004,
     51.22450056000008

@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687319,
+        102191581,
+        1125324755,
+        85633723,
+        102080063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"4a7b8cafbd1c9b235310f9ca6210e3d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209133807
+            "county_id":102080063,
+            "localadmin_id":1125324755,
+            "locality_id":1209133807,
+            "region_id":85687319
         }
     ],
     "wof:id":1209133807,
-    "wof:lastmodified":1566597058,
+    "wof:lastmodified":1568246152,
     "wof:name":"Smolno",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125324755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

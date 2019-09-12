@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125416089,
+        85633723,
+        102079699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"384a6a97c4b1d6e0757d2b2f255a46ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209240743
+            "county_id":102079699,
+            "localadmin_id":1125416089,
+            "locality_id":1209240743,
+            "region_id":85687309
         }
     ],
     "wof:id":1209240743,
-    "wof:lastmodified":1566596995,
+    "wof:lastmodified":1568249964,
     "wof:name":"Osuchy",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125416089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

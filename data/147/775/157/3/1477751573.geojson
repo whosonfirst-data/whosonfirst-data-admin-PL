@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012589,
-    "geom:area_square_m":98247918.725837,
+    "geom:area_square_m":98247918.725839,
     "geom:bbox":"16.901518223,50.793894727,17.111668555,50.920431588",
     "geom:latitude":50.86471,
     "geom:longitude":17.006727,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":16.999555,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079609
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"95c87af46abae941f1fc9a00dfa9f15d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f12569255c168ed4e56cd734635a5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079609,
+            "localadmin_id":1477751573,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477751573,
-    "wof:lastmodified":1567638732,
+    "wof:lastmodified":1568251096,
     "wof:name":"Bor\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079609,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -40,7 +53,7 @@
 },
   "bbox": [
     16.90151822300004,
-    50.793894727000065,
+    50.79389472700007,
     17.11166855500005,
     50.92043158800004
 ],

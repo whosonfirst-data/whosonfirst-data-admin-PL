@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019875,
-    "geom:area_square_m":155525847.188278,
+    "geom:area_square_m":155525847.188315,
     "geom:bbox":"23.433093418,50.675801066,23.671353532,50.802795703",
     "geom:latitude":50.740636,
     "geom:longitude":23.553373,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":23.555642,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687309,
+        102079715
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"9fb25987f361ac475524d9ddd7733876",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24effc4f10c49aae8842661e2c651c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079715,
+            "localadmin_id":1125294949,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1125294949,
-    "wof:lastmodified":1567638872,
+    "wof:lastmodified":1568243859,
     "wof:name":"Mi\u0105czyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079715,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -40,7 +53,7 @@
 },
   "bbox": [
     23.43309341800006,
-    50.675801066000076,
+    50.67580106600008,
     23.67135353200007,
     50.80279570300007
 ],

@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687287,
+        102191581,
+        1125370903,
+        85633723,
+        102079693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"cb90bfa280005db71f99fc5459302260",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209363099
+            "county_id":102079693,
+            "localadmin_id":1125370903,
+            "locality_id":1209363099,
+            "region_id":85687287
         }
     ],
     "wof:id":1209363099,
-    "wof:lastmodified":1566596877,
+    "wof:lastmodified":1568248037,
     "wof:name":"Koloman",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125370903,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

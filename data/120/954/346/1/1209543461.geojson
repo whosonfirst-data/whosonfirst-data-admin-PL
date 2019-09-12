@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125285203,
+        85633723,
+        102080015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"053b3e96482cade788780c8300827162",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209543461
+            "county_id":102080015,
+            "localadmin_id":1125285203,
+            "locality_id":1209543461,
+            "region_id":85687257
         }
     ],
     "wof:id":1209543461,
-    "wof:lastmodified":1566596894,
+    "wof:lastmodified":1568242822,
     "wof:name":"Morzyczyn",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125285203,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

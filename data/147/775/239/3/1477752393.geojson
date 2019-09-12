@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01583,
-    "geom:area_square_m":118267092.879406,
+    "geom:area_square_m":118267092.879427,
     "geom:bbox":"22.035615172,52.776714762,22.309135089,52.886129979",
     "geom:latitude":52.828746,
     "geom:longitude":22.177425,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.179485,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102080057
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"3074059b15b326942b61d2a3d55ed9ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a21496898d52dd5ce06930e26cf1d829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080057,
+            "localadmin_id":1477752393,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477752393,
-    "wof:lastmodified":1567638773,
+    "wof:lastmodified":1568252886,
     "wof:name":"Andrzejewo",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080057,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.035615172000064,
+    22.03561517200006,
     52.77671476200004,
     22.30913508900005,
     52.88612997900003

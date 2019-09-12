@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014718,
-    "geom:area_square_m":115739249.997874,
+    "geom:area_square_m":115739249.997882,
     "geom:bbox":"18.429893416,50.435600386,18.665846495,50.552713462",
     "geom:latitude":50.509855,
     "geom:longitude":18.556938,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.588172,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687277,
+        102079563
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"8dbb88edf4607414a7edd45d64da240b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e5fcad2e89a44672cdc4af039344d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079563,
+            "localadmin_id":1477751263,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477751263,
-    "wof:lastmodified":1567638718,
+    "wof:lastmodified":1568250380,
     "wof:name":"Wielowie\u015b",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079563,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.429893416000027,
+    18.42989341600003,
     50.43560038600003,
     18.66584649500004,
     50.55271346200004

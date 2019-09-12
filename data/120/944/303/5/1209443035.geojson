@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687283,
+        102191581,
+        1125423525,
+        85633723,
+        102080181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +69,18 @@
     "wof:geomhash":"bf841d2178519ced5d02a5b2af000e25",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209443035
+            "county_id":102080181,
+            "localadmin_id":1125423525,
+            "locality_id":1209443035,
+            "region_id":85687283
         }
     ],
     "wof:id":1209443035,
-    "wof:lastmodified":1566597238,
+    "wof:lastmodified":1568259927,
     "wof:name":"Kapice",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125423525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

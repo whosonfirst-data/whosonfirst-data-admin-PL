@@ -56,7 +56,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125270529,
+        85633723,
+        102080195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,14 +71,18 @@
     "wof:geomhash":"2ec16be431731180b188b0805c9d3cf9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209542203
+            "county_id":102080195,
+            "localadmin_id":1125270529,
+            "locality_id":1209542203,
+            "region_id":85687305
         }
     ],
     "wof:id":1209542203,
-    "wof:lastmodified":1566596886,
+    "wof:lastmodified":1568254284,
     "wof:name":"Karwica",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125270529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

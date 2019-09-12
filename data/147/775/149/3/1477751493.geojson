@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004691,
-    "geom:area_square_m":37492383.928742,
+    "geom:area_square_m":37492383.928741,
     "geom:bbox":"20.999766956,49.695072688,21.14097596,49.770404673",
     "geom:latitude":49.735693,
     "geom:longitude":21.082336,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":21.095164,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079429
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fb517397a1c0b0c7b84bf503f0729017",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a50808d993d9c289ac36659697ba713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079429,
+            "localadmin_id":1477751493,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477751493,
-    "wof:lastmodified":1567638827,
+    "wof:lastmodified":1568250918,
     "wof:name":"Moszczenica",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079429,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

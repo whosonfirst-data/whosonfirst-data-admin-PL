@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001683,
-    "geom:area_square_m":13249392.495011,
+    "geom:area_square_m":13249392.49501,
     "geom:bbox":"23.39386798,50.426331704,23.459128207,50.46941749",
     "geom:latitude":50.449612,
     "geom:longitude":23.427446,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":23.424194,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687309,
+        102079689
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ab84f7ce43208b0065bc0c507fb93156",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24f6b6a6e4b9d357f950b11758b02898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079689,
+            "localadmin_id":1477751369,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477751369,
-    "wof:lastmodified":1567641727,
+    "wof:lastmodified":1568260250,
     "wof:name":"Gmina Tomasz\u00f3w Lubelski",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079689,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

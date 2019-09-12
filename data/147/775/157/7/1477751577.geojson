@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011455,
-    "geom:area_square_m":91352735.99809,
+    "geom:area_square_m":91352735.998069,
     "geom:bbox":"18.826824641,49.772452673,19.014954101,49.889966474",
     "geom:latitude":49.838014,
     "geom:longitude":18.906416,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.900009,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687277,
+        102079427
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fc1e51f0bc40f3e9c72ddaf3cd2110e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54573c68fd539067fbbc8c79b3e08d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079427,
+            "localadmin_id":1477751577,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477751577,
-    "wof:lastmodified":1567638732,
+    "wof:lastmodified":1568251117,
     "wof:name":"Jasienica",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079427,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

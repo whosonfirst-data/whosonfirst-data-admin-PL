@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1477752225,
+        85633723,
+        102079609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"c1657dd8c4910db660c11f1a40eb3153",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031523
+            "county_id":102079609,
+            "localadmin_id":1477752225,
+            "locality_id":1209031523,
+            "region_id":85687301
         }
     ],
     "wof:id":1209031523,
-    "wof:lastmodified":1566597093,
+    "wof:lastmodified":1568261592,
     "wof:name":"Osno",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

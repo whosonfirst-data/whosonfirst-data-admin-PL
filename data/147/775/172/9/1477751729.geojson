@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030374,
-    "geom:area_square_m":223076528.932354,
+    "geom:area_square_m":223076528.93238,
     "geom:bbox":"16.991360429,53.490964271,17.422804294,53.634064377",
     "geom:latitude":53.561986,
     "geom:longitude":17.203772,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":17.221779,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687267,
+        102080157
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"010612fd8b804f5f0fec5d889612b8f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd1ab0054233184f51eee64d0cd0042f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080157,
+            "localadmin_id":1477751729,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477751729,
-    "wof:lastmodified":1567641736,
+    "wof:lastmodified":1568260755,
     "wof:name":"Gmina Debrzno",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080157,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.991360429000054,
+    16.99136042900005,
     53.49096427100005,
     17.42280429400006,
     53.63406437700007

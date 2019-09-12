@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687319,
+        102191581,
+        1125270779,
+        85633723,
+        102079977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"6a20cadaf13da81f18e3d64cc7f63df9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209240647
+            "county_id":102079977,
+            "localadmin_id":1125270779,
+            "locality_id":1209240647,
+            "region_id":85687319
         }
     ],
     "wof:id":1209240647,
-    "wof:lastmodified":1566596988,
+    "wof:lastmodified":1568242475,
     "wof:name":"Bronislaw",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125270779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

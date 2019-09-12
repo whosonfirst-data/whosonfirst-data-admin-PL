@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008213,
-    "geom:area_square_m":63087433.796674,
+    "geom:area_square_m":63087433.796673,
     "geom:bbox":"15.962612686,51.537807536,16.110191157,51.653746849",
     "geom:latitude":51.594412,
     "geom:longitude":16.044052,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":16.049059,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079769
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ffa39c1dbc57c8eeebe141442aa2eac1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9df2bb576814421156f20b7ea3bab5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079769,
+            "localadmin_id":1477751595,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477751595,
-    "wof:lastmodified":1567638923,
+    "wof:lastmodified":1568251154,
     "wof:name":"Jerzmanowa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079769,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.962612686000059,
+    15.96261268600006,
     51.53780753600006,
     16.11019115700003,
     51.65374684900007

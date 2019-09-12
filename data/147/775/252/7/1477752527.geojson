@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010571,
-    "geom:area_square_m":84480784.044055,
+    "geom:area_square_m":84480784.044039,
     "geom:bbox":"20.525871722,49.679330798,20.721589026,49.796623643",
     "geom:latitude":49.737178,
     "geom:longitude":20.62942,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.622776,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079425
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"2c8f2e7f0b0c475f102d05baa9283978",
-    "wof:hierarchy":[],
+    "wof:geomhash":"046e64bdeb25ea2bf2d03027cec6d442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079425,
+            "localadmin_id":1477752527,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477752527,
-    "wof:lastmodified":1567638781,
+    "wof:lastmodified":1568253205,
     "wof:name":"\u0141ososina Dolna",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079425,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.525871722000034,
+    20.52587172200003,
     49.67933079800008,
     20.72158902600006,
     49.79662364300003

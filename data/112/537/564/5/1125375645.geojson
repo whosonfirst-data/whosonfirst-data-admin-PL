@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016512,
-    "geom:area_square_m":125519920.547563,
+    "geom:area_square_m":125519920.547605,
     "geom:bbox":"22.194874584,51.99600433,22.387559067,52.126136309",
     "geom:latitude":52.063812,
     "geom:longitude":22.289277,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.287447,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102079979
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"01198f2821d51e88f85c2c9836ab4180",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6220488c04f1fe94bde8082a3a28942b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079979,
+            "localadmin_id":1125375645,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1125375645,
-    "wof:lastmodified":1567638826,
+    "wof:lastmodified":1568248423,
     "wof:name":"Wi\u015bniew",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079979,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.194874584000047,
+    22.19487458400005,
     51.99600433000006,
     22.38755906700004,
     52.12613630900006

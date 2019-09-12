@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006093,
-    "geom:area_square_m":48240831.203594,
+    "geom:area_square_m":48240831.203597,
     "geom:bbox":"20.679383687,50.145704352,20.810699968,50.242752551",
     "geom:latitude":50.186667,
     "geom:longitude":20.737305,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.732876,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079535
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"3f9e733454a1857115684d28a3af2d7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ddfac265ae4725f456e23e6029550b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079535,
+            "localadmin_id":1125328597,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1125328597,
-    "wof:lastmodified":1567638874,
+    "wof:lastmodified":1568246431,
     "wof:name":"Wietrzychowice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079535,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.914402,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687287,
+        102079679
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"4ac19cf15a800975f55403340631bc14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e30266f3ee6d94ee1ba22ae25bd8cf21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079679,
+            "localadmin_id":1477751719,
+            "region_id":85687287
+        }
+    ],
     "wof:id":1477751719,
-    "wof:lastmodified":1567638836,
+    "wof:lastmodified":1568251438,
     "wof:name":"Moskorzew",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079679,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.828373420000048,
+    19.82837342000005,
     50.61581018500004,
     20.03175935300004,
     50.69626774100004

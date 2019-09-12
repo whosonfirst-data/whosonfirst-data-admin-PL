@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01258,
-    "geom:area_square_m":95447549.270342,
+    "geom:area_square_m":95447549.270348,
     "geom:bbox":"16.790245668,52.09780414,16.993530565,52.19800594",
     "geom:latitude":52.15052,
     "geom:longitude":16.892143,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":16.894111,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687323,
+        102079865
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"4747d46db4cbfcb8d50ede0fe908f91c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9344225697a8847cd6cc48e5a24da7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079865,
+            "localadmin_id":1477751755,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477751755,
-    "wof:lastmodified":1567638838,
+    "wof:lastmodified":1568251507,
     "wof:name":"Brodnica",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079865,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

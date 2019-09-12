@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003502,
-    "geom:area_square_m":28000774.656475,
+    "geom:area_square_m":28000774.656472,
     "geom:bbox":"19.247851134,49.682556911,19.354779933,49.742660679",
     "geom:latitude":49.709012,
     "geom:longitude":19.302068,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.311776,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687277,
+        102079411
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"d20207300701a78864af97fc1c9965a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d217a8edd460927b1b10b60c7860a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079411,
+            "localadmin_id":1477752965,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477752965,
-    "wof:lastmodified":1567638806,
+    "wof:lastmodified":1568254149,
     "wof:name":"Gilowice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079411,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1477752215,
+        85633723,
+        102079831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"a8b7b842a2c7ca7192702bde22e2e60c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209342343
+            "county_id":102079831,
+            "localadmin_id":1477752215,
+            "locality_id":1209342343,
+            "region_id":85687261
         }
     ],
     "wof:id":1209342343,
-    "wof:lastmodified":1566597162,
+    "wof:lastmodified":1568261584,
     "wof:name":"Ludwikow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752215,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

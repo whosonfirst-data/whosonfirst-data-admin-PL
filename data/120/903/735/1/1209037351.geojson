@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1477751935,
+        85633723,
+        102080019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"2ed3f3fa6f381e0d5a1a21fcfb0ddf1c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209037351
+            "county_id":102080019,
+            "localadmin_id":1477751935,
+            "locality_id":1209037351,
+            "region_id":85687323
         }
     ],
     "wof:id":1209037351,
-    "wof:lastmodified":1566597093,
+    "wof:lastmodified":1568251924,
     "wof:name":"Piastowice",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751935,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125389319,
+        85633723,
+        102080217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"1dde57301d1deeea48d8696343bd19f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209543517
+            "county_id":102080217,
+            "localadmin_id":1125389319,
+            "locality_id":1209543517,
+            "region_id":85687267
         }
     ],
     "wof:id":1209543517,
-    "wof:lastmodified":1566596898,
+    "wof:lastmodified":1568249144,
     "wof:name":"Sominy",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125389319,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

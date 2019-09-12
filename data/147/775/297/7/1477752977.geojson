@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008324,
-    "geom:area_square_m":66225854.358149,
+    "geom:area_square_m":66225854.358164,
     "geom:bbox":"19.535691001,49.912820293,19.733062253,50.000583304",
     "geom:latitude":49.950971,
     "geom:longitude":19.623879,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.617178,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079451
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"952254ce8673649e66d5ee644d744b23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abe0c26924d40bb5c4612d94b937e5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079451,
+            "localadmin_id":1477752977,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477752977,
-    "wof:lastmodified":1567638903,
+    "wof:lastmodified":1568254162,
     "wof:name":"Brze\u017anica",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079451,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.535691001000032,
+    19.53569100100003,
     49.91282029300004,
     19.73306225300007,
     50.00058330400003

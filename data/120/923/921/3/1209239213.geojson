@@ -78,7 +78,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687295,
+        102191581,
+        1125410569,
+        85633723,
+        102079455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,14 +92,18 @@
     "wof:geomhash":"91dcc4f3f4c084659e439c9b5adb9dbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209239213
+            "county_id":102079455,
+            "localadmin_id":1125410569,
+            "locality_id":1209239213,
+            "region_id":85687295
         }
     ],
     "wof:id":1209239213,
-    "wof:lastmodified":1566597017,
+    "wof:lastmodified":1568259664,
     "wof:name":"Borek",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125410569,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

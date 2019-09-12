@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687277,
+        102191581,
+        1477752247,
+        85633723,
+        102079445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"28a16582034b436df8286cc51ebb6496",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209346967
+            "county_id":102079445,
+            "localadmin_id":1477752247,
+            "locality_id":1209346967,
+            "region_id":85687277
         }
     ],
     "wof:id":1209346967,
-    "wof:lastmodified":1566597177,
+    "wof:lastmodified":1568252577,
     "wof:name":"Rogowiec",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752247,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

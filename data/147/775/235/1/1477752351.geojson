@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016467,
-    "geom:area_square_m":124585179.572995,
+    "geom:area_square_m":124585179.573008,
     "geom:bbox":"20.469128608,52.22563294,20.732729014,52.33372047",
     "geom:latitude":52.275549,
     "geom:longitude":20.605302,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.592371,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102079949
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"da400c140b63483a1903a44c19688395",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d940dfc1c6c6e8dfe703bcbd400cdb8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079949,
+            "localadmin_id":1477752351,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477752351,
-    "wof:lastmodified":1567638867,
+    "wof:lastmodified":1568252811,
     "wof:name":"Leszno",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079949,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.469128608000062,
+    20.46912860800006,
     52.22563294000008,
     20.73272901400003,
     52.33372047000006

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002812,
-    "geom:area_square_m":21498029.776218,
+    "geom:area_square_m":21498029.776217,
     "geom:bbox":"19.708107145,51.776937777,19.790761999,51.824384404",
     "geom:latitude":51.802877,
     "geom:longitude":19.746906,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":19.747697,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079853
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"5b983e60a55b2b77389b4bb1054f3530",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eac8aff869d903dd1c6f0bd94f5e5921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079853,
+            "localadmin_id":1477751909,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477751909,
-    "wof:lastmodified":1567641803,
+    "wof:lastmodified":1568261019,
     "wof:name":"Gmina Brzeziny",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079853,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.708107145000042,
+    19.70810714500004,
     51.77693777700006,
     19.79076199900004,
     51.82438440400006

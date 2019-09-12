@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125282469,
+        85633723,
+        102079873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"c3a9c95f6acb5c3169dc741908304347",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209240723
+            "county_id":102079873,
+            "localadmin_id":1125282469,
+            "locality_id":1209240723,
+            "region_id":85687261
         }
     ],
     "wof:id":1209240723,
-    "wof:lastmodified":1566596997,
+    "wof:lastmodified":1568254885,
     "wof:name":"Kolonia Tymianka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125282469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

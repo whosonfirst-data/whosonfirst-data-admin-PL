@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125304653,
+        85633723,
+        102080003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +69,18 @@
     "wof:geomhash":"cdb96a3d756f67a495595fa006e7ff66",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209346949
+            "county_id":102080003,
+            "localadmin_id":1125304653,
+            "locality_id":1209346949,
+            "region_id":85687257
         }
     ],
     "wof:id":1209346949,
-    "wof:lastmodified":1566597158,
+    "wof:lastmodified":1568244699,
     "wof:name":"Jaroszewo Biskupie",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125304653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

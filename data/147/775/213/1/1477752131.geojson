@@ -26,15 +26,28 @@
     "reversegeo:longitude":22.649189,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687283,
+        102080181
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"f1602d260479eb069fd06d867b8d0483",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0dc285c1cd55ab7569519905b3f0514e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080181,
+            "localadmin_id":1477752131,
+            "region_id":85687283
+        }
+    ],
     "wof:id":1477752131,
-    "wof:lastmodified":1567641808,
+    "wof:lastmodified":1568261423,
     "wof:name":"Gmina Rajgr\u00f3d",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080181,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,8 +55,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.472509709000068,
-    53.597062556000026,
+    22.47250970900007,
+    53.59706255600003,
     22.84426755000004,
     53.76158878600006
 ],

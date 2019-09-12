@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019929,
-    "geom:area_square_m":144476913.48038,
+    "geom:area_square_m":144476913.480386,
     "geom:bbox":"20.625411914,54.009791715,20.817053426,54.21405261",
     "geom:latitude":54.106374,
     "geom:longitude":20.719938,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.734423,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687305,
+        102080215
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"62a794b477f16da2951a73338c88983b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"500e36465cac6bbf0d4510527eb104fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080215,
+            "localadmin_id":1477751903,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477751903,
-    "wof:lastmodified":1567638746,
+    "wof:lastmodified":1568251879,
     "wof:name":"Kiwity",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080215,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

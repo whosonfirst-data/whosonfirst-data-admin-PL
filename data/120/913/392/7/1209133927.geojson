@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687271,
+        102191581,
+        1477752953,
+        85633723,
+        102080147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"167563731d9f903882a26976488ab095",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209133927
+            "county_id":102080147,
+            "localadmin_id":1477752953,
+            "locality_id":1209133927,
+            "region_id":85687271
         }
     ],
     "wof:id":1209133927,
-    "wof:lastmodified":1566597039,
+    "wof:lastmodified":1568254108,
     "wof:name":"Slonowice",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752953,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

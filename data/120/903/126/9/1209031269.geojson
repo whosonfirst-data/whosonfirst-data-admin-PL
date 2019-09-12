@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687277,
+        102191581,
+        1125326629,
+        85633723,
+        102079525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"fd3ee3c362b82c64a11eab27ede05076",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031269
+            "county_id":102079525,
+            "localadmin_id":1125326629,
+            "locality_id":1209031269,
+            "region_id":85687277
         }
     ],
     "wof:id":1209031269,
-    "wof:lastmodified":1566597087,
+    "wof:lastmodified":1568246267,
     "wof:name":"Przelajka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125326629,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

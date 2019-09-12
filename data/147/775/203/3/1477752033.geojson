@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01363,
-    "geom:area_square_m":105826310.222631,
+    "geom:area_square_m":105826310.222615,
     "geom:bbox":"23.146213835,51.045141467,23.399567272,51.164156504",
     "geom:latitude":51.102408,
     "geom:longitude":23.294312,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":23.315401,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687309,
+        102079813
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"826bc27d941f5a50d469ad8c223f0cd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b647a3ec68607fd2f60e214c5e803eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079813,
+            "localadmin_id":1477752033,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477752033,
-    "wof:lastmodified":1567641870,
+    "wof:lastmodified":1568261261,
     "wof:name":"Gmina Rejowiec",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079813,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,8 +55,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.146213835000026,
-    51.045141467000064,
+    23.14621383500003,
+    51.04514146700006,
     23.39956727200007,
     51.16415650400007
 ],

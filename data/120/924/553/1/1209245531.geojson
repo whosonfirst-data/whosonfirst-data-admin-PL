@@ -59,7 +59,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1477752301,
+        85633723,
+        102080129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,14 +74,18 @@
     "wof:geomhash":"e280c18cb9514f08968a941f7395c36f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245531
+            "county_id":102080129,
+            "localadmin_id":1477752301,
+            "locality_id":1209245531,
+            "region_id":85687305
         }
     ],
     "wof:id":1209245531,
-    "wof:lastmodified":1566596994,
+    "wof:lastmodified":1568252719,
     "wof:name":"Turowko",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

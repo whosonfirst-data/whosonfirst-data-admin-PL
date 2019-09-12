@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125306739,
+        85633723,
+        102080035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"46c1259b0cd86616398f2a5ed5b4d25a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209341179
+            "county_id":102080035,
+            "localadmin_id":1125306739,
+            "locality_id":1209341179,
+            "region_id":85687257
         }
     ],
     "wof:id":1209341179,
-    "wof:lastmodified":1566597164,
+    "wof:lastmodified":1568256152,
     "wof:name":"Sudragi",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125306739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

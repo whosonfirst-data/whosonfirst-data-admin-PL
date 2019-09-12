@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015136,
-    "geom:area_square_m":118611801.817385,
+    "geom:area_square_m":118611801.817391,
     "geom:bbox":"18.478263535,50.599572547,18.666074392,50.736903308",
     "geom:latitude":50.671655,
     "geom:longitude":18.572259,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.573708,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687277,
+        102079621
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"39bcd8307198bc822b7ae260eae3d5f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbf0f2a87862a124b5b0bed32f51ba7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079621,
+            "localadmin_id":1477751791,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477751791,
-    "wof:lastmodified":1567638839,
+    "wof:lastmodified":1568251571,
     "wof:name":"Pawonk\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079621,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.478263535000053,
+    18.47826353500005,
     50.59957254700004,
     18.66607439200004,
     50.73690330800008

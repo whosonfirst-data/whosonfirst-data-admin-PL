@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687313,
+        102191581,
+        1125282509,
+        85633723,
+        102079671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"a969729d4f999e5543d59279a8ba7fb9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209543535
+            "county_id":102079671,
+            "localadmin_id":1125282509,
+            "locality_id":1209543535,
+            "region_id":85687313
         }
     ],
     "wof:id":1209543535,
-    "wof:lastmodified":1566596880,
+    "wof:lastmodified":1568254917,
     "wof:name":"Baki",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125282509,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

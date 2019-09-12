@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125304685,
+        85633723,
+        102079795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"897ca775ca39236b5d8c5db5dfea2721",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031275
+            "county_id":102079795,
+            "localadmin_id":1125304685,
+            "locality_id":1209031275,
+            "region_id":85687309
         }
     ],
     "wof:id":1209031275,
-    "wof:lastmodified":1566597084,
+    "wof:lastmodified":1568244722,
     "wof:name":"Zakrzyze",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125304685,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

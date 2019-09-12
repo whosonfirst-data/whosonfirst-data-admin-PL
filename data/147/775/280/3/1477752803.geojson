@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009699,
-    "geom:area_square_m":74644771.130109,
+    "geom:area_square_m":74644771.130108,
     "geom:bbox":"18.153935624,51.455326656,18.342895744,51.547382149",
     "geom:latitude":51.508522,
     "geom:longitude":18.243775,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.245158,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687323,
+        102079747
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"642d855c007c2743a54f9fa5d61a1250",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fdabe100b02219cf7f669e9ad1fac38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079747,
+            "localadmin_id":1477752803,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477752803,
-    "wof:lastmodified":1567638892,
+    "wof:lastmodified":1568253797,
     "wof:name":"Kraszewice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079747,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

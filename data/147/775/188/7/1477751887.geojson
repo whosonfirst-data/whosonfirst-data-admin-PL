@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031442,
-    "geom:area_square_m":230132803.482536,
+    "geom:area_square_m":230132803.482544,
     "geom:bbox":"22.174708277,53.626759456,22.626563828,53.779857374",
     "geom:latitude":53.706593,
     "geom:longitude":22.390671,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.390654,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687305,
+        102080209
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"11d465510c1d209748345ec5591ddd6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"711fb1a4bf923ad06380be9334ac964c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080209,
+            "localadmin_id":1477751887,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477751887,
-    "wof:lastmodified":1567638746,
+    "wof:lastmodified":1568251845,
     "wof:name":"Prostki",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080209,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.174708277000036,
+    22.17470827700004,
     53.62675945600006,
     22.62656382800003,
     53.77985737400007

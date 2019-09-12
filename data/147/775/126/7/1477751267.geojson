@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022676,
-    "geom:area_square_m":172810125.938233,
+    "geom:area_square_m":172810125.938248,
     "geom:bbox":"21.86638019,51.887624341,22.166441629,52.022094868",
     "geom:latitude":51.953113,
     "geom:longitude":22.015265,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":22.047558,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687309,
+        102079925
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"38f6503a342c9432dbd8f1d374450547",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c0c04eabcbc52f89189b764319e49d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079925,
+            "localadmin_id":1477751267,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477751267,
-    "wof:lastmodified":1567641848,
+    "wof:lastmodified":1568260123,
     "wof:name":"Gmina Stoczek \u0141ukowski",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079925,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

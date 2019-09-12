@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687319,
+        102191581,
+        1477751341,
+        85633723,
+        102080085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"616b005b76b97089f894dbb0541784cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031467
+            "county_id":102080085,
+            "localadmin_id":1477751341,
+            "locality_id":1209031467,
+            "region_id":85687319
         }
     ],
     "wof:id":1209031467,
-    "wof:lastmodified":1566597106,
+    "wof:lastmodified":1568250576,
     "wof:name":"Strzelce Gorne",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

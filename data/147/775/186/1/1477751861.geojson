@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010693,
-    "geom:area_square_m":82210373.779895,
+    "geom:area_square_m":82210373.779896,
     "geom:bbox":"20.75735556,51.511536435,20.927845522,51.612069058",
     "geom:latitude":51.555434,
     "geom:longitude":20.848452,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.858516,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102079839
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"acabb647f5b8c2401c9c0d0c6a42e503",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7112f4772724e28efee3bf4dcd608cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079839,
+            "localadmin_id":1477751861,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477751861,
-    "wof:lastmodified":1567638842,
+    "wof:lastmodified":1568251741,
     "wof:name":"Radzan\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079839,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.757355560000065,
+    20.75735556000006,
     51.51153643500004,
     20.92784552200004,
     51.61206905800003

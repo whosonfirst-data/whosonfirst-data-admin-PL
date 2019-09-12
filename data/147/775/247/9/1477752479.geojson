@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012084,
-    "geom:area_square_m":95971700.522583,
+    "geom:area_square_m":95971700.52257,
     "geom:bbox":"20.114770682,49.971312475,20.36996436,50.100195165",
     "geom:latitude":50.038376,
     "geom:longitude":20.243155,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":20.245069,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079479
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b13ca6e934d215f60494d16cebd869c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7e1c2139cb128831bdb1e9e4f627599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079479,
+            "localadmin_id":1477752479,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477752479,
-    "wof:lastmodified":1567641823,
+    "wof:lastmodified":1568261927,
     "wof:name":"Gmina Niepo\u0142omice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079479,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.114770682000028,
+    20.11477068200003,
     49.97131247500005,
     20.36996436000004,
     50.10019516500006

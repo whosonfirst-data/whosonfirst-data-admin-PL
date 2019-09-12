@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014771,
-    "geom:area_square_m":114208535.459022,
+    "geom:area_square_m":114208535.459057,
     "geom:bbox":"20.185537897,51.236632075,20.41441709,51.350811886",
     "geom:latitude":51.296611,
     "geom:longitude":20.30088,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.299115,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079785
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"1ed16cb7652db2e8599f992ffcc13744",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac0c1cec2757941cb66240a8f9d7e58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079785,
+            "localadmin_id":1477751325,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477751325,
-    "wof:lastmodified":1567638818,
+    "wof:lastmodified":1568250553,
     "wof:name":"Bia\u0142acz\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079785,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.185537897000074,
-    51.236632075000045,
+    20.18553789700007,
+    51.23663207500005,
     20.41441709000003,
     51.35081188600003
 ],

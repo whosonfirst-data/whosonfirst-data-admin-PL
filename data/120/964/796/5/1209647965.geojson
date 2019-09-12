@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1477752959,
+        85633723,
+        102079799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"53b6c6a0dbae1a886831d6c8e109dd79",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647965
+            "county_id":102079799,
+            "localadmin_id":1477752959,
+            "locality_id":1209647965,
+            "region_id":85687257
         }
     ],
     "wof:id":1209647965,
-    "wof:lastmodified":1566596915,
+    "wof:lastmodified":1568254132,
     "wof:name":"Czarnolas",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752959,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

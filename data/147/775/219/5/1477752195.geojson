@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023553,
-    "geom:area_square_m":180965408.45115,
+    "geom:area_square_m":180965408.451125,
     "geom:bbox":"18.637571914,51.495059392,18.879886864,51.673765974",
     "geom:latitude":51.58364,
     "geom:longitude":18.756224,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":18.736376,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079819
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"5ab5e8a9e0b9ea123a977aba61eab4bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2baec900c3e3909aa1599286434f3fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079819,
+            "localadmin_id":1477752195,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477752195,
-    "wof:lastmodified":1567641812,
+    "wof:lastmodified":1568261560,
     "wof:name":"Gmina Sieradz",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079819,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.637571914000034,
+    18.63757191400003,
     51.49505939200003,
     18.87988686400007,
     51.67376597400005

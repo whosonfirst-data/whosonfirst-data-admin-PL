@@ -53,7 +53,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125291849,
+        85633723,
+        102080195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,14 +68,18 @@
     "wof:geomhash":"c93ae30b158d17114128f4d4f71d21f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209138377
+            "county_id":102080195,
+            "localadmin_id":1125291849,
+            "locality_id":1209138377,
+            "region_id":85687305
         }
     ],
     "wof:id":1209138377,
-    "wof:lastmodified":1566597053,
+    "wof:lastmodified":1568255421,
     "wof:name":"Nowe Drygaly",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125291849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

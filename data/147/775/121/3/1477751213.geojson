@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009158,
-    "geom:area_square_m":70528895.856577,
+    "geom:area_square_m":70528895.856569,
     "geom:bbox":"18.221039857,51.419817052,18.382797532,51.542088056",
     "geom:latitude":51.476436,
     "geom:longitude":18.320298,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.328275,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687323,
+        102079747
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"a53e19ed535bb3c3185b8f5fa2a661b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"697d6e3a08c59c29a4be7805adf80850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079747,
+            "localadmin_id":1477751213,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477751213,
-    "wof:lastmodified":1567638716,
+    "wof:lastmodified":1568250279,
     "wof:name":"Czajk\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079747,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

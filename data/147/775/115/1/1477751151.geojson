@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01002,
-    "geom:area_square_m":80273084.392376,
+    "geom:area_square_m":80273084.392371,
     "geom:bbox":"19.619281975,49.571545448,19.811971608,49.669875087",
     "geom:latitude":49.618692,
     "geom:longitude":19.720396,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.713806,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079419
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"7ad266af0ad8bbe87b3f5e293073f6b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56e1254d1a52f940043dc0e47eaaddcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079419,
+            "localadmin_id":1477751151,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477751151,
-    "wof:lastmodified":1567638811,
+    "wof:lastmodified":1568250110,
     "wof:name":"Bystra-Sidzina",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.619281975000035,
+    19.61928197500004,
     49.57154544800006,
     19.81197160800002,
     49.66987508700004

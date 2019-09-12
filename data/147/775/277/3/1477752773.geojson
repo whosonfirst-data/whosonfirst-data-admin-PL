@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019276,
-    "geom:area_square_m":140196581.266604,
+    "geom:area_square_m":140196581.266589,
     "geom:bbox":"22.489648671,53.888789067,22.723744266,54.052791622",
     "geom:latitude":53.971131,
     "geom:longitude":22.60022,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.588787,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687305,
+        102080243
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"49cc4224d39b2ec3441e6a22920f17bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4159dfe416fbb67adb2061a0dc9e6f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080243,
+            "localadmin_id":1477752773,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477752773,
-    "wof:lastmodified":1567638891,
+    "wof:lastmodified":1568253719,
     "wof:name":"Wieliczki",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080243,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.489648671000054,
+    22.48964867100005,
     53.88878906700007,
     22.72374426600004,
     54.05279162200003

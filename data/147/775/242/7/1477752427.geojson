@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023697,
-    "geom:area_square_m":171151811.796505,
+    "geom:area_square_m":171151811.796529,
     "geom:bbox":"19.746975883,54.175779791,20.053421707,54.323470285",
     "geom:latitude":54.260953,
     "geom:longitude":19.915441,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.95366,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687305,
+        102080237
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"92274792114df6680d0b665164d72321",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e7322cea3af1d890fff6b715abd7351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080237,
+            "localadmin_id":1477752427,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477752427,
-    "wof:lastmodified":1567638775,
+    "wof:lastmodified":1568252954,
     "wof:name":"P\u0142oskinia",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080237,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

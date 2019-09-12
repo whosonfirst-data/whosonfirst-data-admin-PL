@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018761,
-    "geom:area_square_m":145131555.141961,
+    "geom:area_square_m":145131555.141951,
     "geom:bbox":"23.206754738,51.192004231,23.403653883,51.362317386",
     "geom:latitude":51.271832,
     "geom:longitude":23.302883,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":23.296216,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687309,
+        102079813
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"3180f29551ba3b55afdc93ad87d52e77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55cb1a06328e9db217fd2bb671ee8b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079813,
+            "localadmin_id":1477752209,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477752209,
-    "wof:lastmodified":1567638762,
+    "wof:lastmodified":1568252520,
     "wof:name":"Wierzbica",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079813,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -40,7 +53,7 @@
 },
   "bbox": [
     23.20675473800003,
-    51.192004231000055,
+    51.19200423100006,
     23.40365388300006,
     51.36231738600003
 ],

@@ -26,15 +26,28 @@
     "reversegeo:longitude":15.58454,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079707
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"9d1e376764c709d099c42987eb5f0315",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cede57d0d5d24195aa247cdd7e3f3165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079707,
+            "localadmin_id":1477752769,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477752769,
-    "wof:lastmodified":1567641776,
+    "wof:lastmodified":1568262421,
     "wof:name":"Gmina Boles\u0142awiec",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079707,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,8 +55,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.435162567000077,
-    51.175601415000074,
+    15.43516256700008,
+    51.17560141500007,
     15.66714930000006,
     51.46738881800008
 ],

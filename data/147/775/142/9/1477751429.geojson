@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013581,
-    "geom:area_square_m":105458987.825092,
+    "geom:area_square_m":105458987.825122,
     "geom:bbox":"19.514759954,51.043363932,19.71323902,51.158165091",
     "geom:latitude":51.099856,
     "geom:longitude":19.614646,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.61652,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079711
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b4d1a761288e895c151c2845e4686a1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6deca11e47a010abee56fe0b1ef3fa34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079711,
+            "localadmin_id":1477751429,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477751429,
-    "wof:lastmodified":1567638824,
+    "wof:lastmodified":1568250743,
     "wof:name":"Kodr\u0105b",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079711,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -40,7 +53,7 @@
 },
   "bbox": [
     19.51475995400006,
-    51.043363932000034,
+    51.04336393200003,
     19.71323902000006,
     51.15816509100006
 ],

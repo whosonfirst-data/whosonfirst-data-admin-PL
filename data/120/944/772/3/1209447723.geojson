@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125410519,
+        85633723,
+        102080207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"a05ae0a55c121b9d68d4018d3bc35ef7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447723
+            "county_id":102080207,
+            "localadmin_id":1125410519,
+            "locality_id":1209447723,
+            "region_id":85687305
         }
     ],
     "wof:id":1209447723,
-    "wof:lastmodified":1566597252,
+    "wof:lastmodified":1568259570,
     "wof:name":"Kierzliny",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125410519,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

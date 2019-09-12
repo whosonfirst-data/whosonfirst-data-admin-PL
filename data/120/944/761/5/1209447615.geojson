@@ -81,7 +81,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687291,
+        102191581,
+        1477752191,
+        85633723,
+        102079429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,14 +95,18 @@
     "wof:geomhash":"c80e5e7fa4166215e75be703ed716beb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447615
+            "county_id":102079429,
+            "localadmin_id":1477752191,
+            "locality_id":1209447615,
+            "region_id":85687291
         }
     ],
     "wof:id":1209447615,
-    "wof:lastmodified":1566597243,
+    "wof:lastmodified":1568261531,
     "wof:name":"Sokol",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

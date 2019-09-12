@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125350657,
+        85633723,
+        102080089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"045ac82af6a25452aec6a780b37a3c22",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209542171
+            "county_id":102080089,
+            "localadmin_id":1125350657,
+            "locality_id":1209542171,
+            "region_id":85687257
         }
     ],
     "wof:id":1209542171,
-    "wof:lastmodified":1566596890,
+    "wof:lastmodified":1568246948,
     "wof:name":"Lewiczyn",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125350657,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

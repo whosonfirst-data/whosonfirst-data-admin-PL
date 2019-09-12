@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687291,
+        102191581,
+        1477752765,
+        85633723,
+        102079541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"657ccc7a6dbfedcb48c73c6243800c0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209032773
+            "county_id":102079541,
+            "localadmin_id":1477752765,
+            "locality_id":1209032773,
+            "region_id":85687291
         }
     ],
     "wof:id":1209032773,
-    "wof:lastmodified":1566597097,
+    "wof:lastmodified":1568253697,
     "wof:name":"Przestansko",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752765,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

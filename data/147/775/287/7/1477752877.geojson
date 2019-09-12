@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016813,
-    "geom:area_square_m":130198957.632226,
+    "geom:area_square_m":130198957.632235,
     "geom:bbox":"18.427542926,51.158190578,18.726639174,51.286698004",
     "geom:latitude":51.224575,
     "geom:longitude":18.592351,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":18.594611,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079729
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"5e1e7381d0d59d6057e6db2668bcdd9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbbf6cf35a3572845064941e6f667656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079729,
+            "localadmin_id":1477752877,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477752877,
-    "wof:lastmodified":1567641839,
+    "wof:lastmodified":1568262663,
     "wof:name":"Gmina Wielu\u0144",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079729,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,8 +55,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.427542926000058,
-    51.158190578000074,
+    18.42754292600006,
+    51.15819057800007,
     18.72663917400007,
     51.28669800400007
 ],

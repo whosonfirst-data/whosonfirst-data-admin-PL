@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687295,
+        102191581,
+        1125312891,
+        85633723,
+        102079533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"683a1f513299ea10f86d0b1650a7a076",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209341111
+            "county_id":102079533,
+            "localadmin_id":1125312891,
+            "locality_id":1209341111,
+            "region_id":85687295
         }
     ],
     "wof:id":1209341111,
-    "wof:lastmodified":1566597163,
+    "wof:lastmodified":1568256497,
     "wof:name":"Grudna Sredna",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125312891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

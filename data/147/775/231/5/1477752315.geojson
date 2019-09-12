@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04946,
-    "geom:area_square_m":363325982.061147,
+    "geom:area_square_m":363325982.061153,
     "geom:bbox":"16.051917119,53.421194241,16.457906135,53.693896586",
     "geom:latitude":53.553386,
     "geom:longitude":16.258656,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":16.24493,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687271,
+        102080113
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"f472ac251d7d97c947e53330afdca1b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bb122e59cc3f9214953538923a31635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080113,
+            "localadmin_id":1477752315,
+            "region_id":85687271
+        }
+    ],
     "wof:id":1477752315,
-    "wof:lastmodified":1567641755,
+    "wof:lastmodified":1568261714,
     "wof:name":"Gmina Czaplinek",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080113,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.051917119000052,
+    16.05191711900005,
     53.42119424100008,
     16.45790613500003,
     53.69389658600005

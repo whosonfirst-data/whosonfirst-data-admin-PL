@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014722,
-    "geom:area_square_m":116652978.082943,
+    "geom:area_square_m":116652978.082947,
     "geom:bbox":"17.885432649,50.08982599,18.072637761,50.218872051",
     "geom:latitude":50.14766,
     "geom:longitude":17.977485,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":17.98684,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687313,
+        102079489
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"14aa39d8449bf3c18688a46ba497d068",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d828bae6a3d6866ceb6b0b279cd03758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079489,
+            "localadmin_id":1477752087,
+            "region_id":85687313
+        }
+    ],
     "wof:id":1477752087,
-    "wof:lastmodified":1567641807,
+    "wof:lastmodified":1568261353,
     "wof:name":"Gmina Babor\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079489,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

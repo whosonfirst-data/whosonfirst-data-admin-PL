@@ -46,7 +46,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687271,
+        102191581,
+        1125370859,
+        85633723,
+        102080165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +61,18 @@
     "wof:geomhash":"65f43a748b8c1319c33574c29b21403e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031323
+            "county_id":102080165,
+            "localadmin_id":1125370859,
+            "locality_id":1209031323,
+            "region_id":85687271
         }
     ],
     "wof:id":1209031323,
-    "wof:lastmodified":1566597067,
+    "wof:lastmodified":1568257872,
     "wof:name":"Sadlenko",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125370859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

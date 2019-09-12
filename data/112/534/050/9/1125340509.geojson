@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007837,
-    "geom:area_square_m":60753440.388533,
+    "geom:area_square_m":60753440.388546,
     "geom:bbox":"18.202966188,51.133954164,18.361714176,51.214642565",
     "geom:latitude":51.176299,
     "geom:longitude":18.294108,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.295621,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079731
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"6688e2bea41f21d2052040d6c8300380",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18856adb68dd8c32f951ce4eb962e093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079731,
+            "localadmin_id":1125340509,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1125340509,
-    "wof:lastmodified":1567638781,
+    "wof:lastmodified":1568246574,
     "wof:name":"\u0141ubnice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079731,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -40,7 +53,7 @@
 },
   "bbox": [
     18.20296618800006,
-    51.133954164000045,
+    51.13395416400004,
     18.36171417600008,
     51.21464256500008
 ],

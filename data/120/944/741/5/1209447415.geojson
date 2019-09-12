@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125300525,
+        85633723,
+        102079721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"ee9265e8a1b2b610fe8c484a09a3f9de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447415
+            "county_id":102079721,
+            "localadmin_id":1125300525,
+            "locality_id":1209447415,
+            "region_id":85687309
         }
     ],
     "wof:id":1209447415,
-    "wof:lastmodified":1566597237,
+    "wof:lastmodified":1568244178,
     "wof:name":"Rynek",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125300525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

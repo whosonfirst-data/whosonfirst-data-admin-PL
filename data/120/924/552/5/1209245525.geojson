@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687291,
+        102191581,
+        1125295291,
+        85633723,
+        102079535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"cba43f9d1f431c62055e3a822076d3c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245525
+            "county_id":102079535,
+            "localadmin_id":1125295291,
+            "locality_id":1209245525,
+            "region_id":85687291
         }
     ],
     "wof:id":1209245525,
-    "wof:lastmodified":1566596992,
+    "wof:lastmodified":1568243900,
     "wof:name":"Komorow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125295291,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010569,
-    "geom:area_square_m":81676824.987178,
+    "geom:area_square_m":81676824.987181,
     "geom:bbox":"20.859497434,51.275869459,21.039339282,51.367548875",
     "geom:latitude":51.319939,
     "geom:longitude":20.953945,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.953948,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102079751
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"8a092edfb40120677e0b4db8306386da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc2acd4c9072d5245ce071380142dbca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079751,
+            "localadmin_id":1477752815,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477752815,
-    "wof:lastmodified":1567638797,
+    "wof:lastmodified":1568253824,
     "wof:name":"Oro\u0144sko",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079751,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.859497434000048,
-    51.275869459000035,
+    20.85949743400005,
+    51.27586945900003,
     21.03933928200007,
     51.36754887500007
 ],

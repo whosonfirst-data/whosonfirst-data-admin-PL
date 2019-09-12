@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125324137,
+        85633723,
+        102079745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"5f285e306b8cbe2c3f45de85195cf7d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209543523
+            "county_id":102079745,
+            "localadmin_id":1125324137,
+            "locality_id":1209543523,
+            "region_id":85687309
         }
     ],
     "wof:id":1209543523,
-    "wof:lastmodified":1566596881,
+    "wof:lastmodified":1568245784,
     "wof:name":"Poperczyn",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125324137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

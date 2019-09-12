@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009674,
-    "geom:area_square_m":71545811.073955,
+    "geom:area_square_m":71545811.073961,
     "geom:bbox":"18.362926786,53.193351398,18.517496903,53.334108421",
     "geom:latitude":53.264654,
     "geom:longitude":18.440155,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.428491,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687319,
+        102080093
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"62404f5719fc4745398f432485c9d0f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c317e2cb06acfcd1532e0e69814ccbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080093,
+            "localadmin_id":1477751359,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477751359,
-    "wof:lastmodified":1567638819,
+    "wof:lastmodified":1568250608,
     "wof:name":"Kijewo Kr\u00f3lewskie",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080093,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

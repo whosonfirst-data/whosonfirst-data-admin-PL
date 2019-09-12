@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125276289,
+        85633723,
+        102079823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"0667d727c82b79a0cbbadd96e8fd7782",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548269
+            "county_id":102079823,
+            "localadmin_id":1125276289,
+            "locality_id":1209548269,
+            "region_id":85687261
         }
     ],
     "wof:id":1209548269,
-    "wof:lastmodified":1566596891,
+    "wof:lastmodified":1568242510,
     "wof:name":"Czyzemin",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125276289,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

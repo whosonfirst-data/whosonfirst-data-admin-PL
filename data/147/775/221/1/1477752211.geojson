@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01438,
-    "geom:area_square_m":108359725.170449,
+    "geom:area_square_m":108359725.170441,
     "geom:bbox":"19.969746318,52.383101888,20.204801808,52.516991745",
     "geom:latitude":52.453152,
     "geom:longitude":20.094831,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.114457,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102080003
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"53a6e29b312f912a656efa0966529374",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c34a65a0e276f858df63304bd8cba830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080003,
+            "localadmin_id":1477752211,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477752211,
-    "wof:lastmodified":1567638762,
+    "wof:lastmodified":1568252530,
     "wof:name":"Ma\u0142a Wie\u015b",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080003,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.969746318000034,
-    52.383101888000056,
+    19.96974631800003,
+    52.38310188800006,
     20.20480180800007,
     52.51699174500004
 ],

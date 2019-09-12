@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031654,
-    "geom:area_square_m":243121800.628579,
+    "geom:area_square_m":243121800.628596,
     "geom:bbox":"21.363070925,51.503765779,21.698598741,51.705952304",
     "geom:latitude":51.599455,
     "geom:longitude":21.513931,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":21.516455,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102079859
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"9cd492dec1481a744365668832b5c47f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7651a7ba6c18f0cd9ff1fd96568c0a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079859,
+            "localadmin_id":1477751647,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477751647,
-    "wof:lastmodified":1567641860,
+    "wof:lastmodified":1568260582,
     "wof:name":"Gmina Kozienice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079859,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.363070925000045,
+    21.36307092500005,
     51.50376577900005,
     21.69859874100007,
     51.70595230400005

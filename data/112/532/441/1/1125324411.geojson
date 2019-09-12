@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011764,
-    "geom:area_square_m":90238080.207448,
+    "geom:area_square_m":90238080.207434,
     "geom:bbox":"19.720768788,51.591543664,19.882662886,51.710236676",
     "geom:latitude":51.65684,
     "geom:longitude":19.799394,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.797843,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079831
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ee43dc7462ea6ce60289587d49960cfc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ea8c68973a0c38209436d241193f253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079831,
+            "localadmin_id":1125324411,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1125324411,
-    "wof:lastmodified":1567638770,
+    "wof:lastmodified":1568246033,
     "wof:name":"Rokiciny",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079831,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.720768788000044,
+    19.72076878800004,
     51.59154366400003,
     19.88266288600005,
     51.71023667600008

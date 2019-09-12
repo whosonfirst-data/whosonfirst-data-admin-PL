@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025736,
-    "geom:area_square_m":196721509.257643,
+    "geom:area_square_m":196721509.257629,
     "geom:bbox":"16.162424176,51.73155473,16.416840082,51.902233761",
     "geom:latitude":51.817679,
     "geom:longitude":16.29099,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":16.288598,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687327,
+        102079817
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"470baa19af71d1e1cd59e798f5228d1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87e8a2b9422c4ac67f53630b5a73215c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079817,
+            "localadmin_id":1477752989,
+            "region_id":85687327
+        }
+    ],
     "wof:id":1477752989,
-    "wof:lastmodified":1567641844,
+    "wof:lastmodified":1568262857,
     "wof:name":"Gmina Wschowa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079817,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

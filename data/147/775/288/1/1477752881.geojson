@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013322,
-    "geom:area_square_m":106562804.23068,
+    "geom:area_square_m":106562804.23065,
     "geom:bbox":"20.725408242,49.629427654,20.949750797,49.766049314",
     "geom:latitude":49.693267,
     "geom:longitude":20.829776,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.822138,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079425
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"c8b98c6662b32de073e6a87bd9341bda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cbbd1ba6b3acdd07372171b7d2605e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079425,
+            "localadmin_id":1477752881,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477752881,
-    "wof:lastmodified":1567638896,
+    "wof:lastmodified":1568253946,
     "wof:name":"Korzenna",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079425,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

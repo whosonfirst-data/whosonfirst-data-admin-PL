@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01552,
-    "geom:area_square_m":120466923.061977,
+    "geom:area_square_m":120466923.061969,
     "geom:bbox":"18.73998289,51.058979737,18.961493015,51.169832451",
     "geom:latitude":51.11644,
     "geom:longitude":18.850407,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":18.837196,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079705
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"d93372c8e96fd528b430cc0ba6335555",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f76f50e6878613b36cc9190c93c77caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079705,
+            "localadmin_id":1477752573,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477752573,
-    "wof:lastmodified":1567641826,
+    "wof:lastmodified":1568262090,
     "wof:name":"Gmina Dzia\u0142oszyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079705,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

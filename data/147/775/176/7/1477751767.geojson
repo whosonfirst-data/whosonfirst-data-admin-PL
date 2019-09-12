@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039461,
-    "geom:area_square_m":291092443.875827,
+    "geom:area_square_m":291092443.875813,
     "geom:bbox":"16.865959298,53.237639082,17.266769135,53.510279252",
     "geom:latitude":53.375561,
     "geom:longitude":17.039071,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":16.958862,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687323,
+        102080109
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"a1faa75c7700a5aeb4875ab942316870",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf4aba47eecd31c43b9e029064146985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080109,
+            "localadmin_id":1477751767,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477751767,
-    "wof:lastmodified":1567641801,
+    "wof:lastmodified":1568260846,
     "wof:name":"Gmina Z\u0142ot\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080109,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,8 +55,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.865959298000064,
-    53.237639082000044,
+    16.86595929800006,
+    53.23763908200004,
     17.26676913500006,
     53.51027925200003
 ],

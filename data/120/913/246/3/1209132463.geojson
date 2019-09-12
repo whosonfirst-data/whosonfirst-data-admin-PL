@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125391667,
+        85633723,
+        102079715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"76f5a3a770cbdce4e63e2600bafb5ff1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209132463
+            "county_id":102079715,
+            "localadmin_id":1125391667,
+            "locality_id":1209132463,
+            "region_id":85687309
         }
     ],
     "wof:id":1209132463,
-    "wof:lastmodified":1566597043,
+    "wof:lastmodified":1568249151,
     "wof:name":"Staw Ujazdowski",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125391667,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

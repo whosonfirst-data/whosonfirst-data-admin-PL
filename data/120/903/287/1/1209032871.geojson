@@ -47,7 +47,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125370867,
+        85633723,
+        102080243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +62,18 @@
     "wof:geomhash":"f08e5294558213f7b6421b6ddddbdbad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209032871
+            "county_id":102080243,
+            "localadmin_id":1125370867,
+            "locality_id":1209032871,
+            "region_id":85687305
         }
     ],
     "wof:id":1209032871,
-    "wof:lastmodified":1566597073,
+    "wof:lastmodified":1568257887,
     "wof:name":"Biala Olecka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125370867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

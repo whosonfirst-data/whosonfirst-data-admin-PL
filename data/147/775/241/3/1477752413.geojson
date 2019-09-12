@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018044,
-    "geom:area_square_m":131202818.553379,
+    "geom:area_square_m":131202818.553376,
     "geom:bbox":"19.365784636,53.926284572,19.618878767,54.050811744",
     "geom:latitude":53.981813,
     "geom:longitude":19.501156,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.501148,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687305,
+        102080231
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b24e53f2015ec7dc8ea9e1c0b6ce1e6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7f3dc1b1c7c832741c22723402531f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080231,
+            "localadmin_id":1477752413,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477752413,
-    "wof:lastmodified":1567638775,
+    "wof:lastmodified":1568252908,
     "wof:name":"Rychliki",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080231,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.365784636000058,
+    19.36578463600006,
     53.92628457200004,
     19.61887876700007,
     54.05081174400004

@@ -46,7 +46,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125384899,
+        85633723,
+        102080197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +61,18 @@
     "wof:geomhash":"c3442fbfd1a3f3d495cb416da54b81aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447451
+            "county_id":102080197,
+            "localadmin_id":1125384899,
+            "locality_id":1209447451,
+            "region_id":85687305
         }
     ],
     "wof:id":1209447451,
-    "wof:lastmodified":1566597255,
+    "wof:lastmodified":1568242449,
     "wof:name":"Kozia Gora",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125384899,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

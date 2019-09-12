@@ -40,7 +40,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687291,
+        102191581,
+        1125399441,
+        85633723,
+        102079419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"2c660399827e87595712a05c36c09c20",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209341005
+            "county_id":102079419,
+            "localadmin_id":1125399441,
+            "locality_id":1209341005,
+            "region_id":85687291
         }
     ],
     "wof:id":1209341005,
-    "wof:lastmodified":1566597166,
+    "wof:lastmodified":1568249488,
     "wof:name":"Zalas",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125399441,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

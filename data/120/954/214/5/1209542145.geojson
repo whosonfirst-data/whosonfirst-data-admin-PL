@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687291,
+        102191581,
+        1125282739,
+        85633723,
+        102079429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"36d6917ab6fa0d6e4894b5f4a942d954",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209542145
+            "county_id":102079429,
+            "localadmin_id":1125282739,
+            "locality_id":1209542145,
+            "region_id":85687291
         }
     ],
     "wof:id":1209542145,
-    "wof:lastmodified":1566596903,
+    "wof:lastmodified":1568242656,
     "wof:name":"Rychwald",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125282739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

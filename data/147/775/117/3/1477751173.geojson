@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011223,
-    "geom:area_square_m":86871433.695506,
+    "geom:area_square_m":86871433.695504,
     "geom:bbox":"18.858207194,51.179545772,19.045666524,51.289435581",
     "geom:latitude":51.245188,
     "geom:longitude":18.965072,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.979247,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079705
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fdb744f8ca1202c8f5725cdbfaf533e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa673fab777252260e2eb36d212c21c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079705,
+            "localadmin_id":1477751173,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477751173,
-    "wof:lastmodified":1567638907,
+    "wof:lastmodified":1568250160,
     "wof:name":"Kie\u0142czyg\u0142\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079705,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.858207194000045,
+    18.85820719400004,
     51.17954577200004,
     19.04566652400007,
     51.28943558100008

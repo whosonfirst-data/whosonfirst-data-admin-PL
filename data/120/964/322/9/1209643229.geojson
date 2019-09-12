@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1477751645,
+        85633723,
+        102080243
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"e177ce53a1ff698afc2854da3c53e514",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209643229
+            "county_id":102080243,
+            "localadmin_id":1477751645,
+            "locality_id":1209643229,
+            "region_id":85687305
         }
     ],
     "wof:id":1209643229,
-    "wof:lastmodified":1566596926,
+    "wof:lastmodified":1568251267,
     "wof:name":"Dorsze",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

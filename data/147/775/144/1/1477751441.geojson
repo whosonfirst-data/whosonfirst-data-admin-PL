@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014653,
-    "geom:area_square_m":116048870.404704,
+    "geom:area_square_m":116048870.404694,
     "geom:bbox":"20.931421644,50.106635644,21.110868026,50.250993447",
     "geom:latitude":50.171159,
     "geom:longitude":21.022711,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":21.024067,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079567
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b370ee0f76fc7d1b936cdcf9fc0d1f36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35591cfd18aa3040642bfd47adfa922f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079567,
+            "localadmin_id":1477751441,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477751441,
-    "wof:lastmodified":1567641792,
+    "wof:lastmodified":1568260341,
     "wof:name":"Gmina D\u0105browa Tarnowska",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079567,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.931421644000068,
+    20.93142164400007,
     50.10663564400005,
     21.11086802600005,
     50.25099344700004

@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687327,
+        102191581,
+        1125350601,
+        85633723,
+        102079779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +69,18 @@
     "wof:geomhash":"127ab00ed8fc1943dbd9279c140986de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447437
+            "county_id":102079779,
+            "localadmin_id":1125350601,
+            "locality_id":1209447437,
+            "region_id":85687327
         }
     ],
     "wof:id":1209447437,
-    "wof:lastmodified":1566597251,
+    "wof:lastmodified":1568246913,
     "wof:name":"Dabrowa Luzycka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125350601,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -57,7 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687313,
+        102191581,
+        1477751799,
+        85633723,
+        102079523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,14 +72,18 @@
     "wof:geomhash":"62bcc82006d08d36113aaec81105f222",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209138535
+            "county_id":102079523,
+            "localadmin_id":1477751799,
+            "locality_id":1209138535,
+            "region_id":85687313
         }
     ],
     "wof:id":1209138535,
-    "wof:lastmodified":1566597052,
+    "wof:lastmodified":1568251592,
     "wof:name":"Kotlarnia",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751799,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

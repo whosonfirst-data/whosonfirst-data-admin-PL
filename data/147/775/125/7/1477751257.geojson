@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016617,
-    "geom:area_square_m":129568243.475284,
+    "geom:area_square_m":129568243.475281,
     "geom:bbox":"18.853703371,50.844027116,19.111564667,50.969665882",
     "geom:latitude":50.905924,
     "geom:longitude":18.992087,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":19.015384,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687277,
+        102079667
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"5d7165cca1c5f133409d8e6136a3d9ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebc6185fb6d7047cd6a8cb15c9ecde33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079667,
+            "localadmin_id":1477751257,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477751257,
-    "wof:lastmodified":1567641725,
+    "wof:lastmodified":1568260075,
     "wof:name":"Gmina K\u0142obuck",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079667,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

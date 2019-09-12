@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011258,
-    "geom:area_square_m":87913873.015675,
+    "geom:area_square_m":87913873.015674,
     "geom:bbox":"20.874788599,50.777380949,21.032390525,50.886290058",
     "geom:latitude":50.834927,
     "geom:longitude":20.958407,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.958413,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687287,
+        102079693
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fb443b50dfdb2754391913598adc2b7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c858381a6cc07889d6d3773690c879d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079693,
+            "localadmin_id":1477751155,
+            "region_id":85687287
+        }
+    ],
     "wof:id":1477751155,
-    "wof:lastmodified":1567638714,
+    "wof:lastmodified":1568250119,
     "wof:name":"Bieliny",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079693,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.874788599000055,
-    50.777380949000076,
+    20.87478859900006,
+    50.77738094900008,
     21.03239052500004,
     50.88629005800004
 ],

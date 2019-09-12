@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687327,
+        102191581,
+        1125319683,
+        85633723,
+        102079947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"0cef61594817b0acb9fbb6378adb87cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209341103
+            "county_id":102079947,
+            "localadmin_id":1125319683,
+            "locality_id":1209341103,
+            "region_id":85687327
         }
     ],
     "wof:id":1209341103,
-    "wof:lastmodified":1566597164,
+    "wof:lastmodified":1568256569,
     "wof:name":"Szumiaca",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125319683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

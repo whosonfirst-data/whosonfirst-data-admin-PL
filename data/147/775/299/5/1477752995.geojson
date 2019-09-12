@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004375,
-    "geom:area_square_m":32651608.149658,
+    "geom:area_square_m":32651608.149663,
     "geom:bbox":"20.560608659,52.836110095,20.669141306,52.906051792",
     "geom:latitude":52.869925,
     "geom:longitude":20.617345,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":20.616491,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102080055
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"48a7285053eaa5393fe05f9b3c5bd149",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5712be56fc58de062979885bc9d397ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080055,
+            "localadmin_id":1477752995,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477752995,
-    "wof:lastmodified":1567641783,
+    "wof:lastmodified":1568262879,
     "wof:name":"Gmina Ciechan\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080055,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.560608659000025,
+    20.56060865900002,
     52.83611009500004,
     20.66914130600003,
     52.90605179200003

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006992,
-    "geom:area_square_m":55126817.971667,
+    "geom:area_square_m":55126817.971675,
     "geom:bbox":"21.245349988,50.341030664,21.396194238,50.430544109",
     "geom:latitude":50.384138,
     "geom:longitude":21.326133,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":21.332436,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687295,
+        102079597
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"3ecea1d59b3ad2f6fb3393b0158e0713",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7afb6a8ed5ca64b33976035e2a48144b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079597,
+            "localadmin_id":1477751651,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477751651,
-    "wof:lastmodified":1567638925,
+    "wof:lastmodified":1568251274,
     "wof:name":"Borowa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079597,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.245349988000044,
+    21.24534998800004,
     50.34103066400007,
     21.39619423800008,
     50.43054410900004

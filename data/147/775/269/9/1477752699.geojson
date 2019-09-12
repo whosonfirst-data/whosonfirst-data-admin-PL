@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013054,
-    "geom:area_square_m":104087675.056989,
+    "geom:area_square_m":104087675.056967,
     "geom:bbox":"21.840271664,49.781093443,22.021912047,49.91850146",
     "geom:latitude":49.845341,
     "geom:longitude":21.917381,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":21.918747,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687295,
+        102079483
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b66131eb9993417c70d44da65311d7d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36a8fbeeb0783fe0ce68ccc22886ebc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079483,
+            "localadmin_id":1477752699,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477752699,
-    "wof:lastmodified":1567638789,
+    "wof:lastmodified":1568253600,
     "wof:name":"Niebylec",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079483,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.840271664000056,
+    21.84027166400006,
     49.78109344300003,
     22.02191204700006,
     49.91850146000007

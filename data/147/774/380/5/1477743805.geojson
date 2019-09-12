@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068027,
-    "geom:area_square_m":515220209.105628,
+    "geom:area_square_m":515220209.105599,
     "geom:bbox":"20.851688337,52.097849611,21.271151295,52.368153943",
     "geom:latitude":52.229334,
     "geom:longitude":21.047739,
@@ -33,15 +33,26 @@
     ],
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"f2a3b931b4584c77b212783eca7f43c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c4b7cde5f8e77c328a743bf06263927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":1477743805,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477743805,
-    "wof:lastmodified":1567544061,
+    "wof:lastmodified":1568227867,
     "wof:name":"Warszawa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687257,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

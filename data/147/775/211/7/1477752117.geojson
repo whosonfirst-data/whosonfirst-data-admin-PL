@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005915,
-    "geom:area_square_m":46730496.144701,
+    "geom:area_square_m":46730496.144703,
     "geom:bbox":"21.396058245,50.230270347,21.571271106,50.330531325",
     "geom:latitude":50.287778,
     "geom:longitude":21.463327,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":21.459923,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687295,
+        102079597
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"89bb3dd0427c35ed688c7e09dd9ea484",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd063be16c7ef01ada9d97deb9e7a365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079597,
+            "localadmin_id":1477752117,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477752117,
-    "wof:lastmodified":1567641747,
+    "wof:lastmodified":1568261400,
     "wof:name":"Gmina Mielec",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079597,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,8 +55,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.396058245000063,
-    50.230270347000044,
+    21.39605824500006,
+    50.23027034700004,
     21.57127110600004,
     50.33053132500004
 ],

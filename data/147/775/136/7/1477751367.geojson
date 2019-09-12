@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018942,
-    "geom:area_square_m":142313041.413797,
+    "geom:area_square_m":142313041.413776,
     "geom:bbox":"23.174813253,52.531341573,23.506167888,52.659499378",
     "geom:latitude":52.58272,
     "geom:longitude":23.331804,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":23.320577,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687283,
+        102080091
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"1e765b19a0ee1036bbf187cce2ec654a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f99cd3beef63eab96a1c70b05e487ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080091,
+            "localadmin_id":1477751367,
+            "region_id":85687283
+        }
+    ],
     "wof:id":1477751367,
-    "wof:lastmodified":1567641851,
+    "wof:lastmodified":1568260248,
     "wof:name":"Gmina Kleszczele",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080091,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.174813253000025,
+    23.17481325300002,
     52.53134157300008,
     23.50616788800005,
     52.65949937800008

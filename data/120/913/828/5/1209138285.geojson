@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125324163,
+        85633723,
+        102079785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"779bf0ec6338de462ad8fea5ec953586",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209138285
+            "county_id":102079785,
+            "localadmin_id":1125324163,
+            "locality_id":1209138285,
+            "region_id":85687261
         }
     ],
     "wof:id":1209138285,
-    "wof:lastmodified":1566597028,
+    "wof:lastmodified":1568245821,
     "wof:name":"Antoniowka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125324163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

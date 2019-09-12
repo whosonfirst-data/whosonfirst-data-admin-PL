@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020204,
-    "geom:area_square_m":154516457.75057,
+    "geom:area_square_m":154516457.750606,
     "geom:bbox":"22.475263009,51.700775194,22.743385796,51.880450407",
     "geom:latitude":51.79435,
     "geom:longitude":22.620993,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":22.611862,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687309,
+        102079905
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"7f0f7eebc6efe537616103f2ab0e4d7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbf71ec823cbacad8d4a9ab011a518ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079905,
+            "localadmin_id":1477751567,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477751567,
-    "wof:lastmodified":1567641857,
+    "wof:lastmodified":1568260480,
     "wof:name":"Gmina Radzy\u0144 Podlaski",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079905,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

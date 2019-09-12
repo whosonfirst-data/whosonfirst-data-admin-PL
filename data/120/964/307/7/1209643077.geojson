@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687271,
+        102191581,
+        1477751547,
+        85633723,
+        102080153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"19bd434962bd3533fbba650c1f48a6b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209643077
+            "county_id":102080153,
+            "localadmin_id":1477751547,
+            "locality_id":1209643077,
+            "region_id":85687271
         }
     ],
     "wof:id":1209643077,
-    "wof:lastmodified":1566596911,
+    "wof:lastmodified":1568260454,
     "wof:name":"Zolcino",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751547,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

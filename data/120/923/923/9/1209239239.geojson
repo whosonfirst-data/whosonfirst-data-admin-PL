@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687277,
+        102191581,
+        1125371237,
+        85633723,
+        102079519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"e7673d3c200663cd7dcf5267e09adf13",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209239239
+            "county_id":102079519,
+            "localadmin_id":1125371237,
+            "locality_id":1209239239,
+            "region_id":85687277
         }
     ],
     "wof:id":1209239239,
-    "wof:lastmodified":1566597008,
+    "wof:lastmodified":1568248157,
     "wof:name":"Wojtowa Wies",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125371237,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

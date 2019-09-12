@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040715,
-    "geom:area_square_m":305856423.958449,
+    "geom:area_square_m":305856423.958457,
     "geom:bbox":"15.776346211,52.448265339,16.032198776,52.724716238",
     "geom:latitude":52.589877,
     "geom:longitude":15.910015,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":15.908067,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687323,
+        102079961
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"8b256b8cc62affc3053cd97452f43076",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e563497ffe2094d8665e63db419c528c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079961,
+            "localadmin_id":1477752935,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477752935,
-    "wof:lastmodified":1567641781,
+    "wof:lastmodified":1568262779,
     "wof:name":"Gmina Mi\u0119dzych\u00f3d",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079961,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,8 +55,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.776346211000032,
-    52.448265339000045,
+    15.77634621100003,
+    52.44826533900005,
     16.03219877600003,
     52.72471623800004
 ],

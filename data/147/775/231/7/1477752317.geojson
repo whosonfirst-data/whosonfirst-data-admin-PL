@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002117,
-    "geom:area_square_m":16110925.882701,
+    "geom:area_square_m":16110925.882704,
     "geom:bbox":"18.464579682,51.993171204,18.558396074,52.039355305",
     "geom:latitude":52.015939,
     "geom:longitude":18.505316,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":18.505993,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687323,
+        102079883
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b4c99308cfd16c894446f93bfb1a444b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1465bc80ee25ddfe071c1b8485da0880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079883,
+            "localadmin_id":1477752317,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477752317,
-    "wof:lastmodified":1567641817,
+    "wof:lastmodified":1568261718,
     "wof:name":"Gmina Turek",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079883,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

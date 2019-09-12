@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026178,
-    "geom:area_square_m":191881868.113542,
+    "geom:area_square_m":191881868.113543,
     "geom:bbox":"18.873775044,53.577532613,19.202902457,53.712460853",
     "geom:latitude":53.645069,
     "geom:longitude":19.035469,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.022143,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687267,
+        102080159
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"a76fdc3953bdf23551bef2d6e3109a30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ab3071386ce7bed822edcec93842a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080159,
+            "localadmin_id":1477752519,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477752519,
-    "wof:lastmodified":1567638878,
+    "wof:lastmodified":1568253185,
     "wof:name":"Gardeja",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080159,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

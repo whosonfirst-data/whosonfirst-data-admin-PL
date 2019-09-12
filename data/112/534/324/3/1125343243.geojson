@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04225,
-    "geom:area_square_m":310606181.123806,
+    "geom:area_square_m":310606181.123825,
     "geom:bbox":"20.588969745,53.414020383,20.917050916,53.620227537",
     "geom:latitude":53.520068,
     "geom:longitude":20.742378,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.745443,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687305,
+        102080167
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"1aaedd48fa571649dc875e44ec45073d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c55772011f1d59488fb5e317e14a2769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080167,
+            "localadmin_id":1125343243,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1125343243,
-    "wof:lastmodified":1567638891,
+    "wof:lastmodified":1568246656,
     "wof:name":"Jedwabno",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080167,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.588969745000043,
-    53.414020383000036,
+    20.58896974500004,
+    53.41402038300004,
     20.91705091600005,
     53.62022753700006
 ],

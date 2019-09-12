@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004719,
-    "geom:area_square_m":37575972.205507,
+    "geom:area_square_m":37575972.205502,
     "geom:bbox":"19.014291076,49.868069938,19.113112852,49.956434301",
     "geom:latitude":49.912336,
     "geom:longitude":19.062022,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.061271,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687277,
+        102079427
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"5c923ab74396a853388ac46e1da296c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93270578eafc8183eaa4df8d89dcf2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079427,
+            "localadmin_id":1477752101,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477752101,
-    "wof:lastmodified":1567638852,
+    "wof:lastmodified":1568252279,
     "wof:name":"Bestwina",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079427,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.014291076000063,
-    49.868069938000076,
+    19.01429107600006,
+    49.86806993800008,
     19.11311285200003,
     49.95643430100006
 ],

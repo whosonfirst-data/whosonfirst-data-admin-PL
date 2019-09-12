@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008923,
-    "geom:area_square_m":71418213.712973,
+    "geom:area_square_m":71418213.712964,
     "geom:bbox":"21.850541188,49.617859122,22.029075389,49.719955026",
     "geom:latitude":49.662798,
     "geom:longitude":21.930133,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":21.90178,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687295,
+        102079461
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"27f152760f415bacc7c1e157557bdeca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c901149d4f7aa048c54c3b47e54fa6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079461,
+            "localadmin_id":1477751951,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477751951,
-    "wof:lastmodified":1567638937,
+    "wof:lastmodified":1568251944,
     "wof:name":"Hacz\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079461,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.850541188000022,
+    21.85054118800002,
     49.61785912200003,
     22.02907538900007,
     49.71995502600004

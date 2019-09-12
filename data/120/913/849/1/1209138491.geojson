@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125304225,
+        85633723,
+        102080077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +56,18 @@
     "wof:geomhash":"470f01bfc88c766b33373b71d35f7930",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209138491
+            "county_id":102080077,
+            "localadmin_id":1125304225,
+            "locality_id":1209138491,
+            "region_id":85687257
         }
     ],
     "wof:id":1209138491,
-    "wof:lastmodified":1566597046,
+    "wof:lastmodified":1568244427,
     "wof:name":"Strachocin",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125304225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

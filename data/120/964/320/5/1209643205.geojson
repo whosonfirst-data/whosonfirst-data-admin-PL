@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125412241,
+        85633723,
+        102080249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"99d94ecc497a4ee2e2c65fcc2f12be21",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209643205
+            "county_id":102080249,
+            "localadmin_id":1125412241,
+            "locality_id":1209643205,
+            "region_id":85687305
         }
     ],
     "wof:id":1209643205,
-    "wof:lastmodified":1566596933,
+    "wof:lastmodified":1568259782,
     "wof:name":"Debnik",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125412241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

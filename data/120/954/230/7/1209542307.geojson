@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125270529,
+        85633723,
+        102080195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +63,18 @@
     "wof:geomhash":"dbd82d571e2cea45d9d0e9d576d041ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209542307
+            "county_id":102080195,
+            "localadmin_id":1125270529,
+            "locality_id":1209542307,
+            "region_id":85687305
         }
     ],
     "wof:id":1209542307,
-    "wof:lastmodified":1566596907,
+    "wof:lastmodified":1568254284,
     "wof:name":"Szeroki Bor",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125270529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1477752457,
+        85633723,
+        102079643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"8e1afee251ebfbc195837fe943d8b917",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209132305
+            "county_id":102079643,
+            "localadmin_id":1477752457,
+            "locality_id":1209132305,
+            "region_id":85687301
         }
     ],
     "wof:id":1209132305,
-    "wof:lastmodified":1566597056,
+    "wof:lastmodified":1568261920,
     "wof:name":"Lagow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752457,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

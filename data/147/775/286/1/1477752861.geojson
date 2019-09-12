@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011392,
-    "geom:area_square_m":87365367.258453,
+    "geom:area_square_m":87365367.258456,
     "geom:bbox":"19.186043225,51.587652102,19.456342526,51.736965634",
     "geom:latitude":51.666732,
     "geom:longitude":19.322873,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":19.300774,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079823
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"1779dc2fdde8354d507bec3d2b203697",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afcb484cf7745947dd991b7f79960639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079823,
+            "localadmin_id":1477752861,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477752861,
-    "wof:lastmodified":1567641779,
+    "wof:lastmodified":1568262629,
     "wof:name":"Gmina Pabianice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079823,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

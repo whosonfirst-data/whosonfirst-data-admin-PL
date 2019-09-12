@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012441,
-    "geom:area_square_m":90793938.766858,
+    "geom:area_square_m":90793938.766875,
     "geom:bbox":"18.587491952,53.768944476,18.750260004,53.888370468",
     "geom:latitude":53.829541,
     "geom:longitude":18.667637,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.661051,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687267,
+        102080191
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"5eb0e92011a144d3f9edb82e2c5d06b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c280ed73695c0809e543ebe0ab254cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080191,
+            "localadmin_id":1477751635,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477751635,
-    "wof:lastmodified":1567638924,
+    "wof:lastmodified":1568251234,
     "wof:name":"Morzeszczyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080191,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

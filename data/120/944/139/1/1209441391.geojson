@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1125328737,
+        85633723,
+        102079725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"5eeccb43e6a117b44fbf75b2bc31069c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209441391
+            "county_id":102079725,
+            "localadmin_id":1125328737,
+            "locality_id":1209441391,
+            "region_id":85687301
         }
     ],
     "wof:id":1209441391,
-    "wof:lastmodified":1566597242,
+    "wof:lastmodified":1568256830,
     "wof:name":"Radecz",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125328737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

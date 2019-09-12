@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1477752931,
+        85633723,
+        102080111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"6dd68433aa8c930545044c475c3b85b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447609
+            "county_id":102080111,
+            "localadmin_id":1477752931,
+            "locality_id":1209447609,
+            "region_id":85687305
         }
     ],
     "wof:id":1209447609,
-    "wof:lastmodified":1566597239,
+    "wof:lastmodified":1568262769,
     "wof:name":"Mosznica",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

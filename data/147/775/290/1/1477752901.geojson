@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034369,
-    "geom:area_square_m":248785494.235115,
+    "geom:area_square_m":248785494.235147,
     "geom:bbox":"21.022032557,54.074648422,21.30732481,54.285492809",
     "geom:latitude":54.168401,
     "geom:longitude":21.15384,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":21.151719,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687305,
+        102080249
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"0e780fe48a054035f5ae3a4cd13a5df9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fefa700f352c607b1b0d9a685f9fe053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080249,
+            "localadmin_id":1477752901,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477752901,
-    "wof:lastmodified":1567641780,
+    "wof:lastmodified":1568262732,
     "wof:name":"Gmina Korsze",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080249,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.022032557000045,
+    21.02203255700005,
     54.07464842200006,
     21.30732481000007,
     54.28549280900006

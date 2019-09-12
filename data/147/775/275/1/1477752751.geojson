@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057396,
-    "geom:area_square_m":414125545.116907,
+    "geom:area_square_m":414125545.116925,
     "geom:bbox":"20.260983828,54.185316656,20.686794367,54.402202049",
     "geom:latitude":54.302106,
     "geom:longitude":20.472222,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":20.398178,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687305,
+        102080247
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"735c3c8180c9c246a008aace20c91b07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ff96a9891a0397c242a7da5cdea3a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080247,
+            "localadmin_id":1477752751,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477752751,
-    "wof:lastmodified":1567641834,
+    "wof:lastmodified":1568262403,
     "wof:name":"Gmina G\u00f3rowo I\u0142aweckie",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080247,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,8 +55,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.260983828000064,
-    54.185316656000055,
+    20.26098382800006,
+    54.18531665600005,
     20.68679436700006,
     54.40220204900004
 ],

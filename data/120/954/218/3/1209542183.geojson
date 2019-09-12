@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125282479,
+        85633723,
+        102079955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +69,18 @@
     "wof:geomhash":"11bd9a7e5435cbcaa46702a2f55ee926",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209542183
+            "county_id":102079955,
+            "localadmin_id":1125282479,
+            "locality_id":1209542183,
+            "region_id":85687323
         }
     ],
     "wof:id":1209542183,
-    "wof:lastmodified":1566596886,
+    "wof:lastmodified":1568254896,
     "wof:name":"Czerlejno",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125282479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

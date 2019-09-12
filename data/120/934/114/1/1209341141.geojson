@@ -51,7 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1125288865,
+        85633723,
+        102079577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +66,18 @@
     "wof:geomhash":"a9bdd90780422b9156af4129deb64c08",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209341141
+            "county_id":102079577,
+            "localadmin_id":1125288865,
+            "locality_id":1209341141,
+            "region_id":85687301
         }
     ],
     "wof:id":1209341141,
-    "wof:lastmodified":1566597182,
+    "wof:lastmodified":1568243228,
     "wof:name":"Doboszowice",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125288865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

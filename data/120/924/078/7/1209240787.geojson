@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1125280577,
+        85633723,
+        102079661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"a88b5ca18046b8a3925c74125f28d951",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209240787
+            "county_id":102079661,
+            "localadmin_id":1125280577,
+            "locality_id":1209240787,
+            "region_id":85687301
         }
     ],
     "wof:id":1209240787,
-    "wof:lastmodified":1566596986,
+    "wof:lastmodified":1568231461,
     "wof:name":"Oltaszyn",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125280577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

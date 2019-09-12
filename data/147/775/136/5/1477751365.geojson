@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001615,
-    "geom:area_square_m":12741115.485643,
+    "geom:area_square_m":12741115.485646,
     "geom:bbox":"18.984854963,50.347441846,19.078190383,50.384463041",
     "geom:latitude":50.365585,
     "geom:longitude":19.036101,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.035396,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687277,
+        102079527
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"9b8def00f48acfc499ce6ae960ab0fc6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"306af3996559fb7a524292794d425a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079527,
+            "localadmin_id":1477751365,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477751365,
-    "wof:lastmodified":1567638820,
+    "wof:lastmodified":1568250624,
     "wof:name":"Wojkowice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079527,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.984854963000032,
+    18.98485496300003,
     50.34744184600004,
     19.07819038300005,
     50.38446304100006

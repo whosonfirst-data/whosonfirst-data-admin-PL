@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015265,
-    "geom:area_square_m":111874372.282284,
+    "geom:area_square_m":111874372.282283,
     "geom:bbox":"18.738969673,53.598919311,18.948209429,53.708056669",
     "geom:latitude":53.65267,
     "geom:longitude":18.836505,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.836524,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687267,
+        102080159
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"4ed16ff05a8fad856fd240626d904dce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9efdfd0a3594b42d242243f4cf4faf4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080159,
+            "localadmin_id":1477752671,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477752671,
-    "wof:lastmodified":1567638788,
+    "wof:lastmodified":1568253535,
     "wof:name":"Sadlinki",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080159,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.738969673000042,
+    18.73896967300004,
     53.59891931100003,
     18.94820942900003,
     53.70805666900003

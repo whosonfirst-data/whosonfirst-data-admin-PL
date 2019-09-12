@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027085,
-    "geom:area_square_m":196079392.639347,
+    "geom:area_square_m":196079392.639319,
     "geom:bbox":"17.35874113,54.055598237,17.619544978,54.260950692",
     "geom:latitude":54.164236,
     "geom:longitude":17.4888,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":17.486873,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687267,
+        102080217
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"e45ef2a6f180d72b19573280eb4ec52f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f0dba4f7f9f436e3382ebbf67e00239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080217,
+            "localadmin_id":1477751475,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477751475,
-    "wof:lastmodified":1567641793,
+    "wof:lastmodified":1568260354,
     "wof:name":"Gmina Byt\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080217,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.358741130000055,
+    17.35874113000006,
     54.05559823700003,
     17.61954497800002,
     54.26095069200005

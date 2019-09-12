@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022506,
-    "geom:area_square_m":165657037.449642,
+    "geom:area_square_m":165657037.449671,
     "geom:bbox":"18.596691066,53.362204759,18.892143869,53.610908388",
     "geom:latitude":53.468022,
     "geom:longitude":18.775915,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":18.781286,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687319,
+        102080127
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fc298ed0c6a6c68eebeb81139257ceca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b22587bcdc32b57cae55efdc3105b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080127,
+            "localadmin_id":1477752499,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477752499,
-    "wof:lastmodified":1567641765,
+    "wof:lastmodified":1568261967,
     "wof:name":"Gmina Grudzi\u0105dz",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080127,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,8 +55,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.596691066000062,
-    53.362204759000065,
+    18.59669106600006,
+    53.36220475900006,
     18.89214386900005,
     53.61090838800004
 ],

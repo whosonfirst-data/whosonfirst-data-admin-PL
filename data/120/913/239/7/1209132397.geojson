@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1477752523,
+        85633723,
+        102080159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"b01c32e79288259629651c298a70edba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209132397
+            "county_id":102080159,
+            "localadmin_id":1477752523,
+            "locality_id":1209132397,
+            "region_id":85687267
         }
     ],
     "wof:id":1209132397,
-    "wof:lastmodified":1566597054,
+    "wof:lastmodified":1568253200,
     "wof:name":"Soltyski",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

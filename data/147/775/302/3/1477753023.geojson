@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007052,
-    "geom:area_square_m":51406163.593697,
+    "geom:area_square_m":51406163.593681,
     "geom:bbox":"18.449529176,53.824550552,18.625570153,53.91975694",
     "geom:latitude":53.876292,
     "geom:longitude":18.55252,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.572964,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687267,
+        102080183
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"bd6541cb3d51217a639bfa6f6d5e18d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ae2334385c969f6ed5617068901c5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080183,
+            "localadmin_id":1477753023,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477753023,
-    "wof:lastmodified":1567638810,
+    "wof:lastmodified":1568254255,
     "wof:name":"Bobowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080183,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.449529176000055,
+    18.44952917600006,
     53.82455055200006,
     18.62557015300007,
     53.91975694000007

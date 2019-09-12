@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010383,
-    "geom:area_square_m":81518699.389619,
+    "geom:area_square_m":81518699.38961,
     "geom:bbox":"17.949606622,50.546454569,18.162577265,50.622346513",
     "geom:latitude":50.585138,
     "geom:longitude":18.051816,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.062505,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687313,
+        102079627
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"1a61a6cb832e8fd5dcd7f6f927b03263",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08aedb62c1537c80842b02e276545d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079627,
+            "localadmin_id":1477751433,
+            "region_id":85687313
+        }
+    ],
     "wof:id":1477751433,
-    "wof:lastmodified":1567638824,
+    "wof:lastmodified":1568250751,
     "wof:name":"Tarn\u00f3w Opolski",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079627,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.949606622000033,
+    17.94960662200003,
     50.54645456900005,
     18.16257726500004,
     50.62234651300008

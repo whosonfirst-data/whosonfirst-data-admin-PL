@@ -31,7 +31,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1125365253,
+        85633723,
+        102079559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"f5e7570ed18e982528d94d941a5af169",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245435
+            "county_id":102079559,
+            "localadmin_id":1125365253,
+            "locality_id":1209245435,
+            "region_id":85687301
         }
     ],
     "wof:id":1209245435,
-    "wof:lastmodified":1566596989,
+    "wof:lastmodified":1568257648,
     "wof:name":"Metuji",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125365253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

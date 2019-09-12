@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125393919,
+        85633723,
+        102079833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"3cd086272a7e1bef9dd5b3ee6242b56e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209641861
+            "county_id":102079833,
+            "localadmin_id":1125393919,
+            "locality_id":1209641861,
+            "region_id":85687309
         }
     ],
     "wof:id":1209641861,
-    "wof:lastmodified":1566596922,
+    "wof:lastmodified":1568258940,
     "wof:name":"Bonow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125393919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

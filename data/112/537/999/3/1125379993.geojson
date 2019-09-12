@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009634,
-    "geom:area_square_m":73365347.322039,
+    "geom:area_square_m":73365347.322055,
     "geom:bbox":"17.798132835,51.915735265,17.979965389,52.037416665",
     "geom:latitude":51.986959,
     "geom:longitude":17.894133,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":17.895506,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687323,
+        102079847
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b9297dcd00fe65d5e2181d6c3c1d7061",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb4a7cf7678259a7a609729ca725cb9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079847,
+            "localadmin_id":1125379993,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1125379993,
-    "wof:lastmodified":1567641832,
+    "wof:lastmodified":1568258469,
     "wof:name":"Gmina Chocz",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079847,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.798132835000047,
+    17.79813283500005,
     51.91573526500008,
     17.97996538900003,
     52.03741666500008

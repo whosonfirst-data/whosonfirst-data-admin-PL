@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1477751479,
+        85633723,
+        102079711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"21c34946700dabcee94ede3c6115f984",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647653
+            "county_id":102079711,
+            "localadmin_id":1477751479,
+            "locality_id":1209647653,
+            "region_id":85687261
         }
     ],
     "wof:id":1209647653,
-    "wof:lastmodified":1566596915,
+    "wof:lastmodified":1568250885,
     "wof:name":"Katy",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

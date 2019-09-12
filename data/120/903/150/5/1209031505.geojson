@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125356023,
+        85633723,
+        102080261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +69,18 @@
     "wof:geomhash":"32c7d549584f40ba402d99d966a03d91",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031505
+            "county_id":102080261,
+            "localadmin_id":1125356023,
+            "locality_id":1209031505,
+            "region_id":85687305
         }
     ],
     "wof:id":1209031505,
-    "wof:lastmodified":1566597068,
+    "wof:lastmodified":1568247091,
     "wof:name":"Lysogora",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125356023,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

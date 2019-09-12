@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015986,
-    "geom:area_square_m":125220404.324129,
+    "geom:area_square_m":125220404.324118,
     "geom:bbox":"18.098765915,50.627158735,18.354364535,50.761532507",
     "geom:latitude":50.691916,
     "geom:longitude":18.22119,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":18.233725,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687313,
+        102079627
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"4c831e4facf5ef66854cc371e21d53fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e631cf2b1da525d168092fae31aa75bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079627,
+            "localadmin_id":1477751681,
+            "region_id":85687313
+        }
+    ],
     "wof:id":1477751681,
-    "wof:lastmodified":1567641734,
+    "wof:lastmodified":1568260625,
     "wof:name":"Gmina Ozimek",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079627,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.098765915000058,
+    18.09876591500006,
     50.62715873500008,
     18.35436453500006,
     50.76153250700003

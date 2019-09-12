@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007249,
-    "geom:area_square_m":55091721.419462,
+    "geom:area_square_m":55091721.419452,
     "geom:bbox":"20.439432452,52.032616763,20.583241982,52.125952298",
     "geom:latitude":52.076592,
     "geom:longitude":20.518249,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.535063,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102079909
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"96e29e95ad31a9b320f543eae473de55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7c4c6ec68fbc63b1d76355f3cfc0e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079909,
+            "localadmin_id":1477752925,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477752925,
-    "wof:lastmodified":1567638898,
+    "wof:lastmodified":1568254047,
     "wof:name":"Jaktor\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079909,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.439432452000062,
+    20.43943245200006,
     52.03261676300008,
     20.58324198200006,
     52.12595229800007

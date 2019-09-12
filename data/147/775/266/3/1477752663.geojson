@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007263,
-    "geom:area_square_m":54299921.504769,
+    "geom:area_square_m":54299921.504767,
     "geom:bbox":"18.776385234,52.768402769,18.938537854,52.839716678",
     "geom:latitude":52.799385,
     "geom:longitude":18.854954,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.848426,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687319,
+        102080009
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"eb5745074004ca0b7e1652712fdf6892",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef1bbc2a9030b3de38ca926386cf0d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080009,
+            "localadmin_id":1477752663,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477752663,
-    "wof:lastmodified":1567638885,
+    "wof:lastmodified":1568253517,
     "wof:name":"Waganiec",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080009,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022296,
-    "geom:area_square_m":166610941.639449,
+    "geom:area_square_m":166610941.639462,
     "geom:bbox":"16.379250504,52.737585728,16.63871794,52.891689362",
     "geom:latitude":52.818617,
     "geom:longitude":16.497019,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":16.495046,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687323,
+        102080029
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"99ac73161a8133a48f631e0660bdecf7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c96e87a21d96b2fd790a87c2fd4b3144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080029,
+            "localadmin_id":1125364413,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1125364413,
-    "wof:lastmodified":1567638919,
+    "wof:lastmodified":1568247633,
     "wof:name":"Lubasz",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080029,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.379250504000026,
-    52.737585728000056,
+    16.37925050400003,
+    52.73758572800006,
     16.63871794000005,
     52.89168936200008
 ],

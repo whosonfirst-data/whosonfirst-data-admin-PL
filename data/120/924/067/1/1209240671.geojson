@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125295369,
+        85633723,
+        102080003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"81afbac47f6212ff6516ea8cb5c48c72",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209240671
+            "county_id":102080003,
+            "localadmin_id":1125295369,
+            "locality_id":1209240671,
+            "region_id":85687257
         }
     ],
     "wof:id":1209240671,
-    "wof:lastmodified":1566597000,
+    "wof:lastmodified":1568243923,
     "wof:name":"Matyldow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125295369,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

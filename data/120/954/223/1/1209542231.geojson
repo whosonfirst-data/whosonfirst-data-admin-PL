@@ -53,7 +53,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125288761,
+        85633723,
+        102079885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +67,18 @@
     "wof:geomhash":"06cf970a9590b80429adfe670611be6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209542231
+            "county_id":102079885,
+            "localadmin_id":1125288761,
+            "locality_id":1209542231,
+            "region_id":85687309
         }
     ],
     "wof:id":1209542231,
-    "wof:lastmodified":1566596900,
+    "wof:lastmodified":1568243107,
     "wof:name":"Sojka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125288761,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

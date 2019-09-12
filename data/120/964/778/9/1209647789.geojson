@@ -46,7 +46,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125306111,
+        85633723,
+        102079805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +61,18 @@
     "wof:geomhash":"3ce92d780c7cc0d67094ef30a2e8929c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647789
+            "county_id":102079805,
+            "localadmin_id":1125306111,
+            "locality_id":1209647789,
+            "region_id":85687257
         }
     ],
     "wof:id":1209647789,
-    "wof:lastmodified":1566596918,
+    "wof:lastmodified":1568244943,
     "wof:name":"Parznice",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125306111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

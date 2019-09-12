@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125364627,
+        85633723,
+        102079883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"d8227496fc39cf88f84366d1439213d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245437
+            "county_id":102079883,
+            "localadmin_id":1125364627,
+            "locality_id":1209245437,
+            "region_id":85687323
         }
     ],
     "wof:id":1209245437,
-    "wof:lastmodified":1566596989,
+    "wof:lastmodified":1568247687,
     "wof:name":"Nowa Wies",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125364627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

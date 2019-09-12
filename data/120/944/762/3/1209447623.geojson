@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1477751761,
+        85633723,
+        102080019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"85252b2abdd5351d938a178ad734cebd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447623
+            "county_id":102080019,
+            "localadmin_id":1477751761,
+            "locality_id":1209447623,
+            "region_id":85687323
         }
     ],
     "wof:id":1209447623,
-    "wof:lastmodified":1566597226,
+    "wof:lastmodified":1568260821,
     "wof:name":"Dluga Wies",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751761,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024461,
-    "geom:area_square_m":177833604.172199,
+    "geom:area_square_m":177833604.172194,
     "geom:bbox":"20.81615529,53.920866619,21.127726528,54.058965468",
     "geom:latitude":53.988831,
     "geom:longitude":20.989435,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":21.002379,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687305,
+        102080207
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"81101dfdcac835b5ad34ab8dc8c08ffe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62ba4330129f2852bc71bd5f8fcce751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080207,
+            "localadmin_id":1477751455,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477751455,
-    "wof:lastmodified":1567638918,
+    "wof:lastmodified":1568250799,
     "wof:name":"Kolno",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080207,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

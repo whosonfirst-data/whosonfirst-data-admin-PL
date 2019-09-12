@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687277,
+        102191581,
+        1125368503,
+        85633723,
+        102079667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"f7ed2b066ed9fe76fdd763d5a7239d55",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209641995
+            "county_id":102079667,
+            "localadmin_id":1125368503,
+            "locality_id":1209641995,
+            "region_id":85687277
         }
     ],
     "wof:id":1209641995,
-    "wof:lastmodified":1566596930,
+    "wof:lastmodified":1568247965,
     "wof:name":"Zbrojowskie",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125368503,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

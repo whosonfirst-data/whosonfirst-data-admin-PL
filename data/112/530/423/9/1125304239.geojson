@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007191,
-    "geom:area_square_m":56970767.569885,
+    "geom:area_square_m":56970767.569888,
     "geom:bbox":"18.229899698,50.115678063,18.40979316,50.19249985",
     "geom:latitude":50.156222,
     "geom:longitude":18.315462,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.300488,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687277,
+        102079477
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"6d504c0c9275df85cd73171486883339",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0eadb152d512f435c60a2c1d0c74df85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079477,
+            "localadmin_id":1125304239,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1125304239,
-    "wof:lastmodified":1567638894,
+    "wof:lastmodified":1568244430,
     "wof:name":"N\u0119dza",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079477,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.229899698000054,
-    50.115678063000075,
+    18.22989969800005,
+    50.11567806300008,
     18.40979316000005,
     50.19249985000005
 ],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016286,
-    "geom:area_square_m":124000042.928047,
+    "geom:area_square_m":124000042.928042,
     "geom:bbox":"16.976610287,51.924784603,17.189019696,52.050797331",
     "geom:latitude":51.992321,
     "geom:longitude":17.086293,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":17.094874,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687323,
+        102079865
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"5175743c2770dc14768e2d76e2ff4742",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8288ee89a984ddb48b149b6b64abd8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079865,
+            "localadmin_id":1477752445,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477752445,
-    "wof:lastmodified":1567641763,
+    "wof:lastmodified":1568261917,
     "wof:name":"Gmina Dolsk",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079865,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,8 +55,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.976610287000028,
-    51.924784603000035,
+    16.97661028700003,
+    51.92478460300003,
     17.18901969600006,
     52.05079733100007
 ],

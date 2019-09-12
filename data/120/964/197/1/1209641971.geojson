@@ -41,7 +41,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125300855,
+        85633723,
+        102080207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +56,18 @@
     "wof:geomhash":"4293fd2a5a0d1ca293dc27f80e935750",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209641971
+            "county_id":102080207,
+            "localadmin_id":1125300855,
+            "locality_id":1209641971,
+            "region_id":85687305
         }
     ],
     "wof:id":1209641971,
-    "wof:lastmodified":1566596930,
+    "wof:lastmodified":1568255868,
     "wof:name":"Waszeta",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125300855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

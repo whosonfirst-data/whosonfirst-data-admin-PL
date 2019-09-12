@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125306245,
+        85633723,
+        102079821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"1a457e676b035a408e1fc6db8a804e15",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209346855
+            "county_id":102079821,
+            "localadmin_id":1125306245,
+            "locality_id":1209346855,
+            "region_id":85687323
         }
     ],
     "wof:id":1209346855,
-    "wof:lastmodified":1566597170,
+    "wof:lastmodified":1568244982,
     "wof:name":"Zakowo",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125306245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

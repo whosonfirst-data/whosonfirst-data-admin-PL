@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021953,
-    "geom:area_square_m":160219864.493223,
+    "geom:area_square_m":160219864.493194,
     "geom:bbox":"18.239164793,53.736896986,18.495556379,53.906736029",
     "geom:latitude":53.827163,
     "geom:longitude":18.370405,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.37233,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687267,
+        102080183
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"688171ced2af6779e162a9162823203f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"054b5c0f05747a6f7bef152d6334981f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080183,
+            "localadmin_id":1477752419,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477752419,
-    "wof:lastmodified":1567638872,
+    "wof:lastmodified":1568252924,
     "wof:name":"Lubichowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080183,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.239164793000043,
+    18.23916479300004,
     53.73689698600003,
     18.49555637900005,
     53.90673602900006

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017165,
-    "geom:area_square_m":130813636.351286,
+    "geom:area_square_m":130813636.351288,
     "geom:bbox":"20.051516099,51.83994985,20.294028407,52.028192971",
     "geom:latitude":51.950908,
     "geom:longitude":20.158094,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":20.129898,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079895
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fcafac77f0f13bb3bb49ff131ff19a22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c8d98f260fe67742769cb35907b5889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079895,
+            "localadmin_id":1477752377,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477752377,
-    "wof:lastmodified":1567641760,
+    "wof:lastmodified":1568261814,
     "wof:name":"Gmina Skierniewice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079895,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.051516099000025,
+    20.05151609900003,
     51.83994985000004,
     20.29402840700004,
     52.02819297100007

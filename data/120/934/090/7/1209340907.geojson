@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687295,
+        102191581,
+        1125384739,
+        85633723,
+        102079639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"d5a3dc69514444f9ac52fd3cac42893a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209340907
+            "county_id":102079639,
+            "localadmin_id":1125384739,
+            "locality_id":1209340907,
+            "region_id":85687295
         }
     ],
     "wof:id":1209340907,
-    "wof:lastmodified":1566597160,
+    "wof:lastmodified":1568258563,
     "wof:name":"Bieliniec",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125384739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

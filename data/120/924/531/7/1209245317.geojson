@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125288759,
+        85633723,
+        102079699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"4bd24ec4cda0a20ebdf24d14a407f52d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245317
+            "county_id":102079699,
+            "localadmin_id":1125288759,
+            "locality_id":1209245317,
+            "region_id":85687309
         }
     ],
     "wof:id":1209245317,
-    "wof:lastmodified":1566596993,
+    "wof:lastmodified":1568243103,
     "wof:name":"Dabrowka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125288759,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

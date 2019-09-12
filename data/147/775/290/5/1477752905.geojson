@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039289,
-    "geom:area_square_m":283159239.61427,
+    "geom:area_square_m":283159239.614302,
     "geom:bbox":"16.537525957,54.230334545,16.865417057,54.446709927",
     "geom:latitude":54.348676,
     "geom:longitude":16.715808,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":16.756773,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687271,
+        102080227
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"a88522e7aebaeeddb916fd7603049a73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f463402f6355c6bea1f55f9ec048d667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080227,
+            "localadmin_id":1477752905,
+            "region_id":85687271
+        }
+    ],
     "wof:id":1477752905,
-    "wof:lastmodified":1567641841,
+    "wof:lastmodified":1568262736,
     "wof:name":"Gmina S\u0142awno",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080227,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

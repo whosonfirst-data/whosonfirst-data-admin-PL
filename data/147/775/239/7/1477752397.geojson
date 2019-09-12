@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032029,
-    "geom:area_square_m":235502581.208033,
+    "geom:area_square_m":235502581.208049,
     "geom:bbox":"19.603832807,53.432863436,19.9480708,53.617251597",
     "geom:latitude":53.51285,
     "geom:longitude":19.781616,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":19.767974,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687305,
+        102080171
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"66895facca92157b04e9b0dcd229e8f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28ffadcd49394bd5e861f8e184ae77f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080171,
+            "localadmin_id":1477752397,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477752397,
-    "wof:lastmodified":1567641761,
+    "wof:lastmodified":1568261870,
     "wof:name":"Gmina Lubawa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080171,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

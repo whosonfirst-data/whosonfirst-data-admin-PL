@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024049,
-    "geom:area_square_m":178170887.550093,
+    "geom:area_square_m":178170887.550089,
     "geom:bbox":"18.471995001,53.120642198,18.803537028,53.262952984",
     "geom:latitude":53.191206,
     "geom:longitude":18.648919,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":18.685974,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687319,
+        102080063
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"9534a68f0a2828c23c875375fb786708",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0fc48cb0b4d938065aa7b86bdea84eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080063,
+            "localadmin_id":1477751727,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477751727,
-    "wof:lastmodified":1567641863,
+    "wof:lastmodified":1568260742,
     "wof:name":"Gmina Che\u0142m\u017ca",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080063,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

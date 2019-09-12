@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010723,
-    "geom:area_square_m":83302457.774871,
+    "geom:area_square_m":83302457.774886,
     "geom:bbox":"17.148521652,51.01488704,17.375982964,51.117645301",
     "geom:latitude":51.078068,
     "geom:longitude":17.251361,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":17.240225,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079685
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"f60e866fc399fdbc404662c2b7cec4f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bc3af3ef6e8e09e744a71ee92a131f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079685,
+            "localadmin_id":1477751905,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477751905,
-    "wof:lastmodified":1567638935,
+    "wof:lastmodified":1568251885,
     "wof:name":"Czernica",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079685,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.148521652000056,
+    17.14852165200006,
     51.01488704000008,
     17.37598296400006,
     51.11764530100004

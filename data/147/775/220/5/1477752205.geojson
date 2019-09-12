@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040643,
-    "geom:area_square_m":300399864.182648,
+    "geom:area_square_m":300399864.182659,
     "geom:bbox":"23.439226638,53.169564139,23.768779098,53.408637205",
     "geom:latitude":53.291565,
     "geom:longitude":23.616622,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":23.586585,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687283,
+        102080189
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"3b1085bb3e2f7f33e4e48b422869b3f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3a670b72678055851f00b716cb72fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080189,
+            "localadmin_id":1477752205,
+            "region_id":85687283
+        }
+    ],
     "wof:id":1477752205,
-    "wof:lastmodified":1567638858,
+    "wof:lastmodified":1568252512,
     "wof:name":"Szudzia\u0142owo",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080189,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.439226638000036,
-    53.169564139000045,
+    23.43922663800004,
+    53.16956413900004,
     23.76877909800004,
     53.40863720500005
 ],

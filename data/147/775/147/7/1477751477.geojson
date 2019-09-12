@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016014,
-    "geom:area_square_m":123324085.045151,
+    "geom:area_square_m":123324085.045159,
     "geom:bbox":"17.978167164,51.429145386,18.223751387,51.544479764",
     "geom:latitude":51.480082,
     "geom:longitude":18.106528,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":18.108369,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687323,
+        102079747
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"89df1f816aae7da484f8064ecd4847e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4138b31570916e78f5a1acb57f0aa868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079747,
+            "localadmin_id":1477751477,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477751477,
-    "wof:lastmodified":1567641855,
+    "wof:lastmodified":1568260366,
     "wof:name":"Gmina Grab\u00f3w nad Prosn\u0105",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079747,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

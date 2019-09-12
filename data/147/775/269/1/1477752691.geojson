@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004742,
-    "geom:area_square_m":38032242.147636,
+    "geom:area_square_m":38032242.147644,
     "geom:bbox":"22.147377923,49.522809079,22.283778422,49.590280888",
     "geom:latitude":49.560245,
     "geom:longitude":22.215399,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":22.215393,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687295,
+        102079437
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"f5198e6285203d911acd5f9a6c9e781d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e264126e172871ccfee3cedc90c21f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079437,
+            "localadmin_id":1477752691,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477752691,
-    "wof:lastmodified":1567641772,
+    "wof:lastmodified":1568262226,
     "wof:name":"Gmina Sanok",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

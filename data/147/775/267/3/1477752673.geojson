@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020988,
-    "geom:area_square_m":160197374.905765,
+    "geom:area_square_m":160197374.905761,
     "geom:bbox":"22.046920781,51.81860425,22.330709404,51.963999721",
     "geom:latitude":51.882455,
     "geom:longitude":22.192558,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.182996,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687309,
+        102079925
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"c7fcb5bcf15ec800f91df9a0e376aa79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"139f33b3f20ba80a17a8f8f2b64981b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079925,
+            "localadmin_id":1477752673,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477752673,
-    "wof:lastmodified":1567638885,
+    "wof:lastmodified":1568253552,
     "wof:name":"Stanin",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079925,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.046920781000043,
+    22.04692078100004,
     51.81860425000008,
     22.33070940400006,
     51.96399972100005

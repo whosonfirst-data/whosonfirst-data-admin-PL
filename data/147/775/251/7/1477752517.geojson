@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018765,
-    "geom:area_square_m":145069300.588212,
+    "geom:area_square_m":145069300.588222,
     "geom:bbox":"17.53437739,51.239512371,17.766485288,51.357666406",
     "geom:latitude":51.302204,
     "geom:longitude":17.649553,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":17.651706,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079717
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"5a96e74257fce0e02cf770151c91c6aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08dc2b08f3ef8a1caa4e0928f5d2cddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079717,
+            "localadmin_id":1477752517,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477752517,
-    "wof:lastmodified":1567641825,
+    "wof:lastmodified":1568262003,
     "wof:name":"Gmina Syc\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079717,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -43,7 +56,7 @@
 },
   "bbox": [
     17.53437739000003,
-    51.239512371000046,
+    51.23951237100005,
     17.76648528800007,
     51.35766640600008
 ],

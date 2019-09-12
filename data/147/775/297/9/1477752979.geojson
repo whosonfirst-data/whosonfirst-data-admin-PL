@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006354,
-    "geom:area_square_m":49318812.440051,
+    "geom:area_square_m":49318812.440054,
     "geom:bbox":"15.118636163,51.080912693,15.261247725,51.166890543",
     "geom:latitude":51.11618,
     "geom:longitude":15.189653,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":15.189661,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079643
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b44e7f11c0dfa5b2780d5645bb900747",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d5a69976c017de24cf77146ffa3610b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079643,
+            "localadmin_id":1477752979,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477752979,
-    "wof:lastmodified":1567638903,
+    "wof:lastmodified":1568254164,
     "wof:name":"Siekierczyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079643,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.118636163000078,
+    15.11863616300008,
     51.08091269300007,
     15.26124772500003,
     51.16689054300008

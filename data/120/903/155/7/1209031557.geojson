@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125374505,
+        85633723,
+        102079861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +63,18 @@
     "wof:geomhash":"a2bbec60b2ee30d86aec0729e548a251",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031557
+            "county_id":102079861,
+            "localadmin_id":1125374505,
+            "locality_id":1209031557,
+            "region_id":85687261
         }
     ],
     "wof:id":1209031557,
-    "wof:lastmodified":1566597093,
+    "wof:lastmodified":1568248315,
     "wof:name":"Brzeg",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125374505,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

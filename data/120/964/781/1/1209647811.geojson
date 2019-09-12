@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125402535,
+        85633723,
+        102079907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"eb62e9e429b277db858f4af55e22f223",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647811
+            "county_id":102079907,
+            "localadmin_id":1125402535,
+            "locality_id":1209647811,
+            "region_id":85687323
         }
     ],
     "wof:id":1209647811,
-    "wof:lastmodified":1566596934,
+    "wof:lastmodified":1568259386,
     "wof:name":"Strzyzewo Czerniejewskie",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125402535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016223,
-    "geom:area_square_m":124259776.168012,
+    "geom:area_square_m":124259776.167986,
     "geom:bbox":"21.117418962,51.656958574,21.346099546,51.799293105",
     "geom:latitude":51.725283,
     "geom:longitude":21.232342,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":21.230633,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102079859
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"c9e2cf766030084fcde957a043c872f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc1c2ed147f7737e7e1967d0a9b3847a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079859,
+            "localadmin_id":1477752423,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477752423,
-    "wof:lastmodified":1567638873,
+    "wof:lastmodified":1568252950,
     "wof:name":"Grab\u00f3w nad Pilic\u0105",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079859,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.117418962000045,
+    21.11741896200004,
     51.65695857400004,
     21.34609954600006,
     51.79929310500006

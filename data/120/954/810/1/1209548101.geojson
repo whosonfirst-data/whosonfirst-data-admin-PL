@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1477751765,
+        85633723,
+        102079651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"098764b54940a5a296216999537507e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548101
+            "county_id":102079651,
+            "localadmin_id":1477751765,
+            "locality_id":1209548101,
+            "region_id":85687301
         }
     ],
     "wof:id":1209548101,
-    "wof:lastmodified":1566596887,
+    "wof:lastmodified":1568251516,
     "wof:name":"Kuny",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751765,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

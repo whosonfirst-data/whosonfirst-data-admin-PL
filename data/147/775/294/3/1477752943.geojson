@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014753,
-    "geom:area_square_m":111878227.734749,
+    "geom:area_square_m":111878227.734776,
     "geom:bbox":"21.469963156,52.115212751,21.694476788,52.236599016",
     "geom:latitude":52.173006,
     "geom:longitude":21.574151,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":21.60079,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102079965
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"623469980d611d9196cdf972e4a2ade2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2036728152cd6ac9504b89d386f4a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079965,
+            "localadmin_id":1477752943,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477752943,
-    "wof:lastmodified":1567641842,
+    "wof:lastmodified":1568262798,
     "wof:name":"Gmina Mi\u0144sk Mazowiecki",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079965,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.469963156000063,
+    21.46996315600006,
     52.11521275100006,
     21.69447678800003,
     52.23659901600007

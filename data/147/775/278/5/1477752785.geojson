@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040195,
-    "geom:area_square_m":306394081.141272,
+    "geom:area_square_m":306394081.141231,
     "geom:bbox":"22.114066755,51.842410335,22.579797286,52.037457115",
     "geom:latitude":51.941724,
     "geom:longitude":22.344239,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":22.286286,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687309,
+        102079925
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"6a9428d97e7aae5efaae4ba58c03c9d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c63805e7ff611225fdf02a44ef8bbbd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079925,
+            "localadmin_id":1477752785,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477752785,
-    "wof:lastmodified":1567641776,
+    "wof:lastmodified":1568262479,
     "wof:name":"Gmina \u0141uk\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079925,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.114066755000067,
+    22.11406675500007,
     51.84241033500007,
     22.57979728600003,
     52.03745711500005

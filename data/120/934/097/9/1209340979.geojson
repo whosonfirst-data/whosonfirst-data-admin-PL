@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125376379,
+        85633723,
+        102080233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"390c182a453a811a11c29d77771f543f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209340979
+            "county_id":102080233,
+            "localadmin_id":1125376379,
+            "locality_id":1209340979,
+            "region_id":85687267
         }
     ],
     "wof:id":1209340979,
-    "wof:lastmodified":1566597160,
+    "wof:lastmodified":1568248543,
     "wof:name":"Zaleze",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125376379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

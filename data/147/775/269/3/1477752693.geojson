@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030696,
-    "geom:area_square_m":243382365.526517,
+    "geom:area_square_m":243382365.526529,
     "geom:bbox":"22.64066837,50.021910257,22.953670751,50.212928741",
     "geom:latitude":50.117863,
     "geom:longitude":22.801094,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.816442,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687295,
+        102079573
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"478918e6923b94186bc5c4588cb3e6cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"117765f896059e4a33e6bdce95646d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079573,
+            "localadmin_id":1477752693,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477752693,
-    "wof:lastmodified":1567638886,
+    "wof:lastmodified":1568253588,
     "wof:name":"Wi\u0105zownica",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079573,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.640668370000075,
+    22.64066837000007,
     50.02191025700006,
     22.95367075100006,
     50.21292874100004

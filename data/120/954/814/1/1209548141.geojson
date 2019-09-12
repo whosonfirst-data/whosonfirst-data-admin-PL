@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125371977,
+        85633723,
+        102080253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +63,18 @@
     "wof:geomhash":"381960dd50faf070e495e3cfc917d91e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548141
+            "county_id":102080253,
+            "localadmin_id":1125371977,
+            "locality_id":1209548141,
+            "region_id":85687305
         }
     ],
     "wof:id":1209548141,
-    "wof:lastmodified":1566596902,
+    "wof:lastmodified":1568258020,
     "wof:name":"Guja",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125371977,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

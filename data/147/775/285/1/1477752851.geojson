@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005769,
-    "geom:area_square_m":45400508.095753,
+    "geom:area_square_m":45400508.095724,
     "geom:bbox":"18.982462461,50.4285652,19.134465828,50.5225968",
     "geom:latitude":50.474175,
     "geom:longitude":19.056039,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.073818,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687277,
+        102079581
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"41cc84746838fa117b4941c7c08ee7be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"508524393685a9bb515d01f723ae84c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079581,
+            "localadmin_id":1477752851,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477752851,
-    "wof:lastmodified":1567638894,
+    "wof:lastmodified":1568253898,
     "wof:name":"O\u017carowice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079581,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687319,
+        102191581,
+        1477752951,
+        85633723,
+        102080059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"0372e7d915c28421dccbb293eb22d540",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209347033
+            "county_id":102080059,
+            "localadmin_id":1477752951,
+            "locality_id":1209347033,
+            "region_id":85687319
         }
     ],
     "wof:id":1209347033,
-    "wof:lastmodified":1566597167,
+    "wof:lastmodified":1568262809,
     "wof:name":"Glowinsk",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

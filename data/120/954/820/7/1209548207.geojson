@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125402535,
+        85633723,
+        102079907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"2896f5b821617435cf3006ec5ddb295b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548207
+            "county_id":102079907,
+            "localadmin_id":1125402535,
+            "locality_id":1209548207,
+            "region_id":85687323
         }
     ],
     "wof:id":1209548207,
-    "wof:lastmodified":1566596884,
+    "wof:lastmodified":1568259386,
     "wof:name":"Noskowo",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125402535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

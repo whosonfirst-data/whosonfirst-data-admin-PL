@@ -73,7 +73,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125373109,
+        85633723,
+        102080247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,14 +87,18 @@
     "wof:geomhash":"3ce6ebcb96575cb039486cf9a183dc0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245395
+            "county_id":102080247,
+            "localadmin_id":1125373109,
+            "locality_id":1209245395,
+            "region_id":85687305
         }
     ],
     "wof:id":1209245395,
-    "wof:lastmodified":1566596991,
+    "wof:lastmodified":1568258179,
     "wof:name":"Liski",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125373109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

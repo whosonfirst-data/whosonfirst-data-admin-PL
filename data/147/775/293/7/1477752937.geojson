@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017031,
-    "geom:area_square_m":131111465.694616,
+    "geom:area_square_m":131111465.694622,
     "geom:bbox":"23.146886803,51.410557223,23.38264797,51.577326357",
     "geom:latitude":51.49443,
     "geom:longitude":23.272543,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":23.272508,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687309,
+        102079889
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"7267cd02c6be4577b4fb9df419d7a09e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fa51010b20d06534ee9525363218933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079889,
+            "localadmin_id":1477752937,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477752937,
-    "wof:lastmodified":1567638899,
+    "wof:lastmodified":1568254073,
     "wof:name":"Stary Brus",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079889,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

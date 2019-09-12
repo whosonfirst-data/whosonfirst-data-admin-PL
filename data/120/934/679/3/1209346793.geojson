@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125304941,
+        85633723,
+        102079929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"df68b7244a3ae28ef269b6f87694edc8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209346793
+            "county_id":102079929,
+            "localadmin_id":1125304941,
+            "locality_id":1209346793,
+            "region_id":85687261
         }
     ],
     "wof:id":1209346793,
-    "wof:lastmodified":1566597171,
+    "wof:lastmodified":1568256108,
     "wof:name":"Michalow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125304941,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687271,
+        102191581,
+        1125289149,
+        85633723,
+        102080073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"8f8715fda4824198efdec35f2b504e32",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209346999
+            "county_id":102080073,
+            "localadmin_id":1125289149,
+            "locality_id":1209346999,
+            "region_id":85687271
         }
     ],
     "wof:id":1209346999,
-    "wof:lastmodified":1566597173,
+    "wof:lastmodified":1568243482,
     "wof:name":"Dziewoklicz",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125289149,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

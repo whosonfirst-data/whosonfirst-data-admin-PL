@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125350251,
+        85633723,
+        102079945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"6bf2150133386ffa5e4cdfe37750c103",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209442847
+            "county_id":102079945,
+            "localadmin_id":1125350251,
+            "locality_id":1209442847,
+            "region_id":85687257
         }
     ],
     "wof:id":1209442847,
-    "wof:lastmodified":1566597245,
+    "wof:lastmodified":1568246722,
     "wof:name":"Piotrow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125350251,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

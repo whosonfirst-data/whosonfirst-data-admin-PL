@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1477752901,
+        85633723,
+        102080249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"2fd97c17b5597e66986676e17282f43e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209133721
+            "county_id":102080249,
+            "localadmin_id":1477752901,
+            "locality_id":1209133721,
+            "region_id":85687305
         }
     ],
     "wof:id":1209133721,
-    "wof:lastmodified":1566597060,
+    "wof:lastmodified":1568262728,
     "wof:name":"Wamikajny",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

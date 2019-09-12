@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125350637,
+        85633723,
+        102080077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"0fabe2a07d703a05a4cbfeeb073220d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209643149
+            "county_id":102080077,
+            "localadmin_id":1125350637,
+            "locality_id":1209643149,
+            "region_id":85687257
         }
     ],
     "wof:id":1209643149,
-    "wof:lastmodified":1566596924,
+    "wof:lastmodified":1568239379,
     "wof:name":"Rupin",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125350637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

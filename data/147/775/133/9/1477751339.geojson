@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002618,
-    "geom:area_square_m":20278678.033017,
+    "geom:area_square_m":20278678.033014,
     "geom:bbox":"22.638795641,51.189456493,22.731077195,51.243969071",
     "geom:latitude":51.21914,
     "geom:longitude":22.685412,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.682265,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687309,
+        102079777
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ad2b5410389d4f9f875e3cd251c6bcb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61e88b1e0be0d172304b79b288789bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079777,
+            "localadmin_id":1477751339,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477751339,
-    "wof:lastmodified":1567638722,
+    "wof:lastmodified":1568250567,
     "wof:name":"\u015awidnik",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079777,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

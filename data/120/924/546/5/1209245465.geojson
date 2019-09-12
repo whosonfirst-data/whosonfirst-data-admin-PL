@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687327,
+        102191581,
+        1125399945,
+        85633723,
+        102079887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +63,18 @@
     "wof:geomhash":"6fd32c622c5d27b6dc76017a12911a24",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245465
+            "county_id":102079887,
+            "localadmin_id":1125399945,
+            "locality_id":1209245465,
+            "region_id":85687327
         }
     ],
     "wof:id":1209245465,
-    "wof:lastmodified":1566597002,
+    "wof:lastmodified":1568259180,
     "wof:name":"Jeziory",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125399945,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

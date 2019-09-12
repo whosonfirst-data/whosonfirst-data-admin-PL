@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125367809,
+        85633723,
+        102080231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +59,18 @@
     "wof:geomhash":"5785d279fc7b67c60cf86ff818c29107",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647641
+            "county_id":102080231,
+            "localadmin_id":1125367809,
+            "locality_id":1209647641,
+            "region_id":85687305
         }
     ],
     "wof:id":1209647641,
-    "wof:lastmodified":1566596911,
+    "wof:lastmodified":1568257773,
     "wof:name":"Wikrowo",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125367809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

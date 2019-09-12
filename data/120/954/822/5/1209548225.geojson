@@ -69,7 +69,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1125311993,
+        85633723,
+        102079625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,14 +83,18 @@
     "wof:geomhash":"48a3485302e690e69a6cc77d3bab6630",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548225
+            "county_id":102079625,
+            "localadmin_id":1125311993,
+            "locality_id":1209548225,
+            "region_id":85687301
         }
     ],
     "wof:id":1209548225,
-    "wof:lastmodified":1566596904,
+    "wof:lastmodified":1568256460,
     "wof:name":"Granica",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125311993,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

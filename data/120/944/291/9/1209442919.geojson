@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125364429,
+        85633723,
+        102079807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"46ae702e757d5ef0c49597a077d1d04b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209442919
+            "county_id":102079807,
+            "localadmin_id":1125364429,
+            "locality_id":1209442919,
+            "region_id":85687261
         }
     ],
     "wof:id":1209442919,
-    "wof:lastmodified":1566597249,
+    "wof:lastmodified":1568247650,
     "wof:name":"Klecz",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125364429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

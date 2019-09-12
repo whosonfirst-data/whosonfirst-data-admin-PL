@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002574,
-    "geom:area_square_m":18867828.496137,
+    "geom:area_square_m":18867828.496138,
     "geom:bbox":"22.405147791,53.615248361,22.496710606,53.665118856",
     "geom:latitude":53.640108,
     "geom:longitude":22.455058,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":22.455762,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687283,
+        102080181
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"0b00aa6a7f36cedb2f59811413cca592",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7ce5f47c5b250f0b2cbaefd77270d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080181,
+            "localadmin_id":1477752265,
+            "region_id":85687283
+        }
+    ],
     "wof:id":1477752265,
-    "wof:lastmodified":1567641815,
+    "wof:lastmodified":1568261632,
     "wof:name":"Gmina Grajewo",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080181,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,8 +55,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.405147791000047,
-    53.615248361000056,
+    22.40514779100005,
+    53.61524836100006,
     22.49671060600008,
     53.66511885600005
 ],

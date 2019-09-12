@@ -51,7 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125310811,
+        85633723,
+        102080195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +66,18 @@
     "wof:geomhash":"2ce79855d7e36c94579fc9e48a58b87c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209542197
+            "county_id":102080195,
+            "localadmin_id":1125310811,
+            "locality_id":1209542197,
+            "region_id":85687305
         }
     ],
     "wof:id":1209542197,
-    "wof:lastmodified":1566596888,
+    "wof:lastmodified":1568256270,
     "wof:name":"Babrosty",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125310811,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

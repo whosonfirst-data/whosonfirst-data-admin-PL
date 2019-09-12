@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002931,
-    "geom:area_square_m":23456724.836077,
+    "geom:area_square_m":23456724.836093,
     "geom:bbox":"21.118955377,49.634834508,21.212928452,49.698930597",
     "geom:latitude":49.664609,
     "geom:longitude":21.168799,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":21.164897,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079429
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"cde33f9813fad1c9cb7d6eabc6534380",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf965502bf41f7aa428dbe1359490039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079429,
+            "localadmin_id":1477752191,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477752191,
-    "wof:lastmodified":1567641812,
+    "wof:lastmodified":1568261532,
     "wof:name":"Gmina Gorlice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079429,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.118955377000077,
+    21.11895537700008,
     49.63483450800004,
     21.21292845200003,
     49.69893059700007

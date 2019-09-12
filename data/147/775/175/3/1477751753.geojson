@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002331,
-    "geom:area_square_m":18635485.650602,
+    "geom:area_square_m":18635485.650605,
     "geom:bbox":"20.368547913,49.685595323,20.45204653,49.744391779",
     "geom:latitude":49.713825,
     "geom:longitude":20.41384,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":20.424282,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079423
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"35d7961533d5ca20d6e9d85c2e27ddc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b39507298ddd3ee0081e36c9740f694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079423,
+            "localadmin_id":1477751753,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477751753,
-    "wof:lastmodified":1567641737,
+    "wof:lastmodified":1568260793,
     "wof:name":"Gmina Limanowa",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079423,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.368547913000043,
+    20.36854791300004,
     49.68559532300003,
     20.45204653000008,
     49.74439177900007

@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125384203,
+        85633723,
+        102079721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +59,18 @@
     "wof:geomhash":"89abbbd315848f24be3f0d4c3d73152a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209032691
+            "county_id":102079721,
+            "localadmin_id":1125384203,
+            "locality_id":1209032691,
+            "region_id":85687309
         }
     ],
     "wof:id":1209032691,
-    "wof:lastmodified":1566597080,
+    "wof:lastmodified":1568258558,
     "wof:name":"Lasek",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125384203,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

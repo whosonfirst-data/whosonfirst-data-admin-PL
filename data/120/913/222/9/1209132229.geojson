@@ -31,7 +31,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125324319,
+        85633723,
+        102079923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"6993e8ffa83a9d970d3021142a5a9f96",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209132229
+            "county_id":102079923,
+            "localadmin_id":1125324319,
+            "locality_id":1209132229,
+            "region_id":85687261
         }
     ],
     "wof:id":1209132229,
-    "wof:lastmodified":1566597049,
+    "wof:lastmodified":1568245957,
     "wof:name":"Krzyzyk Chroslinski",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125324319,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

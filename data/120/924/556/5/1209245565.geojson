@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125359815,
+        85633723,
+        102080225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"7f207e02fc03f1f7967ddf1f582f1411",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245565
+            "county_id":102080225,
+            "localadmin_id":1125359815,
+            "locality_id":1209245565,
+            "region_id":85687267
         }
     ],
     "wof:id":1209245565,
-    "wof:lastmodified":1566596982,
+    "wof:lastmodified":1568247277,
     "wof:name":"Wzgorze Mickiewicza",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125359815,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

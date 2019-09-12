@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046993,
-    "geom:area_square_m":346455095.686183,
+    "geom:area_square_m":346455095.686195,
     "geom:bbox":"20.7489219,53.292275673,21.181222765,53.481150632",
     "geom:latitude":53.399665,
     "geom:longitude":20.948085,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":20.966042,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687305,
+        102080167
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"1ddf14857f9fff47c69215b76669f266",
-    "wof:hierarchy":[],
+    "wof:geomhash":"416b023ea1a40cf6f58035911e322d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080167,
+            "localadmin_id":1477752875,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477752875,
-    "wof:lastmodified":1567641780,
+    "wof:lastmodified":1568262649,
     "wof:name":"Gmina Wielbark",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080167,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -42,7 +55,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.748921900000028,
+    20.74892190000003,
     53.29227567300006,
     21.18122276500003,
     53.48115063200004

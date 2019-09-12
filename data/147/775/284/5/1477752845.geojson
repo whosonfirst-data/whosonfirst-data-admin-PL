@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01892,
-    "geom:area_square_m":147743125.155248,
+    "geom:area_square_m":147743125.155224,
     "geom:bbox":"18.755271213,50.766056628,19.042428696,50.904474545",
     "geom:latitude":50.839004,
     "geom:longitude":18.879205,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.84112,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687277,
+        102079667
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"9dd24e3a1598b1dceea94b61e08e862c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2469dd72d85a1e5c48fdc4be667e89d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079667,
+            "localadmin_id":1477752845,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477752845,
-    "wof:lastmodified":1567638893,
+    "wof:lastmodified":1568253893,
     "wof:name":"Wr\u0119czyca Wielka",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079667,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

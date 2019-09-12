@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020356,
-    "geom:area_square_m":156181828.482665,
+    "geom:area_square_m":156181828.482666,
     "geom:bbox":"21.021922285,51.575352222,21.242961736,51.733729589",
     "geom:latitude":51.648615,
     "geom:longitude":21.12607,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":21.115086,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102079839
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"fb7d390fd89b9897e8e51c7278eb185d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48af9184285e802fa70ac3ca19e7dcdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079839,
+            "localadmin_id":1477752365,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477752365,
-    "wof:lastmodified":1567638868,
+    "wof:lastmodified":1568252850,
     "wof:name":"Stromiec",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079839,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.021922285000073,
+    21.02192228500007,
     51.57535222200005,
     21.24296173600004,
     51.73372958900006

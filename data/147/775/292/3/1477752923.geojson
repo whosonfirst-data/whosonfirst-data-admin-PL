@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009892,
-    "geom:area_square_m":75052071.526669,
+    "geom:area_square_m":75052071.526667,
     "geom:bbox":"20.394479933,52.083595136,20.559950184,52.203233237",
     "geom:latitude":52.149891,
     "geom:longitude":20.471011,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":20.465422,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102079909
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"00451d8661256059586ce9b71fd08e07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3375a1849189cf2b94cf0484ebff757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079909,
+            "localadmin_id":1477752923,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477752923,
-    "wof:lastmodified":1567638898,
+    "wof:lastmodified":1568254037,
     "wof:name":"Baran\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079909,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011023,
-    "geom:area_square_m":85893906.700093,
+    "geom:area_square_m":85893906.700088,
     "geom:bbox":"16.159402853,50.871604209,16.307028594,51.018601765",
     "geom:latitude":50.938791,
     "geom:longitude":16.232218,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":16.227196,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079625
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"4d91d80712e63f7485dcd81a36b7c7e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b193ba22b775613fefcf5285f880dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079625,
+            "localadmin_id":1477752389,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477752389,
-    "wof:lastmodified":1567638772,
+    "wof:lastmodified":1568252874,
     "wof:name":"Dobromierz",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079625,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.159402853000074,
-    50.871604209000054,
+    16.15940285300007,
+    50.87160420900005,
     16.30702859400003,
     51.01860176500003
 ],

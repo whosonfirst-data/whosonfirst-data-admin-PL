@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687319,
+        102191581,
+        1125371001,
+        85633723,
+        102080141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"58e8a87941d19286a09ac0c52fe5f0bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209341183
+            "county_id":102080141,
+            "localadmin_id":1125371001,
+            "locality_id":1209341183,
+            "region_id":85687319
         }
     ],
     "wof:id":1209341183,
-    "wof:lastmodified":1566597163,
+    "wof:lastmodified":1568248124,
     "wof:name":"Lubinsk",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125371001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

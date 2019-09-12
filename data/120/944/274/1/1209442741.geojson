@@ -60,7 +60,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1477752715,
+        85633723,
+        102079695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,14 +75,18 @@
     "wof:geomhash":"553e2b8f89e85ba3098b0746b2f51a0d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209442741
+            "county_id":102079695,
+            "localadmin_id":1477752715,
+            "locality_id":1209442741,
+            "region_id":85687301
         }
     ],
     "wof:id":1209442741,
-    "wof:lastmodified":1566597228,
+    "wof:lastmodified":1568262243,
     "wof:name":"Kopaczow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

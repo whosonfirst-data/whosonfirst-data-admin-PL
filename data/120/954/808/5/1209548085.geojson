@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125282329,
+        85633723,
+        102079901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"25827b39346e6244d353eb7107f7969c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548085
+            "county_id":102079901,
+            "localadmin_id":1125282329,
+            "locality_id":1209548085,
+            "region_id":85687257
         }
     ],
     "wof:id":1209548085,
-    "wof:lastmodified":1566596906,
+    "wof:lastmodified":1568242411,
     "wof:name":"Podzamcze",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125282329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

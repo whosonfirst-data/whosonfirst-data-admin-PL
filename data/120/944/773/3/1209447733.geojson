@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1477752607,
+        85633723,
+        102079711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"500c98f4cf7844b8df57101deb7d6c25",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447733
+            "county_id":102079711,
+            "localadmin_id":1477752607,
+            "locality_id":1209447733,
+            "region_id":85687261
         }
     ],
     "wof:id":1209447733,
-    "wof:lastmodified":1566597254,
+    "wof:lastmodified":1568253346,
     "wof:name":"Strzelce Male",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

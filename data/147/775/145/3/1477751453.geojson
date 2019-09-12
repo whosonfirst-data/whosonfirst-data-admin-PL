@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0284,
-    "geom:area_square_m":214060823.872888,
+    "geom:area_square_m":214060823.872902,
     "geom:bbox":"22.954049411,52.38540467,23.31391615,52.514478588",
     "geom:latitude":52.442739,
     "geom:longitude":23.134002,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":23.130539,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687283,
+        102080037
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"ecb85e35a59823a8aec65cc08f186678",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16b9a32193fabd7c2dc4df64500fb9f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080037,
+            "localadmin_id":1477751453,
+            "region_id":85687283
+        }
+    ],
     "wof:id":1477751453,
-    "wof:lastmodified":1567638825,
+    "wof:lastmodified":1568250789,
     "wof:name":"Nurzec-Stacja",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080037,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.954049411000028,
+    22.95404941100003,
     52.38540467000007,
     23.31391615000007,
     52.51447858800003

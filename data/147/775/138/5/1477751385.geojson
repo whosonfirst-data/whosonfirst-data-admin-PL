@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006446,
-    "geom:area_square_m":51246983.392291,
+    "geom:area_square_m":51246983.392308,
     "geom:bbox":"19.464435448,49.944265378,19.585516438,50.027095726",
     "geom:latitude":49.985845,
     "geom:longitude":19.517912,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.516744,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079451
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"71f33348ad0367aa61857338bbbe400d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"635081b2e8c38bc3c0d9140129df2fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079451,
+            "localadmin_id":1477751385,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477751385,
-    "wof:lastmodified":1567638916,
+    "wof:lastmodified":1568250653,
     "wof:name":"Spytkowice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079451,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.464435448000074,
+    19.46443544800007,
     49.94426537800007,
     19.58551643800007,
     50.02709572600003

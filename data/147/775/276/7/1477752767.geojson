@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015019,
-    "geom:area_square_m":109035906.889689,
+    "geom:area_square_m":109035906.889684,
     "geom:bbox":"19.258035328,53.984657554,19.524603716,54.111837111",
     "geom:latitude":54.046685,
     "geom:longitude":19.402774,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.404784,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687305,
+        102080231
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"6a8282d79cbf4b127472e4b85b7f1b86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1616cd087750a27a9646edf102ce34fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080231,
+            "localadmin_id":1477752767,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477752767,
-    "wof:lastmodified":1567638891,
+    "wof:lastmodified":1568253707,
     "wof:name":"Markusy",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080231,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.258035328000062,
+    19.25803532800006,
     53.98465755400008,
     19.52460371600006,
     54.11183711100006

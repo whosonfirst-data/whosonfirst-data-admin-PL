@@ -49,7 +49,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687271,
+        102191581,
+        1125370859,
+        85633723,
+        102080165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +64,18 @@
     "wof:geomhash":"53c8729bff465cac1cbab97b052b5997",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245325
+            "county_id":102080165,
+            "localadmin_id":1125370859,
+            "locality_id":1209245325,
+            "region_id":85687271
         }
     ],
     "wof:id":1209245325,
-    "wof:lastmodified":1566596984,
+    "wof:lastmodified":1568257872,
     "wof:name":"Trzebusz",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125370859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

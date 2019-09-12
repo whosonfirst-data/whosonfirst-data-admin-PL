@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013023,
-    "geom:area_square_m":100735071.893268,
+    "geom:area_square_m":100735071.893279,
     "geom:bbox":"18.677866132,51.200876409,18.888492267,51.325252224",
     "geom:latitude":51.275335,
     "geom:longitude":18.776745,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.760821,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687261,
+        102079729
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"25b12ca628c6a64ce8c539ced7ba0c1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b09991f48a34720aaaabe80daaaf4b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079729,
+            "localadmin_id":1477751961,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477751961,
-    "wof:lastmodified":1567638938,
+    "wof:lastmodified":1568251975,
     "wof:name":"Osjak\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079729,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.677866132000077,
-    51.200876409000045,
+    18.67786613200008,
+    51.20087640900005,
     18.88849226700006,
     51.32525222400005
 ],

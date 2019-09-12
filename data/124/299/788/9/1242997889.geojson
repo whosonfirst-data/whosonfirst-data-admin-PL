@@ -51,7 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        102191581
+        85687305,
+        102191581,
+        1125373109,
+        85633723,
+        102080247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,15 +67,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633723,
+            "county_id":102080247,
+            "localadmin_id":1125373109,
             "locality_id":1242997889,
-            "region_id":-1
+            "region_id":85687305
         }
     ],
     "wof:id":1242997889,
-    "wof:lastmodified":1566599544,
+    "wof:lastmodified":1568258180,
     "wof:name":"Szczurkowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125373109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

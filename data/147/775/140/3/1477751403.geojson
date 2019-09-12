@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012203,
-    "geom:area_square_m":95420991.990518,
+    "geom:area_square_m":95420991.990519,
     "geom:bbox":"18.225221907,50.715266731,18.442784152,50.827811782",
     "geom:latitude":50.774119,
     "geom:longitude":18.31831,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":18.310911,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687313,
+        102079671
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"bc15fc15cf01f347cf0dd5d9bd3a8939",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a46df2507d270f45aded964f6b6a8dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079671,
+            "localadmin_id":1477751403,
+            "region_id":85687313
+        }
+    ],
     "wof:id":1477751403,
-    "wof:lastmodified":1567638822,
+    "wof:lastmodified":1568250692,
     "wof:name":"Z\u0119bowice",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079671,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.225221907000048,
+    18.22522190700005,
     50.71526673100005,
     18.44278415200006,
     50.82781178200003

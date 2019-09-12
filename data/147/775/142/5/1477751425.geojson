@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008168,
-    "geom:area_square_m":62845824.726472,
+    "geom:area_square_m":62845824.726475,
     "geom:bbox":"14.98757627,51.48171023,15.169602235,51.561678989",
     "geom:latitude":51.520187,
     "geom:longitude":15.07469,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":15.073323,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687327,
+        102079759
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"60664de083e820983b97dbaa7645b0da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac7751d8ea63e66c472fb0cae9cea350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079759,
+            "localadmin_id":1477751425,
+            "region_id":85687327
+        }
+    ],
     "wof:id":1477751425,
-    "wof:lastmodified":1567638824,
+    "wof:lastmodified":1568250731,
     "wof:name":"Wymiarki",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079759,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.987576270000034,
+    14.98757627000003,
     51.48171023000003,
     15.16960223500007,
     51.56167898900003

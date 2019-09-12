@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037401,
-    "geom:area_square_m":288750439.641335,
+    "geom:area_square_m":288750439.641363,
     "geom:bbox":"16.004142903,51.27058745,16.355178819,51.471703961",
     "geom:latitude":51.364103,
     "geom:longitude":16.194223,
@@ -26,15 +26,28 @@
     "reversegeo:longitude":16.255387,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687301,
+        102079735
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"04a506b8b6f1a170b78302f89c047025",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbe16fc0231b8f4435e88c950f8f21a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079735,
+            "localadmin_id":1477752981,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477752981,
-    "wof:lastmodified":1567641843,
+    "wof:lastmodified":1568262842,
     "wof:name":"Gmina Lubin",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079735,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125356777,
+        85633723,
+        102079715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"470148088c33ce25b097e3d33e379dbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209342383
+            "county_id":102079715,
+            "localadmin_id":1125356777,
+            "locality_id":1209342383,
+            "region_id":85687309
         }
     ],
     "wof:id":1209342383,
-    "wof:lastmodified":1566597175,
+    "wof:lastmodified":1568257545,
     "wof:name":"Guciow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125356777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

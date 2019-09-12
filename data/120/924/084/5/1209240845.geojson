@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687319,
+        102191581,
+        1125374159,
+        85633723,
+        102080127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"9768a0807fb2928f411ae99e6c3ab295",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209240845
+            "county_id":102080127,
+            "localadmin_id":1125374159,
+            "locality_id":1209240845,
+            "region_id":85687319
         }
     ],
     "wof:id":1209240845,
-    "wof:lastmodified":1566596985,
+    "wof:lastmodified":1568258244,
     "wof:name":"Golebiewo",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125374159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

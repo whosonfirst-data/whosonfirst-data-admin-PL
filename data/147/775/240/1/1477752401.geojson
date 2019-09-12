@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011504,
-    "geom:area_square_m":87286518.005132,
+    "geom:area_square_m":87286518.005125,
     "geom:bbox":"22.561791182,52.090861248,22.766603528,52.199471195",
     "geom:latitude":52.147993,
     "geom:longitude":22.662013,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.662013,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687257,
+        102079981
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"805823f8bf45a2b23cc6e87c92116790",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cac80a5e6868de778c442820996696e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079981,
+            "localadmin_id":1477752401,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477752401,
-    "wof:lastmodified":1567638871,
+    "wof:lastmodified":1568252890,
     "wof:name":"Olszanka",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079981,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.561791182000036,
+    22.56179118200004,
     52.09086124800007,
     22.76660352800008,
     52.19947119500006

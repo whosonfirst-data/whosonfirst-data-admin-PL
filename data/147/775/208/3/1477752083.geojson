@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004444,
-    "geom:area_square_m":35326264.548026,
+    "geom:area_square_m":35326264.548036,
     "geom:bbox":"19.335431691,49.945006022,19.405225027,50.046426216",
     "geom:latitude":49.996412,
     "geom:longitude":19.371785,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":19.374607,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687291,
+        102079465
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"413e01993f138b8ff2622b436c2e8b9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86ffb7c73f4214ff9cb67f3d0141a162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079465,
+            "localadmin_id":1477752083,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477752083,
-    "wof:lastmodified":1567638752,
+    "wof:lastmodified":1568252241,
     "wof:name":"Przecisz\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":102079465,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,7 +52,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.335431691000053,
+    19.33543169100005,
     49.94500602200003,
     19.40522502700003,
     50.04642621600004

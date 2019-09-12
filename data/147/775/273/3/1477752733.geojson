@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009606,
-    "geom:area_square_m":70868724.182892,
+    "geom:area_square_m":70868724.182904,
     "geom:bbox":"22.235330657,53.331054186,22.406372235,53.437848325",
     "geom:latitude":53.372134,
     "geom:longitude":22.310475,
@@ -23,15 +23,28 @@
     "reversegeo:longitude":22.303348,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        85687283,
+        102080143
+    ],
     "wof:breaches":[],
     "wof:country":"PL",
-    "wof:geomhash":"b574a03fee41c549bf326a3419133815",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02c30190af259bc909209a85e2c2b30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080143,
+            "localadmin_id":1477752733,
+            "region_id":85687283
+        }
+    ],
     "wof:id":1477752733,
-    "wof:lastmodified":1567638792,
+    "wof:lastmodified":1568253628,
     "wof:name":"Przytu\u0142y",
-    "wof:parent_id":-1,
+    "wof:parent_id":102080143,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
@@ -39,8 +52,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.235330657000077,
-    53.331054186000074,
+    22.23533065700008,
+    53.33105418600007,
     22.40637223500005,
     53.43784832500006
 ],

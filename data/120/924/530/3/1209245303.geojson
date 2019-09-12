@@ -40,7 +40,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125279651,
+        85633723,
+        102080231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +55,18 @@
     "wof:geomhash":"05f1b038b137c7d5c8660dbc08b4f2d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245303
+            "county_id":102080231,
+            "localadmin_id":1125279651,
+            "locality_id":1209245303,
+            "region_id":85687305
         }
     ],
     "wof:id":1209245303,
-    "wof:lastmodified":1566596991,
+    "wof:lastmodified":1568254697,
     "wof:name":"Przylesie",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125279651,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
