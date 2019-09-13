@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -218,14 +219,16 @@
         }
     ],
     "wof:id":1125303063,
-    "wof:lastmodified":1566598843,
+    "wof:lastmodified":1568398732,
     "wof:name":"Warta",
     "wof:parent_id":102079819,
     "wof:placetype":"localadmin",
     "wof:population":3400,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125272473
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
