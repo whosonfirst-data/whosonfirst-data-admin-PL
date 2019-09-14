@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125363543,
+        85633723,
+        102079979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"b7be6e591803faca49289cb916001468",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209641761
+            "county_id":102079979,
+            "localadmin_id":1125363543,
+            "locality_id":1209641761,
+            "region_id":85687257
         }
     ],
     "wof:id":1209641761,
-    "wof:lastmodified":1566596941,
+    "wof:lastmodified":1568247601,
     "wof:name":"Kopcie",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125363543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

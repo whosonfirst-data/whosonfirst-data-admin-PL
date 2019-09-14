@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125288975,
+        85633723,
+        102079903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"765066fc93a270143bbeb56e68b362db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209132253
+            "county_id":102079903,
+            "localadmin_id":1125288975,
+            "locality_id":1209132253,
+            "region_id":85687323
         }
     ],
     "wof:id":1209132253,
-    "wof:lastmodified":1566597049,
+    "wof:lastmodified":1568243318,
     "wof:name":"Czarkow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125288975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

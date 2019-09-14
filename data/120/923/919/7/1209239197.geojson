@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125317341,
+        85633723,
+        102079763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"0c84e3a6dde5dffab375c61df941ca0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209239197
+            "county_id":102079763,
+            "localadmin_id":1125317341,
+            "locality_id":1209239197,
+            "region_id":85687261
         }
     ],
     "wof:id":1209239197,
-    "wof:lastmodified":1566597016,
+    "wof:lastmodified":1568245557,
     "wof:name":"Zar",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125317341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

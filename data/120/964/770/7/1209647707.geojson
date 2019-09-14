@@ -49,7 +49,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125366303,
+        85633723,
+        102079731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +63,18 @@
     "wof:geomhash":"2870fcbe491b086ade683ea64caea3df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647707
+            "county_id":102079731,
+            "localadmin_id":1125366303,
+            "locality_id":1209647707,
+            "region_id":85687261
         }
     ],
     "wof:id":1209647707,
-    "wof:lastmodified":1566596924,
+    "wof:lastmodified":1568247803,
     "wof:name":"Jaski",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125366303,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

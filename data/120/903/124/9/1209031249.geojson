@@ -58,7 +58,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1477752781,
+        85633723,
+        102080203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,14 +72,18 @@
     "wof:geomhash":"0395e7cf1d655c1c780cb37c38a7e018",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031249
+            "county_id":102080203,
+            "localadmin_id":1477752781,
+            "locality_id":1209031249,
+            "region_id":85687305
         }
     ],
     "wof:id":1209031249,
-    "wof:lastmodified":1566597103,
+    "wof:lastmodified":1568262443,
     "wof:name":"Zawada",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752781,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

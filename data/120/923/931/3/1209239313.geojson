@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125315259,
+        85633723,
+        102080203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"2b005f9c79fe8ecaf5f4c3dc1135e831",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209239313
+            "county_id":102080203,
+            "localadmin_id":1125315259,
+            "locality_id":1209239313,
+            "region_id":85687305
         }
     ],
     "wof:id":1209239313,
-    "wof:lastmodified":1566597004,
+    "wof:lastmodified":1568245438,
     "wof:name":"Ostrow Pieckowski",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125315259,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

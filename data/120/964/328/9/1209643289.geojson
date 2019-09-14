@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125311429,
+        85633723,
+        102079713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"4840a915e475941ab969cdd7544ac42e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209643289
+            "county_id":102079713,
+            "localadmin_id":1125311429,
+            "locality_id":1209643289,
+            "region_id":85687323
         }
     ],
     "wof:id":1209643289,
-    "wof:lastmodified":1566596937,
+    "wof:lastmodified":1568245274,
     "wof:name":"Zgorzelec",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125311429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

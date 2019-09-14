@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125386713,
+        85633723,
+        102079819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"a2a95c31f5d6c9cef2eaf811a454a29d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209542267
+            "county_id":102079819,
+            "localadmin_id":1125386713,
+            "locality_id":1209542267,
+            "region_id":85687261
         }
     ],
     "wof:id":1209542267,
-    "wof:lastmodified":1566596888,
+    "wof:lastmodified":1568249072,
     "wof:name":"Kolonia Bronislawow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125386713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

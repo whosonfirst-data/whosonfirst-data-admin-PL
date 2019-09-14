@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125417989,
+        85633723,
+        102080269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +63,18 @@
     "wof:geomhash":"5e5f083284c757f9e5ff4e2dddf4da0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209239457
+            "county_id":102080269,
+            "localadmin_id":1125417989,
+            "locality_id":1209239457,
+            "region_id":85687267
         }
     ],
     "wof:id":1209239457,
-    "wof:lastmodified":1566597015,
+    "wof:lastmodified":1568250000,
     "wof:name":"Brzyno",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125417989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

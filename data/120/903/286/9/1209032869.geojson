@@ -51,7 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687283,
+        102191581,
+        1125370799,
+        85633723,
+        102080071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +66,18 @@
     "wof:geomhash":"a8edbcf08f958d455ace5adadf95427b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209032869
+            "county_id":102080071,
+            "localadmin_id":1125370799,
+            "locality_id":1209032869,
+            "region_id":85687283
         }
     ],
     "wof:id":1209032869,
-    "wof:lastmodified":1566597073,
+    "wof:lastmodified":1568257858,
     "wof:name":"Plutycze",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125370799,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

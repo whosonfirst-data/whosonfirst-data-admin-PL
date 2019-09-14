@@ -66,7 +66,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687283,
+        102191581,
+        1477752145,
+        85633723,
+        102080149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,14 +81,18 @@
     "wof:geomhash":"4e6f7cc57faed891531b91f7377c90dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209239257
+            "county_id":102080149,
+            "localadmin_id":1477752145,
+            "locality_id":1209239257,
+            "region_id":85687283
         }
     ],
     "wof:id":1209239257,
-    "wof:lastmodified":1566597010,
+    "wof:lastmodified":1568261455,
     "wof:name":"Tyszki-Labno",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

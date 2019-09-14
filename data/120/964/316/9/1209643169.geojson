@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125311429,
+        85633723,
+        102079713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"6aec1ef8f17eed454a8564fd92f0a708",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209643169
+            "county_id":102079713,
+            "localadmin_id":1125311429,
+            "locality_id":1209643169,
+            "region_id":85687323
         }
     ],
     "wof:id":1209643169,
-    "wof:lastmodified":1566596936,
+    "wof:lastmodified":1568245274,
     "wof:name":"Dworzyszcze",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125311429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

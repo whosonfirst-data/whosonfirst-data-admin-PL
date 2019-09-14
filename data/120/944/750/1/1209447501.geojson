@@ -49,7 +49,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1477752443,
+        85633723,
+        102080001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +64,18 @@
     "wof:geomhash":"6b85c48a4d892f34d681f085cae858da",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447501
+            "county_id":102080001,
+            "localadmin_id":1477752443,
+            "locality_id":1209447501,
+            "region_id":85687257
         }
     ],
     "wof:id":1209447501,
-    "wof:lastmodified":1566597242,
+    "wof:lastmodified":1568252989,
     "wof:name":"Stanislawow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752443,
     "wof:placetype":"locality",
     "wof:population":262,
     "wof:population_rank":2,

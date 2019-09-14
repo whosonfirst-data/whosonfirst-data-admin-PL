@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1125359819,
+        85633723,
+        102079657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"5999ad1fae6b8fb8149f957b6ae9191c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209240815
+            "county_id":102079657,
+            "localadmin_id":1125359819,
+            "locality_id":1209240815,
+            "region_id":85687301
         }
     ],
     "wof:id":1209240815,
-    "wof:lastmodified":1566596996,
+    "wof:lastmodified":1568247307,
     "wof:name":"Grzedna",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125359819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

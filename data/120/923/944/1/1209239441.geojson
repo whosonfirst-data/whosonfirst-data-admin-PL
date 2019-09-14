@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687277,
+        102191581,
+        1125362003,
+        85633723,
+        102079613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +63,18 @@
     "wof:geomhash":"87a4d7d1ade593e8b063a6c4b36360fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209239441
+            "county_id":102079613,
+            "localadmin_id":1125362003,
+            "locality_id":1209239441,
+            "region_id":85687277
         }
     ],
     "wof:id":1209239441,
-    "wof:lastmodified":1566597018,
+    "wof:lastmodified":1568230825,
     "wof:name":"Turza",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125362003,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

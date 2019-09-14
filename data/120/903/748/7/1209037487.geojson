@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687319,
+        102191581,
+        1125370931,
+        85633723,
+        102080013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +62,18 @@
     "wof:geomhash":"49922881927db772f1a59809579a814a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209037487
+            "county_id":102080013,
+            "localadmin_id":1125370931,
+            "locality_id":1209037487,
+            "region_id":85687319
         }
     ],
     "wof:id":1209037487,
-    "wof:lastmodified":1566597086,
+    "wof:lastmodified":1568257953,
     "wof:name":"Piecki",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125370931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

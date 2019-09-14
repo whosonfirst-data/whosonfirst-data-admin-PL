@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125324205,
+        85633723,
+        102079979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +69,18 @@
     "wof:geomhash":"a7344550a634145fca35eb958d16cb62",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209341015
+            "county_id":102079979,
+            "localadmin_id":1125324205,
+            "locality_id":1209341015,
+            "region_id":85687257
         }
     ],
     "wof:id":1209341015,
-    "wof:lastmodified":1566597168,
+    "wof:lastmodified":1568245859,
     "wof:name":"Buzyska",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125324205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

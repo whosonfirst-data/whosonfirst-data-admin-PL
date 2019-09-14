@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125288635,
+        85633723,
+        102080003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"8da1d7258611ec0942202f2f0ded984c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209032603
+            "county_id":102080003,
+            "localadmin_id":1125288635,
+            "locality_id":1209032603,
+            "region_id":85687257
         }
     ],
     "wof:id":1209032603,
-    "wof:lastmodified":1566597078,
+    "wof:lastmodified":1568238119,
     "wof:name":"Mijakowo",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125288635,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

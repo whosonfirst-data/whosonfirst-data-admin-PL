@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687319,
+        102191581,
+        1125370931,
+        85633723,
+        102080013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"b1d634861753f27c8a6eb13e179cb1b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209132421
+            "county_id":102080013,
+            "localadmin_id":1125370931,
+            "locality_id":1209132421,
+            "region_id":85687319
         }
     ],
     "wof:id":1209132421,
-    "wof:lastmodified":1566597027,
+    "wof:lastmodified":1568257953,
     "wof:name":"Rozniaty",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125370931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

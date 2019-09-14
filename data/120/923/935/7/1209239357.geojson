@@ -67,7 +67,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125287443,
+        85633723,
+        102080255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,14 +82,18 @@
     "wof:geomhash":"ec8d7cfa88a80f752faf17aa93f1b48a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209239357
+            "county_id":102080255,
+            "localadmin_id":1125287443,
+            "locality_id":1209239357,
+            "region_id":85687267
         }
     ],
     "wof:id":1209239357,
-    "wof:lastmodified":1566597011,
+    "wof:lastmodified":1568242887,
     "wof:name":"Damno",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125287443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

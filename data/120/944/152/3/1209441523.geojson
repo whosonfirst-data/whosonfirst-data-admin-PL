@@ -51,7 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1477752565,
+        85633723,
+        102079981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +66,18 @@
     "wof:geomhash":"035bb67896d9a2a6ff6f6e8d1ca5c062",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209441523
+            "county_id":102079981,
+            "localadmin_id":1477752565,
+            "locality_id":1209441523,
+            "region_id":85687257
         }
     ],
     "wof:id":1209441523,
-    "wof:lastmodified":1566597241,
+    "wof:lastmodified":1568253266,
     "wof:name":"Puczyce",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752565,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -51,7 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687313,
+        102191581,
+        1125289399,
+        85633723,
+        102079587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +66,18 @@
     "wof:geomhash":"f8ca5f59cdfe10942bc125c1ea1580c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209643123
+            "county_id":102079587,
+            "localadmin_id":1125289399,
+            "locality_id":1209643123,
+            "region_id":85687313
         }
     ],
     "wof:id":1209643123,
-    "wof:lastmodified":1566596920,
+    "wof:lastmodified":1568243602,
     "wof:name":"Krosnica",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125289399,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

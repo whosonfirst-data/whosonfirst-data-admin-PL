@@ -88,7 +88,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633723
+        85687291,
+        102191581,
+        1477751657,
+        85633723,
+        102079465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +103,18 @@
     "wof:geomhash":"b80cf2ca22c412838319b9aadb395dc8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209133875
+            "county_id":102079465,
+            "localadmin_id":1477751657,
+            "locality_id":1209133875,
+            "region_id":85687291
         }
     ],
     "wof:id":1209133875,
-    "wof:lastmodified":1566597058,
+    "wof:lastmodified":1568260591,
     "wof:name":"Brzezinka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751657,
     "wof:placetype":"locality",
     "wof:population":2100,
     "wof:population_rank":4,

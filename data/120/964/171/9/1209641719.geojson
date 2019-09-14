@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1477751755,
+        85633723,
+        102079865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +69,18 @@
     "wof:geomhash":"a8b077abe4b3d227beecdf04ab08919e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209641719
+            "county_id":102079865,
+            "localadmin_id":1477751755,
+            "locality_id":1209641719,
+            "region_id":85687323
         }
     ],
     "wof:id":1209641719,
-    "wof:lastmodified":1566596942,
+    "wof:lastmodified":1568251506,
     "wof:name":"Esterpole",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

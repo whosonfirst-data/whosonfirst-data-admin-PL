@@ -57,7 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125359345,
+        85633723,
+        102080089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,14 +71,18 @@
     "wof:geomhash":"45331ccf09139f3241f52cc3c3b5a88e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209239261
+            "county_id":102080089,
+            "localadmin_id":1125359345,
+            "locality_id":1209239261,
+            "region_id":85687257
         }
     ],
     "wof:id":1209239261,
-    "wof:lastmodified":1566597016,
+    "wof:lastmodified":1568247266,
     "wof:name":"Zawady",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125359345,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687271,
+        102191581,
+        1125384469,
+        85633723,
+        102080005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"8c16585a784ed5b7556df32e09195c7b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647721
+            "county_id":102080005,
+            "localadmin_id":1125384469,
+            "locality_id":1209647721,
+            "region_id":85687271
         }
     ],
     "wof:id":1209647721,
-    "wof:lastmodified":1566596935,
+    "wof:lastmodified":1568248831,
     "wof:name":"Parzensko",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125384469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687291,
+        102191581,
+        1125396357,
+        85633723,
+        102079491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +59,18 @@
     "wof:geomhash":"057b21d1d261fa0d0cb37779bd3354bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209441479
+            "county_id":102079491,
+            "localadmin_id":1125396357,
+            "locality_id":1209441479,
+            "region_id":85687291
         }
     ],
     "wof:id":1209441479,
-    "wof:lastmodified":1566597255,
+    "wof:lastmodified":1568259096,
     "wof:name":"Gumniska",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125396357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

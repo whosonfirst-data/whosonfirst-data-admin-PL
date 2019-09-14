@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125383281,
+        85633723,
+        102080179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +63,18 @@
     "wof:geomhash":"508aa5fcf16c6883b91b84c0f35b51cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209240821
+            "county_id":102080179,
+            "localadmin_id":1125383281,
+            "locality_id":1209240821,
+            "region_id":85687267
         }
     ],
     "wof:id":1209240821,
-    "wof:lastmodified":1566596986,
+    "wof:lastmodified":1568258511,
     "wof:name":"Usnice",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125383281,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

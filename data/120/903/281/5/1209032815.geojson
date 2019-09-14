@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125410547,
+        85633723,
+        102080021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"099f733acad4fc5d956d659833a96c50",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209032815
+            "county_id":102080021,
+            "localadmin_id":1125410547,
+            "locality_id":1209032815,
+            "region_id":85687323
         }
     ],
     "wof:id":1209032815,
-    "wof:lastmodified":1566597075,
+    "wof:lastmodified":1568259641,
     "wof:name":"Sokolec",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125410547,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

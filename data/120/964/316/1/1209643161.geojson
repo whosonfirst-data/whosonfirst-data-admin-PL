@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125404959,
+        85633723,
+        102079923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"841394c5795fdfdd9c0a3756157169bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209643161
+            "county_id":102079923,
+            "localadmin_id":1125404959,
+            "locality_id":1209643161,
+            "region_id":85687261
         }
     ],
     "wof:id":1209643161,
-    "wof:lastmodified":1566596936,
+    "wof:lastmodified":1568259435,
     "wof:name":"Pilaszkow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125404959,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

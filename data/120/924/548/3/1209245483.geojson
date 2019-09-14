@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125303881,
+        85633723,
+        102079807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"4dcddb04109e4013ea96171624e57947",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245483
+            "county_id":102079807,
+            "localadmin_id":1125303881,
+            "locality_id":1209245483,
+            "region_id":85687261
         }
     ],
     "wof:id":1209245483,
-    "wof:lastmodified":1566597003,
+    "wof:lastmodified":1568244381,
     "wof:name":"Buczkowska Wola",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125303881,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

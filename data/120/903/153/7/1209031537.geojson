@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125289235,
+        85633723,
+        102079819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"31b9f72915da6a6367f1090fda3ed638",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031537
+            "county_id":102079819,
+            "localadmin_id":1125289235,
+            "locality_id":1209031537,
+            "region_id":85687261
         }
     ],
     "wof:id":1209031537,
-    "wof:lastmodified":1566597089,
+    "wof:lastmodified":1568243526,
     "wof:name":"Lipicze",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125289235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

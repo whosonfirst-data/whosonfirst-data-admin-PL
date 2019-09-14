@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1477752901,
+        85633723,
+        102080249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"a649c26f95dd98c822f73ca7d3ec8cc2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209346997
+            "county_id":102080249,
+            "localadmin_id":1477752901,
+            "locality_id":1209346997,
+            "region_id":85687305
         }
     ],
     "wof:id":1209346997,
-    "wof:lastmodified":1566597173,
+    "wof:lastmodified":1568262729,
     "wof:name":"Gudniki",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

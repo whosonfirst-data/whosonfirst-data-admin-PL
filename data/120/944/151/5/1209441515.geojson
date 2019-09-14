@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125328609,
+        85633723,
+        102079793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"1598c724ca3a904f5b65332ab3f827f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209441515
+            "county_id":102079793,
+            "localadmin_id":1125328609,
+            "locality_id":1209441515,
+            "region_id":85687323
         }
     ],
     "wof:id":1209441515,
-    "wof:lastmodified":1566597227,
+    "wof:lastmodified":1568246443,
     "wof:name":"Majkow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125328609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

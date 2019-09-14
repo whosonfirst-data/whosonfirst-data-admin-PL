@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687295,
+        102191581,
+        1125363463,
+        85633723,
+        102079589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"aab0ec55062bf6a37f47d62e1dc3e1f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209133839
+            "county_id":102079589,
+            "localadmin_id":1125363463,
+            "locality_id":1209133839,
+            "region_id":85687295
         }
     ],
     "wof:id":1209133839,
-    "wof:lastmodified":1566597035,
+    "wof:lastmodified":1568230491,
     "wof:name":"Konska Ulica",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125363463,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

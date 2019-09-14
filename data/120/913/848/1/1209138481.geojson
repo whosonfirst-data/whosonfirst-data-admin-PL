@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125359815,
+        85633723,
+        102080225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"c6aef5544cf2c364a6032b60746d6b7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209138481
+            "county_id":102080225,
+            "localadmin_id":1125359815,
+            "locality_id":1209138481,
+            "region_id":85687267
         }
     ],
     "wof:id":1209138481,
-    "wof:lastmodified":1566597044,
+    "wof:lastmodified":1568247276,
     "wof:name":"Sidlice",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125359815,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

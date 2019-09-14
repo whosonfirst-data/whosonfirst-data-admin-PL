@@ -40,7 +40,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125342317,
+        85633723,
+        102080213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +55,18 @@
     "wof:geomhash":"7d78ba76c3033baeff4a5646fcec0fe5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647645
+            "county_id":102080213,
+            "localadmin_id":1125342317,
+            "locality_id":1209647645,
+            "region_id":85687267
         }
     ],
     "wof:id":1209647645,
-    "wof:lastmodified":1566596912,
+    "wof:lastmodified":1568246617,
     "wof:name":"Majdany",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125342317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

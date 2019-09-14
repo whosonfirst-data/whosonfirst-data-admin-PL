@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1477752825,
+        85633723,
+        102079883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"06f940b1bd7ae6e32e70f73da980cb42",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209032599
+            "county_id":102079883,
+            "localadmin_id":1477752825,
+            "locality_id":1209032599,
+            "region_id":85687323
         }
     ],
     "wof:id":1209032599,
-    "wof:lastmodified":1566597077,
+    "wof:lastmodified":1568262558,
     "wof:name":"Kaczki Mostowe",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752825,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

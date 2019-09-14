@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125281859,
+        85633723,
+        102080195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"79f758bbbc59fe66b7cc284c0712e331",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209342293
+            "county_id":102080195,
+            "localadmin_id":1125281859,
+            "locality_id":1209342293,
+            "region_id":85687305
         }
     ],
     "wof:id":1209342293,
-    "wof:lastmodified":1566597152,
+    "wof:lastmodified":1568254744,
     "wof:name":"Osiki",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125281859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

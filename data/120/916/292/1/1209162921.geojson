@@ -51,7 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687287,
+        102191581,
+        1125339349,
+        85633723,
+        102079703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +65,18 @@
     "wof:geomhash":"969e6cae39b058785abd51e091ae9d91",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209162921
+            "county_id":102079703,
+            "localadmin_id":1125339349,
+            "locality_id":1209162921,
+            "region_id":85687287
         }
     ],
     "wof:id":1209162921,
-    "wof:lastmodified":1566597183,
+    "wof:lastmodified":1568257210,
     "wof:name":"Wojnowice",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125339349,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

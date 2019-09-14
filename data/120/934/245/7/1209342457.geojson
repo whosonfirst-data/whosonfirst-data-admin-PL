@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687271,
+        102191581,
+        1125345863,
+        85633723,
+        102080135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"4e6cf8a2d9f3d624c321817b49cada88",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209342457
+            "county_id":102080135,
+            "localadmin_id":1125345863,
+            "locality_id":1209342457,
+            "region_id":85687271
         }
     ],
     "wof:id":1209342457,
-    "wof:lastmodified":1566597153,
+    "wof:lastmodified":1568246668,
     "wof:name":"Grebice",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125345863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

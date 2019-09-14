@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687283,
+        102191581,
+        1125363985,
+        85633723,
+        102080189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"a488c01d2f09a4c93812487e7f335a1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548231
+            "county_id":102080189,
+            "localadmin_id":1125363985,
+            "locality_id":1209548231,
+            "region_id":85687283
         }
     ],
     "wof:id":1209548231,
-    "wof:lastmodified":1566596899,
+    "wof:lastmodified":1568257638,
     "wof:name":"Kundzicze",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125363985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -49,7 +49,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687271,
+        102191581,
+        1125303621,
+        85633723,
+        102080123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +64,18 @@
     "wof:geomhash":"95cad1a06195bacbf9e1dad77a5cb344",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209133945
+            "county_id":102080123,
+            "localadmin_id":1125303621,
+            "locality_id":1209133945,
+            "region_id":85687271
         }
     ],
     "wof:id":1209133945,
-    "wof:lastmodified":1566597041,
+    "wof:lastmodified":1568255948,
     "wof:name":"Lubczyna",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125303621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

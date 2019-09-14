@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687283,
+        102191581,
+        1477752017,
+        85633723,
+        102080189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"414aee5443824d6b37a1409e056faf00",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548111
+            "county_id":102080189,
+            "localadmin_id":1477752017,
+            "locality_id":1209548111,
+            "region_id":85687283
         }
     ],
     "wof:id":1209548111,
-    "wof:lastmodified":1566596886,
+    "wof:lastmodified":1568252078,
     "wof:name":"Plebanowce",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687287,
+        102191581,
+        1477751879,
+        85633723,
+        102079679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"77319ede42ca8da310007436c3749185",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209453121
+            "county_id":102079679,
+            "localadmin_id":1477751879,
+            "locality_id":1209453121,
+            "region_id":85687287
         }
     ],
     "wof:id":1209453121,
-    "wof:lastmodified":1566597218,
+    "wof:lastmodified":1568251800,
     "wof:name":"Rogalow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751879,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

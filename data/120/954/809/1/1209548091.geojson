@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125329169,
+        85633723,
+        102079835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"4c899bc58041c84c7e5baad7f720a41a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548091
+            "county_id":102079835,
+            "localadmin_id":1125329169,
+            "locality_id":1209548091,
+            "region_id":85687261
         }
     ],
     "wof:id":1209548091,
-    "wof:lastmodified":1566596905,
+    "wof:lastmodified":1568256858,
     "wof:name":"Nery",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125329169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

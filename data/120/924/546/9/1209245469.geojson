@@ -40,7 +40,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687271,
+        102191581,
+        1125328615,
+        85633723,
+        102080185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +55,18 @@
     "wof:geomhash":"de6e533a37f4f2b4af3d218e82a0ffc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245469
+            "county_id":102080185,
+            "localadmin_id":1125328615,
+            "locality_id":1209245469,
+            "region_id":85687271
         }
     ],
     "wof:id":1209245469,
-    "wof:lastmodified":1566597002,
+    "wof:lastmodified":1568246446,
     "wof:name":"Labusz",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125328615,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

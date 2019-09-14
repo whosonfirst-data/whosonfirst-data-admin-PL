@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1477752619,
+        85633723,
+        102080139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"e2388c4c026ee5e2ea596d45d8622fbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209542127
+            "county_id":102080139,
+            "localadmin_id":1477752619,
+            "locality_id":1209542127,
+            "region_id":85687257
         }
     ],
     "wof:id":1209542127,
-    "wof:lastmodified":1566596899,
+    "wof:lastmodified":1568253396,
     "wof:name":"Nasiadki",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

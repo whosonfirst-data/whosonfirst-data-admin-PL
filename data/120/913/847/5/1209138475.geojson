@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125359345,
+        85633723,
+        102080089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"89fbb911f77c57bd2bdb37034b1b7f2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209138475
+            "county_id":102080089,
+            "localadmin_id":1125359345,
+            "locality_id":1209138475,
+            "region_id":85687257
         }
     ],
     "wof:id":1209138475,
-    "wof:lastmodified":1566597047,
+    "wof:lastmodified":1568247266,
     "wof:name":"Krery",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125359345,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

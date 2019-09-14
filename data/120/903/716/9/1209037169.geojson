@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1125383215,
+        85633723,
+        102079645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +53,18 @@
     "wof:geomhash":"b28b2b873782a74dc95377af96aa3602",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209037169
+            "county_id":102079645,
+            "localadmin_id":1125383215,
+            "locality_id":1209037169,
+            "region_id":85687301
         }
     ],
     "wof:id":1209037169,
-    "wof:lastmodified":1566597108,
+    "wof:lastmodified":1568248771,
     "wof:name":"Przybylowice",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125383215,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

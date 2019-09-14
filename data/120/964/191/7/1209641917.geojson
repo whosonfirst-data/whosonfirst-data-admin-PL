@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687277,
+        102191581,
+        1125326875,
+        85633723,
+        102079435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"99ad9e4537d5db3828cd9c868c5b9bbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209641917
+            "county_id":102079435,
+            "localadmin_id":1125326875,
+            "locality_id":1209641917,
+            "region_id":85687277
         }
     ],
     "wof:id":1209641917,
-    "wof:lastmodified":1566596927,
+    "wof:lastmodified":1568246330,
     "wof:name":"Cisowka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125326875,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687291,
+        102191581,
+        1125282827,
+        85633723,
+        102079545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"e8ea108a2bd26fd95a88e17bd17dbb0d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209643285
+            "county_id":102079545,
+            "localadmin_id":1125282827,
+            "locality_id":1209643285,
+            "region_id":85687291
         }
     ],
     "wof:id":1209643285,
-    "wof:lastmodified":1566596938,
+    "wof:lastmodified":1568242680,
     "wof:name":"Czuszow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125282827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

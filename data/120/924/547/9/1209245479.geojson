@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687283,
+        102191581,
+        1125290721,
+        85633723,
+        102080145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"2adc95aa90f335ff6f357e8ec11e4c48",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245479
+            "county_id":102080145,
+            "localadmin_id":1125290721,
+            "locality_id":1209245479,
+            "region_id":85687283
         }
     ],
     "wof:id":1209245479,
-    "wof:lastmodified":1566597001,
+    "wof:lastmodified":1568255338,
     "wof:name":"Rogowek",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125290721,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -46,7 +46,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1477752893,
+        85633723,
+        102080209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +61,18 @@
     "wof:geomhash":"7061920514effff70ae28d11e61271d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209240691
+            "county_id":102080209,
+            "localadmin_id":1477752893,
+            "locality_id":1209240691,
+            "region_id":85687305
         }
     ],
     "wof:id":1209240691,
-    "wof:lastmodified":1566596999,
+    "wof:lastmodified":1568253960,
     "wof:name":"Gorlo",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752893,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

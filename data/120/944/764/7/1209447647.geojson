@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125380011,
+        85633723,
+        102079789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"45a64b59b184ca6ac8a3bc9392e59dac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447647
+            "county_id":102079789,
+            "localadmin_id":1125380011,
+            "locality_id":1209447647,
+            "region_id":85687323
         }
     ],
     "wof:id":1209447647,
-    "wof:lastmodified":1566597220,
+    "wof:lastmodified":1568248680,
     "wof:name":"Mlynik",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125380011,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

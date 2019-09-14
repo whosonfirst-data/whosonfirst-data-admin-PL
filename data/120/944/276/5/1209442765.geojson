@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125289257,
+        85633723,
+        102080251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"9d0c4d262bee0b5442d275f325cabb3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209442765
+            "county_id":102080251,
+            "localadmin_id":1125289257,
+            "locality_id":1209442765,
+            "region_id":85687267
         }
     ],
     "wof:id":1209442765,
-    "wof:lastmodified":1566597247,
+    "wof:lastmodified":1568243538,
     "wof:name":"Wzgorze Sw. Maksymiliana",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125289257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

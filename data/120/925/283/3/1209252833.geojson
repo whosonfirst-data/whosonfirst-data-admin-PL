@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687287,
+        102191581,
+        1125278395,
+        85633723,
+        102079693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"622112d1a3035b2b7136275ca8e0b9f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209252833
+            "county_id":102079693,
+            "localadmin_id":1125278395,
+            "locality_id":1209252833,
+            "region_id":85687287
         }
     ],
     "wof:id":1209252833,
-    "wof:lastmodified":1566597022,
+    "wof:lastmodified":1568254568,
     "wof:name":"Bielowa",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125278395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

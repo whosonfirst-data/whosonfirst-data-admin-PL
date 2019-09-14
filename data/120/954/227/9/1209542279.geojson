@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687291,
+        102191581,
+        1125419691,
+        85633723,
+        102079579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +69,18 @@
     "wof:geomhash":"6ce1c92c7f2560f6d1dc641c4b69010e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209542279
+            "county_id":102079579,
+            "localadmin_id":1125419691,
+            "locality_id":1209542279,
+            "region_id":85687291
         }
     ],
     "wof:id":1209542279,
-    "wof:lastmodified":1566596884,
+    "wof:lastmodified":1568250048,
     "wof:name":"Czaple Wielkie",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125419691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

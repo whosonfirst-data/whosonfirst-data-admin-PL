@@ -49,7 +49,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1477752715,
+        85633723,
+        102079695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +64,18 @@
     "wof:geomhash":"c89a5ba92bfd4e5589afbe3916f150d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209032751
+            "county_id":102079695,
+            "localadmin_id":1477752715,
+            "locality_id":1209032751,
+            "region_id":85687301
         }
     ],
     "wof:id":1209032751,
-    "wof:lastmodified":1566597074,
+    "wof:lastmodified":1568262243,
     "wof:name":"Posada",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

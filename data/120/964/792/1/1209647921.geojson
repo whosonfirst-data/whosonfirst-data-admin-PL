@@ -43,7 +43,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1477752185,
+        85633723,
+        102079675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +58,18 @@
     "wof:geomhash":"393fc27b6177f6a250e14c0e80c33880",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647921
+            "county_id":102079675,
+            "localadmin_id":1477752185,
+            "locality_id":1209647921,
+            "region_id":85687301
         }
     ],
     "wof:id":1209647921,
-    "wof:lastmodified":1566596932,
+    "wof:lastmodified":1568252478,
     "wof:name":"Konary",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752185,
     "wof:placetype":"locality",
     "wof:population":505,
     "wof:population_rank":2,

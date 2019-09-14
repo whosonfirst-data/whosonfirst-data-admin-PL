@@ -52,7 +52,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1477751711,
+        85633723,
+        102080209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +67,18 @@
     "wof:geomhash":"4ec39170423c3fd9120bad1a5575b964",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209138303
+            "county_id":102080209,
+            "localadmin_id":1477751711,
+            "locality_id":1209138303,
+            "region_id":85687305
         }
     ],
     "wof:id":1209138303,
-    "wof:lastmodified":1566597054,
+    "wof:lastmodified":1568260683,
     "wof:name":"Mrozy Wielkie",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125303639,
+        85633723,
+        102079783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"8b703345034e294fa58eb9d5adb211f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209342273
+            "county_id":102079783,
+            "localadmin_id":1125303639,
+            "locality_id":1209342273,
+            "region_id":85687261
         }
     ],
     "wof:id":1209342273,
-    "wof:lastmodified":1566597152,
+    "wof:lastmodified":1568244363,
     "wof:name":"Bujny",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125303639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

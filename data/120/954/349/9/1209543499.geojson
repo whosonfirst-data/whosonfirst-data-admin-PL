@@ -46,7 +46,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1477752767,
+        85633723,
+        102080231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +61,18 @@
     "wof:geomhash":"7537065588af722fa35b43cbf9c0ac55",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209543499
+            "county_id":102080231,
+            "localadmin_id":1477752767,
+            "locality_id":1209543499,
+            "region_id":85687305
         }
     ],
     "wof:id":1209543499,
-    "wof:lastmodified":1566596895,
+    "wof:lastmodified":1568253705,
     "wof:name":"Stare Dolno",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752767,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

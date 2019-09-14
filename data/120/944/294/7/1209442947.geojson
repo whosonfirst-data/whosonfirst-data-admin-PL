@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687313,
+        102191581,
+        1477751801,
+        85633723,
+        102079553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +56,18 @@
     "wof:geomhash":"ebfdc06520e5953505d0a70ab1e2fe53",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209442947
+            "county_id":102079553,
+            "localadmin_id":1477751801,
+            "locality_id":1209442947,
+            "region_id":85687313
         }
     ],
     "wof:id":1209442947,
-    "wof:lastmodified":1566597232,
+    "wof:lastmodified":1568260870,
     "wof:name":"Wygon",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

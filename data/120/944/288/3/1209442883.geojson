@@ -49,7 +49,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1477752875,
+        85633723,
+        102080167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +64,18 @@
     "wof:geomhash":"30817c21aa8270440bc99dd1faf46f33",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209442883
+            "county_id":102080167,
+            "localadmin_id":1477752875,
+            "locality_id":1209442883,
+            "region_id":85687305
         }
     ],
     "wof:id":1209442883,
-    "wof:lastmodified":1566597230,
+    "wof:lastmodified":1568262647,
     "wof:name":"Baranowo",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752875,
     "wof:placetype":"locality",
     "wof:population":152,
     "wof:population_rank":1,

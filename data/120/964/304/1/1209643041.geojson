@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687291,
+        102191581,
+        1477752083,
+        85633723,
+        102079465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"5450a209e337dbff40470bca5f0f2560",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209643041
+            "county_id":102079465,
+            "localadmin_id":1477752083,
+            "locality_id":1209643041,
+            "region_id":85687291
         }
     ],
     "wof:id":1209643041,
-    "wof:lastmodified":1566596928,
+    "wof:lastmodified":1568252241,
     "wof:name":"Las",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125382183,
+        85633723,
+        102079909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"87583fc269c15c56d768e5b24705f6de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548283
+            "county_id":102079909,
+            "localadmin_id":1125382183,
+            "locality_id":1209548283,
+            "region_id":85687257
         }
     ],
     "wof:id":1209548283,
-    "wof:lastmodified":1566596887,
+    "wof:lastmodified":1568248730,
     "wof:name":"Jastrzebnik",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125382183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

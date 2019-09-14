@@ -72,7 +72,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1125280577,
+        85633723,
+        102079661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,14 +86,18 @@
     "wof:geomhash":"9e729af6df9be59767f31d8b6d7157cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209341123
+            "county_id":102079661,
+            "localadmin_id":1125280577,
+            "locality_id":1209341123,
+            "region_id":85687301
         }
     ],
     "wof:id":1209341123,
-    "wof:lastmodified":1566597181,
+    "wof:lastmodified":1568231461,
     "wof:name":"Gaj",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125280577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

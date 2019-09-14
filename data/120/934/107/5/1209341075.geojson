@@ -57,7 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687327,
+        102191581,
+        1125289263,
+        85633723,
+        102079801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,14 +71,18 @@
     "wof:geomhash":"620fdb44ceea9dcf740c9b3df8a6354c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209341075
+            "county_id":102079801,
+            "localadmin_id":1125289263,
+            "locality_id":1209341075,
+            "region_id":85687327
         }
     ],
     "wof:id":1209341075,
-    "wof:lastmodified":1566597166,
+    "wof:lastmodified":1568255159,
     "wof:name":"Winnica",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125289263,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125319953,
+        85633723,
+        102079805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"0513bf2a12a1608031a383e8abe905c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209133761
+            "county_id":102079805,
+            "localadmin_id":1125319953,
+            "locality_id":1209133761,
+            "region_id":85687257
         }
     ],
     "wof:id":1209133761,
-    "wof:lastmodified":1566597037,
+    "wof:lastmodified":1568245669,
     "wof:name":"Podmostki",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125319953,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

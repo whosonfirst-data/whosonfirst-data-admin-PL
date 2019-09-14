@@ -55,7 +55,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125374145,
+        85633723,
+        102080203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,14 +70,18 @@
     "wof:geomhash":"b8b56d29aa74dc1c3a59a3f1eab9d282",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031217
+            "county_id":102080203,
+            "localadmin_id":1125374145,
+            "locality_id":1209031217,
+            "region_id":85687305
         }
     ],
     "wof:id":1209031217,
-    "wof:lastmodified":1566597087,
+    "wof:lastmodified":1568258215,
     "wof:name":"Faszcze",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125374145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

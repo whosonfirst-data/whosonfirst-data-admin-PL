@@ -101,7 +101,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633723
+        85687271,
+        102191581,
+        1477752665,
+        85633723,
+        102080153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,14 +116,18 @@
     "wof:geomhash":"eedc5f987c883d9164dfb009e8bc7dfa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447713
+            "county_id":102080153,
+            "localadmin_id":1477752665,
+            "locality_id":1209447713,
+            "region_id":85687271
         }
     ],
     "wof:id":1209447713,
-    "wof:lastmodified":1566597234,
+    "wof:lastmodified":1568262203,
     "wof:name":"Dziwnow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752665,
     "wof:placetype":"locality",
     "wof:population":2904,
     "wof:population_rank":4,

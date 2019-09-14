@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687313,
+        102191581,
+        1125358825,
+        85633723,
+        102079627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"3f54c3a9bcf631f9c12ea0d78a40307e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209037411
+            "county_id":102079627,
+            "localadmin_id":1125358825,
+            "locality_id":1209037411,
+            "region_id":85687313
         }
     ],
     "wof:id":1209037411,
-    "wof:lastmodified":1566597089,
+    "wof:lastmodified":1568231110,
     "wof:name":"Lesiec",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125358825,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

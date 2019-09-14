@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1477752751,
+        85633723,
+        102080247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"93758dcd60a3ceb1c13b26cf4ba9e3ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209032651
+            "county_id":102080247,
+            "localadmin_id":1477752751,
+            "locality_id":1209032651,
+            "region_id":85687305
         }
     ],
     "wof:id":1209032651,
-    "wof:lastmodified":1566597101,
+    "wof:lastmodified":1568262396,
     "wof:name":"Gruszyny",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752751,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1477751479,
+        85633723,
+        102079711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"015dc6ace0462f1d5195188965c62f67",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209342269
+            "county_id":102079711,
+            "localadmin_id":1477751479,
+            "locality_id":1209342269,
+            "region_id":85687261
         }
     ],
     "wof:id":1209342269,
-    "wof:lastmodified":1566597153,
+    "wof:lastmodified":1568250884,
     "wof:name":"Rogaczowek",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

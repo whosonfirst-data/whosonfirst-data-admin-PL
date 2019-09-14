@@ -51,7 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125354173,
+        85633723,
+        102079783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +66,18 @@
     "wof:geomhash":"74d28baa4c506391503a2260570e112d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209543433
+            "county_id":102079783,
+            "localadmin_id":1125354173,
+            "locality_id":1209543433,
+            "region_id":85687261
         }
     ],
     "wof:id":1209543433,
-    "wof:lastmodified":1566596909,
+    "wof:lastmodified":1568234008,
     "wof:name":"Kamocinek",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125354173,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

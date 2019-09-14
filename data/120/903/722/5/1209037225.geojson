@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125285193,
+        85633723,
+        102079885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"caff24996c8acb2b7927124da13c0fbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209037225
+            "county_id":102079885,
+            "localadmin_id":1125285193,
+            "locality_id":1209037225,
+            "region_id":85687309
         }
     ],
     "wof:id":1209037225,
-    "wof:lastmodified":1566597080,
+    "wof:lastmodified":1568242810,
     "wof:name":"Gorki",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125285193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

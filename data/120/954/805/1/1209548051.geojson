@@ -43,7 +43,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125306267,
+        85633723,
+        102079927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +58,18 @@
     "wof:geomhash":"a0dfcf8cf6977ac13f6489ed3abd316d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548051
+            "county_id":102079927,
+            "localadmin_id":1125306267,
+            "locality_id":1209548051,
+            "region_id":85687323
         }
     ],
     "wof:id":1209548051,
-    "wof:lastmodified":1566596894,
+    "wof:lastmodified":1568245013,
     "wof:name":"Psary",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125306267,
     "wof:placetype":"locality",
     "wof:population":184,
     "wof:population_rank":1,

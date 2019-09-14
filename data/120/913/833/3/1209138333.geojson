@@ -84,7 +84,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125327207,
+        85633723,
+        102079941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,14 +98,18 @@
     "wof:geomhash":"023e0634a65510dc5fb03bd120715d1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209138333
+            "county_id":102079941,
+            "localadmin_id":1125327207,
+            "locality_id":1209138333,
+            "region_id":85687323
         }
     ],
     "wof:id":1209138333,
-    "wof:lastmodified":1566597034,
+    "wof:lastmodified":1568256740,
     "wof:name":"Podbiel",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125327207,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

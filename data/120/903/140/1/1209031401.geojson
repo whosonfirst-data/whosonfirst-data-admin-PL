@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687319,
+        102191581,
+        1125359833,
+        85633723,
+        102080051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"3ac833f3ada8485ca7a4ec73beced60b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031401
+            "county_id":102080051,
+            "localadmin_id":1125359833,
+            "locality_id":1209031401,
+            "region_id":85687319
         }
     ],
     "wof:id":1209031401,
-    "wof:lastmodified":1566597109,
+    "wof:lastmodified":1568247321,
     "wof:name":"Siernieczek",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125359833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

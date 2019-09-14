@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1477752159,
+        85633723,
+        102079995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"6dc16043bc01aba896fe5df307c24600",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447565
+            "county_id":102079995,
+            "localadmin_id":1477752159,
+            "locality_id":1209447565,
+            "region_id":85687257
         }
     ],
     "wof:id":1209447565,
-    "wof:lastmodified":1566597239,
+    "wof:lastmodified":1568252410,
     "wof:name":"Starowola",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

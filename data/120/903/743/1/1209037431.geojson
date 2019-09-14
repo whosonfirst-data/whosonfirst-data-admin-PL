@@ -48,7 +48,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125285665,
+        85633723,
+        102080255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +63,18 @@
     "wof:geomhash":"d823be1027620cdca257a61e559a18dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209037431
+            "county_id":102080255,
+            "localadmin_id":1125285665,
+            "locality_id":1209037431,
+            "region_id":85687267
         }
     ],
     "wof:id":1209037431,
-    "wof:lastmodified":1566597102,
+    "wof:lastmodified":1568242844,
     "wof:name":"Podwilczyn",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125285665,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

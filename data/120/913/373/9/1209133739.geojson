@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125288719,
+        85633723,
+        102079883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"e59b3da5620fe58c5138ae49d676d4dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209133739
+            "county_id":102079883,
+            "localadmin_id":1125288719,
+            "locality_id":1209133739,
+            "region_id":85687323
         }
     ],
     "wof:id":1209133739,
-    "wof:lastmodified":1566597057,
+    "wof:lastmodified":1568243077,
     "wof:name":"Milejow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125288719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

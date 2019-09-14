@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125324285,
+        85633723,
+        102079915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"322ee85b90f26070672a1f0a1028a105",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209442901
+            "county_id":102079915,
+            "localadmin_id":1125324285,
+            "locality_id":1209442901,
+            "region_id":85687323
         }
     ],
     "wof:id":1209442901,
-    "wof:lastmodified":1566597250,
+    "wof:lastmodified":1568245933,
     "wof:name":"Sepolno",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125324285,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

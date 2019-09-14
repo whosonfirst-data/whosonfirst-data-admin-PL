@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687295,
+        102191581,
+        1125384739,
+        85633723,
+        102079639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"5f6ee1b31d910750582b14793d86418d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209138401
+            "county_id":102079639,
+            "localadmin_id":1125384739,
+            "locality_id":1209138401,
+            "region_id":85687295
         }
     ],
     "wof:id":1209138401,
-    "wof:lastmodified":1566597048,
+    "wof:lastmodified":1568258563,
     "wof:name":"Borsuczyny",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125384739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

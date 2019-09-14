@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125389553,
+        85633723,
+        102079955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"3452985f1a781255fa16534987177b5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209641845
+            "county_id":102079955,
+            "localadmin_id":1125389553,
+            "locality_id":1209641845,
+            "region_id":85687323
         }
     ],
     "wof:id":1209641845,
-    "wof:lastmodified":1566596936,
+    "wof:lastmodified":1568258699,
     "wof:name":"Zbierkowo",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125389553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

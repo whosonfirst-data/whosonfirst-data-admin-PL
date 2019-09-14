@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687291,
+        102191581,
+        1125294637,
+        85633723,
+        102079535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"d6867f6fcd09af78b92d56d44f1b1cfb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647869
+            "county_id":102079535,
+            "localadmin_id":1125294637,
+            "locality_id":1209647869,
+            "region_id":85687291
         }
     ],
     "wof:id":1209647869,
-    "wof:lastmodified":1566596935,
+    "wof:lastmodified":1568255637,
     "wof:name":"Zaszkole",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125294637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

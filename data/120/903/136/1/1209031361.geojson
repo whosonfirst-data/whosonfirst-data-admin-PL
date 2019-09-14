@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687291,
+        102191581,
+        1125284387,
+        85633723,
+        102079407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"33e536678e365f9cd5d1b60178441b50",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031361
+            "county_id":102079407,
+            "localadmin_id":1125284387,
+            "locality_id":1209031361,
+            "region_id":85687291
         }
     ],
     "wof:id":1209031361,
-    "wof:lastmodified":1566597091,
+    "wof:lastmodified":1568242723,
     "wof:name":"Mlynowka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125284387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

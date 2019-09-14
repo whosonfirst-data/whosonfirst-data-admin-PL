@@ -51,7 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125324255,
+        85633723,
+        102079847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +66,18 @@
     "wof:geomhash":"30809bc36816e750a8d429106145a7a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209442781
+            "county_id":102079847,
+            "localadmin_id":1125324255,
+            "locality_id":1209442781,
+            "region_id":85687323
         }
     ],
     "wof:id":1209442781,
-    "wof:lastmodified":1566597247,
+    "wof:lastmodified":1568245901,
     "wof:name":"Koscielna Wies",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125324255,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

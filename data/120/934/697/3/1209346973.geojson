@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125338693,
+        85633723,
+        102080171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"cd8e20a93d6ad70594e4ea05c25add89",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209346973
+            "county_id":102080171,
+            "localadmin_id":1125338693,
+            "locality_id":1209346973,
+            "region_id":85687305
         }
     ],
     "wof:id":1209346973,
-    "wof:lastmodified":1566597175,
+    "wof:lastmodified":1568256995,
     "wof:name":"Limza",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125338693,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

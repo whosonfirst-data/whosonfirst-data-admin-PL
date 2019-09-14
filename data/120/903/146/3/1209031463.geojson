@@ -43,7 +43,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633723
+        85687271,
+        102191581,
+        1477752315,
+        85633723,
+        102080113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +58,18 @@
     "wof:geomhash":"03075ee45af3297fb21d9312194d1c7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031463
+            "county_id":102080113,
+            "localadmin_id":1477752315,
+            "locality_id":1209031463,
+            "region_id":85687271
         }
     ],
     "wof:id":1209031463,
-    "wof:lastmodified":1566597106,
+    "wof:lastmodified":1568261711,
     "wof:name":"Stare Kalensko",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752315,
     "wof:placetype":"locality",
     "wof:population":333,
     "wof:population_rank":2,

@@ -60,7 +60,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687277,
+        102191581,
+        1125409241,
+        85633723,
+        102079471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,14 +74,18 @@
     "wof:geomhash":"4d1803fcf97d51e6f5a9d182898db52e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209133685
+            "county_id":102079471,
+            "localadmin_id":1125409241,
+            "locality_id":1209133685,
+            "region_id":85687277
         }
     ],
     "wof:id":1209133685,
-    "wof:lastmodified":1566597040,
+    "wof:lastmodified":1568249747,
     "wof:name":"Kopaniny",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125409241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125311243,
+        85633723,
+        102080197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"de15529657737bbcd39cc2b83062ef81",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209641869
+            "county_id":102080197,
+            "localadmin_id":1125311243,
+            "locality_id":1209641869,
+            "region_id":85687305
         }
     ],
     "wof:id":1209641869,
-    "wof:lastmodified":1566596922,
+    "wof:lastmodified":1568256312,
     "wof:name":"Surajny",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125311243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

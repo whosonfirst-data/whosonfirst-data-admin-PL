@@ -84,7 +84,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687287,
+        102191581,
+        1125370967,
+        85633723,
+        102079693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,14 +98,18 @@
     "wof:geomhash":"22cd564b8be6d95ccbce7b45f1da4710",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209150523
+            "county_id":102079693,
+            "localadmin_id":1125370967,
+            "locality_id":1209150523,
+            "region_id":85687287
         }
     ],
     "wof:id":1209150523,
-    "wof:lastmodified":1566596980,
+    "wof:lastmodified":1568248090,
     "wof:name":"Piaski",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125370967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1125341987,
+        85633723,
+        102079609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"95d10ccb6ca59ac6b4e7095ef2a04ff8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548185
+            "county_id":102079609,
+            "localadmin_id":1125341987,
+            "locality_id":1209548185,
+            "region_id":85687301
         }
     ],
     "wof:id":1209548185,
-    "wof:lastmodified":1566596882,
+    "wof:lastmodified":1568257279,
     "wof:name":"Karszowek",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125341987,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

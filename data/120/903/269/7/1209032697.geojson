@@ -102,7 +102,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1125289019,
+        85633723,
+        102079943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,14 +116,18 @@
     "wof:geomhash":"5298beb9f0b059aa789878eed09d47db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209032697
+            "county_id":102079943,
+            "localadmin_id":1125289019,
+            "locality_id":1209032697,
+            "region_id":85687323
         }
     ],
     "wof:id":1209032697,
-    "wof:lastmodified":1566597080,
+    "wof:lastmodified":1568243374,
     "wof:name":"Zielonka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125289019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

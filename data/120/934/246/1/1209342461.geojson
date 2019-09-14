@@ -43,7 +43,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125309701,
+        85633723,
+        102080207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +58,18 @@
     "wof:geomhash":"d6d8d768c03f8d2e7779c7514c44d761",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209342461
+            "county_id":102080207,
+            "localadmin_id":1125309701,
+            "locality_id":1209342461,
+            "region_id":85687305
         }
     ],
     "wof:id":1209342461,
-    "wof:lastmodified":1566597169,
+    "wof:lastmodified":1568241466,
     "wof:name":"Szczesne",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125309701,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

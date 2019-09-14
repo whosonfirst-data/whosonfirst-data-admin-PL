@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687283,
+        102191581,
+        1125366847,
+        85633723,
+        102080037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"3ada0787904bb3f97b9cb99367b60556",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209037297
+            "county_id":102080037,
+            "localadmin_id":1125366847,
+            "locality_id":1209037297,
+            "region_id":85687283
         }
     ],
     "wof:id":1209037297,
-    "wof:lastmodified":1566597109,
+    "wof:lastmodified":1568247879,
     "wof:name":"Miodusy Dworaki",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125366847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

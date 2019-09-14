@@ -43,7 +43,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125304473,
+        85633723,
+        102079965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +58,18 @@
     "wof:geomhash":"69b29424cd0f19c3983f2b17d76b93e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209239321
+            "county_id":102079965,
+            "localadmin_id":1125304473,
+            "locality_id":1209239321,
+            "region_id":85687257
         }
     ],
     "wof:id":1209239321,
-    "wof:lastmodified":1566597011,
+    "wof:lastmodified":1568244599,
     "wof:name":"Rudniki",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125304473,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

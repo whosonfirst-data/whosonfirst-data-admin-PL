@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125305623,
+        85633723,
+        102079775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"326ca99a77e016f5cbe66cd48f5dd0cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548123
+            "county_id":102079775,
+            "localadmin_id":1125305623,
+            "locality_id":1209548123,
+            "region_id":85687309
         }
     ],
     "wof:id":1209548123,
-    "wof:lastmodified":1566596901,
+    "wof:lastmodified":1568244902,
     "wof:name":"Hajdow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125305623,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

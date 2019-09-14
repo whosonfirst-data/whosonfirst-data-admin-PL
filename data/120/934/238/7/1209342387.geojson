@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125355195,
+        85633723,
+        102080031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"12c286ae671fc68dac7b67eaa26dbcde",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209342387
+            "county_id":102080031,
+            "localadmin_id":1125355195,
+            "locality_id":1209342387,
+            "region_id":85687257
         }
     ],
     "wof:id":1209342387,
-    "wof:lastmodified":1566597174,
+    "wof:lastmodified":1568247071,
     "wof:name":"Slotwin",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125355195,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

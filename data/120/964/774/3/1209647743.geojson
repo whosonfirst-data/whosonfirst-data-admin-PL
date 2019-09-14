@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125288183,
+        85633723,
+        102079833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"608a913000ad4605a714f2425ff3ddc5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647743
+            "county_id":102079833,
+            "localadmin_id":1125288183,
+            "locality_id":1209647743,
+            "region_id":85687309
         }
     ],
     "wof:id":1209647743,
-    "wof:lastmodified":1566596940,
+    "wof:lastmodified":1568235111,
     "wof:name":"Pogonow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125288183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

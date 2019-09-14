@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125356777,
+        85633723,
+        102079715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"f35d27f0e3f90cf8f6c3792f9ac6c1c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209346877
+            "county_id":102079715,
+            "localadmin_id":1125356777,
+            "locality_id":1209346877,
+            "region_id":85687309
         }
     ],
     "wof:id":1209346877,
-    "wof:lastmodified":1566597155,
+    "wof:lastmodified":1568257545,
     "wof:name":"Wywloczka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125356777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125391667,
+        85633723,
+        102079715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"5586d9e3ca94ed3ebf8a85c945c60961",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209133819
+            "county_id":102079715,
+            "localadmin_id":1125391667,
+            "locality_id":1209133819,
+            "region_id":85687309
         }
     ],
     "wof:id":1209133819,
-    "wof:lastmodified":1566597059,
+    "wof:lastmodified":1568249151,
     "wof:name":"Zarudzie",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125391667,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

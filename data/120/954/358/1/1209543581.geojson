@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687313,
+        102191581,
+        1125310721,
+        85633723,
+        102079569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,14 +68,18 @@
     "wof:geomhash":"31a279a4593540a29a123b050af24cf1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209543581
+            "county_id":102079569,
+            "localadmin_id":1125310721,
+            "locality_id":1209543581,
+            "region_id":85687313
         }
     ],
     "wof:id":1209543581,
-    "wof:lastmodified":1566596898,
+    "wof:lastmodified":1568256255,
     "wof:name":"Jasienica",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125310721,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

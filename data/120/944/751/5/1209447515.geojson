@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1477752709,
+        85633723,
+        102079743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"71bfb7079893fb92ecc028183897330e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447515
+            "county_id":102079743,
+            "localadmin_id":1477752709,
+            "locality_id":1209447515,
+            "region_id":85687309
         }
     ],
     "wof:id":1209447515,
-    "wof:lastmodified":1566597240,
+    "wof:lastmodified":1568253610,
     "wof:name":"Kolonia Zareka",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

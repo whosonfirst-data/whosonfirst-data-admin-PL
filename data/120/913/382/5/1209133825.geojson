@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687301,
+        102191581,
+        1125401225,
+        85633723,
+        102079591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"2f527cfd7e521e55618913e66aff5b32",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209133825
+            "county_id":102079591,
+            "localadmin_id":1125401225,
+            "locality_id":1209133825,
+            "region_id":85687301
         }
     ],
     "wof:id":1209133825,
-    "wof:lastmodified":1566597038,
+    "wof:lastmodified":1568249638,
     "wof:name":"Kosmin",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125401225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -57,7 +57,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687319,
+        102191581,
+        1125288829,
+        85633723,
+        102080063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,14 +71,18 @@
     "wof:geomhash":"f11a43d38826ec264a4df7a2f9623180",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209346953
+            "county_id":102080063,
+            "localadmin_id":1125288829,
+            "locality_id":1209346953,
+            "region_id":85687319
         }
     ],
     "wof:id":1209346953,
-    "wof:lastmodified":1566597161,
+    "wof:lastmodified":1568243150,
     "wof:name":"Wygoda",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125288829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

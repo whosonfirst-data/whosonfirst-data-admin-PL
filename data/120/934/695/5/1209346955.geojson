@@ -51,7 +51,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687283,
+        102191581,
+        1477752149,
+        85633723,
+        102080149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +66,18 @@
     "wof:geomhash":"c2d589da3de3e3fbef221279a1bcad06",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209346955
+            "county_id":102080149,
+            "localadmin_id":1477752149,
+            "locality_id":1209346955,
+            "region_id":85687283
         }
     ],
     "wof:id":1209346955,
-    "wof:lastmodified":1566597161,
+    "wof:lastmodified":1568252382,
     "wof:name":"Golanki",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752149,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

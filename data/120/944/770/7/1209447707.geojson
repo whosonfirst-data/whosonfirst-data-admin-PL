@@ -40,7 +40,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687283,
+        102191581,
+        1477752739,
+        85633723,
+        102080143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"df59ff77f0032ff01f7127f3345f4c9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447707
+            "county_id":102080143,
+            "localadmin_id":1477752739,
+            "locality_id":1209447707,
+            "region_id":85687283
         }
     ],
     "wof:id":1209447707,
-    "wof:lastmodified":1566597236,
+    "wof:lastmodified":1568262364,
     "wof:name":"Czaplice",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

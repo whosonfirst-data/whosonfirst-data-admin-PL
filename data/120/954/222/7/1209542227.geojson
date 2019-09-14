@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1477751479,
+        85633723,
+        102079711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"225f544bf6f875a28f2130f4fa11a7b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209542227
+            "county_id":102079711,
+            "localadmin_id":1477751479,
+            "locality_id":1209542227,
+            "region_id":85687261
         }
     ],
     "wof:id":1209542227,
-    "wof:lastmodified":1566596902,
+    "wof:lastmodified":1568250884,
     "wof:name":"Grodzisko",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1477751585,
+        85633723,
+        102079743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"60303ddc4bbd81f88d10b32d47b160a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209641997
+            "county_id":102079743,
+            "localadmin_id":1477751585,
+            "locality_id":1209641997,
+            "region_id":85687309
         }
     ],
     "wof:id":1209641997,
-    "wof:lastmodified":1566596930,
+    "wof:lastmodified":1568251138,
     "wof:name":"Terebin",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

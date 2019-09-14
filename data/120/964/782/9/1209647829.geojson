@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125304649,
+        85633723,
+        102079751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"2bc84eaac80af6adf198df174ef2bef4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647829
+            "county_id":102079751,
+            "localadmin_id":1125304649,
+            "locality_id":1209647829,
+            "region_id":85687257
         }
     ],
     "wof:id":1209647829,
-    "wof:lastmodified":1566596921,
+    "wof:lastmodified":1568244687,
     "wof:name":"Aleksandrow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125304649,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

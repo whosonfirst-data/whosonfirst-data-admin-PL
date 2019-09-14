@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125366869,
+        85633723,
+        102079715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"aa409944f2767250aab0e1728f498547",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447483
+            "county_id":102079715,
+            "localadmin_id":1125366869,
+            "locality_id":1209447483,
+            "region_id":85687309
         }
     ],
     "wof:id":1209447483,
-    "wof:lastmodified":1566597235,
+    "wof:lastmodified":1568247903,
     "wof:name":"Kolonia Sulow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125366869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

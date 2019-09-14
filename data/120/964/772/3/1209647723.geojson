@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687261,
+        102191581,
+        1125356443,
+        85633723,
+        102079823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"1e9052b41bef8354e0635d6b65700718",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647723
+            "county_id":102079823,
+            "localadmin_id":1125356443,
+            "locality_id":1209647723,
+            "region_id":85687261
         }
     ],
     "wof:id":1209647723,
-    "wof:lastmodified":1566596935,
+    "wof:lastmodified":1568257473,
     "wof:name":"Klimkowizna",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125356443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

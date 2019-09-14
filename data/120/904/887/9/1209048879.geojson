@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687287,
+        102191581,
+        1125294815,
+        85633723,
+        102079693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"cd92591c6438bd2dad1001a74c24c89e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209048879
+            "county_id":102079693,
+            "localadmin_id":1125294815,
+            "locality_id":1209048879,
+            "region_id":85687287
         }
     ],
     "wof:id":1209048879,
-    "wof:lastmodified":1566597112,
+    "wof:lastmodified":1568232061,
     "wof:name":"Cminsk Podgrodzie",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125294815,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

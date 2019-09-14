@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687295,
+        102191581,
+        1125291983,
+        85633723,
+        102079623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"3e340a9981f20ca8b3be0056dc276633",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209641897
+            "county_id":102079623,
+            "localadmin_id":1125291983,
+            "locality_id":1209641897,
+            "region_id":85687295
         }
     ],
     "wof:id":1209641897,
-    "wof:lastmodified":1566596917,
+    "wof:lastmodified":1568231002,
     "wof:name":"Garby",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125291983,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

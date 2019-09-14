@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687283,
+        102191581,
+        1477751503,
+        85633723,
+        102080189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"b8f8a100fe2f9dd3732309832b1fd074",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031507
+            "county_id":102080189,
+            "localadmin_id":1477751503,
+            "locality_id":1209031507,
+            "region_id":85687283
         }
     ],
     "wof:id":1209031507,
-    "wof:lastmodified":1566597067,
+    "wof:lastmodified":1568250950,
     "wof:name":"Kolonia Karlsdorf",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477751503,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

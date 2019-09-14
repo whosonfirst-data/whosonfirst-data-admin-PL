@@ -43,7 +43,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1125367809,
+        85633723,
+        102080231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +58,18 @@
     "wof:geomhash":"4af9841ed0f31c99c96872845a91c342",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209647967
+            "county_id":102080231,
+            "localadmin_id":1125367809,
+            "locality_id":1209647967,
+            "region_id":85687305
         }
     ],
     "wof:id":1209647967,
-    "wof:lastmodified":1566596915,
+    "wof:lastmodified":1568257773,
     "wof:name":"Nowe Kusy",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125367809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

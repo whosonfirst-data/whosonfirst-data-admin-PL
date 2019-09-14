@@ -33,7 +33,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125319499,
+        85633723,
+        102079901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +47,18 @@
     "wof:geomhash":"d1f348c30d30c6f17c4ad8b92694b9d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209239247
+            "county_id":102079901,
+            "localadmin_id":1125319499,
+            "locality_id":1209239247,
+            "region_id":85687257
         }
     ],
     "wof:id":1209239247,
-    "wof:lastmodified":1566597008,
+    "wof:lastmodified":1568245657,
     "wof:name":"Kolonia Zwola",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125319499,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

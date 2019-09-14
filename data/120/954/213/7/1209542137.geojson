@@ -55,7 +55,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687305,
+        102191581,
+        1477752289,
+        85633723,
+        102080209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,14 +70,18 @@
     "wof:geomhash":"7be43e2339abfdab8df2c1720a8eb078",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209542137
+            "county_id":102080209,
+            "localadmin_id":1477752289,
+            "locality_id":1209542137,
+            "region_id":85687305
         }
     ],
     "wof:id":1209542137,
-    "wof:lastmodified":1566596903,
+    "wof:lastmodified":1568252687,
     "wof:name":"Krzyzewo",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752289,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

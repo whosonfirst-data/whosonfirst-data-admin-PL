@@ -46,7 +46,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125304211,
+        85633723,
+        102080269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +61,18 @@
     "wof:geomhash":"a01bd14478059cac4131195e42e8fabb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209548191
+            "county_id":102080269,
+            "localadmin_id":1125304211,
+            "locality_id":1209548191,
+            "region_id":85687267
         }
     ],
     "wof:id":1209548191,
-    "wof:lastmodified":1566596890,
+    "wof:lastmodified":1568256036,
     "wof:name":"Strzelno",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125304211,
     "wof:placetype":"locality",
     "wof:population":1063,
     "wof:population_rank":3,

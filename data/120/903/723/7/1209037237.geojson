@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125375695,
+        85633723,
+        102080055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"e3801f0df8ff4f9def2a4526d2a8ac61",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209037237
+            "county_id":102080055,
+            "localadmin_id":1125375695,
+            "locality_id":1209037237,
+            "region_id":85687257
         }
     ],
     "wof:id":1209037237,
-    "wof:lastmodified":1566597086,
+    "wof:lastmodified":1568239017,
     "wof:name":"Lipowiec",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125375695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

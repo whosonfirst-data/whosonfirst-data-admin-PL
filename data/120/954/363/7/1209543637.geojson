@@ -47,7 +47,11 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633723
+        85687323,
+        102191581,
+        1477752803,
+        85633723,
+        102079747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +62,18 @@
     "wof:geomhash":"75417f15947e8f36644abd1f1d991b53",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209543637
+            "county_id":102079747,
+            "localadmin_id":1477752803,
+            "locality_id":1209543637,
+            "region_id":85687323
         }
     ],
     "wof:id":1209543637,
-    "wof:lastmodified":1566596881,
+    "wof:lastmodified":1568253796,
     "wof:name":"Raclawice",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1477752803,
     "wof:placetype":"locality",
     "wof:population":239,
     "wof:population_rank":2,

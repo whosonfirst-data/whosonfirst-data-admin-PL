@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125294891,
+        85633723,
+        102080217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +69,18 @@
     "wof:geomhash":"9ded536692457e1f5bf57666644bdbb9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209031357
+            "county_id":102080217,
+            "localadmin_id":1125294891,
+            "locality_id":1209031357,
+            "region_id":85687267
         }
     ],
     "wof:id":1209031357,
-    "wof:lastmodified":1566597066,
+    "wof:lastmodified":1568243777,
     "wof:name":"Jerzkowice",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125294891,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

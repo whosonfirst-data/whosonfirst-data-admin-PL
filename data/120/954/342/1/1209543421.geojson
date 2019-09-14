@@ -39,7 +39,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687319,
+        102191581,
+        1125290563,
+        85633723,
+        102080063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"1de21438029d1e845fc1c444cbe107e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209543421
+            "county_id":102080063,
+            "localadmin_id":1125290563,
+            "locality_id":1209543421,
+            "region_id":85687319
         }
     ],
     "wof:id":1209543421,
-    "wof:lastmodified":1566596908,
+    "wof:lastmodified":1568243631,
     "wof:name":"Zawaly",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125290563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

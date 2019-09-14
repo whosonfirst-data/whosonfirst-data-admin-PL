@@ -93,7 +93,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125391589,
+        85633723,
+        102080267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,14 +107,18 @@
     "wof:geomhash":"0996de5cc112f3786356f2ed67a87da2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209643249
+            "county_id":102080267,
+            "localadmin_id":1125391589,
+            "locality_id":1209643249,
+            "region_id":85687267
         }
     ],
     "wof:id":1209643249,
-    "wof:lastmodified":1566596918,
+    "wof:lastmodified":1568258742,
     "wof:name":"Gora",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125391589,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

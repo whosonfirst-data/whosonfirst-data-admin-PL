@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125307905,
+        85633723,
+        102080255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +69,18 @@
     "wof:geomhash":"66bc9e20eb8f57570ebff2b89096824f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209447505
+            "county_id":102080255,
+            "localadmin_id":1125307905,
+            "locality_id":1209447505,
+            "region_id":85687267
         }
     ],
     "wof:id":1209447505,
-    "wof:lastmodified":1566597242,
+    "wof:lastmodified":1568245105,
     "wof:name":"Zagorki",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125307905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

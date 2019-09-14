@@ -42,7 +42,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125310573,
+        85633723,
+        102079877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"de6233c2dc6bf759d3f09ef241ab3ceb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209342523
+            "county_id":102079877,
+            "localadmin_id":1125310573,
+            "locality_id":1209342523,
+            "region_id":85687257
         }
     ],
     "wof:id":1209342523,
-    "wof:lastmodified":1566597180,
+    "wof:lastmodified":1568256237,
     "wof:name":"Mirowice",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125310573,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

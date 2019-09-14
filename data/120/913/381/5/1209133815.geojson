@@ -54,7 +54,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687309,
+        102191581,
+        1125324777,
+        85633723,
+        102079761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +69,18 @@
     "wof:geomhash":"cecc247261656eb5a693a95f032a35b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209133815
+            "county_id":102079761,
+            "localadmin_id":1125324777,
+            "locality_id":1209133815,
+            "region_id":85687309
         }
     ],
     "wof:id":1209133815,
-    "wof:lastmodified":1566597060,
+    "wof:lastmodified":1568246175,
     "wof:name":"Machow-Czupel",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125324777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

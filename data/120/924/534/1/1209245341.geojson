@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687267,
+        102191581,
+        1125410515,
+        85633723,
+        102080255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +59,18 @@
     "wof:geomhash":"0272de2a26c0659dbaeae3a6bf366190",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209245341
+            "county_id":102080255,
+            "localadmin_id":1125410515,
+            "locality_id":1209245341,
+            "region_id":85687267
         }
     ],
     "wof:id":1209245341,
-    "wof:lastmodified":1566596983,
+    "wof:lastmodified":1568259556,
     "wof:name":"Osieki",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125410515,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

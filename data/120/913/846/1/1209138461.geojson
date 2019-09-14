@@ -45,7 +45,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633723
+        85687257,
+        102191581,
+        1125315249,
+        85633723,
+        102080045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +60,18 @@
     "wof:geomhash":"7a7e1945da5530648fad6d2b1a4f5aea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633723,
-            "locality_id":1209138461
+            "county_id":102080045,
+            "localadmin_id":1125315249,
+            "locality_id":1209138461,
+            "region_id":85687257
         }
     ],
     "wof:id":1209138461,
-    "wof:lastmodified":1566597042,
+    "wof:lastmodified":1568245421,
     "wof:name":"Niegow",
-    "wof:parent_id":85633723,
+    "wof:parent_id":1125315249,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
