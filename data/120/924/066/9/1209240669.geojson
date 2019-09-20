@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0417\u0432\u043e\u043b\u0435\u043d"
@@ -124,14 +125,16 @@
         }
     ],
     "wof:id":1209240669,
-    "wof:lastmodified":1568261190,
+    "wof:lastmodified":1569007909,
     "wof:name":"Zwolen",
     "wof:parent_id":1477751997,
     "wof:placetype":"locality",
     "wof:population":8048,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101821805
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

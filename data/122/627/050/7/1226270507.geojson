@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +30,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0642\u0645\u06cc\u0646\u0627 \u0648\u0648\u06cc\u0633\u0648\u0627\u0648\u06cc\u062a\u0633\u0647"
@@ -97,14 +98,16 @@
         }
     ],
     "wof:id":1226270507,
-    "wof:lastmodified":1568247175,
+    "wof:lastmodified":1569007891,
     "wof:name":"Wojslawice",
     "wof:parent_id":1125357511,
     "wof:placetype":"locality",
     "wof:population":1600,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101822673
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

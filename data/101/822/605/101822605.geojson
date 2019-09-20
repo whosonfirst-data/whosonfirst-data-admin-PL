@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000042,
-    "geom:area_square_m":328838.453786,
-    "geom:bbox":"21.2150606106,51.0204016655,21.2378573085,51.0268992628",
-    "geom:latitude":51.024727,
-    "geom:longitude":21.227473,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2416676064,51.0389761883,21.2416676064,51.0389761883",
+    "geom:latitude":51.038976,
+    "geom:longitude":21.241668,
     "gn:population":1737,
     "iso:country":"PL",
     "lbl:latitude":51.024961,
@@ -78,8 +78,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "pl-gugik",
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":134,
@@ -94,12 +97,13 @@
     "wof:concordances":{
         "gn:id":775318,
         "gp:id":12616605,
+        "pl-gugik:jpt_kod_je":"261102_2",
         "qs_pg:id":954921,
         "wd:id":"Q554042",
         "wk:page":"Gmina Brody, \u015awi\u0119tokrzyskie Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"720f03a999d1532c93358051c4d3eb89",
+    "wof:geomhash":"8eb8b04387c5019faa68ce9dd77a609f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":101822605,
-    "wof:lastmodified":1568247507,
+    "wof:lastmodified":1569007803,
     "wof:name":"Brody",
     "wof:parent_id":1125363455,
     "wof:placetype":"locality",
@@ -123,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.21506061064503,
-    51.02040166545146,
-    21.23785730848664,
-    51.02689926278879
+    21.2416676064433,
+    51.0389761882768,
+    21.2416676064433,
+    51.0389761882768
 ],
-  "geometry": {"coordinates":[[[21.21690570995304,51.02689926278879],[21.2366634143234,51.02497271094097],[21.23644612773415,51.02408604819561],[21.23785730848664,51.02394831179038],[21.23698816056981,51.02040166545146],[21.23557708456002,51.02053938972898],[21.23622885146409,51.02319938470168],[21.21506061064503,51.02526332791751],[21.21527749403862,51.02615003685082],[21.2166887900616,51.02601255762869],[21.21690570995304,51.02689926278879]]],"type":"Polygon"}
+  "geometry": {"coordinates":[21.2416676064433,51.0389761882768],"type":"Point"}
 }

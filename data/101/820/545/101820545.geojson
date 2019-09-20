@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000148,
-    "geom:area_square_m":1105630.004736,
-    "geom:bbox":"22.7190608693,52.7169582039,22.7378859561,52.7298442851",
-    "geom:latitude":52.72311,
-    "geom:longitude":22.728187,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7217416284,52.7166267508,22.7217416284,52.7166267508",
+    "geom:latitude":52.716627,
+    "geom:longitude":22.721742,
     "gn:population":1400,
     "iso:country":"PL",
     "lbl:latitude":52.723055,
@@ -96,9 +96,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -114,12 +116,13 @@
     "wof:concordances":{
         "gn:id":760084,
         "gp:id":516448,
+        "pl-gugik:jpt_kod_je":"200307_2",
         "qs_pg:id":306273,
         "wd:id":"Q615375",
         "wk:page":"Gmina Rudka"
     },
     "wof:country":"PL",
-    "wof:geomhash":"680bb7a56c14ff602e18c60838b03c2b",
+    "wof:geomhash":"f722b9f7ad058af784db52e9bf62ca1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101820545,
-    "wof:lastmodified":1568253607,
+    "wof:lastmodified":1569008083,
     "wof:name":"Rudka",
     "wof:parent_id":1477752703,
     "wof:placetype":"locality",
@@ -143,10 +146,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.71906086932654,
-    52.71695820391756,
-    22.7378859560697,
-    52.72984428513297
+    22.7217416284188,
+    52.7166267507895,
+    22.7217416284188,
+    52.7166267507895
 ],
-  "geometry": {"coordinates":[[[22.72948129324016,52.7293741016083],[22.72896147674385,52.72760867505832],[22.73626494304631,52.72682471653263],[22.73496491951357,52.7224112258989],[22.7378859560697,52.72209755430532],[22.73762593330798,52.72121486087781],[22.73470495326256,52.72152852522134],[22.73392513140374,52.71888041808796],[22.73538554147785,52.71872360567636],[22.73486566780878,52.71695820391756],[22.72756380377075,52.7177420520087],[22.72782359294473,52.71862477142855],[22.71906086932654,52.71956482434388],[22.7206188560296,52.72486125340401],[22.72207950355926,52.72470460062988],[22.7233783192882,52.7291182500739],[22.72483909854111,52.72896156141252],[22.72509892838764,52.72984428513297],[22.72948129324016,52.7293741016083]]],"type":"Polygon"}
+  "geometry": {"coordinates":[22.7217416284188,52.7166267507895],"type":"Point"}
 }

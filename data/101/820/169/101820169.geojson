@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000037,
-    "geom:area_square_m":278928.595737,
-    "geom:bbox":"15.6771823566,52.267261781,15.6904467691,52.2714045643",
-    "geom:latitude":52.269251,
-    "geom:longitude":15.684066,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.683937063,52.2367693534,15.683937063,52.2367693534",
+    "geom:latitude":52.236769,
+    "geom:longitude":15.683937,
     "gn:population":1473,
     "iso:country":"PL",
     "lbl:latitude":52.269182,
@@ -57,8 +57,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "pl-gugik",
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":136,
@@ -73,12 +76,13 @@
     "wof:concordances":{
         "gn:id":3083847,
         "gp:id":12618144,
+        "pl-gugik:jpt_kod_je":"080804_2",
         "qs_pg:id":1148900,
         "wd:id":"Q2291623",
         "wk:page":"Szczaniec"
     },
     "wof:country":"PL",
-    "wof:geomhash":"b90468bc697a03312d69bb4e8beee9eb",
+    "wof:geomhash":"e8a7598e4f2b17c1b913009d09600da3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":101820169,
-    "wof:lastmodified":1568246859,
+    "wof:lastmodified":1569007776,
     "wof:name":"Szczaniec",
     "wof:parent_id":1125350503,
     "wof:placetype":"locality",
@@ -102,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.67718235658765,
-    52.2672617810378,
-    15.69044676905276,
-    52.27140456433995
+    15.6839370629987,
+    52.2367693534035,
+    15.6839370629987,
+    52.2367693534035
 ],
-  "geometry": {"coordinates":[[[15.68021910418577,52.27036896705295],[15.68460241461202,52.27015875137693],[15.68471708554733,52.27105428667619],[15.68910044525705,52.27084390436465],[15.68898568681658,52.26994837392016],[15.69044676905276,52.26987821215027],[15.69021721085471,52.26808715372476],[15.68875618694983,52.26815731225673],[15.68864144552248,52.2672617810378],[15.67987538787929,52.26768234505641],[15.67998995431918,52.26857788597977],[15.67852890069071,52.26864791868775],[15.67864344362567,52.26954346096937],[15.67718235658765,52.26961347731799],[15.67741140110166,52.27140456433995],[15.68033368761274,52.27126450720323],[15.68021910418577,52.27036896705295]]],"type":"Polygon"}
+  "geometry": {"coordinates":[15.6839370629987,52.2367693534035],"type":"Point"}
 }

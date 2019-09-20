@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +30,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0448\u0435\u043b\u0446\u0435 \u041e\u043f\u043e\u043b\u0441\u043a\u0435"
@@ -148,14 +149,16 @@
         }
     ],
     "wof:id":1225976851,
-    "wof:lastmodified":1568261524,
+    "wof:lastmodified":1569007910,
     "wof:name":"Strzelce Opolskie",
     "wof:parent_id":1477752175,
     "wof:placetype":"locality",
     "wof:population":20241,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101821263
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

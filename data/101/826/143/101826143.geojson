@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000042,
-    "geom:area_square_m":338903.676016,
-    "geom:bbox":"20.3368479446,49.5699949335,20.3493798535,49.5779908756",
-    "geom:latitude":49.574562,
-    "geom:longitude":20.34406,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3182744087,49.5988309763,20.3182744087,49.5988309763",
+    "geom:latitude":49.598831,
+    "geom:longitude":20.318274,
     "gn:population":3100,
     "iso:country":"PL",
     "lbl:latitude":49.574373,
@@ -232,9 +232,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -250,11 +252,12 @@
     "wof:concordances":{
         "gn:id":769697,
         "gp:id":498296,
+        "pl-gugik:jpt_kod_je":"120705_2",
         "qs_pg:id":962972,
         "wd:id":"Q359453"
     },
     "wof:country":"PL",
-    "wof:geomhash":"019f114da342fdd84a59f66d4a2597aa",
+    "wof:geomhash":"f47444381ec0f618b5ed272c5b5f7cfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -266,7 +269,7 @@
         }
     ],
     "wof:id":101826143,
-    "wof:lastmodified":1568252800,
+    "wof:lastmodified":1569007899,
     "wof:name":"Kamienica",
     "wof:parent_id":1477752349,
     "wof:placetype":"locality",
@@ -278,10 +281,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.33684794459157,
-    49.56999493346507,
-    20.34937985347108,
-    49.57799087556214
+    20.3182744086871,
+    49.5988309763259,
+    20.3182744086871,
+    49.5988309763259
 ],
-  "geometry": {"coordinates":[[[20.34937985347108,49.57596546652843],[20.34861476610126,49.57240939187022],[20.34724368517851,49.57253571079832],[20.34705245982246,49.57164668764489],[20.34568139686291,49.57177298729101],[20.34529902150774,49.56999493346507],[20.34392800098891,49.57012121116361],[20.34411915978933,49.5710102411071],[20.34274810828003,49.57113650485752],[20.3431304033187,49.57291456789244],[20.34175929633716,49.57304082036012],[20.34233273143707,49.57570791745019],[20.33684794459157,49.57621279314912],[20.3372300827628,49.57799087556214],[20.34271506549823,49.57748597853731],[20.34252389406788,49.57659694835775],[20.34937985347108,49.57596546652843]]],"type":"Polygon"}
+  "geometry": {"coordinates":[20.3182744086871,49.5988309763259],"type":"Point"}
 }

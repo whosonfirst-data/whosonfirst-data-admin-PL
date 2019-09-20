@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000038,
-    "geom:area_square_m":278869.255544,
-    "geom:bbox":"18.2939558061,53.1732824135,18.3058523035,53.1794539044",
-    "geom:latitude":53.176542,
-    "geom:longitude":18.299722,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.254402995,53.1844232295,18.254402995,53.1844232295",
+    "geom:latitude":53.184423,
+    "geom:longitude":18.254403,
     "gn:population":1400,
     "iso:country":"PL",
     "lbl:latitude":53.176374,
@@ -75,9 +75,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -93,12 +95,13 @@
     "wof:concordances":{
         "gn:id":3100802,
         "gp:id":490949,
+        "pl-gugik:jpt_kod_je":"040302_2",
         "qs_pg:id":1010732,
         "wd:id":"Q370683",
         "wk:page":"D\u0105browa Che\u0142mi\u0144ska"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2ce38f2d41b3e81f5f7ad1bac12705e4",
+    "wof:geomhash":"4e280f00c5c98c845903119a025b2126",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101819165,
-    "wof:lastmodified":1568249818,
+    "wof:lastmodified":1569007830,
     "wof:name":"D\u0105browa Che\u0142mi\u0144ska",
     "wof:parent_id":1125411581,
     "wof:placetype":"locality",
@@ -122,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.29395580613692,
-    53.17328241352834,
-    18.3058523035055,
-    53.17945390438445
+    18.2544029950055,
+    53.1844232294773,
+    18.2544029950055,
+    53.1844232294773
 ],
-  "geometry": {"coordinates":[[[18.3058523035055,53.17595784542743],[18.30533489721699,53.17328241352834],[18.30384794848027,53.17338504177837],[18.30402037836575,53.17427685522409],[18.29807239734959,53.17468719509213],[18.29824471514303,53.17557901785995],[18.29527062507759,53.17578408293735],[18.29544289115597,53.17667591017221],[18.29395580613692,53.17677841770796],[18.29447256583262,53.17945390438445],[18.29893407311317,53.17914630508926],[18.29876172059977,53.17825448385815],[18.30173596574082,53.17804933108073],[18.30156356151019,53.17715751431899],[18.30453772013016,53.17695229325233],[18.30436526419015,53.17606048096093],[18.3058523035055,53.17595784542743]]],"type":"Polygon"}
+  "geometry": {"coordinates":[18.2544029950055,53.1844232294773],"type":"Point"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000075,
-    "geom:area_square_m":557720.782496,
-    "geom:bbox":"18.6815315195,53.2900361754,18.69756295,53.2989477137",
-    "geom:latitude":53.294132,
-    "geom:longitude":18.688467,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6667957415,53.3078930388,18.6667957415,53.3078930388",
+    "geom:latitude":53.307893,
+    "geom:longitude":18.666796,
     "gn:population":1700,
     "iso:country":"PL",
     "lbl:latitude":53.294503,
@@ -66,9 +66,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -84,6 +86,7 @@
     "wof:concordances":{
         "gn:id":766133,
         "gp:id":504976,
+        "pl-gugik:jpt_kod_je":"040404_2",
         "qs_pg:id":301442,
         "wd:id":"Q1005282",
         "wk:page":"Lisewo"
@@ -92,7 +95,7 @@
         "qs_pg:id":1011053
     },
     "wof:country":"PL",
-    "wof:geomhash":"7247f8c6c8c6c6360bdcddfcf4299e1e",
+    "wof:geomhash":"7c6aa040f33cb48c7c45d59cf8f1282c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101819183,
-    "wof:lastmodified":1568252557,
+    "wof:lastmodified":1569007947,
     "wof:name":"Lisewo",
     "wof:parent_id":1477752229,
     "wof:placetype":"locality",
@@ -112,14 +115,16 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193048677
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    18.68153151952566,
-    53.29003617543799,
-    18.6975629500314,
-    53.2989477136623
+    18.6667957414789,
+    53.3078930388276,
+    18.6667957414789,
+    53.3078930388276
 ],
-  "geometry": {"coordinates":[[[18.69101736924347,53.29884029036185],[18.69065500080063,53.29705799110093],[18.69214539216296,53.29695055457745],[18.69160181716143,53.29427711025426],[18.6975629500314,53.29384721155026],[18.69738165542594,53.29295607282177],[18.69589141284257,53.29306357242706],[18.69534767484447,53.29039014612027],[18.69236735085457,53.29060507507171],[18.69254852709781,53.29149622268517],[18.68807789859255,53.29181848636864],[18.68771573707613,53.29003617543799],[18.68473540490112,53.29025091610572],[18.68509744519611,53.29203323722697],[18.68211696429563,53.29224791480635],[18.6830219218495,53.2967037358996],[18.68153151952566,53.29681105994291],[18.68189350587852,53.2985933906034],[18.6833839688378,53.29848606146601],[18.68320294077415,53.29759489888795],[18.68916460255599,53.29716540930258],[18.68952691036606,53.2989477136623],[18.69101736924347,53.29884029036185]]],"type":"Polygon"}
+  "geometry": {"coordinates":[18.6667957414789,53.3078930388276],"type":"Point"}
 }
