@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000129,
-    "geom:area_square_m":1016570.387018,
-    "geom:bbox":"18.1906098079,50.2735644042,18.2061173593,50.2931010261",
-    "geom:latitude":50.282133,
-    "geom:longitude":18.198673,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2128532506,50.2424532355,18.2128532506,50.2424532355",
+    "geom:latitude":50.242453,
+    "geom:longitude":18.212853,
     "gn:population":1485,
     "iso:country":"PL",
     "lbl:latitude":50.280563,
@@ -90,8 +90,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "pl-gugik",
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":177,
@@ -106,12 +109,13 @@
     "wof:concordances":{
         "gn:id":3101294,
         "gp:id":12607143,
+        "pl-gugik:jpt_kod_je":"160303_2",
         "qs_pg:id":487605,
         "wd:id":"Q923798",
         "wk:page":"Gmina Cisek"
     },
     "wof:country":"PL",
-    "wof:geomhash":"d20d4fe3bb0d3d399e2dca701f60fbb4",
+    "wof:geomhash":"70e99264f4321cc101ed923d304ad466",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":101824847,
-    "wof:lastmodified":1568252538,
+    "wof:lastmodified":1569021759,
     "wof:name":"Cisek",
     "wof:parent_id":1477752217,
     "wof:placetype":"locality",
@@ -135,10 +139,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.19060980790277,
-    50.2735644041652,
-    18.206117359323,
-    50.29310102610782
+    18.21285325064,
+    50.2424532355416,
+    18.21285325064,
+    50.2424532355416
 ],
-  "geometry": {"coordinates":[[[18.206117359323,50.29300055545843],[18.20363442269212,50.27871914066134],[18.20084335630293,50.27891999536098],[18.19991304582504,50.2735644041652],[18.19851765944759,50.27366479296666],[18.19882768217792,50.27544999647222],[18.19743223875361,50.27555037261288],[18.19758723521568,50.27644297575256],[18.19060980790277,50.27694461221665],[18.19200394135504,50.28497811465553],[18.19758682386191,50.28457676131563],[18.1977418672974,50.28546936139486],[18.20053332776604,50.2852685783181],[18.20068843015389,50.28616117352738],[18.20208417810557,50.2860607542998],[18.20317027970589,50.29230889089456],[18.20456620311597,50.29220843943358],[18.20472141548623,50.29310102610782],[18.206117359323,50.29300055545843]]],"type":"Polygon"}
+  "geometry": {"coordinates":[18.21285325064,50.2424532355416],"type":"Point"}
 }

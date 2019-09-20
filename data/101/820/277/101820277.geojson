@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000069,
-    "geom:area_square_m":517977.816439,
-    "geom:bbox":"18.0086080298,52.5027064404,18.0204922131,52.5137113878",
-    "geom:latitude":52.507917,
-    "geom:longitude":18.014121,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.0305001723,52.5117144943,18.0305001723,52.5117144943",
+    "geom:latitude":52.511714,
+    "geom:longitude":18.0305,
     "gn:population":1210,
     "iso:country":"PL",
     "lbl:latitude":52.506925,
@@ -63,8 +63,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "pl-gugik",
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":83,
@@ -79,12 +82,13 @@
     "wof:concordances":{
         "gn:id":3090022,
         "gp:id":12616819,
+        "pl-gugik:jpt_kod_je":"302303_2",
         "qs_pg:id":331923,
         "wd:id":"Q1006856",
         "wk:page":"Orchowo"
     },
     "wof:country":"PL",
-    "wof:geomhash":"c88fdf1221ec22c9b87c117b9844ab88",
+    "wof:geomhash":"28dd90f9f6072819c45999e198ab0e01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":101820277,
-    "wof:lastmodified":1568247992,
+    "wof:lastmodified":1569021961,
     "wof:name":"Orchowo",
     "wof:parent_id":1125370833,
     "wof:placetype":"locality",
@@ -104,14 +108,16 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209132339
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    18.00860802976104,
-    52.50270644038051,
-    18.02049221314331,
-    52.51371138778882
+    18.0305001723292,
+    52.511714494348,
+    18.0305001723292,
+    52.511714494348
 ],
-  "geometry": {"coordinates":[[[18.01837639536097,52.5134148093328],[18.01821347606676,52.5125224474304],[18.01674818359965,52.51262132261149],[18.01609670377172,52.50905186187794],[18.02049221314331,52.50875520987842],[18.02016634674311,52.50697049088791],[18.01723612981908,52.50716826770537],[18.01642189653455,52.50270644038051],[18.01056197300113,52.5031017323912],[18.01072468694497,52.50399410780852],[18.00925966179716,52.50409288814262],[18.00942235465567,52.50498526545351],[18.01088740895023,52.50488648283039],[18.01153837760148,52.50845597896227],[18.00860802976104,52.50865354453902],[18.00909616599307,52.51133067622402],[18.0134919410778,52.51103428027147],[18.01398041231778,52.51371138778882],[18.01837639536097,52.5134148093328]]],"type":"Polygon"}
+  "geometry": {"coordinates":[18.0305001723292,52.511714494348],"type":"Point"}
 }

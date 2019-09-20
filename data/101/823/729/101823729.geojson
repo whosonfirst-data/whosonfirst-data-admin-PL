@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000081,
-    "geom:area_square_m":637769.412014,
-    "geom:bbox":"17.1586609175,50.6812785699,17.1728913369,50.6901156627",
-    "geom:latitude":50.686207,
-    "geom:longitude":17.16667,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1853641444,50.6752429368,17.1853641444,50.6752429368",
+    "geom:latitude":50.675243,
+    "geom:longitude":17.185364,
     "gn:population":1259,
     "iso:country":"PL",
     "lbl:latitude":50.686084,
@@ -72,9 +72,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -90,12 +92,13 @@
     "wof:concordances":{
         "gn:id":3087920,
         "gp:id":514449,
+        "pl-gugik:jpt_kod_je":"021703_2",
         "qs_pg:id":1011370,
         "wd:id":"Q983908",
         "wk:page":"Przeworno"
     },
     "wof:country":"PL",
-    "wof:geomhash":"e200b81b5bdbf9c3b2b214e5cbf7bfe3",
+    "wof:geomhash":"b6edfa43c5c6ff857919bb0c282bcf70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101823729,
-    "wof:lastmodified":1568253256,
+    "wof:lastmodified":1569021921,
     "wof:name":"Przeworno",
     "wof:parent_id":1477752559,
     "wof:placetype":"locality",
@@ -119,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.15866091749524,
-    50.68127856994602,
-    17.17289133688689,
-    50.69011566270791
+    17.1853641444184,
+    50.6752429367777,
+    17.1853641444184,
+    50.6752429367777
 ],
-  "geometry": {"coordinates":[[[17.17203172315664,50.68941256499562],[17.17148203349223,50.68583654812278],[17.17289133688689,50.68574859112584],[17.1722042388144,50.68127856994602],[17.16938589275424,50.6814544474214],[17.16952324620763,50.68234845638233],[17.16529561104977,50.68261214923405],[17.16543289135052,50.68350616354786],[17.16261439053824,50.68368187653635],[17.16288886445153,50.68546991157854],[17.15866091749524,50.68573336346657],[17.15893525808991,50.68752140834226],[17.16034463171962,50.68743360441442],[17.16075627117033,50.69011566270791],[17.17203172315664,50.68941256499562]]],"type":"Polygon"}
+  "geometry": {"coordinates":[17.1853641444184,50.6752429367777],"type":"Point"}
 }

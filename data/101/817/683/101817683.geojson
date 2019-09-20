@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000049,
-    "geom:area_square_m":358456.668331,
-    "geom:bbox":"18.9067598092,54.0101429615,18.9257022733,54.0155905639",
-    "geom:latitude":54.013405,
-    "geom:longitude":18.916262,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.8851742601,54.0174762574,18.8851742601,54.0174762574",
+    "geom:latitude":54.017476,
+    "geom:longitude":18.885174,
     "gn:population":1114,
     "iso:country":"PL",
     "lbl:latitude":54.011643,
@@ -67,9 +67,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -85,12 +87,13 @@
     "wof:concordances":{
         "gn:id":3091760,
         "gp:id":507622,
+        "pl-gugik:jpt_kod_je":"220906_2",
         "qs_pg:id":347450,
         "wd:id":"Q1003520",
         "wk:page":"Mi\u0142oradz"
     },
     "wof:country":"PL",
-    "wof:geomhash":"1c5add773a29e3f6802af18f90d49b74",
+    "wof:geomhash":"d863dacd482ee06fe8c136722798172a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101817683,
-    "wof:lastmodified":1568249440,
+    "wof:lastmodified":1569021828,
     "wof:name":"Mi\u0142oradz",
     "wof:parent_id":1125398887,
     "wof:placetype":"locality",
@@ -114,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.90675980919923,
-    54.01014296152971,
-    18.92570227332095,
-    54.01559056393421
+    18.8851742601095,
+    54.0174762573705,
+    18.8851742601095,
+    54.0174762573705
 ],
-  "geometry": {"coordinates":[[[18.90903577540138,54.01559056393421],[18.92570227332095,54.01437523563862],[18.92532110439214,54.01259388322285],[18.92380606819665,54.01270445555633],[18.92361552994424,54.01181377606957],[18.92210051787396,54.01192432705943],[18.92171953378119,54.01014296152971],[18.91868961353384,54.01036399679958],[18.91926091526864,54.01303606059207],[18.91168551265747,54.01358836242599],[18.91149522655206,54.01269766148778],[18.90998015540157,54.01280806318994],[18.90959967557416,54.01102665476753],[18.90808466008207,54.01113703245056],[18.90827486358745,54.01202773953821],[18.90675980919923,54.01213810123858],[18.90733038382302,54.01481022816455],[18.9088455327776,54.01469985842846],[18.90903577540138,54.01559056393421]]],"type":"Polygon"}
+  "geometry": {"coordinates":[18.8851742601095,54.0174762573705],"type":"Point"}
 }

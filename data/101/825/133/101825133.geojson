@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000055,
-    "geom:area_square_m":428498.553747,
-    "geom:bbox":"18.0616916361,50.7350306427,18.0790684137,50.7399889607",
-    "geom:latitude":50.737505,
-    "geom:longitude":18.071282,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.1215442925,50.7424039352,18.1215442925,50.7424039352",
+    "geom:latitude":50.742404,
+    "geom:longitude":18.121544,
     "gn:population":900,
     "iso:country":"PL",
     "lbl:latitude":50.738085,
@@ -84,9 +84,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -102,12 +104,13 @@
     "wof:concordances":{
         "gn:id":3083001,
         "gp:id":523137,
+        "pl-gugik:jpt_kod_je":"160913_2",
         "qs_pg:id":1156195,
         "wd:id":"Q776929",
         "wk:page":"Gmina Turawa"
     },
     "wof:country":"PL",
-    "wof:geomhash":"2d61251b89a41063c97e7bdab3a07508",
+    "wof:geomhash":"d86e41597046a4039261735b75570e1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101825133,
-    "wof:lastmodified":1568252672,
+    "wof:lastmodified":1569021824,
     "wof:name":"Turawa",
     "wof:parent_id":1477752283,
     "wof:placetype":"locality",
@@ -131,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.06169163605443,
-    50.73503064269045,
-    18.07906841368862,
-    50.73998896071225
+    18.1215442925274,
+    50.7424039352317,
+    18.1215442925274,
+    50.7424039352317
 ],
-  "geometry": {"coordinates":[[[18.07781404053628,50.73949391953283],[18.07765905010172,50.73860126514683],[18.07906841368862,50.73850220747386],[18.07860340709504,50.73582424789106],[18.07719412294273,50.73592329904125],[18.0770391619364,50.73503064269045],[18.07281135605803,50.73532768640825],[18.0729662376346,50.73622034927865],[18.06873830306682,50.73651724469357],[18.06858350092381,50.73562457530664],[18.0629462841664,50.73602018633625],[18.06310098039233,50.73691286440658],[18.06169163605443,50.73701172632701],[18.06200099757569,50.73879708533747],[18.06904792940026,50.73830258199575],[18.06920275359158,50.73919524991118],[18.07061215002813,50.7390962954596],[18.07076700805283,50.73998896071225],[18.07781404053628,50.73949391953283]]],"type":"Polygon"}
+  "geometry": {"coordinates":[18.1215442925274,50.7424039352317],"type":"Point"}
 }

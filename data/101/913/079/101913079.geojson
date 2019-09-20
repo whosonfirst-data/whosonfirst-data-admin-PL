@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000067,
-    "geom:area_square_m":498011.972994,
-    "geom:bbox":"19.8622138058,52.8241639388,19.8800783427,52.8326157404",
-    "geom:latitude":52.828146,
-    "geom:longitude":19.871723,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8852383222,52.8166173051,19.8852383222,52.8166173051",
+    "geom:latitude":52.816617,
+    "geom:longitude":19.885238,
     "gn:population":956,
     "iso:country":"PL",
     "lbl:latitude":52.827747,
@@ -45,6 +45,9 @@
         "Zawidz Ko\u015bcielny"
     ],
     "name:pol_x_preferred":[
+        "Zawidz"
+    ],
+    "name:pol_x_variant":[
         "Zawidz Ko\u015bcielny"
     ],
     "name:spa_x_preferred":[
@@ -66,9 +69,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -84,11 +89,12 @@
     "wof:concordances":{
         "gn:id":3080530,
         "gp:id":528228,
+        "pl-gugik:jpt_kod_je":"142707_2",
         "qs_pg:id":1075719,
         "wd:id":"Q167739"
     },
     "wof:country":"PL",
-    "wof:geomhash":"5ac936cd7cdc6417243a7d0b250d7322",
+    "wof:geomhash":"2fdef7ee4de19ac19504895bbe282ddf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":101913079,
-    "wof:lastmodified":1568247522,
+    "wof:lastmodified":1569022061,
     "wof:name":"Zawidz",
     "wof:parent_id":1125363471,
     "wof:placetype":"locality",
@@ -112,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.86221380575023,
-    52.82416393881851,
-    19.88007834270843,
-    52.83261574039125
+    19.8852383221707,
+    52.8166173051319,
+    19.8852383221707,
+    52.8166173051319
 ],
-  "geometry": {"coordinates":[[[19.88007834270843,52.82848726124479],[19.8792676517736,52.82493111808708],[19.87779596039184,52.82505297879902],[19.87759334211501,52.82416393881851],[19.87612167240093,52.82428577866108],[19.87632426143642,52.82517482148461],[19.87043738989809,52.82566201195482],[19.87063987204078,52.82655106560736],[19.86622455117578,52.82691627769265],[19.86662937020776,52.82869440042759],[19.86221380575023,52.82905946729448],[19.86302321367526,52.83261574039125],[19.8644951930782,52.83249405810642],[19.86429279673087,52.83160499347844],[19.86576473931041,52.83148329600249],[19.86556232378302,52.83059423367706],[19.87733735787356,52.82962002751867],[19.87713471841619,52.82873098738952],[19.88007834270843,52.82848726124479]]],"type":"Polygon"}
+  "geometry": {"coordinates":[19.8852383221707,52.8166173051319],"type":"Point"}
 }

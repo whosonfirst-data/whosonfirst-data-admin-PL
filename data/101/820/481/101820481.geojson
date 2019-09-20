@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000059,
-    "geom:area_square_m":438256.513831,
-    "geom:bbox":"15.573659069,52.8353300397,15.5906291974,52.843252176",
-    "geom:latitude":52.838258,
-    "geom:longitude":15.583468,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5680487497,52.8069656372,15.5680487497,52.8069656372",
+    "geom:latitude":52.806966,
+    "geom:longitude":15.568049,
     "gn:population":1300,
     "iso:country":"PL",
     "lbl:latitude":52.837212,
@@ -55,8 +55,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "pl-gugik",
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":156,
@@ -71,12 +74,13 @@
     "wof:concordances":{
         "gn:id":3079923,
         "gp:id":24933814,
+        "pl-gugik:jpt_kod_je":"080605_2",
         "qs_pg:id":580883,
         "wd:id":"Q7274482",
         "wk:page":"Zwierzyn, Lubusz Voivodeship"
     },
     "wof:country":"PL",
-    "wof:geomhash":"22d03d8968b966646204b72c55ee2d6e",
+    "wof:geomhash":"242cadf513d2ec5376aaaac8e8d9ee78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101820481,
-    "wof:lastmodified":1568251155,
+    "wof:lastmodified":1569022109,
     "wof:name":"Zwierzyn",
     "wof:parent_id":1477751597,
     "wof:placetype":"locality",
@@ -96,14 +100,16 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125955507
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    15.5736590689524,
-    52.83533003968699,
-    15.59062919742638,
-    52.84325217600605
+    15.5680487496608,
+    52.8069656371595,
+    15.5680487496608,
+    52.8069656371595
 ],
-  "geometry": {"coordinates":[[[15.59062919742638,52.84132292725752],[15.59016959154701,52.83774065306631],[15.5886894843614,52.83780970894304],[15.58857462740576,52.83691413822203],[15.58709454600933,52.83698317423199],[15.58697972492439,52.83608760166885],[15.58401960938772,52.83622561571258],[15.5839048542822,52.83533003968699],[15.57798469181512,52.83560584236085],[15.57809932646944,52.83650142486482],[15.5736590689524,52.8367080901586],[15.57388817480648,52.83849926421658],[15.5783286130204,52.83829258921321],[15.57844326491727,52.83918817105746],[15.58288375462723,52.83898132698368],[15.58299850262893,52.83987690374897],[15.58447868734328,52.83980791761201],[15.58459347121794,52.84070349253659],[15.58755388791678,52.84056546228129],[15.5878984548059,52.84325217600605],[15.58937874703338,52.84318312864229],[15.58914896977041,52.84139198962367],[15.59062919742638,52.84132292725752]]],"type":"Polygon"}
+  "geometry": {"coordinates":[15.5680487496608,52.8069656371595],"type":"Point"}
 }

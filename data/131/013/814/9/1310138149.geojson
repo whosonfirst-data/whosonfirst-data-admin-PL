@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "D\u0119bowiec"
@@ -70,14 +71,16 @@
         }
     ],
     "wof:id":1310138149,
-    "wof:lastmodified":1568251047,
+    "wof:lastmodified":1569021887,
     "wof:name":"Debowiec",
     "wof:parent_id":1477751541,
     "wof:placetype":"locality",
     "wof:population":2000,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101878343
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

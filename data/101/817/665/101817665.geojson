@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000071,
-    "geom:area_square_m":517819.664038,
-    "geom:bbox":"19.7339783689,53.9178356948,19.7503787705,53.9255523773",
-    "geom:latitude":53.921234,
-    "geom:longitude":19.743393,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7417134592,53.9103054719,19.7417134592,53.9103054719",
+    "geom:latitude":53.910305,
+    "geom:longitude":19.741713,
     "gn:population":1410,
     "iso:country":"PL",
     "lbl:latitude":53.921136,
@@ -63,9 +63,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -81,12 +83,13 @@
     "wof:concordances":{
         "gn:id":3092467,
         "gp:id":506327,
+        "pl-gugik:jpt_kod_je":"281505_2",
         "qs_pg:id":1248871,
         "wd:id":"Q2547448",
         "wk:page":"Ma\u0142dyty"
     },
     "wof:country":"PL",
-    "wof:geomhash":"643f8e9d9a84e143e6b207b9be01fdce",
+    "wof:geomhash":"9200fc63327999b22ef4b3b8f77667a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101817665,
-    "wof:lastmodified":1568253746,
+    "wof:lastmodified":1569021907,
     "wof:name":"Ma\u0142dyty",
     "wof:parent_id":1477752789,
     "wof:placetype":"locality",
@@ -110,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    19.73397836890337,
-    53.91783569482101,
-    19.75037877045452,
-    53.92555237734706
+    19.7417134592154,
+    53.9103054718838,
+    19.7417134592154,
+    53.9103054718838
 ],
-  "geometry": {"coordinates":[[[19.74881132118298,53.92519034230259],[19.74818895968463,53.92252287915306],[19.74969882694768,53.92240217242471],[19.74886903575833,53.91884555986502],[19.75037877045452,53.91872484623997],[19.75017131807442,53.91783569482101],[19.73809346538241,53.91880086075804],[19.73830066866788,53.91969003549582],[19.73528106317866,53.91993114718196],[19.73548821479062,53.92082032726813],[19.73397836890337,53.92094085817837],[19.73439264165972,53.92271922274529],[19.74194210251477,53.9221163534246],[19.74235672916404,53.9238946869491],[19.74386665961089,53.92377405156248],[19.74428139102025,53.92555237734706],[19.74881132118298,53.92519034230259]]],"type":"Polygon"}
+  "geometry": {"coordinates":[19.7417134592154,53.9103054718838],"type":"Point"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000065,
-    "geom:area_square_m":518315.026844,
-    "geom:bbox":"21.5159269512,49.5985715473,21.5303495578,49.6082805362",
-    "geom:latitude":49.603482,
-    "geom:longitude":21.524175,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5309480479,49.5883521686,21.5309480479,49.5883521686",
+    "geom:latitude":49.588352,
+    "geom:longitude":21.530948,
     "gn:population":1406,
     "iso:country":"PL",
     "lbl:latitude":49.60219,
@@ -93,8 +93,11 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-near-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "pl-gugik",
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1303,
@@ -109,12 +112,13 @@
     "wof:concordances":{
         "gn:id":763519,
         "gp:id":12618201,
+        "pl-gugik:jpt_kod_je":"180507_2",
         "qs_pg:id":24158,
         "wd:id":"Q4026813",
         "wk:page":"Nowy \u017bmigr\u00f3d"
     },
     "wof:country":"PL",
-    "wof:geomhash":"cad1fd3e199cacc199d100adc5294ce3",
+    "wof:geomhash":"eda0c103ced0cc712c4f9cdb6853b0c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":101848003,
-    "wof:lastmodified":1568243496,
+    "wof:lastmodified":1569022187,
     "wof:name":"Nowy \u017bmigr\u00f3d",
     "wof:parent_id":1125289189,
     "wof:placetype":"locality",
@@ -138,10 +142,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.51592695122923,
-    49.59857154725205,
-    21.53034955776388,
-    49.60828053617826
+    21.5309480479362,
+    49.5883521685635,
+    21.5309480479362,
+    49.5883521685635
 ],
-  "geometry": {"coordinates":[[[21.51793520767126,49.60828053617826],[21.52752078967404,49.60729632932788],[21.52666822167527,49.60375017812976],[21.52803746453412,49.60360952278478],[21.52782432276319,49.60272298586108],[21.52919353412494,49.60258231692626],[21.52898037789748,49.60169578213242],[21.53034955776388,49.60155509960833],[21.52971007509313,49.59889549910707],[21.52423360307574,49.59945809428621],[21.52402055873733,49.59857154725205],[21.52128232774356,49.59885273958616],[21.52298656852406,49.60594513989037],[21.51887858573207,49.60636687536555],[21.51866559414094,49.60548031935878],[21.51592695122923,49.60576138762735],[21.51635284717793,49.60753451066029],[21.51772222076528,49.60739397887761],[21.51793520767126,49.60828053617826]]],"type":"Polygon"}
+  "geometry": {"coordinates":[21.5309480479362,49.5883521685635],"type":"Point"}
 }
