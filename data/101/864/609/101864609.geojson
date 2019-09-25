@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-24",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -18,7 +19,7 @@
     "mps:latitude":50.004123,
     "mps:longitude":21.946882,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Rzesz\u00f3w"
@@ -347,14 +348,16 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1568249130,
+    "wof:lastmodified":1569365153,
     "wof:name":"Zwi\u0119czyca",
     "wof:parent_id":1125389309,
     "wof:placetype":"locality",
     "wof:population":182548,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1477912295
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
