@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"18.1264567719,54.7821403157,18.1264567719,54.7821403157",
-    "geom:latitude":54.78214,
-    "geom:longitude":18.126457,
+    "geom:area":0.000067,
+    "geom:area_square_m":479258.643168,
+    "geom:bbox":"18.1557410647,54.7742654111,18.1683800465,54.7835427776",
+    "geom:latitude":54.779072,
+    "geom:longitude":18.161554,
     "gn:population":782,
     "iso:country":"PL",
     "lbl:latitude":54.779267,
@@ -72,11 +72,10 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
-    "src:geom":"whosonfirst",
+    "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "pl-gugik",
-        "quattroshapes"
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -104,7 +103,7 @@
         1125417989
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2a81b341bbdfd62045503c196366b8ff",
+    "wof:geomhash":"f8a5b47466a5e18480c92be819298cce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,7 +115,7 @@
         }
     ],
     "wof:id":101913095,
-    "wof:lastmodified":1569423964,
+    "wof:lastmodified":1569525960,
     "wof:name":"Krokowa",
     "wof:parent_id":1125417989,
     "wof:placetype":"locality",
@@ -128,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.1264567718608,
-    54.7821403156974,
-    18.1264567718608,
-    54.7821403156974
+    18.15574106470916,
+    54.77426541112914,
+    18.16838004645092,
+    54.7835427776385
 ],
-  "geometry": {"coordinates":[18.1264567718608,54.7821403156974],"type":"Point"}
+  "geometry": {"coordinates":[[[18.16684873000838,54.78215298510696],[18.16838004645092,54.77934123573993],[18.16572563058531,54.77951565874946],[18.16500957545969,54.77594786811335],[18.16346484144844,54.77604931326431],[18.16310693657272,54.77426541112914],[18.16001757973481,54.77446823403091],[18.16037535208545,54.77625214626931],[18.15574106470916,54.776556252533],[18.15644042548098,54.78004479622854],[18.15944521891157,54.7835427776385],[18.16026179702533,54.78348919153814],[18.16008286408663,54.7825972353881],[18.16684873000838,54.78215298510696]]],"type":"Polygon"}
 }

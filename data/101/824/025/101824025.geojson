@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.8940280558,50.6370868534,23.8940280558,50.6370868534",
-    "geom:latitude":50.637087,
-    "geom:longitude":23.894028,
+    "geom:area":0.000051,
+    "geom:area_square_m":398613.514687,
+    "geom:bbox":"23.892615353,50.644580124,23.9034250696,50.6538930367",
+    "geom:latitude":50.649883,
+    "geom:longitude":23.898551,
     "gn:population":1480,
     "iso:country":"PL",
     "lbl:latitude":50.650832,
@@ -63,11 +63,10 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"whosonfirst",
+    "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "pl-gugik",
-        "quattroshapes"
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -92,7 +91,7 @@
         1477752115
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5d16ac7583833669c03b476d44f54248",
+    "wof:geomhash":"c7cd7f14e2210da5aeddc0e1c061ef92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +103,7 @@
         }
     ],
     "wof:id":101824025,
-    "wof:lastmodified":1569423816,
+    "wof:lastmodified":1569525954,
     "wof:name":"Mircze",
     "wof:parent_id":1477752115,
     "wof:placetype":"locality",
@@ -116,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.8940280557906,
-    50.6370868533515,
-    23.8940280557906,
-    50.6370868533515
+    23.89261535300773,
+    50.6445801240198,
+    23.90342506963003,
+    50.65389303672782
 ],
-  "geometry": {"coordinates":[23.8940280557906,50.6370868533515],"type":"Point"}
+  "geometry": {"coordinates":[[[23.90342506963003,50.65216303524562],[23.90209861651891,50.64776150815175],[23.89931341840588,50.64810139412657],[23.89825267855366,50.6445801240198],[23.8954676429837,50.64491991340822],[23.89652818339721,50.64844121291355],[23.89513555205917,50.64861109711092],[23.89540069321691,50.64949142302106],[23.89261535300773,50.64983114837185],[23.89288045669042,50.6507114805745],[23.89427315634146,50.6505416226239],[23.89453829735498,50.65142195009633],[23.89593101272021,50.65125207167262],[23.89672658495766,50.65389303672782],[23.90229765341667,50.65321331093804],[23.90203235052093,50.6523330050137],[23.90342506963003,50.65216303524562]]],"type":"Polygon"}
 }
