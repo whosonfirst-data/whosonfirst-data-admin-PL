@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-27",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
     "geom:area_square_m":67475.949361,
@@ -18,7 +19,7 @@
     "mps:latitude":50.413351,
     "mps:longitude":18.9218,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0637\u0648\u0645"
@@ -308,14 +309,16 @@
         }
     ],
     "wof:id":101913753,
-    "wof:lastmodified":1568247139,
+    "wof:lastmodified":1569606387,
     "wof:name":"Bytom",
     "wof:parent_id":1125356081,
     "wof:placetype":"locality",
     "wof:population":189186,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101913757
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
