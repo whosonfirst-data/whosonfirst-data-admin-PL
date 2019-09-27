@@ -10,12 +10,12 @@
     "geom:latitude":51.98842,
     "geom:longitude":15.565931,
     "iso:country":"PL",
-    "lbl:latitude":51.987983,
-    "lbl:longitude":15.564974,
+    "lbl:latitude":51.987984,
+    "lbl:longitude":15.564975,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":51.987983,
-    "mps:longitude":15.564974,
+    "mps:latitude":51.987984,
+    "mps:longitude":15.564975,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
@@ -230,8 +230,10 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":397,
     "wof:belongsto":[
@@ -261,7 +263,7 @@
         }
     ],
     "wof:id":101821621,
-    "wof:lastmodified":1568255162,
+    "wof:lastmodified":1569610579,
     "wof:name":"Zawada",
     "wof:parent_id":1125289263,
     "wof:placetype":"locality",

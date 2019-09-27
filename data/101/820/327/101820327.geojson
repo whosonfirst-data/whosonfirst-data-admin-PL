@@ -68,8 +68,10 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687257,
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101820327,
-    "wof:lastmodified":1568249659,
+    "wof:lastmodified":1569610572,
     "wof:name":"Laski",
     "wof:parent_id":1125402221,
     "wof:placetype":"locality",

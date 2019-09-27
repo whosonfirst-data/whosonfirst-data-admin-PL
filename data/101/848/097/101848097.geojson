@@ -10,11 +10,11 @@
     "geom:latitude":52.041713,
     "geom:longitude":16.531418,
     "iso:country":"PL",
-    "lbl:latitude":52.042949,
+    "lbl:latitude":52.04295,
     "lbl:longitude":16.531574,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":52.042949,
+    "mps:latitude":52.04295,
     "mps:longitude":16.531574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -59,8 +59,10 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-near-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":93,
     "wof:belongsto":[
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101848097,
-    "wof:lastmodified":1568255577,
+    "wof:lastmodified":1569610611,
     "wof:name":"Czacz",
     "wof:parent_id":1125293191,
     "wof:placetype":"locality",

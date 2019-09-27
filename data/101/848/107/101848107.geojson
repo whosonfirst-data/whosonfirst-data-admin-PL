@@ -62,8 +62,10 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-near-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "wd:latitude":53.05,
     "wd:longitude":16.466667,
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101848107,
-    "wof:lastmodified":1568254199,
+    "wof:lastmodified":1569610612,
     "wof:name":"Trzcianka",
     "wof:parent_id":1477753003,
     "wof:placetype":"locality",

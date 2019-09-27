@@ -11,11 +11,11 @@
     "geom:longitude":22.397176,
     "iso:country":"PL",
     "lbl:latitude":52.00202,
-    "lbl:longitude":22.397177,
+    "lbl:longitude":22.397176,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":52.00202,
-    "mps:longitude":22.397177,
+    "mps:longitude":22.397176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -53,8 +53,10 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":93,
     "wof:belongsto":[
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":101821705,
-    "wof:lastmodified":1568262472,
+    "wof:lastmodified":1569610581,
     "wof:name":"Krynka",
     "wof:parent_id":1477752785,
     "wof:placetype":"locality",

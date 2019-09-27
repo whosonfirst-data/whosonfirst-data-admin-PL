@@ -54,8 +54,10 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":100,
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101827259,
-    "wof:lastmodified":1568244607,
+    "wof:lastmodified":1569610561,
     "wof:name":"Skawica",
     "wof:parent_id":1125304501,
     "wof:placetype":"locality",

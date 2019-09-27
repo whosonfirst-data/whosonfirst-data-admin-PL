@@ -72,8 +72,10 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":89,
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101827257,
-    "wof:lastmodified":1568252336,
+    "wof:lastmodified":1569610561,
     "wof:name":"Lachowice",
     "wof:parent_id":1477752127,
     "wof:placetype":"locality",
