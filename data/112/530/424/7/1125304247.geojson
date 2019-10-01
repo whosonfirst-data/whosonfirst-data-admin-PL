@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0627 \u0645\u0634\u0644\u0646\u0642\u062a\u0633\u0647"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u044b\u0441\u043b\u044f\u043d\u0456\u0446\u044b"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u0448\u043b\u0435\u043d\u0438\u0446\u0435"
     ],
@@ -31,11 +37,20 @@
     "name:deu_x_preferred":[
         "My\u015blenice"
     ],
+    "name:deu_x_variant":[
+        "Gmina My\u015blenice"
+    ],
     "name:epo_x_preferred":[
         "My\u015blenice"
     ],
     "name:est_x_preferred":[
         "My\u015blenice"
+    ],
+    "name:eus_x_preferred":[
+        "My\u015blenice udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u0645\u0634\u0644\u0646\u06af\u062a\u0633\u0647"
     ],
     "name:fra_x_preferred":[
         "My\u015blenice"
@@ -73,6 +88,9 @@
     "name:slk_x_preferred":[
         "My\u015blenice"
     ],
+    "name:slk_x_variant":[
+        "Gmina My\u015blenice"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0438\u0441\u043b\u0435\u045a\u0438\u0446\u0435"
     ],
@@ -82,11 +100,17 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0441\u043b\u0435\u043d\u0438\u0446\u0456"
     ],
+    "name:ukr_x_variant":[
+        "\u0413\u043c\u0456\u043d\u0430 \u041c\u0438\u0441\u044c\u043b\u0435\u043d\u0456\u0446\u0435"
+    ],
     "name:vie_x_preferred":[
         "My\u015blenice"
     ],
     "name:war_x_preferred":[
         "My\u015blenice"
+    ],
+    "name:war_x_variant":[
+        "Gmina My\u015blenice"
     ],
     "name:zho_x_preferred":[
         "\u6885\u5e0c\u840a\u5c3c\u91c7"
@@ -143,7 +167,7 @@
         }
     ],
     "wof:id":1125304247,
-    "wof:lastmodified":1568398728,
+    "wof:lastmodified":1569963448,
     "wof:name":"Gmina My\u015blenice",
     "wof:parent_id":102079441,
     "wof:placetype":"localadmin",
