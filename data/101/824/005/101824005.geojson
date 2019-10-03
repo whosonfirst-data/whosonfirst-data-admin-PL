@@ -15,7 +15,7 @@
     "lbl:longitude":22.554484,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":50.385679,
+    "mps:latitude":50.38568,
     "mps:longitude":22.554484,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -67,7 +67,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -81,10 +83,14 @@
     "wof:concordances":{
         "gn:id":761363,
         "gp:id":12618579,
+        "pl-gugik:jpt_kod_je":"060211_2",
         "qs_pg:id":24238,
         "wd:id":"Q2118585",
         "wk:page":"Potok G\u00f3rny"
     },
+    "wof:coterminous":[
+        1125288759
+    ],
     "wof:country":"PL",
     "wof:geomhash":"50b1c5e604b3ad64b042d96d19a4f981",
     "wof:hierarchy":[
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":101824005,
-    "wof:lastmodified":1568243103,
+    "wof:lastmodified":1570128069,
     "wof:name":"Potok G\u00f3rny",
     "wof:parent_id":1125288759,
     "wof:placetype":"locality",

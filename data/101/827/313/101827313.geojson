@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":49.761349,
-    "mps:longitude":19.092707,
+    "mps:longitude":19.092706,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -236,7 +236,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -252,9 +253,13 @@
     "wof:concordances":{
         "gn:id":3081942,
         "gp:id":524928,
+        "pl-gugik:jpt_kod_je":"240210_2",
         "qs_pg:id":1135759,
         "wd:id":"Q357560"
     },
+    "wof:coterminous":[
+        1477751169
+    ],
     "wof:country":"PL",
     "wof:geomhash":"8fe58ee6d19593329ab22861269bc769",
     "wof:hierarchy":[
@@ -268,7 +273,7 @@
         }
     ],
     "wof:id":101827313,
-    "wof:lastmodified":1568250133,
+    "wof:lastmodified":1570128030,
     "wof:name":"Wilkowice",
     "wof:parent_id":1477751169,
     "wof:placetype":"locality",

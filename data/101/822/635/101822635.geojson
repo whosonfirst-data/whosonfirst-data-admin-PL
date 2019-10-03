@@ -64,7 +64,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":497,
@@ -79,10 +81,14 @@
     "wof:concordances":{
         "gn:id":758605,
         "gp:id":12617887,
+        "pl-gugik:jpt_kod_je":"140906_2",
         "qs_pg:id":1015827,
         "wd:id":"Q2035016",
         "wk:page":"Solec nad Wis\u0142\u0105"
     },
+    "wof:coterminous":[
+        1125385811
+    ],
     "wof:country":"PL",
     "wof:geomhash":"325bbd0112bf8da9c5433a6991561ee7",
     "wof:hierarchy":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":101822635,
-    "wof:lastmodified":1568249007,
+    "wof:lastmodified":1570128017,
     "wof:name":"Solec nad Wis\u0142\u0105",
     "wof:parent_id":1125385811,
     "wof:placetype":"locality",

@@ -88,7 +88,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":125,
@@ -103,10 +105,14 @@
     "wof:concordances":{
         "gn:id":3093029,
         "gp:id":12616894,
+        "pl-gugik:jpt_kod_je":"300205_2",
         "qs_pg:id":1172176,
         "wd:id":"Q554893",
         "wk:page":"Gmina Lubasz"
     },
+    "wof:coterminous":[
+        1125364413
+    ],
     "wof:country":"PL",
     "wof:geomhash":"fe3366133517191ebeafb93b65bce41a",
     "wof:hierarchy":[
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":101820507,
-    "wof:lastmodified":1568238691,
+    "wof:lastmodified":1570128040,
     "wof:name":"Lubasz",
     "wof:parent_id":1125364413,
     "wof:placetype":"locality",

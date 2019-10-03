@@ -16,7 +16,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":52.924451,
-    "mps:longitude":22.080804,
+    "mps:longitude":22.080805,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -53,7 +53,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -69,9 +70,13 @@
     "wof:concordances":{
         "gn:id":757214,
         "gp:id":522013,
+        "pl-gugik:jpt_kod_je":"201404_2",
         "qs_pg:id":308737,
         "wd:id":"Q5755049"
     },
+    "wof:coterminous":[
+        1477751677
+    ],
     "wof:country":"PL",
     "wof:geomhash":"17b204c895c56e54d877b80af1d85af1",
     "wof:hierarchy":[
@@ -85,7 +90,7 @@
         }
     ],
     "wof:id":101820577,
-    "wof:lastmodified":1568251357,
+    "wof:lastmodified":1570128043,
     "wof:name":"Szumowo",
     "wof:parent_id":1477751677,
     "wof:placetype":"locality",

@@ -87,7 +87,8 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -103,10 +104,14 @@
     "wof:concordances":{
         "gn:id":3081060,
         "gp:id":526994,
+        "pl-gugik:jpt_kod_je":"120616_2",
         "qs_pg:id":239522,
         "wd:id":"Q2230168",
         "wk:page":"Gmina Zabierz\u00f3w"
     },
+    "wof:coterminous":[
+        1125358505
+    ],
     "wof:country":"PL",
     "wof:geomhash":"992ea34651e290910c57775f8c244d88",
     "wof:hierarchy":[
@@ -120,7 +125,7 @@
         }
     ],
     "wof:id":101841613,
-    "wof:lastmodified":1568229668,
+    "wof:lastmodified":1570128042,
     "wof:name":"Zabierz\u00f3w",
     "wof:parent_id":1125358505,
     "wof:placetype":"locality",

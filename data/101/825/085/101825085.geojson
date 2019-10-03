@@ -16,7 +16,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":50.262954,
-    "mps:longitude":21.294637,
+    "mps:longitude":21.294638,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -59,7 +59,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -75,10 +76,14 @@
     "wof:concordances":{
         "gn:id":756246,
         "gp:id":523713,
+        "pl-gugik:jpt_kod_je":"181110_2",
         "qs_pg:id":401730,
         "wd:id":"Q1822332",
         "wk:page":"Wadowice G\u00f3rne"
     },
+    "wof:coterminous":[
+        1477751203
+    ],
     "wof:country":"PL",
     "wof:geomhash":"8219b7f65618c33648ac69a30e51e1ee",
     "wof:hierarchy":[
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":101825085,
-    "wof:lastmodified":1568250259,
+    "wof:lastmodified":1570128073,
     "wof:name":"Wadowice G\u00f3rne",
     "wof:parent_id":1477751203,
     "wof:placetype":"locality",

@@ -61,7 +61,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":99,
@@ -76,9 +78,13 @@
     "wof:concordances":{
         "gn:id":3082044,
         "gp:id":12618088,
+        "pl-gugik:jpt_kod_je":"301306_2",
         "qs_pg:id":396961,
         "wd:id":"Q985125"
     },
+    "wof:coterminous":[
+        1125399587
+    ],
     "wof:country":"PL",
     "wof:geomhash":"43f3db2d839c2b228f6fa54f2a95f6f8",
     "wof:hierarchy":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":101841823,
-    "wof:lastmodified":1568249589,
+    "wof:lastmodified":1570128043,
     "wof:name":"Wijewo",
     "wof:parent_id":1125399587,
     "wof:placetype":"locality",

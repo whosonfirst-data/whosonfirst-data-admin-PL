@@ -86,7 +86,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -102,10 +103,14 @@
     "wof:concordances":{
         "gn:id":3083001,
         "gp:id":523137,
+        "pl-gugik:jpt_kod_je":"160913_2",
         "qs_pg:id":1156195,
         "wd:id":"Q776929",
         "wk:page":"Gmina Turawa"
     },
+    "wof:coterminous":[
+        1477752283
+    ],
     "wof:country":"PL",
     "wof:geomhash":"2d61251b89a41063c97e7bdab3a07508",
     "wof:hierarchy":[
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":101825133,
-    "wof:lastmodified":1568252672,
+    "wof:lastmodified":1570128072,
     "wof:name":"Turawa",
     "wof:parent_id":1477752283,
     "wof:placetype":"locality",

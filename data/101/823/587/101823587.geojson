@@ -64,7 +64,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":91,
@@ -79,10 +81,14 @@
     "wof:concordances":{
         "gn:id":3082931,
         "gp:id":12618030,
+        "pl-gugik:jpt_kod_je":"241308_2",
         "qs_pg:id":24118,
         "wd:id":"Q1000147",
         "wk:page":"Twor\u00f3g"
     },
+    "wof:coterminous":[
+        1125324301
+    ],
     "wof:country":"PL",
     "wof:geomhash":"78de7e8cb74ac2f79ba630066bbba473",
     "wof:hierarchy":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":101823587,
-    "wof:lastmodified":1568245951,
+    "wof:lastmodified":1570128056,
     "wof:name":"Twor\u00f3g",
     "wof:parent_id":1125324301,
     "wof:placetype":"locality",

@@ -92,7 +92,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":106,
@@ -107,10 +109,14 @@
     "wof:concordances":{
         "gn:id":3080895,
         "gp:id":12618095,
+        "pl-gugik:jpt_kod_je":"022605_2",
         "qs_pg:id":1163038,
         "wd:id":"Q2458421",
         "wk:page":"Gmina Zagrodno"
     },
+    "wof:coterminous":[
+        1125359819
+    ],
     "wof:country":"PL",
     "wof:geomhash":"018141cce380241fad31880a762db123",
     "wof:hierarchy":[
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":101822789,
-    "wof:lastmodified":1568247308,
+    "wof:lastmodified":1570128030,
     "wof:name":"Zagrodno",
     "wof:parent_id":1125359819,
     "wof:placetype":"locality",

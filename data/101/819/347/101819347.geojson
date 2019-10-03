@@ -15,8 +15,8 @@
     "lbl:longitude":16.435223,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":53.835467,
-    "mps:longitude":16.435223,
+    "mps:latitude":53.835468,
+    "mps:longitude":16.435224,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -62,7 +62,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -78,12 +79,16 @@
     "wof:concordances":{
         "gn:id":3098166,
         "gp:id":495527,
+        "pl-gugik:jpt_kod_je":"321505_2",
         "qs_pg:id":908858,
         "wd:id":"Q1222290"
     },
     "wof:concordances_alt":{
         "qs_pg:id":1065532
     },
+    "wof:coterminous":[
+        1477752135
+    ],
     "wof:country":"PL",
     "wof:geomhash":"0c64e421b0c2c5a9b1808f3ca37f661e",
     "wof:hierarchy":[
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101819347,
-    "wof:lastmodified":1568252349,
+    "wof:lastmodified":1570128074,
     "wof:name":"Grzmi\u0105ca",
     "wof:parent_id":1477752135,
     "wof:placetype":"locality",
@@ -105,7 +110,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344189691
+    ],
     "wof:tags":[]
 },
   "bbox": [

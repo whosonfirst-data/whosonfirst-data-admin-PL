@@ -15,7 +15,7 @@
     "lbl:longitude":18.494399,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":53.509161,
+    "mps:latitude":53.50916,
     "mps:longitude":18.494399,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -80,7 +80,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -96,10 +97,14 @@
     "wof:concordances":{
         "gn:id":3097194,
         "gp:id":497551,
+        "pl-gugik:jpt_kod_je":"041404_2",
         "qs_pg:id":1010894,
         "wd:id":"Q1443270",
         "wk:page":"Gmina Je\u017cewo"
     },
+    "wof:coterminous":[
+        1477751699
+    ],
     "wof:country":"PL",
     "wof:geomhash":"629c812d5fd59752965d5265c16a9acc",
     "wof:hierarchy":[
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":101819281,
-    "wof:lastmodified":1568251406,
+    "wof:lastmodified":1570128070,
     "wof:name":"Je\u017cewo",
     "wof:parent_id":1477751699,
     "wof:placetype":"locality",

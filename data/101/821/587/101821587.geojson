@@ -61,7 +61,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":289,
@@ -76,10 +78,14 @@
     "wof:concordances":{
         "gn:id":776415,
         "gp:id":12617177,
+        "pl-gugik:jpt_kod_je":"061402_2",
         "qs_pg:id":22654,
         "wd:id":"Q2147121",
         "wk:page":"Baran\u00f3w, Lublin Voivodeship"
     },
+    "wof:coterminous":[
+        1125288183
+    ],
     "wof:country":"PL",
     "wof:geomhash":"cc35e522eccc39aabd56876b2039bd17",
     "wof:hierarchy":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":101821587,
-    "wof:lastmodified":1568235105,
+    "wof:lastmodified":1570128060,
     "wof:name":"Baran\u00f3w",
     "wof:parent_id":1125288183,
     "wof:placetype":"locality",

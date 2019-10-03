@@ -15,8 +15,8 @@
     "lbl:longitude":15.185709,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":51.127976,
-    "mps:longitude":15.185709,
+    "mps:latitude":51.128069,
+    "mps:longitude":15.183619,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -77,7 +77,8 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -93,10 +94,14 @@
     "wof:concordances":{
         "gn:id":3086045,
         "gp:id":517787,
+        "pl-gugik:jpt_kod_je":"021007_2",
         "qs_pg:id":306848,
         "wd:id":"Q534933",
         "wk:page":"Siekierczyn"
     },
+    "wof:coterminous":[
+        1477752979
+    ],
     "wof:country":"PL",
     "wof:geomhash":"fb72cabe9184f4cbd72abd6b6badd3fc",
     "wof:hierarchy":[
@@ -110,7 +115,7 @@
         }
     ],
     "wof:id":101841761,
-    "wof:lastmodified":1568254164,
+    "wof:lastmodified":1570128042,
     "wof:name":"Siekierczyn",
     "wof:parent_id":1477752979,
     "wof:placetype":"locality",

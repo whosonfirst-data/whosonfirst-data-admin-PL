@@ -80,7 +80,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -96,10 +97,14 @@
     "wof:concordances":{
         "gn:id":3084408,
         "gp:id":520585,
+        "pl-gugik:jpt_kod_je":"160503_2",
         "qs_pg:id":580897,
         "wd:id":"Q2724350",
         "wk:page":"Gmina Strzeleczki"
     },
+    "wof:coterminous":[
+        1477752685
+    ],
     "wof:country":"PL",
     "wof:geomhash":"c13a7f8355baaf45048ef37b70b133cf",
     "wof:hierarchy":[
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":101823499,
-    "wof:lastmodified":1568253581,
+    "wof:lastmodified":1570128051,
     "wof:name":"Strzeleczki",
     "wof:parent_id":1477752685,
     "wof:placetype":"locality",

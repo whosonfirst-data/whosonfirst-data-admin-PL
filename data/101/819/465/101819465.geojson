@@ -15,7 +15,7 @@
     "lbl:longitude":19.445436,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":54.384519,
+    "mps:latitude":54.38452,
     "mps:longitude":19.445436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -150,7 +150,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -166,9 +167,13 @@
     "wof:concordances":{
         "gn:id":3094562,
         "gp:id":502602,
+        "pl-gugik:jpt_kod_je":"221001_1",
         "qs_pg:id":1072127,
         "wd:id":"Q935756"
     },
+    "wof:coterminous":[
+        1125356091
+    ],
     "wof:country":"PL",
     "wof:geomhash":"af6a25522c36a15613c1971d8be106bc",
     "wof:hierarchy":[
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":101819465,
-    "wof:lastmodified":1568247142,
+    "wof:lastmodified":1570128072,
     "wof:name":"Krynica Morska",
     "wof:parent_id":1125356091,
     "wof:placetype":"locality",

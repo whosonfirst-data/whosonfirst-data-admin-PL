@@ -16,7 +16,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":54.453045,
-    "mps:longitude":17.933771,
+    "mps:longitude":17.933772,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -68,7 +68,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -86,10 +87,14 @@
     "wof:concordances":{
         "gn:id":3093394,
         "gp:id":504671,
+        "pl-gugik:jpt_kod_je":"221506_2",
         "qs_pg:id":963076,
         "wd:id":"Q11756962",
         "wk:page":"Linia, Pomeranian Voivodeship"
     },
+    "wof:coterminous":[
+        1477751439
+    ],
     "wof:country":"PL",
     "wof:geomhash":"d3dfce2fba706d6d1c76a4c4aecc741d",
     "wof:hierarchy":[
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":101819509,
-    "wof:lastmodified":1568250756,
+    "wof:lastmodified":1570128075,
     "wof:name":"Linia",
     "wof:parent_id":1477751439,
     "wof:placetype":"locality",

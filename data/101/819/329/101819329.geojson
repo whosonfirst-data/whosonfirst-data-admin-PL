@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":53.890827,
-    "mps:longitude":15.709304,
+    "mps:longitude":15.709303,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -62,7 +62,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -78,10 +79,14 @@
     "wof:concordances":{
         "gn:id":3085609,
         "gp:id":518592,
+        "pl-gugik:jpt_kod_je":"321605_2",
         "qs_pg:id":1217052,
         "wd:id":"Q13479843",
         "wk:page":"S\u0142awoborze"
     },
+    "wof:coterminous":[
+        1477752429
+    ],
     "wof:country":"PL",
     "wof:geomhash":"c6e24a44b2a3916ee9d7342048f246c8",
     "wof:hierarchy":[
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":101819329,
-    "wof:lastmodified":1568252955,
+    "wof:lastmodified":1570128016,
     "wof:name":"S\u0142awoborze",
     "wof:parent_id":1477752429,
     "wof:placetype":"locality",

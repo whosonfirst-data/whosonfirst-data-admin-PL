@@ -73,7 +73,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":86,
@@ -88,10 +90,14 @@
     "wof:concordances":{
         "gn:id":772584,
         "gp:id":12618680,
+        "pl-gugik:jpt_kod_je":"060602_2",
         "qs_pg:id":1313610,
         "wd:id":"Q2388556",
         "wk:page":"Fajs\u0142awice"
     },
+    "wof:coterminous":[
+        1125340505
+    ],
     "wof:country":"PL",
     "wof:geomhash":"ddcd3c0e02b1c2c606f827746b0cc5c4",
     "wof:hierarchy":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":101822631,
-    "wof:lastmodified":1568246564,
+    "wof:lastmodified":1570128027,
     "wof:name":"Fajs\u0142awice",
     "wof:parent_id":1125340505,
     "wof:placetype":"locality",

@@ -51,12 +51,12 @@
         "Plater\u00f3wka"
     ],
     "name:pol_x_preferred":[
-        "Platerowo"
+        "Plater\u00f3wka"
     ],
     "name:pol_x_variant":[
         "Lipy Dolne",
         "Zalipie Dolne",
-        "Plater\u00f3wka"
+        "Platerowo"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043b\u044f\u0442\u0435\u0440\u0443\u0432\u043a\u0430"
@@ -86,6 +86,9 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":512686,
     "src:geom":"qs_pg",
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
@@ -103,9 +106,13 @@
     "wof:concordances":{
         "gn:id":3088886,
         "gp:id":512686,
+        "pl-gugik:jpt_kod_je":"021006_2",
         "qs_pg:id":928809,
         "wd:id":"Q693904"
     },
+    "wof:coterminous":[
+        1477752045
+    ],
     "wof:country":"PL",
     "wof:created":1497293731,
     "wof:geomhash":"937e65efe24e1a18680e3b04a20d6077",
@@ -120,7 +127,7 @@
         }
     ],
     "wof:id":1125858655,
-    "wof:lastmodified":1568252125,
+    "wof:lastmodified":1570039690,
     "wof:name":"Plater\u00f3wka",
     "wof:parent_id":1477752045,
     "wof:placetype":"locality",

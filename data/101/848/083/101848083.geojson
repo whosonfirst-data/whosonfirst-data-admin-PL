@@ -80,7 +80,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":228,
@@ -95,10 +97,14 @@
     "wof:concordances":{
         "gn:id":775836,
         "gp:id":12617758,
+        "pl-gugik:jpt_kod_je":"261002_2",
         "qs_pg:id":1180651,
         "wd:id":"Q3913984",
         "wk:page":"Bli\u017cyn"
     },
+    "wof:coterminous":[
+        1125366823
+    ],
     "wof:country":"PL",
     "wof:geomhash":"215244c598a248b93710a0e3a8194c0a",
     "wof:hierarchy":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":101848083,
-    "wof:lastmodified":1568247852,
+    "wof:lastmodified":1570128045,
     "wof:name":"Bli\u017cyn",
     "wof:parent_id":1125366823,
     "wof:placetype":"locality",

@@ -64,7 +64,8 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -80,6 +81,7 @@
     "wof:concordances":{
         "gn:id":773313,
         "gp:id":491484,
+        "pl-gugik:jpt_kod_je":"180503_2",
         "qs_pg:id":83486,
         "wd:id":"Q2214289",
         "wk:page":"D\u0119bowiec, Podkarpackie Voivodeship"
@@ -87,6 +89,9 @@
     "wof:concordances_alt":{
         "qs_pg:id":296021
     },
+    "wof:coterminous":[
+        1477751541
+    ],
     "wof:country":"PL",
     "wof:geomhash":"fc572d0c62ec4feb46477b4cb61231b5",
     "wof:hierarchy":[
@@ -100,7 +105,7 @@
         }
     ],
     "wof:id":101878343,
-    "wof:lastmodified":1568251046,
+    "wof:lastmodified":1570128071,
     "wof:name":"D\u0119bowiec",
     "wof:parent_id":1477751541,
     "wof:placetype":"locality",
@@ -108,7 +113,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310138149
+    ],
     "wof:tags":[]
 },
   "bbox": [

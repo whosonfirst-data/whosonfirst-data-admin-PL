@@ -70,7 +70,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":94,
@@ -85,10 +87,14 @@
     "wof:concordances":{
         "gn:id":758681,
         "gp:id":12617601,
+        "pl-gugik:jpt_kod_je":"142011_2",
         "qs_pg:id":272336,
         "wd:id":"Q3078177",
         "wk:page":"Sochocin"
     },
+    "wof:coterminous":[
+        1125307529
+    ],
     "wof:country":"PL",
     "wof:geomhash":"a06a69a8ef47fde7db8ae857fc45f310",
     "wof:hierarchy":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":101819039,
-    "wof:lastmodified":1568245090,
+    "wof:lastmodified":1570128072,
     "wof:name":"Sochocin",
     "wof:parent_id":1125307529,
     "wof:placetype":"locality",

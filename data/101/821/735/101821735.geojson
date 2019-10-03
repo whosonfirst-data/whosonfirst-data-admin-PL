@@ -67,7 +67,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":145,
@@ -82,10 +84,14 @@
     "wof:concordances":{
         "gn:id":762118,
         "gp:id":12618426,
+        "pl-gugik:jpt_kod_je":"060111_2",
         "qs_pg:id":354664,
         "wd:id":"Q2921762",
         "wk:page":"Piszczac"
     },
+    "wof:coterminous":[
+        1125374503
+    ],
     "wof:country":"PL",
     "wof:geomhash":"cfaca7e895a078119538300f3020b7bd",
     "wof:hierarchy":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101821735,
-    "wof:lastmodified":1568248302,
+    "wof:lastmodified":1570128061,
     "wof:name":"Piszczac",
     "wof:parent_id":1125374503,
     "wof:placetype":"locality",

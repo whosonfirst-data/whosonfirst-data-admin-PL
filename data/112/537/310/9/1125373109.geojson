@@ -24,6 +24,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0627 \u0633\u0646\u067e\u0648\u067e\u0648\u0644"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0435\u043c\u043f\u043e\u043f\u0430\u043b\u044c"
     ],
@@ -34,7 +37,8 @@
         "Schippenbeil"
     ],
     "name:deu_x_variant":[
-        "S\u0119popol"
+        "S\u0119popol",
+        "S\u0119popol#Gmina S\u0119popol"
     ],
     "name:dsb_x_preferred":[
         "S\u0119popol"
@@ -45,7 +49,16 @@
     "name:epo_x_preferred":[
         "S\u0119popol"
     ],
+    "name:eus_x_preferred":[
+        "S\u0119popol udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u0633\u0646\u067e\u0648\u067e\u0648\u0644"
+    ],
     "name:fra_x_preferred":[
+        "S\u0119popol"
+    ],
+    "name:ita_x_preferred":[
         "S\u0119popol"
     ],
     "name:jav_x_preferred":[
@@ -78,17 +91,26 @@
     "name:slk_x_preferred":[
         "S\u0119popol"
     ],
+    "name:slk_x_variant":[
+        "Gmina S\u0119popol"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u043d\u043f\u043e\u043f\u043e\u043b"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043c\u043f\u043e\u043f\u043e\u043b\u044c"
     ],
+    "name:ukr_x_variant":[
+        "\u0413\u043c\u0456\u043d\u0430 \u0421\u0435\u043c\u043f\u043e\u043f\u043e\u043b\u044c"
+    ],
     "name:und_x_variant":[
         "Sz\u0119popel"
     ],
     "name:vie_x_preferred":[
         "S\u0119popol"
+    ],
+    "name:war_x_preferred":[
+        "Gmina S\u0119popol"
     ],
     "name:zho_x_preferred":[
         "\u68ee\u6ce2\u6ce2\u723e"
@@ -150,7 +172,7 @@
         }
     ],
     "wof:id":1125373109,
-    "wof:lastmodified":1568258182,
+    "wof:lastmodified":1569993777,
     "wof:name":"Gmina S\u0119popol",
     "wof:parent_id":102080247,
     "wof:placetype":"localadmin",

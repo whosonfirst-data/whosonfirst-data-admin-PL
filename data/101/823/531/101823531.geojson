@@ -67,7 +67,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":92,
@@ -83,10 +85,14 @@
         "gn:id":753130,
         "gp:id":12617553,
         "loc:id":"no2013122462",
+        "pl-gugik:jpt_kod_je":"181007_2",
         "qs_pg:id":1099621,
         "wd:id":"Q2363612",
         "wk:page":"\u017bo\u0142ynia"
     },
+    "wof:coterminous":[
+        1125294821
+    ],
     "wof:country":"PL",
     "wof:geomhash":"f078f623cb7436f292d082df8edafddb",
     "wof:hierarchy":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":101823531,
-    "wof:lastmodified":1568243733,
+    "wof:lastmodified":1570128057,
     "wof:name":"\u017bo\u0142ynia",
     "wof:parent_id":1125294821,
     "wof:placetype":"locality",

@@ -67,7 +67,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":128,
@@ -82,9 +84,13 @@
     "wof:concordances":{
         "gn:id":763661,
         "gp:id":12618468,
+        "pl-gugik:jpt_kod_je":"142008_2",
         "qs_pg:id":48922,
         "wd:id":"Q1215344"
     },
+    "wof:coterminous":[
+        1125291503
+    ],
     "wof:country":"PL",
     "wof:geomhash":"3fe98f19c122ab2d2858215d8d622ac7",
     "wof:hierarchy":[
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":101819045,
-    "wof:lastmodified":1568243649,
+    "wof:lastmodified":1570128075,
     "wof:name":"Nowe Miasto",
     "wof:parent_id":1125291503,
     "wof:placetype":"locality",

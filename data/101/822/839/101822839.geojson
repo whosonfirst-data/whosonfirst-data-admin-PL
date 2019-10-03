@@ -89,7 +89,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -105,10 +106,14 @@
     "wof:concordances":{
         "gn:id":3093691,
         "gp:id":504174,
+        "pl-gugik:jpt_kod_je":"020905_2",
         "qs_pg:id":1267796,
         "wd:id":"Q355403",
         "wk:page":"Legnickie Pole"
     },
+    "wof:coterminous":[
+        1125326947
+    ],
     "wof:country":"PL",
     "wof:geomhash":"8ade39a76f0d078f9d034a6176d46619",
     "wof:hierarchy":[
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101822839,
-    "wof:lastmodified":1568231981,
+    "wof:lastmodified":1570128026,
     "wof:name":"Legnickie Pole",
     "wof:parent_id":1125326947,
     "wof:placetype":"locality",

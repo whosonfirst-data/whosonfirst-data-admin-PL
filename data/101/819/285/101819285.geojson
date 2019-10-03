@@ -16,7 +16,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":53.430329,
-    "mps:longitude":18.240195,
+    "mps:longitude":18.240194,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -89,7 +89,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -105,10 +106,14 @@
     "wof:concordances":{
         "gn:id":3102100,
         "gp:id":488659,
+        "pl-gugik:jpt_kod_je":"041401_2",
         "qs_pg:id":294835,
         "wd:id":"Q2463043",
         "wk:page":"Gmina Bukowiec"
     },
+    "wof:coterminous":[
+        1477751221
+    ],
     "wof:country":"PL",
     "wof:geomhash":"f8f8c04aa4fbb03a3b4eb71f22715b5d",
     "wof:hierarchy":[
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101819285,
-    "wof:lastmodified":1568250307,
+    "wof:lastmodified":1570128076,
     "wof:name":"Bukowiec",
     "wof:parent_id":1477751221,
     "wof:placetype":"locality",

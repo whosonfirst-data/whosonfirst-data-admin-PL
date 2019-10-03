@@ -16,7 +16,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":53.098008,
-    "mps:longitude":17.00778,
+    "mps:longitude":17.007779,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -68,7 +68,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":97,
@@ -83,9 +85,13 @@
     "wof:concordances":{
         "gn:id":3092083,
         "gp:id":12616934,
+        "pl-gugik:jpt_kod_je":"301905_2",
         "qs_pg:id":23911,
         "wd:id":"Q1002962"
     },
+    "wof:coterminous":[
+        1125375529
+    ],
     "wof:country":"PL",
     "wof:geomhash":"50cb20abd48c464957888d1e150179d5",
     "wof:hierarchy":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101820541,
-    "wof:lastmodified":1568248364,
+    "wof:lastmodified":1570128043,
     "wof:name":"Miasteczko Kraje\u0144skie",
     "wof:parent_id":1125375529,
     "wof:placetype":"locality",

@@ -94,7 +94,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":123,
@@ -109,10 +111,14 @@
     "wof:concordances":{
         "gn:id":3103884,
         "gp:id":12617015,
+        "pl-gugik:jpt_kod_je":"320601_2",
         "qs_pg:id":396919,
         "wd:id":"Q557365",
         "wk:page":"Gmina Banie"
     },
+    "wof:coterminous":[
+        1125399485
+    ],
     "wof:country":"PL",
     "wof:geomhash":"8b55d0799d8afd57450301d0a3d9e163",
     "wof:hierarchy":[
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":101848109,
-    "wof:lastmodified":1568249522,
+    "wof:lastmodified":1570128046,
     "wof:name":"Banie",
     "wof:parent_id":1125399485,
     "wof:placetype":"locality",

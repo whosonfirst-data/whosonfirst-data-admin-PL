@@ -251,7 +251,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -267,12 +268,16 @@
     "wof:concordances":{
         "gn:id":3085882,
         "gp:id":12618560,
+        "pl-gugik:jpt_kod_je":"062009_2",
         "qs_pg:id":94544,
         "wd:id":"Q341720"
     },
     "wof:concordances_alt":{
         "qs_pg:id":234889
     },
+    "wof:coterminous":[
+        1125296527
+    ],
     "wof:country":"PL",
     "wof:geomhash":"5679ce82ade91554194f919ab4c42f58",
     "wof:hierarchy":[
@@ -286,7 +291,7 @@
         }
     ],
     "wof:id":101822573,
-    "wof:lastmodified":1568243982,
+    "wof:lastmodified":1570128019,
     "wof:name":"Sitno",
     "wof:parent_id":1125296527,
     "wof:placetype":"locality",

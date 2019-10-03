@@ -22,19 +22,40 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0627 \u0628\u0627\u0646\u062f\u06a9\u0648\u0648\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u043a\u043e\u0432\u0430"
+    ],
     "name:ceb_x_preferred":[
         "B\u0105dkowo"
+    ],
+    "name:deu_x_preferred":[
+        "Gmina B\u0105dkowo"
     ],
     "name:eng_x_preferred":[
         "Gmina B\u0105dkowo"
     ],
+    "name:eus_x_preferred":[
+        "B\u0105dkowo udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u0628\u0627\u0646\u062f\u06a9\u0648\u0648\u0648"
+    ],
     "name:fra_x_preferred":[
+        "B\u0105dkowo"
+    ],
+    "name:ita_x_preferred":[
         "B\u0105dkowo"
     ],
     "name:nld_x_preferred":[
         "B\u0105dkowo"
     ],
     "name:pol_x_preferred":[
+        "Gmina B\u0105dkowo"
+    ],
+    "name:pol_x_variant":[
         "B\u0105dkowo"
     ],
     "name:por_x_preferred":[
@@ -50,7 +71,8 @@
         "\u0490\u043c\u0456\u043d\u0430 \u0411\u043e\u043d\u0434\u043a\u043e\u0432\u043e"
     ],
     "name:ukr_x_variant":[
-        "\u0411\u043e\u043d\u0434\u043a\u043e\u0432\u043e"
+        "\u0411\u043e\u043d\u0434\u043a\u043e\u0432\u043e",
+        "\u0413\u043c\u0456\u043d\u0430 \u0411\u043e\u043d\u0434\u043a\u043e\u0432\u043e"
     ],
     "name:war_x_preferred":[
         "Gmina B\u0105dkowo"
@@ -72,6 +94,9 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":485354,
     "src:geom":"qs_pg",
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
@@ -89,8 +114,12 @@
     "wof:concordances":{
         "gn:id":3103958,
         "gp:id":485354,
+        "pl-gugik:jpt_kod_je":"040105_2",
         "qs_pg:id":293508
     },
+    "wof:coterminous":[
+        1477751529
+    ],
     "wof:country":"PL",
     "wof:created":1497299784,
     "wof:geomhash":"812f70a72657416e34de97ade90ca8ac",
@@ -105,8 +134,8 @@
         }
     ],
     "wof:id":1126003323,
-    "wof:lastmodified":1568251026,
-    "wof:name":"B\u0105dkowo",
+    "wof:lastmodified":1570039190,
+    "wof:name":"Gmina B\u0105dkowo",
     "wof:parent_id":1477751529,
     "wof:placetype":"locality",
     "wof:population":863,

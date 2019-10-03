@@ -115,7 +115,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.954722,
@@ -132,10 +134,14 @@
     "wof:concordances":{
         "gn:id":3081653,
         "gp:id":12618821,
+        "pl-gugik:jpt_kod_je":"022601_1",
         "qs_pg:id":24299,
         "wd:id":"Q987981",
         "wk:page":"Wojciesz\u00f3w"
     },
+    "wof:coterminous":[
+        1477751307
+    ],
     "wof:country":"PL",
     "wof:geomhash":"abb0c4d9f584f72096bb4e1756d3d850",
     "wof:hierarchy":[
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":101822783,
-    "wof:lastmodified":1568250510,
+    "wof:lastmodified":1570128019,
     "wof:name":"Wojciesz\u00f3w",
     "wof:parent_id":1477751307,
     "wof:placetype":"locality",

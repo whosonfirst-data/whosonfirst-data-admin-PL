@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":53.15919,
-    "mps:longitude":17.449356,
+    "mps:longitude":17.449357,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -94,7 +94,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":118,
@@ -109,10 +111,14 @@
     "wof:concordances":{
         "gn:id":3086377,
         "gp:id":12616846,
+        "pl-gugik:jpt_kod_je":"041004_2",
         "qs_pg:id":385373,
         "wd:id":"Q618435",
         "wk:page":"Gmina Sadki"
     },
+    "wof:coterminous":[
+        1477751179
+    ],
     "wof:country":"PL",
     "wof:geomhash":"0bdb89205b42bc147e1b0a43bd327cf3",
     "wof:hierarchy":[
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":101820527,
-    "wof:lastmodified":1568250183,
+    "wof:lastmodified":1570128038,
     "wof:name":"Sadki",
     "wof:parent_id":1477751179,
     "wof:placetype":"locality",

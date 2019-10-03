@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
@@ -70,6 +71,9 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":523341,
     "src:geom":"qs_pg",
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
@@ -87,8 +91,12 @@
     "wof:concordances":{
         "gn:id":756474,
         "gp:id":523341,
+        "pl-gugik:jpt_kod_je":"120712_2",
         "qs_pg:id":34125
     },
+    "wof:coterminous":[
+        1125284413
+    ],
     "wof:country":"PL",
     "wof:created":1497293984,
     "wof:geomhash":"6d80b3504d880894d4c3d604d026d99f",
@@ -103,14 +111,16 @@
         }
     ],
     "wof:id":1125864805,
-    "wof:lastmodified":1568242745,
+    "wof:lastmodified":1569885103,
     "wof:name":"Tymbark",
     "wof:parent_id":1125284413,
     "wof:placetype":"locality",
     "wof:population":2700,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495005893
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

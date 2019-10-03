@@ -85,7 +85,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":124,
@@ -100,10 +102,14 @@
     "wof:concordances":{
         "gn:id":763263,
         "gp:id":12616581,
+        "pl-gugik:jpt_kod_je":"120405_2",
         "qs_pg:id":1093962,
         "wd:id":"Q2460226",
         "wk:page":"Gmina Olesno, Lesser Poland Voivodeship"
     },
+    "wof:coterminous":[
+        1125285095
+    ],
     "wof:country":"PL",
     "wof:geomhash":"77c28286ab456d4f90662012910249df",
     "wof:hierarchy":[
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":101825013,
-    "wof:lastmodified":1568242760,
+    "wof:lastmodified":1570128072,
     "wof:name":"Olesno",
     "wof:parent_id":1125285095,
     "wof:placetype":"locality",

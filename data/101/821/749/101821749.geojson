@@ -94,7 +94,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":135,
@@ -109,10 +111,14 @@
     "wof:concordances":{
         "gn:id":767908,
         "gp:id":12617899,
+        "pl-gugik:jpt_kod_je":"142603_2",
         "qs_pg:id":271643,
         "wd:id":"Q1939807",
         "wk:page":"Gmina Kotu\u0144"
     },
+    "wof:coterminous":[
+        1125312959
+    ],
     "wof:country":"PL",
     "wof:geomhash":"70ff9195efa4bf60ba107e068de37b19",
     "wof:hierarchy":[
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":101821749,
-    "wof:lastmodified":1568237775,
+    "wof:lastmodified":1570128059,
     "wof:name":"Kotu\u0144",
     "wof:parent_id":1125312959,
     "wof:placetype":"locality",

@@ -61,7 +61,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":72,
@@ -76,10 +78,14 @@
     "wof:concordances":{
         "gn:id":765030,
         "gp:id":12617934,
+        "pl-gugik:jpt_kod_je":"120404_2",
         "qs_pg:id":1148875,
         "wd:id":"Q2279475",
         "wk:page":"M\u0119drzech\u00f3w"
     },
+    "wof:coterminous":[
+        1125350431
+    ],
     "wof:country":"PL",
     "wof:geomhash":"d7e5613d700e7dd476fd57f24bd936bc",
     "wof:hierarchy":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":101825011,
-    "wof:lastmodified":1568246797,
+    "wof:lastmodified":1570128074,
     "wof:name":"M\u0119drzech\u00f3w",
     "wof:parent_id":1125350431,
     "wof:placetype":"locality",

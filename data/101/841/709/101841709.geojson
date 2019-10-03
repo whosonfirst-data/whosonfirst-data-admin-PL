@@ -15,7 +15,7 @@
     "lbl:longitude":21.330655,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":50.337459,
+    "mps:latitude":50.337458,
     "mps:longitude":21.330655,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -65,7 +65,8 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -81,9 +82,13 @@
     "wof:concordances":{
         "gn:id":773797,
         "gp:id":490550,
+        "pl-gugik:jpt_kod_je":"181103_2",
         "qs_pg:id":295618,
         "wd:id":"Q439770"
     },
+    "wof:coterminous":[
+        1477752945
+    ],
     "wof:country":"PL",
     "wof:geomhash":"8e650f33059a63eb9cfc91551a370d2f",
     "wof:hierarchy":[
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101841709,
-    "wof:lastmodified":1568254085,
+    "wof:lastmodified":1570128039,
     "wof:name":"Czermin",
     "wof:parent_id":1477752945,
     "wof:placetype":"locality",

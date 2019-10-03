@@ -58,7 +58,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
@@ -73,10 +75,14 @@
     "wof:concordances":{
         "gn:id":760624,
         "gp:id":12617554,
+        "pl-gugik:jpt_kod_je":"180605_2",
         "qs_pg:id":24024,
         "wd:id":"Q2858475",
         "wk:page":"Rani\u017c\u00f3w"
     },
+    "wof:coterminous":[
+        1125324229
+    ],
     "wof:country":"PL",
     "wof:geomhash":"219029417bd689bc7c50273b4766ed99",
     "wof:hierarchy":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":101823721,
-    "wof:lastmodified":1568245868,
+    "wof:lastmodified":1570128061,
     "wof:name":"Rani\u017c\u00f3w",
     "wof:parent_id":1125324229,
     "wof:placetype":"locality",

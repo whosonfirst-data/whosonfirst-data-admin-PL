@@ -73,7 +73,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":86,
@@ -88,10 +90,14 @@
     "wof:concordances":{
         "gn:id":3094794,
         "gp:id":12616847,
+        "pl-gugik:jpt_kod_je":"301005_2",
         "qs_pg:id":1093964,
         "wd:id":"Q985369",
         "wk:page":"Kramsk"
     },
+    "wof:coterminous":[
+        1125285119
+    ],
     "wof:country":"PL",
     "wof:geomhash":"5f87d2328e428469e0e6b56f4bf908ba",
     "wof:hierarchy":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":101820301,
-    "wof:lastmodified":1568242787,
+    "wof:lastmodified":1570128036,
     "wof:name":"Kramsk",
     "wof:parent_id":1125285119,
     "wof:placetype":"locality",

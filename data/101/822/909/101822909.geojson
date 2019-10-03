@@ -62,7 +62,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -78,12 +79,16 @@
     "wof:concordances":{
         "gn:id":3089371,
         "gp:id":511791,
+        "pl-gugik:jpt_kod_je":"101707_2",
         "qs_pg:id":55747,
         "wd:id":"Q1216080"
     },
     "wof:concordances_alt":{
         "qs_pg:id":304317
     },
+    "wof:coterminous":[
+        1477752683
+    ],
     "wof:country":"PL",
     "wof:geomhash":"40ba17ecf394c0156bf41e298ccd84cc",
     "wof:hierarchy":[
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101822909,
-    "wof:lastmodified":1568253579,
+    "wof:lastmodified":1570128075,
     "wof:name":"P\u0105tn\u00f3w",
     "wof:parent_id":1477752683,
     "wof:placetype":"locality",
@@ -105,7 +110,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209132413
+    ],
     "wof:tags":[]
 },
   "bbox": [

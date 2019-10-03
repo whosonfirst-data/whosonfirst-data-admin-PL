@@ -74,7 +74,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -90,10 +91,14 @@
     "wof:concordances":{
         "gn:id":3087920,
         "gp:id":514449,
+        "pl-gugik:jpt_kod_je":"021703_2",
         "qs_pg:id":1011370,
         "wd:id":"Q983908",
         "wk:page":"Przeworno"
     },
+    "wof:coterminous":[
+        1477752559
+    ],
     "wof:country":"PL",
     "wof:geomhash":"e200b81b5bdbf9c3b2b214e5cbf7bfe3",
     "wof:hierarchy":[
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":101823729,
-    "wof:lastmodified":1568253256,
+    "wof:lastmodified":1570128062,
     "wof:name":"Przeworno",
     "wof:parent_id":1477752559,
     "wof:placetype":"locality",

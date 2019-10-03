@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043c\u0431\u0440\u043e\u0432\u0430 \u0422\u0430\u0440\u043d\u043e\u0432\u0441\u043a\u0430"
@@ -157,14 +158,16 @@
         }
     ],
     "wof:id":1326762993,
-    "wof:lastmodified":1568260339,
+    "wof:lastmodified":1569021993,
     "wof:name":"Dabrowa Tarnowska",
     "wof:parent_id":1477751441,
     "wof:placetype":"locality",
     "wof:population":11291,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101825023
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -15,7 +15,7 @@
     "lbl:longitude":23.599208,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":51.905944,
+    "mps:latitude":51.905945,
     "mps:longitude":23.599208,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -95,7 +95,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -111,6 +112,7 @@
     "wof:concordances":{
         "gn:id":768846,
         "gp:id":499932,
+        "pl-gugik:jpt_kod_je":"060106_2",
         "qs_pg:id":976965,
         "wd:id":"Q614142",
         "wk:page":"Gmina Kode\u0144"
@@ -118,6 +120,9 @@
     "wof:concordances_alt":{
         "qs_pg:id":1025479
     },
+    "wof:coterminous":[
+        1125400209
+    ],
     "wof:country":"PL",
     "wof:geomhash":"352dbd92aaf1673b620acaaac2758228",
     "wof:hierarchy":[
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":101821737,
-    "wof:lastmodified":1568249606,
+    "wof:lastmodified":1570128052,
     "wof:name":"Kode\u0144",
     "wof:parent_id":1125400209,
     "wof:placetype":"locality",

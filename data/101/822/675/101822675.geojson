@@ -15,7 +15,7 @@
     "lbl:longitude":23.442116,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
-    "mps:latitude":51.275074,
+    "mps:latitude":51.275075,
     "mps:longitude":23.442116,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -91,7 +91,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -106,10 +108,14 @@
         "fct:id":"02617aac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":759534,
         "gp:id":517472,
+        "pl-gugik:jpt_kod_je":"060310_2",
         "qs_pg:id":1057442,
         "wd:id":"Q2459599",
         "wk:page":"Gmina Sawin"
     },
+    "wof:coterminous":[
+        1477752109
+    ],
     "wof:country":"PL",
     "wof:geomhash":"eb8b73c30f3178f37dc1cf8aedd8d4ee",
     "wof:hierarchy":[
@@ -126,7 +132,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1568252290,
+    "wof:lastmodified":1570128077,
     "wof:name":"Sawin",
     "wof:parent_id":1477752109,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:pol_x_preferred":[
         "Ma\u0142a Wie\u015b"
     ],
+    "name:pol_x_variant":[
+        "Ma\u0142a Wie\u015b"
+    ],
     "name:por_x_preferred":[
         "Comuna de Ma\u0142a Wie\u015b"
     ],
@@ -70,6 +73,9 @@
     "qs_pg:qs_id":692628,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -82,8 +88,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7535566,
+        "pl-gugik:jpt_kod_je":"141908_2",
         "qs_pg:id":692628
     },
+    "wof:coterminous":[
+        1477752211
+    ],
     "wof:country":"PL",
     "wof:created":1497290842,
     "wof:geomhash":"65d00ae3e7e993f1c72e2209aabd1200",
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1125790351,
-    "wof:lastmodified":1568252527,
+    "wof:lastmodified":1570039890,
     "wof:name":"Ma\u0142a Wie\u015b",
     "wof:parent_id":1477752211,
     "wof:placetype":"locality",

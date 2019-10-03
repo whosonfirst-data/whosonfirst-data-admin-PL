@@ -56,7 +56,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":156,
@@ -71,10 +73,14 @@
     "wof:concordances":{
         "gn:id":3079923,
         "gp:id":24933814,
+        "pl-gugik:jpt_kod_je":"080605_2",
         "qs_pg:id":580883,
         "wd:id":"Q7274482",
         "wk:page":"Zwierzyn, Lubusz Voivodeship"
     },
+    "wof:coterminous":[
+        1477751597
+    ],
     "wof:country":"PL",
     "wof:geomhash":"22d03d8968b966646204b72c55ee2d6e",
     "wof:hierarchy":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101820481,
-    "wof:lastmodified":1568251155,
+    "wof:lastmodified":1570128041,
     "wof:name":"Zwierzyn",
     "wof:parent_id":1477751597,
     "wof:placetype":"locality",
@@ -96,7 +102,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125955507
+    ],
     "wof:tags":[]
 },
   "bbox": [

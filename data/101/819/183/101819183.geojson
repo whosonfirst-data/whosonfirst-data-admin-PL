@@ -68,7 +68,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -84,6 +85,7 @@
     "wof:concordances":{
         "gn:id":766133,
         "gp:id":504976,
+        "pl-gugik:jpt_kod_je":"040404_2",
         "qs_pg:id":301442,
         "wd:id":"Q1005282",
         "wk:page":"Lisewo"
@@ -91,6 +93,9 @@
     "wof:concordances_alt":{
         "qs_pg:id":1011053
     },
+    "wof:coterminous":[
+        1477752229
+    ],
     "wof:country":"PL",
     "wof:geomhash":"7247f8c6c8c6c6360bdcddfcf4299e1e",
     "wof:hierarchy":[
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":101819183,
-    "wof:lastmodified":1568252557,
+    "wof:lastmodified":1570128016,
     "wof:name":"Lisewo",
     "wof:parent_id":1477752229,
     "wof:placetype":"locality",
@@ -112,7 +117,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193048677
+    ],
     "wof:tags":[]
 },
   "bbox": [

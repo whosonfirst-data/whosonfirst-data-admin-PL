@@ -107,7 +107,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -123,10 +124,14 @@
     "wof:concordances":{
         "gn:id":3099125,
         "gp:id":493916,
+        "pl-gugik:jpt_kod_je":"221505_2",
         "qs_pg:id":1013815,
         "wd:id":"Q992296",
         "wk:page":"Gniewino"
     },
+    "wof:coterminous":[
+        1125385597
+    ],
     "wof:country":"PL",
     "wof:geomhash":"ee0a180ed4aedbee2ccd28f040707543",
     "wof:hierarchy":[
@@ -140,7 +145,7 @@
         }
     ],
     "wof:id":101819513,
-    "wof:lastmodified":1568248866,
+    "wof:lastmodified":1570128016,
     "wof:name":"Gniewino",
     "wof:parent_id":1125385597,
     "wof:placetype":"locality",
@@ -148,7 +153,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243099669
+    ],
     "wof:tags":[]
 },
   "bbox": [

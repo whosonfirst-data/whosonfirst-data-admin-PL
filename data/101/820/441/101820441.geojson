@@ -85,7 +85,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":204,
@@ -100,10 +102,14 @@
     "wof:concordances":{
         "gn:id":3086533,
         "gp:id":12618029,
+        "pl-gugik:jpt_kod_je":"301603_2",
         "qs_pg:id":998976,
         "wd:id":"Q555297",
         "wk:page":"Gmina Ryczyw\u00f3\u0142"
     },
+    "wof:coterminous":[
+        1125375675
+    ],
     "wof:country":"PL",
     "wof:geomhash":"fac8c316197807ecded7546f671110e4",
     "wof:hierarchy":[
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":101820441,
-    "wof:lastmodified":1568248454,
+    "wof:lastmodified":1570128037,
     "wof:name":"Ryczyw\u00f3\u0142",
     "wof:parent_id":1125375675,
     "wof:placetype":"locality",

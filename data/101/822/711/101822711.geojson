@@ -88,7 +88,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":117,
@@ -103,10 +105,14 @@
     "wof:concordances":{
         "gn:id":756091,
         "gp:id":12617258,
+        "pl-gugik:jpt_kod_je":"061410_2",
         "qs_pg:id":1190460,
         "wd:id":"Q2303915",
         "wk:page":"Gmina W\u0105wolnica"
     },
+    "wof:coterminous":[
+        1125304285
+    ],
     "wof:country":"PL",
     "wof:geomhash":"e4cded8a9409ac4cd8501f263477306a",
     "wof:hierarchy":[
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":101822711,
-    "wof:lastmodified":1568244465,
+    "wof:lastmodified":1570128030,
     "wof:name":"W\u0105wolnica",
     "wof:parent_id":1125304285,
     "wof:placetype":"locality",

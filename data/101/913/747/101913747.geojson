@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-27",
     "edtf:inception":"uuuu",
     "geom:area":0.000657,
     "geom:area_square_m":5219492.983288,
@@ -18,7 +19,7 @@
     "mps:latitude":50.043084,
     "mps:longitude":18.481786,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0628\u0646\u064a\u0643"
@@ -267,14 +268,16 @@
         }
     ],
     "wof:id":101913747,
-    "wof:lastmodified":1568245639,
+    "wof:lastmodified":1569606386,
     "wof:name":"Rybnik",
     "wof:parent_id":1125319007,
     "wof:placetype":"locality",
     "wof:population":142510,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1175613153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

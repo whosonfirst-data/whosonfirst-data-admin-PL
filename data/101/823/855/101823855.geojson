@@ -70,7 +70,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":545,
@@ -85,10 +87,14 @@
     "wof:concordances":{
         "gn:id":759814,
         "gp:id":12618108,
+        "pl-gugik:jpt_kod_je":"261206_2",
         "qs_pg:id":49171,
         "wd:id":"Q3079755",
         "wk:page":"Rytwiany"
     },
+    "wof:coterminous":[
+        1125408961
+    ],
     "wof:country":"PL",
     "wof:geomhash":"509b60eeb13bcc11d0eab761e200f55d",
     "wof:hierarchy":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":101823855,
-    "wof:lastmodified":1568249697,
+    "wof:lastmodified":1570128060,
     "wof:name":"Rytwiany",
     "wof:parent_id":1125408961,
     "wof:placetype":"locality",

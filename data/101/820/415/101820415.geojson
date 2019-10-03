@@ -68,7 +68,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.25,
@@ -85,9 +87,13 @@
     "wof:concordances":{
         "gn:id":3096078,
         "gp:id":12618449,
+        "pl-gugik:jpt_kod_je":"080104_2",
         "qs_pg:id":1319191,
         "wd:id":"Q984790"
     },
+    "wof:coterminous":[
+        1125343213
+    ],
     "wof:country":"PL",
     "wof:geomhash":"fa29f6a2212b804d7116684c58dca03f",
     "wof:hierarchy":[
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":101820415,
-    "wof:lastmodified":1568246650,
+    "wof:lastmodified":1570128037,
     "wof:name":"K\u0142odawa",
     "wof:parent_id":1125343213,
     "wof:placetype":"locality",

@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":50.753386,
-    "mps:longitude":16.20311,
+    "mps:longitude":16.203111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
@@ -130,7 +130,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":120,
@@ -145,10 +147,14 @@
     "wof:concordances":{
         "gn:id":3103034,
         "gp:id":12617874,
+        "pl-gugik:jpt_kod_je":"022101_1",
         "qs_pg:id":528167,
         "wd:id":"Q890709",
         "wk:page":"Bogusz\u00f3w-Gorce"
     },
+    "wof:coterminous":[
+        1125328571
+    ],
     "wof:country":"PL",
     "wof:geomhash":"f50224a5cbc48d6114f9e51f96f2bf1d",
     "wof:hierarchy":[
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":101823667,
-    "wof:lastmodified":1568246407,
+    "wof:lastmodified":1570128051,
     "wof:name":"Bogusz\u00f3w-Gorce",
     "wof:parent_id":1125328571,
     "wof:placetype":"locality",

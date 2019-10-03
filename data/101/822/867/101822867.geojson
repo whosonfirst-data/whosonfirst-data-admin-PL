@@ -54,7 +54,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -68,9 +70,13 @@
     "wof:concordances":{
         "gn:id":775737,
         "gp:id":24548697,
+        "pl-gugik:jpt_kod_je":"260703_2",
         "qs_pg:id":989451,
         "wd:id":"Q4937039"
     },
+    "wof:coterminous":[
+        1125373443
+    ],
     "wof:country":"PL",
     "wof:geomhash":"3e799fe5c6eb889968e8336f7cfc67b6",
     "wof:hierarchy":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":101822867,
-    "wof:lastmodified":1568248282,
+    "wof:lastmodified":1570128017,
     "wof:name":"Bodzech\u00f3w",
     "wof:parent_id":1125373443,
     "wof:placetype":"locality",

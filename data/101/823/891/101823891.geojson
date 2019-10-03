@@ -70,7 +70,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":683,
@@ -85,10 +87,14 @@
     "wof:concordances":{
         "gn:id":3090104,
         "gp:id":12617715,
+        "pl-gugik:jpt_kod_je":"240412_2",
         "qs_pg:id":1190561,
         "wd:id":"Q369699",
         "wk:page":"Olsztyn, Silesian Voivodeship"
     },
+    "wof:coterminous":[
+        1125304413
+    ],
     "wof:country":"PL",
     "wof:geomhash":"bed1268253d8ab08db8d7431a21272dc",
     "wof:hierarchy":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":101823891,
-    "wof:lastmodified":1568244550,
+    "wof:lastmodified":1570128060,
     "wof:name":"Olsztyn",
     "wof:parent_id":1125304413,
     "wof:placetype":"locality",

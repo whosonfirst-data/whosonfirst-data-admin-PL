@@ -15,7 +15,7 @@
     "lbl:longitude":17.193038,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
-    "mps:latitude":51.176839,
+    "mps:latitude":51.17684,
     "mps:longitude":17.193038,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -92,7 +92,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -108,10 +109,14 @@
     "wof:concordances":{
         "gn:id":3100421,
         "gp:id":491647,
+        "pl-gugik:jpt_kod_je":"022302_2",
         "qs_pg:id":1152286,
         "wd:id":"Q2461486",
         "wk:page":"Gmina D\u0142ugo\u0142\u0119ka"
     },
+    "wof:coterminous":[
+        1477751691
+    ],
     "wof:country":"PL",
     "wof:geomhash":"d6936ec4454485bb5f9a6816a0a76b75",
     "wof:hierarchy":[
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":101821273,
-    "wof:lastmodified":1568251392,
+    "wof:lastmodified":1570128055,
     "wof:name":"D\u0142ugo\u0142\u0119ka",
     "wof:parent_id":1477751691,
     "wof:placetype":"locality",

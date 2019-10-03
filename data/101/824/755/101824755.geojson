@@ -58,7 +58,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":352,
@@ -73,10 +75,14 @@
     "wof:concordances":{
         "gn:id":3084142,
         "gp:id":12617978,
+        "pl-gugik:jpt_kod_je":"241006_2",
         "qs_pg:id":1291757,
         "wd:id":"Q2231613",
         "wk:page":"Suszec"
     },
+    "wof:coterminous":[
+        1125327813
+    ],
     "wof:country":"PL",
     "wof:geomhash":"a097ee3466d16c1a8d90f35851c50072",
     "wof:hierarchy":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":101824755,
-    "wof:lastmodified":1568246376,
+    "wof:lastmodified":1570128063,
     "wof:name":"Suszec",
     "wof:parent_id":1125327813,
     "wof:placetype":"locality",

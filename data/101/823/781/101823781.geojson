@@ -83,7 +83,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -99,10 +100,14 @@
     "wof:concordances":{
         "gn:id":3095910,
         "gp:id":499866,
+        "pl-gugik:jpt_kod_je":"240705_2",
         "qs_pg:id":260822,
         "wd:id":"Q3056098",
         "wk:page":"Kochanowice"
     },
+    "wof:coterminous":[
+        1477752481
+    ],
     "wof:country":"PL",
     "wof:geomhash":"bc588c54c5305256d87eca26ce337743",
     "wof:hierarchy":[
@@ -116,7 +121,7 @@
         }
     ],
     "wof:id":101823781,
-    "wof:lastmodified":1568253120,
+    "wof:lastmodified":1570128061,
     "wof:name":"Kochanowice",
     "wof:parent_id":1477752481,
     "wof:placetype":"locality",

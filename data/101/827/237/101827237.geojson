@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.712558,
-    "mps:longitude":19.314923,
+    "mps:longitude":19.314922,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -50,7 +50,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -66,12 +67,16 @@
     "wof:concordances":{
         "gn:id":3099351,
         "gp:id":493542,
+        "pl-gugik:jpt_kod_je":"241703_2",
         "qs_pg:id":925635,
         "wd:id":"Q5562572"
     },
     "wof:concordances_alt":{
         "qs_pg:id":1214560
     },
+    "wof:coterminous":[
+        1477752965
+    ],
     "wof:country":"PL",
     "wof:geomhash":"89297c258f48173bb01539f8aa683555",
     "wof:hierarchy":[
@@ -85,7 +90,7 @@
         }
     ],
     "wof:id":101827237,
-    "wof:lastmodified":1568254149,
+    "wof:lastmodified":1570128034,
     "wof:name":"Gilowice",
     "wof:parent_id":1477752965,
     "wof:placetype":"locality",
@@ -93,7 +98,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293416421
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -16,7 +16,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":51.186751,
-    "mps:longitude":19.202267,
+    "mps:longitude":19.202266,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -89,7 +89,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -105,10 +106,14 @@
     "wof:concordances":{
         "gn:id":3084185,
         "gp:id":520987,
+        "pl-gugik:jpt_kod_je":"100908_2",
         "qs_pg:id":382758,
         "wd:id":"Q2458884",
         "wk:page":"Gmina Sulmierzyce"
     },
+    "wof:coterminous":[
+        1477751171
+    ],
     "wof:country":"PL",
     "wof:geomhash":"56f450c20043c4806dc7ea8c5cfed9e4",
     "wof:hierarchy":[
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101822551,
-    "wof:lastmodified":1568250145,
+    "wof:lastmodified":1570128076,
     "wof:name":"Sulmierzyce",
     "wof:parent_id":1477751171,
     "wof:placetype":"locality",

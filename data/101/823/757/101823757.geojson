@@ -121,7 +121,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":360.0,
@@ -139,10 +141,14 @@
     "wof:concordances":{
         "gn:id":3089152,
         "gp:id":12618744,
+        "pl-gugik:jpt_kod_je":"020603_1",
         "qs_pg:id":1207116,
         "wd:id":"Q988074",
         "wk:page":"Piechowice"
     },
+    "wof:coterminous":[
+        1125314733
+    ],
     "wof:country":"PL",
     "wof:geomhash":"f80c393637c565f2d66e059057dee46d",
     "wof:hierarchy":[
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":101823757,
-    "wof:lastmodified":1568245398,
+    "wof:lastmodified":1570128057,
     "wof:name":"Piechowice",
     "wof:parent_id":1125314733,
     "wof:placetype":"locality",

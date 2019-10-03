@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.574373,
-    "mps:longitude":20.344583,
+    "mps:longitude":20.344582,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -234,7 +234,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -250,9 +251,13 @@
     "wof:concordances":{
         "gn:id":769697,
         "gp:id":498296,
+        "pl-gugik:jpt_kod_je":"120705_2",
         "qs_pg:id":962972,
         "wd:id":"Q359453"
     },
+    "wof:coterminous":[
+        1477752349
+    ],
     "wof:country":"PL",
     "wof:geomhash":"019f114da342fdd84a59f66d4a2597aa",
     "wof:hierarchy":[
@@ -266,7 +271,7 @@
         }
     ],
     "wof:id":101826143,
-    "wof:lastmodified":1568252800,
+    "wof:lastmodified":1570128022,
     "wof:name":"Kamienica",
     "wof:parent_id":1477752349,
     "wof:placetype":"locality",

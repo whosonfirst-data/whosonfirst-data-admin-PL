@@ -15,7 +15,7 @@
     "lbl:longitude":16.358349,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
-    "mps:latitude":51.932099,
+    "mps:latitude":51.9321,
     "mps:longitude":16.358349,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -67,7 +67,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":91,
@@ -82,10 +84,14 @@
     "wof:concordances":{
         "gn:id":3081701,
         "gp:id":12617880,
+        "pl-gugik:jpt_kod_je":"301307_2",
         "qs_pg:id":24078,
         "wd:id":"Q985092",
         "wk:page":"W\u0142oszakowice"
     },
+    "wof:coterminous":[
+        1477751207
+    ],
     "wof:country":"PL",
     "wof:geomhash":"56f6940b41c16d17c78f564785d197db",
     "wof:hierarchy":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101821539,
-    "wof:lastmodified":1568250266,
+    "wof:lastmodified":1570128060,
     "wof:name":"W\u0142oszakowice",
     "wof:parent_id":1477751207,
     "wof:placetype":"locality",

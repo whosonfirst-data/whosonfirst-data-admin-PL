@@ -92,7 +92,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -108,10 +109,14 @@
     "wof:concordances":{
         "gn:id":3100306,
         "gp:id":491831,
+        "pl-gugik:jpt_kod_je":"021403_2",
         "qs_pg:id":249093,
         "wd:id":"Q689180",
         "wk:page":"Dobroszyce"
     },
+    "wof:coterminous":[
+        1477753019
+    ],
     "wof:country":"PL",
     "wof:geomhash":"c84ee8c4dc3c2b856823b3963741627c",
     "wof:hierarchy":[
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":101822897,
-    "wof:lastmodified":1568254243,
+    "wof:lastmodified":1570128028,
     "wof:name":"Dobroszyce",
     "wof:parent_id":1477753019,
     "wof:placetype":"locality",

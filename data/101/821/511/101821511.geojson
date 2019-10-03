@@ -61,7 +61,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
@@ -76,10 +78,14 @@
     "wof:concordances":{
         "gn:id":3086903,
         "gp:id":12618240,
+        "pl-gugik:jpt_kod_je":"301205_2",
         "qs_pg:id":497901,
         "wd:id":"Q985156",
         "wk:page":"Rozdra\u017cew"
     },
+    "wof:coterminous":[
+        1125324725
+    ],
     "wof:country":"PL",
     "wof:geomhash":"87cdcbf00b95229200480f85082ae728",
     "wof:hierarchy":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":101821511,
-    "wof:lastmodified":1568242439,
+    "wof:lastmodified":1570128059,
     "wof:name":"Rozdra\u017cew",
     "wof:parent_id":1125324725,
     "wof:placetype":"locality",
@@ -101,7 +107,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327361793
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -79,7 +79,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":123,
@@ -94,9 +96,13 @@
     "wof:concordances":{
         "gn:id":3098267,
         "gp:id":12616947,
+        "pl-gugik:jpt_kod_je":"020103_2",
         "qs_pg:id":1190423,
         "wd:id":"Q983950"
     },
+    "wof:coterminous":[
+        1125304217
+    ],
     "wof:country":"PL",
     "wof:geomhash":"d4cfd4bbd83f2321606be8f029a53c71",
     "wof:hierarchy":[
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":101822873,
-    "wof:lastmodified":1568244418,
+    "wof:lastmodified":1570128077,
     "wof:name":"Gromadka",
     "wof:parent_id":1125304217,
     "wof:placetype":"locality",

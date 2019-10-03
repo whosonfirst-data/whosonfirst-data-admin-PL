@@ -15,7 +15,7 @@
     "lbl:longitude":18.19876,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
-    "mps:latitude":53.338359,
+    "mps:latitude":53.338358,
     "mps:longitude":18.19876,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -95,7 +95,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -111,10 +112,14 @@
     "wof:concordances":{
         "gn:id":3088033,
         "gp:id":514255,
+        "pl-gugik:jpt_kod_je":"041408_2",
         "qs_pg:id":1216577,
         "wd:id":"Q2459589",
         "wk:page":"Gmina Pruszcz"
     },
+    "wof:coterminous":[
+        1477752611
+    ],
     "wof:country":"PL",
     "wof:geomhash":"d008922c77319c3f30ebd5568f0bd380",
     "wof:hierarchy":[
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":101819289,
-    "wof:lastmodified":1568253372,
+    "wof:lastmodified":1570128069,
     "wof:name":"Pruszcz",
     "wof:parent_id":1477752611,
     "wof:placetype":"locality",

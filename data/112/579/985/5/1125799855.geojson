@@ -22,6 +22,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:pol_x_preferred":[
+        "Jasion\u00f3wka"
+    ],
     "qs_pg:aaroncc":"PL",
     "qs_pg:gn_country":"PL",
     "qs_pg:gn_fcode":"PPL",
@@ -39,6 +42,9 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":497120,
     "src:geom":"qs_pg",
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
@@ -56,8 +62,12 @@
     "wof:concordances":{
         "gn:id":770313,
         "gp:id":497120,
+        "pl-gugik:jpt_kod_je":"200802_2",
         "qs_pg:id":182063
     },
+    "wof:coterminous":[
+        1477751815
+    ],
     "wof:country":"PL",
     "wof:created":1497291215,
     "wof:geomhash":"b0d7bad649e6725766810bdee62afc16",
@@ -72,7 +82,7 @@
         }
     ],
     "wof:id":1125799855,
-    "wof:lastmodified":1568251631,
+    "wof:lastmodified":1570039834,
     "wof:name":"Jasion\u00f3wka",
     "wof:parent_id":1477751815,
     "wof:placetype":"locality",

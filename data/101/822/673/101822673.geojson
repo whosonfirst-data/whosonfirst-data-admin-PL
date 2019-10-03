@@ -84,7 +84,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -100,6 +101,7 @@
     "wof:concordances":{
         "gn:id":3081618,
         "gp:id":525493,
+        "pl-gugik:jpt_kod_je":"060313_2",
         "qs_pg:id":310256,
         "wd:id":"Q2212388",
         "wk:page":"Gmina Wojs\u0142awice"
@@ -107,6 +109,9 @@
     "wof:concordances_alt":{
         "qs_pg:id":1165692
     },
+    "wof:coterminous":[
+        1125357511
+    ],
     "wof:country":"PL",
     "wof:geomhash":"71f8bdb1938a20b6c74f4890c5d5d425",
     "wof:hierarchy":[
@@ -120,7 +125,7 @@
         }
     ],
     "wof:id":101822673,
-    "wof:lastmodified":1568247173,
+    "wof:lastmodified":1570128078,
     "wof:name":"Wojs\u0142awice",
     "wof:parent_id":1125357511,
     "wof:placetype":"locality",
@@ -128,7 +133,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226270507
+    ],
     "wof:tags":[]
 },
   "bbox": [

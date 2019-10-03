@@ -77,7 +77,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -93,6 +94,7 @@
     "wof:concordances":{
         "gn:id":3099473,
         "gp:id":493321,
+        "pl-gugik:jpt_kod_je":"041902_2",
         "qs_pg:id":94592,
         "wd:id":"Q1021761",
         "wk:page":"G\u0105sawa"
@@ -100,6 +102,9 @@
     "wof:concordances_alt":{
         "qs_pg:id":1056156
     },
+    "wof:coterminous":[
+        1477752097
+    ],
     "wof:country":"PL",
     "wof:geomhash":"7f9f414516cee16259b412f656640c88",
     "wof:hierarchy":[
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":101820489,
-    "wof:lastmodified":1568252271,
+    "wof:lastmodified":1570128041,
     "wof:name":"G\u0105sawa",
     "wof:parent_id":1477752097,
     "wof:placetype":"locality",
@@ -121,7 +126,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101913077
+    ],
     "wof:tags":[]
 },
   "bbox": [

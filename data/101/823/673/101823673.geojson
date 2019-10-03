@@ -85,7 +85,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":150,
@@ -101,10 +103,14 @@
         "gn:id":3101117,
         "gp:id":12618527,
         "loc:id":"n2010025495",
+        "pl-gugik:jpt_kod_je":"022104_2",
         "qs_pg:id":528218,
         "wd:id":"Q693894",
         "wk:page":"Czarny B\u00f3r"
     },
+    "wof:coterminous":[
+        1125328583
+    ],
     "wof:country":"PL",
     "wof:geomhash":"de7b70ce54a4fd61396bfbab96b544a1",
     "wof:hierarchy":[
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":101823673,
-    "wof:lastmodified":1568246423,
+    "wof:lastmodified":1570128051,
     "wof:name":"Czarny B\u00f3r",
     "wof:parent_id":1125328583,
     "wof:placetype":"locality",

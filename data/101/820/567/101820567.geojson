@@ -15,7 +15,7 @@
     "lbl:longitude":22.701962,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":52.99217,
+    "mps:latitude":52.992169,
     "mps:longitude":22.701962,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -65,7 +65,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -81,9 +82,13 @@
     "wof:concordances":{
         "gn:id":758624,
         "gp:id":519278,
+        "pl-gugik:jpt_kod_je":"201308_2",
         "qs_pg:id":216259,
         "wd:id":"Q1207610"
     },
+    "wof:coterminous":[
+        1477751297
+    ],
     "wof:country":"PL",
     "wof:geomhash":"95a30b26afda14a8e9dddafd236e8e56",
     "wof:hierarchy":[
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101820567,
-    "wof:lastmodified":1568250481,
+    "wof:lastmodified":1570128035,
     "wof:name":"Soko\u0142y",
     "wof:parent_id":1477751297,
     "wof:placetype":"locality",

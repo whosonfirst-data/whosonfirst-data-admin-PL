@@ -91,7 +91,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":124,
@@ -106,10 +108,14 @@
     "wof:concordances":{
         "gn:id":3085219,
         "gp:id":12617969,
+        "pl-gugik:jpt_kod_je":"101806_2",
         "qs_pg:id":1099630,
         "wd:id":"Q2459157",
         "wk:page":"Gmina Sokolniki"
     },
+    "wof:coterminous":[
+        1125294861
+    ],
     "wof:country":"PL",
     "wof:geomhash":"61b699ae0c6d63539461c269851243fb",
     "wof:hierarchy":[
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":101821301,
-    "wof:lastmodified":1568243767,
+    "wof:lastmodified":1570128053,
     "wof:name":"Sokolniki",
     "wof:parent_id":1125294861,
     "wof:placetype":"locality",

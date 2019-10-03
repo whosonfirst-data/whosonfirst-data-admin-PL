@@ -88,7 +88,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":152,
@@ -103,10 +105,14 @@
     "wof:concordances":{
         "gn:id":755439,
         "gp:id":12618168,
+        "pl-gugik:jpt_kod_je":"260209_2",
         "qs_pg:id":1148903,
         "wd:id":"Q553760",
         "wk:page":"Gmina Wodzis\u0142aw"
     },
+    "wof:coterminous":[
+        1125350533
+    ],
     "wof:country":"PL",
     "wof:geomhash":"c05bda4c42d34c59c427b47a39ea4c9a",
     "wof:hierarchy":[
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":101823863,
-    "wof:lastmodified":1568231264,
+    "wof:lastmodified":1570128061,
     "wof:name":"Wodzis\u0142aw",
     "wof:parent_id":1125350533,
     "wof:placetype":"locality",

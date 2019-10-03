@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.58954,
-    "mps:longitude":21.957585,
+    "mps:longitude":21.957584,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -67,7 +67,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":171,
@@ -82,10 +84,14 @@
     "wof:concordances":{
         "gn:id":776214,
         "gp:id":12617413,
+        "pl-gugik:jpt_kod_je":"181702_2",
         "qs_pg:id":24001,
         "wd:id":"Q1999113",
         "wk:page":"Besko"
     },
+    "wof:coterminous":[
+        1125288833
+    ],
     "wof:country":"PL",
     "wof:geomhash":"c4615f9dce38578ede2619f532a992c5",
     "wof:hierarchy":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101827327,
-    "wof:lastmodified":1568243154,
+    "wof:lastmodified":1570128034,
     "wof:name":"Besko",
     "wof:parent_id":1125288833,
     "wof:placetype":"locality",

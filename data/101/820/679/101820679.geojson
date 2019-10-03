@@ -73,7 +73,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":104,
@@ -88,10 +90,14 @@
     "wof:concordances":{
         "gn:id":764876,
         "gp:id":12618861,
+        "pl-gugik:jpt_kod_je":"143306_2",
         "qs_pg:id":1019273,
         "wd:id":"Q1836984",
         "wk:page":"Miedzna"
     },
+    "wof:coterminous":[
+        1125393647
+    ],
     "wof:country":"PL",
     "wof:geomhash":"c01885052d3faa51be06bd92dba7c1e5",
     "wof:hierarchy":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":101820679,
-    "wof:lastmodified":1568249247,
+    "wof:lastmodified":1570128041,
     "wof:name":"Miedzna",
     "wof:parent_id":1125393647,
     "wof:placetype":"locality",

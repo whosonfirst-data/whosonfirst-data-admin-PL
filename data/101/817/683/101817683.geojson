@@ -69,7 +69,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -85,10 +86,14 @@
     "wof:concordances":{
         "gn:id":3091760,
         "gp:id":507622,
+        "pl-gugik:jpt_kod_je":"220906_2",
         "qs_pg:id":347450,
         "wd:id":"Q1003520",
         "wk:page":"Mi\u0142oradz"
     },
+    "wof:coterminous":[
+        1125398887
+    ],
     "wof:country":"PL",
     "wof:geomhash":"1c5add773a29e3f6802af18f90d49b74",
     "wof:hierarchy":[
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":101817683,
-    "wof:lastmodified":1568249440,
+    "wof:lastmodified":1570128050,
     "wof:name":"Mi\u0142oradz",
     "wof:parent_id":1125398887,
     "wof:placetype":"locality",

@@ -646,7 +646,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.416667,
@@ -663,10 +665,14 @@
     "wof:concordances":{
         "gn:id":768217,
         "gp:id":12618441,
+        "pl-gugik:jpt_kod_je":"061405_2",
         "qs_pg:id":1013345,
         "wd:id":"Q1959",
         "wk:page":"Ko\u0144skowola"
     },
+    "wof:coterminous":[
+        1125383183
+    ],
     "wof:country":"PL",
     "wof:geomhash":"bb74865b7979041dc8d4a4a5e42424f4",
     "wof:hierarchy":[
@@ -680,7 +686,7 @@
         }
     ],
     "wof:id":101822695,
-    "wof:lastmodified":1568248753,
+    "wof:lastmodified":1570128017,
     "wof:name":"Ko\u0144skowola",
     "wof:parent_id":1125383183,
     "wof:placetype":"locality",

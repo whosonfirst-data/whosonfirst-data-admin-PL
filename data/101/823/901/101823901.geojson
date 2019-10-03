@@ -62,7 +62,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -78,10 +79,14 @@
     "wof:concordances":{
         "gn:id":3093343,
         "gp:id":504752,
+        "pl-gugik:jpt_kod_je":"240603_2",
         "qs_pg:id":301357,
         "wd:id":"Q963857",
         "wk:page":"Lipie, K\u0142obuck County"
     },
+    "wof:coterminous":[
+        1125368503
+    ],
     "wof:country":"PL",
     "wof:geomhash":"a02722c79ab9b7c631ab2874d991c771",
     "wof:hierarchy":[
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":101823901,
-    "wof:lastmodified":1568247964,
+    "wof:lastmodified":1570128049,
     "wof:name":"Lipie",
     "wof:parent_id":1125368503,
     "wof:placetype":"locality",

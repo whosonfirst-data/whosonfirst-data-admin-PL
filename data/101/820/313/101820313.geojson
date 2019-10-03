@@ -92,7 +92,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -108,10 +109,14 @@
     "wof:concordances":{
         "gn:id":3087710,
         "gp:id":514810,
+        "pl-gugik:jpt_kod_je":"080304_2",
         "qs_pg:id":244567,
         "wd:id":"Q2309437",
         "wk:page":"Gmina Pszczew"
     },
+    "wof:coterminous":[
+        1477752119
+    ],
     "wof:country":"PL",
     "wof:geomhash":"541421346da86fe29a5c1a1e473f1e88",
     "wof:hierarchy":[
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":101820313,
-    "wof:lastmodified":1568252322,
+    "wof:lastmodified":1570128039,
     "wof:name":"Pszczew",
     "wof:parent_id":1477752119,
     "wof:placetype":"locality",

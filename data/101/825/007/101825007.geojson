@@ -15,7 +15,7 @@
     "lbl:longitude":18.56194,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
-    "mps:latitude":50.216189,
+    "mps:latitude":50.216188,
     "mps:longitude":18.56194,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -242,7 +242,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -258,12 +259,16 @@
     "wof:concordances":{
         "gn:id":3089018,
         "gp:id":512454,
+        "pl-gugik:jpt_kod_je":"240504_2",
         "qs_pg:id":926087,
         "wd:id":"Q1211581"
     },
     "wof:concordances_alt":{
         "qs_pg:id":1330319
     },
+    "wof:coterminous":[
+        1125415381
+    ],
     "wof:country":"PL",
     "wof:geomhash":"e4d39176a81c5997cdcd759da51f6f31",
     "wof:hierarchy":[
@@ -277,7 +282,7 @@
         }
     ],
     "wof:id":101825007,
-    "wof:lastmodified":1568249934,
+    "wof:lastmodified":1570128073,
     "wof:name":"Pilchowice",
     "wof:parent_id":1125415381,
     "wof:placetype":"locality",
@@ -285,7 +290,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309836545
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -61,7 +61,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":313,
@@ -76,9 +78,13 @@
     "wof:concordances":{
         "gn:id":3086544,
         "gp:id":12618076,
+        "pl-gugik:jpt_kod_je":"300806_2",
         "qs_pg:id":253322,
         "wd:id":"Q477360"
     },
+    "wof:coterminous":[
+        1125311429
+    ],
     "wof:country":"PL",
     "wof:geomhash":"0a144a43cf03b537efead251a57e956e",
     "wof:hierarchy":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":101822885,
-    "wof:lastmodified":1568245274,
+    "wof:lastmodified":1570128023,
     "wof:name":"Rychtal",
     "wof:parent_id":1125311429,
     "wof:placetype":"locality",

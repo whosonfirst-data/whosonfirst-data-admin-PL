@@ -245,7 +245,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -261,9 +262,13 @@
     "wof:concordances":{
         "gn:id":3082678,
         "gp:id":523792,
+        "pl-gugik:jpt_kod_je":"022108_2",
         "qs_pg:id":994149,
         "wd:id":"Q615167"
     },
+    "wof:coterminous":[
+        1125411591
+    ],
     "wof:country":"PL",
     "wof:geomhash":"4cdfd742f3b7dffdd1306bf3b1acd5a4",
     "wof:hierarchy":[
@@ -277,7 +282,7 @@
         }
     ],
     "wof:id":101823665,
-    "wof:lastmodified":1568249825,
+    "wof:lastmodified":1570128060,
     "wof:name":"Walim",
     "wof:parent_id":1125411591,
     "wof:placetype":"locality",

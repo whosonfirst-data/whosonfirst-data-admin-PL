@@ -67,7 +67,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":87,
@@ -82,10 +84,14 @@
     "wof:concordances":{
         "gn:id":776553,
         "gp:id":12617022,
+        "pl-gugik:jpt_kod_je":"142003_2",
         "qs_pg:id":1003814,
         "wd:id":"Q1894607",
         "wk:page":"Baboszewo"
     },
+    "wof:coterminous":[
+        1125379957
+    ],
     "wof:country":"PL",
     "wof:geomhash":"1f05d8bc3c7219829051fee8b1f4c9a0",
     "wof:hierarchy":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101819041,
-    "wof:lastmodified":1568248640,
+    "wof:lastmodified":1570128069,
     "wof:name":"Baboszewo",
     "wof:parent_id":1125379957,
     "wof:placetype":"locality",

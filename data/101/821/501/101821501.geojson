@@ -15,7 +15,7 @@
     "lbl:longitude":18.941879,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":51.435941,
+    "mps:latitude":51.435942,
     "mps:longitude":18.941879,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -95,7 +95,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":173,
@@ -110,10 +112,14 @@
     "wof:concordances":{
         "gn:id":3082390,
         "gp:id":12616914,
+        "pl-gugik:jpt_kod_je":"100304_2",
         "qs_pg:id":1172178,
         "wd:id":"Q2324737",
         "wk:page":"Gmina Widawa"
     },
+    "wof:coterminous":[
+        1125364429
+    ],
     "wof:country":"PL",
     "wof:geomhash":"4d80b0098c93bd03b305c2148a19f840",
     "wof:hierarchy":[
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":101821501,
-    "wof:lastmodified":1568247649,
+    "wof:lastmodified":1570128060,
     "wof:name":"Widawa",
     "wof:parent_id":1125364429,
     "wof:placetype":"locality",

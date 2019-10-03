@@ -83,7 +83,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":93,
@@ -98,10 +100,14 @@
     "wof:concordances":{
         "gn:id":3093366,
         "gp:id":12618385,
+        "pl-gugik:jpt_kod_je":"101505_2",
         "qs_pg:id":497942,
         "wd:id":"Q2020341",
         "wk:page":"Lipce Reymontowskie"
     },
+    "wof:coterminous":[
+        1125324761
+    ],
     "wof:country":"PL",
     "wof:geomhash":"3ceffd22272f538ed7c56530c674f62d",
     "wof:hierarchy":[
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":101821681,
-    "wof:lastmodified":1568246157,
+    "wof:lastmodified":1570128054,
     "wof:name":"Lipce Reymontowskie",
     "wof:parent_id":1125324761,
     "wof:placetype":"locality",

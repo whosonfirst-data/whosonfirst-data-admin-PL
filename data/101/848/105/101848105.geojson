@@ -52,7 +52,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":108,
@@ -67,10 +69,14 @@
     "wof:concordances":{
         "gn:id":3084876,
         "gp:id":12617782,
+        "pl-gugik:jpt_kod_je":"080603_2",
         "qs_pg:id":249385,
         "wd:id":"Q1861063",
         "wk:page":"Stare Kurowo"
     },
+    "wof:coterminous":[
+        1125416091
+    ],
     "wof:country":"PL",
     "wof:geomhash":"abd533c11901c0371d1d24d0f01c4b0c",
     "wof:hierarchy":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":101848105,
-    "wof:lastmodified":1568249966,
+    "wof:lastmodified":1570128045,
     "wof:name":"Stare Kurowo",
     "wof:parent_id":1125416091,
     "wof:placetype":"locality",

@@ -169,7 +169,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":256,
@@ -184,10 +186,14 @@
     "wof:concordances":{
         "gn:id":755886,
         "gp:id":12618737,
+        "pl-gugik:jpt_kod_je":"140805_2",
         "qs_pg:id":1019793,
         "wd:id":"Q777248",
         "wk:page":"Wieliszew"
     },
+    "wof:coterminous":[
+        1125395175
+    ],
     "wof:country":"PL",
     "wof:geomhash":"8e971f712bbaad2e95fe5ba2c7d04745",
     "wof:hierarchy":[
@@ -201,7 +207,7 @@
         }
     ],
     "wof:id":101820435,
-    "wof:lastmodified":1568249317,
+    "wof:lastmodified":1570128042,
     "wof:name":"Wieliszew",
     "wof:parent_id":1125395175,
     "wof:placetype":"locality",

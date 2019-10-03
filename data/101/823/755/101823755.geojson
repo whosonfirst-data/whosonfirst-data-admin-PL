@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":50.794159,
-    "mps:longitude":15.831836,
+    "mps:longitude":15.831837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
@@ -140,7 +140,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -158,10 +159,14 @@
     "wof:concordances":{
         "gn:id":3094934,
         "gp:id":501789,
+        "pl-gugik:jpt_kod_je":"020602_1",
         "qs_pg:id":898508,
         "wd:id":"Q985656",
         "wk:page":"Kowary"
     },
+    "wof:coterminous":[
+        1125280617
+    ],
     "wof:country":"PL",
     "wof:geomhash":"3945e5f1fb0a905a3572436bf9dc03e3",
     "wof:hierarchy":[
@@ -175,7 +180,7 @@
         }
     ],
     "wof:id":101823755,
-    "wof:lastmodified":1568242615,
+    "wof:lastmodified":1570128048,
     "wof:name":"Kowary",
     "wof:parent_id":1125280617,
     "wof:placetype":"locality",

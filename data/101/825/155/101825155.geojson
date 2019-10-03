@@ -86,7 +86,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -102,10 +103,14 @@
     "wof:concordances":{
         "gn:id":3080380,
         "gp:id":528524,
+        "pl-gugik:jpt_kod_je":"160807_2",
         "qs_pg:id":311724,
         "wd:id":"Q2060573",
         "wk:page":"Gmina Z\u0119bowice"
     },
+    "wof:coterminous":[
+        1477751403
+    ],
     "wof:country":"PL",
     "wof:geomhash":"791ddd605c4c476542f3448658261f3a",
     "wof:hierarchy":[
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":101825155,
-    "wof:lastmodified":1568250691,
+    "wof:lastmodified":1570128074,
     "wof:name":"Z\u0119bowice",
     "wof:parent_id":1477751403,
     "wof:placetype":"locality",

@@ -15,7 +15,7 @@
     "lbl:longitude":19.124322,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
-    "mps:latitude":50.12405,
+    "mps:latitude":50.124051,
     "mps:longitude":19.124322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -140,7 +140,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -156,6 +157,7 @@
     "wof:concordances":{
         "gn:id":3093708,
         "gp:id":504136,
+        "pl-gugik:jpt_kod_je":"241403_1",
         "qs_pg:id":1078887,
         "wd:id":"Q276858",
         "wk:page":"L\u0119dziny"
@@ -163,6 +165,9 @@
     "wof:concordances_alt":{
         "qs_pg:id":1164893
     },
+    "wof:coterminous":[
+        1125362425
+    ],
     "wof:country":"PL",
     "wof:geomhash":"f2e39ef29106e77adc189c9281a80452",
     "wof:hierarchy":[
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":101824783,
-    "wof:lastmodified":1568247343,
+    "wof:lastmodified":1570128066,
     "wof:name":"L\u0119dziny",
     "wof:parent_id":1125362425,
     "wof:placetype":"locality",

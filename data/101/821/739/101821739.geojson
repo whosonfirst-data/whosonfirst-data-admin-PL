@@ -63,7 +63,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
@@ -77,10 +79,14 @@
     "wof:concordances":{
         "gn:id":756627,
         "gp:id":523086,
+        "pl-gugik:jpt_kod_je":"060117_2",
         "qs_pg:id":6,
         "wd:id":"Q168841",
         "wk:page":"Tuczna"
     },
+    "wof:coterminous":[
+        1477752173
+    ],
     "wof:country":"PL",
     "wof:geomhash":"8f4b4af21f9c7e59e874ddbaaeac1b76",
     "wof:hierarchy":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101821739,
-    "wof:lastmodified":1568252440,
+    "wof:lastmodified":1570128052,
     "wof:name":"Tuczna",
     "wof:parent_id":1477752173,
     "wof:placetype":"locality",

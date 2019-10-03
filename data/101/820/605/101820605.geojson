@@ -88,7 +88,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":129,
@@ -103,10 +105,14 @@
     "wof:concordances":{
         "gn:id":769835,
         "gp:id":12616724,
+        "pl-gugik:jpt_kod_je":"141505_2",
         "qs_pg:id":1256343,
         "wd:id":"Q2318268",
         "wk:page":"Gmina Kadzid\u0142o"
     },
+    "wof:coterminous":[
+        1125310613
+    ],
     "wof:country":"PL",
     "wof:geomhash":"6c151ac0cbb2a43fda7fe2227162ee80",
     "wof:hierarchy":[
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":101820605,
-    "wof:lastmodified":1568240138,
+    "wof:lastmodified":1570128037,
     "wof:name":"Kadzid\u0142o",
     "wof:parent_id":1125310613,
     "wof:placetype":"locality",

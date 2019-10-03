@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":52.975252,
-    "mps:longitude":18.098408,
+    "mps:longitude":18.098409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -89,7 +89,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -105,10 +106,14 @@
     "wof:concordances":{
         "gn:id":3090673,
         "gp:id":509555,
+        "pl-gugik:jpt_kod_je":"040305_2",
         "qs_pg:id":1263048,
         "wd:id":"Q517996",
         "wk:page":"Nowa Wie\u015b Wielka, Kuyavian-Pomeranian Voivodeship"
     },
+    "wof:coterminous":[
+        1477751991
+    ],
     "wof:country":"PL",
     "wof:geomhash":"16d733afeb18dc803165e4dd9d1332e5",
     "wof:hierarchy":[
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101819173,
-    "wof:lastmodified":1568252030,
+    "wof:lastmodified":1570128073,
     "wof:name":"Nowa Wie\u015b Wielka",
     "wof:parent_id":1477751991,
     "wof:placetype":"locality",

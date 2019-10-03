@@ -15,7 +15,7 @@
     "lbl:longitude":22.315175,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":50.566966,
+    "mps:latitude":50.566965,
     "mps:longitude":22.315175,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -152,7 +152,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.966667,
@@ -169,9 +171,13 @@
     "wof:concordances":{
         "gn:id":770383,
         "gp:id":12618622,
+        "pl-gugik:jpt_kod_je":"181202_2",
         "qs_pg:id":201439,
         "wd:id":"Q52840"
     },
+    "wof:coterminous":[
+        1125304837
+    ],
     "wof:country":"PL",
     "wof:geomhash":"0b6f7005efc251ef0c5532d62a0c5a24",
     "wof:hierarchy":[
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":101822755,
-    "wof:lastmodified":1568244890,
+    "wof:lastmodified":1570128076,
     "wof:name":"Jarocin",
     "wof:parent_id":1125304837,
     "wof:placetype":"locality",

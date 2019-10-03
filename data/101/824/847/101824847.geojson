@@ -91,7 +91,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":177,
@@ -106,10 +108,14 @@
     "wof:concordances":{
         "gn:id":3101294,
         "gp:id":12607143,
+        "pl-gugik:jpt_kod_je":"160303_2",
         "qs_pg:id":487605,
         "wd:id":"Q923798",
         "wk:page":"Gmina Cisek"
     },
+    "wof:coterminous":[
+        1477752217
+    ],
     "wof:country":"PL",
     "wof:geomhash":"d20d4fe3bb0d3d399e2dca701f60fbb4",
     "wof:hierarchy":[
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":101824847,
-    "wof:lastmodified":1568252538,
+    "wof:lastmodified":1570128068,
     "wof:name":"Cisek",
     "wof:parent_id":1477752217,
     "wof:placetype":"locality",

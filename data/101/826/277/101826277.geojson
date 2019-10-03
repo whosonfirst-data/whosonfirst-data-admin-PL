@@ -94,7 +94,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":112,
@@ -109,10 +111,14 @@
     "wof:concordances":{
         "gn:id":755855,
         "gp:id":12618123,
+        "pl-gugik:jpt_kod_je":"181505_2",
         "qs_pg:id":1212383,
         "wd:id":"Q670095",
         "wk:page":"Wielopole Skrzy\u0144skie"
     },
+    "wof:coterminous":[
+        1125317327
+    ],
     "wof:country":"PL",
     "wof:geomhash":"071a4f32ab9e69386b9472cb436179a9",
     "wof:hierarchy":[
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":101826277,
-    "wof:lastmodified":1568245542,
+    "wof:lastmodified":1570128024,
     "wof:name":"Wielopole Skrzy\u0144skie",
     "wof:parent_id":1125317327,
     "wof:placetype":"locality",

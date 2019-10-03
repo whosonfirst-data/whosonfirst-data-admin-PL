@@ -110,7 +110,8 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -126,9 +127,13 @@
     "wof:concordances":{
         "gn:id":3082192,
         "gp:id":524521,
+        "pl-gugik:jpt_kod_je":"121810_2",
         "qs_pg:id":340432,
         "wd:id":"Q1130403"
     },
+    "wof:coterminous":[
+        1477752025
+    ],
     "wof:country":"PL",
     "wof:geomhash":"56962d04e8293731cc4deb360258f0d3",
     "wof:hierarchy":[
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":101841501,
-    "wof:lastmodified":1568252090,
+    "wof:lastmodified":1570128042,
     "wof:name":"Wieprz",
     "wof:parent_id":1477752025,
     "wof:placetype":"locality",

@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.437859,
-    "mps:longitude":19.854879,
+    "mps:longitude":19.85488,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -78,7 +78,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -94,6 +95,7 @@
     "wof:concordances":{
         "gn:id":3101114,
         "gp:id":490418,
+        "pl-gugik:jpt_kod_je":"121103_2",
         "qs_pg:id":332090,
         "wd:id":"Q2368603",
         "wk:page":"Czarny Dunajec"
@@ -101,6 +103,9 @@
     "wof:concordances_alt":{
         "qs_pg:id":1059738
     },
+    "wof:coterminous":[
+        1125371073
+    ],
     "wof:country":"PL",
     "wof:geomhash":"a872ebf25153b5255fbb0a60e057227f",
     "wof:hierarchy":[
@@ -114,7 +119,7 @@
         }
     ],
     "wof:id":101827223,
-    "wof:lastmodified":1568248141,
+    "wof:lastmodified":1570128032,
     "wof:name":"Czarny Dunajec",
     "wof:parent_id":1125371073,
     "wof:placetype":"locality",
@@ -122,7 +127,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        101912177
+    ],
     "wof:tags":[]
 },
   "bbox": [

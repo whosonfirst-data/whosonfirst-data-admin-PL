@@ -24,6 +24,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0627 \u0628\u0627\u0631\u0648\u06cc\u062a\u0633\u0647"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0440\u0432\u0456\u0446\u044b"
     ],
@@ -39,7 +42,16 @@
     "name:epo_x_preferred":[
         "Barwice"
     ],
+    "name:eus_x_preferred":[
+        "Barwice udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u0628\u0627\u0631\u0648\u06cc\u062a\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Barwice"
+    ],
+    "name:ita_x_preferred":[
         "Barwice"
     ],
     "name:jav_x_preferred":[
@@ -72,6 +84,9 @@
     "name:slk_x_preferred":[
         "Barwice"
     ],
+    "name:slk_x_variant":[
+        "Gmina Barwice"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u0440\u0432\u0438\u0446\u0435"
     ],
@@ -81,11 +96,20 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0432\u0456\u0446\u0435"
     ],
+    "name:ukr_x_variant":[
+        "\u0413\u043c\u0456\u043d\u0430 \u0411\u0430\u0440\u0432\u0456\u0446\u0435"
+    ],
     "name:und_x_variant":[
         "Berwald"
     ],
     "name:vie_x_preferred":[
         "Barwice"
+    ],
+    "name:vie_x_variant":[
+        "Gmina Barwice"
+    ],
+    "name:war_x_preferred":[
+        "Gmina Barwice"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u723e\u7dad\u91c7"
@@ -143,7 +167,7 @@
         }
     ],
     "wof:id":1125410527,
-    "wof:lastmodified":1568259605,
+    "wof:lastmodified":1569998580,
     "wof:name":"Gmina Barwice",
     "wof:parent_id":102080155,
     "wof:placetype":"localadmin",

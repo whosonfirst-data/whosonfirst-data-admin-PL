@@ -15,7 +15,7 @@
     "lbl:longitude":22.144122,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
-    "mps:latitude":50.373418,
+    "mps:latitude":50.373417,
     "mps:longitude":22.144122,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -73,7 +73,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
@@ -88,10 +90,14 @@
     "wof:concordances":{
         "gn:id":770045,
         "gp:id":12618417,
+        "pl-gugik:jpt_kod_je":"181203_2",
         "qs_pg:id":24212,
         "wd:id":"Q2672122",
         "wk:page":"Je\u017cowe"
     },
+    "wof:coterminous":[
+        1125324389
+    ],
     "wof:country":"PL",
     "wof:geomhash":"d0c3521631df057d52bf6879926fcea6",
     "wof:hierarchy":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":101825149,
-    "wof:lastmodified":1568246018,
+    "wof:lastmodified":1570128075,
     "wof:name":"Je\u017cowe",
     "wof:parent_id":1125324389,
     "wof:placetype":"locality",

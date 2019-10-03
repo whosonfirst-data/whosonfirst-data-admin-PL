@@ -94,7 +94,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1303,
@@ -109,10 +111,14 @@
     "wof:concordances":{
         "gn:id":763519,
         "gp:id":12618201,
+        "pl-gugik:jpt_kod_je":"180507_2",
         "qs_pg:id":24158,
         "wd:id":"Q4026813",
         "wk:page":"Nowy \u017bmigr\u00f3d"
     },
+    "wof:coterminous":[
+        1125289189
+    ],
     "wof:country":"PL",
     "wof:geomhash":"cad1fd3e199cacc199d100adc5294ce3",
     "wof:hierarchy":[
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":101848003,
-    "wof:lastmodified":1568243496,
+    "wof:lastmodified":1570128047,
     "wof:name":"Nowy \u017bmigr\u00f3d",
     "wof:parent_id":1125289189,
     "wof:placetype":"locality",

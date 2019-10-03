@@ -90,7 +90,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -106,6 +107,7 @@
     "wof:concordances":{
         "gn:id":3095953,
         "gp:id":499762,
+        "pl-gugik:jpt_kod_je":"301804_2",
         "qs_pg:id":580921,
         "wd:id":"Q556548",
         "wk:page":"Gmina Kobyla G\u00f3ra"
@@ -113,6 +115,9 @@
     "wof:concordances_alt":{
         "qs_pg:id":963012
     },
+    "wof:coterminous":[
+        1477751745
+    ],
     "wof:country":"PL",
     "wof:geomhash":"59067660cac819fc831f3da479992847",
     "wof:hierarchy":[
@@ -126,7 +131,7 @@
         }
     ],
     "wof:id":101821341,
-    "wof:lastmodified":1568251484,
+    "wof:lastmodified":1570128058,
     "wof:name":"Kobyla G\u00f3ra",
     "wof:parent_id":1477751745,
     "wof:placetype":"locality",
@@ -134,7 +139,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259716153
+    ],
     "wof:tags":[]
 },
   "bbox": [

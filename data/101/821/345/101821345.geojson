@@ -15,7 +15,7 @@
     "lbl:longitude":18.225934,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":51.513765,
+    "mps:latitude":51.513764,
     "mps:longitude":18.225934,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -89,7 +89,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -105,6 +106,7 @@
     "wof:concordances":{
         "gn:id":3094747,
         "gp:id":502216,
+        "pl-gugik:jpt_kod_je":"301805_2",
         "qs_pg:id":94581,
         "wd:id":"Q554929",
         "wk:page":"Gmina Kraszewice"
@@ -112,6 +114,9 @@
     "wof:concordances_alt":{
         "qs_pg:id":300200
     },
+    "wof:coterminous":[
+        1477752803
+    ],
     "wof:country":"PL",
     "wof:geomhash":"8f00e37d96c70ace25600c7f07aa7834",
     "wof:hierarchy":[
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":101821345,
-    "wof:lastmodified":1568253796,
+    "wof:lastmodified":1570128065,
     "wof:name":"Kraszewice",
     "wof:parent_id":1477752803,
     "wof:placetype":"locality",
@@ -133,7 +138,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226470323
+    ],
     "wof:tags":[]
 },
   "bbox": [

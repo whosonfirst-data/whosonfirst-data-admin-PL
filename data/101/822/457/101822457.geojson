@@ -58,7 +58,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":89,
@@ -73,10 +75,14 @@
     "wof:concordances":{
         "gn:id":760632,
         "gp:id":12618820,
+        "pl-gugik:jpt_kod_je":"181006_2",
         "qs_pg:id":1099657,
         "wd:id":"Q7286797",
         "wk:page":"Rakszawa"
     },
+    "wof:coterminous":[
+        1125295001
+    ],
     "wof:country":"PL",
     "wof:geomhash":"dfa3714dc8494d03815f6aaf49234b73",
     "wof:hierarchy":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":101822457,
-    "wof:lastmodified":1568243876,
+    "wof:lastmodified":1570128026,
     "wof:name":"Rakszawa",
     "wof:parent_id":1125295001,
     "wof:placetype":"locality",

@@ -79,7 +79,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":886,
@@ -94,10 +96,14 @@
     "wof:concordances":{
         "gn:id":774776,
         "gp:id":12617356,
+        "pl-gugik:jpt_kod_je":"181703_2",
         "qs_pg:id":23989,
         "wd:id":"Q2664126",
         "wk:page":"Bukowsko"
     },
+    "wof:coterminous":[
+        1125288797
+    ],
     "wof:country":"PL",
     "wof:geomhash":"4ce006204edaf9c9a9690cae9964fb22",
     "wof:hierarchy":[
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":101827333,
-    "wof:lastmodified":1568243133,
+    "wof:lastmodified":1570128031,
     "wof:name":"Bukowsko",
     "wof:parent_id":1125288797,
     "wof:placetype":"locality",

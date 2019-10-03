@@ -92,7 +92,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -108,10 +109,14 @@
     "wof:concordances":{
         "gn:id":3084859,
         "gp:id":519860,
+        "pl-gugik:jpt_kod_je":"220908_2",
         "qs_pg:id":1012921,
         "wd:id":"Q551194",
         "wk:page":"Gmina Stare Pole"
     },
+    "wof:coterminous":[
+        1125315299
+    ],
     "wof:country":"PL",
     "wof:geomhash":"cb7f362d126d4b6e4fe213feed1a1af7",
     "wof:hierarchy":[
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":101817681,
-    "wof:lastmodified":1568245448,
+    "wof:lastmodified":1570128046,
     "wof:name":"Stare Pole",
     "wof:parent_id":1125315299,
     "wof:placetype":"locality",

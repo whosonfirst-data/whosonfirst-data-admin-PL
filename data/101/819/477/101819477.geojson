@@ -94,7 +94,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":169,
@@ -109,10 +111,14 @@
     "wof:concordances":{
         "gn:id":3099192,
         "gp:id":12617339,
+        "pl-gugik:jpt_kod_je":"221204_2",
         "qs_pg:id":1001829,
         "wd:id":"Q551443",
         "wk:page":"Gmina G\u0142\u00f3wczyce"
     },
+    "wof:coterminous":[
+        1125376943
+    ],
     "wof:country":"PL",
     "wof:geomhash":"dfc36f6ef260a00c68c083c0324431e6",
     "wof:hierarchy":[
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":101819477,
-    "wof:lastmodified":1568248585,
+    "wof:lastmodified":1570128069,
     "wof:name":"G\u0142\u00f3wczyce",
     "wof:parent_id":1125376943,
     "wof:placetype":"locality",

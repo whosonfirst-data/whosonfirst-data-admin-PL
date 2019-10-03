@@ -67,7 +67,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
@@ -82,10 +84,14 @@
     "wof:concordances":{
         "gn:id":3084071,
         "gp:id":12618632,
+        "pl-gugik:jpt_kod_je":"301305_2",
         "qs_pg:id":1024319,
         "wd:id":"Q387686",
         "wk:page":"\u015awi\u0119ciechowa"
     },
+    "wof:coterminous":[
+        1125399215
+    ],
     "wof:country":"PL",
     "wof:geomhash":"88ae2242a88e1c1bdf67c31cd5650d43",
     "wof:hierarchy":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101821547,
-    "wof:lastmodified":1568249466,
+    "wof:lastmodified":1570128065,
     "wof:name":"\u015awi\u0119ciechowa",
     "wof:parent_id":1125399215,
     "wof:placetype":"locality",

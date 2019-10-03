@@ -49,7 +49,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":93,
@@ -64,9 +66,13 @@
     "wof:concordances":{
         "gn:id":3088506,
         "gp:id":513440,
+        "pl-gugik:jpt_kod_je":"300206_2",
         "qs_pg:id":1216494,
         "wd:id":"Q7237115"
     },
+    "wof:coterminous":[
+        1125375681
+    ],
     "wof:country":"PL",
     "wof:geomhash":"b456f4a36565f60dc6b7cc627455cc93",
     "wof:hierarchy":[
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":101820511,
-    "wof:lastmodified":1568238686,
+    "wof:lastmodified":1570128039,
     "wof:name":"Po\u0142ajewo",
     "wof:parent_id":1125375681,
     "wof:placetype":"locality",

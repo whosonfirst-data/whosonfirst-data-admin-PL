@@ -88,7 +88,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":116,
@@ -103,10 +105,14 @@
     "wof:concordances":{
         "gn:id":3098394,
         "gp:id":12617595,
+        "pl-gugik:jpt_kod_je":"300501_2",
         "qs_pg:id":1019638,
         "wd:id":"Q556768",
         "wk:page":"Gmina Granowo"
     },
+    "wof:coterminous":[
+        1125394657
+    ],
     "wof:country":"PL",
     "wof:geomhash":"4209be2bd77968a4b3e07cf2bf50b75e",
     "wof:hierarchy":[
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":101820151,
-    "wof:lastmodified":1568249280,
+    "wof:lastmodified":1570128036,
     "wof:name":"Granowo",
     "wof:parent_id":1125394657,
     "wof:placetype":"locality",
@@ -128,7 +134,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343491995
+    ],
     "wof:tags":[]
 },
   "bbox": [

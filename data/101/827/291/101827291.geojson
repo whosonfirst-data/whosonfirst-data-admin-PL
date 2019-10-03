@@ -265,7 +265,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":32,
@@ -280,9 +282,13 @@
     "wof:concordances":{
         "gn:id":766877,
         "gp:id":12617687,
+        "pl-gugik:jpt_kod_je":"121009_2",
         "qs_pg:id":1172335,
         "wd:id":"Q353549"
     },
+    "wof:coterminous":[
+        1125364619
+    ],
     "wof:country":"PL",
     "wof:geomhash":"31cbaac019bbf63b6dcef00f6f2ef774",
     "wof:hierarchy":[
@@ -296,7 +302,7 @@
         }
     ],
     "wof:id":101827291,
-    "wof:lastmodified":1568247678,
+    "wof:lastmodified":1570128034,
     "wof:name":"\u0141\u0105cko",
     "wof:parent_id":1125364619,
     "wof:placetype":"locality",

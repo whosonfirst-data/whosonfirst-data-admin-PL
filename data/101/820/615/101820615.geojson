@@ -74,7 +74,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
@@ -89,10 +91,14 @@
     "wof:concordances":{
         "gn:id":3098629,
         "gp:id":12617088,
+        "pl-gugik:jpt_kod_je":"041602_2",
         "qs_pg:id":1148865,
         "wd:id":"Q984990",
         "wk:page":"Gostycyn"
     },
+    "wof:coterminous":[
+        1125350401
+    ],
     "wof:country":"PL",
     "wof:geomhash":"0aa150b0c7f5f67a577ab457efdcebf7",
     "wof:hierarchy":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":101820615,
-    "wof:lastmodified":1568246777,
+    "wof:lastmodified":1570128041,
     "wof:name":"Gostycyn",
     "wof:parent_id":1125350401,
     "wof:placetype":"locality",

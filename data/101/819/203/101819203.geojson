@@ -58,7 +58,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":144,
@@ -73,10 +75,14 @@
     "wof:concordances":{
         "gn:id":3093298,
         "gp:id":12618230,
+        "pl-gugik:jpt_kod_je":"303104_2",
         "qs_pg:id":1172337,
         "wd:id":"Q18180404",
         "wk:page":"Lipka, Z\u0142ot\u00f3w County"
     },
+    "wof:coterminous":[
+        1125364637
+    ],
     "wof:country":"PL",
     "wof:geomhash":"b93b11afbc0cf9e1c202a46c63529bbe",
     "wof:hierarchy":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":101819203,
-    "wof:lastmodified":1568247700,
+    "wof:lastmodified":1570128071,
     "wof:name":"Lipka",
     "wof:parent_id":1125364637,
     "wof:placetype":"locality",

@@ -76,7 +76,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":269,
@@ -91,9 +93,13 @@
     "wof:concordances":{
         "gn:id":771687,
         "gp:id":12617313,
+        "pl-gugik:jpt_kod_je":"260502_2",
         "qs_pg:id":23977,
         "wd:id":"Q2599348"
     },
+    "wof:coterminous":[
+        1125288687
+    ],
     "wof:country":"PL",
     "wof:geomhash":"efc2347c4df2bef9e01559bf7f99d3b2",
     "wof:hierarchy":[
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":101822615,
-    "wof:lastmodified":1568243045,
+    "wof:lastmodified":1570128023,
     "wof:name":"Gowarcz\u00f3w",
     "wof:parent_id":1125288687,
     "wof:placetype":"locality",

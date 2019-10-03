@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +30,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mak\u00f3w"
@@ -73,14 +74,16 @@
         }
     ],
     "wof:id":1243294583,
-    "wof:lastmodified":1568252507,
+    "wof:lastmodified":1569022171,
     "wof:name":"Makow",
     "wof:parent_id":1477752197,
     "wof:placetype":"locality",
     "wof:population":1600,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101820187
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

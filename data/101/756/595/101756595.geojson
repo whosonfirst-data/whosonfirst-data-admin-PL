@@ -68,7 +68,8 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -84,12 +85,16 @@
     "wof:concordances":{
         "gn:id":3086754,
         "gp:id":516532,
+        "pl-gugik:jpt_kod_je":"160806_2",
         "qs_pg:id":306317,
         "wd:id":"Q1168768"
     },
     "wof:concordances_alt":{
         "qs_pg:id":306319
     },
+    "wof:coterminous":[
+        1477751399
+    ],
     "wof:country":"PL",
     "wof:geomhash":"ab51df210f213edb57eccaf81622fc7e",
     "wof:hierarchy":[
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":101756595,
-    "wof:lastmodified":1568252437,
+    "wof:lastmodified":1570128036,
     "wof:name":"Rudniki",
     "wof:parent_id":1477752169,
     "wof:placetype":"locality",
@@ -111,7 +116,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126049987
+    ],
     "wof:tags":[]
 },
   "bbox": [

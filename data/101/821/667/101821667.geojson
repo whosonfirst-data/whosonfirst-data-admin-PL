@@ -15,7 +15,7 @@
     "lbl:longitude":20.696543,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":51.780596,
+    "mps:latitude":51.780595,
     "mps:longitude":20.696543,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -89,7 +89,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -105,10 +106,14 @@
     "wof:concordances":{
         "gn:id":775860,
         "gp:id":486578,
+        "pl-gugik:jpt_kod_je":"140602_2",
         "qs_pg:id":293959,
         "wd:id":"Q531545",
         "wk:page":"Gmina B\u0142\u0119d\u00f3w"
     },
+    "wof:coterminous":[
+        1477751387
+    ],
     "wof:country":"PL",
     "wof:geomhash":"ff3ae97524e7105d2aa9052b3c03e6e6",
     "wof:hierarchy":[
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101821667,
-    "wof:lastmodified":1568250661,
+    "wof:lastmodified":1570128057,
     "wof:name":"B\u0142\u0119d\u00f3w",
     "wof:parent_id":1477751387,
     "wof:placetype":"locality",

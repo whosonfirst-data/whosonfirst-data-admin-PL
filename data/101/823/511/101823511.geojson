@@ -239,7 +239,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -255,9 +256,13 @@
     "wof:concordances":{
         "gn:id":3096002,
         "gp:id":499655,
+        "pl-gugik:jpt_kod_je":"121204_2",
         "qs_pg:id":387914,
         "wd:id":"Q1216028"
     },
+    "wof:coterminous":[
+        1125411577
+    ],
     "wof:country":"PL",
     "wof:geomhash":"d3aee26b89a29a85fa30af07ccaf1fae",
     "wof:hierarchy":[
@@ -271,7 +276,7 @@
         }
     ],
     "wof:id":101823511,
-    "wof:lastmodified":1568249812,
+    "wof:lastmodified":1570128055,
     "wof:name":"Klucze",
     "wof:parent_id":1125411577,
     "wof:placetype":"locality",

@@ -85,7 +85,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":143,
@@ -100,10 +102,14 @@
     "wof:concordances":{
         "gn:id":3089332,
         "gp:id":12618437,
+        "pl-gugik:jpt_kod_je":"160304_2",
         "qs_pg:id":24214,
         "wd:id":"Q2529082",
         "wk:page":"Gmina Paw\u0142owiczki"
     },
+    "wof:coterminous":[
+        1125324403
+    ],
     "wof:country":"PL",
     "wof:geomhash":"ade6f0ee5a634fbac13bbfde2938e99f",
     "wof:hierarchy":[
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":101824851,
-    "wof:lastmodified":1568246023,
+    "wof:lastmodified":1570128065,
     "wof:name":"Paw\u0142owiczki",
     "wof:parent_id":1125324403,
     "wof:placetype":"locality",

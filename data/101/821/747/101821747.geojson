@@ -73,7 +73,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
@@ -88,10 +90,14 @@
     "wof:concordances":{
         "gn:id":764486,
         "gp:id":12617142,
+        "pl-gugik:jpt_kod_je":"142604_2",
         "qs_pg:id":1172321,
         "wd:id":"Q2408688",
         "wk:page":"Mokobody"
     },
+    "wof:coterminous":[
+        1125364601
+    ],
     "wof:country":"PL",
     "wof:geomhash":"a412036f56dcc9732ddf2c0e9845c3b2",
     "wof:hierarchy":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":101821747,
-    "wof:lastmodified":1568247674,
+    "wof:lastmodified":1570128059,
     "wof:name":"Mokobody",
     "wof:parent_id":1125364601,
     "wof:placetype":"locality",

@@ -79,7 +79,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":267,
@@ -94,10 +96,14 @@
     "wof:concordances":{
         "gn:id":756819,
         "gp:id":12617705,
+        "pl-gugik:jpt_kod_je":"061705_2",
         "qs_pg:id":528091,
         "wd:id":"Q153096",
         "wk:page":"Trawniki"
     },
+    "wof:coterminous":[
+        1125328535
+    ],
     "wof:country":"PL",
     "wof:geomhash":"cda68b5dc35870214a95321e1685d2e0",
     "wof:hierarchy":[
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":101822641,
-    "wof:lastmodified":1568246385,
+    "wof:lastmodified":1570128023,
     "wof:name":"Trawniki",
     "wof:parent_id":1125328535,
     "wof:placetype":"locality",

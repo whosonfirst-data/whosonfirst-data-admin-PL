@@ -15,7 +15,7 @@
     "lbl:longitude":18.400068,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
-    "mps:latitude":53.849509,
+    "mps:latitude":53.849508,
     "mps:longitude":18.400068,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -75,7 +75,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -91,10 +92,14 @@
     "wof:concordances":{
         "gn:id":3092988,
         "gp:id":505385,
+        "pl-gugik:jpt_kod_je":"221306_2",
         "qs_pg:id":1215676,
         "wd:id":"Q1026211",
         "wk:page":"Lubichowo"
     },
+    "wof:coterminous":[
+        1477752419
+    ],
     "wof:country":"PL",
     "wof:geomhash":"72f9bb3709b80bde48095ddb4fca7758",
     "wof:hierarchy":[
@@ -108,7 +113,7 @@
         }
     ],
     "wof:id":101817611,
-    "wof:lastmodified":1568252923,
+    "wof:lastmodified":1570128047,
     "wof:name":"Lubichowo",
     "wof:parent_id":1477752419,
     "wof:placetype":"locality",

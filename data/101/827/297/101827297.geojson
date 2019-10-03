@@ -77,7 +77,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -93,10 +94,14 @@
     "wof:concordances":{
         "gn:id":768081,
         "gp:id":501369,
+        "pl-gugik:jpt_kod_je":"121006_2",
         "qs_pg:id":925806,
         "wd:id":"Q1950743",
         "wk:page":"Korzenna"
     },
+    "wof:coterminous":[
+        1477752881
+    ],
     "wof:country":"PL",
     "wof:geomhash":"a2c1194bd02ea41f1cc000073529819c",
     "wof:hierarchy":[
@@ -110,7 +115,7 @@
         }
     ],
     "wof:id":101827297,
-    "wof:lastmodified":1568253944,
+    "wof:lastmodified":1570128034,
     "wof:name":"Korzenna",
     "wof:parent_id":1477752881,
     "wof:placetype":"locality",

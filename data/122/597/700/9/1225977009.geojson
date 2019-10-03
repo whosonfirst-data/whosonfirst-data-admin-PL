@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +30,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Biskupice Rad\u0142owskie"
@@ -73,14 +74,16 @@
         }
     ],
     "wof:id":1225977009,
-    "wof:lastmodified":1568255985,
+    "wof:lastmodified":1569885112,
     "wof:name":"Biskupice Radlowskie",
     "wof:parent_id":1125303967,
     "wof:placetype":"locality",
     "wof:population":1091,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495006607
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

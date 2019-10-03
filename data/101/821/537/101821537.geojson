@@ -16,7 +16,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mps:latitude":51.417471,
-    "mps:longitude":18.417161,
+    "mps:longitude":18.41716,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -94,7 +94,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":109,
@@ -109,10 +111,14 @@
     "wof:concordances":{
         "gn:id":3096039,
         "gp:id":12618546,
+        "pl-gugik:jpt_kod_je":"101407_2",
         "qs_pg:id":932289,
         "wd:id":"Q679262",
         "wk:page":"Gmina Klonowa"
     },
+    "wof:coterminous":[
+        1125279771
+    ],
     "wof:country":"PL",
     "wof:geomhash":"0379a1638912602256eb5afe03e4bb32",
     "wof:hierarchy":[
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":101821537,
-    "wof:lastmodified":1568242556,
+    "wof:lastmodified":1570128060,
     "wof:name":"Klonowa",
     "wof:parent_id":1125279771,
     "wof:placetype":"locality",
@@ -134,7 +140,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193165011
+    ],
     "wof:tags":[]
 },
   "bbox": [

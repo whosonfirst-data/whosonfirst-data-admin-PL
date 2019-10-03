@@ -91,7 +91,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":134,
@@ -106,10 +108,14 @@
     "wof:concordances":{
         "gn:id":759779,
         "gp:id":12617274,
+        "pl-gugik:jpt_kod_je":"101608_2",
         "qs_pg:id":23972,
         "wd:id":"Q2459493",
         "wk:page":"Gmina Rzeczyca"
     },
+    "wof:coterminous":[
+        1125324195
+    ],
     "wof:country":"PL",
     "wof:geomhash":"e6dcb52bafc1e9bf70945eeca00966d1",
     "wof:hierarchy":[
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":101821583,
-    "wof:lastmodified":1568245844,
+    "wof:lastmodified":1570128066,
     "wof:name":"Rzeczyca",
     "wof:parent_id":1125324195,
     "wof:placetype":"locality",

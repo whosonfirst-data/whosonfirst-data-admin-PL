@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.760388,
-    "mps:longitude":20.450117,
+    "mps:longitude":20.450116,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -89,7 +89,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -105,10 +106,14 @@
     "wof:concordances":{
         "gn:id":766734,
         "gp:id":503840,
+        "pl-gugik:jpt_kod_je":"120706_2",
         "qs_pg:id":260828,
         "wd:id":"Q2049768",
         "wk:page":"Gmina Laskowa"
     },
+    "wof:coterminous":[
+        1477751981
+    ],
     "wof:country":"PL",
     "wof:geomhash":"5cfe72295d556580d3831dab1a2c159a",
     "wof:hierarchy":[
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101827281,
-    "wof:lastmodified":1568252012,
+    "wof:lastmodified":1570128029,
     "wof:name":"Laskowa",
     "wof:parent_id":1477751981,
     "wof:placetype":"locality",

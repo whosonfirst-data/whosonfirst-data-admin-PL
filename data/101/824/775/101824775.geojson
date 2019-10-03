@@ -65,7 +65,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -81,10 +82,14 @@
     "wof:concordances":{
         "gn:id":3088493,
         "gp:id":513457,
+        "pl-gugik:jpt_kod_je":"121307_2",
         "qs_pg:id":1301640,
         "wd:id":"Q7208969",
         "wk:page":"Polanka Wielka"
     },
+    "wof:coterminous":[
+        1125372665
+    ],
     "wof:country":"PL",
     "wof:geomhash":"122c677467754ecbf1713c1cb0377c18",
     "wof:hierarchy":[
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":101824775,
-    "wof:lastmodified":1568248189,
+    "wof:lastmodified":1570128070,
     "wof:name":"Polanka Wielka",
     "wof:parent_id":1125372665,
     "wof:placetype":"locality",

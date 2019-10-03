@@ -67,7 +67,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":75,
@@ -82,10 +84,14 @@
     "wof:concordances":{
         "gn:id":765981,
         "gp:id":12616886,
+        "pl-gugik:jpt_kod_je":"260408_2",
         "qs_pg:id":1015817,
         "wd:id":"Q2475995",
         "wk:page":"\u0141opuszno"
     },
+    "wof:coterminous":[
+        1125385737
+    ],
     "wof:country":"PL",
     "wof:geomhash":"80f64a89c240dce84ee1b09376cc85c5",
     "wof:hierarchy":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101822537,
-    "wof:lastmodified":1568248939,
+    "wof:lastmodified":1570128019,
     "wof:name":"\u0141opuszno",
     "wof:parent_id":1125385737,
     "wof:placetype":"locality",

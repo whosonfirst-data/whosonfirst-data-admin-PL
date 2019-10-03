@@ -72,7 +72,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":982,
     "wof:belongsto":[
@@ -86,10 +88,14 @@
     "wof:concordances":{
         "gn:id":3094359,
         "gp:id":502980,
+        "pl-gugik:jpt_kod_je":"041703_2",
         "qs_pg:id":5,
         "wd:id":"Q472265",
         "wk:page":"Ksi\u0105\u017cki"
     },
+    "wof:coterminous":[
+        1477751747
+    ],
     "wof:country":"PL",
     "wof:geomhash":"1e0df2d487ea3b8bab67cb820e0d86af",
     "wof:hierarchy":[
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":101819175,
-    "wof:lastmodified":1568251491,
+    "wof:lastmodified":1570128073,
     "wof:name":"Ksi\u0105\u017cki",
     "wof:parent_id":1477751747,
     "wof:placetype":"locality",

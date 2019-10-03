@@ -73,7 +73,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":122,
@@ -88,10 +90,14 @@
     "wof:concordances":{
         "gn:id":3100465,
         "gp:id":12617910,
+        "pl-gugik:jpt_kod_je":"080103_2",
         "qs_pg:id":332051,
         "wd:id":"Q617056",
         "wk:page":"Deszczno"
     },
+    "wof:coterminous":[
+        1125370985
+    ],
     "wof:country":"PL",
     "wof:geomhash":"63278099f90a6235d81afe0ddf602b33",
     "wof:hierarchy":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":101820421,
-    "wof:lastmodified":1568248107,
+    "wof:lastmodified":1570128041,
     "wof:name":"Deszczno",
     "wof:parent_id":1125370985,
     "wof:placetype":"locality",

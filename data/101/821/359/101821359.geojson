@@ -16,7 +16,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":51.626172,
-    "mps:longitude":17.354781,
+    "mps:longitude":17.35478,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -89,7 +89,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -105,10 +106,14 @@
     "wof:concordances":{
         "gn:id":3101330,
         "gp:id":490001,
+        "pl-gugik:jpt_kod_je":"021301_2",
         "qs_pg:id":1010704,
         "wd:id":"Q2467166",
         "wk:page":"Gmina Cieszk\u00f3w"
     },
+    "wof:coterminous":[
+        1477752641
+    ],
     "wof:country":"PL",
     "wof:geomhash":"0b700615323e1b6cf9c49c3bad30c12f",
     "wof:hierarchy":[
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101821359,
-    "wof:lastmodified":1568253445,
+    "wof:lastmodified":1570128060,
     "wof:name":"Cieszk\u00f3w",
     "wof:parent_id":1477752641,
     "wof:placetype":"locality",

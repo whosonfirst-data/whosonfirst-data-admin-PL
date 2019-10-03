@@ -94,7 +94,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":133,
@@ -109,10 +111,14 @@
     "wof:concordances":{
         "gn:id":3086654,
         "gp:id":12616866,
+        "pl-gugik:jpt_kod_je":"100106_2",
         "qs_pg:id":954925,
         "wd:id":"Q613697",
         "wk:page":"Gmina Rusiec"
     },
+    "wof:coterminous":[
+        1125363485
+    ],
     "wof:country":"PL",
     "wof:geomhash":"1fa8181bf99884775b80d4c7ba755a8f",
     "wof:hierarchy":[
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":101821391,
-    "wof:lastmodified":1568247542,
+    "wof:lastmodified":1570128052,
     "wof:name":"Rusiec",
     "wof:parent_id":1125363485,
     "wof:placetype":"locality",

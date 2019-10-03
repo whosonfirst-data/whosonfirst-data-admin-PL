@@ -82,7 +82,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":187,
@@ -97,10 +99,14 @@
     "wof:concordances":{
         "gn:id":3095961,
         "gp:id":12617118,
+        "pl-gugik:jpt_kod_je":"022305_2",
         "qs_pg:id":331967,
         "wd:id":"Q983733",
         "wk:page":"Kobierzyce"
     },
+    "wof:coterminous":[
+        1125370893
+    ],
     "wof:country":"PL",
     "wof:geomhash":"b2e0eee3615985957807132300fa76a2",
     "wof:hierarchy":[
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":101822835,
-    "wof:lastmodified":1568248024,
+    "wof:lastmodified":1570128016,
     "wof:name":"Kobierzyce",
     "wof:parent_id":1125370893,
     "wof:placetype":"locality",

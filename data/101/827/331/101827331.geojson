@@ -61,7 +61,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
@@ -76,9 +78,13 @@
     "wof:concordances":{
         "gn:id":753776,
         "gp:id":12617308,
+        "pl-gugik:jpt_kod_je":"181708_2",
         "qs_pg:id":23969,
         "wd:id":"Q5192076"
     },
+    "wof:coterminous":[
+        1125324183
+    ],
     "wof:country":"PL",
     "wof:geomhash":"6c1122e8185d1764f9d8558f75986b71",
     "wof:hierarchy":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":101827331,
-    "wof:lastmodified":1568245830,
+    "wof:lastmodified":1570128026,
     "wof:name":"Zarszyn",
     "wof:parent_id":1125324183,
     "wof:placetype":"locality",

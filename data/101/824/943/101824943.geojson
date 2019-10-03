@@ -15,7 +15,7 @@
     "lbl:longitude":18.004541,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
-    "mps:latitude":50.372154,
+    "mps:latitude":50.372153,
     "mps:longitude":18.004541,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -91,7 +91,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":173,
@@ -106,10 +108,14 @@
     "wof:concordances":{
         "gn:id":3082705,
         "gp:id":12618130,
+        "pl-gugik:jpt_kod_je":"160504_2",
         "qs_pg:id":998981,
         "wd:id":"Q2605858",
         "wk:page":"Gmina Walce"
     },
+    "wof:coterminous":[
+        1125375713
+    ],
     "wof:country":"PL",
     "wof:geomhash":"71533dbcc3aa66a44e64cc897f8c01cf",
     "wof:hierarchy":[
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":101824943,
-    "wof:lastmodified":1568248498,
+    "wof:lastmodified":1570128070,
     "wof:name":"Walce",
     "wof:parent_id":1125375713,
     "wof:placetype":"locality",

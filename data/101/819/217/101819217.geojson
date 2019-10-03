@@ -15,8 +15,8 @@
     "lbl:longitude":19.929165,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
-    "mps:latitude":53.382374,
-    "mps:longitude":19.929165,
+    "mps:latitude":53.382373,
+    "mps:longitude":19.929164,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -95,7 +95,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -111,6 +112,7 @@
     "wof:concordances":{
         "gn:id":759892,
         "gp:id":516819,
+        "pl-gugik:jpt_kod_je":"280306_2",
         "qs_pg:id":216194,
         "wd:id":"Q339507",
         "wk:page":"Gmina Rybno, Warmian-Masurian Voivodeship"
@@ -118,6 +120,9 @@
     "wof:concordances_alt":{
         "qs_pg:id":1216847
     },
+    "wof:coterminous":[
+        1477752927
+    ],
     "wof:country":"PL",
     "wof:geomhash":"f10acf52e6ef3031b106b41e3359162b",
     "wof:hierarchy":[
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":101819217,
-    "wof:lastmodified":1568254054,
+    "wof:lastmodified":1570128070,
     "wof:name":"Rybno",
     "wof:parent_id":1477752927,
     "wof:placetype":"locality",
@@ -139,7 +144,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209548109
+    ],
     "wof:tags":[]
 },
   "bbox": [

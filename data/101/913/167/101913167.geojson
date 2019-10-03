@@ -80,7 +80,8 @@
     "qs:type":"rural hamlet many local_admin match geoplanet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -96,10 +97,14 @@
     "wof:concordances":{
         "gn:id":758603,
         "gp:id":519309,
+        "pl-gugik:jpt_kod_je":"260105_2",
         "qs_pg:id":1060319,
         "wd:id":"Q986121",
         "wk:page":"Solec-Zdr\u00f3j"
     },
+    "wof:coterminous":[
+        1125306211
+    ],
     "wof:country":"PL",
     "wof:geomhash":"d781e8ccc9cc9de288ad250b1ef919c1",
     "wof:hierarchy":[
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":101913167,
-    "wof:lastmodified":1568244969,
+    "wof:lastmodified":1570128030,
     "wof:name":"Solec-Zdr\u00f3j",
     "wof:parent_id":1125306211,
     "wof:placetype":"locality",

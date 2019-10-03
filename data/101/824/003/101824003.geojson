@@ -91,7 +91,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":113,
@@ -106,10 +108,14 @@
     "wof:concordances":{
         "gn:id":771876,
         "gp:id":12616566,
+        "pl-gugik:jpt_kod_je":"060206_2",
         "qs_pg:id":987526,
         "wd:id":"Q2461391",
         "wk:page":"Gmina Goraj"
     },
+    "wof:coterminous":[
+        1125372707
+    ],
     "wof:country":"PL",
     "wof:geomhash":"a8fb43f9499a0ed67a3cae214e3204bb",
     "wof:hierarchy":[
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":101824003,
-    "wof:lastmodified":1568248191,
+    "wof:lastmodified":1570128068,
     "wof:name":"Goraj",
     "wof:parent_id":1125372707,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Gmina Kolno"
     ],
+    "name:pol_x_preferred":[
+        "Kolno"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u044c\u043d\u043e"
     ],
@@ -57,6 +60,9 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":24941557,
     "src:geom":"qs_pg",
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
@@ -74,8 +80,12 @@
     "wof:concordances":{
         "gn:id":768784,
         "gp:id":24941557,
+        "pl-gugik:jpt_kod_je":"281408_2",
         "qs_pg:id":509836
     },
+    "wof:coterminous":[
+        1477751455
+    ],
     "wof:country":"PL",
     "wof:created":1497298043,
     "wof:geomhash":"e59d277601b8ee417bddca00812afc1b",
@@ -90,7 +100,7 @@
         }
     ],
     "wof:id":1125967835,
-    "wof:lastmodified":1568250799,
+    "wof:lastmodified":1570037988,
     "wof:name":"Solno",
     "wof:parent_id":1477751455,
     "wof:placetype":"locality",

@@ -59,6 +59,9 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":502264,
     "src:geom":"qs_pg",
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
@@ -74,8 +77,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":502264,
+        "pl-gugik:jpt_kod_je":"180506_2",
         "qs_pg:id":1326887
     },
+    "wof:coterminous":[
+        1125342431
+    ],
     "wof:country":"PL",
     "wof:created":1497301000,
     "wof:geomhash":"08f935569004ca4565e84c37403de312",
@@ -90,7 +97,7 @@
         }
     ],
     "wof:id":1126023803,
-    "wof:lastmodified":1568246633,
+    "wof:lastmodified":1570036898,
     "wof:name":"Krempna",
     "wof:parent_id":1125342431,
     "wof:placetype":"locality",

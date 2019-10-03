@@ -70,7 +70,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":109,
@@ -85,10 +87,14 @@
     "wof:concordances":{
         "gn:id":3085757,
         "gp:id":12618185,
+        "pl-gugik:jpt_kod_je":"160709_2",
         "qs_pg:id":1180710,
         "wd:id":"Q984046",
         "wk:page":"Skoroszyce"
     },
+    "wof:coterminous":[
+        1125366861
+    ],
     "wof:country":"PL",
     "wof:geomhash":"ffe5f06b5a942c6da1df78d776048428",
     "wof:hierarchy":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":101823541,
-    "wof:lastmodified":1568247900,
+    "wof:lastmodified":1570128062,
     "wof:name":"Skoroszyce",
     "wof:parent_id":1125366861,
     "wof:placetype":"locality",

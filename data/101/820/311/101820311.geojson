@@ -62,7 +62,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":97,
@@ -77,10 +79,14 @@
     "wof:concordances":{
         "gn:id":3087769,
         "gp:id":12618377,
+        "pl-gugik:jpt_kod_je":"080303_2",
         "qs_pg:id":213601,
         "wd:id":"Q1003300",
         "wk:page":"Przytoczna"
     },
+    "wof:coterminous":[
+        1125319965
+    ],
     "wof:country":"PL",
     "wof:geomhash":"57d6e720c50a76596f43ad52f1c7e620",
     "wof:hierarchy":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101820311,
-    "wof:lastmodified":1568245672,
+    "wof:lastmodified":1570128043,
     "wof:name":"Przytoczna",
     "wof:parent_id":1125319965,
     "wof:placetype":"locality",

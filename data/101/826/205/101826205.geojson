@@ -15,7 +15,7 @@
     "lbl:longitude":18.090903,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
-    "mps:latitude":50.083005,
+    "mps:latitude":50.083004,
     "mps:longitude":18.090903,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -68,7 +68,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.083333,
@@ -85,10 +87,14 @@
     "wof:concordances":{
         "gn:id":3089057,
         "gp:id":12618500,
+        "pl-gugik:jpt_kod_je":"241107_2",
         "qs_pg:id":24225,
         "wd:id":"Q1019816",
         "wk:page":"Pietrowice Wielkie"
     },
+    "wof:coterminous":[
+        1125289267
+    ],
     "wof:country":"PL",
     "wof:geomhash":"42b0c2e8096117439ffdb6e7365fe348",
     "wof:hierarchy":[
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":101826205,
-    "wof:lastmodified":1568243542,
+    "wof:lastmodified":1570128022,
     "wof:name":"Pietrowice Wielkie",
     "wof:parent_id":1125289267,
     "wof:placetype":"locality",

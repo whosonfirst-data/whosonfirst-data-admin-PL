@@ -15,7 +15,7 @@
     "lbl:longitude":17.356516,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":51.477288,
+    "mps:latitude":51.477287,
     "mps:longitude":17.356516,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -92,7 +92,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -108,10 +109,14 @@
     "wof:concordances":{
         "gn:id":3094639,
         "gp:id":502430,
+        "pl-gugik:jpt_kod_je":"021302_2",
         "qs_pg:id":925836,
         "wd:id":"Q2325935",
         "wk:page":"Gmina Kro\u015bnice"
     },
+    "wof:coterminous":[
+        1477752643
+    ],
     "wof:country":"PL",
     "wof:geomhash":"71bae3be9dd9e2cfbfa91d2e56f9c829",
     "wof:hierarchy":[
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":101821363,
-    "wof:lastmodified":1568253454,
+    "wof:lastmodified":1570128054,
     "wof:name":"Kro\u015bnice",
     "wof:parent_id":1477752643,
     "wof:placetype":"locality",

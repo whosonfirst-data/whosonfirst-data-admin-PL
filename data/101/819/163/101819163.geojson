@@ -68,7 +68,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -84,9 +85,13 @@
     "wof:concordances":{
         "gn:id":3089881,
         "gp:id":510924,
+        "pl-gugik:jpt_kod_je":"040306_2",
         "qs_pg:id":1222652,
         "wd:id":"Q949188"
     },
+    "wof:coterminous":[
+        1477751583
+    ],
     "wof:country":"PL",
     "wof:geomhash":"c2f1740e20982d419b0a6cba861467bf",
     "wof:hierarchy":[
@@ -100,7 +105,7 @@
         }
     ],
     "wof:id":101819163,
-    "wof:lastmodified":1568251136,
+    "wof:lastmodified":1570128075,
     "wof:name":"Osielsko",
     "wof:parent_id":1477751583,
     "wof:placetype":"locality",

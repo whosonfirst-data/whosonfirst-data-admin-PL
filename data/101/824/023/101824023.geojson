@@ -15,7 +15,7 @@
     "lbl:longitude":24.035582,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":50.585115,
+    "mps:latitude":50.585114,
     "mps:longitude":24.035582,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -71,7 +71,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -87,10 +88,14 @@
     "wof:concordances":{
         "gn:id":773078,
         "gp:id":491931,
+        "pl-gugik:jpt_kod_je":"060402_2",
         "qs_pg:id":296212,
         "wd:id":"Q656888",
         "wk:page":"Do\u0142hobycz\u00f3w"
     },
+    "wof:coterminous":[
+        1477752709
+    ],
     "wof:country":"PL",
     "wof:geomhash":"2cada2840631afe43d8c4a8acdbd784d",
     "wof:hierarchy":[
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":101824023,
-    "wof:lastmodified":1568253611,
+    "wof:lastmodified":1570128064,
     "wof:name":"Do\u0142hobycz\u00f3w",
     "wof:parent_id":1477752709,
     "wof:placetype":"locality",

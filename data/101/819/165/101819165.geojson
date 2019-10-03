@@ -15,8 +15,8 @@
     "lbl:longitude":18.299813,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":53.176374,
-    "mps:longitude":18.299813,
+    "mps:latitude":53.176375,
+    "mps:longitude":18.299812,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -77,7 +77,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -93,10 +94,14 @@
     "wof:concordances":{
         "gn:id":3100802,
         "gp:id":490949,
+        "pl-gugik:jpt_kod_je":"040302_2",
         "qs_pg:id":1010732,
         "wd:id":"Q370683",
         "wk:page":"D\u0105browa Che\u0142mi\u0144ska"
     },
+    "wof:coterminous":[
+        1125411581
+    ],
     "wof:country":"PL",
     "wof:geomhash":"2ce38f2d41b3e81f5f7ad1bac12705e4",
     "wof:hierarchy":[
@@ -110,7 +115,7 @@
         }
     ],
     "wof:id":101819165,
-    "wof:lastmodified":1568249818,
+    "wof:lastmodified":1570128074,
     "wof:name":"D\u0105browa Che\u0142mi\u0144ska",
     "wof:parent_id":1125411581,
     "wof:placetype":"locality",

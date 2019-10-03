@@ -79,7 +79,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":89,
@@ -94,10 +96,14 @@
     "wof:concordances":{
         "gn:id":766675,
         "gp:id":12618007,
+        "pl-gugik:jpt_kod_je":"141210_2",
         "qs_pg:id":69762,
         "wd:id":"Q2347920",
         "wk:page":"Latowicz"
     },
+    "wof:coterminous":[
+        1125410775
+    ],
     "wof:country":"PL",
     "wof:geomhash":"ce6aeba57a5a9791fd04dc53e32f13cb",
     "wof:hierarchy":[
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":101821727,
-    "wof:lastmodified":1568249769,
+    "wof:lastmodified":1570128067,
     "wof:name":"Latowicz",
     "wof:parent_id":1125410775,
     "wof:placetype":"locality",

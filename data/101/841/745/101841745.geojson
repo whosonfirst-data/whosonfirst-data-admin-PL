@@ -15,7 +15,7 @@
     "lbl:longitude":18.967219,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":50.61513,
+    "mps:latitude":50.615129,
     "mps:longitude":18.967219,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -56,7 +56,8 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -72,10 +73,14 @@
     "wof:concordances":{
         "gn:id":3087742,
         "gp:id":514771,
+        "pl-gugik:jpt_kod_je":"240106_2",
         "qs_pg:id":1011376,
         "wd:id":"Q602272",
         "wk:page":"Psary, Lubliniec County"
     },
+    "wof:coterminous":[
+        1477751371
+    ],
     "wof:country":"PL",
     "wof:geomhash":"ba79427437b563fb39e59f347d9f0c6a",
     "wof:hierarchy":[
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":101841745,
-    "wof:lastmodified":1568260412,
+    "wof:lastmodified":1570128045,
     "wof:name":"Psary",
     "wof:parent_id":1477751513,
     "wof:placetype":"locality",

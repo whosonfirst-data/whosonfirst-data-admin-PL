@@ -67,7 +67,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":105,
@@ -82,10 +84,14 @@
     "wof:concordances":{
         "gn:id":3103411,
         "gp:id":12616726,
+        "pl-gugik:jpt_kod_je":"141901_2",
         "qs_pg:id":201358,
         "wd:id":"Q4904511",
         "wk:page":"Bielsk, Masovian Voivodeship"
     },
+    "wof:coterminous":[
+        1125304653
+    ],
     "wof:country":"PL",
     "wof:geomhash":"696d680dce38b19d98f9518da3cf5466",
     "wof:hierarchy":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101818983,
-    "wof:lastmodified":1568244699,
+    "wof:lastmodified":1570128025,
     "wof:name":"Bielsk",
     "wof:parent_id":1125304653,
     "wof:placetype":"locality",

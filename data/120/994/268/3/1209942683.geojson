@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Gorzyce"
@@ -44,6 +45,9 @@
         "\u0490\u043e\u0436\u0438\u0446\u0435"
     ],
     "src:geom":"geonames",
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         85687277,
@@ -55,8 +59,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3098709,
+        "pl-gugik:jpt_kod_je":"241506_2",
         "wk:page":"Gorzyce%2C_Silesian_Voivodeship"
     },
+    "wof:coterminous":[
+        1477752247
+    ],
     "wof:country":"PL",
     "wof:geomhash":"ecc9623dd8f4540a30c38e806f043a18",
     "wof:hierarchy":[
@@ -70,14 +78,16 @@
         }
     ],
     "wof:id":1209942683,
-    "wof:lastmodified":1568252577,
+    "wof:lastmodified":1569885110,
     "wof:name":"Gorzyce",
     "wof:parent_id":1477752247,
     "wof:placetype":"locality",
     "wof:population":2435,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495006439
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

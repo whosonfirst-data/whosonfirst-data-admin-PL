@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":52.633529,
-    "mps:longitude":19.990929,
+    "mps:longitude":19.990928,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -67,7 +67,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
@@ -82,10 +84,14 @@
     "wof:concordances":{
         "gn:id":3084807,
         "gp:id":12617473,
+        "pl-gugik:jpt_kod_je":"141914_2",
         "qs_pg:id":907882,
         "wd:id":"Q2287092",
         "wk:page":"Staro\u017areby"
     },
+    "wof:coterminous":[
+        1125317047
+    ],
     "wof:country":"PL",
     "wof:geomhash":"bb8e300110567cb4bf43a279568ff770",
     "wof:hierarchy":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101818985,
-    "wof:lastmodified":1568245537,
+    "wof:lastmodified":1570128025,
     "wof:name":"Staro\u017areby",
     "wof:parent_id":1125317047,
     "wof:placetype":"locality",

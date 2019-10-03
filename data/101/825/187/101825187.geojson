@@ -61,7 +61,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":103,
@@ -76,10 +78,14 @@
     "wof:concordances":{
         "gn:id":766132,
         "gp:id":12618084,
+        "pl-gugik:jpt_kod_je":"121603_2",
         "qs_pg:id":246036,
         "wd:id":"Q2084333",
         "wk:page":"Lisia G\u00f3ra, Lesser Poland Voivodeship"
     },
+    "wof:coterminous":[
+        1125414191
+    ],
     "wof:country":"PL",
     "wof:geomhash":"4960e081b43e65aaacb2e4ac757dcd86",
     "wof:hierarchy":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":101825187,
-    "wof:lastmodified":1568249881,
+    "wof:lastmodified":1570128073,
     "wof:name":"Lisia G\u00f3ra",
     "wof:parent_id":1125414191,
     "wof:placetype":"locality",

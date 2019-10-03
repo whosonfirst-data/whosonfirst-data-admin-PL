@@ -73,7 +73,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":91,
@@ -88,10 +90,14 @@
     "wof:concordances":{
         "gn:id":3098204,
         "gp:id":24547616,
+        "pl-gugik:jpt_kod_je":"040602_2",
         "qs_pg:id":962079,
         "wd:id":"Q984748",
         "wk:page":"Gruta"
     },
+    "wof:coterminous":[
+        1125367621
+    ],
     "wof:country":"PL",
     "wof:geomhash":"4e20d5e26c735c22373d1320a9214cee",
     "wof:hierarchy":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":101819253,
-    "wof:lastmodified":1568247939,
+    "wof:lastmodified":1570128077,
     "wof:name":"Gruta",
     "wof:parent_id":1125367621,
     "wof:placetype":"locality",

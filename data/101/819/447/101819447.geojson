@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":54.346856,
-    "mps:longitude":17.89224,
+    "mps:longitude":17.892241,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -89,7 +89,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -105,10 +106,14 @@
     "wof:concordances":{
         "gn:id":3085970,
         "gp:id":517972,
+        "pl-gugik:jpt_kod_je":"220504_2",
         "qs_pg:id":182222,
         "wd:id":"Q2013016",
         "wk:page":"Gmina Sierakowice"
     },
+    "wof:coterminous":[
+        1477752359
+    ],
     "wof:country":"PL",
     "wof:geomhash":"bf9127a357cec3ecac815b365925de2b",
     "wof:hierarchy":[
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101819447,
-    "wof:lastmodified":1568252834,
+    "wof:lastmodified":1570128068,
     "wof:name":"Sierakowice",
     "wof:parent_id":1477752359,
     "wof:placetype":"locality",

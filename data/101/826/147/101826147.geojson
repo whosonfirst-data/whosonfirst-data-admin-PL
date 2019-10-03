@@ -65,7 +65,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -81,9 +82,13 @@
     "wof:concordances":{
         "gn:id":769609,
         "gp:id":498441,
+        "pl-gugik:jpt_kod_je":"121005_2",
         "qs_pg:id":260815,
         "wd:id":"Q6358425"
     },
+    "wof:coterminous":[
+        1477752521
+    ],
     "wof:country":"PL",
     "wof:geomhash":"fd6922877af6be9cda3249fa5d7e3e12",
     "wof:hierarchy":[
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101826147,
-    "wof:lastmodified":1568253192,
+    "wof:lastmodified":1570128028,
     "wof:name":"Kamionka Wielka",
     "wof:parent_id":1477752521,
     "wof:placetype":"locality",

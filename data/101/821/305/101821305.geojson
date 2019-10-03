@@ -16,7 +16,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":51.34369,
-    "mps:longitude":18.255007,
+    "mps:longitude":18.255008,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -76,7 +76,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":740,
@@ -91,10 +93,14 @@
     "wof:concordances":{
         "gn:id":3099544,
         "gp:id":12617432,
+        "pl-gugik:jpt_kod_je":"101803_2",
         "qs_pg:id":998970,
         "wd:id":"Q985943",
         "wk:page":"Galewice"
     },
+    "wof:coterminous":[
+        1125375631
+    ],
     "wof:country":"PL",
     "wof:geomhash":"3509f2b59a6d4c90a437bb1f7220966c",
     "wof:hierarchy":[
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":101821305,
-    "wof:lastmodified":1568248410,
+    "wof:lastmodified":1570128061,
     "wof:name":"Galewice",
     "wof:parent_id":1125375631,
     "wof:placetype":"locality",

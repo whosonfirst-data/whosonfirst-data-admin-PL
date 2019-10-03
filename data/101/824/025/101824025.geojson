@@ -15,7 +15,7 @@
     "lbl:longitude":23.899001,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":50.650832,
+    "mps:latitude":50.650831,
     "mps:longitude":23.899001,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -65,7 +65,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -81,10 +82,14 @@
     "wof:concordances":{
         "gn:id":764670,
         "gp:id":507696,
+        "pl-gugik:jpt_kod_je":"060405_2",
         "qs_pg:id":182138,
         "wd:id":"Q1965753",
         "wk:page":"Mircze"
     },
+    "wof:coterminous":[
+        1477752115
+    ],
     "wof:country":"PL",
     "wof:geomhash":"c7cd7f14e2210da5aeddc0e1c061ef92",
     "wof:hierarchy":[
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":101824025,
-    "wof:lastmodified":1568252315,
+    "wof:lastmodified":1570128065,
     "wof:name":"Mircze",
     "wof:parent_id":1477752115,
     "wof:placetype":"locality",

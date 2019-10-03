@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":53.837879,
-    "mps:longitude":20.478275,
+    "mps:longitude":20.478276,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -80,7 +80,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -96,10 +97,14 @@
     "wof:concordances":{
         "gn:id":772768,
         "gp:id":492488,
+        "pl-gugik:jpt_kod_je":"281404_2",
         "qs_pg:id":338682,
         "wd:id":"Q984354",
         "wk:page":"Dywity"
     },
+    "wof:coterminous":[
+        1125316159
+    ],
     "wof:country":"PL",
     "wof:geomhash":"4ca240b3061d1d12b01da782d78279fc",
     "wof:hierarchy":[
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":101817689,
-    "wof:lastmodified":1568245514,
+    "wof:lastmodified":1570128047,
     "wof:name":"Dywity",
     "wof:parent_id":1125316159,
     "wof:placetype":"locality",

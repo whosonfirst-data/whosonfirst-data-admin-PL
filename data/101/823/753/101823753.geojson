@@ -78,7 +78,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -94,10 +95,14 @@
     "wof:concordances":{
         "gn:id":3084954,
         "gp:id":519711,
+        "pl-gugik:jpt_kod_je":"020609_2",
         "qs_pg:id":926258,
         "wd:id":"Q693888",
         "wk:page":"Stara Kamienica"
     },
+    "wof:coterminous":[
+        1125283461
+    ],
     "wof:country":"PL",
     "wof:geomhash":"284420b728b3b5452ae34c3fbcfe11a6",
     "wof:hierarchy":[
@@ -111,7 +116,7 @@
         }
     ],
     "wof:id":101823753,
-    "wof:lastmodified":1568230908,
+    "wof:lastmodified":1570128049,
     "wof:name":"Stara Kamienica",
     "wof:parent_id":1125283461,
     "wof:placetype":"locality",

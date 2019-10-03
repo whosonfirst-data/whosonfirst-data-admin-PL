@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mps:latitude":50.6808,
-    "mps:longitude":16.748002,
+    "mps:longitude":16.748003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -124,7 +124,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":300.0,
@@ -143,10 +145,14 @@
     "wof:concordances":{
         "gn:id":3089025,
         "gp:id":12618810,
+        "pl-gugik:jpt_kod_je":"020204_1",
         "qs_pg:id":1027301,
         "wd:id":"Q986091",
         "wk:page":"Pi\u0142awa G\u00f3rna"
     },
+    "wof:coterminous":[
+        1125401225
+    ],
     "wof:country":"PL",
     "wof:geomhash":"3eb9bc3a07f0b07af546c12adb7406cb",
     "wof:hierarchy":[
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":101823655,
-    "wof:lastmodified":1568249638,
+    "wof:lastmodified":1570128059,
     "wof:name":"Pi\u0142awa G\u00f3rna",
     "wof:parent_id":1125401225,
     "wof:placetype":"locality",

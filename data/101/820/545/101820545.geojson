@@ -98,7 +98,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -114,10 +115,14 @@
     "wof:concordances":{
         "gn:id":760084,
         "gp:id":516448,
+        "pl-gugik:jpt_kod_je":"200307_2",
         "qs_pg:id":306273,
         "wd:id":"Q615375",
         "wk:page":"Gmina Rudka"
     },
+    "wof:coterminous":[
+        1477752703
+    ],
     "wof:country":"PL",
     "wof:geomhash":"680bb7a56c14ff602e18c60838b03c2b",
     "wof:hierarchy":[
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":101820545,
-    "wof:lastmodified":1568253607,
+    "wof:lastmodified":1570128039,
     "wof:name":"Rudka",
     "wof:parent_id":1477752703,
     "wof:placetype":"locality",

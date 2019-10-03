@@ -16,7 +16,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mps:latitude":52.185445,
-    "mps:longitude":22.93809,
+    "mps:longitude":22.938089,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -82,7 +82,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":73,
@@ -97,10 +99,14 @@
     "wof:concordances":{
         "gn:id":768123,
         "gp:id":501299,
+        "pl-gugik:jpt_kod_je":"141006_2",
         "qs_pg:id":553122,
         "wd:id":"Q2792464",
         "wk:page":"Stara Kornica"
     },
+    "wof:coterminous":[
+        1477752913
+    ],
     "wof:country":"PL",
     "wof:geomhash":"5a298e03d8ad74eb2a562a284bf8cdf4",
     "wof:hierarchy":[
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":101821753,
-    "wof:lastmodified":1568254009,
+    "wof:lastmodified":1570128052,
     "wof:name":"Stara Kornica",
     "wof:parent_id":1477752913,
     "wof:placetype":"locality",

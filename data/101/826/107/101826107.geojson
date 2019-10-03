@@ -16,7 +16,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mps:latitude":49.471703,
-    "mps:longitude":19.695216,
+    "mps:longitude":19.695215,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
@@ -65,7 +65,8 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -81,12 +82,16 @@
     "wof:concordances":{
         "gn:id":770718,
         "gp:id":496378,
+        "pl-gugik:jpt_kod_je":"121105_2",
         "qs_pg:id":925706,
         "wd:id":"Q395217"
     },
     "wof:concordances_alt":{
         "qs_pg:id":1316655
     },
+    "wof:coterminous":[
+        1125412661
+    ],
     "wof:country":"PL",
     "wof:geomhash":"ecbf0ea9be1459fd6df7c569383d2745",
     "wof:hierarchy":[
@@ -100,7 +105,7 @@
         }
     ],
     "wof:id":101826107,
-    "wof:lastmodified":1568249864,
+    "wof:lastmodified":1570128023,
     "wof:name":"Jab\u0142onka",
     "wof:parent_id":1125412661,
     "wof:placetype":"locality",

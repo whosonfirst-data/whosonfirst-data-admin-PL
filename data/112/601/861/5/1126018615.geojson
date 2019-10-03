@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-09-30",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
@@ -78,6 +79,9 @@
     "qs_pg:woe_adm0":23424923,
     "qs_pg:woe_id":523250,
     "src:geom":"qs_pg",
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424923,
@@ -95,9 +99,13 @@
     "wof:concordances":{
         "gn:id":756523,
         "gp:id":523250,
+        "pl-gugik:jpt_kod_je":"181109_2",
         "qs_pg:id":309253,
         "wd:id":"Q2684637"
     },
+    "wof:coterminous":[
+        1477752449
+    ],
     "wof:country":"PL",
     "wof:created":1497300695,
     "wof:geomhash":"dff17222b77616dc2b7c6e0ce7f39ca6",
@@ -112,14 +120,16 @@
         }
     ],
     "wof:id":1126018615,
-    "wof:lastmodified":1568253000,
+    "wof:lastmodified":1569885065,
     "wof:name":"Tusz\u00f3w Narodowy",
     "wof:parent_id":1477752449,
     "wof:placetype":"locality",
     "wof:population":920,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1495004111
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -56,7 +56,9 @@
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "pl-gugik"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
@@ -71,10 +73,14 @@
     "wof:concordances":{
         "gn:id":757948,
         "gp:id":12617287,
+        "pl-gugik:jpt_kod_je":"181309_2",
         "qs_pg:id":1015823,
         "wd:id":"Q3331113",
         "wk:page":"Stubno"
     },
+    "wof:coterminous":[
+        1125385783
+    ],
     "wof:country":"PL",
     "wof:geomhash":"21e176d1a69b41a9a68713a4a62f91de",
     "wof:hierarchy":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101826235,
-    "wof:lastmodified":1568248977,
+    "wof:lastmodified":1570128021,
     "wof:name":"Stubno",
     "wof:parent_id":1125385783,
     "wof:placetype":"locality",

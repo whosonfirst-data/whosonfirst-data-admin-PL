@@ -15,7 +15,7 @@
     "lbl:longitude":18.892805,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
-    "mps:latitude":49.566012,
+    "mps:latitude":49.566013,
     "mps:longitude":18.892805,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
@@ -86,7 +86,8 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "pl-gugik"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -102,10 +103,14 @@
     "wof:concordances":{
         "gn:id":3097865,
         "gp:id":496281,
+        "pl-gugik:jpt_kod_je":"240309_2",
         "qs_pg:id":1135505,
         "wd:id":"Q1472027",
         "wk:page":"Istebna"
     },
+    "wof:coterminous":[
+        1477751785
+    ],
     "wof:country":"PL",
     "wof:geomhash":"2c4ce1db651d9fe8b7359e516aefdd39",
     "wof:hierarchy":[
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":101842321,
-    "wof:lastmodified":1568251558,
+    "wof:lastmodified":1570128045,
     "wof:name":"Istebna",
     "wof:parent_id":1477751785,
     "wof:placetype":"locality",
