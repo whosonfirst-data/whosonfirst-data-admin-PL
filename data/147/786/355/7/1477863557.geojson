@@ -65,7 +65,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        1477752623,
+        85633723,
+        102079479
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"121901_2"
@@ -75,11 +81,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"88e39828e5c15377acbb20873f410600",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079479,
+            "localadmin_id":1477752623,
+            "locality_id":1477863557,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477863557,
-    "wof:lastmodified":1569966258,
+    "wof:lastmodified":1570053646,
     "wof:name":"Biskupice",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752623,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

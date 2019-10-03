@@ -35,7 +35,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125288821,
+        85633723,
+        102079855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060809_2"
@@ -45,11 +51,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"a20ef1e54465ebaa05da3dd585fe0694",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079855,
+            "localadmin_id":1125288821,
+            "locality_id":1477866099,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477866099,
-    "wof:lastmodified":1569966487,
+    "wof:lastmodified":1570055649,
     "wof:name":"Nied\u017awiada",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125288821,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

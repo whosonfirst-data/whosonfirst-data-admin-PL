@@ -41,7 +41,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125372485,
+        85633723,
+        102079715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"062002_2"
@@ -51,11 +57,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"05492ea143bb3ca2758068b6317e130d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079715,
+            "localadmin_id":1125372485,
+            "locality_id":1477864695,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477864695,
-    "wof:lastmodified":1569966462,
+    "wof:lastmodified":1570055435,
     "wof:name":"Grabowiec",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125372485,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

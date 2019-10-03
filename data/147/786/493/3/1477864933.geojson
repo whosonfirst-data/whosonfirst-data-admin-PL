@@ -77,7 +77,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687327,
+        102191581,
+        1125324739,
+        85633723,
+        102079843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"080207_2"
@@ -87,11 +93,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"06814aa86492c07291b1f9081e0bc722",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079843,
+            "localadmin_id":1125324739,
+            "locality_id":1477864933,
+            "region_id":85687327
+        }
+    ],
     "wof:id":1477864933,
-    "wof:lastmodified":1569966457,
+    "wof:lastmodified":1570055396,
     "wof:name":"Maszewo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125324739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

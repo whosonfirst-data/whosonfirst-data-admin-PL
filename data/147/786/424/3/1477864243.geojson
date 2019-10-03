@@ -58,18 +58,33 @@
         "Gmina Niepo\u0142omice"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        1477752479,
+        85633723,
+        102079479
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"121904_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"3f2ed0b7a19575daab5137a40b27424c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079479,
+            "localadmin_id":1477752479,
+            "locality_id":1477864243,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477864243,
-    "wof:lastmodified":1569966293,
+    "wof:lastmodified":1570053935,
     "wof:name":"Gmina Niepo\u0142omice",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

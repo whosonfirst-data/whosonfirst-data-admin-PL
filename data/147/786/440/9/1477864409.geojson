@@ -64,18 +64,33 @@
         "Gmina \u017bukowo"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687267,
+        102191581,
+        1125282305,
+        85633723,
+        102080233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"220508_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"65eeeb49501a35c9cb742ab568229253",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080233,
+            "localadmin_id":1125282305,
+            "locality_id":1477864409,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477864409,
-    "wof:lastmodified":1569966267,
+    "wof:lastmodified":1570053713,
     "wof:name":"Gmina \u017bukowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125282305,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

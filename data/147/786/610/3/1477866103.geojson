@@ -56,7 +56,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125304377,
+        85633723,
+        102079745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060604_2"
@@ -66,11 +72,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"24fe3347387d804de411dbfa576b527d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079745,
+            "localadmin_id":1125304377,
+            "locality_id":1477866103,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477866103,
-    "wof:lastmodified":1569966278,
+    "wof:lastmodified":1570053809,
     "wof:name":"Izbica",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125304377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

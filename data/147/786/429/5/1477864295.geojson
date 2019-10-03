@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125350645,
+        85633723,
+        102080031
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"142007_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"dfb97b0f9a42fb344b9e16e2ba164a90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080031,
+            "localadmin_id":1125350645,
+            "locality_id":1477864295,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477864295,
-    "wof:lastmodified":1569966443,
+    "wof:lastmodified":1570055262,
     "wof:name":"Naruszewo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125350645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -61,18 +61,33 @@
         "Gmina Police"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687271,
+        102191581,
+        1125325555,
+        85633723,
+        102080119
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"321104_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"fbb9347b8c289975910c19a82b6155aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080119,
+            "localadmin_id":1125325555,
+            "locality_id":1477863871,
+            "region_id":85687271
+        }
+    ],
     "wof:id":1477863871,
-    "wof:lastmodified":1569966505,
+    "wof:lastmodified":1570055816,
     "wof:name":"Gmina Police",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125325555,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

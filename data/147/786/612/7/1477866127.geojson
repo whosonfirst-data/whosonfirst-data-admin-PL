@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687327,
+        102191581,
+        1125366271,
+        85633723,
+        102079843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"080202_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"0164ad9e57d9fb89cbbb32306ef64845",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079843,
+            "localadmin_id":1125366271,
+            "locality_id":1477866127,
+            "region_id":85687327
+        }
+    ],
     "wof:id":1477866127,
-    "wof:lastmodified":1569966445,
+    "wof:lastmodified":1570055285,
     "wof:name":"Bobrowice",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125366271,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -41,7 +41,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687323,
+        102191581,
+        1125423587,
+        85633723,
+        102080019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"302802_2"
@@ -51,11 +57,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"790e105a4c3b9fe32c22b322b977d1a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080019,
+            "localadmin_id":1125423587,
+            "locality_id":1477865273,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477865273,
-    "wof:lastmodified":1569966357,
+    "wof:lastmodified":1570054514,
     "wof:name":"Damas\u0142awek",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125423587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

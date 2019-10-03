@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687319,
+        102191581,
+        1125324187,
+        85633723,
+        102079977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"041104_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"c152d0ac9613b46f644b6a36cafe81a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079977,
+            "localadmin_id":1125324187,
+            "locality_id":1477864865,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477864865,
-    "wof:lastmodified":1569966440,
+    "wof:lastmodified":1570055243,
     "wof:name":"Osi\u0119ciny",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125324187,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

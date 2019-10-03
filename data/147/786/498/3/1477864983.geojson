@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1477752655,
+        85633723,
+        102079895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"101507_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"bd9523c7679ab2c24a39b8887b2e48e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079895,
+            "localadmin_id":1477752655,
+            "locality_id":1477864983,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477864983,
-    "wof:lastmodified":1569966326,
+    "wof:lastmodified":1570054223,
     "wof:name":"Nowy Kaw\u0119czyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -64,18 +64,33 @@
         "Gmina D\u0119bica"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687295,
+        102191581,
+        1477752341,
+        85633723,
+        102079533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"180304_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"2cda977a61024b0c47749ac3eedf57e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079533,
+            "localadmin_id":1477752341,
+            "locality_id":1477863889,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477863889,
-    "wof:lastmodified":1569966530,
+    "wof:lastmodified":1570056012,
     "wof:name":"Gmina D\u0119bica",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125418177,
+        85633723,
+        102080015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"143303_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"e3145f749bff1de0e58defd34da68f6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080015,
+            "localadmin_id":1125418177,
+            "locality_id":1477863419,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477863419,
-    "wof:lastmodified":1569966336,
+    "wof:lastmodified":1570054326,
     "wof:name":"Korytnica",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125418177,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

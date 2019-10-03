@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125350657,
+        85633723,
+        102080089
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"141303_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"d94e5b277a699d603f35f08aeb4e5945",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080089,
+            "localadmin_id":1125350657,
+            "locality_id":1477863357,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477863357,
-    "wof:lastmodified":1569966401,
+    "wof:lastmodified":1570054893,
     "wof:name":"Lipowiec Ko\u015bcielny",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125350657,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

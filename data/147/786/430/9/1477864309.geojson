@@ -61,18 +61,33 @@
         "Gmina Sierpc"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125306739,
+        85633723,
+        102080035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"142705_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"1dc8e04a5411a7c79956a42c8fdecb49",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080035,
+            "localadmin_id":1125306739,
+            "locality_id":1477864309,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477864309,
-    "wof:lastmodified":1569966301,
+    "wof:lastmodified":1570054013,
     "wof:name":"Gmina Sierpc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125306739,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

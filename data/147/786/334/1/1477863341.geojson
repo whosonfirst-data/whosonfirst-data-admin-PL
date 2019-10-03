@@ -53,7 +53,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1477752447,
+        85633723,
+        102079859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"140706_2"
@@ -63,11 +69,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"bec730eddd6e7f09817009aff1f91458",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079859,
+            "localadmin_id":1477752447,
+            "locality_id":1477863341,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477863341,
-    "wof:lastmodified":1569966419,
+    "wof:lastmodified":1570055044,
     "wof:name":"Magnuszew",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752447,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

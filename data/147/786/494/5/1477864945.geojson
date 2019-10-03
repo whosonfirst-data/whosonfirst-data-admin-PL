@@ -55,18 +55,33 @@
         "Gmina Blachownia"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687277,
+        102191581,
+        1477752737,
+        85633723,
+        102079663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"240401_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"2a3e3454b9c7a313f287bd88c0b526fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079663,
+            "localadmin_id":1477752737,
+            "locality_id":1477864945,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477864945,
-    "wof:lastmodified":1569966461,
+    "wof:lastmodified":1570055428,
     "wof:name":"Gmina Blachownia",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

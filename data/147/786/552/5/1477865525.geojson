@@ -61,18 +61,33 @@
         "Gmina Jas\u0142o"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687295,
+        102191581,
+        1125409163,
+        85633723,
+        102079453
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"180504_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"50005e751dc6d9009da652f54534f2c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079453,
+            "localadmin_id":1125409163,
+            "locality_id":1477865525,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477865525,
-    "wof:lastmodified":1569966394,
+    "wof:lastmodified":1570054851,
     "wof:name":"Gmina Jas\u0142o",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125409163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

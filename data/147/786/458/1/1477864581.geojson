@@ -35,7 +35,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687323,
+        102191581,
+        1125288719,
+        85633723,
+        102079883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"302704_2"
@@ -45,11 +51,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"b2e7c9b669b217ae4ec2e4aa54a55c6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079883,
+            "localadmin_id":1125288719,
+            "locality_id":1477864581,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477864581,
-    "wof:lastmodified":1569966456,
+    "wof:lastmodified":1570055383,
     "wof:name":"Kaw\u0119czyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125288719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

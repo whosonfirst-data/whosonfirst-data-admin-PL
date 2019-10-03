@@ -58,18 +58,33 @@
         "Gmina Sieniawa"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687295,
+        102191581,
+        1125307609,
+        85633723,
+        102079589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"181407_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"884182bfd861d7fe8fb1d98adf2e0cd0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079589,
+            "localadmin_id":1125307609,
+            "locality_id":1477864803,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477864803,
-    "wof:lastmodified":1569966452,
+    "wof:lastmodified":1570055344,
     "wof:name":"Gmina Sieniawa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125307609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

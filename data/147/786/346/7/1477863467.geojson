@@ -23,7 +23,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687283,
+        102191581,
+        1125304355,
+        85633723,
+        102080091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"200503_2"
@@ -33,11 +39,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"6e55ee509297ef15b9901b3e476f0623",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080091,
+            "localadmin_id":1125304355,
+            "locality_id":1477863467,
+            "region_id":85687283
+        }
+    ],
     "wof:id":1477863467,
-    "wof:lastmodified":1569423771,
+    "wof:lastmodified":1570054284,
     "wof:name":"Czeremcha",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125304355,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

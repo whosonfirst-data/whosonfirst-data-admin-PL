@@ -41,7 +41,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        1477751235,
+        85633723,
+        102079493
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"120108_2"
@@ -51,11 +57,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"ea9d24f1a4941378c10829f19ec40861",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079493,
+            "localadmin_id":1477751235,
+            "locality_id":1477865473,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477865473,
-    "wof:lastmodified":1569966496,
+    "wof:lastmodified":1570055717,
     "wof:name":"Trzciana",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477751235,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

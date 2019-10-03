@@ -23,7 +23,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        1125280979,
+        85633723,
+        102079407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"121107_2"
@@ -33,11 +39,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"077d4ef33846b2e3cd1f9d95603aac9a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079407,
+            "localadmin_id":1125280979,
+            "locality_id":1477863723,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477863723,
-    "wof:lastmodified":1569423802,
+    "wof:lastmodified":1570055966,
     "wof:name":"Lipnica Wielka",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125280979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

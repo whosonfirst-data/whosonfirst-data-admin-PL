@@ -53,7 +53,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125285105,
+        85633723,
+        102080077
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"141104_2"
@@ -63,11 +69,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"ee9559fc8f268a9e5ffb68b3262a8e8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080077,
+            "localadmin_id":1125285105,
+            "locality_id":1477864511,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477864511,
-    "wof:lastmodified":1569966464,
+    "wof:lastmodified":1570055456,
     "wof:name":"Krasnosielc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125285105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

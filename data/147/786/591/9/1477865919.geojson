@@ -61,18 +61,33 @@
         "Gmina Gniezno"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687323,
+        102191581,
+        1125399931,
+        85633723,
+        102079967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"300303_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"349dfd8e1a1c805a69a7c640ece0d4c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079967,
+            "localadmin_id":1125399931,
+            "locality_id":1477865919,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477865919,
-    "wof:lastmodified":1569966423,
+    "wof:lastmodified":1570055082,
     "wof:name":"Gmina Gniezno",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125399931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

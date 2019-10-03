@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1477751183,
+        85633723,
+        102079705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"100903_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"a989c756d894238450c9cd6dc05f087c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079705,
+            "localadmin_id":1477751183,
+            "locality_id":1477865453,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477865453,
-    "wof:lastmodified":1569966369,
+    "wof:lastmodified":1570054637,
     "wof:name":"Nowa Brze\u017anica",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477751183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

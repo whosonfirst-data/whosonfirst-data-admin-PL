@@ -41,7 +41,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125288857,
+        85633723,
+        102079699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060204_2"
@@ -51,11 +57,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"2f3dd1aaeddcb8aecc9c1e275cfa4830",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079699,
+            "localadmin_id":1125288857,
+            "locality_id":1477863919,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477863919,
-    "wof:lastmodified":1569966227,
+    "wof:lastmodified":1570053386,
     "wof:name":"Biszcza",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125288857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -61,18 +61,33 @@
         "Gmina Kutno"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1125304941,
+        85633723,
+        102079929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"100206_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"90a6447020d79474c1bc42788867486a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079929,
+            "localadmin_id":1125304941,
+            "locality_id":1477864731,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477864731,
-    "wof:lastmodified":1569966449,
+    "wof:lastmodified":1570055324,
     "wof:name":"Gmina Kutno",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125304941,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

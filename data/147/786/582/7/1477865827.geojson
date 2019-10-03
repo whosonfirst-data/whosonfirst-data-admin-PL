@@ -23,7 +23,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125301093,
+        85633723,
+        102079859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"140701_2"
@@ -33,11 +39,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"8856da760dd98dc9a9dd8f2d649c661e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079859,
+            "localadmin_id":1125301093,
+            "locality_id":1477865827,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477865827,
-    "wof:lastmodified":1569424015,
+    "wof:lastmodified":1570055668,
     "wof:name":"Garbatka Letnisko",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125301093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

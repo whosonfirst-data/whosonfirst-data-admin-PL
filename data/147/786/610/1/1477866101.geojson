@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125300477,
+        85633723,
+        102079855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060804_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"84081415799b4bfb60f6b4038ed35bd9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079855,
+            "localadmin_id":1125300477,
+            "locality_id":1477866101,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477866101,
-    "wof:lastmodified":1569966278,
+    "wof:lastmodified":1570053808,
     "wof:name":"Jeziorzany",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125300477,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

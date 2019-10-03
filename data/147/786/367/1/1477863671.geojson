@@ -41,7 +41,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687267,
+        102191581,
+        1125365443,
+        85633723,
+        102080213
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"220407_2"
@@ -51,11 +57,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"7a923935ae7b7eca7b330867aecfe22f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080213,
+            "localadmin_id":1125365443,
+            "locality_id":1477863671,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477863671,
-    "wof:lastmodified":1569966411,
+    "wof:lastmodified":1570054988,
     "wof:name":"Suchy D\u0105b",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125365443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

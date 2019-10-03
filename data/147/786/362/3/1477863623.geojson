@@ -53,7 +53,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125285203,
+        85633723,
+        102080015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"143307_2"
@@ -63,11 +69,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"6e920dbed0d6d95612d35e3b26f32cfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080015,
+            "localadmin_id":1125285203,
+            "locality_id":1477863623,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477863623,
-    "wof:lastmodified":1569966232,
+    "wof:lastmodified":1570053423,
     "wof:name":"Sadowne",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125285203,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

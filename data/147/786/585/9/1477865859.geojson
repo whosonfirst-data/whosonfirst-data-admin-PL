@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125304817,
+        85633723,
+        102079797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"142305_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"fb258fad5341f106c3e3fd5b060a504f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079797,
+            "localadmin_id":1125304817,
+            "locality_id":1477865859,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477865859,
-    "wof:lastmodified":1569966493,
+    "wof:lastmodified":1570055695,
     "wof:name":"Potwor\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125304817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

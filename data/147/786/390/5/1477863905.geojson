@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125296543,
+        85633723,
+        102079973
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060104_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"3d3a7cf37590f47a8db704aa7c0b7b91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079973,
+            "localadmin_id":1125296543,
+            "locality_id":1477863905,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477863905,
-    "wof:lastmodified":1569966266,
+    "wof:lastmodified":1570053711,
     "wof:name":"Drel\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125296543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

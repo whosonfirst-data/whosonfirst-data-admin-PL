@@ -41,7 +41,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125289083,
+        85633723,
+        102079745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060607_2"
@@ -51,11 +57,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"35edb05980906ccc6606a237ebbedde5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079745,
+            "localadmin_id":1125289083,
+            "locality_id":1477865641,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477865641,
-    "wof:lastmodified":1569966397,
+    "wof:lastmodified":1570054877,
     "wof:name":"\u0141opiennik G\u00f3rny",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125289083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

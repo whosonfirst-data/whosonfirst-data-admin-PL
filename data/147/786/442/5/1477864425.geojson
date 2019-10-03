@@ -55,18 +55,33 @@
         "Gmina Susz"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687305,
+        102191581,
+        1125365365,
+        85633723,
+        102080171
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"280706_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"fb59caf9fd3ad933b2b94699d9b425ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080171,
+            "localadmin_id":1125365365,
+            "locality_id":1477864425,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477864425,
-    "wof:lastmodified":1569966453,
+    "wof:lastmodified":1570055355,
     "wof:name":"Gmina Susz",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125365365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

@@ -32,7 +32,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687271,
+        102191581,
+        1125384469,
+        85633723,
+        102080005
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"321005_2"
@@ -42,11 +48,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"d34fe20c99dbb6103f3b3923361f6822",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080005,
+            "localadmin_id":1125384469,
+            "locality_id":1477864595,
+            "region_id":85687271
+        }
+    ],
     "wof:id":1477864595,
-    "wof:lastmodified":1569966478,
+    "wof:lastmodified":1570055571,
     "wof:name":"Nowogr\u00f3dek Pomorski",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125384469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

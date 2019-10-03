@@ -67,18 +67,33 @@
         "Gmina Bra\u0144sk"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687283,
+        102191581,
+        1477751811,
+        85633723,
+        102080071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"200305_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"ba08850c5c9ba10548b76ff546a873a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080071,
+            "localadmin_id":1477751811,
+            "locality_id":1477864171,
+            "region_id":85687283
+        }
+    ],
     "wof:id":1477864171,
-    "wof:lastmodified":1569966432,
+    "wof:lastmodified":1570055170,
     "wof:name":"Gmina Bra\u0144sk",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477751811,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

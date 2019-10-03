@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125363563,
+        85633723,
+        102080089
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"141306_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"d6d6039c118fa02251de9acb26e73b8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080089,
+            "localadmin_id":1125363563,
+            "locality_id":1477864111,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477864111,
-    "wof:lastmodified":1569966441,
+    "wof:lastmodified":1570055249,
     "wof:name":"Stupsk",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125363563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

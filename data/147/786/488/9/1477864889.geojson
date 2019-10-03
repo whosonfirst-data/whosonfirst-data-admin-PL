@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125304735,
+        85633723,
+        102079995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"143408_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"9742f53bd134dfa42ce5210da6a3719e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079995,
+            "localadmin_id":1125304735,
+            "locality_id":1477864889,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477864889,
-    "wof:lastmodified":1569966435,
+    "wof:lastmodified":1570055198,
     "wof:name":"Po\u015bwi\u0119tne",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125304735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -50,7 +50,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125381181,
+        85633723,
+        102080089
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"141305_2"
@@ -60,11 +66,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"ef85af5bfac6ee9ec9613065e3e626b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080089,
+            "localadmin_id":1125381181,
+            "locality_id":1477865067,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477865067,
-    "wof:lastmodified":1569966387,
+    "wof:lastmodified":1570054796,
     "wof:name":"Strzegowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125381181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -53,7 +53,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125401105,
+        85633723,
+        102080023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"142909_2"
@@ -63,11 +69,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"aae6bfd2b30497f048ff377a497deea8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080023,
+            "localadmin_id":1125401105,
+            "locality_id":1477865523,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477865523,
-    "wof:lastmodified":1569966394,
+    "wof:lastmodified":1570054844,
     "wof:name":"Sterdy\u0144",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125401105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -33,7 +33,14 @@
     ],
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        1125342413,
+        85633723,
+        101752117,
+        102079481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"126102_9"
@@ -41,11 +48,21 @@
     "wof:country":"PL",
     "wof:created":1569439033,
     "wof:geomhash":"d5fa5ce3de57ca060ec0b55df5da572e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1477921651,
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079481,
+            "localadmin_id":1125342413,
+            "locality_id":101752117,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477921651,
-    "wof:lastmodified":1569965876,
+    "wof:lastmodified":1570056141,
     "wof:name":"Krowodrza",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752117,
     "wof:placetype":"borough",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

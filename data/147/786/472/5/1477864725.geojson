@@ -67,18 +67,33 @@
         "Gmina Kartuzy"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687267,
+        102191581,
+        1125324051,
+        85633723,
+        102080233
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"220502_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"df7e7feef062bf887ce47aa936fabd74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080233,
+            "localadmin_id":1125324051,
+            "locality_id":1477864725,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477864725,
-    "wof:lastmodified":1569966439,
+    "wof:lastmodified":1570055237,
     "wof:name":"Gmina Kartuzy",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125324051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

@@ -35,7 +35,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1125300765,
+        85633723,
+        102079763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"100104_2"
@@ -45,11 +51,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"c0c046d5e0e6b10514b39a6f9f740081",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079763,
+            "localadmin_id":1125300765,
+            "locality_id":1477863997,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477863997,
-    "wof:lastmodified":1569966253,
+    "wof:lastmodified":1570053599,
     "wof:name":"Kleszcz\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125300765,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

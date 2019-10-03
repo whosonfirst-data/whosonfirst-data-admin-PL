@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125317769,
+        85633723,
+        102079745
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060606_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"0337a632fb90d2b34aa2afc61eeb72b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079745,
+            "localadmin_id":1125317769,
+            "locality_id":1477865969,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477865969,
-    "wof:lastmodified":1569966417,
+    "wof:lastmodified":1570055035,
     "wof:name":"Kra\u015bniczyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125317769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

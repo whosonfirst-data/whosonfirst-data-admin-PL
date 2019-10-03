@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125304691,
+        85633723,
+        102079945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"142806_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"3f0ee5cfc1c02667bb51cb644cb6f86f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079945,
+            "localadmin_id":1125304691,
+            "locality_id":1477863613,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477863613,
-    "wof:lastmodified":1569966378,
+    "wof:lastmodified":1570054713,
     "wof:name":"Rybno",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125304691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

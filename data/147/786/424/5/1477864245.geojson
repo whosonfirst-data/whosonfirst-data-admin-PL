@@ -64,18 +64,33 @@
         "Gmina Wieliczka"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        1125388531,
+        85633723,
+        102079479
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"121905_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"c3a7842e9d2991f36ab8be8532632082",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079479,
+            "localadmin_id":1125388531,
+            "locality_id":1477864245,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477864245,
-    "wof:lastmodified":1569966294,
+    "wof:lastmodified":1570053944,
     "wof:name":"Gmina Wieliczka",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125388531,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

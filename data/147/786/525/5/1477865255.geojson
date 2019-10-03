@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687323,
+        102191581,
+        1125393627,
+        85633723,
+        102079915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"301501_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"9bf2b3dfa94a496c97f70373690faaaa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079915,
+            "localadmin_id":1125393627,
+            "locality_id":1477865255,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477865255,
-    "wof:lastmodified":1569966503,
+    "wof:lastmodified":1570055786,
     "wof:name":"Ku\u015blin",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125393627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

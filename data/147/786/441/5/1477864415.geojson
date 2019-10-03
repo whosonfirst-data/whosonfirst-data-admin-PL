@@ -62,7 +62,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687271,
+        102191581,
+        1125295755,
+        85633723,
+        102080119
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"321102_2"
@@ -72,11 +78,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"f5516705dc14523e6f8fba5f61826c2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080119,
+            "localadmin_id":1125295755,
+            "locality_id":1477864415,
+            "region_id":85687271
+        }
+    ],
     "wof:id":1477864415,
-    "wof:lastmodified":1569966290,
+    "wof:lastmodified":1570053908,
     "wof:name":"Gmina Ko\u0142baskowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125295755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

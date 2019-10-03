@@ -58,18 +58,33 @@
         "Gmina Nowe Miasto Lubawskie"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687305,
+        102191581,
+        1477752775,
+        85633723,
+        102080125
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"281205_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"6afd12245268faf56373c7455af3f88d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080125,
+            "localadmin_id":1477752775,
+            "locality_id":1477864515,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477864515,
-    "wof:lastmodified":1569966465,
+    "wof:lastmodified":1570055460,
     "wof:name":"Gmina Nowe Miasto Lubawskie",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752775,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

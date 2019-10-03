@@ -67,18 +67,33 @@
         "Gmina Bielsk Podlaski"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687283,
+        102191581,
+        1125370799,
+        85633723,
+        102080071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"200303_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"2e1d5b56b5cd7dfd888b4081d1a337be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080071,
+            "localadmin_id":1125370799,
+            "locality_id":1477863437,
+            "region_id":85687283
+        }
+    ],
     "wof:id":1477863437,
-    "wof:lastmodified":1569966529,
+    "wof:lastmodified":1570056003,
     "wof:name":"Gmina Bielsk Podlaski",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125370799,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

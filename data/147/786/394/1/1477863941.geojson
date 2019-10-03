@@ -35,7 +35,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687277,
+        102191581,
+        1125324815,
+        85633723,
+        102079445
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"241505_2"
@@ -45,11 +51,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"61ae4fb257eb95b73eea14980f904f4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079445,
+            "localadmin_id":1125324815,
+            "locality_id":1477863941,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477863941,
-    "wof:lastmodified":1569966414,
+    "wof:lastmodified":1570055013,
     "wof:name":"God\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125324815,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

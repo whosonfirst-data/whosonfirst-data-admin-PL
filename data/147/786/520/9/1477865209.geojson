@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687287,
+        102191581,
+        1125366281,
+        85633723,
+        102079561
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"260302_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"b88395a8308ff1bef0db2929dce6bcd2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079561,
+            "localadmin_id":1125366281,
+            "locality_id":1477865209,
+            "region_id":85687287
+        }
+    ],
     "wof:id":1477865209,
-    "wof:lastmodified":1569966359,
+    "wof:lastmodified":1570054552,
     "wof:name":"Czarnocin",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125366281,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

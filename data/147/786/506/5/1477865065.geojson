@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125285071,
+        85633723,
+        102080089
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"141309_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"efc34fe11f71da13016db3b7a5f97f08",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080089,
+            "localadmin_id":1125285071,
+            "locality_id":1477865065,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477865065,
-    "wof:lastmodified":1569966388,
+    "wof:lastmodified":1570054798,
     "wof:name":"Wieczfnia Ko\u015bcielna",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125285071,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

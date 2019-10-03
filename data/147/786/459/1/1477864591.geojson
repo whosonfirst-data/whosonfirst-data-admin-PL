@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687271,
+        102191581,
+        1125330181,
+        85633723,
+        102080083
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"321409_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"015f937a2ba097cb536348147e44efa0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080083,
+            "localadmin_id":1125330181,
+            "locality_id":1477864591,
+            "region_id":85687271
+        }
+    ],
     "wof:id":1477864591,
-    "wof:lastmodified":1569966478,
+    "wof:lastmodified":1570055570,
     "wof:name":"Stara D\u0105browa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125330181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

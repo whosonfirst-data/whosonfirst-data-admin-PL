@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687323,
+        102191581,
+        1125319157,
+        85633723,
+        102079955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"302115_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"e0228a69a20ab18d29aa3bea4f6cf874",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079955,
+            "localadmin_id":1125319157,
+            "locality_id":1477864761,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477864761,
-    "wof:lastmodified":1569966274,
+    "wof:lastmodified":1570053772,
     "wof:name":"Suchy Las",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125319157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

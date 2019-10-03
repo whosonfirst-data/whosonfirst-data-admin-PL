@@ -23,7 +23,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1125350495,
+        85633723,
+        102079711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"101208_2"
@@ -33,11 +39,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"ff6bf7d97af94b1569b744d534908fe4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079711,
+            "localadmin_id":1125350495,
+            "locality_id":1477863697,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477863697,
-    "wof:lastmodified":1569423797,
+    "wof:lastmodified":1570054918,
     "wof:name":"Lgota Wielka",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125350495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

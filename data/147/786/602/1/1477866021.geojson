@@ -64,18 +64,33 @@
         "Gmina Zgorzelec"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687301,
+        102191581,
+        1477752367,
+        85633723,
+        102079695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"022507_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"16d3d9760f477ed8a3aee696faaa5c42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079695,
+            "localadmin_id":1477752367,
+            "locality_id":1477866021,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477866021,
-    "wof:lastmodified":1569966300,
+    "wof:lastmodified":1570054004,
     "wof:name":"Gmina Zgorzelec",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752367,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

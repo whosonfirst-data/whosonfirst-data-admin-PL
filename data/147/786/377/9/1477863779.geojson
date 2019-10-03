@@ -23,7 +23,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687323,
+        102191581,
+        1125324291,
+        85633723,
+        102079967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"300307_2"
@@ -33,11 +39,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"de1ec6cfa62de39cfe45734996ef0838",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079967,
+            "localadmin_id":1125324291,
+            "locality_id":1477863779,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477863779,
-    "wof:lastmodified":1569423806,
+    "wof:lastmodified":1570054355,
     "wof:name":"Mieleszyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125324291,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

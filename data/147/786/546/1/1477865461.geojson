@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1125386713,
+        85633723,
+        102079819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"101404_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"e780c7849d4c1734a2b1e5fd62fef71f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079819,
+            "localadmin_id":1125386713,
+            "locality_id":1477865461,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477865461,
-    "wof:lastmodified":1569966512,
+    "wof:lastmodified":1570055872,
     "wof:name":"Brze\u017anio",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125386713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

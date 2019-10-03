@@ -23,7 +23,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125374559,
+        85633723,
+        102080027
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"142401_2"
@@ -33,11 +39,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"63bcd36a460a7d1ba3f6785696785bbd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080027,
+            "localadmin_id":1125374559,
+            "locality_id":1477864855,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477864855,
-    "wof:lastmodified":1569423910,
+    "wof:lastmodified":1570053763,
     "wof:name":"Gzy",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125374559,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

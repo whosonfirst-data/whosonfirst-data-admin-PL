@@ -61,18 +61,33 @@
         "Gmina Jedlicze"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687295,
+        102191581,
+        1125410569,
+        85633723,
+        102079455
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"180704_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"9220040e37a65bcde14494ab4c01dd99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079455,
+            "localadmin_id":1125410569,
+            "locality_id":1477863659,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477863659,
-    "wof:lastmodified":1569966229,
+    "wof:lastmodified":1570053412,
     "wof:name":"Gmina Jedlicze",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125410569,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

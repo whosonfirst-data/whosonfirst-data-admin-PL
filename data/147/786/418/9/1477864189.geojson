@@ -35,7 +35,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1125392329,
+        85633723,
+        102079929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"100205_2"
@@ -45,11 +51,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"ec0b05d1e63c4bcca413774624c202df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079929,
+            "localadmin_id":1125392329,
+            "locality_id":1477864189,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477864189,
-    "wof:lastmodified":1569966446,
+    "wof:lastmodified":1570055290,
     "wof:name":"Krzy\u017can\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125392329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

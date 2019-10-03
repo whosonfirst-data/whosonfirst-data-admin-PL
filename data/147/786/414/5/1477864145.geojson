@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125363505,
+        85633723,
+        102079795
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060916_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"d2e3b758d1a0780e2303c8d7cc6909d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079795,
+            "localadmin_id":1125363505,
+            "locality_id":1477864145,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477864145,
-    "wof:lastmodified":1569966282,
+    "wof:lastmodified":1570053836,
     "wof:name":"Zakrzew",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125363505,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

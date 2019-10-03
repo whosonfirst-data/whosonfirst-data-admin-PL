@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687283,
+        102191581,
+        1125366847,
+        85633723,
+        102080037
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"201008_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"2b55574e03a6fce033a91a29ada791fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080037,
+            "localadmin_id":1125366847,
+            "locality_id":1477863667,
+            "region_id":85687283
+        }
+    ],
     "wof:id":1477863667,
-    "wof:lastmodified":1569966384,
+    "wof:lastmodified":1570054767,
     "wof:name":"Perlejewo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125366847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

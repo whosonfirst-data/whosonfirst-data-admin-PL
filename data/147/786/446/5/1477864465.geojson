@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687277,
+        102191581,
+        1125288563,
+        85633723,
+        102079667
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"240607_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"2b1f2c45f7cdb67e6dc41fe3f120da7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079667,
+            "localadmin_id":1125288563,
+            "locality_id":1477864465,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477864465,
-    "wof:lastmodified":1569966287,
+    "wof:lastmodified":1570053888,
     "wof:name":"Pop\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125288563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

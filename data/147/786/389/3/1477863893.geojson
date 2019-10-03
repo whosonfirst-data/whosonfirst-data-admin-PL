@@ -50,7 +50,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687319,
+        102191581,
+        1125323693,
+        85633723,
+        102079993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"040901_2"
@@ -60,11 +66,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"8357cc290238d9cd5efc1e5bc351131a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079993,
+            "localadmin_id":1125323693,
+            "locality_id":1477863893,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477863893,
-    "wof:lastmodified":1569966499,
+    "wof:lastmodified":1570055758,
     "wof:name":"D\u0105browa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125323693,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

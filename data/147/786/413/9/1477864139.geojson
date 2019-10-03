@@ -58,18 +58,33 @@
         "Gmina Annopol"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125384203,
+        85633723,
+        102079721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060702_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"17167747029436944a6e20fc1566fb14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079721,
+            "localadmin_id":1125384203,
+            "locality_id":1477864139,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477864139,
-    "wof:lastmodified":1569966280,
+    "wof:lastmodified":1570053823,
     "wof:name":"Gmina Annopol",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125384203,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

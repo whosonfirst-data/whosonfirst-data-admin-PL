@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1125408963,
+        85633723,
+        102079837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"100603_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"97f4ced8ae509b4774e8413b756e799c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079837,
+            "localadmin_id":1125408963,
+            "locality_id":1477863483,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477863483,
-    "wof:lastmodified":1569966343,
+    "wof:lastmodified":1570054378,
     "wof:name":"Br\u00f3jce",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125408963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

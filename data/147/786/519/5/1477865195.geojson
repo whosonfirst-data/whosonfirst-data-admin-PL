@@ -58,18 +58,33 @@
         "Gmina Czechowice-Dziedzice"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687277,
+        102191581,
+        1125402055,
+        85633723,
+        102079427
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"240204_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"bc98f14d080aeacce8779f424a04e62b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079427,
+            "localadmin_id":1125402055,
+            "locality_id":1477865195,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477865195,
-    "wof:lastmodified":1569966348,
+    "wof:lastmodified":1570054427,
     "wof:name":"Gmina Czechowice-Dziedzice",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125402055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

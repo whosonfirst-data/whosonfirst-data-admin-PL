@@ -67,18 +67,33 @@
         "Gmina Czersk"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687267,
+        102191581,
+        1477752079,
+        85633723,
+        102080161
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"220204_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"67ec8641b834d548ee2d2d3fe32145bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080161,
+            "localadmin_id":1477752079,
+            "locality_id":1477865679,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477865679,
-    "wof:lastmodified":1569966224,
+    "wof:lastmodified":1570053357,
     "wof:name":"Gmina Czersk",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

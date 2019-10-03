@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687319,
+        102191581,
+        1125304829,
+        85633723,
+        102080087
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"041702_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"981fa00082bf53ab6051f7771db7de98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080087,
+            "localadmin_id":1125304829,
+            "locality_id":1477865401,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477865401,
-    "wof:lastmodified":1569966496,
+    "wof:lastmodified":1570055724,
     "wof:name":"D\u0119bowa \u0141\u0105ka",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125304829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

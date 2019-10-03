@@ -35,7 +35,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687313,
+        102191581,
+        1125288731,
+        85633723,
+        102079569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"160708_2"
@@ -45,11 +51,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"7292550472d22ad35177977e12d12b99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079569,
+            "localadmin_id":1125288731,
+            "locality_id":1477864905,
+            "region_id":85687313
+        }
+    ],
     "wof:id":1477864905,
-    "wof:lastmodified":1569966309,
+    "wof:lastmodified":1570054077,
     "wof:name":"Pakos\u0142awice",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125288731,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125304649,
+        85633723,
+        102079751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"143001_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"47af5c52bba6bece7bb2c6ee7c25d709",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079751,
+            "localadmin_id":1125304649,
+            "locality_id":1477865095,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477865095,
-    "wof:lastmodified":1569966413,
+    "wof:lastmodified":1570055007,
     "wof:name":"Chlewiska",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125304649,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -61,18 +61,33 @@
         "Gmina Gostynin"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1477752569,
+        85633723,
+        102079959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"140402_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"801cf8559de35dd8f7d09345c8f3fb4a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079959,
+            "localadmin_id":1477752569,
+            "locality_id":1477865821,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477865821,
-    "wof:lastmodified":1569966490,
+    "wof:lastmodified":1570055672,
     "wof:name":"Gmina Gostynin",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752569,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

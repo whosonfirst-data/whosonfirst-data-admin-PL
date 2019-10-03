@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125375671,
+        85633723,
+        102080027
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"142407_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"30d91798ede47a8cb11731cfa9694d22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080027,
+            "localadmin_id":1125375671,
+            "locality_id":1477865855,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477865855,
-    "wof:lastmodified":1569966493,
+    "wof:lastmodified":1570055701,
     "wof:name":"Zatory",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125375671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

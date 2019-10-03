@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        1125350521,
+        85633723,
+        102079579
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"120803_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"903516d8eef8d1b7c178f597be1b3580",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079579,
+            "localadmin_id":1125350521,
+            "locality_id":1477863313,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477863313,
-    "wof:lastmodified":1569966226,
+    "wof:lastmodified":1570053375,
     "wof:name":"Koz\u0142\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125350521,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

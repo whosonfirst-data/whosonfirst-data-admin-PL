@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125289029,
+        85633723,
+        102079973
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060112_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"b81c1e7d4c7bef87000ec7cbfa08437b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079973,
+            "localadmin_id":1125289029,
+            "locality_id":1477864645,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477864645,
-    "wof:lastmodified":1569966309,
+    "wof:lastmodified":1570054087,
     "wof:name":"Rokitno",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125289029,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

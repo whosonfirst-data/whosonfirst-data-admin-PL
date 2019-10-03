@@ -80,7 +80,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125353937,
+        85633723,
+        102079901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"140305_2"
@@ -90,11 +96,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"dd5e6ae06e93b6fbaeb0119dac1fa90c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079901,
+            "localadmin_id":1125353937,
+            "locality_id":1477863559,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477863559,
-    "wof:lastmodified":1569966258,
+    "wof:lastmodified":1570053643,
     "wof:name":"G\u00f3rzno",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125353937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

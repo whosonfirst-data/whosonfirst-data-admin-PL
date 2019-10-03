@@ -41,7 +41,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1125366303,
+        85633723,
+        102079731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"101802_2"
@@ -51,11 +57,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"9b79827aad9abab8d0ddf1039defe5a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079731,
+            "localadmin_id":1125366303,
+            "locality_id":1477863511,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477863511,
-    "wof:lastmodified":1569966407,
+    "wof:lastmodified":1570054956,
     "wof:name":"Czastary",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125366303,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687277,
+        102191581,
+        1125299537,
+        85633723,
+        102079459
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"241204_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"fecabc108adccc764ef5263b8f89518e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079459,
+            "localadmin_id":1125299537,
+            "locality_id":1477863507,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477863507,
-    "wof:lastmodified":1569966386,
+    "wof:lastmodified":1570054786,
     "wof:name":"Lyski",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125299537,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

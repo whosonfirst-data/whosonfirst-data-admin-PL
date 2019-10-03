@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125284411,
+        85633723,
+        102079757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"140902_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"d5dba07b3a7a555b654d569da32451de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079757,
+            "localadmin_id":1125284411,
+            "locality_id":1477865491,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477865491,
-    "wof:lastmodified":1569966489,
+    "wof:lastmodified":1570055665,
     "wof:name":"Ciepiel\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125284411,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

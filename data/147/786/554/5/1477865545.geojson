@@ -61,18 +61,33 @@
         "Gmina Tczew"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687267,
+        102191581,
+        1125398823,
+        85633723,
+        102080191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"221406_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"46ab9aeb25fdb48884bf8ca2df5744e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080191,
+            "localadmin_id":1125398823,
+            "locality_id":1477865545,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477865545,
-    "wof:lastmodified":1569966426,
+    "wof:lastmodified":1570055119,
     "wof:name":"Gmina Tczew",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125398823,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

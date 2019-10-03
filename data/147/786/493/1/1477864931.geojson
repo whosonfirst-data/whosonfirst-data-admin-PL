@@ -64,18 +64,33 @@
         "Gmina Radzy\u0144 Podlaski"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1477751567,
+        85633723,
+        102079905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"061506_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"dbe66be33421510a2617b59aa9ee5874",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079905,
+            "localadmin_id":1477751567,
+            "locality_id":1477864931,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477864931,
-    "wof:lastmodified":1569966457,
+    "wof:lastmodified":1570055393,
     "wof:name":"Gmina Radzy\u0144 Podlaski",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477751567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

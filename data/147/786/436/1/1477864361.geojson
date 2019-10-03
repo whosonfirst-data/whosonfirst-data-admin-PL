@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687295,
+        102191581,
+        1125332645,
+        85633723,
+        102079455
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"180701_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"30eb9f87226fe0ac4c43ce5c7db48339",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079455,
+            "localadmin_id":1125332645,
+            "locality_id":1477864361,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477864361,
-    "wof:lastmodified":1569966315,
+    "wof:lastmodified":1570054135,
     "wof:name":"Chork\u00f3wka",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125332645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

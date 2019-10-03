@@ -67,18 +67,33 @@
         "Gmina Tykocin"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687283,
+        102191581,
+        1125282539,
+        85633723,
+        102080145
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"200212_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"d991f73dad4c0cd04b8684279b077ad1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080145,
+            "localadmin_id":1125282539,
+            "locality_id":1477866067,
+            "region_id":85687283
+        }
+    ],
     "wof:id":1477866067,
-    "wof:lastmodified":1569966469,
+    "wof:lastmodified":1570055491,
     "wof:name":"Gmina Tykocin",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125282539,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

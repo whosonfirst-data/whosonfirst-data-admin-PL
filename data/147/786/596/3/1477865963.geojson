@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687271,
+        102191581,
+        1125350383,
+        85633723,
+        102080041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"321201_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"b6ec68a1f1907a4dd0bb72ec98b15b9a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080041,
+            "localadmin_id":1125350383,
+            "locality_id":1477865963,
+            "region_id":85687271
+        }
+    ],
     "wof:id":1477865963,
-    "wof:lastmodified":1569966417,
+    "wof:lastmodified":1570055037,
     "wof:name":"Bielice",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125350383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

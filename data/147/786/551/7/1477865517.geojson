@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125306343,
+        85633723,
+        102079797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"142308_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"fb0e3c9bc46405a849704b2eb7677d34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079797,
+            "localadmin_id":1125306343,
+            "locality_id":1477865517,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477865517,
-    "wof:lastmodified":1569966217,
+    "wof:lastmodified":1570053288,
     "wof:name":"Wieniawa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125306343,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -64,18 +64,33 @@
         "Gmina Solec Kujawski"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687319,
+        102191581,
+        1477751757,
+        85633723,
+        102080085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"040308_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"830a6c5f073b4ce52d1865b4134cef53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080085,
+            "localadmin_id":1477751757,
+            "locality_id":1477865967,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477865967,
-    "wof:lastmodified":1569966417,
+    "wof:lastmodified":1570055036,
     "wof:name":"Gmina Solec Kujawski",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477751757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

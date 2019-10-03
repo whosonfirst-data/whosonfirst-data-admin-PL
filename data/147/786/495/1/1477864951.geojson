@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1125306255,
+        85633723,
+        102079783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"101006_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"3865fdf85fc1d9d65ea085f2e7878f0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079783,
+            "localadmin_id":1125306255,
+            "locality_id":1477864951,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477864951,
-    "wof:lastmodified":1569966476,
+    "wof:lastmodified":1570055558,
     "wof:name":"Moszczenica",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125306255,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

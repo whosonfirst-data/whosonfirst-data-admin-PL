@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1125324319,
+        85633723,
+        102079923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"100505_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"ed7cdcc10750926a408deabd7a635545",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079923,
+            "localadmin_id":1125324319,
+            "locality_id":1477863481,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477863481,
-    "wof:lastmodified":1569966343,
+    "wof:lastmodified":1570054377,
     "wof:name":"Kiernozia",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125324319,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -61,18 +61,33 @@
         "Gmina Lubin"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687301,
+        102191581,
+        1477752981,
+        85633723,
+        102079735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"021102_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"1358557cb2cf2e06042c4bc60193cb89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079735,
+            "localadmin_id":1477752981,
+            "locality_id":1477863339,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477863339,
-    "wof:lastmodified":1569966421,
+    "wof:lastmodified":1570055074,
     "wof:name":"Gmina Lubin",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752981,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

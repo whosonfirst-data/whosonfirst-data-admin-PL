@@ -35,7 +35,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687277,
+        102191581,
+        1125399557,
+        85633723,
+        102079663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"240402_2"
@@ -45,11 +51,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"256da53076ee373dc563308c7c656c7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079663,
+            "localadmin_id":1125399557,
+            "locality_id":1477864461,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477864461,
-    "wof:lastmodified":1569966287,
+    "wof:lastmodified":1570053886,
     "wof:name":"D\u0105browa Zielona",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125399557,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -35,7 +35,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125362939,
+        85633723,
+        102080139
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"141511_2"
@@ -45,11 +51,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"f9ace3b0401d190fe5b0e31e861eb4a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080139,
+            "localadmin_id":1125362939,
+            "locality_id":1477864103,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477864103,
-    "wof:lastmodified":1569966433,
+    "wof:lastmodified":1570055177,
     "wof:name":"Troszyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125362939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

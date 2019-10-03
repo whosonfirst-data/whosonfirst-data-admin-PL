@@ -32,7 +32,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        1125328605,
+        85633723,
+        102079423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"120708_2"
@@ -42,11 +48,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"8479aaf7f02cfa414a720a711f106713",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079423,
+            "localadmin_id":1125328605,
+            "locality_id":1477865789,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477865789,
-    "wof:lastmodified":1569966494,
+    "wof:lastmodified":1570055702,
     "wof:name":"\u0141ukowica",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125328605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

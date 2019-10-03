@@ -41,7 +41,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687319,
+        102191581,
+        1125288969,
+        85633723,
+        102079997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"041805_2"
@@ -51,11 +57,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"bcace9af05794db2c909e62467e8692b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079997,
+            "localadmin_id":1125288969,
+            "locality_id":1477865661,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477865661,
-    "wof:lastmodified":1569966238,
+    "wof:lastmodified":1570053489,
     "wof:name":"Choce\u0144",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125288969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

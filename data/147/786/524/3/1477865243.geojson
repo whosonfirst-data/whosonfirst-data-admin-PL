@@ -77,7 +77,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687287,
+        102191581,
+        1477752895,
+        85633723,
+        102079679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"261304_2"
@@ -87,11 +93,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"e40e1a455ea23b5509ef578ff2b9f0de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079679,
+            "localadmin_id":1477752895,
+            "locality_id":1477865243,
+            "region_id":85687287
+        }
+    ],
     "wof:id":1477865243,
-    "wof:lastmodified":1569966523,
+    "wof:lastmodified":1570055958,
     "wof:name":"Radk\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

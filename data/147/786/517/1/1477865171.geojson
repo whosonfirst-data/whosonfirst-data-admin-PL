@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687283,
+        102191581,
+        1125315335,
+        85633723,
+        102080221
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"200105_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"8df09cac44efe51c3427307fa4bbb148",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080221,
+            "localadmin_id":1125315335,
+            "locality_id":1477865171,
+            "region_id":85687283
+        }
+    ],
     "wof:id":1477865171,
-    "wof:lastmodified":1569966335,
+    "wof:lastmodified":1570054319,
     "wof:name":"Nowinka",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125315335,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

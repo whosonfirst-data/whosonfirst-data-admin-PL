@@ -35,7 +35,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687301,
+        102191581,
+        1477751275,
+        85633723,
+        102079675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"021801_2"
@@ -45,11 +51,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"e0ad4de5ee73e0e59fdb62b6a396cf81",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079675,
+            "localadmin_id":1477751275,
+            "locality_id":1477866073,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477866073,
-    "wof:lastmodified":1569966484,
+    "wof:lastmodified":1570055626,
     "wof:name":"Kostom\u0142oty",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477751275,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

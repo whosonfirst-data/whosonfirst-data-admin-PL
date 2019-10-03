@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125306301,
+        85633723,
+        102079813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060304_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"49b9d609d3884f96d24b807c23bb56b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079813,
+            "localadmin_id":1125306301,
+            "locality_id":1477865729,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477865729,
-    "wof:lastmodified":1569966348,
+    "wof:lastmodified":1570054429,
     "wof:name":"Dorohusk",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125306301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

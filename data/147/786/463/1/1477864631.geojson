@@ -41,7 +41,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687319,
+        102191581,
+        1125362945,
+        85633723,
+        102080141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"041603_2"
@@ -51,11 +57,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"ed83633ca9855aa9347085d06b430e46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080141,
+            "localadmin_id":1125362945,
+            "locality_id":1477864631,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477864631,
-    "wof:lastmodified":1569966306,
+    "wof:lastmodified":1570054052,
     "wof:name":"K\u0119sowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125362945,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

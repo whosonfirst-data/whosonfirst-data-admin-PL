@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125359345,
+        85633723,
+        102080089
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"141302_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"68237de14cb1327c7b923139d3f35a54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080089,
+            "localadmin_id":1125359345,
+            "locality_id":1477864815,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477864815,
-    "wof:lastmodified":1569966437,
+    "wof:lastmodified":1570055214,
     "wof:name":"Dzierzgowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125359345,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

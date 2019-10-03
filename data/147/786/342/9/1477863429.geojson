@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687327,
+        102191581,
+        1125399495,
+        85633723,
+        102079975
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"080105_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"c3048370854e35f44cb032c795bed886",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079975,
+            "localadmin_id":1125399495,
+            "locality_id":1477863429,
+            "region_id":85687327
+        }
+    ],
     "wof:id":1477863429,
-    "wof:lastmodified":1569966498,
+    "wof:lastmodified":1570055740,
     "wof:name":"Lubiszyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125399495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

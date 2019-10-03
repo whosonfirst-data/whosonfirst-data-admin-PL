@@ -64,18 +64,33 @@
         "Gmina Koronowo"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687319,
+        102191581,
+        1125356747,
+        85633723,
+        102080085
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"040304_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"1e333d1495dc5643bea83685ac051d11",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080085,
+            "localadmin_id":1125356747,
+            "locality_id":1477863875,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477863875,
-    "wof:lastmodified":1569966506,
+    "wof:lastmodified":1570055818,
     "wof:name":"Gmina Koronowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125356747,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

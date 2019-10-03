@@ -35,7 +35,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687319,
+        102191581,
+        1125350675,
+        85633723,
+        102079993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"040902_2"
@@ -45,11 +51,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"015ee6d37f7ff9ab9d732239bfa4768c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079993,
+            "localadmin_id":1125350675,
+            "locality_id":1477866079,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477866079,
-    "wof:lastmodified":1569966483,
+    "wof:lastmodified":1570055619,
     "wof:name":"Jeziora Wielkie",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125350675,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

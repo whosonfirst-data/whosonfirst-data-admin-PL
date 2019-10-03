@@ -41,7 +41,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687287,
+        102191581,
+        1125288851,
+        85633723,
+        102079681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"260906_2"
@@ -51,11 +57,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"92649e847e0814ae6df4b0039bfd9b5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079681,
+            "localadmin_id":1125288851,
+            "locality_id":1477864261,
+            "region_id":85687287
+        }
+    ],
     "wof:id":1477864261,
-    "wof:lastmodified":1569966427,
+    "wof:lastmodified":1570055131,
     "wof:name":"Obraz\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125288851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

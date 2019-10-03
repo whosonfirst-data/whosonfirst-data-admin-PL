@@ -64,18 +64,33 @@
         "Gmina Pieni\u0119\u017cno"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687305,
+        102191581,
+        1125388659,
+        85633723,
+        102080237
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"280205_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"7bc45871d4529a552830c6ac2969b411",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080237,
+            "localadmin_id":1125388659,
+            "locality_id":1477864501,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477864501,
-    "wof:lastmodified":1569966474,
+    "wof:lastmodified":1570055535,
     "wof:name":"Gmina Pieni\u0119\u017cno",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125388659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

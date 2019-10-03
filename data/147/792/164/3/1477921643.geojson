@@ -39,7 +39,14 @@
     ],
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1125329169,
+        85633723,
+        101913783,
+        102079835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"106105_9"
@@ -47,11 +54,21 @@
     "wof:country":"PL",
     "wof:created":1569439032,
     "wof:geomhash":"95928ee180d871569e495118ea6732ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1477921643,
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079835,
+            "localadmin_id":1125329169,
+            "locality_id":101913783,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477921643,
-    "wof:lastmodified":1569965877,
+    "wof:lastmodified":1570056155,
     "wof:name":"\u015ar\u00f3dmie\u015bcie",
-    "wof:parent_id":-1,
+    "wof:parent_id":101913783,
     "wof:placetype":"borough",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687319,
+        102191581,
+        1125397147,
+        85633723,
+        102079997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"041803_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"a6ca6f4b8edbb84dda83b5711269fa78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079997,
+            "localadmin_id":1125397147,
+            "locality_id":1477863677,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477863677,
-    "wof:lastmodified":1569966411,
+    "wof:lastmodified":1570054985,
     "wof:name":"Boniewo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125397147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

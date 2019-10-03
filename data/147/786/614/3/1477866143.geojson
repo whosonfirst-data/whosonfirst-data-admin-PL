@@ -23,7 +23,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1125324111,
+        85633723,
+        102079831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"101603_2"
@@ -33,11 +39,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"9df608b0e53ed14d1785cc53b46b876a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079831,
+            "localadmin_id":1125324111,
+            "locality_id":1477866143,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477866143,
-    "wof:lastmodified":1569424046,
+    "wof:lastmodified":1570055134,
     "wof:name":"Budziszewice",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125324111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

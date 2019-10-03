@@ -41,7 +41,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687277,
+        102191581,
+        1125312497,
+        85633723,
+        102079663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"240405_2"
@@ -51,11 +57,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"0d0a9732a0b724004feddc14ac57ed2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079663,
+            "localadmin_id":1125312497,
+            "locality_id":1477864433,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477864433,
-    "wof:lastmodified":1569966434,
+    "wof:lastmodified":1570055191,
     "wof:name":"K\u0142omnice",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125312497,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

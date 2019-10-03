@@ -25,18 +25,33 @@
         "Szczawnica"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        1125358955,
+        85633723,
+        102079407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"121102_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"bb82aed364816b7148a14c48712283f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079407,
+            "localadmin_id":1125358955,
+            "locality_id":1477863725,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477863725,
-    "wof:lastmodified":1569023393,
+    "wof:lastmodified":1570055969,
     "wof:name":"Szczawnica Obszar Wiejski",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125358955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

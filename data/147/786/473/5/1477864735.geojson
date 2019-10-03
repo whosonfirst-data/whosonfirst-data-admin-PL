@@ -61,18 +61,33 @@
         "Gmina Rawa Mazowiecka"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1477751835,
+        85633723,
+        102079849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"101304_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"616b68fbfd23f838ce3ad094a6afbe7d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079849,
+            "localadmin_id":1477751835,
+            "locality_id":1477864735,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477864735,
-    "wof:lastmodified":1569966450,
+    "wof:lastmodified":1570055327,
     "wof:name":"Gmina Rawa Mazowiecka",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477751835,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

@@ -23,7 +23,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1125354173,
+        85633723,
+        102079783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"101004_2"
@@ -33,11 +39,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"db14892643d4c6e0d33b836a5c6e1be8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079783,
+            "localadmin_id":1125354173,
+            "locality_id":1477864955,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477864955,
-    "wof:lastmodified":1569423924,
+    "wof:lastmodified":1570055559,
     "wof:name":"Grabica",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125354173,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

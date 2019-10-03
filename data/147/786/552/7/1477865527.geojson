@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687313,
+        102191581,
+        1125312967,
+        85633723,
+        102079673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"160605_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"ae4a2253e40ff3df8f07377de2905ac3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079673,
+            "localadmin_id":1125312967,
+            "locality_id":1477865527,
+            "region_id":85687313
+        }
+    ],
     "wof:id":1477865527,
-    "wof:lastmodified":1569966393,
+    "wof:lastmodified":1570054843,
     "wof:name":"Wilk\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125312967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

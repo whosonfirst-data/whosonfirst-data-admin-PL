@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687327,
+        102191581,
+        1125324419,
+        85633723,
+        102079887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"080803_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"7784bbe55602cef8a78853a6de230427",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079887,
+            "localadmin_id":1125324419,
+            "locality_id":1477863965,
+            "region_id":85687327
+        }
+    ],
     "wof:id":1477863965,
-    "wof:lastmodified":1569966233,
+    "wof:lastmodified":1570053441,
     "wof:name":"Sk\u0105pe",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125324419,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

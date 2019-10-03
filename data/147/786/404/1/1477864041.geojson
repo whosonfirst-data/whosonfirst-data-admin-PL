@@ -34,18 +34,33 @@
         "Gmina Brzeziny"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1477751915,
+        85633723,
+        102079853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"102102_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"af7abf7caab38fb380b1ab5b43fcdf95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079853,
+            "localadmin_id":1477751915,
+            "locality_id":1477864041,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477864041,
-    "wof:lastmodified":1569966486,
+    "wof:lastmodified":1570055645,
     "wof:name":"Gmina Brzeziny",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477751915,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

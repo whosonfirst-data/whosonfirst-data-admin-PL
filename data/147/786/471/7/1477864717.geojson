@@ -67,18 +67,33 @@
         "Gmina Brusy"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687267,
+        102191581,
+        1477751641,
+        85633723,
+        102080161
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"220202_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"452fc700f56e5a5975b4e6dce5babc09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080161,
+            "localadmin_id":1477751641,
+            "locality_id":1477864717,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477864717,
-    "wof:lastmodified":1569966271,
+    "wof:lastmodified":1570053747,
     "wof:name":"Gmina Brusy",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477751641,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

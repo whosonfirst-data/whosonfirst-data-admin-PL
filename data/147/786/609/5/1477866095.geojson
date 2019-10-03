@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125304673,
+        85633723,
+        102079855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060811_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"dc0a67f4c50fb9fa923113d8b559ea16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079855,
+            "localadmin_id":1125304673,
+            "locality_id":1477866095,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477866095,
-    "wof:lastmodified":1569966488,
+    "wof:lastmodified":1570055657,
     "wof:name":"Ostr\u00f3wek",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125304673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

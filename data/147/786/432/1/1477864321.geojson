@@ -23,7 +23,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125302089,
+        85633723,
+        102079945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"142802_2"
@@ -33,11 +39,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"58952b087ec2460e149a8e973413199c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079945,
+            "localadmin_id":1125302089,
+            "locality_id":1477864321,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477864321,
-    "wof:lastmodified":1569423862,
+    "wof:lastmodified":1570055610,
     "wof:name":"Broch\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125302089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

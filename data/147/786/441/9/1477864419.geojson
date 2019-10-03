@@ -61,18 +61,33 @@
         "Gmina Lipiany"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687271,
+        102191581,
+        1125294609,
+        85633723,
+        102080041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"321203_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"93e43893849c0548bdfbc0f02af9d3b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080041,
+            "localadmin_id":1125294609,
+            "locality_id":1477864419,
+            "region_id":85687271
+        }
+    ],
     "wof:id":1477864419,
-    "wof:lastmodified":1569966289,
+    "wof:lastmodified":1570053901,
     "wof:name":"Gmina Lipiany",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125294609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

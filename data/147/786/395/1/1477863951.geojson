@@ -35,7 +35,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1477751901,
+        85633723,
+        102079905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"061504_2"
@@ -45,11 +51,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"50b8f3a9b5b2ce80b9e9cbde887458d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079905,
+            "localadmin_id":1477751901,
+            "locality_id":1477863951,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477863951,
-    "wof:lastmodified":1569966379,
+    "wof:lastmodified":1570054733,
     "wof:name":"K\u0105kolewnica",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477751901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

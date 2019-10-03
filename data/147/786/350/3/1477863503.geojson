@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687267,
+        102191581,
+        1125307905,
+        85633723,
+        102080255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"221206_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"232b638cd0d527b7e54dc196d9bf2a6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080255,
+            "localadmin_id":1125307905,
+            "locality_id":1477863503,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477863503,
-    "wof:lastmodified":1569966387,
+    "wof:lastmodified":1570054790,
     "wof:name":"Kobylnica",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125307905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

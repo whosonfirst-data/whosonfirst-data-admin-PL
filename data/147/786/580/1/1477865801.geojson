@@ -67,18 +67,33 @@
         "Gmina Dobczyce"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        1125283159,
+        85633723,
+        102079441
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"120901_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"6b8053eeb002a665f6d03f81ac79c655",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079441,
+            "localadmin_id":1125283159,
+            "locality_id":1477865801,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477865801,
-    "wof:lastmodified":1569966373,
+    "wof:lastmodified":1570054671,
     "wof:name":"Gmina Dobczyce",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125283159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

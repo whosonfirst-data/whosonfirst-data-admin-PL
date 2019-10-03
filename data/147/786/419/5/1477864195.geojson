@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1125312819,
+        85633723,
+        102079891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"100407_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"fd5c4c9813715f3e8e9d77a823e40b6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079891,
+            "localadmin_id":1125312819,
+            "locality_id":1477864195,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477864195,
-    "wof:lastmodified":1569966427,
+    "wof:lastmodified":1570055127,
     "wof:name":"\u015awinice Warckie",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125312819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

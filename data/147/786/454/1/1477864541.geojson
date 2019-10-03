@@ -64,18 +64,33 @@
         "Gmina Ostr\u00f3w Mazowiecka"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1477752745,
+        85633723,
+        102080057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"141607_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"b30d2fde67f8cbed43acf14ccc0f8887",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080057,
+            "localadmin_id":1477752745,
+            "locality_id":1477864541,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477864541,
-    "wof:lastmodified":1569966324,
+    "wof:lastmodified":1570054212,
     "wof:name":"Gmina Ostr\u00f3w Mazowiecka",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

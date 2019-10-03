@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1477753001,
+        85633723,
+        102080057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"141609_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"ee3d6853d1d9c03e16ebd38acc00002e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080057,
+            "localadmin_id":1477753001,
+            "locality_id":1477863375,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477863375,
-    "wof:lastmodified":1569966245,
+    "wof:lastmodified":1570053540,
     "wof:name":"Szulborze Wielkie",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477753001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

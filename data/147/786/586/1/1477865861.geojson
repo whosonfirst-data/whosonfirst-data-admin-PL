@@ -35,7 +35,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125397097,
+        85633723,
+        102080035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"142706_2"
@@ -45,11 +51,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"1d189ef69ae4a6454096a81074bb8726",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080035,
+            "localadmin_id":1125397097,
+            "locality_id":1477865861,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477865861,
-    "wof:lastmodified":1569966349,
+    "wof:lastmodified":1570054442,
     "wof:name":"Szczutowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125397097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

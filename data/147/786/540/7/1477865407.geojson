@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125372907,
+        85633723,
+        102079973
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060108_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"397f5fc1cf8ae78c57366c8799a3b838",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079973,
+            "localadmin_id":1125372907,
+            "locality_id":1477865407,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477865407,
-    "wof:lastmodified":1569966496,
+    "wof:lastmodified":1570055724,
     "wof:name":"Le\u015bna Podlaska",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125372907,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

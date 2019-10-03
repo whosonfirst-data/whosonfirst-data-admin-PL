@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125294941,
+        85633723,
+        102080027
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"142403_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"9137f3dca031a17478fd97d8cd8f3ca8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080027,
+            "localadmin_id":1125294941,
+            "locality_id":1477863601,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477863601,
-    "wof:lastmodified":1569966415,
+    "wof:lastmodified":1570055022,
     "wof:name":"Pokrzywnica",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125294941,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

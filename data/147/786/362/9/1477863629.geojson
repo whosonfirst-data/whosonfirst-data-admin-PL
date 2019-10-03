@@ -53,7 +53,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687313,
+        102191581,
+        1125285249,
+        85633723,
+        102079631
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"160106_2"
@@ -63,11 +69,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"07a6202c7b89ebbc6e078ff8452e67a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079631,
+            "localadmin_id":1125285249,
+            "locality_id":1477863629,
+            "region_id":85687313
+        }
+    ],
     "wof:id":1477863629,
-    "wof:lastmodified":1569966231,
+    "wof:lastmodified":1570053420,
     "wof:name":"Olszanka",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125285249,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

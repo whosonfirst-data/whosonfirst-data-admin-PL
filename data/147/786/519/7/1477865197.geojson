@@ -35,7 +35,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687277,
+        102191581,
+        1125302275,
+        85633723,
+        102079475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"241405_2"
@@ -45,11 +51,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"bd9dcb270e74330cd554e49b7b298fea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079475,
+            "localadmin_id":1125302275,
+            "locality_id":1477865197,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477865197,
-    "wof:lastmodified":1569966347,
+    "wof:lastmodified":1570054419,
     "wof:name":"Che\u0142m \u015al\u0105ski",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125302275,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

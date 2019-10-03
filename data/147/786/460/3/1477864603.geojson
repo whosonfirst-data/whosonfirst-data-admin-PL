@@ -61,18 +61,33 @@
         "Gmina Nowe Warpno"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687271,
+        102191581,
+        1125307985,
+        85633723,
+        102080119
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"321103_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"235148d7af941c37c0336dbf242136a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080119,
+            "localadmin_id":1125307985,
+            "locality_id":1477864603,
+            "region_id":85687271
+        }
+    ],
     "wof:id":1477864603,
-    "wof:lastmodified":1569966460,
+    "wof:lastmodified":1570055416,
     "wof:name":"Gmina Nowe Warpno",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125307985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

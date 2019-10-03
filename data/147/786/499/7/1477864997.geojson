@@ -61,18 +61,33 @@
         "Gmina Limanowa"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        1477751333,
+        85633723,
+        102079423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"120707_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"aa8f51df83d84c03c27ce464d703f21d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079423,
+            "localadmin_id":1477751333,
+            "locality_id":1477864997,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477864997,
-    "wof:lastmodified":1569966310,
+    "wof:lastmodified":1570054092,
     "wof:name":"Gmina Limanowa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477751333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687287,
+        102191581,
+        1125386727,
+        85633723,
+        102079681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"260908_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"2eaf6a9dafe1473c470ff3a2051d2245",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079681,
+            "localadmin_id":1125386727,
+            "locality_id":1477865567,
+            "region_id":85687287
+        }
+    ],
     "wof:id":1477865567,
-    "wof:lastmodified":1569966219,
+    "wof:lastmodified":1570053303,
     "wof:name":"Wilczyce",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125386727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

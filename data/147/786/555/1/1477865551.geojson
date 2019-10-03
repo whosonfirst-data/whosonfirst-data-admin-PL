@@ -58,18 +58,33 @@
         "Gmina Pelplin"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687267,
+        102191581,
+        1477752103,
+        85633723,
+        102080191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"221404_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"b1d300e1493de0eecedf8019778acb50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080191,
+            "localadmin_id":1477752103,
+            "locality_id":1477865551,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477865551,
-    "wof:lastmodified":1569966392,
+    "wof:lastmodified":1570054837,
     "wof:name":"Gmina Pelplin",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752103,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

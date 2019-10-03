@@ -74,7 +74,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687323,
+        102191581,
+        1125288989,
+        85633723,
+        102079829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"300405_2"
@@ -84,11 +90,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"209e2b8ffcecee561cba883b06f8145d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079829,
+            "localadmin_id":1125288989,
+            "locality_id":1477863789,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477863789,
-    "wof:lastmodified":1569966367,
+    "wof:lastmodified":1570054625,
     "wof:name":"Piaski",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125288989,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

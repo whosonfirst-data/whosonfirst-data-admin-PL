@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125355195,
+        85633723,
+        102080031
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"142012_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"780ad5e0b0bddf588c09cea154015186",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080031,
+            "localadmin_id":1125355195,
+            "locality_id":1477863577,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477863577,
-    "wof:lastmodified":1569966391,
+    "wof:lastmodified":1570054822,
     "wof:name":"Za\u0142uski",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125355195,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

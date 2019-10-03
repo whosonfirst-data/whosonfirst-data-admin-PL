@@ -41,7 +41,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687323,
+        102191581,
+        1125370951,
+        85633723,
+        102079967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"300308_2"
@@ -51,11 +57,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"7b28415e679a5f10a9c0d4f65993ee1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079967,
+            "localadmin_id":1125370951,
+            "locality_id":1477864307,
+            "region_id":85687323
+        }
+    ],
     "wof:id":1477864307,
-    "wof:lastmodified":1569966302,
+    "wof:lastmodified":1570054013,
     "wof:name":"Niechanowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125370951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

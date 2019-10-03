@@ -66,7 +66,14 @@
     ],
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125365875,
+        85633723,
+        101752777,
+        1477743805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"146513_8"
@@ -74,11 +81,21 @@
     "wof:country":"PL",
     "wof:created":1569439038,
     "wof:geomhash":"04f3a0b40eb2db5eaa7505bde5948116",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":1477921697,
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":1477743805,
+            "localadmin_id":1125365875,
+            "locality_id":101752777,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477921697,
-    "wof:lastmodified":1569965874,
+    "wof:lastmodified":1570056113,
     "wof:name":"Ursyn\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752777,
     "wof:placetype":"borough",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

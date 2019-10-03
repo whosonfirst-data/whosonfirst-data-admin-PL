@@ -35,7 +35,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687277,
+        102191581,
+        1125383353,
+        85633723,
+        102079445
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"241507_2"
@@ -45,11 +51,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"2985b7a32b11a81d965764e4c9eae5d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079445,
+            "localadmin_id":1125383353,
+            "locality_id":1477864981,
+            "region_id":85687277
+        }
+    ],
     "wof:id":1477864981,
-    "wof:lastmodified":1569966326,
+    "wof:lastmodified":1570054220,
     "wof:name":"Lubomia",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125383353,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -61,18 +61,33 @@
         "Gmina Sieradz"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1477752195,
+        85633723,
+        102079819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"101408_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"85f93a75562d025af9e2855098b03f00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079819,
+            "localadmin_id":1477752195,
+            "locality_id":1477864977,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477864977,
-    "wof:lastmodified":1569966307,
+    "wof:lastmodified":1570054062,
     "wof:name":"Gmina Sieradz",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752195,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

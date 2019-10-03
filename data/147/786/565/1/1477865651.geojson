@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687295,
+        102191581,
+        1125308285,
+        85633723,
+        102079437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"181704_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"73e847ea95bbc31313388590779c352a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079437,
+            "localadmin_id":1125308285,
+            "locality_id":1477865651,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477865651,
-    "wof:lastmodified":1569966420,
+    "wof:lastmodified":1570055070,
     "wof:name":"Koma\u0144cza",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125308285,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

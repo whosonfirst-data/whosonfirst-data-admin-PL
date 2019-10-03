@@ -23,7 +23,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125288609,
+        85633723,
+        102080023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"142906_2"
@@ -33,11 +39,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"c9334585fd02a31dddceda87f1a94b6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080023,
+            "localadmin_id":1125288609,
+            "locality_id":1477864875,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477864875,
-    "wof:lastmodified":1569423912,
+    "wof:lastmodified":1570055318,
     "wof:name":"Repki",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125288609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

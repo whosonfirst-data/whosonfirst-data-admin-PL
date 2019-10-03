@@ -41,7 +41,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687319,
+        102191581,
+        1125324145,
+        85633723,
+        102080033
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"040803_2"
@@ -51,11 +57,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"32dabf0fa8b59752e9823dde545802af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080033,
+            "localadmin_id":1125324145,
+            "locality_id":1477864619,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477864619,
-    "wof:lastmodified":1569966477,
+    "wof:lastmodified":1570055560,
     "wof:name":"Chrostkowo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125324145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

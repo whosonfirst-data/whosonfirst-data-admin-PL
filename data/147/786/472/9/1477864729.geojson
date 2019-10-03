@@ -25,18 +25,33 @@
         "Drawsko Pomorskie"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687271,
+        102191581,
+        1477752063,
+        85633723,
+        102080113
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"320302_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"b8400b16b0e7bee53e1942f1e304364e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080113,
+            "localadmin_id":1477752063,
+            "locality_id":1477864729,
+            "region_id":85687271
+        }
+    ],
     "wof:id":1477864729,
-    "wof:lastmodified":1569023468,
+    "wof:lastmodified":1570055225,
     "wof:name":"Drawsko Pomorskie Obszar Wiejski",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

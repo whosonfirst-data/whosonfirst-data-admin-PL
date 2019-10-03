@@ -212,7 +212,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125274849,
+        85633723,
+        102079697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060502_2"
@@ -222,11 +228,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"6c805118ad07a0c54d06adeb6c6c9814",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079697,
+            "localadmin_id":1125274849,
+            "locality_id":1477865417,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477865417,
-    "wof:lastmodified":1569966510,
+    "wof:lastmodified":1570055851,
     "wof:name":"Chrzan\u00f3w",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125274849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

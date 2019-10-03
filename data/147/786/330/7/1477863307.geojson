@@ -67,18 +67,33 @@
         "Gmina Lesko"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687295,
+        102191581,
+        1125335111,
+        85633723,
+        102079415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"182103_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"b98e4026c9b7625a0cb0b60c781f5cb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079415,
+            "localadmin_id":1125335111,
+            "locality_id":1477863307,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477863307,
-    "wof:lastmodified":1569966239,
+    "wof:lastmodified":1570053496,
     "wof:name":"Gmina Lesko",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125335111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

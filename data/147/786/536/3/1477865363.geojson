@@ -50,7 +50,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687283,
+        102191581,
+        1477753025,
+        85633723,
+        102080145
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"200204_2"
@@ -60,11 +66,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"19c98ba683b73045c3d4ebd5a1404d8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080145,
+            "localadmin_id":1477753025,
+            "locality_id":1477865363,
+            "region_id":85687283
+        }
+    ],
     "wof:id":1477865363,
-    "wof:lastmodified":1569966416,
+    "wof:lastmodified":1570055031,
     "wof:name":"Gr\u00f3dek",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477753025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

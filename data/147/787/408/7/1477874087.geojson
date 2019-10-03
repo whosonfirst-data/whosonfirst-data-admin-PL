@@ -125,7 +125,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1477752987,
+        85633723,
+        102079731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"101801_2"
@@ -135,11 +141,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"91a25495f5d3fbca1d9d12de5bd9b45d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079731,
+            "localadmin_id":1477752987,
+            "locality_id":1477874087,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477874087,
-    "wof:lastmodified":1569966532,
+    "wof:lastmodified":1570056024,
     "wof:name":"Boles\u0142awiec",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752987,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

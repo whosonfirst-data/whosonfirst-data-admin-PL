@@ -61,18 +61,33 @@
         "Gmina Lubawa"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687305,
+        102191581,
+        1477752397,
+        85633723,
+        102080171
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"280705_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"d63fe55a3a237ecca75643e2f23a476c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080171,
+            "localadmin_id":1477752397,
+            "locality_id":1477865681,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477865681,
-    "wof:lastmodified":1569966248,
+    "wof:lastmodified":1570053569,
     "wof:name":"Gmina Lubawa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

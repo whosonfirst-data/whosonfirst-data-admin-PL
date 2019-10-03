@@ -56,7 +56,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125370961,
+        85633723,
+        102079905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"061502_2"
@@ -66,11 +72,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"e6d65164398be1ab2ad5df4d86f1dd99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079905,
+            "localadmin_id":1125370961,
+            "locality_id":1477866005,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477866005,
-    "wof:lastmodified":1569966481,
+    "wof:lastmodified":1570055605,
     "wof:name":"Borki",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125370961,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

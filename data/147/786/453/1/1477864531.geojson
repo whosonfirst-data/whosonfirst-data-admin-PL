@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687261,
+        102191581,
+        1125385831,
+        85633723,
+        102079849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"101303_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"91834584ec05e9084fb963583c2c9f1c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079849,
+            "localadmin_id":1125385831,
+            "locality_id":1477864531,
+            "region_id":85687261
+        }
+    ],
     "wof:id":1477864531,
-    "wof:lastmodified":1569966326,
+    "wof:lastmodified":1570054228,
     "wof:name":"Ciel\u0105dz",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125385831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

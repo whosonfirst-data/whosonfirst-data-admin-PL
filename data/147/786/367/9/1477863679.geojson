@@ -64,18 +64,33 @@
         "Gmina Che\u0142mno"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687319,
+        102191581,
+        1125383959,
+        85633723,
+        102080093
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"040402_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"c73d107f7b3e3a9c68b9c7f6695a04b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080093,
+            "localadmin_id":1125383959,
+            "locality_id":1477863679,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477863679,
-    "wof:lastmodified":1569966411,
+    "wof:lastmodified":1570054985,
     "wof:name":"Gmina Che\u0142mno",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125383959,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

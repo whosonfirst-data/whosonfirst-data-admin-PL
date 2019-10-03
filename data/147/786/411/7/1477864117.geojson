@@ -61,18 +61,33 @@
         "Gmina Kamie\u0144 Kraje\u0144ski"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687319,
+        102191581,
+        1125338801,
+        85633723,
+        102080107
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"041301_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"40d14160c3cf1a602cd72767f1a35420",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080107,
+            "localadmin_id":1125338801,
+            "locality_id":1477864117,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477864117,
-    "wof:lastmodified":1569966441,
+    "wof:lastmodified":1570055246,
     "wof:name":"Gmina Kamie\u0144 Kraje\u0144ski",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125338801,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

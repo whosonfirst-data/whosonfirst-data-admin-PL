@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687257,
+        102191581,
+        1125375663,
+        85633723,
+        102080117
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"142203_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"13cb2dd0e59b742759e774ba0699673e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080117,
+            "localadmin_id":1125375663,
+            "locality_id":1477863587,
+            "region_id":85687257
+        }
+    ],
     "wof:id":1477863587,
-    "wof:lastmodified":1569966409,
+    "wof:lastmodified":1570054969,
     "wof:name":"Czernice Borowe",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125375663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

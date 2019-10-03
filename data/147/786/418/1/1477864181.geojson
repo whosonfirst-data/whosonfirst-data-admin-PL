@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687327,
+        102191581,
+        1125304275,
+        85633723,
+        102079851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"080909_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"78fd0cc639a83ca576ad704772040869",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079851,
+            "localadmin_id":1125304275,
+            "locality_id":1477864181,
+            "region_id":85687327
+        }
+    ],
     "wof:id":1477864181,
-    "wof:lastmodified":1569966446,
+    "wof:lastmodified":1570055294,
     "wof:name":"Zab\u00f3r",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125304275,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

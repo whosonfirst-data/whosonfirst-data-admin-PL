@@ -44,7 +44,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687295,
+        102191581,
+        1125376565,
+        85633723,
+        102079437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"181706_2"
@@ -54,11 +60,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"0ee67d97d4ba7d2b4a5d2fff75146300",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079437,
+            "localadmin_id":1125376565,
+            "locality_id":1477863695,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477863695,
-    "wof:lastmodified":1569966404,
+    "wof:lastmodified":1570054924,
     "wof:name":"Tyrawa Wo\u0142oska",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125376565,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

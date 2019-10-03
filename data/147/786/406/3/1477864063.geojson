@@ -64,18 +64,33 @@
         "Gmina Su\u0142kowice"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        1125291977,
+        85633723,
+        102079441
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"120907_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"2be3512591a9f18e2d2cdedecd5125b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079441,
+            "localadmin_id":1125291977,
+            "locality_id":1477864063,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477864063,
-    "wof:lastmodified":1569966299,
+    "wof:lastmodified":1570053986,
     "wof:name":"Gmina Su\u0142kowice",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125291977,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

@@ -152,7 +152,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687301,
+        102191581,
+        1125415081,
+        85633723,
+        102079603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"026101_1"
@@ -162,11 +168,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"bb358435c2d67323d82d2d586f39d15d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079603,
+            "localadmin_id":1125415081,
+            "locality_id":1477863727,
+            "region_id":85687301
+        }
+    ],
     "wof:id":1477863727,
-    "wof:lastmodified":1569966524,
+    "wof:lastmodified":1570055962,
     "wof:name":"Jelenia G\u00f3ra",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125415081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

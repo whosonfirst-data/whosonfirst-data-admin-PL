@@ -47,7 +47,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        1125365983,
+        85633723,
+        102079973
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"060119_2"
@@ -57,11 +63,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"7e4a7d995ef550f7d8e2b5377f05174a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079973,
+            "localadmin_id":1125365983,
+            "locality_id":1477865415,
+            "region_id":85687309
+        }
+    ],
     "wof:id":1477865415,
-    "wof:lastmodified":1569966510,
+    "wof:lastmodified":1570055857,
     "wof:name":"Zalesie",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125365983,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

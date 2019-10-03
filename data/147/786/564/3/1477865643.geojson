@@ -67,18 +67,33 @@
         "Gmina Puck"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687267,
+        102191581,
+        1125304211,
+        85633723,
+        102080269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"221107_2"
     },
     "wof:country":"PL",
     "wof:geomhash":"c30270ed456fb255749e20b7ecdb5d95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080269,
+            "localadmin_id":1125304211,
+            "locality_id":1477865643,
+            "region_id":85687267
+        }
+    ],
     "wof:id":1477865643,
-    "wof:lastmodified":1569966398,
+    "wof:lastmodified":1570054879,
     "wof:name":"Gmina Puck",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125304211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

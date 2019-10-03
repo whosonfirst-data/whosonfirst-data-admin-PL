@@ -64,18 +64,33 @@
         "Gmina Zalewo"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687305,
+        102191581,
+        1125290149,
+        85633723,
+        102080171
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"280707_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"c501aece8f885f2ec02ef993a941413e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080171,
+            "localadmin_id":1125290149,
+            "locality_id":1477863877,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477863877,
-    "wof:lastmodified":1569966505,
+    "wof:lastmodified":1570055815,
     "wof:name":"Gmina Zalewo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125290149,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

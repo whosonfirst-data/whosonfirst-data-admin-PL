@@ -23,7 +23,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687319,
+        102191581,
+        1125408957,
+        85633723,
+        102079997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"041807_2"
@@ -33,11 +39,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"b8e54a5b20070cd4b2b4aa3268776239",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079997,
+            "localadmin_id":1125408957,
+            "locality_id":1477863689,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477863689,
-    "wof:lastmodified":1569423795,
+    "wof:lastmodified":1570054800,
     "wof:name":"Fabianki",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125408957,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

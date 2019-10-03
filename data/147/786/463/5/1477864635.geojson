@@ -41,7 +41,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687319,
+        102191581,
+        1125324755,
+        85633723,
+        102080063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"041509_2"
@@ -51,11 +57,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"fd1301c5b53d06a08d5c2ae2f383a6cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080063,
+            "localadmin_id":1125324755,
+            "locality_id":1477864635,
+            "region_id":85687319
+        }
+    ],
     "wof:id":1477864635,
-    "wof:lastmodified":1569966306,
+    "wof:lastmodified":1570054059,
     "wof:name":"Z\u0142awie\u015b Wielka",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125324755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

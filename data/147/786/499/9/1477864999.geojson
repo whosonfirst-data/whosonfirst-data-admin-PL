@@ -23,7 +23,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687291,
+        102191581,
+        1477752799,
+        85633723,
+        102079541
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"120602_2"
@@ -33,11 +39,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"7c35e5c4b8866a601ebebb3c44901c94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079541,
+            "localadmin_id":1477752799,
+            "locality_id":1477864999,
+            "region_id":85687291
+        }
+    ],
     "wof:id":1477864999,
-    "wof:lastmodified":1569423927,
+    "wof:lastmodified":1570054088,
     "wof:name":"Igo\u0142omia-Wawrze\u0144czyce",
-    "wof:parent_id":-1,
+    "wof:parent_id":1477752799,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -38,7 +38,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687295,
+        102191581,
+        1125370849,
+        85633723,
+        102079585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"181610_2"
@@ -48,11 +54,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"4b455b81fb0658e15e9d9b4e6d18e77c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079585,
+            "localadmin_id":1125370849,
+            "locality_id":1477864579,
+            "region_id":85687295
+        }
+    ],
     "wof:id":1477864579,
-    "wof:lastmodified":1569966475,
+    "wof:lastmodified":1570055545,
     "wof:name":"Lubenia",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125370849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

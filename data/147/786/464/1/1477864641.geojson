@@ -25,18 +25,33 @@
         "Biskupiec"
     ],
     "src:geom":"pl-gugik",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687305,
+        102191581,
+        1125377833,
+        85633723,
+        102080207
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"281402_5"
     },
     "wof:country":"PL",
     "wof:geomhash":"37587eeaba242b0dac9d32c3d854e032",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102080207,
+            "localadmin_id":1125377833,
+            "locality_id":1477864641,
+            "region_id":85687305
+        }
+    ],
     "wof:id":1477864641,
-    "wof:lastmodified":1569023462,
+    "wof:lastmodified":1570054081,
     "wof:name":"Biskupiec Obszar Wiejski",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125377833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:statistical_gore":1,

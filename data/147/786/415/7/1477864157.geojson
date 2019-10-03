@@ -23,7 +23,13 @@
     "src:geom_alt":[
         "pl-gugik"
     ],
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687313,
+        102191581,
+        1125385791,
+        85633723,
+        102079569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pl-gugik:jpt_kod_je":"160702_2"
@@ -33,11 +39,20 @@
     ],
     "wof:country":"PL",
     "wof:geomhash":"a928f9e84d60b4bc6d9ad6068168cb82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079569,
+            "localadmin_id":1125385791,
+            "locality_id":1477864157,
+            "region_id":85687313
+        }
+    ],
     "wof:id":1477864157,
-    "wof:lastmodified":1569423841,
+    "wof:lastmodified":1570053911,
     "wof:name":"Kamiennik",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125385791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
