@@ -134,9 +134,9 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "pl-gugik",
-        "quattroshapes"
+        "pl",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -161,6 +161,11 @@
         1125409195
     ],
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "pl-gugik",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b0ce43e46b0b96abe587f17b6a4550d",
     "wof:hierarchy":[
         {
@@ -173,7 +178,7 @@
         }
     ],
     "wof:id":101824979,
-    "wof:lastmodified":1570034370,
+    "wof:lastmodified":1582357625,
     "wof:name":"Polanica-Zdr\u00f3j",
     "wof:parent_id":1125409195,
     "wof:placetype":"locality",

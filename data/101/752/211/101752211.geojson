@@ -235,8 +235,9 @@
     "qs:type":"urban core",
     "src:geom":"pl-gugik",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "pl",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -259,6 +260,11 @@
         "wk:page":"Che\u0142m"
     },
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "pl-gugik",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d6f46c43cf8a05fe9a1a0aab132d1c07",
     "wof:hierarchy":[
         {
@@ -274,7 +280,7 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1570030762,
+    "wof:lastmodified":1582357522,
     "wof:name":"Che\u0142m",
     "wof:parent_id":1125366827,
     "wof:placetype":"locality",

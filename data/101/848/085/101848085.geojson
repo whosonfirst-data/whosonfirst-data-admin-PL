@@ -122,8 +122,9 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"pl-gugik",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "pl",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -150,6 +151,11 @@
         "qs_pg:id":1031036
     },
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "pl-gugik",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3813d2a9db201d82058a30053eb21ef9",
     "wof:hierarchy":[
         {
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":101848085,
-    "wof:lastmodified":1570033909,
+    "wof:lastmodified":1582357611,
     "wof:name":"Wierusz\u00f3w",
     "wof:parent_id":1125324965,
     "wof:placetype":"locality",

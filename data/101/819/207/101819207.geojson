@@ -153,8 +153,9 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"pl-gugik",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "pl",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -179,6 +180,11 @@
         "qs_pg:id":1060355
     },
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "pl-gugik",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a07f6107cc75a00d1dfa3d15f44b09ad",
     "wof:hierarchy":[
         {
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":101819207,
-    "wof:lastmodified":1570033140,
+    "wof:lastmodified":1582357582,
     "wof:name":"Z\u0142ot\u00f3w",
     "wof:parent_id":1477752323,
     "wof:placetype":"locality",

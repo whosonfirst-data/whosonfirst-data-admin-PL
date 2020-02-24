@@ -98,9 +98,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
         "quattroshapes",
-        "pl-gugik"
+        "pl",
+        "quattroshapes_pg"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -131,6 +131,11 @@
         1125396833
     ],
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "pl-gugik",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"93e579bf397d5298fbb931f8ab5e116d",
     "wof:hierarchy":[
         {
@@ -143,7 +148,7 @@
         }
     ],
     "wof:id":101863231,
-    "wof:lastmodified":1570035175,
+    "wof:lastmodified":1582357648,
     "wof:name":"Pcim",
     "wof:parent_id":1125396833,
     "wof:placetype":"locality",

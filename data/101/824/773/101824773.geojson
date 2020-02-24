@@ -129,8 +129,9 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"pl-gugik",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "pl",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -154,6 +155,11 @@
         "wk:page":"Brzeszcze"
     },
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "pl-gugik",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"98141da53061b756d8956ca25d3da955",
     "wof:hierarchy":[
         {
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":101824773,
-    "wof:lastmodified":1570034484,
+    "wof:lastmodified":1582357629,
     "wof:name":"Brzeszcze",
     "wof:parent_id":1477752425,
     "wof:placetype":"locality",

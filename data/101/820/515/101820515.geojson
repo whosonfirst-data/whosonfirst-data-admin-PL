@@ -89,9 +89,9 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "pl-gugik",
-        "quattroshapes"
+        "quattroshapes",
+        "pl",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -119,6 +119,11 @@
         1125324275
     ],
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "pl-gugik",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0ef77e23fa49d2a800f97bee24a7e957",
     "wof:hierarchy":[
         {
@@ -131,7 +136,7 @@
         }
     ],
     "wof:id":101820515,
-    "wof:lastmodified":1570031871,
+    "wof:lastmodified":1582357550,
     "wof:name":"Czerwi\u0144sk nad Wis\u0142\u0105",
     "wof:parent_id":1125324275,
     "wof:placetype":"locality",

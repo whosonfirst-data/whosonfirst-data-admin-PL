@@ -151,8 +151,9 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"pl-gugik",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "pl",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -176,6 +177,11 @@
         "qs_pg:id":1237119
     },
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "pl-gugik",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"36deec9b793f350abcdf137442a28c3b",
     "wof:hierarchy":[
         {
@@ -188,7 +194,7 @@
         }
     ],
     "wof:id":101819139,
-    "wof:lastmodified":1570033073,
+    "wof:lastmodified":1582357580,
     "wof:name":"Bielsk Podlaski",
     "wof:parent_id":1125309283,
     "wof:placetype":"locality",

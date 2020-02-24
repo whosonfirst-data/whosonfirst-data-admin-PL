@@ -71,9 +71,9 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "pl-gugik",
-        "quattroshapes"
+        "pl",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -100,6 +100,11 @@
         1125356015
     ],
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "pl-gugik",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"427c2c9622425ebfb49d209313095e41",
     "wof:hierarchy":[
         {
@@ -112,7 +117,7 @@
         }
     ],
     "wof:id":101819397,
-    "wof:lastmodified":1570032897,
+    "wof:lastmodified":1582357575,
     "wof:name":"Ustronie Morskie",
     "wof:parent_id":1125356015,
     "wof:placetype":"locality",

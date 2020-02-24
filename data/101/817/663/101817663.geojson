@@ -158,8 +158,9 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"pl-gugik",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "pl",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -181,6 +182,11 @@
         "wk:page":"Ostr\u00f3da"
     },
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "pl-gugik",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c78bf44be02ca3b4467c3fef0e3ae37a",
     "wof:hierarchy":[
         {
@@ -193,7 +199,7 @@
         }
     ],
     "wof:id":101817663,
-    "wof:lastmodified":1570032231,
+    "wof:lastmodified":1582357560,
     "wof:name":"Ostr\u00f3da",
     "wof:parent_id":1477751187,
     "wof:placetype":"locality",

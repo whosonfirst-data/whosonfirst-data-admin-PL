@@ -212,9 +212,9 @@
     "qs:type":"urban core",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "pl-gugik",
-        "quattroshapes"
+        "pl",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -241,6 +241,11 @@
         1125380969
     ],
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "pl-gugik",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4ea8ff3b4948ea36af51403a14fbde10",
     "wof:hierarchy":[
         {
@@ -253,7 +258,7 @@
         }
     ],
     "wof:id":101752157,
-    "wof:lastmodified":1570030732,
+    "wof:lastmodified":1582357520,
     "wof:name":"Tarnowskie G\u00f3ry",
     "wof:parent_id":1125380969,
     "wof:placetype":"locality",
