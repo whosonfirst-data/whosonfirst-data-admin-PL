@@ -83,9 +83,9 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "pl-gugik",
-        "quattroshapes"
+        "pl",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -110,6 +110,11 @@
         1125421909
     ],
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "pl-gugik",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7749c98f2da6fd10cdefc7dde3d3359e",
     "wof:hierarchy":[
         {
@@ -122,7 +127,7 @@
         }
     ],
     "wof:id":101842385,
-    "wof:lastmodified":1570031942,
+    "wof:lastmodified":1582357552,
     "wof:name":"Buczkowice",
     "wof:parent_id":1125421909,
     "wof:placetype":"locality",

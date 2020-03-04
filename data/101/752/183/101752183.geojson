@@ -152,9 +152,9 @@
     "qs:type":"urban core",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "pl-gugik",
-        "quattroshapes"
+        "quattroshapes",
+        "pl",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -179,6 +179,11 @@
         1125280473
     ],
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "pl-gugik",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"34c5c3d3ebdbec7112d8ff8568691f00",
     "wof:hierarchy":[
         {
@@ -191,7 +196,7 @@
         }
     ],
     "wof:id":101752183,
-    "wof:lastmodified":1570031098,
+    "wof:lastmodified":1582357532,
     "wof:name":"Stalowa Wola",
     "wof:parent_id":1125280473,
     "wof:placetype":"locality",

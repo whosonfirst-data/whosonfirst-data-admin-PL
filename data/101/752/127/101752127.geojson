@@ -569,9 +569,9 @@
     "qs:type":"urban core",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "pl-gugik",
-        "quattroshapes"
+        "quattroshapes",
+        "pl",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -600,6 +600,11 @@
         1125280589
     ],
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "pl-gugik",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf286e450d8c6fae22661decb4fe29ec",
     "wof:hierarchy":[
         {
@@ -612,7 +617,7 @@
         }
     ],
     "wof:id":101752127,
-    "wof:lastmodified":1570030856,
+    "wof:lastmodified":1582357525,
     "wof:name":"Katowice",
     "wof:parent_id":1125280589,
     "wof:placetype":"locality",

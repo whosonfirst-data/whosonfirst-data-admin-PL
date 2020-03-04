@@ -182,9 +182,9 @@
     "qs:type":"urban core",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "pl-gugik",
-        "quattroshapes"
+        "quattroshapes",
+        "pl",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -212,6 +212,11 @@
         1125328009
     ],
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "pl-gugik",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7448255209d658745136123b6748f15",
     "wof:hierarchy":[
         {
@@ -224,7 +229,7 @@
         }
     ],
     "wof:id":101752153,
-    "wof:lastmodified":1570030991,
+    "wof:lastmodified":1582357528,
     "wof:name":"B\u0119dzin",
     "wof:parent_id":1125328009,
     "wof:placetype":"locality",

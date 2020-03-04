@@ -120,8 +120,9 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"pl-gugik",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "pl",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -145,6 +146,11 @@
         "wk:page":"Skocz\u00f3w"
     },
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "pl-gugik",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43e61ddf99ddeac3e6f0244677089ba4",
     "wof:hierarchy":[
         {
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":101826131,
-    "wof:lastmodified":1570033300,
+    "wof:lastmodified":1582357588,
     "wof:name":"Skocz\u00f3w",
     "wof:parent_id":1125290777,
     "wof:placetype":"locality",

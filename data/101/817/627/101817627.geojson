@@ -129,8 +129,9 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"pl-gugik",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "pl",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -157,6 +158,11 @@
         "qs_pg:id":310099
     },
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "pl-gugik",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"67051ef8d7f4f43d329ef7782265e3f1",
     "wof:hierarchy":[
         {
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":101817627,
-    "wof:lastmodified":1570032093,
+    "wof:lastmodified":1582357556,
     "wof:name":"Suchowola",
     "wof:parent_id":1125289651,
     "wof:placetype":"locality",

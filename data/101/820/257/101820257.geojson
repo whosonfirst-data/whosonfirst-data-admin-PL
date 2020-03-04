@@ -152,8 +152,9 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"pl-gugik",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "pl",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -175,6 +176,11 @@
         "wk:page":"Ko\u0142o"
     },
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "pl-gugik",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"387301187c47110fe4de76bf0b993bec",
     "wof:hierarchy":[
         {
@@ -187,7 +193,7 @@
         }
     ],
     "wof:id":101820257,
-    "wof:lastmodified":1570031445,
+    "wof:lastmodified":1582357540,
     "wof:name":"Ko\u0142o",
     "wof:parent_id":1477751959,
     "wof:placetype":"locality",

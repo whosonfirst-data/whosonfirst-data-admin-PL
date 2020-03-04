@@ -113,8 +113,9 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"pl-gugik",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "pl",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -138,6 +139,11 @@
         "wk:page":"Rzg\u00f3w"
     },
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "pl-gugik",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc01a6580ac04128b52758df61c68ba2",
     "wof:hierarchy":[
         {
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":101756635,
-    "wof:lastmodified":1570033508,
+    "wof:lastmodified":1582357596,
     "wof:name":"Rzg\u00f3w",
     "wof:parent_id":1477751555,
     "wof:placetype":"locality",

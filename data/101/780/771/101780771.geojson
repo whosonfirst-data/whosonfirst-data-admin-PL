@@ -332,9 +332,9 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "pl-gugik",
-        "quattroshapes"
+        "quattroshapes",
+        "pl",
+        "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -359,6 +359,11 @@
         1125356033
     ],
     "wof:country":"PL",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "pl-gugik",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b6d89f28fe456ce46028f4ba8c15db4a",
     "wof:hierarchy":[
         {
@@ -371,7 +376,7 @@
         }
     ],
     "wof:id":101780771,
-    "wof:lastmodified":1570035253,
+    "wof:lastmodified":1582357650,
     "wof:name":"Zakopane",
     "wof:parent_id":1125356033,
     "wof:placetype":"locality",
