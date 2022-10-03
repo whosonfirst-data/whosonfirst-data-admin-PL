@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000413,
+    "geom:area":0.0,
     "geom:area_square_m":3269606.915965,
-    "geom:bbox":"18.7989964541,50.204807415,18.843212144,50.2315687297",
-    "geom:latitude":50.220563,
-    "geom:longitude":18.824349,
+    "geom:bbox":"18.78579,50.22257,18.78579,50.22257",
+    "geom:latitude":50.22257,
+    "geom:longitude":18.78579,
     "gn:population":2297,
     "iso:country":"PL",
     "lbl:latitude":50.22257,
@@ -69,11 +69,11 @@
     "src:population":"geonames",
     "wd:wordcount":91,
     "wof:belongsto":[
-        85687277,
         102191581,
-        1125326573,
         85633723,
-        102079563
+        102079563,
+        1125326573,
+        85687277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +84,7 @@
         "wk:page":"Pani\u00f3wki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"6dfdea9d57f0216d29d768dafd8ab820",
+    "wof:geomhash":"54b78bbc083a815ceaa23a5ee404d90d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1796406449,
-    "wof:lastmodified":1582357502,
+    "wof:lastmodified":1664836276,
     "wof:name":"Pani\u00f3wki",
     "wof:parent_id":1125326573,
     "wof:placetype":"neighbourhood",
@@ -104,14 +104,16 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[1175613131],
+    "wof:supersedes":[
+        1175613131
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    18.79899645405855,
-    50.20480741500984,
-    18.84321214398904,
-    50.2315687297135
+    18.78579,
+    50.22257,
+    18.78579,
+    50.22257
 ],
   "geometry": {"coordinates":[18.78579,50.22257],"type":"Point"}
 }
