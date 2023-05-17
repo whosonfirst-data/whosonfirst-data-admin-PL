@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281551802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dubeninki",
+    "eurostat:nuts_2021_id":"1004281551802",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL623",
+    "eurostat:nuts_2021_level_lau":"1004281551802",
+    "eurostat:population":2886,
+    "eurostat:population_year":2020,
     "geom:area":0.028338,
-    "geom:area_square_m":204427970.336803,
+    "geom:area_square_m":204427970.336802,
     "geom:bbox":"22.432810097,54.235738537,22.806144854,54.363783148",
     "geom:latitude":54.309233,
     "geom:longitude":22.613844,
@@ -69,6 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281551802",
+        "eurostat:nuts_2021_id":"1004281551802",
         "gp:id":12616945,
         "qs_pg:id":1153815
     },
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c3b3d88fb5f5ad705ae83db4cf60ed6e",
+    "wof:geomhash":"33ed84af446905ce01ae85a5c2dad63a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":1125356023,
-    "wof:lastmodified":1582357705,
+    "wof:lastmodified":1684354261,
     "wof:name":"Dubeninki",
     "wof:parent_id":102080261,
     "wof:placetype":"localadmin",
+    "wof:population":2886,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

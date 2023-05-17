@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241470506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"So\u015bnicowice",
+    "eurostat:nuts_2021_id":"1001241470506",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL229",
+    "eurostat:nuts_2021_level_lau":"1001241470506",
+    "eurostat:population":8909,
+    "eurostat:population_year":2020,
     "geom:area":0.014702,
     "geom:area_square_m":116180527.706516,
     "geom:bbox":"18.393539665,50.195454361,18.597324635,50.336707509",
@@ -131,7 +143,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -144,6 +157,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241470506",
+        "eurostat:nuts_2021_id":"1001241470506",
         "gn:id":3085141,
         "gp:id":24548756,
         "qs_pg:id":1200849
@@ -153,7 +168,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a71c73e246340d1725140834bcbb4fb1",
+    "wof:geomhash":"250781ac97d54bf076e11d01da913767",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,12 +179,12 @@
         }
     ],
     "wof:id":1125290919,
-    "wof:lastmodified":1582357812,
+    "wof:lastmodified":1684354177,
     "wof:name":"Gmina So\u015bnicowice",
     "wof:parent_id":102079563,
     "wof:placetype":"localadmin",
-    "wof:population":1691,
-    "wof:population_rank":3,
+    "wof:population":8909,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

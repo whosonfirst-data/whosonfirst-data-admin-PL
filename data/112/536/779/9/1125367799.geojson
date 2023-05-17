@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041671904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0141abiszyn",
+    "eurostat:nuts_2021_id":"1004041671904",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL617",
+    "eurostat:nuts_2021_level_lau":"1004041671904",
+    "eurostat:population":10219,
+    "eurostat:population_year":2020,
     "geom:area":0.022311,
-    "geom:area_square_m":166188632.877499,
+    "geom:area_square_m":166188632.87747,
     "geom:bbox":"17.779194594,52.88409421,18.015743181,53.042988354",
     "geom:latitude":52.959192,
     "geom:longitude":17.89812,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041671904",
+        "eurostat:nuts_2021_id":"1004041671904",
         "gn:id":3094052,
         "gp:id":24547539,
         "qs_pg:id":962385
@@ -159,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"da4020ea0795a0bd540b80e7c5cb1bd9",
+    "wof:geomhash":"23c2997a93f42ba1836c0377e4b89060",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,12 +185,12 @@
         }
     ],
     "wof:id":1125367799,
-    "wof:lastmodified":1582357972,
+    "wof:lastmodified":1684354278,
     "wof:name":"Gmina \u0141abiszyn",
     "wof:parent_id":102080017,
     "wof:placetype":"localadmin",
-    "wof:population":4454,
-    "wof:population_rank":4,
+    "wof:population":10219,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

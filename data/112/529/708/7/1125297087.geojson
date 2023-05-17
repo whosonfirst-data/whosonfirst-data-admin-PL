@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281550601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gi\u017cycko",
+    "eurostat:nuts_2021_id":"1004281550601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL623",
+    "eurostat:nuts_2021_level_lau":"1004281550601",
+    "eurostat:population":29307,
+    "eurostat:population_year":2020,
     "geom:area":0.001881,
-    "geom:area_square_m":13662739.927169,
+    "geom:area_square_m":13662739.927167,
     "geom:bbox":"21.729137,54.016305,21.809621,54.055614",
     "geom:latitude":54.034294,
     "geom:longitude":21.765854,
@@ -173,7 +185,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -181,11 +194,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080235,
-        85687305
+        85687305,
+        102080235
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281550601",
+        "eurostat:nuts_2021_id":"1004281550601",
         "gn:id":772195,
         "gp:id":24548132,
         "qs_pg:id":192563
@@ -198,7 +213,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"43a27ebf711ca7c188631867cb34e684",
+    "wof:geomhash":"9bb9d0409554f24f0389abd7293686b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,11 +224,11 @@
         }
     ],
     "wof:id":1125297087,
-    "wof:lastmodified":1607724799,
+    "wof:lastmodified":1684354188,
     "wof:name":"Gmina Gi\u017cycko",
     "wof:parent_id":102080235,
     "wof:placetype":"localadmin",
-    "wof:population":29972,
+    "wof:population":29307,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

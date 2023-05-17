@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041070404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lisewo",
+    "eurostat:nuts_2021_id":"1004041070404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL616",
+    "eurostat:nuts_2021_level_lau":"1004041070404",
+    "eurostat:population":5199,
+    "eurostat:population_year":2020,
     "geom:area":0.011636,
-    "geom:area_square_m":85987558.246827,
+    "geom:area_square_m":85987558.246818,
     "geom:bbox":"18.556949996,53.241164703,18.740792611,53.350934966",
     "geom:latitude":53.300784,
     "geom:longitude":18.66052,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":18.666796,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102080093
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041070404",
+        "eurostat:nuts_2021_id":"1004041070404"
+    },
     "wof:coterminous":[
         101819183
     ],
     "wof:country":"PL",
-    "wof:geomhash":"bbcfc79bd6a56d283c702b2f5d3f3ed6",
+    "wof:geomhash":"1322ae4bfdf4a3c5fa588410952479d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752229,
-    "wof:lastmodified":1570003253,
+    "wof:lastmodified":1684354399,
     "wof:name":"Lisewo",
     "wof:parent_id":102080093,
     "wof:placetype":"localadmin",
+    "wof:population":5199,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

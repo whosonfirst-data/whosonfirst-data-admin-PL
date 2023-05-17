@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181351609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krasne",
+    "eurostat:nuts_2021_id":"1006181351609",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181351609",
+    "eurostat:population":11558,
+    "eurostat:population_year":2020,
     "geom:area":0.004908,
-    "geom:area_square_m":38968223.121651,
+    "geom:area_square_m":38968223.121652,
     "geom:bbox":"22.053477727,50.004953724,22.169064594,50.095297715",
     "geom:latitude":50.051526,
     "geom:longitude":22.110801,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":22.101214,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,11 +83,15 @@
         102079585
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181351609",
+        "eurostat:nuts_2021_id":"1006181351609"
+    },
     "wof:coterminous":[
         101822465
     ],
     "wof:country":"PL",
-    "wof:geomhash":"6d381c476abc710fcb0129de57567d57",
+    "wof:geomhash":"c86e28ab3e0c9a56eba7c39d034b9b63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752639,
-    "wof:lastmodified":1570004013,
+    "wof:lastmodified":1684354420,
     "wof:name":"Krasne",
     "wof:parent_id":102079585,
     "wof:placetype":"localadmin",
+    "wof:population":11558,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

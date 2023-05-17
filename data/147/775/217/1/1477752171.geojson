@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321630101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bia\u0142ogard",
+    "eurostat:nuts_2021_id":"1002321630101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321630101",
+    "eurostat:population":24146,
+    "eurostat:population_year":2020,
     "geom:area":0.003526,
-    "geom:area_square_m":25626879.114398,
+    "geom:area_square_m":25626879.114407,
     "geom:bbox":"15.915922986,53.974087873,16.035190888,54.053993557",
     "geom:latitude":54.005323,
     "geom:longitude":15.978883,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":15.982945,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080173
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321630101",
+        "eurostat:nuts_2021_id":"1002321630101"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"a8b60a197feb392a0cbbb5beab0d34de",
+    "wof:geomhash":"dab82da59fd16d38eaf138fcbf4afdab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752171,
-    "wof:lastmodified":1570000172,
+    "wof:lastmodified":1684354396,
     "wof:name":"Gmina Bia\u0142ogard",
     "wof:parent_id":102080173,
     "wof:placetype":"localadmin",
+    "wof:population":24146,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

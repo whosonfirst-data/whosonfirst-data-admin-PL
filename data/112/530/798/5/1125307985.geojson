@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321661103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowe Warpno",
+    "eurostat:nuts_2021_id":"1002321661103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321661103",
+    "eurostat:population":1636,
+    "eurostat:population_year":2020,
     "geom:area":0.02683,
-    "geom:area_square_m":196416009.056634,
+    "geom:area_square_m":196416009.056642,
     "geom:bbox":"14.266823,53.627736,14.528637,53.785221",
     "geom:latitude":53.696736,
     "geom:longitude":14.371802,
@@ -161,7 +173,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -169,11 +182,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080119,
-        85687271
+        85687271,
+        102080119
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321661103",
+        "eurostat:nuts_2021_id":"1002321661103",
         "gn:id":3090590,
         "gp:id":24548820,
         "qs_pg:id":272372
@@ -186,7 +201,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e5272ef77f6fb1ab3f20f981c23b6956",
+    "wof:geomhash":"74655c04f588b557a760015e9f84a85e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,11 +212,11 @@
         }
     ],
     "wof:id":1125307985,
-    "wof:lastmodified":1607726702,
+    "wof:lastmodified":1684354211,
     "wof:name":"Gmina Nowe Warpno",
     "wof:parent_id":102080119,
     "wof:placetype":"localadmin",
-    "wof:population":1200,
+    "wof:population":1636,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

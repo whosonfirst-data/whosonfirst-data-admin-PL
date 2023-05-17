@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221720604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ko\u015bcierzyna",
+    "eurostat:nuts_2021_id":"1004221720604",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL637",
+    "eurostat:nuts_2021_level_lau":"1004221720604",
+    "eurostat:population":16091,
+    "eurostat:population_year":2020,
     "geom:area":0.042561,
-    "geom:area_square_m":308569460.305716,
+    "geom:area_square_m":308569460.305699,
     "geom:bbox":"17.795225398,53.992486842,18.138490334,54.203866067",
     "geom:latitude":54.103261,
     "geom:longitude":17.973486,
@@ -68,6 +80,8 @@
     "reversegeo:longitude":17.942887,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -75,8 +89,12 @@
         102080193
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221720604",
+        "eurostat:nuts_2021_id":"1004221720604"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"9e4f8cbc83afcc9a5566b7eb29348719",
+    "wof:geomhash":"2142531aa9f3d7deab12a6bd03f07bfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477752013,
-    "wof:lastmodified":1570003840,
+    "wof:lastmodified":1684354387,
     "wof:name":"Gmina Ko\u015bcierzyna",
     "wof:parent_id":102080193,
     "wof:placetype":"localadmin",
+    "wof:population":16091,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

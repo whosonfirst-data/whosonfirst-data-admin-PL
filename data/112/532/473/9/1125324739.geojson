@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081140207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maszewo",
+    "eurostat:nuts_2021_id":"1002081140207",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081140207",
+    "eurostat:population":2799,
+    "eurostat:population_year":2020,
     "geom:area":0.028074,
-    "geom:area_square_m":213106535.808941,
+    "geom:area_square_m":213106535.808939,
     "geom:bbox":"14.789870558,52.028523402,15.05944606,52.21888002",
     "geom:latitude":52.128208,
     "geom:longitude":14.932012,
@@ -110,7 +122,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -123,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081140207",
+        "eurostat:nuts_2021_id":"1002081140207",
         "gn:id":3092199,
         "gp:id":12618330,
         "qs_pg:id":497914
@@ -135,7 +150,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fa926994831899762ab67a64f40bb7a1",
+    "wof:geomhash":"048a871b1d110d452022c9dbf86e6a43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,12 +161,12 @@
         }
     ],
     "wof:id":1125324739,
-    "wof:lastmodified":1582357741,
+    "wof:lastmodified":1684354232,
     "wof:name":"Maszewo",
     "wof:parent_id":102079843,
     "wof:placetype":"localadmin",
-    "wof:population":460,
-    "wof:population_rank":2,
+    "wof:population":2799,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

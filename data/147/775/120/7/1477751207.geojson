@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301591307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u0142oszakowice",
+    "eurostat:nuts_2021_id":"1002301591307",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301591307",
+    "eurostat:population":9669,
+    "eurostat:population_year":2020,
     "geom:area":0.016689,
-    "geom:area_square_m":127256901.537077,
+    "geom:area_square_m":127256901.537067,
     "geom:bbox":"16.276173144,51.853577192,16.497253001,51.995197451",
     "geom:latitude":51.926075,
     "geom:longitude":16.377349,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":16.369789,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079821
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301591307",
+        "eurostat:nuts_2021_id":"1002301591307"
+    },
     "wof:coterminous":[
         101821539
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a669e46750edb1c2a9ddbfcc76acf29e",
+    "wof:geomhash":"468e0439ef4d7b08baab47458e2965e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751207,
-    "wof:lastmodified":1570001550,
+    "wof:lastmodified":1684354346,
     "wof:name":"W\u0142oszakowice",
     "wof:parent_id":102079821,
     "wof:placetype":"localadmin",
+    "wof:population":9669,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Syc\u00f3w",
+    "eurostat:nuts_2021_id":"1003021041407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041407",
+    "eurostat:population":16874,
+    "eurostat:population_year":2020,
     "geom:area":0.018765,
     "geom:area_square_m":145069300.588222,
     "geom:bbox":"17.53437739,51.239512371,17.766485288,51.357666406",
@@ -65,6 +77,8 @@
     "reversegeo:longitude":17.651706,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079717
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041407",
+        "eurostat:nuts_2021_id":"1003021041407"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"08dc2b08f3ef8a1caa4e0928f5d2cddc",
+    "wof:geomhash":"3fbfd2ef987f7010e4d63392f39adbf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752517,
-    "wof:lastmodified":1570000993,
+    "wof:lastmodified":1684354414,
     "wof:name":"Gmina Syc\u00f3w",
     "wof:parent_id":102079717,
     "wof:placetype":"localadmin",
+    "wof:population":16874,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

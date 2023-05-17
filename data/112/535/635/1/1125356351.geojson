@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241477801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zabrze",
+    "eurostat:nuts_2021_id":"1001241477801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL229",
+    "eurostat:nuts_2021_level_lau":"1001241477801",
+    "eurostat:population":172360,
+    "eurostat:population_year":2020,
     "geom:area":0.010151,
     "geom:area_square_m":80152098.811373,
     "geom:bbox":"18.730736,50.245802,18.86234,50.382681",
@@ -234,6 +246,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -246,6 +260,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241477801",
+        "eurostat:nuts_2021_id":"1001241477801",
         "gp:id":12618027,
         "qs_pg:id":289193
     },
@@ -258,7 +274,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f9c7a62fa64dd0b5a75019f11536f608",
+    "wof:geomhash":"b5aaf212fb6f2626bbd749dd436bcf30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -269,10 +285,12 @@
         }
     ],
     "wof:id":1125356351,
-    "wof:lastmodified":1617130949,
+    "wof:lastmodified":1684354262,
     "wof:name":"Zabrze",
     "wof:parent_id":102079531,
     "wof:placetype":"localadmin",
+    "wof:population":172360,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

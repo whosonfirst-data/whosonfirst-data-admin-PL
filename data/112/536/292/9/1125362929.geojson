@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142272304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Odrzyw\u00f3\u0142",
+    "eurostat:nuts_2021_id":"1007142272304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142272304",
+    "eurostat:population":3752,
+    "eurostat:population_year":2020,
     "geom:area":0.012838,
-    "geom:area_square_m":98719182.950805,
+    "geom:area_square_m":98719182.950823,
     "geom:bbox":"20.415097248,51.481899409,20.596999527,51.617059462",
     "geom:latitude":51.546649,
     "geom:longitude":20.511338,
@@ -60,7 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -73,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142272304",
+        "eurostat:nuts_2021_id":"1007142272304",
         "gn:id":763399,
         "gp:id":12618355,
         "qs_pg:id":1166313
@@ -85,7 +100,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"51e8781d62bbc448ecb480ad72f4174d",
+    "wof:geomhash":"32958359b267ba3f3e8cc5d8054e52b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,11 +111,11 @@
         }
     ],
     "wof:id":1125362929,
-    "wof:lastmodified":1582357967,
+    "wof:lastmodified":1684354267,
     "wof:name":"Odrzyw\u00f3\u0142",
     "wof:parent_id":102079797,
     "wof:placetype":"localadmin",
-    "wof:population":2000,
+    "wof:population":3752,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

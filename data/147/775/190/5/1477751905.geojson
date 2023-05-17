@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021042301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czernica",
+    "eurostat:nuts_2021_id":"1003021042301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021042301",
+    "eurostat:population":16619,
+    "eurostat:population_year":2020,
     "geom:area":0.010723,
-    "geom:area_square_m":83302457.774886,
+    "geom:area_square_m":83302457.774884,
     "geom:bbox":"17.148521652,51.01488704,17.375982964,51.117645301",
     "geom:latitude":51.078068,
     "geom:longitude":17.251361,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":17.240225,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079685
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021042301",
+        "eurostat:nuts_2021_id":"1003021042301"
+    },
     "wof:coterminous":[
         1327166543
     ],
     "wof:country":"PL",
-    "wof:geomhash":"0bc3af3ef6e8e09e744a71ee92a131f8",
+    "wof:geomhash":"b775d70be4122eb43a6bb6905a3c80ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751905,
-    "wof:lastmodified":1570002302,
+    "wof:lastmodified":1684354382,
     "wof:name":"Czernica",
     "wof:parent_id":102079685,
     "wof:placetype":"localadmin",
+    "wof:population":16619,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

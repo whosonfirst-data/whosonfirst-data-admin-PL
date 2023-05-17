@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261521001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Skar\u017cysko-Kamienna",
+    "eurostat:nuts_2021_id":"1005261521001",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL721",
+    "eurostat:nuts_2021_level_lau":"1005261521001",
+    "eurostat:population":44848,
+    "eurostat:population_year":2020,
     "geom:area":0.008266,
-    "geom:area_square_m":64160108.212082,
+    "geom:area_square_m":64160108.212069,
     "geom:bbox":"20.801176333,51.067526337,20.949416448,51.178453126",
     "geom:latitude":51.119959,
     "geom:longitude":20.858463,
@@ -113,6 +125,8 @@
     "reversegeo:longitude":20.857335,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -120,11 +134,15 @@
         102079723
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005261521001",
+        "eurostat:nuts_2021_id":"1005261521001"
+    },
     "wof:coterminous":[
         101822591
     ],
     "wof:country":"PL",
-    "wof:geomhash":"52836c8f0c0fdd8db649fd57745ce1ab",
+    "wof:geomhash":"70bcdf9a71db56e1b940164e8c1a1ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +153,12 @@
         }
     ],
     "wof:id":1477751863,
-    "wof:lastmodified":1570129462,
+    "wof:lastmodified":1684354380,
     "wof:name":"Skar\u017cysko-Kamienna",
     "wof:parent_id":102079723,
     "wof:placetype":"localadmin",
+    "wof:population":44848,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

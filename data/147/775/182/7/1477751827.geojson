@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowe Miasto nad Wart\u0105",
+    "eurostat:nuts_2021_id":"1002301612503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612503",
+    "eurostat:population":9057,
+    "eurostat:population_year":2020,
     "geom:area":0.015585,
-    "geom:area_square_m":118482327.116366,
+    "geom:area_square_m":118482327.116369,
     "geom:bbox":"17.271848522,52.010623147,17.522831515,52.124850833",
     "geom:latitude":52.062496,
     "geom:longitude":17.392345,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":17.392296,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079893
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612503",
+        "eurostat:nuts_2021_id":"1002301612503"
+    },
     "wof:coterminous":[
         101820185
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e76ed55bc4adb736a41d866b6f3db02f",
+    "wof:geomhash":"2e92dea4d88c89bbf6561644cd6c0923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751827,
-    "wof:lastmodified":1570004685,
+    "wof:lastmodified":1684354378,
     "wof:name":"Nowe Miasto nad Wart\u0105",
     "wof:parent_id":102079893,
     "wof:placetype":"localadmin",
+    "wof:population":9057,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

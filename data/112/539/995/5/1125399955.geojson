@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281541509",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ostr\u00f3da",
+    "eurostat:nuts_2021_id":"1004281541509",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281541509",
+    "eurostat:population":16114,
+    "eurostat:population_year":2020,
     "geom:area":0.054452,
-    "geom:area_square_m":399159451.756242,
+    "geom:area_square_m":399159451.756265,
     "geom:bbox":"19.738181514,53.507923652,20.149158994,53.769870304",
     "geom:latitude":53.641612,
     "geom:longitude":19.955063,
@@ -165,6 +177,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -177,6 +191,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281541509",
+        "eurostat:nuts_2021_id":"1004281541509",
         "gp:id":24547687,
         "qs_pg:id":32528
     },
@@ -185,7 +201,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ee3a74088d2f589b761002e7ff3aa50d",
+    "wof:geomhash":"346aa23431192170bc65f96462c769a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -196,10 +212,12 @@
         }
     ],
     "wof:id":1125399955,
-    "wof:lastmodified":1582357915,
+    "wof:lastmodified":1684354323,
     "wof:name":"Gmina Ostr\u00f3da",
     "wof:parent_id":102080197,
     "wof:placetype":"localadmin",
+    "wof:population":16114,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

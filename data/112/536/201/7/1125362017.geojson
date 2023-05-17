@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181362004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowa D\u0119ba",
+    "eurostat:nuts_2021_id":"1006181362004",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181362004",
+    "eurostat:population":18027,
+    "eurostat:population_year":2020,
     "geom:area":0.018161,
-    "geom:area_square_m":142921299.991766,
+    "geom:area_square_m":142921299.991782,
     "geom:bbox":"21.612270791,50.387785719,21.86616313,50.538909966",
     "geom:latitude":50.472345,
     "geom:longitude":21.736809,
@@ -131,7 +143,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -144,6 +157,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181362004",
+        "eurostat:nuts_2021_id":"1006181362004",
         "gn:id":763783,
         "gp:id":24548439,
         "qs_pg:id":547474
@@ -153,7 +168,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"614809e60e8dda11f418276be4d824ba",
+    "wof:geomhash":"19e9afe9c66d541d56af1dfde8d42af4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,11 +179,11 @@
         }
     ],
     "wof:id":1125362017,
-    "wof:lastmodified":1582357979,
+    "wof:lastmodified":1684354267,
     "wof:name":"Gmina Nowa D\u0119ba",
     "wof:parent_id":102079653,
     "wof:placetype":"localadmin",
-    "wof:population":11489,
+    "wof:population":18027,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

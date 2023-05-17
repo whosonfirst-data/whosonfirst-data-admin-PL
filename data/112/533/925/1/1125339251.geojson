@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530909",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zawichost",
+    "eurostat:nuts_2021_id":"1005261530909",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530909",
+    "eurostat:population":4385,
+    "eurostat:population_year":2020,
     "geom:area":0.010233,
-    "geom:area_square_m":79928666.008301,
+    "geom:area_square_m":79928666.008291,
     "geom:bbox":"21.708981678,50.767966916,21.869116208,50.880871761",
     "geom:latitude":50.827436,
     "geom:longitude":21.7956,
@@ -142,7 +154,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -155,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530909",
+        "eurostat:nuts_2021_id":"1005261530909",
         "gn:id":753611,
         "gp:id":24548608,
         "qs_pg:id":59608
@@ -164,7 +179,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"daf10f1209705f0d210d9c0ef5aed61c",
+    "wof:geomhash":"f710ba03288bb64d8441a4417b7274f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,12 +190,12 @@
         }
     ],
     "wof:id":1125339251,
-    "wof:lastmodified":1582357684,
+    "wof:lastmodified":1684354247,
     "wof:name":"Gmina Zawichost",
     "wof:parent_id":102079681,
     "wof:placetype":"localadmin",
-    "wof:population":1853,
-    "wof:population_rank":3,
+    "wof:population":4385,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

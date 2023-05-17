@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261520410",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miedziana G\u00f3ra",
+    "eurostat:nuts_2021_id":"1005261520410",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL721",
+    "eurostat:nuts_2021_level_lau":"1005261520410",
+    "eurostat:population":11632,
+    "eurostat:population_year":2020,
     "geom:area":0.0091,
-    "geom:area_square_m":70886212.845865,
+    "geom:area_square_m":70886212.845855,
     "geom:bbox":"20.487039123,50.882916626,20.629766303,51.019068117",
     "geom:latitude":50.950993,
     "geom:longitude":20.551806,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.552918,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079693
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005261520410",
+        "eurostat:nuts_2021_id":"1005261520410"
+    },
     "wof:coterminous":[
         1477864257
     ],
     "wof:country":"PL",
-    "wof:geomhash":"73a25ee4d34a6b06c9115c7cd4e0f268",
+    "wof:geomhash":"8a28da94921c4ba3d3f4a312768bdcee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125294815,
-    "wof:lastmodified":1569992349,
+    "wof:lastmodified":1684354182,
     "wof:name":"Miedziana G\u00f3ra",
     "wof:parent_id":102079693,
     "wof:placetype":"localadmin",
+    "wof:population":11632,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

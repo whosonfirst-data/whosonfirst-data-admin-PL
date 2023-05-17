@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081130306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trzciel",
+    "eurostat:nuts_2021_id":"1002081130306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL431",
+    "eurostat:nuts_2021_level_lau":"1002081130306",
+    "eurostat:population":6407,
+    "eurostat:population_year":2020,
     "geom:area":0.023411,
-    "geom:area_square_m":176808353.812895,
+    "geom:area_square_m":176808353.812901,
     "geom:bbox":"15.618518908,52.283271436,15.900856278,52.437293929",
     "geom:latitude":52.35408,
     "geom:longitude":15.773071,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081130306",
+        "eurostat:nuts_2021_id":"1002081130306",
         "gn:id":3083177,
         "gp:id":24547514,
         "qs_pg:id":1096994
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c402ac38795bbae00c29d1d6a54cdbf8",
+    "wof:geomhash":"edbee8bff29398c2188400680f597eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125291815,
-    "wof:lastmodified":1582357817,
+    "wof:lastmodified":1684354177,
     "wof:name":"Gmina Trzciel",
     "wof:parent_id":102079947,
     "wof:placetype":"localadmin",
-    "wof:population":2335,
-    "wof:population_rank":4,
+    "wof:population":6407,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

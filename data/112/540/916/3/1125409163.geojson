@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181330504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jas\u0142o",
+    "eurostat:nuts_2021_id":"1006181330504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181330504",
+    "eurostat:population":16357,
+    "eurostat:population_year":2020,
     "geom:area":0.011608,
-    "geom:area_square_m":92762102.979952,
+    "geom:area_square_m":92762102.979997,
     "geom:bbox":"21.347128,49.671848,21.650976,49.797944",
     "geom:latitude":49.738967,
     "geom:longitude":21.482763,
@@ -167,14 +179,18 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079453,
-        85687295
+        85687295,
+        102079453
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181330504",
+        "eurostat:nuts_2021_id":"1006181330504",
         "gn:id":7531484,
         "qs_pg:id":1154810
     },
@@ -186,7 +202,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"953cd5305edba09d93754831a49fbd56",
+    "wof:geomhash":"74937238b3aafef1d7f6847c32cb1a4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,10 +213,12 @@
         }
     ],
     "wof:id":1125409163,
-    "wof:lastmodified":1607726636,
+    "wof:lastmodified":1684354329,
     "wof:name":"Gmina Jas\u0142o",
     "wof:parent_id":102079453,
     "wof:placetype":"localadmin",
+    "wof:population":16357,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

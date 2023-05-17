@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261511",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Troszyn",
+    "eurostat:nuts_2021_id":"1007142261511",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261511",
+    "eurostat:population":4756,
+    "eurostat:population_year":2020,
     "geom:area":0.020939,
-    "geom:area_square_m":155678296.460722,
+    "geom:area_square_m":155678296.460695,
     "geom:bbox":"21.626068023,52.975550718,21.941112727,53.115219244",
     "geom:latitude":53.03854,
     "geom:longitude":21.784465,
@@ -63,7 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -76,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261511",
+        "eurostat:nuts_2021_id":"1007142261511",
         "gn:id":756771,
         "gp:id":12616571,
         "qs_pg:id":1166267
@@ -88,7 +103,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fa169a6c5d805810baf83f5706e287d8",
+    "wof:geomhash":"1a52a60655ba2ad774db081b0aa8ced8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,12 +114,12 @@
         }
     ],
     "wof:id":1125362939,
-    "wof:lastmodified":1582357969,
+    "wof:lastmodified":1684354267,
     "wof:name":"Troszyn",
     "wof:parent_id":102080139,
     "wof:placetype":"localadmin",
-    "wof:population":688,
-    "wof:population_rank":2,
+    "wof:population":4756,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

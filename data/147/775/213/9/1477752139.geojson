@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061090110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mi\u0119dzyrzec Podlaski",
+    "eurostat:nuts_2021_id":"1006061090110",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061090110",
+    "eurostat:population":10467,
+    "eurostat:population_year":2020,
     "geom:area":0.034158,
-    "geom:area_square_m":259951902.473948,
+    "geom:area_square_m":259951902.473933,
     "geom:bbox":"22.617522,51.9186,22.928717,52.117769",
     "geom:latitude":52.014638,
     "geom:longitude":22.762884,
@@ -68,18 +80,24 @@
     "reversegeo:longitude":22.721784,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079973,
-        85687309
+        85687309,
+        102079973
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061090110",
+        "eurostat:nuts_2021_id":"1006061090110"
+    },
     "wof:coterminous":[
         1477864121
     ],
     "wof:country":"PL",
-    "wof:geomhash":"9525e5a9dc59439bdcab43ba9b280b66",
+    "wof:geomhash":"10e5b2791b4ad2ade0f3053ee17b0f36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +108,12 @@
         }
     ],
     "wof:id":1477752139,
-    "wof:lastmodified":1607726522,
+    "wof:lastmodified":1684354394,
     "wof:name":"Gmina Mi\u0119dzyrzec Podlaski",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",
+    "wof:population":10467,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

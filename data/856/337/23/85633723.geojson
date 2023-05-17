@@ -4,8 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:level_code":"0",
+    "eurostat:name_latin":"Polska",
+    "eurostat:name_local":"Polska",
+    "eurostat:nuts_2021_id":"PL",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:population":37654247,
+    "eurostat:population_year":2022,
     "geom:area":41.050325,
-    "geom:area_square_m":311515010179.403748,
+    "geom:area_square_m":311515010179.40448,
     "geom:bbox":"14.122885,49.002047,24.145783,54.836417",
     "geom:latitude":52.129208,
     "geom:longitude":19.393542,
@@ -1269,7 +1277,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"48",
     "statoids:ds":"PL",
     "statoids:fifa":"POL",
@@ -1298,6 +1307,7 @@
     "wof:concordances":{
         "dbp:id":"Poland",
         "digitalenvoy:country_code":616,
+        "eurostat:nuts_2021_id":"PL",
         "fb:id":"en.poland",
         "fifa:id":"POL",
         "fips:code":"PL",
@@ -1329,7 +1339,7 @@
         "quattroshapes",
         "naturalearth"
     ],
-    "wof:geomhash":"1c8785201d66613b4c12e4791b8df346",
+    "wof:geomhash":"ea01e6c861caf4eb007562e5daf83169",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1346,11 +1356,11 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1617827615,
+    "wof:lastmodified":1684351335,
     "wof:name":"Poland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":38483957,
+    "wof:population":37654247,
     "wof:population_rank":15,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:shortcode":"PL",

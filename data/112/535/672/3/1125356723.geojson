@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221401103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Puck",
+    "eurostat:nuts_2021_id":"1004221401103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221401103",
+    "eurostat:population":11241,
+    "eurostat:population_year":2020,
     "geom:area":0.000667,
-    "geom:area_square_m":4766114.124754,
+    "geom:area_square_m":4766114.124752,
     "geom:bbox":"18.376588215,54.700693648,18.433775854,54.727733271",
     "geom:latitude":54.715027,
     "geom:longitude":18.404211,
@@ -141,6 +153,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -153,6 +167,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221401103",
+        "eurostat:nuts_2021_id":"1004221401103",
         "gp:id":24547576,
         "qs_pg:id":1154560
     },
@@ -161,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d4e09f1da6d42d8f6a2bf4a20fc7828a",
+    "wof:geomhash":"b6bc15b31c6a2e63d8ebf667a74a178d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +188,12 @@
         }
     ],
     "wof:id":1125356723,
-    "wof:lastmodified":1582357701,
+    "wof:lastmodified":1684354263,
     "wof:name":"Gmina Puck",
     "wof:parent_id":102080269,
     "wof:placetype":"localadmin",
+    "wof:population":11241,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

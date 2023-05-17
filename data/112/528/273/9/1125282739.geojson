@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121220509",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u0119kowa",
+    "eurostat:nuts_2021_id":"1001121220509",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121220509",
+    "eurostat:population":4980,
+    "eurostat:population_year":2020,
     "geom:area":0.024212,
-    "geom:area_square_m":194219126.77923,
+    "geom:area_square_m":194219126.779256,
     "geom:bbox":"21.136000069,49.43251975,21.421741543,49.641603294",
     "geom:latitude":49.555359,
     "geom:longitude":21.288789,
@@ -75,6 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -87,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121220509",
+        "eurostat:nuts_2021_id":"1001121220509",
         "gp:id":12617163,
         "qs_pg:id":1092252
     },
@@ -98,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4c829ec4a2153d5935c2fe6e4a01d3ac",
+    "wof:geomhash":"9159ebce5bb43e68e3f316b76a400107",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":1125282739,
-    "wof:lastmodified":1582357757,
+    "wof:lastmodified":1684354152,
     "wof:name":"S\u0119kowa",
     "wof:parent_id":102079429,
     "wof:placetype":"localadmin",
+    "wof:population":4980,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

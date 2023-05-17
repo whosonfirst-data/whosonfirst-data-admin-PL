@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142711001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Huszlew",
+    "eurostat:nuts_2021_id":"1007142711001",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142711001",
+    "eurostat:population":2813,
+    "eurostat:population_year":2020,
     "geom:area":0.015447,
-    "geom:area_square_m":117281193.874265,
+    "geom:area_square_m":117281193.874272,
     "geom:bbox":"22.698293388,52.063525588,22.968244358,52.185768593",
     "geom:latitude":52.118732,
     "geom:longitude":22.825976,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":22.823956,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079981
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142711001",
+        "eurostat:nuts_2021_id":"1007142711001"
+    },
     "wof:coterminous":[
         1125917753
     ],
     "wof:country":"PL",
-    "wof:geomhash":"3049ec96a05cb4091cb9c1c9df34dbbd",
+    "wof:geomhash":"66b3ab70f31297173c7a6a6e00152129",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751379,
-    "wof:lastmodified":1570002557,
+    "wof:lastmodified":1684354354,
     "wof:name":"Huszlew",
     "wof:parent_id":102079981,
     "wof:placetype":"localadmin",
+    "wof:population":2813,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

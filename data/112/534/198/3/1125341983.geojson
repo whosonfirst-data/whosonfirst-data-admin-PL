@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321641601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u015awidwin",
+    "eurostat:nuts_2021_id":"1002321641601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321641601",
+    "eurostat:population":15468,
+    "eurostat:population_year":2020,
     "geom:area":0.00305,
-    "geom:area_square_m":22282097.470845,
+    "geom:area_square_m":22282097.470843,
     "geom:bbox":"15.734287145,53.740391548,15.860353654,53.808184639",
     "geom:latitude":53.778746,
     "geom:longitude":15.794642,
@@ -153,6 +165,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -165,6 +179,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321641601",
+        "eurostat:nuts_2021_id":"1002321641601",
         "gp:id":24547550,
         "qs_pg:id":1137222
     },
@@ -173,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bfe9bee49ca1d3cf6e70bead333ab050",
+    "wof:geomhash":"43e6f34cffc678d9b6ecaebae3c80ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,10 +200,12 @@
         }
     ],
     "wof:id":1125341983,
-    "wof:lastmodified":1582357693,
+    "wof:lastmodified":1684354250,
     "wof:name":"Gmina \u015awidwin",
     "wof:parent_id":102080147,
     "wof:placetype":"localadmin",
+    "wof:population":15468,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

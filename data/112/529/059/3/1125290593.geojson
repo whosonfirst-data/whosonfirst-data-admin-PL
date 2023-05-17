@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320912",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tu\u0142owice",
+    "eurostat:nuts_2021_id":"1003161320912",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320912",
+    "eurostat:population":5205,
+    "eurostat:population_year":2020,
     "geom:area":0.010315,
-    "geom:area_square_m":80975269.661582,
+    "geom:area_square_m":80975269.66158,
     "geom:bbox":"17.585467345,50.550230949,17.798040241,50.63841256",
     "geom:latitude":50.591877,
     "geom:longitude":17.699805,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":17.724593,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079627
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320912",
+        "eurostat:nuts_2021_id":"1003161320912"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"2908819c987dec9a30c7aee57ac486e8",
+    "wof:geomhash":"975b8df1db70776f7e30cf5ef9e75349",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1125290593,
-    "wof:lastmodified":1569992436,
+    "wof:lastmodified":1684354176,
     "wof:name":"Gmina Tu\u0142owice",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",
+    "wof:population":5205,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

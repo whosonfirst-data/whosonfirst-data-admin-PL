@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041070601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grudzi\u0105dz",
+    "eurostat:nuts_2021_id":"1004041070601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL616",
+    "eurostat:nuts_2021_level_lau":"1004041070601",
+    "eurostat:population":12954,
+    "eurostat:population_year":2020,
     "geom:area":0.022506,
-    "geom:area_square_m":165657037.449671,
+    "geom:area_square_m":165657037.449713,
     "geom:bbox":"18.596691066,53.362204759,18.892143869,53.610908388",
     "geom:latitude":53.468022,
     "geom:longitude":18.775915,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":18.781286,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080127
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041070601",
+        "eurostat:nuts_2021_id":"1004041070601"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"1b22587bcdc32b57cae55efdc3105b9b",
+    "wof:geomhash":"5a5d4511e9b71adae23301daab361b80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752499,
-    "wof:lastmodified":1570003097,
+    "wof:lastmodified":1684354413,
     "wof:name":"Gmina Grudzi\u0105dz",
     "wof:parent_id":102080127,
     "wof:placetype":"localadmin",
+    "wof:population":12954,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

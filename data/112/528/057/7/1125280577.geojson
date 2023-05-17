@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021056401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wroc\u0142aw",
+    "eurostat:nuts_2021_id":"1003021056401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL514",
+    "eurostat:nuts_2021_level_lau":"1003021056401",
+    "eurostat:population":642869,
+    "eurostat:population_year":2020,
     "geom:area":0.037597,
-    "geom:area_square_m":291761160.938467,
+    "geom:area_square_m":291761160.938502,
     "geom:bbox":"16.807339,51.042669,17.176219,51.21006",
     "geom:latitude":51.127692,
     "geom:longitude":16.996073,
@@ -347,19 +359,25 @@
     "reversegeo:longitude":16.999566,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079661,
-        85687301
+        85687301,
+        102079661
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021056401",
+        "eurostat:nuts_2021_id":"1003021056401"
+    },
     "wof:coterminous":[
         101752181,
         102079661
     ],
     "wof:country":"PL",
-    "wof:geomhash":"24249724a10dafd80ed420e046867097",
+    "wof:geomhash":"15b0e73eab9ad2026c8d63d6473521ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -370,10 +388,12 @@
         }
     ],
     "wof:id":1125280577,
-    "wof:lastmodified":1607725646,
+    "wof:lastmodified":1684354148,
     "wof:name":"Wroc\u0142aw",
     "wof:parent_id":102079661,
     "wof:placetype":"localadmin",
+    "wof:population":642869,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

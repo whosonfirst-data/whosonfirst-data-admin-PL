@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021042005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zawonia",
+    "eurostat:nuts_2021_id":"1003021042005",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021042005",
+    "eurostat:population":5904,
+    "eurostat:population_year":2020,
     "geom:area":0.015148,
-    "geom:area_square_m":117027210.814905,
+    "geom:area_square_m":117027210.814903,
     "geom:bbox":"17.098292743,51.266457731,17.340646715,51.398270101",
     "geom:latitude":51.33361,
     "geom:longitude":17.218863,
@@ -60,6 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021042005",
+        "eurostat:nuts_2021_id":"1003021042005",
         "gp:id":12618476,
         "qs_pg:id":1160701
     },
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fece9eaf482564a80f2a04b7c5ba1193",
+    "wof:geomhash":"e37344c8f2307f3cca411dfa4ad946bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":1125358943,
-    "wof:lastmodified":1582357708,
+    "wof:lastmodified":1684354265,
     "wof:name":"Zawonia",
     "wof:parent_id":102079733,
     "wof:placetype":"localadmin",
+    "wof:population":5904,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

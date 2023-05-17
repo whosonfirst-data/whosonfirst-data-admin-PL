@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281550605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kruklanki",
+    "eurostat:nuts_2021_id":"1004281550605",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL623",
+    "eurostat:nuts_2021_level_lau":"1004281550605",
+    "eurostat:population":3125,
+    "eurostat:population_year":2020,
     "geom:area":0.027681,
-    "geom:area_square_m":200721280.902248,
+    "geom:area_square_m":200721280.902223,
     "geom:bbox":"21.887227148,54.000865013,22.214158156,54.181548679",
     "geom:latitude":54.096768,
     "geom:longitude":22.039485,
@@ -62,6 +74,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -70,6 +84,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281550605",
+        "eurostat:nuts_2021_id":"1004281550605",
         "gn:id":7532798,
         "qs_pg:id":1063770
     },
@@ -81,7 +97,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b83abeacc8eabd2342109ebe3fb51fde",
+    "wof:geomhash":"42f5002082149a7f8ac305c3f88d0ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +108,12 @@
         }
     ],
     "wof:id":1125398829,
-    "wof:lastmodified":1582357918,
+    "wof:lastmodified":1684354320,
     "wof:name":"Kruklanki",
     "wof:parent_id":102080235,
     "wof:placetype":"localadmin",
+    "wof:population":3125,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

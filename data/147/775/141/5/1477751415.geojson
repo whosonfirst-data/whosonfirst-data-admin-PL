@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301592204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pakos\u0142aw",
+    "eurostat:nuts_2021_id":"1002301592204",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301592204",
+    "eurostat:population":4918,
+    "eurostat:population_year":2020,
     "geom:area":0.010055,
-    "geom:area_square_m":77224442.273143,
+    "geom:area_square_m":77224442.273146,
     "geom:bbox":"16.976640611,51.545195936,17.122584776,51.653935636",
     "geom:latitude":51.600937,
     "geom:longitude":17.0452,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":17.037926,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079767
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301592204",
+        "eurostat:nuts_2021_id":"1002301592204"
+    },
     "wof:coterminous":[
         1125794523
     ],
     "wof:country":"PL",
-    "wof:geomhash":"da8f9b85ece952f6225d6c4b3f11c37f",
+    "wof:geomhash":"fa6d0b3c7a6c37049c9b9636c6f31e29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477751415,
-    "wof:lastmodified":1570004459,
+    "wof:lastmodified":1684354356,
     "wof:name":"Pakos\u0142aw",
     "wof:parent_id":102079767,
     "wof:placetype":"localadmin",
+    "wof:population":4918,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

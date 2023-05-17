@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wodzis\u0142aw",
+    "eurostat:nuts_2021_id":"1005261530209",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530209",
+    "eurostat:population":6949,
+    "eurostat:population_year":2020,
     "geom:area":0.022423,
-    "geom:area_square_m":176284633.360625,
+    "geom:area_square_m":176284633.360653,
     "geom:bbox":"20.070390668,50.447224399,20.37049959,50.589163922",
     "geom:latitude":50.521153,
     "geom:longitude":20.228097,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.25071,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079641
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530209",
+        "eurostat:nuts_2021_id":"1005261530209"
+    },
     "wof:coterminous":[
         101823863
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b7154d8d28de3087b382ed27e0f853f6",
+    "wof:geomhash":"ac03537f6e8e1e0acaaa0878259ef0b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125350533,
-    "wof:lastmodified":1569988478,
+    "wof:lastmodified":1684354257,
     "wof:name":"Wodzis\u0142aw",
     "wof:parent_id":102079641,
     "wof:placetype":"localadmin",
+    "wof:population":6949,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241451304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tarnowskie G\u00f3ry",
+    "eurostat:nuts_2021_id":"1001241451304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL228",
+    "eurostat:nuts_2021_level_lau":"1001241451304",
+    "eurostat:population":61686,
+    "eurostat:population_year":2020,
     "geom:area":0.010611,
-    "geom:area_square_m":83519195.318564,
+    "geom:area_square_m":83519195.318592,
     "geom:bbox":"18.769884538,50.400141904,18.914250704,50.531012673",
     "geom:latitude":50.463488,
     "geom:longitude":18.835442,
@@ -185,6 +197,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -193,6 +207,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241451304",
+        "eurostat:nuts_2021_id":"1001241451304",
         "gn:id":7531827,
         "qs_pg:id":380891
     },
@@ -204,7 +220,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f20cffff41d8ec2ad1d101b47488321c",
+    "wof:geomhash":"e8b4a79b677f46a7025edb3afde2e109",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,10 +231,12 @@
         }
     ],
     "wof:id":1125380969,
-    "wof:lastmodified":1582357931,
+    "wof:lastmodified":1684354299,
     "wof:name":"Tarnowskie G\u00f3ry",
     "wof:parent_id":102079581,
     "wof:placetype":"localadmin",
+    "wof:population":61686,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

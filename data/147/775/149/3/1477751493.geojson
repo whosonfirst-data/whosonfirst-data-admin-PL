@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121220507",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moszczenica",
+    "eurostat:nuts_2021_id":"1001121220507",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121220507",
+    "eurostat:population":4983,
+    "eurostat:population_year":2020,
     "geom:area":0.004691,
-    "geom:area_square_m":37492383.928741,
+    "geom:area_square_m":37492383.928736,
     "geom:bbox":"20.999766956,49.695072688,21.14097596,49.770404673",
     "geom:latitude":49.735693,
     "geom:longitude":21.082336,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":21.095164,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079429
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121220507",
+        "eurostat:nuts_2021_id":"1001121220507"
+    },
     "wof:coterminous":[
         101841483
     ],
     "wof:country":"PL",
-    "wof:geomhash":"8a50808d993d9c289ac36659697ba713",
+    "wof:geomhash":"1a2421c96d851eb07a2f16da9cf520a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751493,
-    "wof:lastmodified":1570004742,
+    "wof:lastmodified":1684354360,
     "wof:name":"Moszczenica",
     "wof:parent_id":102079429,
     "wof:placetype":"localadmin",
+    "wof:population":4983,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

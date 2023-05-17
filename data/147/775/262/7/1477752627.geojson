@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321640201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bierzwnik",
+    "eurostat:nuts_2021_id":"1002321640201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321640201",
+    "eurostat:population":4670,
+    "eurostat:population_year":2020,
     "geom:area":0.03204,
-    "geom:area_square_m":238096479.876813,
+    "geom:area_square_m":238096479.876796,
     "geom:bbox":"15.543661119,52.976401173,15.859987783,53.139411188",
     "geom:latitude":53.060541,
     "geom:longitude":15.688384,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":15.659748,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102080049
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321640201",
+        "eurostat:nuts_2021_id":"1002321640201"
+    },
     "wof:coterminous":[
         1126005437
     ],
     "wof:country":"PL",
-    "wof:geomhash":"dd77e9ab516c31822f58c52099c3e8c0",
+    "wof:geomhash":"f65059d3f4447ca3f34b6624a676aca3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477752627,
-    "wof:lastmodified":1570003633,
+    "wof:lastmodified":1684354419,
     "wof:name":"Bierzwnik",
     "wof:parent_id":102080049,
     "wof:placetype":"localadmin",
+    "wof:population":4670,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

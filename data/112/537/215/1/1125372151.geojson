@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301600204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krzy\u017c Wielkopolski",
+    "eurostat:nuts_2021_id":"1002301600204",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301600204",
+    "eurostat:population":8693,
+    "eurostat:population_year":2020,
     "geom:area":0.023299,
-    "geom:area_square_m":173581776.465517,
+    "geom:area_square_m":173581776.465491,
     "geom:bbox":"15.94598389,52.853840213,16.132518017,53.041482389",
     "geom:latitude":52.949362,
     "geom:longitude":16.032065,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301600204",
+        "eurostat:nuts_2021_id":"1002301600204",
         "gn:id":3094408,
         "gp:id":24547696,
         "qs_pg:id":335519
@@ -159,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4de8d7b7437fc5d31c625d9de1399ca9",
+    "wof:geomhash":"f515ae4325336ff3fc09e42a83b3582f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,11 +185,11 @@
         }
     ],
     "wof:id":1125372151,
-    "wof:lastmodified":1582357858,
+    "wof:lastmodified":1684354284,
     "wof:name":"Gmina Krzy\u017c Wielkopolski",
     "wof:parent_id":102080029,
     "wof:placetype":"localadmin",
-    "wof:population":6300,
+    "wof:population":8693,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

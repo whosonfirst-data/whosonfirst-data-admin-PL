@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041670902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jeziora Wielkie",
+    "eurostat:nuts_2021_id":"1004041670902",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL617",
+    "eurostat:nuts_2021_level_lau":"1004041670902",
+    "eurostat:population":4860,
+    "eurostat:population_year":2020,
     "geom:area":0.016381,
-    "geom:area_square_m":123205032.65471,
+    "geom:area_square_m":123205032.654743,
     "geom:bbox":"18.090222026,52.481160304,18.362369143,52.593186748",
     "geom:latitude":52.535983,
     "geom:longitude":18.246685,
@@ -66,7 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -79,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041670902",
+        "eurostat:nuts_2021_id":"1004041670902",
         "gn:id":3097177,
         "gp:id":12618652,
         "qs_pg:id":1148944
@@ -91,7 +106,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"debca4258ee6694a31bba7044bd2df73",
+    "wof:geomhash":"0948a5a1b0cc65d313a7b02763a8ba62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,12 +117,12 @@
         }
     ],
     "wof:id":1125350675,
-    "wof:lastmodified":1582357719,
+    "wof:lastmodified":1684354258,
     "wof:name":"Jeziora Wielkie",
     "wof:parent_id":102079993,
     "wof:placetype":"localadmin",
-    "wof:population":560,
-    "wof:population_rank":2,
+    "wof:population":4860,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

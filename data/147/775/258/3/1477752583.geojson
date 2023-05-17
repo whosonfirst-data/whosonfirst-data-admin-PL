@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221421305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kaliska",
+    "eurostat:nuts_2021_id":"1004221421305",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221421305",
+    "eurostat:population":5401,
+    "eurostat:population_year":2020,
     "geom:area":0.01512,
-    "geom:area_square_m":110161224.858776,
+    "geom:area_square_m":110161224.858766,
     "geom:bbox":"18.070847766,53.830167688,18.286270831,53.961997561",
     "geom:latitude":53.898068,
     "geom:longitude":18.18526,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":18.177927,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102080183
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221421305",
+        "eurostat:nuts_2021_id":"1004221421305"
+    },
     "wof:coterminous":[
         101817615
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5ec9bd14d008f916196b0d88ea2f2535",
+    "wof:geomhash":"807959599659202b915329e8a0f03936",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752583,
-    "wof:lastmodified":1570000973,
+    "wof:lastmodified":1684354417,
     "wof:name":"Kaliska",
     "wof:parent_id":102080183,
     "wof:placetype":"localadmin",
+    "wof:population":5401,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

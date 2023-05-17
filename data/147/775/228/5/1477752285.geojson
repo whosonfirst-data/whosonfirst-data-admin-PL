@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281540403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gronowo Elbl\u0105skie",
+    "eurostat:nuts_2021_id":"1004281540403",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281540403",
+    "eurostat:population":5127,
+    "eurostat:population_year":2020,
     "geom:area":0.012237,
-    "geom:area_square_m":88725403.600602,
+    "geom:area_square_m":88725403.600583,
     "geom:bbox":"19.217284189,54.040291234,19.381570868,54.156590511",
     "geom:latitude":54.099409,
     "geom:longitude":19.301452,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":19.303018,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102080231
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281540403",
+        "eurostat:nuts_2021_id":"1004281540403"
+    },
     "wof:coterminous":[
         1125766095
     ],
     "wof:country":"PL",
-    "wof:geomhash":"d0bebfe6697bb9ca3c8b5b9ef73b5914",
+    "wof:geomhash":"342508c5907e7c259288c09040895bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752285,
-    "wof:lastmodified":1570000243,
+    "wof:lastmodified":1684354402,
     "wof:name":"Gronowo Elbl\u0105skie",
     "wof:parent_id":102080231,
     "wof:placetype":"localadmin",
+    "wof:population":5127,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

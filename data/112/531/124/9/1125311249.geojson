@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301580310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Witkowo",
+    "eurostat:nuts_2021_id":"1002301580310",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301580310",
+    "eurostat:population":13593,
+    "eurostat:population_year":2020,
     "geom:area":0.024398,
-    "geom:area_square_m":183870799.016576,
+    "geom:area_square_m":183870799.016544,
     "geom:bbox":"17.67020813,52.368237176,17.922480597,52.524192824",
     "geom:latitude":52.448165,
     "geom:longitude":17.80215,
@@ -130,7 +142,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -143,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301580310",
+        "eurostat:nuts_2021_id":"1002301580310",
         "gn:id":3081826,
         "gp:id":24547573,
         "qs_pg:id":206237
@@ -152,7 +167,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"854e4001229b4c8af6fbd76fece88db7",
+    "wof:geomhash":"5bad598fab5dfaf05eed465c8626786e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,12 +178,12 @@
         }
     ],
     "wof:id":1125311249,
-    "wof:lastmodified":1582357960,
+    "wof:lastmodified":1684354214,
     "wof:name":"Gmina Witkowo",
     "wof:parent_id":102079967,
     "wof:placetype":"localadmin",
-    "wof:population":7825,
-    "wof:population_rank":5,
+    "wof:population":13593,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

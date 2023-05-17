@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041671906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017bnin",
+    "eurostat:nuts_2021_id":"1004041671906",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL617",
+    "eurostat:nuts_2021_level_lau":"1004041671906",
+    "eurostat:population":24080,
+    "eurostat:population_year":2020,
     "geom:area":0.033565,
-    "geom:area_square_m":250599286.640033,
+    "geom:area_square_m":250599286.640026,
     "geom:bbox":"17.512543527,52.785802179,17.92126074,52.925442992",
     "geom:latitude":52.85739,
     "geom:longitude":17.702144,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041671906",
+        "eurostat:nuts_2021_id":"1004041671906",
         "gp:id":24547394,
         "qs_pg:id":1103237
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"74044b44546d900bc78c069403830d0a",
+    "wof:geomhash":"c4e0c59555fca2da57f63d793951aed2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125304149,
-    "wof:lastmodified":1582357874,
+    "wof:lastmodified":1684354197,
     "wof:name":"Gmina \u017bnin",
     "wof:parent_id":102080017,
     "wof:placetype":"localadmin",
+    "wof:population":24080,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

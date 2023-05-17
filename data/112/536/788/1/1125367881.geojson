@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hrubiesz\u00f3w",
+    "eurostat:nuts_2021_id":"1006061100401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100401",
+    "eurostat:population":17528,
+    "eurostat:population_year":2020,
     "geom:area":0.004212,
-    "geom:area_square_m":32911397.059064,
+    "geom:area_square_m":32911397.059087,
     "geom:bbox":"23.837636,50.76456,23.943291,50.84903",
     "geom:latitude":50.807794,
     "geom:longitude":23.887237,
@@ -173,7 +185,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -181,11 +194,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079743,
-        85687309
+        85687309,
+        102079743
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100401",
+        "eurostat:nuts_2021_id":"1006061100401",
         "gn:id":770966,
         "gp:id":24548545,
         "qs_pg:id":962770
@@ -198,7 +213,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"68b53548847cca6c8540b0934a93091c",
+    "wof:geomhash":"c735779ef1da911699168f7e0129bf30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,11 +224,11 @@
         }
     ],
     "wof:id":1125367881,
-    "wof:lastmodified":1607724898,
+    "wof:lastmodified":1684354278,
     "wof:name":"Gmina Hrubiesz\u00f3w",
     "wof:parent_id":102079743,
     "wof:placetype":"localadmin",
-    "wof:population":18605,
+    "wof:population":17528,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

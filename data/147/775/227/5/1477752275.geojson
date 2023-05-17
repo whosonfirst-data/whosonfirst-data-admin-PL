@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081141005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ma\u0142omice",
+    "eurostat:nuts_2021_id":"1002081141005",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081141005",
+    "eurostat:population":5174,
+    "eurostat:population_year":2020,
     "geom:area":0.010316,
-    "geom:area_square_m":79310465.835159,
+    "geom:area_square_m":79310465.835135,
     "geom:bbox":"15.389567372,51.471052092,15.600178161,51.646822888",
     "geom:latitude":51.555819,
     "geom:longitude":15.490983,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":15.457737,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079759
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002081141005",
+        "eurostat:nuts_2021_id":"1002081141005"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"15b010ca3815609950484c6fd275d4b1",
+    "wof:geomhash":"9311d0338b91cf8f7811cd18a926ad97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752275,
-    "wof:lastmodified":1569999679,
+    "wof:lastmodified":1684354401,
     "wof:name":"Gmina Ma\u0142omice",
     "wof:parent_id":102079759,
     "wof:placetype":"localadmin",
+    "wof:population":5174,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

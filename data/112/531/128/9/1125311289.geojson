@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321630907",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sian\u00f3w",
+    "eurostat:nuts_2021_id":"1002321630907",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321630907",
+    "eurostat:population":13853,
+    "eurostat:population_year":2020,
     "geom:area":0.031244,
-    "geom:area_square_m":225792458.540144,
+    "geom:area_square_m":225792458.540153,
     "geom:bbox":"16.180186294,54.13459444,16.571336932,54.334007367",
     "geom:latitude":54.236655,
     "geom:longitude":16.353201,
@@ -139,7 +151,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -152,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321630907",
+        "eurostat:nuts_2021_id":"1002321630907",
         "gn:id":3086134,
         "gp:id":24547692,
         "qs_pg:id":206253
@@ -161,7 +176,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d5655d3974a5c562ff06bf1d380d8d8d",
+    "wof:geomhash":"7e240ec820c4f4556e8ee35205e27a00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,12 +187,12 @@
         }
     ],
     "wof:id":1125311289,
-    "wof:lastmodified":1582357952,
+    "wof:lastmodified":1684354214,
     "wof:name":"Gmina Sian\u00f3w",
     "wof:parent_id":102080199,
     "wof:placetype":"localadmin",
-    "wof:population":6606,
-    "wof:population_rank":5,
+    "wof:population":13853,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

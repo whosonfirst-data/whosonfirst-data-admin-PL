@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Busko-Zdr\u00f3j",
+    "eurostat:nuts_2021_id":"1005261530101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530101",
+    "eurostat:population":32189,
+    "eurostat:population_year":2020,
     "geom:area":0.029826,
-    "geom:area_square_m":234696979.568284,
+    "geom:area_square_m":234696979.568239,
     "geom:bbox":"20.605328114,50.363858295,20.917500401,50.567023788",
     "geom:latitude":50.477701,
     "geom:longitude":20.750109,
@@ -165,6 +177,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -177,6 +191,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530101",
+        "eurostat:nuts_2021_id":"1005261530101",
         "gp:id":24548524,
         "qs_pg:id":1121224
     },
@@ -185,7 +201,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"651bb82340e1bd5c51d27291b7659d33",
+    "wof:geomhash":"4f3d64ed3cb580d90ae5a0b785793465",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -196,10 +212,12 @@
         }
     ],
     "wof:id":1125335419,
-    "wof:lastmodified":1582357689,
+    "wof:lastmodified":1684354243,
     "wof:name":"Gmina Busko-Zdr\u00f3j",
     "wof:parent_id":102079615,
     "wof:placetype":"localadmin",
+    "wof:population":32189,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021042006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017bmigr\u00f3d",
+    "eurostat:nuts_2021_id":"1003021042006",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021042006",
+    "eurostat:population":14660,
+    "eurostat:population_year":2020,
     "geom:area":0.037758,
-    "geom:area_square_m":290711851.062672,
+    "geom:area_square_m":290711851.06268,
     "geom:bbox":"16.759138397,51.401717998,17.110274461,51.581016722",
     "geom:latitude":51.489484,
     "geom:longitude":16.929123,
@@ -144,6 +156,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -156,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021042006",
+        "eurostat:nuts_2021_id":"1003021042006",
         "gp:id":24548036,
         "qs_pg:id":1001246
     },
@@ -164,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d0b66a061ca04e57098a9bac572a0a2d",
+    "wof:geomhash":"288e515895a4fb9fa3191ab4ae65b724",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +191,12 @@
         }
     ],
     "wof:id":1125376439,
-    "wof:lastmodified":1582357839,
+    "wof:lastmodified":1684354294,
     "wof:name":"Gmina \u017bmigr\u00f3d",
     "wof:parent_id":102079733,
     "wof:placetype":"localadmin",
+    "wof:population":14660,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

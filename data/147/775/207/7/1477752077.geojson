@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101190510",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zduny",
+    "eurostat:nuts_2021_id":"1005101190510",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL715",
+    "eurostat:nuts_2021_level_lau":"1005101190510",
+    "eurostat:population":5699,
+    "eurostat:population_year":2020,
     "geom:area":0.016887,
-    "geom:area_square_m":128074742.829202,
+    "geom:area_square_m":128074742.829233,
     "geom:bbox":"19.688938601,52.091233346,19.887899865,52.241474187",
     "geom:latitude":52.167634,
     "geom:longitude":19.783205,
@@ -74,6 +86,8 @@
     "reversegeo:longitude":19.781701,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -81,11 +95,15 @@
         102079923
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101190510",
+        "eurostat:nuts_2021_id":"1005101190510"
+    },
     "wof:coterminous":[
         1242710603
     ],
     "wof:country":"PL",
-    "wof:geomhash":"bf1084549493e99e3e7ed8f0b47632d8",
+    "wof:geomhash":"7f0a636b5011d83a52e1d932c9fb1d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,10 +114,12 @@
         }
     ],
     "wof:id":1477752077,
-    "wof:lastmodified":1570003518,
+    "wof:lastmodified":1684354391,
     "wof:name":"Zduny",
     "wof:parent_id":102079923,
     "wof:placetype":"localadmin",
+    "wof:population":5699,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

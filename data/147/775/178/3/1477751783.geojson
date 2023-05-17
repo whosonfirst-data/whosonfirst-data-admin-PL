@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301581002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grodziec",
+    "eurostat:nuts_2021_id":"1002301581002",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301581002",
+    "eurostat:population":5160,
+    "eurostat:population_year":2020,
     "geom:area":0.015431,
-    "geom:area_square_m":117374769.351218,
+    "geom:area_square_m":117374769.351204,
     "geom:bbox":"17.93463996,51.975699848,18.12847613,52.106235494",
     "geom:latitude":52.036564,
     "geom:longitude":18.035735,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":18.033855,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079943
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301581002",
+        "eurostat:nuts_2021_id":"1002301581002"
+    },
     "wof:coterminous":[
         101820291
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2cf7df432be199f3a12f4b31559a87e2",
+    "wof:geomhash":"f4a724f3dc6cd5541dc819b2ce8ed3a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751783,
-    "wof:lastmodified":1570004659,
+    "wof:lastmodified":1684354375,
     "wof:name":"Grodziec",
     "wof:parent_id":102079943,
     "wof:placetype":"localadmin",
+    "wof:population":5160,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

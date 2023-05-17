@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tereszpol",
+    "eurostat:nuts_2021_id":"1006061100213",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100213",
+    "eurostat:population":3878,
+    "eurostat:population_year":2020,
     "geom:area":0.01827,
-    "geom:area_square_m":143536062.122124,
+    "geom:area_square_m":143536062.122145,
     "geom:bbox":"22.786711233,50.48773348,23.001933131,50.645091586",
     "geom:latitude":50.552074,
     "geom:longitude":22.886138,
@@ -75,7 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -88,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100213",
+        "eurostat:nuts_2021_id":"1006061100213",
         "gn:id":756933,
         "gp:id":12618292,
         "qs_pg:id":1093983
@@ -100,7 +115,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a35f2564762aa10d73568a9dd027b0e3",
+    "wof:geomhash":"444a2d2cbff8bc0b3dea7a7f8b12b51d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,12 +126,12 @@
         }
     ],
     "wof:id":1125285225,
-    "wof:lastmodified":1582357785,
+    "wof:lastmodified":1684354158,
     "wof:name":"Tereszpol",
     "wof:parent_id":102079699,
     "wof:placetype":"localadmin",
-    "wof:population":1157,
-    "wof:population_rank":3,
+    "wof:population":3878,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

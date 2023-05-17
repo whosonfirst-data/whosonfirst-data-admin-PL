@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mur\u00f3w",
+    "eurostat:nuts_2021_id":"1003161320906",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320906",
+    "eurostat:population":5298,
+    "eurostat:population_year":2020,
     "geom:area":0.020443,
-    "geom:area_square_m":159475349.071216,
+    "geom:area_square_m":159475349.07123,
     "geom:bbox":"17.885712109,50.799219,18.119261486,50.968158017",
     "geom:latitude":50.884448,
     "geom:longitude":17.997469,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":17.999277,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102079627
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320906",
+        "eurostat:nuts_2021_id":"1003161320906"
+    },
     "wof:coterminous":[
         101822739
     ],
     "wof:country":"PL",
-    "wof:geomhash":"649f83c9216443e8096163a2eca71fc1",
+    "wof:geomhash":"29bcf86f549a8d41479cac1dd25348db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477752727,
-    "wof:lastmodified":1570000369,
+    "wof:lastmodified":1684354425,
     "wof:name":"Mur\u00f3w",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",
+    "wof:population":5298,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

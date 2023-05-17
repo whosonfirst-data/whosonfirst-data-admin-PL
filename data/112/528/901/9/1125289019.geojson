@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301581013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wierzbinek",
+    "eurostat:nuts_2021_id":"1002301581013",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301581013",
+    "eurostat:population":7287,
+    "eurostat:population_year":2020,
     "geom:area":0.019498,
-    "geom:area_square_m":146967901.672021,
+    "geom:area_square_m":146967901.672004,
     "geom:bbox":"18.341315502,52.384634454,18.65767721,52.504773432",
     "geom:latitude":52.441177,
     "geom:longitude":18.494385,
@@ -62,7 +74,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -75,6 +88,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301581013",
+        "eurostat:nuts_2021_id":"1002301581013",
         "gn:id":3082153,
         "gp:id":12617876,
         "qs_pg:id":24076
@@ -87,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"010dfb215c3d5f8e8267f40beb07c509",
+    "wof:geomhash":"97e9209138c30e6b77c5905e52471a15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,12 +113,12 @@
         }
     ],
     "wof:id":1125289019,
-    "wof:lastmodified":1582357755,
+    "wof:lastmodified":1684354168,
     "wof:name":"Wierzbinek",
     "wof:parent_id":102079943,
     "wof:placetype":"localadmin",
-    "wof:population":380,
-    "wof:population_rank":2,
+    "wof:population":7287,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

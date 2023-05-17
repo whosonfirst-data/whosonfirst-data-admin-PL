@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141291209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ka\u0142uszyn",
+    "eurostat:nuts_2021_id":"1007141291209",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL912",
+    "eurostat:nuts_2021_level_lau":"1007141291209",
+    "eurostat:population":5825,
+    "eurostat:population_year":2020,
     "geom:area":0.012415,
-    "geom:area_square_m":94045873.57511,
+    "geom:area_square_m":94045873.575106,
     "geom:bbox":"21.739466488,52.168853453,21.941794519,52.292736987",
     "geom:latitude":52.222088,
     "geom:longitude":21.823237,
@@ -146,7 +158,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -159,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141291209",
+        "eurostat:nuts_2021_id":"1007141291209",
         "gn:id":769738,
         "gp:id":24548213,
         "qs_pg:id":1263422
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5e72cafae6d5e3f356e96692d900d01c",
+    "wof:geomhash":"ca905cbda9f6c002637bbd077eacc2b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,12 +194,12 @@
         }
     ],
     "wof:id":1125353829,
-    "wof:lastmodified":1582357710,
+    "wof:lastmodified":1684354259,
     "wof:name":"Gmina Ka\u0142uszyn",
     "wof:parent_id":102079965,
     "wof:placetype":"localadmin",
-    "wof:population":2955,
-    "wof:population_rank":4,
+    "wof:population":5825,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

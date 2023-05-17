@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041671902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u0105sawa",
+    "eurostat:nuts_2021_id":"1004041671902",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL617",
+    "eurostat:nuts_2021_level_lau":"1004041671902",
+    "eurostat:population":5304,
+    "eurostat:population_year":2020,
     "geom:area":0.018083,
-    "geom:area_square_m":135304422.775667,
+    "geom:area_square_m":135304422.775671,
     "geom:bbox":"17.678127228,52.696246616,17.919101557,52.825073914",
     "geom:latitude":52.762905,
     "geom:longitude":17.800669,
@@ -50,6 +62,8 @@
     "reversegeo:longitude":17.800645,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -57,11 +71,15 @@
         102080017
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041671902",
+        "eurostat:nuts_2021_id":"1004041671902"
+    },
     "wof:coterminous":[
         101820489
     ],
     "wof:country":"PL",
-    "wof:geomhash":"df4e4288bcc8a7bbdad84bcaef76367b",
+    "wof:geomhash":"c48264574569007c364af67777feda58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +90,12 @@
         }
     ],
     "wof:id":1477752097,
-    "wof:lastmodified":1570003392,
+    "wof:lastmodified":1684354392,
     "wof:name":"G\u0105sawa",
     "wof:parent_id":102080017,
     "wof:placetype":"localadmin",
+    "wof:population":5304,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

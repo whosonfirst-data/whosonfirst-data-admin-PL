@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041681302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u0119p\u00f3lno Kraje\u0144skie",
+    "eurostat:nuts_2021_id":"1004041681302",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL618",
+    "eurostat:nuts_2021_level_lau":"1004041681302",
+    "eurostat:population":15803,
+    "eurostat:population_year":2020,
     "geom:area":0.030984,
-    "geom:area_square_m":228143027.950411,
+    "geom:area_square_m":228143027.950435,
     "geom:bbox":"17.298451,53.373746,17.728612,53.524494",
     "geom:latitude":53.452585,
     "geom:longitude":17.529145,
@@ -155,7 +167,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -163,11 +176,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080107,
-        85687319
+        85687319,
+        102080107
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041681302",
+        "eurostat:nuts_2021_id":"1004041681302",
         "gn:id":3086153,
         "gp:id":24548113,
         "qs_pg:id":246098
@@ -180,7 +195,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c6fed08a0bac0690081a943f67270418",
+    "wof:geomhash":"be586dbfef12c91d7e62c022b16cde61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,12 +206,12 @@
         }
     ],
     "wof:id":1125297053,
-    "wof:lastmodified":1607726627,
+    "wof:lastmodified":1684354188,
     "wof:name":"Gmina S\u0119p\u00f3lno Kraje\u0144skie",
     "wof:parent_id":102080107,
     "wof:placetype":"localadmin",
-    "wof:population":9223,
-    "wof:population_rank":5,
+    "wof:population":15803,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

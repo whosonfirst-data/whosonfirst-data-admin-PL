@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101150611",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tuszyn",
+    "eurostat:nuts_2021_id":"1005101150611",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL712",
+    "eurostat:nuts_2021_level_lau":"1005101150611",
+    "eurostat:population":12391,
+    "eurostat:population_year":2020,
     "geom:area":0.016843,
-    "geom:area_square_m":129419457.758663,
+    "geom:area_square_m":129419457.758679,
     "geom:bbox":"19.442878007,51.507711172,19.634155376,51.645398499",
     "geom:latitude":51.580087,
     "geom:longitude":19.539901,
@@ -144,7 +156,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -157,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101150611",
+        "eurostat:nuts_2021_id":"1005101150611",
         "gn:id":3082945,
         "gp:id":24548636,
         "qs_pg:id":1059807
@@ -166,7 +181,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7d9ed685e8447ae55a540061229e50ed",
+    "wof:geomhash":"c2455d79cf2dde035e9fab0fd282dc99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,12 +192,12 @@
         }
     ],
     "wof:id":1125273575,
-    "wof:lastmodified":1582357797,
+    "wof:lastmodified":1684354142,
     "wof:name":"Gmina Tuszyn",
     "wof:parent_id":102079837,
     "wof:placetype":"localadmin",
-    "wof:population":7124,
-    "wof:population_rank":5,
+    "wof:population":12391,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

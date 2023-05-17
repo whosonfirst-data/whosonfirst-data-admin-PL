@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dopiewo",
+    "eurostat:nuts_2021_id":"1002301612105",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612105",
+    "eurostat:population":28138,
+    "eurostat:population_year":2020,
     "geom:area":0.01425,
-    "geom:area_square_m":107592246.691782,
+    "geom:area_square_m":107592246.69179,
     "geom:bbox":"16.608239384,52.298294826,16.810985022,52.417827361",
     "geom:latitude":52.365028,
     "geom:longitude":16.698941,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":16.690803,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079955
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612105",
+        "eurostat:nuts_2021_id":"1002301612105"
+    },
     "wof:coterminous":[
         101820355
     ],
     "wof:country":"PL",
-    "wof:geomhash":"1a81d086760693a753b1d7ccb0a5e247",
+    "wof:geomhash":"74fd6670dd09a361cb329c95a3d0c1c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752305,
-    "wof:lastmodified":1570003941,
+    "wof:lastmodified":1684354403,
     "wof:name":"Dopiewo",
     "wof:parent_id":102079955,
     "wof:placetype":"localadmin",
+    "wof:population":28138,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

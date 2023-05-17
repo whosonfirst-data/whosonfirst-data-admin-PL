@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021026201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Legnica",
+    "eurostat:nuts_2021_id":"1003021026201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021026201",
+    "eurostat:population":99350,
+    "eurostat:population_year":2020,
     "geom:area":0.007239,
-    "geom:area_square_m":56089192.437976,
+    "geom:area_square_m":56089192.437971,
     "geom:bbox":"16.083254,51.160528,16.233209,51.248847",
     "geom:latitude":51.201715,
     "geom:longitude":16.167499,
@@ -212,7 +224,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -220,11 +233,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079659,
-        85687301
+        85687301,
+        102079659
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021026201",
+        "eurostat:nuts_2021_id":"1003021026201",
         "gn:id":3093692,
         "gp:id":12618851,
         "qs_pg:id":332140
@@ -238,7 +253,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3d5c318e7b899983402709f750df89c2",
+    "wof:geomhash":"4902a32f991092df7b0037b62785ab37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -249,12 +264,12 @@
         }
     ],
     "wof:id":1125371127,
-    "wof:lastmodified":1607725801,
+    "wof:lastmodified":1684354283,
     "wof:name":"Legnica",
     "wof:parent_id":102079659,
     "wof:placetype":"localadmin",
-    "wof:population":106033,
-    "wof:population_rank":9,
+    "wof:population":99350,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

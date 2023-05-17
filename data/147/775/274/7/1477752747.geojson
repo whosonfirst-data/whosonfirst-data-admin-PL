@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460411",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mykan\u00f3w",
+    "eurostat:nuts_2021_id":"1001241460411",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460411",
+    "eurostat:population":15104,
+    "eurostat:population_year":2020,
     "geom:area":0.018099,
-    "geom:area_square_m":141045680.390266,
+    "geom:area_square_m":141045680.390282,
     "geom:bbox":"19.060167348,50.853861277,19.301176268,51.010849794",
     "geom:latitude":50.932156,
     "geom:longitude":19.164566,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":19.15631,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102079663
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460411",
+        "eurostat:nuts_2021_id":"1001241460411"
+    },
     "wof:coterminous":[
         1126006905
     ],
     "wof:country":"PL",
-    "wof:geomhash":"82578a7afa9712367e2a615fbfbbdfd1",
+    "wof:geomhash":"da89f613174d3f73ab6ba6adff71dcde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477752747,
-    "wof:lastmodified":1569999782,
+    "wof:lastmodified":1684354426,
     "wof:name":"Mykan\u00f3w",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",
+    "wof:population":15104,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

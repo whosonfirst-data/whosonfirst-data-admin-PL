@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081130106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santok",
+    "eurostat:nuts_2021_id":"1002081130106",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL431",
+    "eurostat:nuts_2021_level_lau":"1002081130106",
+    "eurostat:population":8636,
+    "eurostat:population_year":2020,
     "geom:area":0.022541,
     "geom:area_square_m":168724544.622253,
     "geom:bbox":"15.276001859,52.693296836,15.606193751,52.818169914",
@@ -53,6 +65,8 @@
     "reversegeo:longitude":15.395194,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -60,11 +74,15 @@
         102079975
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002081130106",
+        "eurostat:nuts_2021_id":"1002081130106"
+    },
     "wof:coterminous":[
         1125899113
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b7283aae151e9c19fe40e9fd924975c2",
+    "wof:geomhash":"309ccd08d6a1f24bb2379697e8dfc88f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477751519,
-    "wof:lastmodified":1569999500,
+    "wof:lastmodified":1684354362,
     "wof:name":"Santok",
     "wof:parent_id":102079975,
     "wof:placetype":"localadmin",
+    "wof:population":8636,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

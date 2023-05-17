@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142701901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bielsk",
+    "eurostat:nuts_2021_id":"1007142701901",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL923",
+    "eurostat:nuts_2021_level_lau":"1007142701901",
+    "eurostat:population":9071,
+    "eurostat:population_year":2020,
     "geom:area":0.016622,
-    "geom:area_square_m":124667578.505893,
+    "geom:area_square_m":124667578.505886,
     "geom:bbox":"19.683619771,52.587987685,19.9344309,52.735293526",
     "geom:latitude":52.658153,
     "geom:longitude":19.803606,
@@ -72,7 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -85,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142701901",
+        "eurostat:nuts_2021_id":"1007142701901",
         "gn:id":3103411,
         "gp:id":12616726,
         "qs_pg:id":201358
@@ -97,7 +112,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a20fe10a2628a92ee862146ea7f7a22f",
+    "wof:geomhash":"bdb1f05dc4bd3f89904ee0fdaa0cc644",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,12 +123,12 @@
         }
     ],
     "wof:id":1125304653,
-    "wof:lastmodified":1582357884,
+    "wof:lastmodified":1684354203,
     "wof:name":"Bielsk",
     "wof:parent_id":102080003,
     "wof:placetype":"localadmin",
-    "wof:population":2600,
-    "wof:population_rank":4,
+    "wof:population":9071,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

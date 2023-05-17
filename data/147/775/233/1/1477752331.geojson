@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciechanowiec",
+    "eurostat:nuts_2021_id":"1006201381302",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381302",
+    "eurostat:population":8577,
+    "eurostat:population_year":2020,
     "geom:area":0.026721,
-    "geom:area_square_m":200406356.850295,
+    "geom:area_square_m":200406356.850319,
     "geom:bbox":"22.408588834,52.585358998,22.718235977,52.739548581",
     "geom:latitude":52.660158,
     "geom:longitude":22.565157,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":22.601477,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080095
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381302",
+        "eurostat:nuts_2021_id":"1006201381302"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"46d416778e64121dadaa87290a5184f4",
+    "wof:geomhash":"d098f0617dd1fcc316271ca2b76f8cc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752331,
-    "wof:lastmodified":1570001171,
+    "wof:lastmodified":1684354404,
     "wof:name":"Gmina Ciechanowiec",
     "wof:parent_id":102080095,
     "wof:placetype":"localadmin",
+    "wof:population":8577,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281540701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"I\u0142awa",
+    "eurostat:nuts_2021_id":"1004281540701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281540701",
+    "eurostat:population":33327,
+    "eurostat:population_year":2020,
     "geom:area":0.00297,
-    "geom:area_square_m":21793396.544071,
+    "geom:area_square_m":21793396.544068,
     "geom:bbox":"19.508113401,53.563695837,19.610690515,53.628305456",
     "geom:latitude":53.598202,
     "geom:longitude":19.565923,
@@ -119,6 +131,8 @@
     "reversegeo:longitude":19.56514,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -126,11 +140,15 @@
         102080171
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281540701",
+        "eurostat:nuts_2021_id":"1004281540701"
+    },
     "wof:coterminous":[
         101819381
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2da64024cf464dda73c63fa1ad4365e3",
+    "wof:geomhash":"8b490a3b912db7b7030a19f29033ca80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +159,12 @@
         }
     ],
     "wof:id":1477751181,
-    "wof:lastmodified":1570129457,
+    "wof:lastmodified":1684354345,
     "wof:name":"I\u0142awa",
     "wof:parent_id":102080171,
     "wof:placetype":"localadmin",
+    "wof:population":33327,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

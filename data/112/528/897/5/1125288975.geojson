@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301586201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Konin",
+    "eurostat:nuts_2021_id":"1002301586201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301586201",
+    "eurostat:population":73522,
+    "eurostat:population_year":2020,
     "geom:area":0.010831,
-    "geom:area_square_m":81980222.952791,
+    "geom:area_square_m":81980222.952765,
     "geom:bbox":"18.192607,52.182261,18.332695,52.329988",
     "geom:latitude":52.255337,
     "geom:longitude":18.262144,
@@ -176,6 +188,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -188,6 +202,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301586201",
+        "eurostat:nuts_2021_id":"1002301586201",
         "gn:id":7532374,
         "gp:id":12618510,
         "qs_pg:id":24234
@@ -201,7 +217,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"846e752bf5d5f3f56e858b31111431b6",
+    "wof:geomhash":"45e91f3dc9f27f704efbe17dbd7a68c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -212,10 +228,12 @@
         }
     ],
     "wof:id":1125288975,
-    "wof:lastmodified":1617130612,
+    "wof:lastmodified":1684354167,
     "wof:name":"Konin",
     "wof:parent_id":102079903,
     "wof:placetype":"localadmin",
+    "wof:population":73522,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017begocina",
+    "eurostat:nuts_2021_id":"1001121200109",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200109",
+    "eurostat:population":5560,
+    "eurostat:population_year":2020,
     "geom:area":0.004356,
-    "geom:area_square_m":34761460.553859,
+    "geom:area_square_m":34761460.553857,
     "geom:bbox":"20.381359223,49.780041587,20.477055627,49.848835552",
     "geom:latitude":49.810149,
     "geom:longitude":20.430013,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":20.430017,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079493
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200109",
+        "eurostat:nuts_2021_id":"1001121200109"
+    },
     "wof:coterminous":[
         101826231
     ],
     "wof:country":"PL",
-    "wof:geomhash":"c97779a9979cfe1c40f9d060bf334d1c",
+    "wof:geomhash":"07eaedf88ce0b5774b8e8d0cef6afcfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751237,
-    "wof:lastmodified":1570004170,
+    "wof:lastmodified":1684354348,
     "wof:name":"\u017begocina",
     "wof:parent_id":102079493,
     "wof:placetype":"localadmin",
+    "wof:population":5560,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

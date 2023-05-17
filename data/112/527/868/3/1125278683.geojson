@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kamie\u0144sk",
+    "eurostat:nuts_2021_id":"1005101171205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171205",
+    "eurostat:population":5877,
+    "eurostat:population_year":2020,
     "geom:area":0.012407,
     "geom:area_square_m":96082142.386143,
     "geom:bbox":"19.384317091,51.167250591,19.557056143,51.286071802",
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171205",
+        "eurostat:nuts_2021_id":"1005101171205",
         "gn:id":3096763,
         "gp:id":24548361,
         "qs_pg:id":1189916
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cab34d5675ee9d7f537e74cf68d7ce5c",
+    "wof:geomhash":"ce634924e2662149a290023cc8b7f631",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125278683,
-    "wof:lastmodified":1582357795,
+    "wof:lastmodified":1684354146,
     "wof:name":"Gmina Kamie\u0144sk",
     "wof:parent_id":102079711,
     "wof:placetype":"localadmin",
-    "wof:population":2850,
-    "wof:population_rank":4,
+    "wof:population":5877,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u015arem",
+    "eurostat:nuts_2021_id":"1002301612604",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612604",
+    "eurostat:population":42155,
+    "eurostat:population_year":2020,
     "geom:area":0.026995,
-    "geom:area_square_m":205089804.85576,
+    "geom:area_square_m":205089804.855753,
     "geom:bbox":"16.86874136,51.991338915,17.143917769,52.18388076",
     "geom:latitude":52.091055,
     "geom:longitude":17.012244,
@@ -144,6 +156,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -156,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612604",
+        "eurostat:nuts_2021_id":"1002301612604",
         "gp:id":24548118,
         "qs_pg:id":1014701
     },
@@ -164,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f04f741602a376372fa6de18f0b1e651",
+    "wof:geomhash":"84e520b067875e27c0c1d7f844defab9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +191,12 @@
         }
     ],
     "wof:id":1125411185,
-    "wof:lastmodified":1582358015,
+    "wof:lastmodified":1684354334,
     "wof:name":"Gmina \u015arem",
     "wof:parent_id":102079865,
     "wof:placetype":"localadmin",
+    "wof:population":42155,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121201403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowe Brzesko",
+    "eurostat:nuts_2021_id":"1001121201403",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121201403",
+    "eurostat:population":5712,
+    "eurostat:population_year":2020,
     "geom:area":0.006846,
-    "geom:area_square_m":54240040.948045,
+    "geom:area_square_m":54240040.94804,
     "geom:bbox":"20.318646984,50.113539704,20.487547267,50.184208035",
     "geom:latitude":50.150104,
     "geom:longitude":20.398108,
@@ -132,7 +144,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -145,6 +158,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121201403",
+        "eurostat:nuts_2021_id":"1001121201403",
         "gn:id":763676,
         "gp:id":12618170,
         "qs_pg:id":296625
@@ -154,7 +169,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"070abfc23747b7e3bee0002fa180907d",
+    "wof:geomhash":"df46de7021dc570a676f357c73984e03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,12 +180,12 @@
         }
     ],
     "wof:id":1125361119,
-    "wof:lastmodified":1582357970,
+    "wof:lastmodified":1684354266,
     "wof:name":"Gmina Nowe Brzesko",
     "wof:parent_id":102079545,
     "wof:placetype":"localadmin",
-    "wof:population":1756,
-    "wof:population_rank":3,
+    "wof:population":5712,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141293407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Klemb\u00f3w",
+    "eurostat:nuts_2021_id":"1007141293407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL912",
+    "eurostat:nuts_2021_level_lau":"1007141293407",
+    "eurostat:population":9968,
+    "eurostat:population_year":2020,
     "geom:area":0.01132,
-    "geom:area_square_m":85383014.561632,
+    "geom:area_square_m":85383014.561651,
     "geom:bbox":"21.22683249,52.363525444,21.430176252,52.461080437",
     "geom:latitude":52.411669,
     "geom:longitude":21.326884,
@@ -75,7 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -88,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141293407",
+        "eurostat:nuts_2021_id":"1007141293407",
         "gn:id":769106,
         "gp:id":12618563,
         "qs_pg:id":1218694
@@ -100,7 +115,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e60cc05b4854b98aad2e5bc2a232c52a",
+    "wof:geomhash":"323e40a25e72fd5987948c05a1dfef3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,12 +126,12 @@
         }
     ],
     "wof:id":1125318521,
-    "wof:lastmodified":1582357960,
+    "wof:lastmodified":1684354222,
     "wof:name":"Klemb\u00f3w",
     "wof:parent_id":102079995,
     "wof:placetype":"localadmin",
-    "wof:population":920,
-    "wof:population_rank":2,
+    "wof:population":9968,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

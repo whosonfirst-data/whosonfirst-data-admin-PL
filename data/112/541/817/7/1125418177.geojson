@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142713303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Korytnica",
+    "eurostat:nuts_2021_id":"1007142713303",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142713303",
+    "eurostat:population":6218,
+    "eurostat:population_year":2020,
     "geom:area":0.02382,
-    "geom:area_square_m":179621557.32807,
+    "geom:area_square_m":179621557.327988,
     "geom:bbox":"21.665407068,52.346474007,21.950052506,52.493364594",
     "geom:latitude":52.422329,
     "geom:longitude":21.813569,
@@ -80,7 +92,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -93,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142713303",
+        "eurostat:nuts_2021_id":"1007142713303",
         "gn:id":768097,
         "gp:id":12617331,
         "qs_pg:id":1192018
@@ -105,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0f24fba210dc57fe5b8c459099d5d1e1",
+    "wof:geomhash":"56ff82df73a60786108ba744373b9afa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,12 +131,12 @@
         }
     ],
     "wof:id":1125418177,
-    "wof:lastmodified":1582358010,
+    "wof:lastmodified":1684354341,
     "wof:name":"Korytnica",
     "wof:parent_id":102080015,
     "wof:placetype":"localadmin",
-    "wof:population":747,
-    "wof:population_rank":2,
+    "wof:population":6218,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061091502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borki",
+    "eurostat:nuts_2021_id":"1006061091502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061091502",
+    "eurostat:population":6003,
+    "eurostat:population_year":2020,
     "geom:area":0.014533,
-    "geom:area_square_m":111302953.694795,
+    "geom:area_square_m":111302953.69476,
     "geom:bbox":"22.3968552,51.660060571,22.600024947,51.797150762",
     "geom:latitude":51.729395,
     "geom:longitude":22.4966,
@@ -84,7 +96,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -97,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061091502",
+        "eurostat:nuts_2021_id":"1006061091502",
         "gn:id":775561,
         "gp:id":12617966,
         "qs_pg:id":973998
@@ -109,7 +124,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"791c90ba11265c61875e60faa1b79b43",
+    "wof:geomhash":"50983f5d0b3a4db9adaf4fef5935bf8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,12 +135,12 @@
         }
     ],
     "wof:id":1125370961,
-    "wof:lastmodified":1582357845,
+    "wof:lastmodified":1684354282,
     "wof:name":"Borki",
     "wof:parent_id":102079905,
     "wof:placetype":"localadmin",
-    "wof:population":732,
-    "wof:population_rank":2,
+    "wof:population":6003,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101170101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Be\u0142chat\u00f3w",
+    "eurostat:nuts_2021_id":"1005101170101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101170101",
+    "eurostat:population":56973,
+    "eurostat:population_year":2020,
     "geom:area":0.004471,
-    "geom:area_square_m":34518674.379639,
+    "geom:area_square_m":34518674.379644,
     "geom:bbox":"19.306525844,51.315817429,19.418805998,51.393335395",
     "geom:latitude":51.360414,
     "geom:longitude":19.366401,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":19.366382,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079763
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101170101",
+        "eurostat:nuts_2021_id":"1005101170101"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"fddf9435504fd170a0a57d55f7548dc9",
+    "wof:geomhash":"6bf42604d91b7cbfb28d5da0052a43ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752971,
-    "wof:lastmodified":1570004005,
+    "wof:lastmodified":1684354439,
     "wof:name":"Gmina Be\u0142chat\u00f3w",
     "wof:parent_id":102079763,
     "wof:placetype":"localadmin",
+    "wof:population":56973,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

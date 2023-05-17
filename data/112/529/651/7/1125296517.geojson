@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142712609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sk\u00f3rzec",
+    "eurostat:nuts_2021_id":"1007142712609",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142712609",
+    "eurostat:population":7872,
+    "eurostat:population_year":2020,
     "geom:area":0.015614,
-    "geom:area_square_m":118588708.231612,
+    "geom:area_square_m":118588708.23158,
     "geom:bbox":"21.978104644,52.035929074,22.210887461,52.170541347",
     "geom:latitude":52.104083,
     "geom:longitude":22.11334,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":22.111596,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079979
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142712609",
+        "eurostat:nuts_2021_id":"1007142712609"
+    },
     "wof:coterminous":[
         1477863593
     ],
     "wof:country":"PL",
-    "wof:geomhash":"bfdcb853738c7cb7d93c038a6653cfac",
+    "wof:geomhash":"9ad677fe72e163cb7e2eb55f239da7b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125296517,
-    "wof:lastmodified":1569992034,
+    "wof:lastmodified":1684354187,
     "wof:name":"Sk\u00f3rzec",
     "wof:parent_id":102079979,
     "wof:placetype":"localadmin",
+    "wof:population":7872,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

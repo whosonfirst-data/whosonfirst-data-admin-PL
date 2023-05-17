@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061090108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Le\u015bna Podlaska",
+    "eurostat:nuts_2021_id":"1006061090108",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061090108",
+    "eurostat:population":4287,
+    "eurostat:population_year":2020,
     "geom:area":0.012889,
-    "geom:area_square_m":97846553.637863,
+    "geom:area_square_m":97846553.637867,
     "geom:bbox":"22.933059257,52.075984541,23.153189314,52.178567088",
     "geom:latitude":52.126142,
     "geom:longitude":23.034504,
@@ -101,7 +113,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -114,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061090108",
+        "eurostat:nuts_2021_id":"1006061090108",
         "gn:id":766441,
         "gp:id":12617940,
         "qs_pg:id":497883
@@ -126,7 +141,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"93c0a0a0b9e9bbd03f9832cb2d66f41c",
+    "wof:geomhash":"f238e5d8c5c6cc15e145dc092864d1d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,12 +152,12 @@
         }
     ],
     "wof:id":1125372907,
-    "wof:lastmodified":1582357863,
+    "wof:lastmodified":1684354287,
     "wof:name":"Le\u015bna Podlaska",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",
-    "wof:population":900,
-    "wof:population_rank":2,
+    "wof:population":4287,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

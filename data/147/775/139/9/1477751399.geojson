@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320806",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rudniki",
+    "eurostat:nuts_2021_id":"1003161320806",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320806",
+    "eurostat:population":8159,
+    "eurostat:population_year":2020,
     "geom:area":0.012865,
-    "geom:area_square_m":100056293.070626,
+    "geom:area_square_m":100056293.070633,
     "geom:bbox":"18.517462991,50.963782861,18.69548674,51.082336607",
     "geom:latitude":51.026338,
     "geom:longitude":18.60633,
@@ -50,6 +62,8 @@
     "reversegeo:longitude":18.604644,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -57,11 +71,15 @@
         102079671
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320806",
+        "eurostat:nuts_2021_id":"1003161320806"
+    },
     "wof:coterminous":[
         101756595
     ],
     "wof:country":"PL",
-    "wof:geomhash":"9a3f3212b4dc1487601ec34806444bf0",
+    "wof:geomhash":"c5e45f267011c3f181108c0088534eee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +90,12 @@
         }
     ],
     "wof:id":1477751399,
-    "wof:lastmodified":1570002543,
+    "wof:lastmodified":1684354355,
     "wof:name":"Rudniki",
     "wof:parent_id":102079671,
     "wof:placetype":"localadmin",
+    "wof:population":8159,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

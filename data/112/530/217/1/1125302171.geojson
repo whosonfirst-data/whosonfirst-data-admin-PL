@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021011202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lubomierz",
+    "eurostat:nuts_2021_id":"1003021011202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021011202",
+    "eurostat:population":6218,
+    "eurostat:population_year":2020,
     "geom:area":0.01669,
-    "geom:area_square_m":129864296.296767,
+    "geom:area_square_m":129864296.296749,
     "geom:bbox":"15.444361667,50.937593845,15.650067412,51.073484687",
     "geom:latitude":51.00332,
     "geom:longitude":15.544599,
@@ -143,7 +155,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -156,6 +169,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021011202",
+        "eurostat:nuts_2021_id":"1003021011202",
         "gn:id":3092866,
         "gp:id":24547963,
         "qs_pg:id":242328
@@ -165,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a5f839963d22d3d3147850b17f35236c",
+    "wof:geomhash":"2d493abbee0ec530df9e856c65f240b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,12 +191,12 @@
         }
     ],
     "wof:id":1125302171,
-    "wof:lastmodified":1582357876,
+    "wof:lastmodified":1684354194,
     "wof:name":"Gmina Lubomierz",
     "wof:parent_id":102079649,
     "wof:placetype":"localadmin",
-    "wof:population":1816,
-    "wof:population_rank":3,
+    "wof:population":6218,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

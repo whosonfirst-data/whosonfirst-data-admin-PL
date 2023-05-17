@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041681402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dragacz",
+    "eurostat:nuts_2021_id":"1004041681402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL618",
+    "eurostat:nuts_2021_level_lau":"1004041681402",
+    "eurostat:population":7216,
+    "eurostat:population_year":2020,
     "geom:area":0.015149,
-    "geom:area_square_m":111436550.235739,
+    "geom:area_square_m":111436550.235755,
     "geom:bbox":"18.582995483,53.425888994,18.764829159,53.564318198",
     "geom:latitude":53.495864,
     "geom:longitude":18.671998,
@@ -63,6 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041681402",
+        "eurostat:nuts_2021_id":"1004041681402",
         "gp:id":12618078,
         "qs_pg:id":267822
     },
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d0a13a8ff5039bf6ece1fe8376b666e2",
+    "wof:geomhash":"e6d2c0a237c6e104d175faa24b9d3bda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":1125271119,
-    "wof:lastmodified":1582357797,
+    "wof:lastmodified":1684354141,
     "wof:name":"Dragacz",
     "wof:parent_id":102080137,
     "wof:placetype":"localadmin",
+    "wof:population":7216,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

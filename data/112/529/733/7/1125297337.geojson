@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Myszk\u00f3w",
+    "eurostat:nuts_2021_id":"1001241460901",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460901",
+    "eurostat:population":31585,
+    "eurostat:population_year":2020,
     "geom:area":0.009337,
-    "geom:area_square_m":73344191.920696,
+    "geom:area_square_m":73344191.920665,
     "geom:bbox":"19.262724395,50.506594676,19.391310739,50.622731483",
     "geom:latitude":50.562376,
     "geom:longitude":19.329307,
@@ -143,7 +155,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -156,6 +169,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460901",
+        "eurostat:nuts_2021_id":"1001241460901",
         "gn:id":3091217,
         "gp:id":12617335,
         "qs_pg:id":466498
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ea605a1aadd2c5db8b1b7085b87839a7",
+    "wof:geomhash":"620ee9933dd2b8e4050e670967101f5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,11 +194,11 @@
         }
     ],
     "wof:id":1125297337,
-    "wof:lastmodified":1582357818,
+    "wof:lastmodified":1684354189,
     "wof:name":"Myszk\u00f3w",
     "wof:parent_id":102079605,
     "wof:placetype":"localadmin",
-    "wof:population":33273,
+    "wof:population":31585,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

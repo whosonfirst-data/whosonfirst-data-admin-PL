@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021020906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mi\u0142kowice",
+    "eurostat:nuts_2021_id":"1003021020906",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021020906",
+    "eurostat:population":6762,
+    "eurostat:population_year":2020,
     "geom:area":0.011123,
-    "geom:area_square_m":86084469.054366,
+    "geom:area_square_m":86084469.054374,
     "geom:bbox":"16.00919692,51.200910874,16.197248886,51.302629257",
     "geom:latitude":51.251223,
     "geom:longitude":16.103869,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":16.097478,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079691
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021020906",
+        "eurostat:nuts_2021_id":"1003021020906"
+    },
     "wof:coterminous":[
         101822531
     ],
     "wof:country":"PL",
-    "wof:geomhash":"603f0ae006cba8382820775b75b26dfc",
+    "wof:geomhash":"28c57398c65944f01f484ac6169ef68f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752455,
-    "wof:lastmodified":1569999939,
+    "wof:lastmodified":1684354410,
     "wof:name":"Mi\u0142kowice",
     "wof:parent_id":102079691,
     "wof:placetype":"localadmin",
+    "wof:population":6762,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

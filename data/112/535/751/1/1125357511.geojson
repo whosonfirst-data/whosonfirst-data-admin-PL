@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100313",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wojs\u0142awice",
+    "eurostat:nuts_2021_id":"1006061100313",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100313",
+    "eurostat:population":3745,
+    "eurostat:population_year":2020,
     "geom:area":0.01412,
-    "geom:area_square_m":110042697.495443,
+    "geom:area_square_m":110042697.495461,
     "geom:bbox":"23.426874163,50.869816811,23.701719904,50.983334298",
     "geom:latitude":50.930729,
     "geom:longitude":23.556957,
@@ -63,6 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100313",
+        "eurostat:nuts_2021_id":"1006061100313",
         "gp:id":12618520,
         "qs_pg:id":1160716
     },
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7879c0c48cfb9e3017e6fd27f1b47d92",
+    "wof:geomhash":"217743434ee5d93cd66f1c3366e29c00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":1125357511,
-    "wof:lastmodified":1582357711,
+    "wof:lastmodified":1684354264,
     "wof:name":"Wojs\u0142awice",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",
+    "wof:population":3745,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

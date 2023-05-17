@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142253701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bie\u017cu\u0144",
+    "eurostat:nuts_2021_id":"1007142253701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142253701",
+    "eurostat:population":4973,
+    "eurostat:population_year":2020,
     "geom:area":0.016243,
-    "geom:area_square_m":120985246.675562,
+    "geom:area_square_m":120985246.675565,
     "geom:bbox":"19.817008795,52.901465369,20.058460441,53.01601304",
     "geom:latitude":52.95965,
     "geom:longitude":19.936726,
@@ -56,6 +68,8 @@
     "reversegeo:longitude":19.915008,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -63,8 +77,12 @@
         102080069
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142253701",
+        "eurostat:nuts_2021_id":"1007142253701"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"b577c4768e77b9f2983aad33038bc8ca",
+    "wof:geomhash":"854c742403e42313b291803b18879a12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477752635,
-    "wof:lastmodified":1570004032,
+    "wof:lastmodified":1684354420,
     "wof:name":"Gmina Bie\u017cu\u0144",
     "wof:parent_id":102080069,
     "wof:placetype":"localadmin",
+    "wof:population":4973,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

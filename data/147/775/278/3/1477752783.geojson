@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061121106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serokomla",
+    "eurostat:nuts_2021_id":"1006061121106",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061121106",
+    "eurostat:population":3940,
+    "eurostat:population_year":2020,
     "geom:area":0.010052,
-    "geom:area_square_m":77049537.809929,
+    "geom:area_square_m":77049537.809924,
     "geom:bbox":"22.226364147,51.637260347,22.399791361,51.73762773",
     "geom:latitude":51.689885,
     "geom:longitude":22.31644,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":22.332106,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079925
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061121106",
+        "eurostat:nuts_2021_id":"1006061121106"
+    },
     "wof:coterminous":[
         101821713
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a17050045fa02666790a2f48861476d3",
+    "wof:geomhash":"4253255a6ce0791630c160e40272f4e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752783,
-    "wof:lastmodified":1570003000,
+    "wof:lastmodified":1684354429,
     "wof:name":"Serokomla",
     "wof:parent_id":102079925,
     "wof:placetype":"localadmin",
+    "wof:population":3940,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

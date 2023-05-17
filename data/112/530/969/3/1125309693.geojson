@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sorkwity",
+    "eurostat:nuts_2021_id":"1004281561005",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561005",
+    "eurostat:population":4528,
+    "eurostat:population_year":2020,
     "geom:area":0.025206,
-    "geom:area_square_m":183886818.22572,
+    "geom:area_square_m":183886818.225673,
     "geom:bbox":"21.051369684,53.715551836,21.242403086,53.959536292",
     "geom:latitude":53.843544,
     "geom:longitude":21.153386,
@@ -69,6 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561005",
+        "eurostat:nuts_2021_id":"1004281561005",
         "gp:id":12616563,
         "qs_pg:id":1107003
     },
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b08d1390e2ae6462f2e80a76ff993c35",
+    "wof:geomhash":"32c6a452b0aaaf8b79288f6f333e8b85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":1125309693,
-    "wof:lastmodified":1582357887,
+    "wof:lastmodified":1684354211,
     "wof:name":"Sorkwity",
     "wof:parent_id":102080203,
     "wof:placetype":"localadmin",
+    "wof:population":4528,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

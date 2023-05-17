@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181351611",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soko\u0142\u00f3w Ma\u0142opolski",
+    "eurostat:nuts_2021_id":"1006181351611",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181351611",
+    "eurostat:population":17244,
+    "eurostat:population_year":2020,
     "geom:area":0.01691,
-    "geom:area_square_m":133755039.21604,
+    "geom:area_square_m":133755039.216054,
     "geom:bbox":"22.016210027,50.169006039,22.252256486,50.300901554",
     "geom:latitude":50.232597,
     "geom:longitude":22.130913,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -162,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181351611",
+        "eurostat:nuts_2021_id":"1006181351611",
         "gn:id":758633,
         "gp:id":24548757,
         "qs_pg:id":994301
@@ -171,7 +186,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0a9784ef26814dea70d20b6a7517206e",
+    "wof:geomhash":"74a2f9a7b26ad3d49ccc31cb0bdaa471",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,12 +197,12 @@
         }
     ],
     "wof:id":1125282581,
-    "wof:lastmodified":1582357765,
+    "wof:lastmodified":1684354151,
     "wof:name":"Gmina Soko\u0142\u00f3w Ma\u0142opolski",
     "wof:parent_id":102079585,
     "wof:placetype":"localadmin",
-    "wof:population":3975,
-    "wof:population_rank":4,
+    "wof:population":17244,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

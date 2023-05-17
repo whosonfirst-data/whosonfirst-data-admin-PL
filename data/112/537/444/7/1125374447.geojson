@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161310204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kietrz",
+    "eurostat:nuts_2021_id":"1003161310204",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161310204",
+    "eurostat:population":10822,
+    "eurostat:population_year":2020,
     "geom:area":0.017532,
-    "geom:area_square_m":139177079.776997,
+    "geom:area_square_m":139177079.77704,
     "geom:bbox":"17.836844262,49.97650642,18.05920855,50.143907155",
     "geom:latitude":50.058741,
     "geom:longitude":17.944515,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161310204",
+        "eurostat:nuts_2021_id":"1003161310204",
         "gn:id":3096240,
         "gp:id":24548473,
         "qs_pg:id":905219
@@ -159,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1c4b4454c8f0fd039d58992cad01b69b",
+    "wof:geomhash":"4b47604856e6a1e470445ee8274615db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,12 +185,12 @@
         }
     ],
     "wof:id":1125374447,
-    "wof:lastmodified":1582357857,
+    "wof:lastmodified":1684354289,
     "wof:name":"Gmina Kietrz",
     "wof:parent_id":102079489,
     "wof:placetype":"localadmin",
-    "wof:population":6306,
-    "wof:population_rank":5,
+    "wof:population":10822,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

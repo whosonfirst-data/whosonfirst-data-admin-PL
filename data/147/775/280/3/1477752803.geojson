@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301571805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kraszewice",
+    "eurostat:nuts_2021_id":"1002301571805",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301571805",
+    "eurostat:population":3621,
+    "eurostat:population_year":2020,
     "geom:area":0.009699,
-    "geom:area_square_m":74644771.130108,
+    "geom:area_square_m":74644771.130123,
     "geom:bbox":"18.153935624,51.455326656,18.342895744,51.547382149",
     "geom:latitude":51.508522,
     "geom:longitude":18.243775,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":18.245158,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079747
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301571805",
+        "eurostat:nuts_2021_id":"1002301571805"
+    },
     "wof:coterminous":[
         101821345
     ],
     "wof:country":"PL",
-    "wof:geomhash":"3fdabe100b02219cf7f669e9ad1fac38",
+    "wof:geomhash":"c9e8d82dcfb3bd4f4c7c3631fb800011",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477752803,
-    "wof:lastmodified":1569999750,
+    "wof:lastmodified":1684354430,
     "wof:name":"Kraszewice",
     "wof:parent_id":102079747,
     "wof:placetype":"localadmin",
+    "wof:population":3621,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281560102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u00f3rowo I\u0142aweckie",
+    "eurostat:nuts_2021_id":"1004281560102",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281560102",
+    "eurostat:population":3940,
+    "eurostat:population_year":2020,
     "geom:area":0.000457,
-    "geom:area_square_m":3301724.857279,
+    "geom:area_square_m":3301724.857281,
     "geom:bbox":"20.472510617,54.275032151,20.504102563,54.301984323",
     "geom:latitude":54.287444,
     "geom:longitude":20.489452,
@@ -155,7 +167,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -168,6 +181,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281560102",
+        "eurostat:nuts_2021_id":"1004281560102",
         "gn:id":771779,
         "gp:id":24547479,
         "qs_pg:id":1255010
@@ -177,7 +192,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6799debe6a8ae1b9dfd2884deac4fabd",
+    "wof:geomhash":"e9e3ad70b25872bdc2435c29e1ad2f21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,11 +203,11 @@
         }
     ],
     "wof:id":1125340855,
-    "wof:lastmodified":1582357691,
+    "wof:lastmodified":1684354249,
     "wof:name":"Gmina G\u00f3rowo I\u0142aweckie",
     "wof:parent_id":102080247,
     "wof:placetype":"localadmin",
-    "wof:population":4900,
+    "wof:population":3940,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

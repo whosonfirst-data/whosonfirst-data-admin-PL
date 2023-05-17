@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241486901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Katowice",
+    "eurostat:nuts_2021_id":"1001241486901",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22A",
+    "eurostat:nuts_2021_level_lau":"1001241486901",
+    "eurostat:population":292774,
+    "eurostat:population_year":2020,
     "geom:area":0.020752,
-    "geom:area_square_m":164191585.369516,
+    "geom:area_square_m":164191585.369541,
     "geom:bbox":"18.891539,50.130065,19.124424,50.297691",
     "geom:latitude":50.218018,
     "geom:longitude":19.023142,
@@ -417,6 +429,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -424,11 +438,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079505,
-        85687277
+        85687277,
+        102079505
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241486901",
+        "eurostat:nuts_2021_id":"1001241486901",
         "gp:id":12618159,
         "qs_pg:id":1081237
     },
@@ -441,7 +457,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1ecd839c5b472a1fdd751c6c3726707d",
+    "wof:geomhash":"c7d9476d92e49ee4ad948219bc4d5d48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -452,10 +468,12 @@
         }
     ],
     "wof:id":1125280589,
-    "wof:lastmodified":1607725651,
+    "wof:lastmodified":1684354148,
     "wof:name":"Katowice",
     "wof:parent_id":102079505,
     "wof:placetype":"localadmin",
+    "wof:population":292774,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

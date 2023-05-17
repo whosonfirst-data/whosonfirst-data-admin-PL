@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241491202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gaszowice",
+    "eurostat:nuts_2021_id":"1001241491202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL227",
+    "eurostat:nuts_2021_level_lau":"1001241491202",
+    "eurostat:population":9798,
+    "eurostat:population_year":2020,
     "geom:area":0.002464,
     "geom:area_square_m":19547616.662467,
     "geom:bbox":"18.380282561,50.070920904,18.464483262,50.121767788",
@@ -66,7 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -79,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241491202",
+        "eurostat:nuts_2021_id":"1001241491202",
         "gn:id":3099452,
         "gp:id":12618448,
         "qs_pg:id":1013346
@@ -91,7 +106,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cbd7aee9c50d759c20df7d4f4ff36dc3",
+    "wof:geomhash":"777cdcdc0633cd14f3dcd9e45fdce053",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,12 +117,12 @@
         }
     ],
     "wof:id":1125383187,
-    "wof:lastmodified":1582357938,
+    "wof:lastmodified":1684354300,
     "wof:name":"Gaszowice",
     "wof:parent_id":102079459,
     "wof:placetype":"localadmin",
-    "wof:population":2861,
-    "wof:population_rank":4,
+    "wof:population":9798,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

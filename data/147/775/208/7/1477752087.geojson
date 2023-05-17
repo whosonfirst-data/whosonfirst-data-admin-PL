@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161310201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Babor\u00f3w",
+    "eurostat:nuts_2021_id":"1003161310201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161310201",
+    "eurostat:population":5976,
+    "eurostat:population_year":2020,
     "geom:area":0.014722,
-    "geom:area_square_m":116652978.082947,
+    "geom:area_square_m":116652978.082949,
     "geom:bbox":"17.885432649,50.08982599,18.072637761,50.218872051",
     "geom:latitude":50.14766,
     "geom:longitude":17.977485,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":17.98684,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079489
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161310201",
+        "eurostat:nuts_2021_id":"1003161310201"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"d828bae6a3d6866ceb6b0b279cd03758",
+    "wof:geomhash":"6e884abc2ccf3f56583aa92b2fbd44d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752087,
-    "wof:lastmodified":1570003856,
+    "wof:lastmodified":1684354391,
     "wof:name":"Gmina Babor\u00f3w",
     "wof:parent_id":102079489,
     "wof:placetype":"localadmin",
+    "wof:population":5976,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

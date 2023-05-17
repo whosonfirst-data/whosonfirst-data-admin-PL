@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142710304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garwolin",
+    "eurostat:nuts_2021_id":"1007142710304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142710304",
+    "eurostat:population":13273,
+    "eurostat:population_year":2020,
     "geom:area":0.017724,
-    "geom:area_square_m":135256612.702915,
+    "geom:area_square_m":135256612.70294,
     "geom:bbox":"21.413837,51.829041,21.695191,51.952817",
     "geom:latitude":51.889969,
     "geom:longitude":21.558176,
@@ -62,18 +74,24 @@
     "reversegeo:longitude":21.53195,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079901,
-        85687257
+        85687257,
+        102079901
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142710304",
+        "eurostat:nuts_2021_id":"1007142710304"
+    },
     "wof:coterminous":[
         1477864085
     ],
     "wof:country":"PL",
-    "wof:geomhash":"020949051a5567f6c7a6f0dd1946a921",
+    "wof:geomhash":"0936fbf0b87ef44ca1fbbe6e9df865ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752891,
-    "wof:lastmodified":1607726539,
+    "wof:lastmodified":1684354435,
     "wof:name":"Gmina Garwolin",
     "wof:parent_id":102079901,
     "wof:placetype":"localadmin",
+    "wof:population":13273,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241470501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Knur\u00f3w",
+    "eurostat:nuts_2021_id":"1001241470501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL229",
+    "eurostat:nuts_2021_level_lau":"1001241470501",
+    "eurostat:population":38112,
+    "eurostat:population_year":2020,
     "geom:area":0.004265,
-    "geom:area_square_m":33752359.123584,
+    "geom:area_square_m":33752359.123578,
     "geom:bbox":"18.612316264,50.173925985,18.713598206,50.240524527",
     "geom:latitude":50.205437,
     "geom:longitude":18.664352,
@@ -104,6 +116,8 @@
     "reversegeo:longitude":18.664356,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -111,11 +125,15 @@
         102079563
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241470501",
+        "eurostat:nuts_2021_id":"1001241470501"
+    },
     "wof:coterminous":[
         101841637
     ],
     "wof:country":"PL",
-    "wof:geomhash":"4ecfaeae02c91b37110f99628382d644",
+    "wof:geomhash":"68227198fadd3b7b26a1fa4c96d4d62f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +144,12 @@
         }
     ],
     "wof:id":1477751515,
-    "wof:lastmodified":1569999525,
+    "wof:lastmodified":1684354361,
     "wof:name":"Knur\u00f3w",
     "wof:parent_id":102079563,
     "wof:placetype":"localadmin",
+    "wof:population":38112,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

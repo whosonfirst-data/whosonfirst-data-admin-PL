@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221400501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chmielno",
+    "eurostat:nuts_2021_id":"1004221400501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221400501",
+    "eurostat:population":7805,
+    "eurostat:population_year":2020,
     "geom:area":0.010851,
-    "geom:area_square_m":78264195.436752,
+    "geom:area_square_m":78264195.436759,
     "geom:bbox":"17.969309092,54.246709256,18.14009435,54.37620516",
     "geom:latitude":54.316259,
     "geom:longitude":18.053229,
@@ -89,7 +101,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -102,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221400501",
+        "eurostat:nuts_2021_id":"1004221400501",
         "gn:id":3101734,
         "gp:id":24547939,
         "qs_pg:id":59490
@@ -114,7 +129,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5e11f4cf27dac4ee9ebfcb57f12df47d",
+    "wof:geomhash":"0f05deb5c96557d562f5acb1413df796",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,12 +140,12 @@
         }
     ],
     "wof:id":1125338929,
-    "wof:lastmodified":1582357681,
+    "wof:lastmodified":1684354246,
     "wof:name":"Chmielno",
     "wof:parent_id":102080233,
     "wof:placetype":"localadmin",
-    "wof:population":1580,
-    "wof:population_rank":3,
+    "wof:population":7805,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

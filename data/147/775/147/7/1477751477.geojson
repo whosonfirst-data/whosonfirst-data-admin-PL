@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301571803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grab\u00f3w nad Prosn\u0105",
+    "eurostat:nuts_2021_id":"1002301571803",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301571803",
+    "eurostat:population":7817,
+    "eurostat:population_year":2020,
     "geom:area":0.016014,
-    "geom:area_square_m":123324085.045159,
+    "geom:area_square_m":123324085.045138,
     "geom:bbox":"17.978167164,51.429145386,18.223751387,51.544479764",
     "geom:latitude":51.480082,
     "geom:longitude":18.106528,
@@ -56,6 +68,8 @@
     "reversegeo:longitude":18.108369,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -63,8 +77,12 @@
         102079747
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301571803",
+        "eurostat:nuts_2021_id":"1002301571803"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"4138b31570916e78f5a1acb57f0aa868",
+    "wof:geomhash":"54a9dae74b2f2cccd0e1452998f88fdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477751477,
-    "wof:lastmodified":1570004614,
+    "wof:lastmodified":1684354359,
     "wof:name":"Gmina Grab\u00f3w nad Prosn\u0105",
     "wof:parent_id":102079747,
     "wof:placetype":"localadmin",
+    "wof:population":7817,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

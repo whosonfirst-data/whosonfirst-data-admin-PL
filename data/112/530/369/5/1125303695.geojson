@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Milicz",
+    "eurostat:nuts_2021_id":"1003021041303",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041303",
+    "eurostat:population":24197,
+    "eurostat:population_year":2020,
     "geom:area":0.056401,
-    "geom:area_square_m":433914201.431031,
+    "geom:area_square_m":433914201.431032,
     "geom:bbox":"16.989484547,51.391781475,17.576288641,51.621636899",
     "geom:latitude":51.52424,
     "geom:longitude":17.292202,
@@ -138,6 +150,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -150,6 +164,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041303",
+        "eurostat:nuts_2021_id":"1003021041303",
         "gp:id":12617533,
         "qs_pg:id":198711
     },
@@ -158,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"eb3487cc08c400c21c166d27b34e70a0",
+    "wof:geomhash":"3bbe785f5974f040d6feb223f086af80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +185,12 @@
         }
     ],
     "wof:id":1125303695,
-    "wof:lastmodified":1582357887,
+    "wof:lastmodified":1684354197,
     "wof:name":"Gmina Milicz",
     "wof:parent_id":102079753,
     "wof:placetype":"localadmin",
+    "wof:population":24197,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

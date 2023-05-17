@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081141007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szprotawa",
+    "eurostat:nuts_2021_id":"1002081141007",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081141007",
+    "eurostat:population":20610,
+    "eurostat:population_year":2020,
     "geom:area":0.030124,
-    "geom:area_square_m":231453162.365383,
+    "geom:area_square_m":231453162.365366,
     "geom:bbox":"15.476865406,51.445674418,15.714075966,51.694339497",
     "geom:latitude":51.583383,
     "geom:longitude":15.591581,
@@ -56,6 +68,8 @@
     "reversegeo:longitude":15.573632,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -63,8 +77,12 @@
         102079759
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002081141007",
+        "eurostat:nuts_2021_id":"1002081141007"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"e6955d41475ea14672a32b0b0ee0f0f6",
+    "wof:geomhash":"565db4cb1d63f1669c1018272b7cf2fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477752601,
-    "wof:lastmodified":1570000850,
+    "wof:lastmodified":1684354418,
     "wof:name":"Gmina Szprotawa",
     "wof:parent_id":102079759,
     "wof:placetype":"localadmin",
+    "wof:population":20610,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142701903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brudze\u0144 Du\u017cy",
+    "eurostat:nuts_2021_id":"1007142701903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL923",
+    "eurostat:nuts_2021_level_lau":"1007142701903",
+    "eurostat:population":8267,
+    "eurostat:population_year":2020,
     "geom:area":0.021225,
-    "geom:area_square_m":159230467.178016,
+    "geom:area_square_m":159230467.178068,
     "geom:bbox":"19.367898423,52.570106678,19.646023435,52.725717594",
     "geom:latitude":52.648774,
     "geom:longitude":19.506617,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":19.49714,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080003
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142701903",
+        "eurostat:nuts_2021_id":"1007142701903"
+    },
     "wof:coterminous":[
         1125899169
     ],
     "wof:country":"PL",
-    "wof:geomhash":"df0747d5273447caa7bce81aac21e5e6",
+    "wof:geomhash":"45925303e0bdf3dfff64f618d12fbf2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752661,
-    "wof:lastmodified":1570000574,
+    "wof:lastmodified":1684354421,
     "wof:name":"Brudze\u0144 Du\u017cy",
     "wof:parent_id":102080003,
     "wof:placetype":"localadmin",
+    "wof:population":8267,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

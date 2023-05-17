@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rudnik nad Sanem",
+    "eurostat:nuts_2021_id":"1006181361206",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361206",
+    "eurostat:population":10173,
+    "eurostat:population_year":2020,
     "geom:area":0.009959,
     "geom:area_square_m":78424950.287756,
     "geom:bbox":"22.165683385,50.384153935,22.317755304,50.502340177",
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361206",
+        "eurostat:nuts_2021_id":"1006181361206",
         "gn:id":760055,
         "gp:id":12618360,
         "qs_pg:id":24200
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"81a653f6a8f76b025de42ab2fc73364c",
+    "wof:geomhash":"2cdff9a1bf902cff68a81e1de5f6819e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125289245,
-    "wof:lastmodified":1582357768,
+    "wof:lastmodified":1684354171,
     "wof:name":"Gmina Rudnik nad Sanem",
     "wof:parent_id":102079639,
     "wof:placetype":"localadmin",
-    "wof:population":6770,
-    "wof:population_rank":5,
+    "wof:population":10173,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061090103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bia\u0142a Podlaska",
+    "eurostat:nuts_2021_id":"1006061090103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061090103",
+    "eurostat:population":14423,
+    "eurostat:population_year":2020,
     "geom:area":0.04262,
-    "geom:area_square_m":324192645.405423,
+    "geom:area_square_m":324192645.405433,
     "geom:bbox":"22.864635307,51.937641557,23.330674579,52.123134669",
     "geom:latitude":52.036303,
     "geom:longitude":23.112026,
@@ -68,6 +80,8 @@
     "reversegeo:longitude":23.174085,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -75,8 +89,12 @@
         102079973
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061090103",
+        "eurostat:nuts_2021_id":"1006061090103"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"595a77e6ad688007d5b31b4f700f55d5",
+    "wof:geomhash":"545a5460075a4bf5b12ba5fe31c81510",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477751485,
-    "wof:lastmodified":1570004413,
+    "wof:lastmodified":1684354360,
     "wof:name":"Gmina Bia\u0142a Podlaska",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",
+    "wof:population":14423,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

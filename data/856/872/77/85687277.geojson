@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"\u015al\u0105skie",
+    "eurostat:name_local":"\u015al\u0105skie",
+    "eurostat:nuts_2021_id":"PL22",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:population":4413746,
+    "eurostat:population_year":2022,
     "geom:area":1.557335,
-    "geom:area_square_m":12292241559.08395,
+    "geom:area_square_m":12292241606.299147,
     "geom:bbox":"18.035038,49.393976,19.974001,51.09943",
     "geom:latitude":50.331077,
     "geom:longitude":18.994098,
@@ -382,8 +392,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-21",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"12,333",
     "statoids:area_mi":"4,762",
     "statoids:as_of_date":"2011-03-21",
@@ -405,6 +415,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14345,
+        "eurostat:nuts_2021_id":"PL22",
         "fips:code":"PL83",
         "gn:id":3337497,
         "gp:id":12577946,
@@ -418,7 +429,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ab9e6807aa10513f5b6f793fa25f193d",
+    "wof:geomhash":"1e20621bbc744f2a90e064c1f229f088",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -436,12 +447,12 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1617131363,
+    "wof:lastmodified":1684351462,
     "wof:name":"\u015al\u0105skie",
     "wof:parent_id":85633723,
     "wof:placetype":"region",
     "wof:placetype_local":"voivodship",
-    "wof:population":4630364,
+    "wof:population":4413746,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:shortcode":"SL",

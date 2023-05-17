@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061111703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piaski",
+    "eurostat:nuts_2021_id":"1006061111703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL814",
+    "eurostat:nuts_2021_level_lau":"1006061111703",
+    "eurostat:population":10530,
+    "eurostat:population_year":2020,
     "geom:area":0.021812,
-    "geom:area_square_m":169241069.036299,
+    "geom:area_square_m":169241069.036309,
     "geom:bbox":"22.681100324,51.069435156,22.929669799,51.191527647",
     "geom:latitude":51.134485,
     "geom:longitude":22.805049,
@@ -108,7 +120,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -121,6 +134,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061111703",
+        "eurostat:nuts_2021_id":"1006061111703",
         "gn:id":762390,
         "gp:id":24548777,
         "qs_pg:id":310173
@@ -130,7 +145,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d86604c035641033b59bdf268bd82106",
+    "wof:geomhash":"9f3b089ab0852428a911b31b76e29ea8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,12 +156,12 @@
         }
     ],
     "wof:id":1125278545,
-    "wof:lastmodified":1582357801,
+    "wof:lastmodified":1684354146,
     "wof:name":"Gmina Piaski",
     "wof:parent_id":102079777,
     "wof:placetype":"localadmin",
-    "wof:population":2634,
-    "wof:population_rank":4,
+    "wof:population":10530,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

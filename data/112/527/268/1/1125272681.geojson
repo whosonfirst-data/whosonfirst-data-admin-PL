@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181330103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czarna",
+    "eurostat:nuts_2021_id":"1006181330103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181330103",
+    "eurostat:population":2389,
+    "eurostat:population_year":2020,
     "geom:area":0.022848,
-    "geom:area_square_m":184206874.020216,
+    "geom:area_square_m":184206874.020234,
     "geom:bbox":"22.449337047,49.225815775,22.750956076,49.375984598",
     "geom:latitude":49.306959,
     "geom:longitude":22.608151,
@@ -80,7 +92,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -93,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181330103",
+        "eurostat:nuts_2021_id":"1006181330103",
         "gn:id":773968,
         "gp:id":12618322,
         "qs_pg:id":1059458
@@ -105,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9dd56601dab6c92643ab7bc9ff8a2307",
+    "wof:geomhash":"0142b6b4635445f43077e3185df6b84e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,12 +131,12 @@
         }
     ],
     "wof:id":1125272681,
-    "wof:lastmodified":1582357795,
+    "wof:lastmodified":1684354141,
     "wof:name":"Czarna",
     "wof:parent_id":102079439,
     "wof:placetype":"localadmin",
-    "wof:population":792,
-    "wof:population_rank":2,
+    "wof:population":2389,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

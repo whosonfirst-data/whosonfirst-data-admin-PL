@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301570710",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szczytniki",
+    "eurostat:nuts_2021_id":"1002301570710",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301570710",
+    "eurostat:population":7812,
+    "eurostat:population_year":2020,
     "geom:area":0.014387,
-    "geom:area_square_m":110288691.390434,
+    "geom:area_square_m":110288691.390435,
     "geom:bbox":"18.234943677,51.613476016,18.423483022,51.754179315",
     "geom:latitude":51.687148,
     "geom:longitude":18.32626,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":18.324789,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102079841
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301570710",
+        "eurostat:nuts_2021_id":"1002301570710"
+    },
     "wof:coterminous":[
         1126018389
     ],
     "wof:country":"PL",
-    "wof:geomhash":"72ab83e8573284ee51f55f754616d25c",
+    "wof:geomhash":"8c36b7038b59ebc22095e370bf485a42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477752949,
-    "wof:lastmodified":1570000786,
+    "wof:lastmodified":1684354438,
     "wof:name":"Szczytniki",
     "wof:parent_id":102079841,
     "wof:placetype":"localadmin",
+    "wof:population":7812,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

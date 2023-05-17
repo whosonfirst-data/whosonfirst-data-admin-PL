@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081140205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gubin",
+    "eurostat:nuts_2021_id":"1002081140205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081140205",
+    "eurostat:population":7138,
+    "eurostat:population_year":2020,
     "geom:area":0.0496,
-    "geom:area_square_m":378172871.230443,
+    "geom:area_square_m":378172871.230442,
     "geom:bbox":"14.589614955,51.785026103,14.962716359,52.081335708",
     "geom:latitude":51.931261,
     "geom:longitude":14.790812,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":14.855645,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079843
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002081140205",
+        "eurostat:nuts_2021_id":"1002081140205"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"3206193a2211c69ba80acd18ee8daf9b",
+    "wof:geomhash":"0936a3bed2e7a854fed210f1955162de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751521,
-    "wof:lastmodified":1570002515,
+    "wof:lastmodified":1684354362,
     "wof:name":"Gmina Gubin",
     "wof:parent_id":102079843,
     "wof:placetype":"localadmin",
+    "wof:population":7138,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

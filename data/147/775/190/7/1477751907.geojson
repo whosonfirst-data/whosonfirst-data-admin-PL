@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281541204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kurz\u0119tnik",
+    "eurostat:nuts_2021_id":"1004281541204",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281541204",
+    "eurostat:population":9111,
+    "eurostat:population_year":2020,
     "geom:area":0.020129,
-    "geom:area_square_m":148430392.35579,
+    "geom:area_square_m":148430392.355813,
     "geom:bbox":"19.380423363,53.330402682,19.674727698,53.462426674",
     "geom:latitude":53.391864,
     "geom:longitude":19.52436,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":19.502145,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102080125
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281541204",
+        "eurostat:nuts_2021_id":"1004281541204"
+    },
     "wof:coterminous":[
         101819245
     ],
     "wof:country":"PL",
-    "wof:geomhash":"6f14dd24151046d1ebdbe1caabbf5dbc",
+    "wof:geomhash":"c86b45e6f790e5348671bce2d35f2873",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751907,
-    "wof:lastmodified":1570002286,
+    "wof:lastmodified":1684354382,
     "wof:name":"Kurz\u0119tnik",
     "wof:parent_id":102080125,
     "wof:placetype":"localadmin",
+    "wof:population":9111,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

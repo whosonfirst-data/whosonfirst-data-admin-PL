@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"P\u0142aska",
+    "eurostat:nuts_2021_id":"1006201390106",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390106",
+    "eurostat:population":2583,
+    "eurostat:population_year":2020,
     "geom:area":0.050911,
-    "geom:area_square_m":371143805.325642,
+    "geom:area_square_m":371143805.325664,
     "geom:bbox":"23.06342066,53.773040669,23.55400712,53.959471837",
     "geom:latitude":53.873771,
     "geom:longitude":23.300778,
@@ -69,6 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390106",
+        "eurostat:nuts_2021_id":"1006201390106",
         "gp:id":12618528,
         "qs_pg:id":1160711
     },
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"563988f2c9c115ea301938c665153ebe",
+    "wof:geomhash":"d2f26f9b843b1daecf219b192d23b675",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":1125358951,
-    "wof:lastmodified":1582357704,
+    "wof:lastmodified":1684354265,
     "wof:name":"P\u0142aska",
     "wof:parent_id":102080221,
     "wof:placetype":"localadmin",
+    "wof:population":2583,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

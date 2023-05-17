@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061090118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wisznice",
+    "eurostat:nuts_2021_id":"1006061090118",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061090118",
+    "eurostat:population":4926,
+    "eurostat:population_year":2020,
     "geom:area":0.022554,
-    "geom:area_square_m":172554393.425775,
+    "geom:area_square_m":172554393.425704,
     "geom:bbox":"23.02297259,51.697310232,23.298247202,51.864146325",
     "geom:latitude":51.777138,
     "geom:longitude":23.178507,
@@ -53,6 +65,8 @@
     "reversegeo:longitude":23.189965,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -60,11 +74,15 @@
         102079973
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061090118",
+        "eurostat:nuts_2021_id":"1006061090118"
+    },
     "wof:coterminous":[
         101821741
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b08e988b25695eb1bbbc804268a088cc",
+    "wof:geomhash":"fe7ddbdd8b76af8faa3a0aefb2ef2ca2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477751487,
-    "wof:lastmodified":1570004388,
+    "wof:lastmodified":1684354360,
     "wof:name":"Wisznice",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",
+    "wof:population":4926,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

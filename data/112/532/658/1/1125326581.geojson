@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181332105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solina",
+    "eurostat:nuts_2021_id":"1006181332105",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181332105",
+    "eurostat:population":5327,
+    "eurostat:population_year":2020,
     "geom:area":0.02283,
-    "geom:area_square_m":183924426.782486,
+    "geom:area_square_m":183924426.782488,
     "geom:bbox":"22.308235172,49.256644796,22.52221769,49.45500617",
     "geom:latitude":49.343726,
     "geom:longitude":22.417008,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":22.41861,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079415
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181332105",
+        "eurostat:nuts_2021_id":"1006181332105"
+    },
     "wof:coterminous":[
         1125883715
     ],
     "wof:country":"PL",
-    "wof:geomhash":"6269e092be23d970fd7406e7d3f47ad9",
+    "wof:geomhash":"be1c5971db8a4e7054a97cb29cd037f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1125326581,
-    "wof:lastmodified":1569989285,
+    "wof:lastmodified":1684354235,
     "wof:name":"Solina",
     "wof:parent_id":102079415,
     "wof:placetype":"localadmin",
+    "wof:population":5327,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

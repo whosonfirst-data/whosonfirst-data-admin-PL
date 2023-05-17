@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121231201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bukowno",
+    "eurostat:nuts_2021_id":"1001121231201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL21A",
+    "eurostat:nuts_2021_level_lau":"1001121231201",
+    "eurostat:population":10106,
+    "eurostat:population_year":2020,
     "geom:area":0.008132,
-    "geom:area_square_m":64286787.189291,
+    "geom:area_square_m":64286787.189307,
     "geom:bbox":"19.32342276,50.2245541,19.510848805,50.297413886",
     "geom:latitude":50.257268,
     "geom:longitude":19.431456,
@@ -83,6 +95,8 @@
     "reversegeo:longitude":19.433248,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -90,11 +104,15 @@
         102079555
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121231201",
+        "eurostat:nuts_2021_id":"1001121231201"
+    },
     "wof:coterminous":[
         101824949
     ],
     "wof:country":"PL",
-    "wof:geomhash":"826d28b4268e418c9f761c86a6876ed3",
+    "wof:geomhash":"bb11995c72c8dbda9fb7c926d3c2c40b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +123,12 @@
         }
     ],
     "wof:id":1477752081,
-    "wof:lastmodified":1570003866,
+    "wof:lastmodified":1684354391,
     "wof:name":"Bukowno",
     "wof:parent_id":102079555,
     "wof:placetype":"localadmin",
+    "wof:population":10106,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

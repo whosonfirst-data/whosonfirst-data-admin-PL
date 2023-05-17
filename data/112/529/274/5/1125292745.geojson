@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221421312",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Starogard Gda\u0144ski",
+    "eurostat:nuts_2021_id":"1004221421312",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221421312",
+    "eurostat:population":16713,
+    "eurostat:population_year":2020,
     "geom:area":0.026864,
-    "geom:area_square_m":195374454.663085,
+    "geom:area_square_m":195374454.663099,
     "geom:bbox":"18.389101906,53.893274642,18.679861136,54.093022866",
     "geom:latitude":53.973087,
     "geom:longitude":18.538837,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221421312",
+        "eurostat:nuts_2021_id":"1004221421312",
         "gp:id":24548048,
         "qs_pg:id":772340
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7815fb29c3935066cf7499834d6f169f",
+    "wof:geomhash":"8f02254bbf65267644d90fd30065dd13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125292745,
-    "wof:lastmodified":1582357809,
+    "wof:lastmodified":1684354180,
     "wof:name":"Gmina Starogard Gda\u0144ski",
     "wof:parent_id":102080183,
     "wof:placetype":"localadmin",
+    "wof:population":16713,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

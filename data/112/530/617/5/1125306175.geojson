@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121231207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wolbrom",
+    "eurostat:nuts_2021_id":"1001121231207",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL21A",
+    "eurostat:nuts_2021_level_lau":"1001121231207",
+    "eurostat:population":22753,
+    "eurostat:population_year":2020,
     "geom:area":0.018555,
-    "geom:area_square_m":146283557.945069,
+    "geom:area_square_m":146283557.945076,
     "geom:bbox":"19.634984,50.33013,19.854503,50.449721",
     "geom:latitude":50.389603,
     "geom:longitude":19.751701,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -145,11 +158,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079555,
-        85687291
+        85687291,
+        102079555
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121231207",
+        "eurostat:nuts_2021_id":"1001121231207",
         "gn:id":3081495,
         "gp:id":24548488,
         "qs_pg:id":1234192
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7b75bd7d2c3654e3651820ff314a4ee0",
+    "wof:geomhash":"51052d2c41b3e9887973a1435c9ee0aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125306175,
-    "wof:lastmodified":1607726526,
+    "wof:lastmodified":1684354208,
     "wof:name":"Gmina Wolbrom",
     "wof:parent_id":102079555,
     "wof:placetype":"localadmin",
-    "wof:population":9146,
-    "wof:population_rank":5,
+    "wof:population":22753,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

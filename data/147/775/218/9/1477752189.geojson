@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wielgom\u0142yny",
+    "eurostat:nuts_2021_id":"1005101171213",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171213",
+    "eurostat:population":4546,
+    "eurostat:population_year":2020,
     "geom:area":0.015772,
-    "geom:area_square_m":122702745.863215,
+    "geom:area_square_m":122702745.863246,
     "geom:bbox":"19.680075402,50.941734312,19.873614959,51.08437875",
     "geom:latitude":51.011995,
     "geom:longitude":19.779689,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":19.771665,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079711
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171213",
+        "eurostat:nuts_2021_id":"1005101171213"
+    },
     "wof:coterminous":[
         1126019291
     ],
     "wof:country":"PL",
-    "wof:geomhash":"45bfd76c325d348c27a8a27d6aaaabda",
+    "wof:geomhash":"0404e43b62dca9cb80e7f95d5df4438d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752189,
-    "wof:lastmodified":1569999693,
+    "wof:lastmodified":1684354397,
     "wof:name":"Wielgom\u0142yny",
     "wof:parent_id":102079711,
     "wof:placetype":"localadmin",
+    "wof:population":4546,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

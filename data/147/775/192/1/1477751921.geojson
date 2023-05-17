@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081141003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brze\u017anica",
+    "eurostat:nuts_2021_id":"1002081141003",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081141003",
+    "eurostat:population":3733,
+    "eurostat:population_year":2020,
     "geom:area":0.015891,
-    "geom:area_square_m":121734045.262268,
+    "geom:area_square_m":121734045.262284,
     "geom:bbox":"15.28839126,51.642742884,15.520406775,51.781668172",
     "geom:latitude":51.717598,
     "geom:longitude":15.412974,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":15.414754,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079759
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002081141003",
+        "eurostat:nuts_2021_id":"1002081141003"
+    },
     "wof:coterminous":[
         1125884683
     ],
     "wof:country":"PL",
-    "wof:geomhash":"cfb3a055248628a10f94ebd0ff03065d",
+    "wof:geomhash":"cdced417ac13ea4cdb94705acda938a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751921,
-    "wof:lastmodified":1569999201,
+    "wof:lastmodified":1684354383,
     "wof:name":"Brze\u017anica",
     "wof:parent_id":102079759,
     "wof:placetype":"localadmin",
+    "wof:population":3733,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301582701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Turek",
+    "eurostat:nuts_2021_id":"1002301582701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301582701",
+    "eurostat:population":26833,
+    "eurostat:population_year":2020,
     "geom:area":0.002117,
-    "geom:area_square_m":16110925.882704,
+    "geom:area_square_m":16110925.882701,
     "geom:bbox":"18.464579682,51.993171204,18.558396074,52.039355305",
     "geom:latitude":52.015939,
     "geom:longitude":18.505316,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":18.505993,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079883
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301582701",
+        "eurostat:nuts_2021_id":"1002301582701"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"1465bc80ee25ddfe071c1b8485da0880",
+    "wof:geomhash":"907980b53de32c75ffb79360250e34b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752317,
-    "wof:lastmodified":1570003367,
+    "wof:lastmodified":1684354404,
     "wof:name":"Gmina Turek",
     "wof:parent_id":102079883,
     "wof:placetype":"localadmin",
+    "wof:population":26833,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

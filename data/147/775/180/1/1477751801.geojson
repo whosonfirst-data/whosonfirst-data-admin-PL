@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krapkowice",
+    "eurostat:nuts_2021_id":"1003161320502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320502",
+    "eurostat:population":22568,
+    "eurostat:population_year":2020,
     "geom:area":0.012326,
-    "geom:area_square_m":97022197.40185,
+    "geom:area_square_m":97022197.401867,
     "geom:bbox":"17.871494434,50.373478814,18.041720175,50.551802879",
     "geom:latitude":50.464749,
     "geom:longitude":17.941559,
@@ -68,6 +80,8 @@
     "reversegeo:longitude":17.961418,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -75,8 +89,12 @@
         102079553
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320502",
+        "eurostat:nuts_2021_id":"1003161320502"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"3081e30194f111ed8196a09101576492",
+    "wof:geomhash":"5a2897ec8661b49060aef88d84bf7c82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477751801,
-    "wof:lastmodified":1570001263,
+    "wof:lastmodified":1684354376,
     "wof:name":"Gmina Krapkowice",
     "wof:parent_id":102079553,
     "wof:placetype":"localadmin",
+    "wof:population":22568,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

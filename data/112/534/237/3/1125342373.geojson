@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Karpacz",
+    "eurostat:nuts_2021_id":"1003021010601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010601",
+    "eurostat:population":4570,
+    "eurostat:population_year":2020,
     "geom:area":0.00484,
-    "geom:area_square_m":37859272.737197,
+    "geom:area_square_m":37859272.737199,
     "geom:bbox":"15.680274226,50.735940395,15.80832325,50.791791231",
     "geom:latitude":50.762467,
     "geom:longitude":15.741035,
@@ -146,7 +158,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -159,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010601",
+        "eurostat:nuts_2021_id":"1003021010601",
         "gn:id":3096576,
         "gp:id":12617662,
         "qs_pg:id":1316644
@@ -171,7 +186,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"05b534e2c5adbe10197ba2b900d3ccc0",
+    "wof:geomhash":"cacd517b791a0338cec8228891e6f256",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,11 +197,11 @@
         }
     ],
     "wof:id":1125342373,
-    "wof:lastmodified":1582357697,
+    "wof:lastmodified":1684354251,
     "wof:name":"Karpacz",
     "wof:parent_id":102079617,
     "wof:placetype":"localadmin",
-    "wof:population":4979,
+    "wof:population":4570,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

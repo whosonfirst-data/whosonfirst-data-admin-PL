@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101191508",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Skierniewice",
+    "eurostat:nuts_2021_id":"1005101191508",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL715",
+    "eurostat:nuts_2021_level_lau":"1005101191508",
+    "eurostat:population":7609,
+    "eurostat:population_year":2020,
     "geom:area":0.017165,
-    "geom:area_square_m":130813636.351288,
+    "geom:area_square_m":130813636.351298,
     "geom:bbox":"20.051516099,51.83994985,20.294028407,52.028192971",
     "geom:latitude":51.950908,
     "geom:longitude":20.158094,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":20.129898,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079895
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101191508",
+        "eurostat:nuts_2021_id":"1005101191508"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"0c8d98f260fe67742769cb35907b5889",
+    "wof:geomhash":"7f47a0ec0b0acd8de64b35e7f6e4c52a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752377,
-    "wof:lastmodified":1570003891,
+    "wof:lastmodified":1684354407,
     "wof:name":"Gmina Skierniewice",
     "wof:parent_id":102079895,
     "wof:placetype":"localadmin",
+    "wof:population":7609,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

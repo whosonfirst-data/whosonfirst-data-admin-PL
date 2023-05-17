@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142712601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Domanice",
+    "eurostat:nuts_2021_id":"1007142712601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142712601",
+    "eurostat:population":2610,
+    "eurostat:population_year":2020,
     "geom:area":0.006152,
-    "geom:area_square_m":46795846.632727,
+    "geom:area_square_m":46795846.632728,
     "geom:bbox":"22.067844252,52.001472832,22.226830955,52.085464043",
     "geom:latitude":52.038396,
     "geom:longitude":22.155359,
@@ -67,7 +79,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -80,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142712601",
+        "eurostat:nuts_2021_id":"1007142712601",
         "gn:id":773050,
         "gp:id":12618502,
         "qs_pg:id":24227
@@ -92,7 +107,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"129ea5625daac6b5023172906a96a894",
+    "wof:geomhash":"adb3a7a3734c3bb1240be658cf0c5622",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,12 +118,12 @@
         }
     ],
     "wof:id":1125289283,
-    "wof:lastmodified":1582357787,
+    "wof:lastmodified":1684354172,
     "wof:name":"Domanice",
     "wof:parent_id":102079979,
     "wof:placetype":"localadmin",
-    "wof:population":304,
-    "wof:population_rank":2,
+    "wof:population":2610,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

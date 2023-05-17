@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241501609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u0142odowice",
+    "eurostat:nuts_2021_id":"1001241501609",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22B",
+    "eurostat:nuts_2021_level_lau":"1001241501609",
+    "eurostat:population":5254,
+    "eurostat:population_year":2020,
     "geom:area":0.009741,
-    "geom:area_square_m":76515714.647941,
+    "geom:area_square_m":76515714.647943,
     "geom:bbox":"19.370612884,50.509946559,19.559062446,50.625912078",
     "geom:latitude":50.561581,
     "geom:longitude":19.454446,
@@ -60,6 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241501609",
+        "eurostat:nuts_2021_id":"1001241501609",
         "gp:id":12617736,
         "qs_pg:id":1330287
     },
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8a6b31883a099b98469318eb53cd4e0c",
+    "wof:geomhash":"2a8ffa70904db29b0e2ab6f58765df96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":1125392997,
-    "wof:lastmodified":1582357921,
+    "wof:lastmodified":1684354311,
     "wof:name":"W\u0142odowice",
     "wof:parent_id":102079613,
     "wof:placetype":"localadmin",
+    "wof:population":5254,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

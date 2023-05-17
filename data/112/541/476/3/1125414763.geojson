@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021030806",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bystrzyca K\u0142odzka",
+    "eurostat:nuts_2021_id":"1003021030806",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021030806",
+    "eurostat:population":18825,
+    "eurostat:population_year":2020,
     "geom:area":0.042708,
     "geom:area_square_m":337393574.234314,
     "geom:bbox":"16.436346904,50.194976976,16.83756888,50.379552067",
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021030806",
+        "eurostat:nuts_2021_id":"1003021030806",
         "gp:id":24547563,
         "qs_pg:id":247835
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"de6fc6e3730c55c542710e82df7d85a0",
+    "wof:geomhash":"385d159f479976a1bd0035f8b3e7146d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125414763,
-    "wof:lastmodified":1582358009,
+    "wof:lastmodified":1684354338,
     "wof:name":"Gmina Bystrzyca K\u0142odzka",
     "wof:parent_id":102079559,
     "wof:placetype":"localadmin",
+    "wof:population":18825,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061110805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kamionka",
+    "eurostat:nuts_2021_id":"1006061110805",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL814",
+    "eurostat:nuts_2021_level_lau":"1006061110805",
+    "eurostat:population":6485,
+    "eurostat:population_year":2020,
     "geom:area":0.014405,
-    "geom:area_square_m":111000841.787844,
+    "geom:area_square_m":111000841.787803,
     "geom:bbox":"22.356619464,51.369903621,22.539417974,51.520076151",
     "geom:latitude":51.452512,
     "geom:longitude":22.448119,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":22.448133,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079855
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061110805",
+        "eurostat:nuts_2021_id":"1006061110805"
+    },
     "wof:coterminous":[
         101817559
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e57b46fcd4d22bdda5c69e8b96ca86b3",
+    "wof:geomhash":"d77ee4a1b37025226ec65974c0c3c5b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751421,
-    "wof:lastmodified":1570001385,
+    "wof:lastmodified":1684354356,
     "wof:name":"Kamionka",
     "wof:parent_id":102079855,
     "wof:placetype":"localadmin",
+    "wof:population":6485,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

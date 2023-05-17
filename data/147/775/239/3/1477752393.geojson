@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Andrzejewo",
+    "eurostat:nuts_2021_id":"1007142261602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261602",
+    "eurostat:population":4063,
+    "eurostat:population_year":2020,
     "geom:area":0.01583,
-    "geom:area_square_m":118267092.879427,
+    "geom:area_square_m":118267092.879425,
     "geom:bbox":"22.035615172,52.776714762,22.309135089,52.886129979",
     "geom:latitude":52.828746,
     "geom:longitude":22.177425,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":22.179485,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080057
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261602",
+        "eurostat:nuts_2021_id":"1007142261602"
+    },
     "wof:coterminous":[
         1125884587
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a21496898d52dd5ce06930e26cf1d829",
+    "wof:geomhash":"e2ea9b26600928e010ddc7a6898ce797",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752393,
-    "wof:lastmodified":1570003780,
+    "wof:lastmodified":1684354407,
     "wof:name":"Andrzejewo",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",
+    "wof:population":4063,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

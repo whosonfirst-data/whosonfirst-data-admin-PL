@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Perlejewo",
+    "eurostat:nuts_2021_id":"1006201381008",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381008",
+    "eurostat:population":2778,
+    "eurostat:population_year":2020,
     "geom:area":0.014127,
-    "geom:area_square_m":106175071.556987,
+    "geom:area_square_m":106175071.556969,
     "geom:bbox":"22.457716364,52.51705331,22.658440847,52.629448273",
     "geom:latitude":52.56874,
     "geom:longitude":22.561499,
@@ -77,6 +89,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -89,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381008",
+        "eurostat:nuts_2021_id":"1006201381008",
         "gn:id":762458,
         "gp:id":12618052,
         "qs_pg:id":1180696
@@ -101,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"06f17c083360804398c88f480cc59da5",
+    "wof:geomhash":"8bf4296399c12dc433f3a81da179d3ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,10 +128,12 @@
         }
     ],
     "wof:id":1125366847,
-    "wof:lastmodified":1582357976,
+    "wof:lastmodified":1684354276,
     "wof:name":"Perlejewo",
     "wof:parent_id":102080037,
     "wof:placetype":"localadmin",
+    "wof:population":2778,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

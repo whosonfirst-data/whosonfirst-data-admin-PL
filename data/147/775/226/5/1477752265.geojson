@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grajewo",
+    "eurostat:nuts_2021_id":"1006201390401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390401",
+    "eurostat:population":21900,
+    "eurostat:population_year":2020,
     "geom:area":0.002574,
-    "geom:area_square_m":18867828.496138,
+    "geom:area_square_m":18867828.496143,
     "geom:bbox":"22.405147791,53.615248361,22.496710606,53.665118856",
     "geom:latitude":53.640108,
     "geom:longitude":22.455058,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":22.455762,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080181
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390401",
+        "eurostat:nuts_2021_id":"1006201390401"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"b7ce5f47c5b250f0b2cbaefd77270d1c",
+    "wof:geomhash":"f6f5c5bc10fb08771624b262dfe15910",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752265,
-    "wof:lastmodified":1570000071,
+    "wof:lastmodified":1684354401,
     "wof:name":"Gmina Grajewo",
     "wof:parent_id":102080181,
     "wof:placetype":"localadmin",
+    "wof:population":21900,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

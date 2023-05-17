@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161321107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zawadzkie",
+    "eurostat:nuts_2021_id":"1003161321107",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161321107",
+    "eurostat:population":11304,
+    "eurostat:population_year":2020,
     "geom:area":0.010425,
-    "geom:area_square_m":81847262.379245,
+    "geom:area_square_m":81847262.379247,
     "geom:bbox":"18.39255968,50.539757449,18.61625873,50.634675513",
     "geom:latitude":50.586534,
     "geom:longitude":18.524604,
@@ -139,7 +151,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -152,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161321107",
+        "eurostat:nuts_2021_id":"1003161321107",
         "gn:id":3080538,
         "gp:id":24548617,
         "qs_pg:id":206298
@@ -161,7 +176,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"938018432ca79fc3500038c754b9ad60",
+    "wof:geomhash":"8b511f38e8ebc328450b122ae4d2167a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,12 +187,12 @@
         }
     ],
     "wof:id":1125311395,
-    "wof:lastmodified":1582357955,
+    "wof:lastmodified":1684354216,
     "wof:name":"Gmina Zawadzkie",
     "wof:parent_id":102079587,
     "wof:placetype":"localadmin",
-    "wof:population":8439,
-    "wof:population_rank":5,
+    "wof:population":11304,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

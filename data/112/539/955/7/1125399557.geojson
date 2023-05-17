@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u0105browa Zielona",
+    "eurostat:nuts_2021_id":"1001241460402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460402",
+    "eurostat:population":3860,
+    "eurostat:population_year":2020,
     "geom:area":0.012788,
-    "geom:area_square_m":99827487.975672,
+    "geom:area_square_m":99827487.975707,
     "geom:bbox":"19.416100988,50.793010598,19.661934682,50.908323384",
     "geom:latitude":50.852264,
     "geom:longitude":19.562932,
@@ -65,7 +77,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -78,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460402",
+        "eurostat:nuts_2021_id":"1001241460402",
         "gn:id":3100778,
         "gp:id":12618003,
         "qs_pg:id":396948
@@ -90,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a5eae88ebe980ca1962baa4e4fcedf13",
+    "wof:geomhash":"89522526f7b2eba65d31cf780f6d0135",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,12 +116,12 @@
         }
     ],
     "wof:id":1125399557,
-    "wof:lastmodified":1582357904,
+    "wof:lastmodified":1684354322,
     "wof:name":"D\u0105browa Zielona",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",
-    "wof:population":881,
-    "wof:population_rank":2,
+    "wof:population":3860,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

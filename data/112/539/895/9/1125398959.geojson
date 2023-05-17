@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141302106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Raszyn",
+    "eurostat:nuts_2021_id":"1007141302106",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141302106",
+    "eurostat:population":21845,
+    "eurostat:population_year":2020,
     "geom:area":0.005764,
-    "geom:area_square_m":43751948.155866,
+    "geom:area_square_m":43751948.155862,
     "geom:bbox":"20.837752041,52.087637986,20.989043617,52.171423613",
     "geom:latitude":52.128252,
     "geom:longitude":20.913672,
@@ -66,6 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -78,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141302106",
+        "eurostat:nuts_2021_id":"1007141302106",
         "gp:id":12618600,
         "qs_pg:id":31837
     },
@@ -89,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"757353a0df64b3bdca4b4197acfdb7bb",
+    "wof:geomhash":"00cd42e495e3e5e43ce1f1d08b4ac965",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":1125398959,
-    "wof:lastmodified":1582357907,
+    "wof:lastmodified":1684354320,
     "wof:name":"Raszyn",
     "wof:parent_id":102079919,
     "wof:placetype":"localadmin",
+    "wof:population":21845,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

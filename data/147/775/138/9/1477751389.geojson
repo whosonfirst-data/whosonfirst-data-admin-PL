@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181330710",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ja\u015bliska",
+    "eurostat:nuts_2021_id":"1006181330710",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181330710",
+    "eurostat:population":2185,
+    "eurostat:population_year":2020,
     "geom:area":0.020564,
-    "geom:area_square_m":165393149.628622,
+    "geom:area_square_m":165393149.628629,
     "geom:bbox":"21.731596359,49.346099417,21.972476517,49.489521618",
     "geom:latitude":49.42393,
     "geom:longitude":21.849027,
@@ -53,6 +65,8 @@
     "reversegeo:longitude":21.875365,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -60,11 +74,15 @@
         102079455
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181330710",
+        "eurostat:nuts_2021_id":"1006181330710"
+    },
     "wof:coterminous":[
         1125840309
     ],
     "wof:country":"PL",
-    "wof:geomhash":"fca0a8f94e970bf7f8ecfcfbf19c3631",
+    "wof:geomhash":"c7913f5ae66e653ebdc29751c2e97d78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477751389,
-    "wof:lastmodified":1570002253,
+    "wof:lastmodified":1684354355,
     "wof:name":"Ja\u015bliska",
     "wof:parent_id":102079455,
     "wof:placetype":"localadmin",
+    "wof:population":2185,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

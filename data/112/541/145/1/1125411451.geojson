@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142250203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Glinojeck",
+    "eurostat:nuts_2021_id":"1007142250203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142250203",
+    "eurostat:population":7832,
+    "eurostat:population_year":2020,
     "geom:area":0.020501,
-    "geom:area_square_m":153236665.510577,
+    "geom:area_square_m":153236665.510532,
     "geom:bbox":"20.211942969,52.730179341,20.487032766,52.867877503",
     "geom:latitude":52.807517,
     "geom:longitude":20.359678,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142250203",
+        "eurostat:nuts_2021_id":"1007142250203",
         "gn:id":772107,
         "gp:id":24548202,
         "qs_pg:id":1301626
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"20456c02ac8b9b77b67d5be9adbc3674",
+    "wof:geomhash":"f55f544a4867af46dc1fcfb4b9c5ef42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125411451,
-    "wof:lastmodified":1582358014,
+    "wof:lastmodified":1684354335,
     "wof:name":"Gmina Glinojeck",
     "wof:parent_id":102080055,
     "wof:placetype":"localadmin",
-    "wof:population":3117,
-    "wof:population_rank":4,
+    "wof:population":7832,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

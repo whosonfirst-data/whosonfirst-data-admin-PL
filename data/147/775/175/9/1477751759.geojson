@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041408",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Twardog\u00f3ra",
+    "eurostat:nuts_2021_id":"1003021041408",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041408",
+    "eurostat:population":12948,
+    "eurostat:population_year":2020,
     "geom:area":0.021668,
-    "geom:area_square_m":167250729.896682,
+    "geom:area_square_m":167250729.896693,
     "geom:bbox":"17.342481,51.296061,17.567565,51.457655",
     "geom:latitude":51.373354,
     "geom:longitude":17.468272,
@@ -62,18 +74,24 @@
     "reversegeo:longitude":17.477388,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079717,
-        85687301
+        85687301,
+        102079717
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041408",
+        "eurostat:nuts_2021_id":"1003021041408"
+    },
     "wof:coterminous":[
         1477865711
     ],
     "wof:country":"PL",
-    "wof:geomhash":"69fc3927bbc4eb1e00fb4af221460c02",
+    "wof:geomhash":"4af1b2d60370d334fcd23b986b182f23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751759,
-    "wof:lastmodified":1607726737,
+    "wof:lastmodified":1684354374,
     "wof:name":"Gmina Twardog\u00f3ra",
     "wof:parent_id":102079717,
     "wof:placetype":"localadmin",
+    "wof:population":12948,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

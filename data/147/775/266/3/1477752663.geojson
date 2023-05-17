@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041080108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Waganiec",
+    "eurostat:nuts_2021_id":"1004041080108",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041080108",
+    "eurostat:population":4566,
+    "eurostat:population_year":2020,
     "geom:area":0.007263,
-    "geom:area_square_m":54299921.504767,
+    "geom:area_square_m":54299921.504765,
     "geom:bbox":"18.776385234,52.768402769,18.938537854,52.839716678",
     "geom:latitude":52.799385,
     "geom:longitude":18.854954,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":18.848426,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102080009
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041080108",
+        "eurostat:nuts_2021_id":"1004041080108"
+    },
     "wof:coterminous":[
         1125908803
     ],
     "wof:country":"PL",
-    "wof:geomhash":"ef1bbc2a9030b3de38ca926386cf0d72",
+    "wof:geomhash":"44d714d7b39d059260adfa48ae159fae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752663,
-    "wof:lastmodified":1570000578,
+    "wof:lastmodified":1684354421,
     "wof:name":"Waganiec",
     "wof:parent_id":102080009,
     "wof:placetype":"localadmin",
+    "wof:population":4566,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

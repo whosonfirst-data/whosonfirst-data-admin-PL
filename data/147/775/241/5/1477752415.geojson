@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281540405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Milejewo",
+    "eurostat:nuts_2021_id":"1004281540405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281540405",
+    "eurostat:population":3419,
+    "eurostat:population_year":2020,
     "geom:area":0.013177,
-    "geom:area_square_m":95305485.481905,
+    "geom:area_square_m":95305485.481891,
     "geom:bbox":"19.462391594,54.133453579,19.644631504,54.270445302",
     "geom:latitude":54.201214,
     "geom:longitude":19.556241,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":19.539792,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102080231
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281540405",
+        "eurostat:nuts_2021_id":"1004281540405"
+    },
     "wof:coterminous":[
         1126005997
     ],
     "wof:country":"PL",
-    "wof:geomhash":"7665219ae3acbda30ef6c657a515bbe1",
+    "wof:geomhash":"76eeac79231896e2d020e34e6690a055",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752415,
-    "wof:lastmodified":1570002749,
+    "wof:lastmodified":1684354409,
     "wof:name":"Milejewo",
     "wof:parent_id":102080231,
     "wof:placetype":"localadmin",
+    "wof:population":3419,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

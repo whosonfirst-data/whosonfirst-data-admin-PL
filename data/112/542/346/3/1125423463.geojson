@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241511004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paw\u0142owice",
+    "eurostat:nuts_2021_id":"1001241511004",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22C",
+    "eurostat:nuts_2021_level_lau":"1001241511004",
+    "eurostat:population":18172,
+    "eurostat:population_year":2020,
     "geom:area":0.009481,
-    "geom:area_square_m":75439028.604702,
+    "geom:area_square_m":75439028.604727,
     "geom:bbox":"18.618047788,49.878918892,18.763053284,50.014544404",
     "geom:latitude":49.949426,
     "geom:longitude":18.696629,
@@ -69,6 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241511004",
+        "eurostat:nuts_2021_id":"1001241511004",
         "gp:id":12617186,
         "qs_pg:id":263373
     },
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3b0178c204d3e2e05b46bf8289786389",
+    "wof:geomhash":"ef8e8ecbcd60f0e66ca8c8709395dc15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":1125423463,
-    "wof:lastmodified":1582357831,
+    "wof:lastmodified":1684354342,
     "wof:name":"Paw\u0142owice",
     "wof:parent_id":102079457,
     "wof:placetype":"localadmin",
+    "wof:population":18172,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

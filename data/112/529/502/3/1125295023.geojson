@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181331707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zag\u00f3rz",
+    "eurostat:nuts_2021_id":"1006181331707",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181331707",
+    "eurostat:population":13126,
+    "eurostat:population_year":2020,
     "geom:area":0.019842,
-    "geom:area_square_m":159546006.876904,
+    "geom:area_square_m":159546006.876926,
     "geom:bbox":"22.11648,49.307719,22.300577,49.542081",
     "geom:latitude":49.438476,
     "geom:longitude":22.218932,
@@ -150,7 +162,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -158,11 +171,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079437,
-        85687295
+        85687295,
+        102079437
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181331707",
+        "eurostat:nuts_2021_id":"1006181331707",
         "gn:id":754195,
         "gp:id":24548738,
         "qs_pg:id":1200877
@@ -175,7 +190,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c9aa235b1db10574011e379b43403773",
+    "wof:geomhash":"cb8e81b00057d24d92e35ec573fa2aba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,12 +201,12 @@
         }
     ],
     "wof:id":1125295023,
-    "wof:lastmodified":1607726518,
+    "wof:lastmodified":1684354185,
     "wof:name":"Gmina Zag\u00f3rz",
     "wof:parent_id":102079437,
     "wof:placetype":"localadmin",
-    "wof:population":5129,
-    "wof:population_rank":5,
+    "wof:population":13126,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

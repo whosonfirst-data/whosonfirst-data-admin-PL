@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281546101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Elbl\u0105g",
+    "eurostat:nuts_2021_id":"1004281546101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281546101",
+    "eurostat:population":119317,
+    "eurostat:population_year":2020,
     "geom:area":0.010985,
-    "geom:area_square_m":79476285.482664,
+    "geom:area_square_m":79476285.482663,
     "geom:bbox":"19.359052195,54.134417292,19.509830536,54.263256865",
     "geom:latitude":54.190462,
     "geom:longitude":19.439254,
@@ -236,6 +248,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -248,6 +262,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281546101",
+        "eurostat:nuts_2021_id":"1004281546101",
         "gn:id":7532913,
         "gp:id":12617923,
         "qs_pg:id":1099633
@@ -257,7 +273,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"75f88012fbe465a0cde5ee4681771c72",
+    "wof:geomhash":"2a41d0ef025dff582aee8953c7bacfe8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -268,10 +284,12 @@
         }
     ],
     "wof:id":1125294901,
-    "wof:lastmodified":1582357814,
+    "wof:lastmodified":1684354183,
     "wof:name":"Gmina Elbl\u0105g",
     "wof:parent_id":102080211,
     "wof:placetype":"localadmin",
+    "wof:population":119317,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

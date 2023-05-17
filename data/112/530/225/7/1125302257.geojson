@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301570802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bralin",
+    "eurostat:nuts_2021_id":"1002301570802",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301570802",
+    "eurostat:population":6100,
+    "eurostat:population_year":2020,
     "geom:area":0.010998,
-    "geom:area_square_m":85066974.077854,
+    "geom:area_square_m":85066974.077898,
     "geom:bbox":"17.822246548,51.213674702,17.964577587,51.353583584",
     "geom:latitude":51.279256,
     "geom:longitude":17.888016,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":17.90097,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079713
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301570802",
+        "eurostat:nuts_2021_id":"1002301570802"
+    },
     "wof:coterminous":[
         1477865053
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a1ba3890fdd362a3616dc51c29e9711f",
+    "wof:geomhash":"3d80f11d2af4d911092fbdfcfe53b794",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125302257,
-    "wof:lastmodified":1569994847,
+    "wof:lastmodified":1684354194,
     "wof:name":"Bralin",
     "wof:parent_id":102079713,
     "wof:placetype":"localadmin",
+    "wof:population":6100,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

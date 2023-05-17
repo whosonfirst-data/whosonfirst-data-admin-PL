@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321641204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przelewice",
+    "eurostat:nuts_2021_id":"1002321641204",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321641204",
+    "eurostat:population":5129,
+    "eurostat:population_year":2020,
     "geom:area":0.021741,
-    "geom:area_square_m":161364250.594907,
+    "geom:area_square_m":161364250.594906,
     "geom:bbox":"14.999906369,53.028349778,15.212195515,53.193228609",
     "geom:latitude":53.112673,
     "geom:longitude":15.105022,
@@ -63,7 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -76,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321641204",
+        "eurostat:nuts_2021_id":"1002321641204",
         "gn:id":3087958,
         "gp:id":12618806,
         "qs_pg:id":1313613
@@ -88,7 +103,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bb2c2e4a5b4d8e80501903715c8ed01c",
+    "wof:geomhash":"d9b0e9a29a7b53f9e1f1323a5dc3ebe3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,12 +114,12 @@
         }
     ],
     "wof:id":1125340525,
-    "wof:lastmodified":1582357692,
+    "wof:lastmodified":1684354249,
     "wof:name":"Przelewice",
     "wof:parent_id":102080041,
     "wof:placetype":"localadmin",
-    "wof:population":770,
-    "wof:population_rank":2,
+    "wof:population":5129,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

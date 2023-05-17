@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121220503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bobowa",
+    "eurostat:nuts_2021_id":"1001121220503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121220503",
+    "eurostat:population":9798,
+    "eurostat:population_year":2020,
     "geom:area":0.006209,
-    "geom:area_square_m":49644554.8369,
+    "geom:area_square_m":49644554.836906,
     "geom:bbox":"20.882426513,49.666753955,21.010022492,49.74744376",
     "geom:latitude":49.709645,
     "geom:longitude":20.948093,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":20.948067,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079429
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121220503",
+        "eurostat:nuts_2021_id":"1001121220503"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"8f6487069288a2d7f8c503fe81f0b485",
+    "wof:geomhash":"286808f941de65177cce36fc91d93dd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752761,
-    "wof:lastmodified":1570003136,
+    "wof:lastmodified":1684354427,
     "wof:name":"Gmina Bobowa",
     "wof:parent_id":102079429,
     "wof:placetype":"localadmin",
+    "wof:population":9798,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

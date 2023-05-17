@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pobiedziska",
+    "eurostat:nuts_2021_id":"1002301612112",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612112",
+    "eurostat:population":19741,
+    "eurostat:population_year":2020,
     "geom:area":0.025092,
-    "geom:area_square_m":188940564.340768,
+    "geom:area_square_m":188940564.340743,
     "geom:bbox":"17.115059613,52.409961027,17.397729842,52.553127111",
     "geom:latitude":52.486011,
     "geom:longitude":17.249228,
@@ -134,7 +146,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -147,6 +160,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612112",
+        "eurostat:nuts_2021_id":"1002301612112",
         "gn:id":3088749,
         "gp:id":24547446,
         "qs_pg:id":972568
@@ -156,7 +171,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b579496074361ba441fe115a6087447b",
+    "wof:geomhash":"c4604f78d24c8945a1e0afe82708cd92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,12 +182,12 @@
         }
     ],
     "wof:id":1125389553,
-    "wof:lastmodified":1582357928,
+    "wof:lastmodified":1684354308,
     "wof:name":"Gmina Pobiedziska",
     "wof:parent_id":102079955,
     "wof:placetype":"localadmin",
-    "wof:population":8677,
-    "wof:population_rank":5,
+    "wof:population":19741,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

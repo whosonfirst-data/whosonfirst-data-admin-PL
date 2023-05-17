@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181341403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ga\u0107",
+    "eurostat:nuts_2021_id":"1006181341403",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181341403",
+    "eurostat:population":4627,
+    "eurostat:population_year":2020,
     "geom:area":0.004514,
-    "geom:area_square_m":35855304.373959,
+    "geom:area_square_m":35855304.37396,
     "geom:bbox":"22.341283346,49.997856124,22.468395335,50.054034535",
     "geom:latitude":50.026508,
     "geom:longitude":22.397823,
@@ -68,7 +80,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -81,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181341403",
+        "eurostat:nuts_2021_id":"1006181341403",
         "gn:id":772455,
         "gp:id":12617491,
         "qs_pg:id":24012
@@ -93,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"30bf3190910019377e1645dfa8449e2c",
+    "wof:geomhash":"98081d371766001c491d4fc177c60645",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,12 +119,12 @@
         }
     ],
     "wof:id":1125288839,
-    "wof:lastmodified":1582357775,
+    "wof:lastmodified":1684354165,
     "wof:name":"Ga\u0107",
     "wof:parent_id":102079589,
     "wof:placetype":"localadmin",
-    "wof:population":1550,
-    "wof:population_rank":3,
+    "wof:population":4627,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

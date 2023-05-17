@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bystra-Sidzina",
+    "eurostat:nuts_2021_id":"1001121691504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691504",
+    "eurostat:population":6920,
+    "eurostat:population_year":2020,
     "geom:area":0.01002,
-    "geom:area_square_m":80273084.392371,
+    "geom:area_square_m":80273084.392395,
     "geom:bbox":"19.619281975,49.571545448,19.811971608,49.669875087",
     "geom:latitude":49.618692,
     "geom:longitude":19.720396,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":19.713806,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079419
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691504",
+        "eurostat:nuts_2021_id":"1001121691504"
+    },
     "wof:coterminous":[
         1477863321
     ],
     "wof:country":"PL",
-    "wof:geomhash":"56e1254d1a52f940043dc0e47eaaddcb",
+    "wof:geomhash":"2f31280e80c2b49eaa00838b9d9cf070",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751151,
-    "wof:lastmodified":1570004136,
+    "wof:lastmodified":1684354343,
     "wof:name":"Bystra-Sidzina",
     "wof:parent_id":102079419,
     "wof:placetype":"localadmin",
+    "wof:population":6920,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

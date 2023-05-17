@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121231307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Polanka Wielka",
+    "eurostat:nuts_2021_id":"1001121231307",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL21A",
+    "eurostat:nuts_2021_level_lau":"1001121231307",
+    "eurostat:population":4313,
+    "eurostat:population_year":2020,
     "geom:area":0.002994,
     "geom:area_square_m":23810166.936686,
     "geom:bbox":"19.257141063,49.959472943,19.354616569,50.003074923",
@@ -57,6 +69,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -69,6 +83,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121231307",
+        "eurostat:nuts_2021_id":"1001121231307",
         "gp:id":12618749,
         "qs_pg:id":987361
     },
@@ -80,7 +96,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5cea73f6578d0194c23036099e988fa1",
+    "wof:geomhash":"d7e042ed77cd09e17fa261d5c72d9f3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +107,12 @@
         }
     ],
     "wof:id":1125372665,
-    "wof:lastmodified":1582357846,
+    "wof:lastmodified":1684354286,
     "wof:name":"Polanka Wielka",
     "wof:parent_id":102079465,
     "wof:placetype":"localadmin",
+    "wof:population":4313,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

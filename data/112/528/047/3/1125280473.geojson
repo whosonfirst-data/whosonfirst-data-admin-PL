@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stalowa Wola",
+    "eurostat:nuts_2021_id":"1006181361801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361801",
+    "eurostat:population":60466,
+    "eurostat:population_year":2020,
     "geom:area":0.010469,
-    "geom:area_square_m":82232967.298601,
+    "geom:area_square_m":82232967.298576,
     "geom:bbox":"21.935356536,50.504125489,22.099505993,50.6288602",
     "geom:latitude":50.562073,
     "geom:longitude":22.030278,
@@ -138,6 +150,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -150,6 +164,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361801",
+        "eurostat:nuts_2021_id":"1006181361801",
         "gp:id":12618370,
         "qs_pg:id":1081243
     },
@@ -161,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"71e3c97bad69c2550c85d2594bd7837d",
+    "wof:geomhash":"3aaa400617ca2cfa6e4d21387a53eba7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +188,12 @@
         }
     ],
     "wof:id":1125280473,
-    "wof:lastmodified":1582357761,
+    "wof:lastmodified":1684354148,
     "wof:name":"Stalowa Wola",
     "wof:parent_id":102079669,
     "wof:placetype":"localadmin",
+    "wof:population":60466,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

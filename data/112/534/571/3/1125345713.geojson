@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kro\u015bcienko nad Dunajcem",
+    "eurostat:nuts_2021_id":"1001121691106",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691106",
+    "eurostat:population":6802,
+    "eurostat:population_year":2020,
     "geom:area":0.007091,
-    "geom:area_square_m":57001812.332078,
+    "geom:area_square_m":57001812.332056,
     "geom:bbox":"20.32204573,49.411906083,20.474245871,49.490257579",
     "geom:latitude":49.448562,
     "geom:longitude":20.390824,
@@ -80,7 +92,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -93,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691106",
+        "eurostat:nuts_2021_id":"1001121691106",
         "gn:id":6565267,
         "gp:id":12618762,
         "qs_pg:id":280848
@@ -105,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a3524a680c91147461452d72cfa3f995",
+    "wof:geomhash":"cc9f0c668be8bcc65460d6627ffc2893",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,12 +131,12 @@
         }
     ],
     "wof:id":1125345713,
-    "wof:lastmodified":1582357698,
+    "wof:lastmodified":1684354253,
     "wof:name":"Kro\u015bcienko nad Dunajcem",
     "wof:parent_id":102079407,
     "wof:placetype":"localadmin",
-    "wof:population":3500,
-    "wof:population_rank":4,
+    "wof:population":6802,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

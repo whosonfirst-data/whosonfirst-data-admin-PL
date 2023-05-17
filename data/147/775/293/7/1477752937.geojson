@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061091904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stary Brus",
+    "eurostat:nuts_2021_id":"1006061091904",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061091904",
+    "eurostat:population":2097,
+    "eurostat:population_year":2020,
     "geom:area":0.017031,
-    "geom:area_square_m":131111465.694622,
+    "geom:area_square_m":131111465.694633,
     "geom:bbox":"23.146886803,51.410557223,23.38264797,51.577326357",
     "geom:latitude":51.49443,
     "geom:longitude":23.272543,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":23.272508,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079889
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061091904",
+        "eurostat:nuts_2021_id":"1006061091904"
+    },
     "wof:coterminous":[
         1125917349
     ],
     "wof:country":"PL",
-    "wof:geomhash":"6fa51010b20d06534ee9525363218933",
+    "wof:geomhash":"fdf528e426476f81ea1e83541515119e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752937,
-    "wof:lastmodified":1570000911,
+    "wof:lastmodified":1684354438,
     "wof:name":"Stary Brus",
     "wof:parent_id":102079889,
     "wof:placetype":"localadmin",
+    "wof:population":2097,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

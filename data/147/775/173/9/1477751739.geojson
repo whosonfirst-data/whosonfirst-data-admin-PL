@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Klukowo",
+    "eurostat:nuts_2021_id":"1006201381304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381304",
+    "eurostat:population":4346,
+    "eurostat:population_year":2020,
     "geom:area":0.016485,
-    "geom:area_square_m":123360493.556278,
+    "geom:area_square_m":123360493.556286,
     "geom:bbox":"22.440932953,52.689453166,22.685151565,52.824265608",
     "geom:latitude":52.758329,
     "geom:longitude":22.540498,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":22.511804,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102080095
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381304",
+        "eurostat:nuts_2021_id":"1006201381304"
+    },
     "wof:coterminous":[
         1125877407
     ],
     "wof:country":"PL",
-    "wof:geomhash":"29d8ecaad1856cd41486b2ef6a3d2cad",
+    "wof:geomhash":"b532bf5c9ddfb1aaf6cde63cae3dd2ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751739,
-    "wof:lastmodified":1570001323,
+    "wof:lastmodified":1684354373,
     "wof:name":"Klukowo",
     "wof:parent_id":102080095,
     "wof:placetype":"localadmin",
+    "wof:population":4346,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

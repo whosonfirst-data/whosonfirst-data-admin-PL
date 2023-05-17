@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Pomorskie",
+    "eurostat:name_local":"Pomorskie",
+    "eurostat:nuts_2021_id":"PL63",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:population":2318625,
+    "eurostat:population_year":2022,
     "geom:area":2.520318,
-    "geom:area_square_m":18249449105.019627,
+    "geom:area_square_m":18249449876.204243,
     "geom:bbox":"16.699087,53.490964,19.648736,54.836417",
     "geom:latitude":54.154704,
     "geom:longitude":17.986714,
@@ -380,8 +390,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-21",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"18,310",
     "statoids:area_mi":"7,070",
     "statoids:as_of_date":"2011-03-21",
@@ -402,6 +412,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14353,
+        "eurostat:nuts_2021_id":"PL63",
         "fips:code":"PL82",
         "gn:id":3337496,
         "gp:id":12577945,
@@ -414,7 +425,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e4d796fb2bc352c8e0e8ad48e4a734f3",
+    "wof:geomhash":"0fa6c28d5336fe6551a8741e358fa8a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -432,12 +443,12 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1614895726,
+    "wof:lastmodified":1684351461,
     "wof:name":"Pomorskie",
     "wof:parent_id":85633723,
     "wof:placetype":"region",
     "wof:placetype_local":"voivodship",
-    "wof:population":2276176,
+    "wof:population":2318625,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:shortcode":"PM",

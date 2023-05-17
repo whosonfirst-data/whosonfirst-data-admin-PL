@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Janowice Wielkie",
+    "eurostat:nuts_2021_id":"1003021010605",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010605",
+    "eurostat:population":4302,
+    "eurostat:population_year":2020,
     "geom:area":0.007394,
-    "geom:area_square_m":57671848.698204,
+    "geom:area_square_m":57671848.698231,
     "geom:bbox":"15.833762833,50.834618565,15.961978204,50.950503072",
     "geom:latitude":50.892266,
     "geom:longitude":15.903888,
@@ -84,6 +96,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010605",
+        "eurostat:nuts_2021_id":"1003021010605",
         "gp:id":12618365,
         "qs_pg:id":1024192
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9398f20b49bebf2cf9df2eaaf6a60c34",
+    "wof:geomhash":"5c2785065d0ae3754a1de59f2cbd1be3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125399135,
-    "wof:lastmodified":1582357914,
+    "wof:lastmodified":1684354320,
     "wof:name":"Janowice Wielkie",
     "wof:parent_id":102079617,
     "wof:placetype":"localadmin",
+    "wof:population":4302,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

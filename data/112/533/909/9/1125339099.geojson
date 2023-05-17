@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161321103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kolonowskie",
+    "eurostat:nuts_2021_id":"1003161321103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161321103",
+    "eurostat:population":5874,
+    "eurostat:population_year":2020,
     "geom:area":0.010624,
-    "geom:area_square_m":83277029.342021,
+    "geom:area_square_m":83277029.342018,
     "geom:bbox":"18.260806936,50.618370265,18.46814338,50.704463057",
     "geom:latitude":50.658496,
     "geom:longitude":18.373087,
@@ -133,7 +145,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -146,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161321103",
+        "eurostat:nuts_2021_id":"1003161321103",
         "gn:id":3095421,
         "gp:id":24548422,
         "qs_pg:id":59571
@@ -155,7 +170,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"62d3df332ae9bd936ff68b2b14db83bb",
+    "wof:geomhash":"503c733011faed396d63482a0061c968",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,12 +181,12 @@
         }
     ],
     "wof:id":1125339099,
-    "wof:lastmodified":1582357677,
+    "wof:lastmodified":1684354246,
     "wof:name":"Gmina Kolonowskie",
     "wof:parent_id":102079587,
     "wof:placetype":"localadmin",
-    "wof:population":3382,
-    "wof:population_rank":4,
+    "wof:population":5874,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

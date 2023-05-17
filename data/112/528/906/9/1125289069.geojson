@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142262206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krzynow\u0142oga Ma\u0142a",
+    "eurostat:nuts_2021_id":"1007142262206",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142262206",
+    "eurostat:population":3439,
+    "eurostat:population_year":2020,
     "geom:area":0.024832,
-    "geom:area_square_m":184124130.34906,
+    "geom:area_square_m":184124130.349047,
     "geom:bbox":"20.688109809,53.08659264,20.983582278,53.234476476",
     "geom:latitude":53.155501,
     "geom:longitude":20.816672,
@@ -70,7 +82,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -83,6 +96,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142262206",
+        "eurostat:nuts_2021_id":"1007142262206",
         "gn:id":767253,
         "gp:id":12618006,
         "qs_pg:id":24103
@@ -95,7 +110,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"76d71f16308c1fc4b860b42cb3abcfad",
+    "wof:geomhash":"13d50c835b2a8b71acc30978cf4cbf61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,12 +121,12 @@
         }
     ],
     "wof:id":1125289069,
-    "wof:lastmodified":1582357756,
+    "wof:lastmodified":1684354169,
     "wof:name":"Krzynow\u0142oga Ma\u0142a",
     "wof:parent_id":102080117,
     "wof:placetype":"localadmin",
-    "wof:population":520,
-    "wof:population_rank":2,
+    "wof:population":3439,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

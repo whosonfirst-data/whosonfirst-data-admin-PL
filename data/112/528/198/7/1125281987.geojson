@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141300501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Milan\u00f3wek",
+    "eurostat:nuts_2021_id":"1007141300501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141300501",
+    "eurostat:population":16416,
+    "eurostat:population_year":2020,
     "geom:area":0.001763,
-    "geom:area_square_m":13385148.760618,
+    "geom:area_square_m":13385148.760619,
     "geom:bbox":"20.63651406,52.099386481,20.704162615,52.150320313",
     "geom:latitude":52.125856,
     "geom:longitude":20.6724,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141300501",
+        "eurostat:nuts_2021_id":"1007141300501",
         "gn:id":764749,
         "gp:id":12618864,
         "qs_pg:id":129302
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"63a04200e5640bc9a33db4040e6fd118",
+    "wof:geomhash":"e2ce1a40d6bbc9932694d51312977f1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,11 +188,11 @@
         }
     ],
     "wof:id":1125281987,
-    "wof:lastmodified":1582357771,
+    "wof:lastmodified":1684354149,
     "wof:name":"Milan\u00f3wek",
     "wof:parent_id":102079909,
     "wof:placetype":"localadmin",
-    "wof:population":15784,
+    "wof:population":16416,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

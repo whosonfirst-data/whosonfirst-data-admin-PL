@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201370202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czarna Bia\u0142ostocka",
+    "eurostat:nuts_2021_id":"1006201370202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201370202",
+    "eurostat:population":11314,
+    "eurostat:population_year":2020,
     "geom:area":0.027825,
-    "geom:area_square_m":205551777.567396,
+    "geom:area_square_m":205551777.567391,
     "geom:bbox":"23.075816,53.247202,23.403731,53.384746",
     "geom:latitude":53.314553,
     "geom:longitude":23.245142,
@@ -138,6 +150,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -150,6 +164,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201370202",
+        "eurostat:nuts_2021_id":"1006201370202",
         "gp:id":24548199,
         "qs_pg:id":1206451
     },
@@ -161,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"affcb8fa9ce37f93c500c743b2f38c81",
+    "wof:geomhash":"761f59ace47b90d5bb4f35b75d74b44c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +188,12 @@
         }
     ],
     "wof:id":1125314681,
-    "wof:lastmodified":1617130653,
+    "wof:lastmodified":1684354218,
     "wof:name":"Gmina Czarna Bia\u0142ostocka",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",
+    "wof:population":11314,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

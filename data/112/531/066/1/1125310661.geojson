@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241486301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chorz\u00f3w",
+    "eurostat:nuts_2021_id":"1001241486301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22A",
+    "eurostat:nuts_2021_level_lau":"1001241486301",
+    "eurostat:population":107807,
+    "eurostat:population_year":2020,
     "geom:area":0.004203,
-    "geom:area_square_m":33204468.876843,
+    "geom:area_square_m":33204468.87683,
     "geom:bbox":"18.91897,50.239129,19.006829,50.337862",
     "geom:latitude":50.294808,
     "geom:longitude":18.961062,
@@ -245,7 +257,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -253,11 +266,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079515,
-        85687277
+        85687277,
+        102079515
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241486301",
+        "eurostat:nuts_2021_id":"1001241486301",
         "gn:id":3101619,
         "gp:id":12618381,
         "qs_pg:id":1257279
@@ -271,7 +286,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"559879e58a06fb7eb66eb83239e5983c",
+    "wof:geomhash":"4fc6d1abb32ce5f8d19661754a0d951f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -282,11 +297,11 @@
         }
     ],
     "wof:id":1125310661,
-    "wof:lastmodified":1607725984,
+    "wof:lastmodified":1684354213,
     "wof:name":"Chorz\u00f3w",
     "wof:parent_id":102079515,
     "wof:placetype":"localadmin",
-    "wof:population":113430,
+    "wof:population":107807,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

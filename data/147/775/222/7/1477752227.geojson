@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ko\u0142aki Ko\u015bcielne",
+    "eurostat:nuts_2021_id":"1006201381402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381402",
+    "eurostat:population":2289,
+    "eurostat:population_year":2020,
     "geom:area":0.009863,
-    "geom:area_square_m":73356445.760267,
+    "geom:area_square_m":73356445.760259,
     "geom:bbox":"22.286315857,52.957110253,22.442526304,53.066650605",
     "geom:latitude":53.023608,
     "geom:longitude":22.360486,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":22.359314,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080103
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381402",
+        "eurostat:nuts_2021_id":"1006201381402"
+    },
     "wof:coterminous":[
         1126005781
     ],
     "wof:country":"PL",
-    "wof:geomhash":"dd63eb24de9c5704d3d28edbc29c78d7",
+    "wof:geomhash":"3de0394f5d293dd7f24e4effce4529fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752227,
-    "wof:lastmodified":1570003258,
+    "wof:lastmodified":1684354399,
     "wof:name":"Ko\u0142aki Ko\u015bcielne",
     "wof:parent_id":102080103,
     "wof:placetype":"localadmin",
+    "wof:population":2289,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

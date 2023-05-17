@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101180908",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sulmierzyce",
+    "eurostat:nuts_2021_id":"1005101180908",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101180908",
+    "eurostat:population":4444,
+    "eurostat:population_year":2020,
     "geom:area":0.010637,
-    "geom:area_square_m":82422408.255296,
+    "geom:area_square_m":82422408.255318,
     "geom:bbox":"19.065298954,51.154387648,19.312515228,51.260448961",
     "geom:latitude":51.195642,
     "geom:longitude":19.187069,
@@ -83,6 +95,8 @@
     "reversegeo:longitude":19.19551,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -90,11 +104,15 @@
         102079705
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101180908",
+        "eurostat:nuts_2021_id":"1005101180908"
+    },
     "wof:coterminous":[
         101822551
     ],
     "wof:country":"PL",
-    "wof:geomhash":"96918929022d6b2eecf3c3f02120d753",
+    "wof:geomhash":"3b2c267faff688e8adb42114dcd94e53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +123,12 @@
         }
     ],
     "wof:id":1477751171,
-    "wof:lastmodified":1570001985,
+    "wof:lastmodified":1684354344,
     "wof:name":"Sulmierzyce",
     "wof:parent_id":102079705,
     "wof:placetype":"localadmin",
+    "wof:population":4444,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

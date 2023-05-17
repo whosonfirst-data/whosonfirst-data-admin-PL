@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061110801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lubart\u00f3w",
+    "eurostat:nuts_2021_id":"1006061110801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL814",
+    "eurostat:nuts_2021_level_lau":"1006061110801",
+    "eurostat:population":21828,
+    "eurostat:population_year":2020,
     "geom:area":0.0018,
-    "geom:area_square_m":13865572.410768,
+    "geom:area_square_m":13865572.410767,
     "geom:bbox":"22.569575914,51.433926514,22.642233343,51.482888058",
     "geom:latitude":51.460482,
     "geom:longitude":22.609015,
@@ -168,6 +180,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -180,6 +194,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061110801",
+        "eurostat:nuts_2021_id":"1006061110801",
         "gp:id":24548338,
         "qs_pg:id":469393
     },
@@ -188,7 +204,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"72563622ac55a39b4b4b0fba6b917be3",
+    "wof:geomhash":"8e01be169ce2c9c84979fdee98bfa55c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,10 +215,12 @@
         }
     ],
     "wof:id":1125297131,
-    "wof:lastmodified":1582357816,
+    "wof:lastmodified":1684354189,
     "wof:name":"Gmina Lubart\u00f3w",
     "wof:parent_id":102079855,
     "wof:placetype":"localadmin",
+    "wof:population":21828,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

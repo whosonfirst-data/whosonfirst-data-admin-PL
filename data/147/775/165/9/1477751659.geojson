@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021030804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowa Ruda",
+    "eurostat:nuts_2021_id":"1003021030804",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021030804",
+    "eurostat:population":21908,
+    "eurostat:population_year":2020,
     "geom:area":0.004701,
-    "geom:area_square_m":36921347.030698,
+    "geom:area_square_m":36921347.03069,
     "geom:bbox":"16.460212514,50.523801983,16.579492825,50.623197867",
     "geom:latitude":50.571119,
     "geom:longitude":16.521058,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":16.51027,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079559
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021030804",
+        "eurostat:nuts_2021_id":"1003021030804"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"d02b16f82898d0f2511e4057e6e89123",
+    "wof:geomhash":"3249255fe34b0d19bcdd2110ecd51e3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751659,
-    "wof:lastmodified":1570002134,
+    "wof:lastmodified":1684354369,
     "wof:name":"Gmina Nowa Ruda",
     "wof:parent_id":102079559,
     "wof:placetype":"localadmin",
+    "wof:population":21908,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

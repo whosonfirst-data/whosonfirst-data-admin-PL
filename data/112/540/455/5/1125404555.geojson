@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241456201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bytom",
+    "eurostat:nuts_2021_id":"1001241456201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL228",
+    "eurostat:nuts_2021_level_lau":"1001241456201",
+    "eurostat:population":165263,
+    "eurostat:population_year":2020,
     "geom:area":0.008778,
-    "geom:area_square_m":69240407.279515,
+    "geom:area_square_m":69240407.279519,
     "geom:bbox":"18.788584,50.316708,18.964097,50.413709",
     "geom:latitude":50.363606,
     "geom:longitude":18.877587,
@@ -254,7 +266,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -262,11 +275,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079537,
-        85687277
+        85687277,
+        102079537
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241456201",
+        "eurostat:nuts_2021_id":"1001241456201",
         "gn:id":3101950,
         "gp:id":12617422,
         "qs_pg:id":1106395
@@ -280,7 +295,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"873a21cb041fc5c3caf6aaf4aa02c690",
+    "wof:geomhash":"aaadb75c32d3e01a925b826cfa71f769",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -291,11 +306,11 @@
         }
     ],
     "wof:id":1125404555,
-    "wof:lastmodified":1607726044,
+    "wof:lastmodified":1684354327,
     "wof:name":"Bytom",
     "wof:parent_id":102079537,
     "wof:placetype":"localadmin",
-    "wof:population":189186,
+    "wof:population":165263,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

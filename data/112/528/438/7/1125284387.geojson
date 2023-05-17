@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ochotnica Dolna",
+    "eurostat:nuts_2021_id":"1001121691110",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691110",
+    "eurostat:population":8513,
+    "eurostat:population_year":2020,
     "geom:area":0.01753,
-    "geom:area_square_m":140729584.051611,
+    "geom:area_square_m":140729584.05161,
     "geom:bbox":"20.14530055,49.464163152,20.470078964,49.573188563",
     "geom:latitude":49.517357,
     "geom:longitude":20.30295,
@@ -63,6 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691110",
+        "eurostat:nuts_2021_id":"1001121691110",
         "gp:id":12618163,
         "qs_pg:id":1093288
     },
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4e14c07446ad8c171702f2be46b3dc31",
+    "wof:geomhash":"a5106c68b7f3204a17b7d10a10b01558",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":1125284387,
-    "wof:lastmodified":1582357765,
+    "wof:lastmodified":1684354155,
     "wof:name":"Ochotnica Dolna",
     "wof:parent_id":102079407,
     "wof:placetype":"localadmin",
+    "wof:population":8513,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

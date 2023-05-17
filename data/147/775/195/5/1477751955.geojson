@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221421307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osieczna",
+    "eurostat:nuts_2021_id":"1004221421307",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221421307",
+    "eurostat:population":2880,
+    "eurostat:population_year":2020,
     "geom:area":0.016766,
-    "geom:area_square_m":122486141.917665,
+    "geom:area_square_m":122486141.917664,
     "geom:bbox":"18.071681483,53.734511444,18.382005735,53.841742933",
     "geom:latitude":53.785474,
     "geom:longitude":18.208469,
@@ -71,6 +83,8 @@
     "reversegeo:longitude":18.210786,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -78,11 +92,15 @@
         102080183
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221421307",
+        "eurostat:nuts_2021_id":"1004221421307"
+    },
     "wof:coterminous":[
         1126011023
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f0d2c4f8bd8157975d2b66f9946a2224",
+    "wof:geomhash":"ddbb9656628e8ef8b9d7d7efd20441fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,10 +111,12 @@
         }
     ],
     "wof:id":1477751955,
-    "wof:lastmodified":1569999251,
+    "wof:lastmodified":1684354384,
     "wof:name":"Osieczna",
     "wof:parent_id":102080183,
     "wof:placetype":"localadmin",
+    "wof:population":2880,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

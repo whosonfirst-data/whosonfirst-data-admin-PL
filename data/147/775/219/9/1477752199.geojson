@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041081809",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kowal",
+    "eurostat:nuts_2021_id":"1004041081809",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041081809",
+    "eurostat:population":3918,
+    "eurostat:population_year":2020,
     "geom:area":0.015215,
-    "geom:area_square_m":114450826.918043,
+    "geom:area_square_m":114450826.918033,
     "geom:bbox":"19.051205507,52.453765244,19.280879514,52.61081717",
     "geom:latitude":52.530689,
     "geom:longitude":19.166733,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":19.196202,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079997
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041081809",
+        "eurostat:nuts_2021_id":"1004041081809"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"9f7c7b71404db2e054c805d3610d8b27",
+    "wof:geomhash":"93aa47f1b19891f47bb58fbc6339a3a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752199,
-    "wof:lastmodified":1570000080,
+    "wof:lastmodified":1684354398,
     "wof:name":"Gmina Kowal",
     "wof:parent_id":102079997,
     "wof:placetype":"localadmin",
+    "wof:population":3918,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

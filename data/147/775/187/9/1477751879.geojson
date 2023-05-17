@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261531302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krasocin",
+    "eurostat:nuts_2021_id":"1005261531302",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261531302",
+    "eurostat:population":10620,
+    "eurostat:population_year":2020,
     "geom:area":0.024622,
-    "geom:area_square_m":192018262.475934,
+    "geom:area_square_m":192018262.475927,
     "geom:bbox":"19.983280157,50.819519057,20.249663613,50.990206672",
     "geom:latitude":50.899067,
     "geom:longitude":20.107926,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":20.094898,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079679
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005261531302",
+        "eurostat:nuts_2021_id":"1005261531302"
+    },
     "wof:coterminous":[
         1125950937
     ],
     "wof:country":"PL",
-    "wof:geomhash":"701181b79d44607b6419ed17a6ad61b8",
+    "wof:geomhash":"80a5f20d4e4c4bfb83f919e789d05989",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751879,
-    "wof:lastmodified":1570001280,
+    "wof:lastmodified":1684354380,
     "wof:name":"Krasocin",
     "wof:parent_id":102079679,
     "wof:placetype":"localadmin",
+    "wof:population":10620,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

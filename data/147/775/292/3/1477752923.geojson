@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141300503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baran\u00f3w",
+    "eurostat:nuts_2021_id":"1007141300503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141300503",
+    "eurostat:population":5340,
+    "eurostat:population_year":2020,
     "geom:area":0.009892,
-    "geom:area_square_m":75052071.526667,
+    "geom:area_square_m":75052071.526685,
     "geom:bbox":"20.394479933,52.083595136,20.559950184,52.203233237",
     "geom:latitude":52.149891,
     "geom:longitude":20.471011,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.465422,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079909
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007141300503",
+        "eurostat:nuts_2021_id":"1007141300503"
+    },
     "wof:coterminous":[
         1125891965
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e3375a1849189cf2b94cf0484ebff757",
+    "wof:geomhash":"aef417f9b130d716a3e671360bca86ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477752923,
-    "wof:lastmodified":1570000547,
+    "wof:lastmodified":1684354437,
     "wof:name":"Baran\u00f3w",
     "wof:parent_id":102079909,
     "wof:placetype":"localadmin",
+    "wof:population":5340,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

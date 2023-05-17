@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101181704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mokrsko",
+    "eurostat:nuts_2021_id":"1005101181704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101181704",
+    "eurostat:population":5401,
+    "eurostat:population_year":2020,
     "geom:area":0.009977,
-    "geom:area_square_m":77367282.609632,
+    "geom:area_square_m":77367282.609608,
     "geom:bbox":"18.422151861,51.090711632,18.548250248,51.216352287",
     "geom:latitude":51.159555,
     "geom:longitude":18.482408,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":18.487505,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079729
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101181704",
+        "eurostat:nuts_2021_id":"1005101181704"
+    },
     "wof:coterminous":[
         1126010289
     ],
     "wof:country":"PL",
-    "wof:geomhash":"7d67a8c92821e1fd695a0fc54a6e979e",
+    "wof:geomhash":"80dccb071b34840cba93869682cc99c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751963,
-    "wof:lastmodified":1570002101,
+    "wof:lastmodified":1684354385,
     "wof:name":"Mokrsko",
     "wof:parent_id":102079729,
     "wof:placetype":"localadmin",
+    "wof:population":5401,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

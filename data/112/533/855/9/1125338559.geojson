@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301601908",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wyrzysk",
+    "eurostat:nuts_2021_id":"1002301601908",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301601908",
+    "eurostat:population":13926,
+    "eurostat:population_year":2020,
     "geom:area":0.021361,
-    "geom:area_square_m":158399257.806237,
+    "geom:area_square_m":158399257.806235,
     "geom:bbox":"17.169902138,53.077277091,17.392802225,53.223303087",
     "geom:latitude":53.152008,
     "geom:longitude":17.272808,
@@ -151,7 +163,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -164,6 +177,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301601908",
+        "eurostat:nuts_2021_id":"1002301601908",
         "gn:id":3081158,
         "gp:id":24547414,
         "qs_pg:id":59388
@@ -173,7 +188,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fe6e07a7051ab8dc177ecdf3f9fb2965",
+    "wof:geomhash":"9b7b1e5262155ebb383e2a86f8c74d7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,12 +199,12 @@
         }
     ],
     "wof:id":1125338559,
-    "wof:lastmodified":1582357688,
+    "wof:lastmodified":1684354244,
     "wof:name":"Gmina Wyrzysk",
     "wof:parent_id":102080065,
     "wof:placetype":"localadmin",
-    "wof:population":5263,
-    "wof:population_rank":5,
+    "wof:population":13926,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141301403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leoncin",
+    "eurostat:nuts_2021_id":"1007141301403",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141301403",
+    "eurostat:population":5620,
+    "eurostat:population_year":2020,
     "geom:area":0.020843,
-    "geom:area_square_m":157378095.25079,
+    "geom:area_square_m":157378095.250789,
     "geom:bbox":"20.397586456,52.285082462,20.632160652,52.429457489",
     "geom:latitude":52.36383,
     "geom:longitude":20.513815,
@@ -53,6 +65,8 @@
     "reversegeo:longitude":20.50438,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -60,11 +74,15 @@
         102080001
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007141301403",
+        "eurostat:nuts_2021_id":"1007141301403"
+    },
     "wof:coterminous":[
         1125982463
     ],
     "wof:country":"PL",
-    "wof:geomhash":"1dba0915bd0ae0dc9ff25bd15abf7b68",
+    "wof:geomhash":"9fb962b8eb1d2e476117eeadf30b7ecd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477752443,
-    "wof:lastmodified":1570000319,
+    "wof:lastmodified":1684354410,
     "wof:name":"Leoncin",
     "wof:parent_id":102080001,
     "wof:placetype":"localadmin",
+    "wof:population":5620,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

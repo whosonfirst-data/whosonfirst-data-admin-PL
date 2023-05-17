@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142252003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baboszewo",
+    "eurostat:nuts_2021_id":"1007142252003",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142252003",
+    "eurostat:population":7955,
+    "eurostat:population_year":2020,
     "geom:area":0.021571,
-    "geom:area_square_m":161589184.909674,
+    "geom:area_square_m":161589184.909634,
     "geom:bbox":"20.148856318,52.634779812,20.39545432,52.787926123",
     "geom:latitude":52.711776,
     "geom:longitude":20.272519,
@@ -78,7 +90,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -91,6 +104,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142252003",
+        "eurostat:nuts_2021_id":"1007142252003",
         "gn:id":776553,
         "gp:id":12617022,
         "qs_pg:id":1003814
@@ -103,7 +118,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"dcf1b33c84b9651fee334899f12cc879",
+    "wof:geomhash":"f063eee96b909a3d52879c550f59c058",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,12 +129,12 @@
         }
     ],
     "wof:id":1125379957,
-    "wof:lastmodified":1582357851,
+    "wof:lastmodified":1684354298,
     "wof:name":"Baboszewo",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",
-    "wof:population":1800,
-    "wof:population_rank":3,
+    "wof:population":7955,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

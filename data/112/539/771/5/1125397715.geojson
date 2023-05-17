@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201371104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krynki",
+    "eurostat:nuts_2021_id":"1006201371104",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201371104",
+    "eurostat:population":3037,
+    "eurostat:population_year":2020,
     "geom:area":0.022332,
-    "geom:area_square_m":165350167.853942,
+    "geom:area_square_m":165350167.853946,
     "geom:bbox":"23.632330099,53.14826983,23.909707118,53.329673092",
     "geom:latitude":53.217415,
     "geom:longitude":23.768452,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -162,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201371104",
+        "eurostat:nuts_2021_id":"1006201371104",
         "gn:id":767357,
         "gp:id":12617507,
         "qs_pg:id":225669
@@ -171,7 +186,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bca7be3d8a5399d9d5ea6b6549d84f53",
+    "wof:geomhash":"8214a9d071e397d3b71459e47198cadc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,11 +197,11 @@
         }
     ],
     "wof:id":1125397715,
-    "wof:lastmodified":1582357912,
+    "wof:lastmodified":1684354319,
     "wof:name":"Gmina Krynki",
     "wof:parent_id":102080189,
     "wof:placetype":"localadmin",
-    "wof:population":2700,
+    "wof:population":3037,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

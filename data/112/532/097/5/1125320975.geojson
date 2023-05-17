@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241501602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zawiercie",
+    "eurostat:nuts_2021_id":"1001241501602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22B",
+    "eurostat:nuts_2021_level_lau":"1001241501602",
+    "eurostat:population":49204,
+    "eurostat:population_year":2020,
     "geom:area":0.010806,
-    "geom:area_square_m":84993269.231963,
+    "geom:area_square_m":84993269.231966,
     "geom:bbox":"19.359325664,50.456987741,19.581204552,50.554469491",
     "geom:latitude":50.498293,
     "geom:longitude":19.474207,
@@ -147,6 +159,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -159,6 +173,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241501602",
+        "eurostat:nuts_2021_id":"1001241501602",
         "gp:id":12618815,
         "qs_pg:id":218520
     },
@@ -170,7 +186,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1a5f8629cf6286f064be8a467e335f09",
+    "wof:geomhash":"8f666ee04664b5ae419670ede341841a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,10 +197,12 @@
         }
     ],
     "wof:id":1125320975,
-    "wof:lastmodified":1582357733,
+    "wof:lastmodified":1684354224,
     "wof:name":"Zawiercie",
     "wof:parent_id":102079613,
     "wof:placetype":"localadmin",
+    "wof:population":49204,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

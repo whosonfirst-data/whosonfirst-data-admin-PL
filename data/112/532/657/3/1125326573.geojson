@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241470503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giera\u0142towice",
+    "eurostat:nuts_2021_id":"1001241470503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL229",
+    "eurostat:nuts_2021_level_lau":"1001241470503",
+    "eurostat:population":12183,
+    "eurostat:population_year":2020,
     "geom:area":0.004826,
-    "geom:area_square_m":38173158.553075,
+    "geom:area_square_m":38173158.55307,
     "geom:bbox":"18.693319615,50.193428433,18.804404822,50.272740985",
     "geom:latitude":50.228251,
     "geom:longitude":18.750509,
@@ -63,6 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241470503",
+        "eurostat:nuts_2021_id":"1001241470503",
         "gp:id":12617353,
         "qs_pg:id":43581
     },
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"21c4fe339f3c430513eeac846fd41c64",
+    "wof:geomhash":"f5c195fef1013e03f2a4e37faf1f5b49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":1125326573,
-    "wof:lastmodified":1582357735,
+    "wof:lastmodified":1684354234,
     "wof:name":"Giera\u0142towice",
     "wof:parent_id":102079563,
     "wof:placetype":"localadmin",
+    "wof:population":12183,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

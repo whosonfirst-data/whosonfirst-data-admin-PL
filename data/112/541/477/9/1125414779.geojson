@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Giby",
+    "eurostat:nuts_2021_id":"1006201390902",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390902",
+    "eurostat:population":2694,
+    "eurostat:population_year":2020,
     "geom:area":0.044278,
-    "geom:area_square_m":321875733.699924,
+    "geom:area_square_m":321875733.699961,
     "geom:bbox":"23.07989249,53.894213428,23.516513544,54.095292993",
     "geom:latitude":53.992089,
     "geom:longitude":23.328764,
@@ -72,6 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390902",
+        "eurostat:nuts_2021_id":"1006201390902",
         "gp:id":12617508,
         "qs_pg:id":247870
     },
@@ -95,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"99bb0fb8f24ae90a6ccde3a8cd047ab9",
+    "wof:geomhash":"44102a8c8f79b6c9382cb64be96b8904",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":1125414779,
-    "wof:lastmodified":1582358010,
+    "wof:lastmodified":1684354338,
     "wof:name":"Giby",
     "wof:parent_id":102080257,
     "wof:placetype":"localadmin",
+    "wof:population":2694,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

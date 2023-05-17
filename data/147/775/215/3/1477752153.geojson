@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Koniecpol",
+    "eurostat:nuts_2021_id":"1001241460406",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460406",
+    "eurostat:population":9408,
+    "eurostat:population_year":2020,
     "geom:area":0.018696,
-    "geom:area_square_m":146119917.897359,
+    "geom:area_square_m":146119917.897371,
     "geom:bbox":"19.587350501,50.713209438,19.832162683,50.86597005",
     "geom:latitude":50.798804,
     "geom:longitude":19.7029,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":19.694498,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079663
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460406",
+        "eurostat:nuts_2021_id":"1001241460406"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"38c084fda41076c0e73bbba08752c1e8",
+    "wof:geomhash":"1f55018397e2886941acf6c734f19e8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752153,
-    "wof:lastmodified":1570002898,
+    "wof:lastmodified":1684354395,
     "wof:name":"Gmina Koniecpol",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",
+    "wof:population":9408,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

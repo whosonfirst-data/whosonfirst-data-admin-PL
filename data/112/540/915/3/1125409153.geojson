@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bukowina Tatrza\u0144ska",
+    "eurostat:nuts_2021_id":"1001121691703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691703",
+    "eurostat:population":13387,
+    "eurostat:population_year":2020,
     "geom:area":0.016309,
-    "geom:area_square_m":131454432.531278,
+    "geom:area_square_m":131454432.531244,
     "geom:bbox":"20.006468417,49.178475889,20.190275111,49.428417799",
     "geom:latitude":49.319811,
     "geom:longitude":20.098718,
@@ -113,7 +125,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -122,6 +135,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691703",
+        "eurostat:nuts_2021_id":"1001121691703",
         "gn:id":7531136,
         "gp:id":12617481,
         "qs_pg:id":1154807
@@ -138,7 +153,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5adbb9c69e821c1f0bcf37cf1730da3c",
+    "wof:geomhash":"3fb93e8bf0e3287df3f9ad01fd93e40c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,12 +164,12 @@
         }
     ],
     "wof:id":1125409153,
-    "wof:lastmodified":1582357996,
+    "wof:lastmodified":1684354329,
     "wof:name":"Bukowina Tatrza\u0144ska",
     "wof:parent_id":102079405,
     "wof:placetype":"localadmin",
-    "wof:population":2700,
-    "wof:population_rank":4,
+    "wof:population":13387,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

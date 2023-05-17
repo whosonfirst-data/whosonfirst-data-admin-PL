@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121221013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piwniczna-Zdr\u00f3j",
+    "eurostat:nuts_2021_id":"1001121221013",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121221013",
+    "eurostat:population":10588,
+    "eurostat:population_year":2020,
     "geom:area":0.015677,
-    "geom:area_square_m":126050446.180715,
+    "geom:area_square_m":126050446.180701,
     "geom:bbox":"20.605092292,49.370888556,20.873779276,49.493876692",
     "geom:latitude":49.439232,
     "geom:longitude":20.742677,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":20.778304,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079425
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121221013",
+        "eurostat:nuts_2021_id":"1001121221013"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"40ede16e305acb49d4fffb9a72b3dfb1",
+    "wof:geomhash":"844024b24176d99987b429cf95a4533f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752361,
-    "wof:lastmodified":1570003418,
+    "wof:lastmodified":1684354406,
     "wof:name":"Gmina Piwniczna-Zdr\u00f3j",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",
+    "wof:population":10588,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

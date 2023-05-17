@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201370210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sura\u017c",
+    "eurostat:nuts_2021_id":"1006201370210",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201370210",
+    "eurostat:population":1967,
+    "eurostat:population_year":2020,
     "geom:area":0.01024,
-    "geom:area_square_m":76308633.45447,
+    "geom:area_square_m":76308633.454473,
     "geom:bbox":"22.896160637,52.90139721,23.115291213,52.98852654",
     "geom:latitude":52.941259,
     "geom:longitude":23.001733,
@@ -142,7 +154,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -155,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201370210",
+        "eurostat:nuts_2021_id":"1006201370210",
         "gn:id":757751,
         "gp:id":24548206,
         "qs_pg:id":59533
@@ -164,7 +179,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d1ea4c0c5b1d214bc0fba8b4fb0eb674",
+    "wof:geomhash":"7ed7cec96643259a1b9597efa5661775",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,12 +190,12 @@
         }
     ],
     "wof:id":1125339033,
-    "wof:lastmodified":1582357685,
+    "wof:lastmodified":1684354246,
     "wof:name":"Gmina Sura\u017c",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",
-    "wof:population":993,
-    "wof:population_rank":2,
+    "wof:population":1967,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

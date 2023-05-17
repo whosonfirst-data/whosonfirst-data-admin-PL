@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021020908",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ruja",
+    "eurostat:nuts_2021_id":"1003021020908",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021020908",
+    "eurostat:population":2595,
+    "eurostat:population_year":2020,
     "geom:area":0.009418,
-    "geom:area_square_m":73014332.79403,
+    "geom:area_square_m":73014332.794039,
     "geom:bbox":"16.307258314,51.125067889,16.467406147,51.215095326",
     "geom:latitude":51.171845,
     "geom:longitude":16.397811,
@@ -29,6 +41,8 @@
     "reversegeo:longitude":16.39933,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -36,11 +50,15 @@
         102079691
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021020908",
+        "eurostat:nuts_2021_id":"1003021020908"
+    },
     "wof:coterminous":[
         1125892479
     ],
     "wof:country":"PL",
-    "wof:geomhash":"1b3f334e3344f7fcc96c1c7292533311",
+    "wof:geomhash":"4ac3d426384d2d46aee79b89201ccd60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,10 +69,12 @@
         }
     ],
     "wof:id":1477751451,
-    "wof:lastmodified":1570001359,
+    "wof:lastmodified":1684354358,
     "wof:name":"Ruja",
     "wof:parent_id":102079691,
     "wof:placetype":"localadmin",
+    "wof:population":2595,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

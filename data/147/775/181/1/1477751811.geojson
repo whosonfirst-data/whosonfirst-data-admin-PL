@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bra\u0144sk",
+    "eurostat:nuts_2021_id":"1006201380305",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380305",
+    "eurostat:population":5630,
+    "eurostat:population_year":2020,
     "geom:area":0.030258,
-    "geom:area_square_m":226513902.170029,
+    "geom:area_square_m":226513902.17008,
     "geom:bbox":"22.664262,52.640842,23.006648,52.858889",
     "geom:latitude":52.740895,
     "geom:longitude":22.848831,
@@ -68,18 +80,24 @@
     "reversegeo:longitude":22.848839,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102080071,
-        85687283
+        85687283,
+        102080071
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380305",
+        "eurostat:nuts_2021_id":"1006201380305"
+    },
     "wof:coterminous":[
         1477864171
     ],
     "wof:country":"PL",
-    "wof:geomhash":"bf8571b7c65fe1d37d2839561e5d226f",
+    "wof:geomhash":"0ebb783872b33ae9bf0edc498a3fed36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +108,12 @@
         }
     ],
     "wof:id":1477751811,
-    "wof:lastmodified":1607726675,
+    "wof:lastmodified":1684354377,
     "wof:name":"Gmina Bra\u0144sk",
     "wof:parent_id":102080071,
     "wof:placetype":"localadmin",
+    "wof:population":5630,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

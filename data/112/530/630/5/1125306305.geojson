@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142730603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chyn\u00f3w",
+    "eurostat:nuts_2021_id":"1007142730603",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL926",
+    "eurostat:nuts_2021_level_lau":"1007142730603",
+    "eurostat:population":9846,
+    "eurostat:population_year":2020,
     "geom:area":0.017624,
-    "geom:area_square_m":134497307.618591,
+    "geom:area_square_m":134497307.61859,
     "geom:bbox":"20.953964473,51.834382742,21.206471401,51.939612722",
     "geom:latitude":51.89076,
     "geom:longitude":21.085032,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":21.08499,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079877
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142730603",
+        "eurostat:nuts_2021_id":"1007142730603"
+    },
     "wof:coterminous":[
         1477864807
     ],
     "wof:country":"PL",
-    "wof:geomhash":"64246547a045b2174e798bce2db18014",
+    "wof:geomhash":"ccbd0aac86ed2fb231ccdc53021dc8d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125306305,
-    "wof:lastmodified":1569994930,
+    "wof:lastmodified":1684354209,
     "wof:name":"Chyn\u00f3w",
     "wof:parent_id":102079877,
     "wof:placetype":"localadmin",
+    "wof:population":9846,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

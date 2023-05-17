@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201370213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wasilk\u00f3w",
+    "eurostat:nuts_2021_id":"1006201370213",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201370213",
+    "eurostat:population":17560,
+    "eurostat:population_year":2020,
     "geom:area":0.017102,
-    "geom:area_square_m":126598676.449069,
+    "geom:area_square_m":126598676.449035,
     "geom:bbox":"23.081335371,53.166587499,23.336512858,53.278263737",
     "geom:latitude":53.225768,
     "geom:longitude":23.188794,
@@ -146,7 +158,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -159,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201370213",
+        "eurostat:nuts_2021_id":"1006201370213",
         "gn:id":756120,
         "gp:id":24548166,
         "qs_pg:id":1059801
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ed40d65577d0ede06f20c027e880abb1",
+    "wof:geomhash":"44914984ba28cf897418030994be8369",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,12 +194,12 @@
         }
     ],
     "wof:id":1125273535,
-    "wof:lastmodified":1582357792,
+    "wof:lastmodified":1684354142,
     "wof:name":"Gmina Wasilk\u00f3w",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",
-    "wof:population":9440,
-    "wof:population_rank":5,
+    "wof:population":17560,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

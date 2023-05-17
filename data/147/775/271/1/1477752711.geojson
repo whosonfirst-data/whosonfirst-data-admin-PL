@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321661401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stargard",
+    "eurostat:nuts_2021_id":"1002321661401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321661401",
+    "eurostat:population":67837,
+    "eurostat:population_year":2020,
     "geom:area":0.006483,
-    "geom:area_square_m":47888764.664867,
+    "geom:area_square_m":47888764.664871,
     "geom:bbox":"14.93849715,53.255381528,15.084735043,53.362686572",
     "geom:latitude":53.31718,
     "geom:longitude":15.013702,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":15.03696,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102080083
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321661401",
+        "eurostat:nuts_2021_id":"1002321661401"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"b63b522596b956154311368dff2da7a7",
+    "wof:geomhash":"a14b1c54962e08cd1bf759e73354e3f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752711,
-    "wof:lastmodified":1570003219,
+    "wof:lastmodified":1684354424,
     "wof:name":"Gmina Stargard",
     "wof:parent_id":102080083,
     "wof:placetype":"localadmin",
+    "wof:population":67837,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

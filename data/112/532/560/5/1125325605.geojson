@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181341405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ka\u0144czuga",
+    "eurostat:nuts_2021_id":"1006181341405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181341405",
+    "eurostat:population":12307,
+    "eurostat:population_year":2020,
     "geom:area":0.013161,
     "geom:area_square_m":104695819.913115,
     "geom:bbox":"22.303406,49.887831,22.492844,50.00955",
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -148,11 +161,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079589,
-        85687295
+        85687295,
+        102079589
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181341405",
+        "eurostat:nuts_2021_id":"1006181341405",
         "gn:id":769591,
         "gp:id":24548490,
         "qs_pg:id":499900
@@ -165,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5cdcb4ad030e88e1e1d5a4ba090a4338",
+    "wof:geomhash":"dbed8aaf39ecca9ac8da3ce347ab72fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,12 +191,12 @@
         }
     ],
     "wof:id":1125325605,
-    "wof:lastmodified":1607726637,
+    "wof:lastmodified":1684354234,
     "wof:name":"Gmina Ka\u0144czuga",
     "wof:parent_id":102079589,
     "wof:placetype":"localadmin",
-    "wof:population":3186,
-    "wof:population_rank":4,
+    "wof:population":12307,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

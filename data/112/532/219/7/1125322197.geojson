@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142711005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sarnaki",
+    "eurostat:nuts_2021_id":"1007142711005",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142711005",
+    "eurostat:population":4645,
+    "eurostat:population_year":2020,
     "geom:area":0.026017,
-    "geom:area_square_m":196744304.423414,
+    "geom:area_square_m":196744304.423424,
     "geom:bbox":"22.805613448,52.214318458,23.128408942,52.374541186",
     "geom:latitude":52.297126,
     "geom:longitude":22.964378,
@@ -75,6 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -87,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142711005",
+        "eurostat:nuts_2021_id":"1007142711005",
         "gp:id":12617689,
         "qs_pg:id":1112230
     },
@@ -98,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4c39ff49d6d255b0bd799d1a55dc4616",
+    "wof:geomhash":"f4cb931598c64bb9cacea7c6fb3a42e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":1125322197,
-    "wof:lastmodified":1582357727,
+    "wof:lastmodified":1684354224,
     "wof:name":"Sarnaki",
     "wof:parent_id":102079981,
     "wof:placetype":"localadmin",
+    "wof:population":4645,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

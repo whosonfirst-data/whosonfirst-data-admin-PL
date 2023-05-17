@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101180903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowa Brze\u017anica",
+    "eurostat:nuts_2021_id":"1005101180903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101180903",
+    "eurostat:population":4558,
+    "eurostat:population_year":2020,
     "geom:area":0.017371,
-    "geom:area_square_m":135024218.531026,
+    "geom:area_square_m":135024218.530954,
     "geom:bbox":"19.016712446,50.982418427,19.257009923,51.120525684",
     "geom:latitude":51.053089,
     "geom:longitude":19.159802,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":19.151607,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079705
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101180903",
+        "eurostat:nuts_2021_id":"1005101180903"
+    },
     "wof:coterminous":[
         1477865453
     ],
     "wof:country":"PL",
-    "wof:geomhash":"88fa4f4f00cc8fdc2d459ba0d9fe6c13",
+    "wof:geomhash":"73b374d952a6ffcb468f21282f784a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751183,
-    "wof:lastmodified":1570001496,
+    "wof:lastmodified":1684354345,
     "wof:name":"Nowa Brze\u017anica",
     "wof:parent_id":102079705,
     "wof:placetype":"localadmin",
+    "wof:population":4558,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

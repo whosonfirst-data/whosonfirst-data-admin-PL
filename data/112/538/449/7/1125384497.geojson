@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181341409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zarzecze",
+    "eurostat:nuts_2021_id":"1006181341409",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181341409",
+    "eurostat:population":7229,
+    "eurostat:population_year":2020,
     "geom:area":0.006167,
-    "geom:area_square_m":49026484.984017,
+    "geom:area_square_m":49026484.984012,
     "geom:bbox":"22.46767244,49.944845024,22.580672962,50.038001026",
     "geom:latitude":49.990165,
     "geom:longitude":22.519409,
@@ -71,7 +83,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -84,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181341409",
+        "eurostat:nuts_2021_id":"1006181341409",
         "gn:id":753762,
         "gp:id":12618846,
         "qs_pg:id":1027499
@@ -96,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3a71957cc709d4c8024fb46456e2372d",
+    "wof:geomhash":"33831dac35dc629cb24ef63676e427fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,12 +122,12 @@
         }
     ],
     "wof:id":1125384497,
-    "wof:lastmodified":1582357929,
+    "wof:lastmodified":1684354302,
     "wof:name":"Zarzecze",
     "wof:parent_id":102079589,
     "wof:placetype":"localadmin",
-    "wof:population":1589,
-    "wof:population_rank":3,
+    "wof:population":7229,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

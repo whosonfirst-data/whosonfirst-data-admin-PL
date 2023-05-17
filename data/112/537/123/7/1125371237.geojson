@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241476601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gliwice",
+    "eurostat:nuts_2021_id":"1001241476601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL229",
+    "eurostat:nuts_2021_level_lau":"1001241476601",
+    "eurostat:population":178603,
+    "eurostat:population_year":2020,
     "geom:area":0.016892,
-    "geom:area_square_m":133424532.59596,
+    "geom:area_square_m":133424532.595945,
     "geom:bbox":"18.542992,50.227204,18.75632,50.375141",
     "geom:latitude":50.29923,
     "geom:longitude":18.65359,
@@ -251,7 +263,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -264,6 +277,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241476601",
+        "eurostat:nuts_2021_id":"1001241476601",
         "gn:id":3099230,
         "gp:id":12618710,
         "qs_pg:id":835415
@@ -277,7 +292,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"311b6d22f0dd1d10f56bf2014cd49b79",
+    "wof:geomhash":"c880ab8ebf059bd27c76f7cd7e8c61d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -288,11 +303,11 @@
         }
     ],
     "wof:id":1125371237,
-    "wof:lastmodified":1617131305,
+    "wof:lastmodified":1684354283,
     "wof:name":"Gliwice",
     "wof:parent_id":102079519,
     "wof:placetype":"localadmin",
-    "wof:population":198835,
+    "wof:population":178603,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

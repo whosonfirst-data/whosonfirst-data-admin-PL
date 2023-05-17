@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261520412",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morawica",
+    "eurostat:nuts_2021_id":"1005261520412",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL721",
+    "eurostat:nuts_2021_level_lau":"1005261520412",
+    "eurostat:population":16756,
+    "eurostat:population_year":2020,
     "geom:area":0.017876,
-    "geom:area_square_m":139886442.854691,
+    "geom:area_square_m":139886442.854778,
     "geom:bbox":"20.503460474,50.667398713,20.721076637,50.823159148",
     "geom:latitude":50.73943,
     "geom:longitude":20.619674,
@@ -107,7 +119,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -120,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261520412",
+        "eurostat:nuts_2021_id":"1005261520412",
         "gn:id":764414,
         "gp:id":12617604,
         "qs_pg:id":1190559
@@ -129,7 +144,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"01b498f9dd48d89c75fdff92c9d4b756",
+    "wof:geomhash":"dd4837d06aef66fafaa240db1b45a662",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,12 +155,12 @@
         }
     ],
     "wof:id":1125304391,
-    "wof:lastmodified":1582357880,
+    "wof:lastmodified":1684354200,
     "wof:name":"Gmina Morawica",
     "wof:parent_id":102079693,
     "wof:placetype":"localadmin",
-    "wof:population":1576,
-    "wof:population_rank":3,
+    "wof:population":16756,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

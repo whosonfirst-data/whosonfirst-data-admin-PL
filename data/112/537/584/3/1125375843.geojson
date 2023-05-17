@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021011201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gryf\u00f3w \u015al\u0105ski",
+    "eurostat:nuts_2021_id":"1003021011201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021011201",
+    "eurostat:population":9667,
+    "eurostat:population_year":2020,
     "geom:area":0.008544,
-    "geom:area_square_m":66425397.60748,
+    "geom:area_square_m":66425397.607499,
     "geom:bbox":"15.375690678,50.96784113,15.504046065,51.120657275",
     "geom:latitude":51.044118,
     "geom:longitude":15.437168,
@@ -150,7 +162,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -163,6 +176,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021011201",
+        "eurostat:nuts_2021_id":"1003021011201",
         "gn:id":3098199,
         "gp:id":24547751,
         "qs_pg:id":999051
@@ -172,7 +187,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"afcefe58ac3d350fa79de17e8759c2f4",
+    "wof:geomhash":"c05250247429d20023a5aa150f96ccbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,11 +198,11 @@
         }
     ],
     "wof:id":1125375843,
-    "wof:lastmodified":1582357865,
+    "wof:lastmodified":1684354293,
     "wof:name":"Gmina Gryf\u00f3w \u015al\u0105ski",
     "wof:parent_id":102079649,
     "wof:placetype":"localadmin",
-    "wof:population":6890,
+    "wof:population":9667,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

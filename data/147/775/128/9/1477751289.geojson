@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321630902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Biesiekierz",
+    "eurostat:nuts_2021_id":"1002321630902",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321630902",
+    "eurostat:population":7154,
+    "eurostat:population_year":2020,
     "geom:area":0.016028,
-    "geom:area_square_m":116115758.115393,
+    "geom:area_square_m":116115758.115384,
     "geom:bbox":"15.90953458,54.065529179,16.137471189,54.202627453",
     "geom:latitude":54.1339,
     "geom:longitude":16.022559,
@@ -50,6 +62,8 @@
     "reversegeo:longitude":16.030297,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -57,11 +71,15 @@
         102080199
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321630902",
+        "eurostat:nuts_2021_id":"1002321630902"
+    },
     "wof:coterminous":[
         1125791057
     ],
     "wof:country":"PL",
-    "wof:geomhash":"61c95d1d8a7733f26a219264f03c490e",
+    "wof:geomhash":"f40a14aaf7fa7cd13a1a87912288acd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +90,12 @@
         }
     ],
     "wof:id":1477751289,
-    "wof:lastmodified":1570001940,
+    "wof:lastmodified":1684354350,
     "wof:name":"Biesiekierz",
     "wof:parent_id":102080199,
     "wof:placetype":"localadmin",
+    "wof:population":7154,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

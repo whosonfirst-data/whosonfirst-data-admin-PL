@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301580301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gniezno",
+    "eurostat:nuts_2021_id":"1002301580301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301580301",
+    "eurostat:population":68217,
+    "eurostat:population_year":2020,
     "geom:area":0.005376,
-    "geom:area_square_m":40438422.109425,
+    "geom:area_square_m":40438422.109419,
     "geom:bbox":"17.547734507,52.483004035,17.658836542,52.5667698",
     "geom:latitude":52.527824,
     "geom:longitude":17.601563,
@@ -257,6 +269,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -265,6 +279,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301580301",
+        "eurostat:nuts_2021_id":"1002301580301",
         "gn:id":7532852,
         "qs_pg:id":1063771
     },
@@ -273,7 +289,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"75d7cbcf13e5d8adc18c71f46758c81b",
+    "wof:geomhash":"d061327449acff1655f88df978106167",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -284,10 +300,12 @@
         }
     ],
     "wof:id":1125398833,
-    "wof:lastmodified":1582357918,
+    "wof:lastmodified":1684354320,
     "wof:name":"Gmina Gniezno",
     "wof:parent_id":102079967,
     "wof:placetype":"localadmin",
+    "wof:population":68217,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

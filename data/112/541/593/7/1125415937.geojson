@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181351608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kamie\u0144",
+    "eurostat:nuts_2021_id":"1006181351608",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181351608",
+    "eurostat:population":6860,
+    "eurostat:population_year":2020,
     "geom:area":0.009294,
-    "geom:area_square_m":73375829.998316,
+    "geom:area_square_m":73375829.998299,
     "geom:bbox":"21.998618209,50.278004827,22.211990421,50.370484779",
     "geom:latitude":50.320641,
     "geom:longitude":22.11968,
@@ -77,7 +89,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -90,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181351608",
+        "eurostat:nuts_2021_id":"1006181351608",
         "gn:id":769719,
         "gp:id":12618671,
         "qs_pg:id":248947
@@ -102,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"08901f553844de954e2740a64418857d",
+    "wof:geomhash":"6ef243484d3ae6474fb7900ccecc62db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,12 +128,12 @@
         }
     ],
     "wof:id":1125415937,
-    "wof:lastmodified":1582358007,
+    "wof:lastmodified":1684354339,
     "wof:name":"Kamie\u0144",
     "wof:parent_id":102079585,
     "wof:placetype":"localadmin",
-    "wof:population":2700,
-    "wof:population_rank":4,
+    "wof:population":6860,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321631301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dar\u0142owo",
+    "eurostat:nuts_2021_id":"1002321631301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321631301",
+    "eurostat:population":13695,
+    "eurostat:population_year":2020,
     "geom:area":0.002797,
-    "geom:area_square_m":20124248.098833,
+    "geom:area_square_m":20124248.098832,
     "geom:bbox":"16.359092029,54.40474732,16.46217264,54.452301803",
     "geom:latitude":54.42469,
     "geom:longitude":16.40899,
@@ -162,6 +174,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -174,6 +188,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321631301",
+        "eurostat:nuts_2021_id":"1002321631301",
         "gp:id":24547500,
         "qs_pg:id":954044
     },
@@ -182,7 +198,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5a93f76cc5d1352853e326bd8a3d0dcc",
+    "wof:geomhash":"3ec29d11ba7e62c9fc445884e2e098ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,10 +209,12 @@
         }
     ],
     "wof:id":1125363059,
-    "wof:lastmodified":1582357974,
+    "wof:lastmodified":1684354269,
     "wof:name":"Gmina Dar\u0142owo",
     "wof:parent_id":102080227,
     "wof:placetype":"localadmin",
+    "wof:population":13695,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

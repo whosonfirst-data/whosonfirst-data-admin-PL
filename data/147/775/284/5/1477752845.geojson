@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wr\u0119czyca Wielka",
+    "eurostat:nuts_2021_id":"1001241460609",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460609",
+    "eurostat:population":17774,
+    "eurostat:population_year":2020,
     "geom:area":0.01892,
-    "geom:area_square_m":147743125.155224,
+    "geom:area_square_m":147743125.155245,
     "geom:bbox":"18.755271213,50.766056628,19.042428696,50.904474545",
     "geom:latitude":50.839004,
     "geom:longitude":18.879205,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":18.84112,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079667
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460609",
+        "eurostat:nuts_2021_id":"1001241460609"
+    },
     "wof:coterminous":[
         101823915
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2469dd72d85a1e5c48fdc4be667e89d4",
+    "wof:geomhash":"f409374cc751931366a281809128499d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752845,
-    "wof:lastmodified":1570002644,
+    "wof:lastmodified":1684354432,
     "wof:name":"Wr\u0119czyca Wielka",
     "wof:parent_id":102079667,
     "wof:placetype":"localadmin",
+    "wof:population":17774,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061091503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czemierniki",
+    "eurostat:nuts_2021_id":"1006061091503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061091503",
+    "eurostat:population":4310,
+    "eurostat:population_year":2020,
     "geom:area":0.013965,
-    "geom:area_square_m":107094151.631692,
+    "geom:area_square_m":107094151.631679,
     "geom:bbox":"22.53612712,51.591085455,22.726629068,51.747798588",
     "geom:latitude":51.670355,
     "geom:longitude":22.644444,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":22.644411,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079905
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061091503",
+        "eurostat:nuts_2021_id":"1006061091503"
+    },
     "wof:coterminous":[
         101821695
     ],
     "wof:country":"PL",
-    "wof:geomhash":"1b0d2458a404cf20cf3828d861730eb6",
+    "wof:geomhash":"e24d217186e6321562b774be317560a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751853,
-    "wof:lastmodified":1570004803,
+    "wof:lastmodified":1684354379,
     "wof:name":"Czemierniki",
     "wof:parent_id":102079905,
     "wof:placetype":"localadmin",
+    "wof:population":4310,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

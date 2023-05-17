@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142252404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pu\u0142tusk",
+    "eurostat:nuts_2021_id":"1007142252404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142252404",
+    "eurostat:population":24683,
+    "eurostat:population_year":2020,
     "geom:area":0.017841,
-    "geom:area_square_m":133599371.255943,
+    "geom:area_square_m":133599371.255962,
     "geom:bbox":"20.977583298,52.649728244,21.190629737,52.803772771",
     "geom:latitude":52.728584,
     "geom:longitude":21.075476,
@@ -150,6 +162,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -162,6 +176,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142252404",
+        "eurostat:nuts_2021_id":"1007142252404",
         "gp:id":24548225,
         "qs_pg:id":432445
     },
@@ -170,7 +186,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1d11be02a153e93993375aaeeea98e8f",
+    "wof:geomhash":"2579cb1ce2eb14319ef0371f82bce502",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,10 +197,12 @@
         }
     ],
     "wof:id":1125302285,
-    "wof:lastmodified":1582357877,
+    "wof:lastmodified":1684354194,
     "wof:name":"Gmina Pu\u0142tusk",
     "wof:parent_id":102080027,
     "wof:placetype":"localadmin",
+    "wof:population":24683,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

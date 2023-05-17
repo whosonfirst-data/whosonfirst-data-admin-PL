@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161310103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grodk\u00f3w",
+    "eurostat:nuts_2021_id":"1003161310103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161310103",
+    "eurostat:population":19087,
+    "eurostat:population_year":2020,
     "geom:area":0.036382,
-    "geom:area_square_m":284997302.377628,
+    "geom:area_square_m":284997302.37762,
     "geom:bbox":"17.2064737,50.578815926,17.510583306,50.794918524",
     "geom:latitude":50.690008,
     "geom:longitude":17.353675,
@@ -146,7 +158,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -159,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161310103",
+        "eurostat:nuts_2021_id":"1003161310103",
         "gn:id":3098333,
         "gp:id":24548809,
         "qs_pg:id":335657
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"77abf2fdb1947b65f9e5547f0be9ab4c",
+    "wof:geomhash":"9bc0feec0118fe19c9dd2c300f4cbb2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,12 +194,12 @@
         }
     ],
     "wof:id":1125372189,
-    "wof:lastmodified":1582357839,
+    "wof:lastmodified":1684354285,
     "wof:name":"Gmina Grodk\u00f3w",
     "wof:parent_id":102079631,
     "wof:placetype":"localadmin",
-    "wof:population":8654,
-    "wof:population_rank":5,
+    "wof:population":19087,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

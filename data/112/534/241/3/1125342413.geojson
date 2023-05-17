@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121216101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krak\u00f3w",
+    "eurostat:nuts_2021_id":"1001121216101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL213",
+    "eurostat:nuts_2021_level_lau":"1001121216101",
+    "eurostat:population":779115,
+    "eurostat:population_year":2020,
     "geom:area":0.041031,
-    "geom:area_square_m":325757697.917626,
+    "geom:area_square_m":325757697.917619,
     "geom:bbox":"19.792238,49.967665,20.217346,50.126135",
     "geom:latitude":50.053164,
     "geom:longitude":19.985069,
@@ -470,6 +482,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -477,11 +491,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079481,
-        85687291
+        85687291,
+        102079481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121216101",
+        "eurostat:nuts_2021_id":"1001121216101",
         "gn:id":7531791,
         "gp:id":12618071,
         "qs_pg:id":24130
@@ -495,7 +511,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a1ea4310a40975c23f20f191063825c3",
+    "wof:geomhash":"d6279e8d53c6d428b26b021f77e1532e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -506,10 +522,12 @@
         }
     ],
     "wof:id":1125342413,
-    "wof:lastmodified":1607725473,
+    "wof:lastmodified":1684354251,
     "wof:name":"Gmina Krak\u00f3w",
     "wof:parent_id":102079481,
     "wof:placetype":"localadmin",
+    "wof:population":779115,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

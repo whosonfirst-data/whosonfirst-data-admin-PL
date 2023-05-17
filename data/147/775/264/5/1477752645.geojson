@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241446101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bielsko-Bia\u0142a",
+    "eurostat:nuts_2021_id":"1001241446101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241446101",
+    "eurostat:population":170663,
+    "eurostat:population_year":2020,
     "geom:area":0.015546,
-    "geom:area_square_m":124041207.764445,
+    "geom:area_square_m":124041207.764407,
     "geom:bbox":"18.945377,49.736683,19.132134,49.88744",
     "geom:latitude":49.812979,
     "geom:longitude":19.038902,
@@ -194,19 +206,25 @@
     "reversegeo:longitude":19.045244,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079417,
-        85687277
+        85687277,
+        102079417
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241446101",
+        "eurostat:nuts_2021_id":"1001241446101"
+    },
     "wof:coterminous":[
         101752105,
         102079417
     ],
     "wof:country":"PL",
-    "wof:geomhash":"11994e0a3dabad67b848201e3d5dc003",
+    "wof:geomhash":"6421be9293b6dc3284c9a96018b36a03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -217,10 +235,12 @@
         }
     ],
     "wof:id":1477752645,
-    "wof:lastmodified":1607726397,
+    "wof:lastmodified":1684354420,
     "wof:name":"Bielsko-Bia\u0142a",
     "wof:parent_id":102079417,
     "wof:placetype":"localadmin",
+    "wof:population":170663,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Do\u0142hobycz\u00f3w",
+    "eurostat:nuts_2021_id":"1006061100402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100402",
+    "eurostat:population":5353,
+    "eurostat:population_year":2020,
     "geom:area":0.027228,
-    "geom:area_square_m":213997692.704534,
+    "geom:area_square_m":213997692.70464,
     "geom:bbox":"23.875666083,50.412140345,24.098657232,50.651334799",
     "geom:latitude":50.535262,
     "geom:longitude":24.007253,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":24.03672,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079743
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100402",
+        "eurostat:nuts_2021_id":"1006061100402"
+    },
     "wof:coterminous":[
         101824023
     ],
     "wof:country":"PL",
-    "wof:geomhash":"be471764284513ea03b4063e734222d0",
+    "wof:geomhash":"ee0e7031d5705d45f0aab5e5520597ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752709,
-    "wof:lastmodified":1570002602,
+    "wof:lastmodified":1684354424,
     "wof:name":"Do\u0142hobycz\u00f3w",
     "wof:parent_id":102079743,
     "wof:placetype":"localadmin",
+    "wof:population":5353,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081140408",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siedlisko",
+    "eurostat:nuts_2021_id":"1002081140408",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081140408",
+    "eurostat:population":3580,
+    "eurostat:population_year":2020,
     "geom:area":0.011998,
-    "geom:area_square_m":91817115.318385,
+    "geom:area_square_m":91817115.318383,
     "geom:bbox":"15.768720332,51.718946281,16.008570574,51.811913079",
     "geom:latitude":51.766368,
     "geom:longitude":15.885102,
@@ -69,7 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -82,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081140408",
+        "eurostat:nuts_2021_id":"1002081140408",
         "gn:id":3086054,
         "gp:id":12617598,
         "qs_pg:id":24032
@@ -94,7 +109,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4b5b7a41f5ecaf69bd619734e9b6822d",
+    "wof:geomhash":"00501381c344fb1f530f191a93ed48b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,12 +120,12 @@
         }
     ],
     "wof:id":1125324259,
-    "wof:lastmodified":1582357725,
+    "wof:lastmodified":1684354228,
     "wof:name":"Siedlisko",
     "wof:parent_id":102079825,
     "wof:placetype":"localadmin",
-    "wof:population":1800,
-    "wof:population_rank":3,
+    "wof:population":3580,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

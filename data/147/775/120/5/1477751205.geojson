@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nisko",
+    "eurostat:nuts_2021_id":"1006181361205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361205",
+    "eurostat:population":22358,
+    "eurostat:population_year":2020,
     "geom:area":0.018032,
-    "geom:area_square_m":141881877.339514,
+    "geom:area_square_m":141881877.339563,
     "geom:bbox":"22.058525563,50.402475047,22.263792538,50.553099127",
     "geom:latitude":50.48111,
     "geom:longitude":22.14118,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":22.1257,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079639
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361205",
+        "eurostat:nuts_2021_id":"1006181361205"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"2249258c6733b31803eaecf11e071c47",
+    "wof:geomhash":"39e88f85580daa1d2bc87e1a5955d164",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751205,
-    "wof:lastmodified":1570001559,
+    "wof:lastmodified":1684354346,
     "wof:name":"Gmina Nisko",
     "wof:parent_id":102079639,
     "wof:placetype":"localadmin",
+    "wof:population":22358,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

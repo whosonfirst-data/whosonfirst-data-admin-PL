@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081141002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017baga\u0144",
+    "eurostat:nuts_2021_id":"1002081141002",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081141002",
+    "eurostat:population":25668,
+    "eurostat:population_year":2020,
     "geom:area":0.005239,
-    "geom:area_square_m":40232904.119947,
+    "geom:area_square_m":40232904.119954,
     "geom:bbox":"15.260223913,51.574960524,15.371083815,51.655008226",
     "geom:latitude":51.609597,
     "geom:longitude":15.305488,
@@ -225,6 +237,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -237,6 +251,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081141002",
+        "eurostat:nuts_2021_id":"1002081141002",
         "gp:id":12618061,
         "qs_pg:id":1081234
     },
@@ -245,7 +261,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0386310e891f30d5dc238b590efdf991",
+    "wof:geomhash":"6a90b4f77c0efbb530d561f561ad5515",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -256,10 +272,12 @@
         }
     ],
     "wof:id":1125280565,
-    "wof:lastmodified":1582357781,
+    "wof:lastmodified":1684354148,
     "wof:name":"Gmina \u017baga\u0144",
     "wof:parent_id":102079759,
     "wof:placetype":"localadmin",
+    "wof:population":25668,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

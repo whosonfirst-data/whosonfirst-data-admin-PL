@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380509",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Narewka",
+    "eurostat:nuts_2021_id":"1006201380509",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380509",
+    "eurostat:population":3609,
+    "eurostat:population_year":2020,
     "geom:area":0.045217,
-    "geom:area_square_m":337658952.442993,
+    "geom:area_square_m":337658952.443007,
     "geom:bbox":"23.591567487,52.753009259,23.939565262,52.946639328",
     "geom:latitude":52.848803,
     "geom:longitude":23.772616,
@@ -102,6 +114,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -114,6 +128,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380509",
+        "eurostat:nuts_2021_id":"1006201380509",
         "gp:id":12616987,
         "qs_pg:id":396252
     },
@@ -125,7 +141,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8d901395ce2d271fdb5af022213ee7f9",
+    "wof:geomhash":"1d9927d741eb7f445aebb0e24f19a4e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +152,12 @@
         }
     ],
     "wof:id":1125398689,
-    "wof:lastmodified":1582357907,
+    "wof:lastmodified":1684354319,
     "wof:name":"Narewka",
     "wof:parent_id":102080091,
     "wof:placetype":"localadmin",
+    "wof:population":3609,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

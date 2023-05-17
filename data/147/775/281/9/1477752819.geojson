@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181340405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laszki",
+    "eurostat:nuts_2021_id":"1006181340405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181340405",
+    "eurostat:population":6922,
+    "eurostat:population_year":2020,
     "geom:area":0.017314,
-    "geom:area_square_m":137542754.40268,
+    "geom:area_square_m":137542754.402634,
     "geom:bbox":"22.769550736,49.96396268,23.071132595,50.077887669",
     "geom:latitude":50.025082,
     "geom:longitude":22.916056,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":22.943292,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079573
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181340405",
+        "eurostat:nuts_2021_id":"1006181340405"
+    },
     "wof:coterminous":[
         101825033
     ],
     "wof:country":"PL",
-    "wof:geomhash":"304ad8d584646c743c7cbc4c387e17be",
+    "wof:geomhash":"3b60fef5a35a997901d56a28cc48e6ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477752819,
-    "wof:lastmodified":1570000416,
+    "wof:lastmodified":1684354431,
     "wof:name":"Laszki",
     "wof:parent_id":102079573,
     "wof:placetype":"localadmin",
+    "wof:population":6922,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

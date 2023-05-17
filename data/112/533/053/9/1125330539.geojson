@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szklarska Por\u0119ba",
+    "eurostat:nuts_2021_id":"1003021010604",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010604",
+    "eurostat:population":6633,
+    "eurostat:population_year":2020,
     "geom:area":0.009624,
-    "geom:area_square_m":75180602.345005,
+    "geom:area_square_m":75180602.344998,
     "geom:bbox":"15.366173395,50.775475506,15.566669041,50.853129678",
     "geom:latitude":50.818788,
     "geom:longitude":15.462612,
@@ -132,6 +144,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -144,6 +158,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010604",
+        "eurostat:nuts_2021_id":"1003021010604",
         "gp:id":12618889,
         "qs_pg:id":1115793
     },
@@ -155,7 +171,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b92dffcc4b0575f1b25a1aba6ff171fe",
+    "wof:geomhash":"91aacc1fe8abb713bf105bd5ac8db30b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +182,12 @@
         }
     ],
     "wof:id":1125330539,
-    "wof:lastmodified":1582357682,
+    "wof:lastmodified":1684354241,
     "wof:name":"Szklarska Por\u0119ba",
     "wof:parent_id":102079617,
     "wof:placetype":"localadmin",
+    "wof:population":6633,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

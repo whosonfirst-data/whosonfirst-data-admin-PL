@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marcisz\u00f3w",
+    "eurostat:nuts_2021_id":"1003021010704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010704",
+    "eurostat:population":4513,
+    "eurostat:population_year":2020,
     "geom:area":0.010411,
-    "geom:area_square_m":81267875.735632,
+    "geom:area_square_m":81267875.735654,
     "geom:bbox":"15.941330831,50.802022799,16.122664791,50.913459696",
     "geom:latitude":50.85593,
     "geom:longitude":16.019299,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":16.020671,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079601
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010704",
+        "eurostat:nuts_2021_id":"1003021010704"
+    },
     "wof:coterminous":[
         1125811337
     ],
     "wof:country":"PL",
-    "wof:geomhash":"8b8b145d37f045ea91b7465d7763997e",
+    "wof:geomhash":"503c169d78f603bd23dc87729ba30545",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751623,
-    "wof:lastmodified":1570002132,
+    "wof:lastmodified":1684354367,
     "wof:name":"Marcisz\u00f3w",
     "wof:parent_id":102079601,
     "wof:placetype":"localadmin",
+    "wof:population":4513,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

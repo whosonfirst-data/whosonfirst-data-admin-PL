@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gomunice",
+    "eurostat:nuts_2021_id":"1005101171204",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171204",
+    "eurostat:population":5860,
+    "eurostat:population_year":2020,
     "geom:area":0.008023,
-    "geom:area_square_m":62223502.207195,
+    "geom:area_square_m":62223502.207213,
     "geom:bbox":"19.423833583,51.104287636,19.594530302,51.200445506",
     "geom:latitude":51.155516,
     "geom:longitude":19.520253,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":19.528584,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079711
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171204",
+        "eurostat:nuts_2021_id":"1005101171204"
+    },
     "wof:coterminous":[
         1477864969
     ],
     "wof:country":"PL",
-    "wof:geomhash":"8d0a2df2f98eb757892c6eadfe0b3e84",
+    "wof:geomhash":"9b39e0a39e62a86fd05efe47f6d5fd83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751665,
-    "wof:lastmodified":1569999176,
+    "wof:lastmodified":1684354369,
     "wof:name":"Gomunice",
     "wof:parent_id":102079711,
     "wof:placetype":"localadmin",
+    "wof:population":5860,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

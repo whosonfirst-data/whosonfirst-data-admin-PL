@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241496701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jastrz\u0119bie-Zdr\u00f3j",
+    "eurostat:nuts_2021_id":"1001241496701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL227",
+    "eurostat:nuts_2021_level_lau":"1001241496701",
+    "eurostat:population":88743,
+    "eurostat:population_year":2020,
     "geom:area":0.010691,
-    "geom:area_square_m":85057418.567676,
+    "geom:area_square_m":85057418.567656,
     "geom:bbox":"18.5144,49.896575,18.686667,50.024683",
     "geom:latitude":49.955072,
     "geom:longitude":18.613845,
@@ -198,6 +210,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -205,11 +219,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079435,
-        85687277
+        85687277,
+        102079435
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241496701",
+        "eurostat:nuts_2021_id":"1001241496701",
         "gp:id":12618444,
         "qs_pg:id":43750
     },
@@ -222,7 +238,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0677b5323e4e3538e887df90f9209a8b",
+    "wof:geomhash":"a2712b65a5c320aae4e21b231d745806",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -233,10 +249,12 @@
         }
     ],
     "wof:id":1125326875,
-    "wof:lastmodified":1607725541,
+    "wof:lastmodified":1684354236,
     "wof:name":"Jastrz\u0119bie-Zdr\u00f3j",
     "wof:parent_id":102079435,
     "wof:placetype":"localadmin",
+    "wof:population":88743,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121230305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trzebinia",
+    "eurostat:nuts_2021_id":"1001121230305",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL21A",
+    "eurostat:nuts_2021_level_lau":"1001121230305",
+    "eurostat:population":33781,
+    "eurostat:population_year":2020,
     "geom:area":0.013255,
-    "geom:area_square_m":104978921.879569,
+    "geom:area_square_m":104978921.879554,
     "geom:bbox":"19.38743195,50.103466531,19.589009143,50.229134974",
     "geom:latitude":50.172156,
     "geom:longitude":19.483237,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121230305",
+        "eurostat:nuts_2021_id":"1001121230305",
         "gp:id":12617908,
         "qs_pg:id":43643
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"108e3e7bb08c1246f3933e078300c8ef",
+    "wof:geomhash":"a896a9b8ea97e00a27b5ec98651b1012",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125326729,
-    "wof:lastmodified":1582357723,
+    "wof:lastmodified":1684354235,
     "wof:name":"Gmina Trzebinia",
     "wof:parent_id":102079495,
     "wof:placetype":"localadmin",
+    "wof:population":33781,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

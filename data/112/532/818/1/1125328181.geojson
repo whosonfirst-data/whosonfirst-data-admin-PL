@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061102004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krasnobr\u00f3d",
+    "eurostat:nuts_2021_id":"1006061102004",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061102004",
+    "eurostat:population":7097,
+    "eurostat:population_year":2020,
     "geom:area":0.01609,
-    "geom:area_square_m":126453210.432971,
+    "geom:area_square_m":126453210.43302,
     "geom:bbox":"23.02999438,50.474167916,23.326797667,50.584228349",
     "geom:latitude":50.535489,
     "geom:longitude":23.205419,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061102004",
+        "eurostat:nuts_2021_id":"1006061102004",
         "gn:id":767619,
         "gp:id":24548675,
         "qs_pg:id":1113173
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"95dec155a97d3b94557f0cc8fa671fcc",
+    "wof:geomhash":"a0d99a78664af268d1cac14743744ae7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125328181,
-    "wof:lastmodified":1582357723,
+    "wof:lastmodified":1684354238,
     "wof:name":"Gmina Krasnobr\u00f3d",
     "wof:parent_id":102079715,
     "wof:placetype":"localadmin",
-    "wof:population":3075,
-    "wof:population_rank":4,
+    "wof:population":7097,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

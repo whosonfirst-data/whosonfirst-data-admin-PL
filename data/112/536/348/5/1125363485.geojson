@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101170106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rusiec",
+    "eurostat:nuts_2021_id":"1005101170106",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101170106",
+    "eurostat:population":5080,
+    "eurostat:population_year":2020,
     "geom:area":0.012882,
     "geom:area_square_m":99551003.381779,
     "geom:bbox":"18.855769554,51.268741094,19.077458778,51.366488299",
@@ -87,7 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -100,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101170106",
+        "eurostat:nuts_2021_id":"1005101170106",
         "gn:id":3086654,
         "gp:id":12616866,
         "qs_pg:id":954925
@@ -112,7 +127,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5088dc0302169ba076941b754f6de7e0",
+    "wof:geomhash":"72819a36248b7ea6eda7fff68c4e6504",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,12 +138,12 @@
         }
     ],
     "wof:id":1125363485,
-    "wof:lastmodified":1582357970,
+    "wof:lastmodified":1684354270,
     "wof:name":"Rusiec",
     "wof:parent_id":102079763,
     "wof:placetype":"localadmin",
-    "wof:population":1500,
-    "wof:population_rank":3,
+    "wof:population":5080,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

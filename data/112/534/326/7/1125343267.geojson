@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021030810",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mi\u0119dzylesie",
+    "eurostat:nuts_2021_id":"1003021030810",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021030810",
+    "eurostat:population":7168,
+    "eurostat:population_year":2020,
     "geom:area":0.023754,
-    "geom:area_square_m":188122091.654994,
+    "geom:area_square_m":188122091.65499,
     "geom:bbox":"16.554394175,50.096330625,16.836088131,50.245532901",
     "geom:latitude":50.173452,
     "geom:longitude":16.6799,
@@ -84,6 +96,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021030810",
+        "eurostat:nuts_2021_id":"1003021030810",
         "gp:id":24547606,
         "qs_pg:id":1319428
     },
@@ -104,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fbeacf0668c0dde3e702c921e0a6757b",
+    "wof:geomhash":"061c8f98bc438f295f87571004bbca3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +131,12 @@
         }
     ],
     "wof:id":1125343267,
-    "wof:lastmodified":1582357698,
+    "wof:lastmodified":1684354252,
     "wof:name":"Gmina Mi\u0119dzylesie",
     "wof:parent_id":102079559,
     "wof:placetype":"localadmin",
+    "wof:population":7168,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

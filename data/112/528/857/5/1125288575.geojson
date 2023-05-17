@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101190203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u0105browice",
+    "eurostat:nuts_2021_id":"1005101190203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL715",
+    "eurostat:nuts_2021_level_lau":"1005101190203",
+    "eurostat:population":1902,
+    "eurostat:population_year":2020,
     "geom:area":0.006081,
     "geom:area_square_m":45974455.220861,
     "geom:bbox":"19.030149336,52.26936661,19.145087578,52.347929069",
@@ -73,7 +85,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -86,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101190203",
+        "eurostat:nuts_2021_id":"1005101190203",
         "gn:id":3100772,
         "gp:id":12616955,
         "qs_pg:id":23913
@@ -98,7 +113,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3c59345b2c8aaec70df44725cb4bd652",
+    "wof:geomhash":"4079ea90dcae0f3544408b717bf7a8d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,11 +124,11 @@
         }
     ],
     "wof:id":1125288575,
-    "wof:lastmodified":1582357763,
+    "wof:lastmodified":1684354161,
     "wof:name":"D\u0105browice",
     "wof:parent_id":102079929,
     "wof:placetype":"localadmin",
-    "wof:population":1300,
+    "wof:population":1902,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

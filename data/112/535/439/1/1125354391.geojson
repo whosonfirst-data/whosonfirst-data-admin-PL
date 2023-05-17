@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121231808",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tomice",
+    "eurostat:nuts_2021_id":"1001121231808",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL21A",
+    "eurostat:nuts_2021_level_lau":"1001121231808",
+    "eurostat:population":8174,
+    "eurostat:population_year":2020,
     "geom:area":0.005201,
-    "geom:area_square_m":41403457.82913,
+    "geom:area_square_m":41403457.829134,
     "geom:bbox":"19.445057917,49.892169417,19.588950753,49.958323309",
     "geom:latitude":49.923645,
     "geom:longitude":19.503815,
@@ -75,7 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -88,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121231808",
+        "eurostat:nuts_2021_id":"1001121231808",
         "gn:id":3083320,
         "gp:id":12618855,
         "qs_pg:id":287026
@@ -100,7 +115,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7f4f0081533e6171ff28ccad2a167bb0",
+    "wof:geomhash":"a57a58c710517791bfc72fabe2aa9a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,12 +126,12 @@
         }
     ],
     "wof:id":1125354391,
-    "wof:lastmodified":1582357704,
+    "wof:lastmodified":1684354261,
     "wof:name":"Tomice",
     "wof:parent_id":102079451,
     "wof:placetype":"localadmin",
-    "wof:population":2185,
-    "wof:population_rank":4,
+    "wof:population":8174,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

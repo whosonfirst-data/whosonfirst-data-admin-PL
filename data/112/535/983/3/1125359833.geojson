@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041066101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bydgoszcz",
+    "eurostat:nuts_2021_id":"1004041066101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL613",
+    "eurostat:nuts_2021_level_lau":"1004041066101",
+    "eurostat:population":348190,
+    "eurostat:population_year":2020,
     "geom:area":0.023626,
-    "geom:area_square_m":175281672.613858,
+    "geom:area_square_m":175281672.613837,
     "geom:bbox":"17.874166,53.05011,18.202598,53.209344",
     "geom:latitude":53.131291,
     "geom:longitude":18.052585,
@@ -311,6 +323,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -318,11 +332,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080051,
-        85687319
+        85687319,
+        102080051
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041066101",
+        "eurostat:nuts_2021_id":"1004041066101",
         "gn:id":7531378,
         "gp:id":12618567,
         "qs_pg:id":1163048
@@ -336,7 +352,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e2f8fc1e8bc2d957b59ef5a789a6620b",
+    "wof:geomhash":"64fc748ae2fcc2e60824811f1ae42eb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -347,10 +363,12 @@
         }
     ],
     "wof:id":1125359833,
-    "wof:lastmodified":1607725505,
+    "wof:lastmodified":1684354266,
     "wof:name":"Bydgoszcz",
     "wof:parent_id":102080051,
     "wof:placetype":"localadmin",
+    "wof:population":348190,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

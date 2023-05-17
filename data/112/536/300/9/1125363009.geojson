@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321660503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Karnice",
+    "eurostat:nuts_2021_id":"1002321660503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321660503",
+    "eurostat:population":3977,
+    "eurostat:population_year":2020,
     "geom:area":0.018248,
-    "geom:area_square_m":132551109.471505,
+    "geom:area_square_m":132551109.471491,
     "geom:bbox":"14.953732201,53.960772784,15.208862878,54.093751417",
     "geom:latitude":54.025107,
     "geom:longitude":15.079309,
@@ -66,7 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -79,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321660503",
+        "eurostat:nuts_2021_id":"1002321660503",
         "gn:id":3096613,
         "gp:id":12618352,
         "qs_pg:id":1166312
@@ -91,7 +106,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4d9fe5e698443e4c8291c8a7e4b406b2",
+    "wof:geomhash":"26563bc8b21ac3df9677d18859e53ef5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,12 +117,12 @@
         }
     ],
     "wof:id":1125363009,
-    "wof:lastmodified":1582357963,
+    "wof:lastmodified":1684354269,
     "wof:name":"Karnice",
     "wof:parent_id":102080165,
     "wof:placetype":"localadmin",
-    "wof:population":771,
-    "wof:population_rank":2,
+    "wof:population":3977,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

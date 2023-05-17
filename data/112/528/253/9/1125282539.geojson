@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201370212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tykocin",
+    "eurostat:nuts_2021_id":"1006201370212",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201370212",
+    "eurostat:population":6194,
+    "eurostat:population_year":2020,
     "geom:area":0.027876,
-    "geom:area_square_m":206531631.469474,
+    "geom:area_square_m":206531631.469498,
     "geom:bbox":"22.607900472,53.113662647,22.909183566,53.277304722",
     "geom:latitude":53.18965,
     "geom:longitude":22.758278,
@@ -176,7 +188,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -189,6 +202,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201370212",
+        "eurostat:nuts_2021_id":"1006201370212",
         "gn:id":756484,
         "gp:id":24548145,
         "qs_pg:id":1083394
@@ -202,7 +217,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ef926fc463a00435a1dc1434d834afce",
+    "wof:geomhash":"4f8b243d34092834ea5c57ad44a6d18a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -213,12 +228,12 @@
         }
     ],
     "wof:id":1125282539,
-    "wof:lastmodified":1582357779,
+    "wof:lastmodified":1684354151,
     "wof:name":"Gmina Tykocin",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",
-    "wof:population":1907,
-    "wof:population_rank":3,
+    "wof:population":6194,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

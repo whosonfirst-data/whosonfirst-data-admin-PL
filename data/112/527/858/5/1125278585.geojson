@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301581010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sompolno",
+    "eurostat:nuts_2021_id":"1002301581010",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301581010",
+    "eurostat:population":10380,
+    "eurostat:population_year":2020,
     "geom:area":0.018124,
-    "geom:area_square_m":136882964.356853,
+    "geom:area_square_m":136882964.356841,
     "geom:bbox":"18.403578569,52.294990912,18.629611516,52.419789235",
     "geom:latitude":52.353906,
     "geom:longitude":18.518443,
@@ -150,7 +162,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -163,6 +176,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301581010",
+        "eurostat:nuts_2021_id":"1002301581010",
         "gn:id":3085158,
         "gp:id":24547678,
         "qs_pg:id":145567
@@ -172,7 +187,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"78616764a0e651ef537725a6719e3a07",
+    "wof:geomhash":"70ff5349494f52bbf436e1ce521f1bf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,12 +198,12 @@
         }
     ],
     "wof:id":1125278585,
-    "wof:lastmodified":1582357796,
+    "wof:lastmodified":1684354146,
     "wof:name":"Gmina Sompolno",
     "wof:parent_id":102079943,
     "wof:placetype":"localadmin",
-    "wof:population":3610,
-    "wof:population_rank":4,
+    "wof:population":10380,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

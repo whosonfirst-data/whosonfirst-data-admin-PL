@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081141102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017bary",
+    "eurostat:nuts_2021_id":"1002081141102",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081141102",
+    "eurostat:population":37304,
+    "eurostat:population_year":2020,
     "geom:area":0.004315,
-    "geom:area_square_m":33121819.693067,
+    "geom:area_square_m":33121819.693078,
     "geom:bbox":"15.082780838,51.584803044,15.208075777,51.664376041",
     "geom:latitude":51.626511,
     "geom:longitude":15.150177,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":15.138878,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079779
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002081141102",
+        "eurostat:nuts_2021_id":"1002081141102"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"f09932f1d8dd234b7c5e888f0a0a95c4",
+    "wof:geomhash":"5aac75448e01346cfa9afda61e5dd2d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752595,
-    "wof:lastmodified":1570000607,
+    "wof:lastmodified":1684354418,
     "wof:name":"Gmina \u017bary",
     "wof:parent_id":102079779,
     "wof:placetype":"localadmin",
+    "wof:population":37304,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

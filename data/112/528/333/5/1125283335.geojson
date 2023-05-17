@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181330702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dukla",
+    "eurostat:nuts_2021_id":"1006181330702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181330702",
+    "eurostat:population":14554,
+    "eurostat:population_year":2020,
     "geom:area":0.029192,
-    "geom:area_square_m":234385036.458497,
+    "geom:area_square_m":234385036.458566,
     "geom:bbox":"21.569567,49.389128,21.792572,49.631316",
     "geom:latitude":49.508697,
     "geom:longitude":21.680094,
@@ -90,6 +102,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -97,11 +111,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079455,
-        85687295
+        85687295,
+        102079455
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181330702",
+        "eurostat:nuts_2021_id":"1006181330702",
         "gp:id":24548458,
         "qs_pg:id":772352
     },
@@ -113,7 +129,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d785c64bdd01b02df716a8ab8dafb905",
+    "wof:geomhash":"508be4667f5897f18dfdd5d624e5e277",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":1125283335,
-    "wof:lastmodified":1607726572,
+    "wof:lastmodified":1684354154,
     "wof:name":"Gmina Dukla",
     "wof:parent_id":102079455,
     "wof:placetype":"localadmin",
+    "wof:population":14554,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

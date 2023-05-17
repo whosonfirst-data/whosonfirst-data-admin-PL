@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dziadowa K\u0142oda",
+    "eurostat:nuts_2021_id":"1003021041404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041404",
+    "eurostat:population":4598,
+    "eurostat:population_year":2020,
     "geom:area":0.013552,
-    "geom:area_square_m":104968667.95555,
+    "geom:area_square_m":104968667.955543,
     "geom:bbox":"17.588062784,51.160815262,17.79526917,51.271321917",
     "geom:latitude":51.213909,
     "geom:longitude":17.680067,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":17.67168,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079717
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041404",
+        "eurostat:nuts_2021_id":"1003021041404"
+    },
     "wof:coterminous":[
         1125906843
     ],
     "wof:country":"PL",
-    "wof:geomhash":"3428340c6ae108a12e17162619abc2cb",
+    "wof:geomhash":"a35485cbecc8197633b61deae4876c16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751281,
-    "wof:lastmodified":1570001950,
+    "wof:lastmodified":1684354350,
     "wof:name":"Dziadowa K\u0142oda",
     "wof:parent_id":102079717,
     "wof:placetype":"localadmin",
+    "wof:population":4598,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

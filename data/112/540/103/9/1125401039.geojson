@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041081811",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lubie\u0144 Kujawski",
+    "eurostat:nuts_2021_id":"1004041081811",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041081811",
+    "eurostat:population":7325,
+    "eurostat:population_year":2020,
     "geom:area":0.019927,
-    "geom:area_square_m":150302195.750308,
+    "geom:area_square_m":150302195.750309,
     "geom:bbox":"19.067350597,52.340788737,19.297991303,52.48059702",
     "geom:latitude":52.411108,
     "geom:longitude":19.173108,
@@ -152,7 +164,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -165,6 +178,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041081811",
+        "eurostat:nuts_2021_id":"1004041081811",
         "gn:id":3092950,
         "gp:id":24547410,
         "qs_pg:id":1026193
@@ -174,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"26bd519ae2c51a5c831348088f1c9b59",
+    "wof:geomhash":"b39e65be9c7077d18706bdb677162bc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,12 +200,12 @@
         }
     ],
     "wof:id":1125401039,
-    "wof:lastmodified":1582357992,
+    "wof:lastmodified":1684354325,
     "wof:name":"Gmina Lubie\u0144 Kujawski",
     "wof:parent_id":102079997,
     "wof:placetype":"localadmin",
-    "wof:population":1293,
-    "wof:population_rank":3,
+    "wof:population":7325,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181340402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radymno",
+    "eurostat:nuts_2021_id":"1006181340402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181340402",
+    "eurostat:population":5273,
+    "eurostat:population_year":2020,
     "geom:area":0.001706,
-    "geom:area_square_m":13575464.435387,
+    "geom:area_square_m":13575464.435388,
     "geom:bbox":"22.786913964,49.931250283,22.872490796,49.976728415",
     "geom:latitude":49.954264,
     "geom:longitude":22.827436,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":22.826783,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079573
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181340402",
+        "eurostat:nuts_2021_id":"1006181340402"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"775c2276932e72c31ee71cc099828425",
+    "wof:geomhash":"c8ef34799f155cec3874967a1c52ac54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752689,
-    "wof:lastmodified":1570000475,
+    "wof:lastmodified":1684354422,
     "wof:name":"Gmina Radymno",
     "wof:parent_id":102079573,
     "wof:placetype":"localadmin",
+    "wof:population":5273,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

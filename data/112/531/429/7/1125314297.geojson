@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241440311",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strumie\u0144",
+    "eurostat:nuts_2021_id":"1001241440311",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241440311",
+    "eurostat:population":13272,
+    "eurostat:population_year":2020,
     "geom:area":0.007322,
-    "geom:area_square_m":58332197.528739,
+    "geom:area_square_m":58332197.528738,
     "geom:bbox":"18.655686872,49.84077537,18.802748396,49.938139881",
     "geom:latitude":49.885043,
     "geom:longitude":18.73185,
@@ -131,7 +143,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -144,6 +157,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241440311",
+        "eurostat:nuts_2021_id":"1001241440311",
         "gn:id":3084483,
         "gp:id":24548664,
         "qs_pg:id":1205696
@@ -153,7 +168,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"330087bd47751983d0de549d0359fee5",
+    "wof:geomhash":"bee158a55d9d9f869f94d6fecde122e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,12 +179,12 @@
         }
     ],
     "wof:id":1125314297,
-    "wof:lastmodified":1582357957,
+    "wof:lastmodified":1684354218,
     "wof:name":"Gmina Strumie\u0144",
     "wof:parent_id":102079421,
     "wof:placetype":"localadmin",
-    "wof:population":3419,
-    "wof:population_rank":4,
+    "wof:population":13272,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

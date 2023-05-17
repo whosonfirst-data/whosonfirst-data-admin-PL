@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301581014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wilczyn",
+    "eurostat:nuts_2021_id":"1002301581014",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301581014",
+    "eurostat:population":6202,
+    "eurostat:population_year":2020,
     "geom:area":0.010995,
-    "geom:area_square_m":82838714.179841,
+    "geom:area_square_m":82838714.179847,
     "geom:bbox":"18.071543557,52.408480739,18.272113493,52.509507605",
     "geom:latitude":52.460224,
     "geom:longitude":18.18142,
@@ -65,7 +77,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -78,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301581014",
+        "eurostat:nuts_2021_id":"1002301581014",
         "gn:id":3081973,
         "gp:id":12617569,
         "qs_pg:id":1178175
@@ -90,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0d7fd92ada88d65e2d9a0d38cae8255d",
+    "wof:geomhash":"89b6e51d03a9858fd31e2f574dcaaa19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,12 +116,12 @@
         }
     ],
     "wof:id":1125365993,
-    "wof:lastmodified":1582357973,
+    "wof:lastmodified":1684354275,
     "wof:name":"Wilczyn",
     "wof:parent_id":102079943,
     "wof:placetype":"localadmin",
-    "wof:population":1200,
-    "wof:population_rank":3,
+    "wof:population":6202,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

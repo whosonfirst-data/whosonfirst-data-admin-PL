@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301582702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brudzew",
+    "eurostat:nuts_2021_id":"1002301582702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301582702",
+    "eurostat:population":5966,
+    "eurostat:population_year":2020,
     "geom:area":0.01477,
-    "geom:area_square_m":112226537.13194,
+    "geom:area_square_m":112226537.131943,
     "geom:bbox":"18.497621053,52.0350611,18.722482177,52.136776486",
     "geom:latitude":52.086527,
     "geom:longitude":18.613305,
@@ -68,7 +80,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -81,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301582702",
+        "eurostat:nuts_2021_id":"1002301582702",
         "gn:id":3102510,
         "gp:id":12617851,
         "qs_pg:id":1172336
@@ -93,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"181f1157d5685d90988ceb7286caeba5",
+    "wof:geomhash":"9f691ec3a8302879d7f99b578558c8b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,12 +119,12 @@
         }
     ],
     "wof:id":1125364627,
-    "wof:lastmodified":1582357969,
+    "wof:lastmodified":1684354272,
     "wof:name":"Brudzew",
     "wof:parent_id":102079883,
     "wof:placetype":"localadmin",
-    "wof:population":1620,
-    "wof:population_rank":3,
+    "wof:population":5966,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

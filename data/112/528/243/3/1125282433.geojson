@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101181402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"B\u0142aszki",
+    "eurostat:nuts_2021_id":"1005101181402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101181402",
+    "eurostat:population":14458,
+    "eurostat:population_year":2020,
     "geom:area":0.026144,
-    "geom:area_square_m":200632276.241348,
+    "geom:area_square_m":200632276.24138,
     "geom:bbox":"18.348663122,51.54152372,18.55136332,51.741505324",
     "geom:latitude":51.637679,
     "geom:longitude":18.448171,
@@ -159,7 +171,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -172,6 +185,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101181402",
+        "eurostat:nuts_2021_id":"1005101181402",
         "gn:id":3103261,
         "gp:id":24548381,
         "qs_pg:id":993388
@@ -181,7 +196,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"410150c9f1521114cecb8e9c7496849a",
+    "wof:geomhash":"b28181298982b3a388edc2b11edaecf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,12 +207,12 @@
         }
     ],
     "wof:id":1125282433,
-    "wof:lastmodified":1582357760,
+    "wof:lastmodified":1684354150,
     "wof:name":"Gmina B\u0142aszki",
     "wof:parent_id":102079819,
     "wof:placetype":"localadmin",
-    "wof:population":2132,
-    "wof:population_rank":4,
+    "wof:population":14458,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

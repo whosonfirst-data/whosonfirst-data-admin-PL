@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281551602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orzysz",
+    "eurostat:nuts_2021_id":"1004281551602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL623",
+    "eurostat:nuts_2021_level_lau":"1004281551602",
+    "eurostat:population":8863,
+    "eurostat:population_year":2020,
     "geom:area":0.04944,
-    "geom:area_square_m":360987650.050286,
+    "geom:area_square_m":360987650.050333,
     "geom:bbox":"21.687493192,53.712115255,22.193750077,53.90260414",
     "geom:latitude":53.807814,
     "geom:longitude":21.932337,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281551602",
+        "eurostat:nuts_2021_id":"1004281551602",
         "gn:id":763028,
         "gp:id":24547973,
         "qs_pg:id":1197772
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bc4d169da9445538d20a8aa345a15e04",
+    "wof:geomhash":"66afaf86dfd4416d729bdbe7dd655d62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,11 +188,11 @@
         }
     ],
     "wof:id":1125281859,
-    "wof:lastmodified":1582357788,
+    "wof:lastmodified":1684354149,
     "wof:name":"Gmina Orzysz",
     "wof:parent_id":102080195,
     "wof:placetype":"localadmin",
-    "wof:population":5998,
+    "wof:population":8863,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

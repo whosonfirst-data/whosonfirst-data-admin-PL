@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021020402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jemielno",
+    "eurostat:nuts_2021_id":"1003021020402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021020402",
+    "eurostat:population":2997,
+    "eurostat:population_year":2020,
     "geom:area":0.016075,
     "geom:area_square_m":123579501.38574,
     "geom:bbox":"16.385178765,51.498959328,16.644867694,51.627933741",
@@ -89,6 +101,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021020402",
+        "eurostat:nuts_2021_id":"1003021020402",
         "gn:id":3097232,
         "gp:id":12618775,
         "qs_pg:id":1019271
@@ -113,7 +129,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8da975492c17903f561558dce2296b3f",
+    "wof:geomhash":"bdab02d2098535a4b4f16fd0234bbd26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":1125393637,
-    "wof:lastmodified":1582357904,
+    "wof:lastmodified":1684354313,
     "wof:name":"Jemielno",
     "wof:parent_id":102079771,
     "wof:placetype":"localadmin",
+    "wof:population":2997,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

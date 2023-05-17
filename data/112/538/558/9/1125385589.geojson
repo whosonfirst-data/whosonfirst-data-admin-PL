@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041681407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osie",
+    "eurostat:nuts_2021_id":"1004041681407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL618",
+    "eurostat:nuts_2021_level_lau":"1004041681407",
+    "eurostat:population":5496,
+    "eurostat:population_year":2020,
     "geom:area":0.028464,
-    "geom:area_square_m":208740027.922368,
+    "geom:area_square_m":208740027.922404,
     "geom:bbox":"18.153410494,53.51834684,18.443400992,53.709489644",
     "geom:latitude":53.624699,
     "geom:longitude":18.304937,
@@ -60,6 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041681407",
+        "eurostat:nuts_2021_id":"1004041681407",
         "gp:id":12618180,
         "qs_pg:id":1015651
     },
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"133351a796fbbc70be724e9ce35745c1",
+    "wof:geomhash":"6ede413f294cafc3aacf83fe622d59e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":1125385589,
-    "wof:lastmodified":1582357927,
+    "wof:lastmodified":1684354303,
     "wof:name":"Osie",
     "wof:parent_id":102080137,
     "wof:placetype":"localadmin",
+    "wof:population":5496,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

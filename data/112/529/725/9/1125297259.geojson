@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241491201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czerwionka-Leszczyny",
+    "eurostat:nuts_2021_id":"1001241491201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL227",
+    "eurostat:nuts_2021_level_lau":"1001241491201",
+    "eurostat:population":42121,
+    "eurostat:population_year":2020,
     "geom:area":0.014412,
-    "geom:area_square_m":114231573.005827,
+    "geom:area_square_m":114231573.00582,
     "geom:bbox":"18.551844636,50.065766793,18.752786501,50.201911011",
     "geom:latitude":50.134421,
     "geom:longitude":18.668872,
@@ -110,7 +122,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -123,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241491201",
+        "eurostat:nuts_2021_id":"1001241491201",
         "gn:id":3100974,
         "gp:id":24548637,
         "qs_pg:id":1218784
@@ -132,7 +147,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7da8c8de5076003215d6912b8ab79617",
+    "wof:geomhash":"f97d7586e9ede7b0231d3fb2b6dc58fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,11 +158,11 @@
         }
     ],
     "wof:id":1125297259,
-    "wof:lastmodified":1582357815,
+    "wof:lastmodified":1684354189,
     "wof:name":"Gmina Czerwionka-Leszczyny",
     "wof:parent_id":102079459,
     "wof:placetype":"localadmin",
-    "wof:population":28740,
+    "wof:population":42121,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

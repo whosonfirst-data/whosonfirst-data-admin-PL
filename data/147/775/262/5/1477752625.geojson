@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321630103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Karlino",
+    "eurostat:nuts_2021_id":"1002321630103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321630103",
+    "eurostat:population":9137,
+    "eurostat:population_year":2020,
     "geom:area":0.019342,
-    "geom:area_square_m":140431031.383031,
+    "geom:area_square_m":140431031.38304,
     "geom:bbox":"15.720099402,53.953830633,15.952587901,54.145655473",
     "geom:latitude":54.044482,
     "geom:longitude":15.828499,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":15.801166,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102080173
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321630103",
+        "eurostat:nuts_2021_id":"1002321630103"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"2f9ef4e63e62c12eb63279535cd5f017",
+    "wof:geomhash":"283aa252f39444056d8b1adddce35b89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752625,
-    "wof:lastmodified":1570003658,
+    "wof:lastmodified":1684354419,
     "wof:name":"Gmina Karlino",
     "wof:parent_id":102080173,
     "wof:placetype":"localadmin",
+    "wof:population":9137,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szczytno",
+    "eurostat:nuts_2021_id":"1004281561706",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561706",
+    "eurostat:population":13095,
+    "eurostat:population_year":2020,
     "geom:area":0.047012,
-    "geom:area_square_m":345418076.892388,
+    "geom:area_square_m":345418076.892344,
     "geom:bbox":"20.856571057,53.428699238,21.209435755,53.66424797",
     "geom:latitude":53.544535,
     "geom:longitude":21.033926,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":21.079518,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102080167
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561706",
+        "eurostat:nuts_2021_id":"1004281561706"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"3a45dbcb5a3d3b5984aded11935a96a3",
+    "wof:geomhash":"7e8a195888e9b8d9aedb17304b4428bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752919,
-    "wof:lastmodified":1570003692,
+    "wof:lastmodified":1684354436,
     "wof:name":"Gmina Szczytno",
     "wof:parent_id":102080167,
     "wof:placetype":"localadmin",
+    "wof:population":13095,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

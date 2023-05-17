@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141301402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czosn\u00f3w",
+    "eurostat:nuts_2021_id":"1007141301402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141301402",
+    "eurostat:population":9991,
+    "eurostat:population_year":2020,
     "geom:area":0.016948,
-    "geom:area_square_m":127951193.448935,
+    "geom:area_square_m":127951193.448929,
     "geom:bbox":"20.596596553,52.311334076,20.828398141,52.431622174",
     "geom:latitude":52.370444,
     "geom:longitude":20.697789,
@@ -69,6 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141301402",
+        "eurostat:nuts_2021_id":"1007141301402",
         "gp:id":12616609,
         "qs_pg:id":965321
     },
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bad0edbdc71c284f5f62b793bcf3d8b6",
+    "wof:geomhash":"5efcb056f7554a8f34659affa57c22e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":1125368167,
-    "wof:lastmodified":1582357965,
+    "wof:lastmodified":1684354278,
     "wof:name":"Czosn\u00f3w",
     "wof:parent_id":102080001,
     "wof:placetype":"localadmin",
+    "wof:population":9991,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

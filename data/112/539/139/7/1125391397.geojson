@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021032401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bardo",
+    "eurostat:nuts_2021_id":"1003021032401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021032401",
+    "eurostat:population":5286,
+    "eurostat:population_year":2020,
     "geom:area":0.00928,
-    "geom:area_square_m":72970549.638142,
+    "geom:area_square_m":72970549.638138,
     "geom:bbox":"16.67371299,50.455572143,16.82825912,50.572096723",
     "geom:latitude":50.511429,
     "geom:longitude":16.748519,
@@ -120,6 +132,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -132,6 +146,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021032401",
+        "eurostat:nuts_2021_id":"1003021032401",
         "gp:id":24547526,
         "qs_pg:id":1017791
     },
@@ -140,7 +156,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5d6aa40ada19468ad77f23d5b7baa606",
+    "wof:geomhash":"02ed2bb852302f23751e03a43cd8edae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":1125391397,
-    "wof:lastmodified":1582357917,
+    "wof:lastmodified":1684354308,
     "wof:name":"Gmina Bardo",
     "wof:parent_id":102079577,
     "wof:placetype":"localadmin",
+    "wof:population":5286,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

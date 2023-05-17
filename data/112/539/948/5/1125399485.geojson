@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321660601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Banie",
+    "eurostat:nuts_2021_id":"1002321660601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321660601",
+    "eurostat:population":6308,
+    "eurostat:population_year":2020,
     "geom:area":0.027673,
-    "geom:area_square_m":205494020.412952,
+    "geom:area_square_m":205494020.41294,
     "geom:bbox":"14.515385674,52.989400659,14.757231166,53.192708023",
     "geom:latitude":53.091954,
     "geom:longitude":14.64586,
@@ -101,7 +113,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -114,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321660601",
+        "eurostat:nuts_2021_id":"1002321660601",
         "gn:id":3103884,
         "gp:id":12617015,
         "qs_pg:id":396919
@@ -126,7 +141,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0387cf968c63f959169722e064c1b1b7",
+    "wof:geomhash":"610af06f3a18ceb11ca4683c5c70e5a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,12 +152,12 @@
         }
     ],
     "wof:id":1125399485,
-    "wof:lastmodified":1582357910,
+    "wof:lastmodified":1684354321,
     "wof:name":"Banie",
     "wof:parent_id":102080047,
     "wof:placetype":"localadmin",
-    "wof:population":1967,
-    "wof:population_rank":3,
+    "wof:population":6308,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

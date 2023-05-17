@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281551304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olecko",
+    "eurostat:nuts_2021_id":"1004281551304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL623",
+    "eurostat:nuts_2021_level_lau":"1004281551304",
+    "eurostat:population":22025,
+    "eurostat:population_year":2020,
     "geom:area":0.036575,
-    "geom:area_square_m":265605176.495678,
+    "geom:area_square_m":265605176.495603,
     "geom:bbox":"22.323923097,53.887525739,22.63729704,54.150650832",
     "geom:latitude":54.035641,
     "geom:longitude":22.488271,
@@ -141,6 +153,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -153,6 +167,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281551304",
+        "eurostat:nuts_2021_id":"1004281551304",
         "gp:id":24547465,
         "qs_pg:id":1184500
     },
@@ -161,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8fdcd3c7fbba5ef60013c607f3c8020e",
+    "wof:geomhash":"f831813e3db547f026cb53add51105ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +188,12 @@
         }
     ],
     "wof:id":1125370867,
-    "wof:lastmodified":1582357858,
+    "wof:lastmodified":1684354280,
     "wof:name":"Gmina Olecko",
     "wof:parent_id":102080243,
     "wof:placetype":"localadmin",
+    "wof:population":22025,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

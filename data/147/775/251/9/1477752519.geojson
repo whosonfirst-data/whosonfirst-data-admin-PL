@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221420702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gardeja",
+    "eurostat:nuts_2021_id":"1004221420702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221420702",
+    "eurostat:population":8421,
+    "eurostat:population_year":2020,
     "geom:area":0.026178,
-    "geom:area_square_m":191881868.113543,
+    "geom:area_square_m":191881868.113552,
     "geom:bbox":"18.873775044,53.577532613,19.202902457,53.712460853",
     "geom:latitude":53.645069,
     "geom:longitude":19.035469,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":19.022143,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102080159
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221420702",
+        "eurostat:nuts_2021_id":"1004221420702"
+    },
     "wof:coterminous":[
         101819557
     ],
     "wof:country":"PL",
-    "wof:geomhash":"6ab3071386ce7bed822edcec93842a60",
+    "wof:geomhash":"bbb1dfe60d9d78f70f87edf6d9fcdc98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752519,
-    "wof:lastmodified":1570000988,
+    "wof:lastmodified":1684354414,
     "wof:name":"Gardeja",
     "wof:parent_id":102080159,
     "wof:placetype":"localadmin",
+    "wof:population":8421,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142712605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mordy",
+    "eurostat:nuts_2021_id":"1007142712605",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142712605",
+    "eurostat:population":5780,
+    "eurostat:population_year":2020,
     "geom:area":0.022347,
-    "geom:area_square_m":169380123.894841,
+    "geom:area_square_m":169380123.894832,
     "geom:bbox":"22.372823501,52.118865423,22.647386083,52.272434558",
     "geom:latitude":52.195313,
     "geom:longitude":22.508242,
@@ -152,7 +164,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -165,6 +178,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142712605",
+        "eurostat:nuts_2021_id":"1007142712605",
         "gn:id":764407,
         "gp:id":24548327,
         "qs_pg:id":1026084
@@ -174,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e393a0c90b4ed000a421ab649d073680",
+    "wof:geomhash":"d0420e745a79116e18c7613ad76ac408",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,12 +200,12 @@
         }
     ],
     "wof:id":1125400891,
-    "wof:lastmodified":1582357998,
+    "wof:lastmodified":1684354324,
     "wof:name":"Gmina Mordy",
     "wof:parent_id":102079979,
     "wof:placetype":"localadmin",
-    "wof:population":1843,
-    "wof:population_rank":3,
+    "wof:population":5780,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301591303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osieczna",
+    "eurostat:nuts_2021_id":"1002301591303",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301591303",
+    "eurostat:population":9269,
+    "eurostat:population_year":2020,
     "geom:area":0.016803,
-    "geom:area_square_m":128173842.082722,
+    "geom:area_square_m":128173842.082721,
     "geom:bbox":"16.613948092,51.841658979,16.832998842,51.968149053",
     "geom:latitude":51.909451,
     "geom:longitude":16.708157,
@@ -110,7 +122,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -123,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301591303",
+        "eurostat:nuts_2021_id":"1002301591303",
         "gn:id":3089934,
         "gp:id":24547502,
         "qs_pg:id":272346
@@ -132,7 +147,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a9f5bb1fee174e6fd4e761146aed83cd",
+    "wof:geomhash":"5dbdef9af64b8806cc2b283c9d238907",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,12 +158,12 @@
         }
     ],
     "wof:id":1125307869,
-    "wof:lastmodified":1582357899,
+    "wof:lastmodified":1684354210,
     "wof:name":"Gmina Osieczna",
     "wof:parent_id":102079821,
     "wof:placetype":"localadmin",
-    "wof:population":2132,
-    "wof:population_rank":4,
+    "wof:population":9269,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

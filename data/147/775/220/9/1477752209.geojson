@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100312",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wierzbica",
+    "eurostat:nuts_2021_id":"1006061100312",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100312",
+    "eurostat:population":5060,
+    "eurostat:population_year":2020,
     "geom:area":0.018761,
-    "geom:area_square_m":145131555.141951,
+    "geom:area_square_m":145131555.141974,
     "geom:bbox":"23.206754738,51.192004231,23.403653883,51.362317386",
     "geom:latitude":51.271832,
     "geom:longitude":23.302883,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":23.296216,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079813
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100312",
+        "eurostat:nuts_2021_id":"1006061100312"
+    },
     "wof:coterminous":[
         1125968021
     ],
     "wof:country":"PL",
-    "wof:geomhash":"55cb1a06328e9db217fd2bb671ee8b7c",
+    "wof:geomhash":"9aefc26ec387251ce52dffef819d44c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752209,
-    "wof:lastmodified":1569999708,
+    "wof:lastmodified":1684354398,
     "wof:name":"Wierzbica",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",
+    "wof:population":5060,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141302105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nadarzyn",
+    "eurostat:nuts_2021_id":"1007141302105",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141302105",
+    "eurostat:population":14032,
+    "eurostat:population_year":2020,
     "geom:area":0.009627,
-    "geom:area_square_m":73174648.799719,
+    "geom:area_square_m":73174648.799764,
     "geom:bbox":"20.717357111,52.000576351,20.875910662,52.128345907",
     "geom:latitude":52.069218,
     "geom:longitude":20.795004,
@@ -80,7 +92,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -93,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141302105",
+        "eurostat:nuts_2021_id":"1007141302105",
         "gn:id":764194,
         "gp:id":12618835,
         "qs_pg:id":895523
@@ -105,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"47ff0e448f554aa16d619d3c54d2b57b",
+    "wof:geomhash":"8c8eb2a58d3f3292b82f6f3eb6341ea8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,12 +131,12 @@
         }
     ],
     "wof:id":1125347727,
-    "wof:lastmodified":1582357698,
+    "wof:lastmodified":1684354254,
     "wof:name":"Nadarzyn",
     "wof:parent_id":102079919,
     "wof:placetype":"localadmin",
-    "wof:population":9881,
-    "wof:population_rank":5,
+    "wof:population":14032,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

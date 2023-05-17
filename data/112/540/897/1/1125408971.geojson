@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121241610",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tuch\u00f3w",
+    "eurostat:nuts_2021_id":"1001121241610",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL217",
+    "eurostat:nuts_2021_level_lau":"1001121241610",
+    "eurostat:population":17916,
+    "eurostat:population_year":2020,
     "geom:area":0.012493,
-    "geom:area_square_m":99532889.669098,
+    "geom:area_square_m":99532889.669069,
     "geom:bbox":"20.963900472,49.810728551,21.132857869,49.964239734",
     "geom:latitude":49.886618,
     "geom:longitude":21.044074,
@@ -152,7 +164,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -165,6 +178,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121241610",
+        "eurostat:nuts_2021_id":"1001121241610",
         "gn:id":756634,
         "gp:id":12618582,
         "qs_pg:id":49194
@@ -174,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8ed3cd36427b6f620036f7433ceca4fd",
+    "wof:geomhash":"1d17086b306c72aaddcba77f3f3b5eb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,12 +200,12 @@
         }
     ],
     "wof:id":1125408971,
-    "wof:lastmodified":1582358001,
+    "wof:lastmodified":1684354328,
     "wof:name":"Gmina Tuch\u00f3w",
     "wof:parent_id":102079535,
     "wof:placetype":"localadmin",
-    "wof:population":6680,
-    "wof:population_rank":5,
+    "wof:population":17916,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

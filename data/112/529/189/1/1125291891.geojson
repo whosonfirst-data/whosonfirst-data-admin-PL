@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321661405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"I\u0144sko",
+    "eurostat:nuts_2021_id":"1002321661405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321661405",
+    "eurostat:population":3346,
+    "eurostat:population_year":2020,
     "geom:area":0.020417,
-    "geom:area_square_m":150384257.194646,
+    "geom:area_square_m":150384257.194629,
     "geom:bbox":"15.425035271,53.364685235,15.721712088,53.506520749",
     "geom:latitude":53.439423,
     "geom:longitude":15.551192,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321661405",
+        "eurostat:nuts_2021_id":"1002321661405",
         "gn:id":3097871,
         "gp:id":24548026,
         "qs_pg:id":1097009
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"265a30adb23a93d20306e364c63b86c5",
+    "wof:geomhash":"a74221c43c178cbbd1cdafe4e26e2e41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,11 +188,11 @@
         }
     ],
     "wof:id":1125291891,
-    "wof:lastmodified":1582357816,
+    "wof:lastmodified":1684354178,
     "wof:name":"Gmina I\u0144sko",
     "wof:parent_id":102080083,
     "wof:placetype":"localadmin",
-    "wof:population":2002,
+    "wof:population":3346,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

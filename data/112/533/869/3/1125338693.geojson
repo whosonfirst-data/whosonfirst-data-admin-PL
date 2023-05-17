@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281540704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kisielice",
+    "eurostat:nuts_2021_id":"1004281540704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281540704",
+    "eurostat:population":5997,
+    "eurostat:population_year":2020,
     "geom:area":0.023478,
-    "geom:area_square_m":172291712.692966,
+    "geom:area_square_m":172291712.692951,
     "geom:bbox":"19.127640497,53.518523447,19.400462926,53.67512295",
     "geom:latitude":53.596594,
     "geom:longitude":19.265725,
@@ -133,7 +145,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -146,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281540704",
+        "eurostat:nuts_2021_id":"1004281540704",
         "gn:id":3096208,
         "gp:id":24547496,
         "qs_pg:id":59417
@@ -155,7 +170,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"654b8b633790e74fa18b19d0d8ca8167",
+    "wof:geomhash":"34a27f98c803800d031f5c5f1c84fb6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,12 +181,12 @@
         }
     ],
     "wof:id":1125338693,
-    "wof:lastmodified":1582357683,
+    "wof:lastmodified":1684354244,
     "wof:name":"Gmina Kisielice",
     "wof:parent_id":102080171,
     "wof:placetype":"localadmin",
-    "wof:population":2234,
-    "wof:population_rank":4,
+    "wof:population":5997,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

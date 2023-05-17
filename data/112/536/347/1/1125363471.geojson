@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142702707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zawidz",
+    "eurostat:nuts_2021_id":"1007142702707",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL923",
+    "eurostat:nuts_2021_level_lau":"1007142702707",
+    "eurostat:population":6578,
+    "eurostat:population_year":2020,
     "geom:area":0.024772,
-    "geom:area_square_m":185114748.607197,
+    "geom:area_square_m":185114748.607202,
     "geom:bbox":"19.757627154,52.72786512,20.000995105,52.909385614",
     "geom:latitude":52.818156,
     "geom:longitude":19.876909,
@@ -54,7 +66,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -67,6 +80,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142702707",
+        "eurostat:nuts_2021_id":"1007142702707",
         "gn:id":3080530,
         "gp:id":12616621,
         "qs_pg:id":954923
@@ -79,7 +94,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"12be949122e15172627ea4360328009d",
+    "wof:geomhash":"52edad883fe15e0fd5b032f845a2d260",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,12 +105,12 @@
         }
     ],
     "wof:id":1125363471,
-    "wof:lastmodified":1582357971,
+    "wof:lastmodified":1684354269,
     "wof:name":"Zawidz",
     "wof:parent_id":102080035,
     "wof:placetype":"localadmin",
-    "wof:population":956,
-    "wof:population_rank":2,
+    "wof:population":6578,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

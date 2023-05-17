@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grodzisk",
+    "eurostat:nuts_2021_id":"1006201381004",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381004",
+    "eurostat:population":4169,
+    "eurostat:population_year":2020,
     "geom:area":0.026931,
-    "geom:area_square_m":202279481.952701,
+    "geom:area_square_m":202279481.952696,
     "geom:bbox":"22.636112317,52.497475893,22.885149117,52.696872544",
     "geom:latitude":52.595369,
     "geom:longitude":22.754357,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":22.754391,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080037
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381004",
+        "eurostat:nuts_2021_id":"1006201381004"
+    },
     "wof:coterminous":[
         1126005691
     ],
     "wof:country":"PL",
-    "wof:geomhash":"0aa9c4b29e86c5ad2512ab48eb0cbff0",
+    "wof:geomhash":"295b02c81f79c1d59ade0093a982f5e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751449,
-    "wof:lastmodified":1570001649,
+    "wof:lastmodified":1684354358,
     "wof:name":"Grodzisk",
     "wof:parent_id":102080037,
     "wof:placetype":"localadmin",
+    "wof:population":4169,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

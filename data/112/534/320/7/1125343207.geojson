@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081141109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tuplice",
+    "eurostat:nuts_2021_id":"1002081141109",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081141109",
+    "eurostat:population":3042,
+    "eurostat:population_year":2020,
     "geom:area":0.00856,
-    "geom:area_square_m":65606342.212122,
+    "geom:area_square_m":65606342.212138,
     "geom:bbox":"14.807411202,51.635616185,14.976624131,51.753026862",
     "geom:latitude":51.695721,
     "geom:longitude":14.880894,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081141109",
+        "eurostat:nuts_2021_id":"1002081141109",
         "gn:id":3083004,
         "gp:id":12618376,
         "qs_pg:id":1319190
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"de6260b58e5aa20b081a3ef3cbd9190b",
+    "wof:geomhash":"fe403287f8f12467a658dc7df0cb832d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125343207,
-    "wof:lastmodified":1582357698,
+    "wof:lastmodified":1684354252,
     "wof:name":"Tuplice",
     "wof:parent_id":102079779,
     "wof:placetype":"localadmin",
-    "wof:population":1500,
-    "wof:population_rank":3,
+    "wof:population":3042,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

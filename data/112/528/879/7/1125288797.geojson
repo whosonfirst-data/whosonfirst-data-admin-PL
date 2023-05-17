@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181331703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bukowsko",
+    "eurostat:nuts_2021_id":"1006181331703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181331703",
+    "eurostat:population":5495,
+    "eurostat:population_year":2020,
     "geom:area":0.016974,
-    "geom:area_square_m":136390398.393892,
+    "geom:area_square_m":136390398.393885,
     "geom:bbox":"21.948896104,49.392974475,22.139874635,49.545532816",
     "geom:latitude":49.471197,
     "geom:longitude":22.056329,
@@ -77,7 +89,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -90,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181331703",
+        "eurostat:nuts_2021_id":"1006181331703",
         "gn:id":774776,
         "gp:id":12617356,
         "qs_pg:id":23989
@@ -102,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d2de1d8af9f2bb6d0b5a008ea64cfa3c",
+    "wof:geomhash":"7a54bd0ce494d9e6a3ae53a2430ebee2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,12 +128,12 @@
         }
     ],
     "wof:id":1125288797,
-    "wof:lastmodified":1582357773,
+    "wof:lastmodified":1684354164,
     "wof:name":"Bukowsko",
     "wof:parent_id":102079437,
     "wof:placetype":"localadmin",
-    "wof:population":1700,
-    "wof:population_rank":3,
+    "wof:population":5495,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

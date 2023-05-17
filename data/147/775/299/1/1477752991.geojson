@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142250202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciechan\u00f3w",
+    "eurostat:nuts_2021_id":"1007142250202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142250202",
+    "eurostat:population":7117,
+    "eurostat:population_year":2020,
     "geom:area":0.018752,
-    "geom:area_square_m":139981811.751184,
+    "geom:area_square_m":139981811.751191,
     "geom:bbox":"20.390131,52.80657,20.704213,52.929903",
     "geom:latitude":52.863939,
     "geom:longitude":20.541287,
@@ -65,18 +77,24 @@
     "reversegeo:longitude":20.525919,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102080055,
-        85687257
+        85687257,
+        102080055
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142250202",
+        "eurostat:nuts_2021_id":"1007142250202"
+    },
     "wof:coterminous":[
         1477864081
     ],
     "wof:country":"PL",
-    "wof:geomhash":"89c57f42398e5ff6b497e129b25a5a98",
+    "wof:geomhash":"024699b6b313d72a9c9d7f89a2c7f136",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477752991,
-    "wof:lastmodified":1607726538,
+    "wof:lastmodified":1684354441,
     "wof:name":"Gmina Ciechan\u00f3w",
     "wof:parent_id":102080055,
     "wof:placetype":"localadmin",
+    "wof:population":7117,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

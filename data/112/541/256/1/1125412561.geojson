@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221401503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wejherowo",
+    "eurostat:nuts_2021_id":"1004221401503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221401503",
+    "eurostat:population":49505,
+    "eurostat:population_year":2020,
     "geom:area":0.003752,
     "geom:area_square_m":26872595.690708,
     "geom:bbox":"18.162618217,54.57806995,18.304641992,54.633900417",
@@ -177,6 +189,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -189,6 +203,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221401503",
+        "eurostat:nuts_2021_id":"1004221401503",
         "gp:id":12617679,
         "qs_pg:id":242694
     },
@@ -197,7 +213,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a66f6da8f66bdfeb78700e50233fb36a",
+    "wof:geomhash":"993c2ce2e719bf9da11c5cc7c5512e23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -208,10 +224,12 @@
         }
     ],
     "wof:id":1125412561,
-    "wof:lastmodified":1582358014,
+    "wof:lastmodified":1684354336,
     "wof:name":"Gmina Wejherowo",
     "wof:parent_id":102080267,
     "wof:placetype":"localadmin",
+    "wof:population":49505,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

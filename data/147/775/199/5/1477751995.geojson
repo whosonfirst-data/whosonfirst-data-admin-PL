@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142273601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kazan\u00f3w",
+    "eurostat:nuts_2021_id":"1007142273601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142273601",
+    "eurostat:population":4504,
+    "eurostat:population_year":2020,
     "geom:area":0.012225,
-    "geom:area_square_m":94579417.319932,
+    "geom:area_square_m":94579417.31993,
     "geom:bbox":"21.325468765,51.220719331,21.563161894,51.314798804",
     "geom:latitude":51.268449,
     "geom:longitude":21.427067,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":21.427076,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079799
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142273601",
+        "eurostat:nuts_2021_id":"1007142273601"
+    },
     "wof:coterminous":[
         1125780717
     ],
     "wof:country":"PL",
-    "wof:geomhash":"028798917c48cd88e6d709c9c51b23cc",
+    "wof:geomhash":"702ec45e802cb5091d1b3c90edc4e89d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751995,
-    "wof:lastmodified":1570002493,
+    "wof:lastmodified":1684354386,
     "wof:name":"Kazan\u00f3w",
     "wof:parent_id":102079799,
     "wof:placetype":"localadmin",
+    "wof:population":4504,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

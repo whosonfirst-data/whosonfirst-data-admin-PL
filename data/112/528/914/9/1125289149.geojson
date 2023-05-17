@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321656201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szczecin",
+    "eurostat:nuts_2021_id":"1002321656201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL424",
+    "eurostat:nuts_2021_level_lau":"1002321656201",
+    "eurostat:population":401907,
+    "eurostat:population_year":2020,
     "geom:area":0.040639,
-    "geom:area_square_m":299385634.409155,
+    "geom:area_square_m":299385634.409133,
     "geom:bbox":"14.443818872,53.321709655,14.805416536,53.537681641",
     "geom:latitude":53.431794,
     "geom:longitude":14.614162,
@@ -374,6 +386,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -386,6 +400,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321656201",
+        "eurostat:nuts_2021_id":"1002321656201",
         "gn:id":7531766,
         "gp:id":12618080,
         "qs_pg:id":24129
@@ -398,7 +414,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d0f2b3c234a063424f631127eaa2d8b3",
+    "wof:geomhash":"1229a6c3de881e081c56316a15eabb7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -409,10 +425,12 @@
         }
     ],
     "wof:id":1125289149,
-    "wof:lastmodified":1582357770,
+    "wof:lastmodified":1684354170,
     "wof:name":"Szczecin",
     "wof:parent_id":102080073,
     "wof:placetype":"localadmin",
+    "wof:population":401907,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

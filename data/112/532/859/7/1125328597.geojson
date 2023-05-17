@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121241612",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wietrzychowice",
+    "eurostat:nuts_2021_id":"1001121241612",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL217",
+    "eurostat:nuts_2021_level_lau":"1001121241612",
+    "eurostat:population":3938,
+    "eurostat:population_year":2020,
     "geom:area":0.006093,
-    "geom:area_square_m":48240831.203597,
+    "geom:area_square_m":48240831.203573,
     "geom:bbox":"20.679383687,50.145704352,20.810699968,50.242752551",
     "geom:latitude":50.186667,
     "geom:longitude":20.737305,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.732876,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079535
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121241612",
+        "eurostat:nuts_2021_id":"1001121241612"
+    },
     "wof:coterminous":[
         1477863547
     ],
     "wof:country":"PL",
-    "wof:geomhash":"1ddfac265ae4725f456e23e6029550b9",
+    "wof:geomhash":"656d4e84a1d36667f1253674b9bb81a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125328597,
-    "wof:lastmodified":1569989208,
+    "wof:lastmodified":1684354239,
     "wof:name":"Wietrzychowice",
     "wof:parent_id":102079535,
     "wof:placetype":"localadmin",
+    "wof:population":3938,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

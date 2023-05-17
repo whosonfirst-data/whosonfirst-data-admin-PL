@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142250208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Regimin",
+    "eurostat:nuts_2021_id":"1007142250208",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142250208",
+    "eurostat:population":4989,
+    "eurostat:population_year":2020,
     "geom:area":0.014863,
-    "geom:area_square_m":110729140.061542,
+    "geom:area_square_m":110729140.061563,
     "geom:bbox":"20.440816979,52.898602348,20.726475891,52.995935801",
     "geom:latitude":52.951011,
     "geom:longitude":20.567409,
@@ -82,7 +94,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -95,6 +108,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142250208",
+        "eurostat:nuts_2021_id":"1007142250208",
         "gn:id":760528,
         "gp:id":12618763,
         "qs_pg:id":24288
@@ -107,7 +122,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2e7630fcf89654fc8f67876376be9bbd",
+    "wof:geomhash":"61b537a56921c54c785f71b1e0a181fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,12 +133,12 @@
         }
     ],
     "wof:id":1125324467,
-    "wof:lastmodified":1582357727,
+    "wof:lastmodified":1684354231,
     "wof:name":"Regimin",
     "wof:parent_id":102080055,
     "wof:placetype":"localadmin",
-    "wof:population":523,
-    "wof:population_rank":2,
+    "wof:population":4989,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

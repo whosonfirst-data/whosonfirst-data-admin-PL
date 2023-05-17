@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101150807",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pabianice",
+    "eurostat:nuts_2021_id":"1005101150807",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL712",
+    "eurostat:nuts_2021_level_lau":"1005101150807",
+    "eurostat:population":7636,
+    "eurostat:population_year":2020,
     "geom:area":0.011392,
-    "geom:area_square_m":87365367.258456,
+    "geom:area_square_m":87365367.258444,
     "geom:bbox":"19.186043225,51.587652102,19.456342526,51.736965634",
     "geom:latitude":51.666732,
     "geom:longitude":19.322873,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":19.300774,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079823
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101150807",
+        "eurostat:nuts_2021_id":"1005101150807"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"afcb484cf7745947dd991b7f79960639",
+    "wof:geomhash":"b8bedd7c9c567f14ec88f81ee5cd1475",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752861,
-    "wof:lastmodified":1570000352,
+    "wof:lastmodified":1684354433,
     "wof:name":"Gmina Pabianice",
     "wof:parent_id":102079823,
     "wof:placetype":"localadmin",
+    "wof:population":7636,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barg\u0142\u00f3w Ko\u015bcielny",
+    "eurostat:nuts_2021_id":"1006201390103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390103",
+    "eurostat:population":5496,
+    "eurostat:population_year":2020,
     "geom:area":0.025577,
-    "geom:area_square_m":187022455.502759,
+    "geom:area_square_m":187022455.502771,
     "geom:bbox":"22.696801577,53.639620421,22.943237895,53.842271719",
     "geom:latitude":53.747973,
     "geom:longitude":22.813196,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":22.804797,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080221
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390103",
+        "eurostat:nuts_2021_id":"1006201390103"
+    },
     "wof:coterminous":[
         1126003503
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b869a1539d70afe13b4fc5e807945e97",
+    "wof:geomhash":"d42f1666d840648e798c2317dd50921e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751271,
-    "wof:lastmodified":1570001531,
+    "wof:lastmodified":1684354349,
     "wof:name":"Barg\u0142\u00f3w Ko\u015bcielny",
     "wof:parent_id":102080221,
     "wof:placetype":"localadmin",
+    "wof:population":5496,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

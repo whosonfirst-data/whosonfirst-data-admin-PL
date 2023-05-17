@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142732805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowa Sucha",
+    "eurostat:nuts_2021_id":"1007142732805",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL926",
+    "eurostat:nuts_2021_level_lau":"1007142732805",
+    "eurostat:population":6686,
+    "eurostat:population_year":2020,
     "geom:area":0.011841,
-    "geom:area_square_m":89818600.286196,
+    "geom:area_square_m":89818600.286199,
     "geom:bbox":"20.07855392,52.114649179,20.318991888,52.210299033",
     "geom:latitude":52.162266,
     "geom:longitude":20.191984,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.2101,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142732805",
+        "eurostat:nuts_2021_id":"1007142732805"
+    },
     "wof:coterminous":[
         1477864867
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2f69e9e49ccbd99ace6238568f731fd5",
+    "wof:geomhash":"86eb92d26cc07431339b4916aa2f80bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751969,
-    "wof:lastmodified":1570002082,
+    "wof:lastmodified":1684354385,
     "wof:name":"Nowa Sucha",
     "wof:parent_id":102079945,
     "wof:placetype":"localadmin",
+    "wof:population":6686,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

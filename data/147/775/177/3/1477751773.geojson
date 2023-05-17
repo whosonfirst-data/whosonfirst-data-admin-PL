@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301570707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mycielin",
+    "eurostat:nuts_2021_id":"1002301570707",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301570707",
+    "eurostat:population":4873,
+    "eurostat:population_year":2020,
     "geom:area":0.014497,
-    "geom:area_square_m":110463316.97432,
+    "geom:area_square_m":110463316.97434,
     "geom:bbox":"18.164718995,51.874973275,18.332005198,52.04554891",
     "geom:latitude":51.95776,
     "geom:longitude":18.23799,
@@ -29,6 +41,8 @@
     "reversegeo:longitude":18.239259,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -36,11 +50,15 @@
         102079841
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301570707",
+        "eurostat:nuts_2021_id":"1002301570707"
+    },
     "wof:coterminous":[
         1126010419
     ],
     "wof:country":"PL",
-    "wof:geomhash":"0ebab61d79d7c91174b09003fbf4e7ba",
+    "wof:geomhash":"0d9b8e144dd463a6c739266110aeb753",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,10 +69,12 @@
         }
     ],
     "wof:id":1477751773,
-    "wof:lastmodified":1570004313,
+    "wof:lastmodified":1684354375,
     "wof:name":"Mycielin",
     "wof:parent_id":102079841,
     "wof:placetype":"localadmin",
+    "wof:population":4873,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

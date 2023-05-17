@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181330205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jasienica Rosielna",
+    "eurostat:nuts_2021_id":"1006181330205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181330205",
+    "eurostat:population":7845,
+    "eurostat:population_year":2020,
     "geom:area":0.007118,
-    "geom:area_square_m":56876510.391963,
+    "geom:area_square_m":56876510.391957,
     "geom:bbox":"21.850859229,49.704468139,22.030520418,49.781093443",
     "geom:latitude":49.746601,
     "geom:longitude":21.946333,
@@ -81,7 +93,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -94,6 +107,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181330205",
+        "eurostat:nuts_2021_id":"1006181330205",
         "gn:id":770346,
         "gp:id":12617760,
         "qs_pg:id":959344
@@ -106,7 +121,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"87e16e7b7bbe6486fe6544e4be3800f8",
+    "wof:geomhash":"624679c2469ae1f142e55add1d721243",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,12 +132,12 @@
         }
     ],
     "wof:id":1125365935,
-    "wof:lastmodified":1582357963,
+    "wof:lastmodified":1684354274,
     "wof:name":"Jasienica Rosielna",
     "wof:parent_id":102079461,
     "wof:placetype":"localadmin",
-    "wof:population":2100,
-    "wof:population_rank":4,
+    "wof:population":7845,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

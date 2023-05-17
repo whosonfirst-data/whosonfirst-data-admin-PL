@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021042305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kobierzyce",
+    "eurostat:nuts_2021_id":"1003021042305",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021042305",
+    "eurostat:population":21760,
+    "eurostat:population_year":2020,
     "geom:area":0.019092,
-    "geom:area_square_m":148668214.979123,
+    "geom:area_square_m":148668214.979167,
     "geom:bbox":"16.838795801,50.86386787,17.034889033,51.057730181",
     "geom:latitude":50.969236,
     "geom:longitude":16.920845,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021042305",
+        "eurostat:nuts_2021_id":"1003021042305",
         "gn:id":3095961,
         "gp:id":12617118,
         "qs_pg:id":331967
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4170893d9035643830de4709199dc729",
+    "wof:geomhash":"8884443e1f42659cd78ffcb913bed9e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125370893,
-    "wof:lastmodified":1582357856,
+    "wof:lastmodified":1684354281,
     "wof:name":"Kobierzyce",
     "wof:parent_id":102079685,
     "wof:placetype":"localadmin",
-    "wof:population":2095,
-    "wof:population_rank":4,
+    "wof:population":21760,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

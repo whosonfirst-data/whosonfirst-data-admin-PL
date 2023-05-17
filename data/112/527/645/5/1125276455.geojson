@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bi\u0142goraj",
+    "eurostat:nuts_2021_id":"1006061100203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100203",
+    "eurostat:population":13355,
+    "eurostat:population_year":2020,
     "geom:area":0.033301,
-    "geom:area_square_m":261678689.945251,
+    "geom:area_square_m":261678689.94532,
     "geom:bbox":"22.505640912,50.465849453,22.840129908,50.642844087",
     "geom:latitude":50.543495,
     "geom:longitude":22.678427,
@@ -171,6 +183,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -183,6 +197,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100203",
+        "eurostat:nuts_2021_id":"1006061100203",
         "gp:id":24548379,
         "qs_pg:id":1062954
     },
@@ -191,7 +207,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8d06cfdde0960d51e3b746ebc753844a",
+    "wof:geomhash":"608722bdb65bb6d9ce1a0654883d3693",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -202,10 +218,12 @@
         }
     ],
     "wof:id":1125276455,
-    "wof:lastmodified":1582357794,
+    "wof:lastmodified":1684354144,
     "wof:name":"Gmina Bi\u0142goraj",
     "wof:parent_id":102079699,
     "wof:placetype":"localadmin",
+    "wof:population":13355,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

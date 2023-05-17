@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Karniewo",
+    "eurostat:nuts_2021_id":"1007142261103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261103",
+    "eurostat:population":5176,
+    "eurostat:population_year":2020,
     "geom:area":0.017212,
-    "geom:area_square_m":128551892.935717,
+    "geom:area_square_m":128551892.935742,
     "geom:bbox":"20.86172732,52.767783296,21.093263845,52.899884211",
     "geom:latitude":52.842079,
     "geom:longitude":20.988676,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":21.000074,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080077
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261103",
+        "eurostat:nuts_2021_id":"1007142261103"
+    },
     "wof:coterminous":[
         1477865829
     ],
     "wof:country":"PL",
-    "wof:geomhash":"ffccf46a9fd3d49997410b602974129f",
+    "wof:geomhash":"8636ef019ad87605a5e13e8fc3c37fb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125289209,
-    "wof:lastmodified":1569991099,
+    "wof:lastmodified":1684354171,
     "wof:name":"Karniewo",
     "wof:parent_id":102080077,
     "wof:placetype":"localadmin",
+    "wof:population":5176,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

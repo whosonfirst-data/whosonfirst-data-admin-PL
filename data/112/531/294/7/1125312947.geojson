@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142730609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pniewy",
+    "eurostat:nuts_2021_id":"1007142730609",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL926",
+    "eurostat:nuts_2021_level_lau":"1007142730609",
+    "eurostat:population":4797,
+    "eurostat:population_year":2020,
     "geom:area":0.013363,
-    "geom:area_square_m":101938005.984567,
+    "geom:area_square_m":101938005.984576,
     "geom:bbox":"20.641010814,51.847751249,20.833569169,51.958447111",
     "geom:latitude":51.906708,
     "geom:longitude":20.729101,
@@ -107,6 +119,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142730609",
+        "eurostat:nuts_2021_id":"1007142730609",
         "gn:id":761978,
         "gp:id":12616707,
         "qs_pg:id":271642
@@ -131,7 +147,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e00473d0faba4fc5a343040145e834ec",
+    "wof:geomhash":"67e3fe1396ed74546a0cc506c2948cd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":1125312947,
-    "wof:lastmodified":1582357948,
+    "wof:lastmodified":1684354218,
     "wof:name":"Pniewy",
     "wof:parent_id":102079877,
     "wof:placetype":"localadmin",
+    "wof:population":4797,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

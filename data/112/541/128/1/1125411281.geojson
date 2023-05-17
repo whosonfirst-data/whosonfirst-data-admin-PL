@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100214",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Turobin",
+    "eurostat:nuts_2021_id":"1006061100214",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100214",
+    "eurostat:population":6029,
+    "eurostat:population_year":2020,
     "geom:area":0.020686,
-    "geom:area_square_m":161597082.818546,
+    "geom:area_square_m":161597082.81857,
     "geom:bbox":"22.578085382,50.75511869,22.898100416,50.884386631",
     "geom:latitude":50.818562,
     "geom:longitude":22.738412,
@@ -84,7 +96,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -97,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100214",
+        "eurostat:nuts_2021_id":"1006061100214",
         "gn:id":756577,
         "gp:id":12618556,
         "qs_pg:id":234887
@@ -109,7 +124,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"903cd4f07f1d3e7d960ced3afda82cb9",
+    "wof:geomhash":"3567c370e2dec84f91befa9613fb6a0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,12 +135,12 @@
         }
     ],
     "wof:id":1125411281,
-    "wof:lastmodified":1582358016,
+    "wof:lastmodified":1684354334,
     "wof:name":"Turobin",
     "wof:parent_id":102079699,
     "wof:placetype":"localadmin",
-    "wof:population":1036,
-    "wof:population_rank":3,
+    "wof:population":6029,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061101804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krynice",
+    "eurostat:nuts_2021_id":"1006061101804",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061101804",
+    "eurostat:population":3217,
+    "eurostat:population_year":2020,
     "geom:area":0.009336,
-    "geom:area_square_m":73306069.990125,
+    "geom:area_square_m":73306069.990124,
     "geom:bbox":"23.297020622,50.5459278,23.524309721,50.611241272",
     "geom:latitude":50.57712,
     "geom:longitude":23.405952,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":23.405931,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079689
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061101804",
+        "eurostat:nuts_2021_id":"1006061101804"
+    },
     "wof:coterminous":[
         1477864689
     ],
     "wof:country":"PL",
-    "wof:geomhash":"d17741baedce5f210860600a62a854be",
+    "wof:geomhash":"415c9a22fd339aef09dcb2e10ebb34bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125399479,
-    "wof:lastmodified":1569995578,
+    "wof:lastmodified":1684354321,
     "wof:name":"Krynice",
     "wof:parent_id":102079689,
     "wof:placetype":"localadmin",
+    "wof:population":3217,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

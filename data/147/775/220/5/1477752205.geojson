@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201371110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szudzia\u0142owo",
+    "eurostat:nuts_2021_id":"1006201371110",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201371110",
+    "eurostat:population":2840,
+    "eurostat:population_year":2020,
     "geom:area":0.040643,
-    "geom:area_square_m":300399864.182659,
+    "geom:area_square_m":300399864.182631,
     "geom:bbox":"23.439226638,53.169564139,23.768779098,53.408637205",
     "geom:latitude":53.291565,
     "geom:longitude":23.616622,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":23.586585,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080189
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201371110",
+        "eurostat:nuts_2021_id":"1006201371110"
+    },
     "wof:coterminous":[
         1125956237
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a3a670b72678055851f00b716cb72fcf",
+    "wof:geomhash":"579ffb4b059f1ac9c499821f20733f58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752205,
-    "wof:lastmodified":1569999715,
+    "wof:lastmodified":1684354398,
     "wof:name":"Szudzia\u0142owo",
     "wof:parent_id":102080189,
     "wof:placetype":"localadmin",
+    "wof:population":2840,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

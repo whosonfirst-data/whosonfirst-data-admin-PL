@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221420705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ryjewo",
+    "eurostat:nuts_2021_id":"1004221420705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221420705",
+    "eurostat:population":5831,
+    "eurostat:population_year":2020,
     "geom:area":0.014158,
-    "geom:area_square_m":103274609.478819,
+    "geom:area_square_m":103274609.478825,
     "geom:bbox":"18.8436251,53.782723949,19.099957123,53.916213757",
     "geom:latitude":53.847962,
     "geom:longitude":18.973837,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":18.939926,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102080159
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221420705",
+        "eurostat:nuts_2021_id":"1004221420705"
+    },
     "wof:coterminous":[
         1125789825
     ],
     "wof:country":"PL",
-    "wof:geomhash":"259375dd4f6201df842e8cd65a4d4539",
+    "wof:geomhash":"3a4cf5c43c354e493d6b0e064cce097f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752523,
-    "wof:lastmodified":1570004078,
+    "wof:lastmodified":1684354414,
     "wof:name":"Ryjewo",
     "wof:parent_id":102080159,
     "wof:placetype":"localadmin",
+    "wof:population":5831,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101150806",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lutomiersk",
+    "eurostat:nuts_2021_id":"1005101150806",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL712",
+    "eurostat:nuts_2021_level_lau":"1005101150806",
+    "eurostat:population":8639,
+    "eurostat:population_year":2020,
     "geom:area":0.017439,
     "geom:area_square_m":133428114.896174,
     "geom:bbox":"18.998891037,51.707804119,19.310219205,51.832794322",
@@ -95,7 +107,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -108,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101150806",
+        "eurostat:nuts_2021_id":"1005101150806",
         "gn:id":3092657,
         "gp:id":12616659,
         "qs_pg:id":995287
@@ -120,7 +135,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ec6800957562eba593a50e3c354b8158",
+    "wof:geomhash":"3f183814b614eff6f851e2b8ac7092a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,12 +146,12 @@
         }
     ],
     "wof:id":1125374569,
-    "wof:lastmodified":1582357860,
+    "wof:lastmodified":1684354289,
     "wof:name":"Lutomiersk",
     "wof:parent_id":102079823,
     "wof:placetype":"localadmin",
-    "wof:population":1500,
-    "wof:population_rank":3,
+    "wof:population":8639,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

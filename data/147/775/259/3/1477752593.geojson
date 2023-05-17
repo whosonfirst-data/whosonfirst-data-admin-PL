@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Turo\u015bl",
+    "eurostat:nuts_2021_id":"1006201380606",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380606",
+    "eurostat:population":5110,
+    "eurostat:population_year":2020,
     "geom:area":0.026859,
-    "geom:area_square_m":197979412.450578,
+    "geom:area_square_m":197979412.450584,
     "geom:bbox":"21.592837089,53.312492099,21.835125716,53.492756678",
     "geom:latitude":53.407726,
     "geom:longitude":21.719004,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":21.721293,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080149
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380606",
+        "eurostat:nuts_2021_id":"1006201380606"
+    },
     "wof:coterminous":[
         1126018857
     ],
     "wof:country":"PL",
-    "wof:geomhash":"40002c96d24e1f5927c25c3200746e84",
+    "wof:geomhash":"0efb1dd2d5d468e7d7cb3992d6f543c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477752593,
-    "wof:lastmodified":1570000605,
+    "wof:lastmodified":1684354418,
     "wof:name":"Turo\u015bl",
     "wof:parent_id":102080149,
     "wof:placetype":"localadmin",
+    "wof:population":5110,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

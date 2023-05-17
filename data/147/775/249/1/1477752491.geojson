@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241491509",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mszana",
+    "eurostat:nuts_2021_id":"1001241491509",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL227",
+    "eurostat:nuts_2021_level_lau":"1001241491509",
+    "eurostat:population":7690,
+    "eurostat:population_year":2020,
     "geom:area":0.003909,
-    "geom:area_square_m":31080870.521542,
+    "geom:area_square_m":31080870.52154,
     "geom:bbox":"18.495661477,49.946515796,18.611748867,50.014508643",
     "geom:latitude":49.981066,
     "geom:longitude":18.548215,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":18.544292,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079445
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241491509",
+        "eurostat:nuts_2021_id":"1001241491509"
+    },
     "wof:coterminous":[
         101841955
     ],
     "wof:country":"PL",
-    "wof:geomhash":"9cf0d1408c7da9d7187811ed88e3de05",
+    "wof:geomhash":"ba3c92f727fc8807a06f1e1c87de26b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752491,
-    "wof:lastmodified":1570003120,
+    "wof:lastmodified":1684354412,
     "wof:name":"Mszana",
     "wof:parent_id":102079445,
     "wof:placetype":"localadmin",
+    "wof:population":7690,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

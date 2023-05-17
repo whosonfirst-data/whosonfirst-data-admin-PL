@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041681405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lniano",
+    "eurostat:nuts_2021_id":"1004041681405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL618",
+    "eurostat:nuts_2021_level_lau":"1004041681405",
+    "eurostat:population":4322,
+    "eurostat:population_year":2020,
     "geom:area":0.011962,
     "geom:area_square_m":87965784.356031,
     "geom:bbox":"18.111078055,53.441237238,18.292136182,53.588915845",
@@ -41,6 +53,8 @@
     "reversegeo:longitude":18.19857,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102080137
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041681405",
+        "eurostat:nuts_2021_id":"1004041681405"
+    },
     "wof:coterminous":[
         101819279
     ],
     "wof:country":"PL",
-    "wof:geomhash":"ee94731f98c79d61b991466708cd9bf1",
+    "wof:geomhash":"9f140797954be9c0da41c79c9e350ed9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752461,
-    "wof:lastmodified":1570002819,
+    "wof:lastmodified":1684354411,
     "wof:name":"Lniano",
     "wof:parent_id":102080137,
     "wof:placetype":"localadmin",
+    "wof:population":4322,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

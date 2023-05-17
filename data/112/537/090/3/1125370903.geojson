@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261520419",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zagna\u0144sk",
+    "eurostat:nuts_2021_id":"1005261520419",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL721",
+    "eurostat:nuts_2021_level_lau":"1005261520419",
+    "eurostat:population":12982,
+    "eurostat:population_year":2020,
     "geom:area":0.015987,
-    "geom:area_square_m":124424339.900245,
+    "geom:area_square_m":124424339.900264,
     "geom:bbox":"20.537174835,50.936827981,20.764098284,51.062677472",
     "geom:latitude":50.991922,
     "geom:longitude":20.654027,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261520419",
+        "eurostat:nuts_2021_id":"1005261520419",
         "gn:id":754210,
         "gp:id":12617211,
         "qs_pg:id":331977
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a7cda1987535b04dc217e6b52df232ec",
+    "wof:geomhash":"0a93d1da6f4aa23a051715ff9a46fb7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125370903,
-    "wof:lastmodified":1582357847,
+    "wof:lastmodified":1684354281,
     "wof:name":"Zagna\u0144sk",
     "wof:parent_id":102079693,
     "wof:placetype":"localadmin",
-    "wof:population":1726,
-    "wof:population_rank":3,
+    "wof:population":12982,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

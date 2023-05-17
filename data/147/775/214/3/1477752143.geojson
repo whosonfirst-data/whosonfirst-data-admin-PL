@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dubicze Cerkiewne",
+    "eurostat:nuts_2021_id":"1006201380505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380505",
+    "eurostat:population":1484,
+    "eurostat:population_year":2020,
     "geom:area":0.020105,
-    "geom:area_square_m":150864357.910907,
+    "geom:area_square_m":150864357.91089,
     "geom:bbox":"23.355375977,52.564593785,23.622192067,52.715986529",
     "geom:latitude":52.63788,
     "geom:longitude":23.476932,
@@ -50,6 +62,8 @@
     "reversegeo:longitude":23.478934,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -57,11 +71,15 @@
         102080091
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380505",
+        "eurostat:nuts_2021_id":"1006201380505"
+    },
     "wof:coterminous":[
         1125938733
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b26ca967e95d8623e696b6e16c58b9a9",
+    "wof:geomhash":"1e5ae185351683839d1408266f33fd67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +90,12 @@
         }
     ],
     "wof:id":1477752143,
-    "wof:lastmodified":1570003298,
+    "wof:lastmodified":1684354395,
     "wof:name":"Dubicze Cerkiewne",
     "wof:parent_id":102080091,
     "wof:placetype":"localadmin",
+    "wof:population":1484,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

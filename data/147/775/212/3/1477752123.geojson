@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radomy\u015bl Wielki",
+    "eurostat:nuts_2021_id":"1006181361108",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361108",
+    "eurostat:population":14292,
+    "eurostat:population_year":2020,
     "geom:area":0.020115,
-    "geom:area_square_m":159239705.587902,
+    "geom:area_square_m":159239705.587842,
     "geom:bbox":"21.142111649,50.131113997,21.395340591,50.25687306",
     "geom:latitude":50.192653,
     "geom:longitude":21.26706,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":21.294649,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361108",
+        "eurostat:nuts_2021_id":"1006181361108"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"e1dc194fca7db67c1e6ebc32c3cc32dd",
+    "wof:geomhash":"2dab8c405a73fbb52dcabaac7f04a53d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752123,
-    "wof:lastmodified":1570002844,
+    "wof:lastmodified":1684354393,
     "wof:name":"Gmina Radomy\u015bl Wielki",
     "wof:parent_id":102079597,
     "wof:placetype":"localadmin",
+    "wof:population":14292,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

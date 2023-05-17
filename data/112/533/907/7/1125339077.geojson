@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161311001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bia\u0142a",
+    "eurostat:nuts_2021_id":"1003161311001",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161311001",
+    "eurostat:population":10565,
+    "eurostat:population_year":2020,
     "geom:area":0.024808,
-    "geom:area_square_m":195413988.155723,
+    "geom:area_square_m":195413988.155742,
     "geom:bbox":"17.551787,50.341344,17.813818,50.554603",
     "geom:latitude":50.429065,
     "geom:longitude":17.699459,
@@ -121,7 +133,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -129,11 +142,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079549,
-        85687313
+        85687313,
+        102079549
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161311001",
+        "eurostat:nuts_2021_id":"1003161311001",
         "gn:id":3103644,
         "gp:id":24548419,
         "qs_pg:id":59569
@@ -146,7 +161,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c503f851a03e57dc5b959fd2f3b81972",
+    "wof:geomhash":"58a7e77e173d4c58922b01f9ac0a4cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,12 +172,12 @@
         }
     ],
     "wof:id":1125339077,
-    "wof:lastmodified":1607725229,
+    "wof:lastmodified":1684354246,
     "wof:name":"Gmina Bia\u0142a",
     "wof:parent_id":102079549,
     "wof:placetype":"localadmin",
-    "wof:population":2605,
-    "wof:population_rank":4,
+    "wof:population":10565,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

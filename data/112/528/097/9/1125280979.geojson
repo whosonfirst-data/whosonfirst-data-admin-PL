@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lipnica Wielka",
+    "eurostat:nuts_2021_id":"1001121691107",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691107",
+    "eurostat:population":6015,
+    "eurostat:population_year":2020,
     "geom:area":0.008367,
-    "geom:area_square_m":67176636.31894,
+    "geom:area_square_m":67176636.318937,
     "geom:bbox":"19.527414139,49.446873389,19.652216732,49.587789439",
     "geom:latitude":49.513289,
     "geom:longitude":19.583701,
@@ -62,7 +74,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -71,6 +84,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691107",
+        "eurostat:nuts_2021_id":"1001121691107",
         "gn:id":7532247,
         "gp:id":12618856,
         "qs_pg:id":691341
@@ -87,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2f1834129cd767d51a2181fc758050f0",
+    "wof:geomhash":"0e11269428e9bacd171841c0c111af92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,12 +113,12 @@
         }
     ],
     "wof:id":1125280979,
-    "wof:lastmodified":1582357765,
+    "wof:lastmodified":1684354148,
     "wof:name":"Lipnica Wielka",
     "wof:parent_id":102079407,
     "wof:placetype":"localadmin",
-    "wof:population":4100,
-    "wof:population_rank":4,
+    "wof:population":6015,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

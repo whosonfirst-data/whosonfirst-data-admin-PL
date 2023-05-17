@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142710306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0141askarzew",
+    "eurostat:nuts_2021_id":"1007142710306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142710306",
+    "eurostat:population":5475,
+    "eurostat:population_year":2020,
     "geom:area":0.011415,
     "geom:area_square_m":87288129.288466,
     "geom:bbox":"21.474779,51.742842,21.686878,51.850271",
@@ -62,18 +74,24 @@
     "reversegeo:longitude":21.546221,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079901,
-        85687257
+        85687257,
+        102079901
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142710306",
+        "eurostat:nuts_2021_id":"1007142710306"
+    },
     "wof:coterminous":[
         1477865047
     ],
     "wof:country":"PL",
-    "wof:geomhash":"97ee5c64862df3d2ab3478a516a4d3a2",
+    "wof:geomhash":"5ed751af17a7bf3a8b17807b1391b002",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751919,
-    "wof:lastmodified":1607726485,
+    "wof:lastmodified":1684354383,
     "wof:name":"Gmina \u0141askarzew",
     "wof:parent_id":102079901,
     "wof:placetype":"localadmin",
+    "wof:population":5475,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

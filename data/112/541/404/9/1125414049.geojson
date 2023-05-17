@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101191301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rawa Mazowiecka",
+    "eurostat:nuts_2021_id":"1005101191301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL715",
+    "eurostat:nuts_2021_level_lau":"1005101191301",
+    "eurostat:population":17324,
+    "eurostat:population_year":2020,
     "geom:area":0.00186,
-    "geom:area_square_m":14238022.693587,
+    "geom:area_square_m":14238022.693582,
     "geom:bbox":"20.205328608,51.731808726,20.304747551,51.784755252",
     "geom:latitude":51.761216,
     "geom:longitude":20.252385,
@@ -116,7 +128,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -129,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101191301",
+        "eurostat:nuts_2021_id":"1005101191301",
         "gn:id":760584,
         "gp:id":24548460,
         "qs_pg:id":245548
@@ -138,7 +153,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"660c5bee48ddb790a9a7c81a11200871",
+    "wof:geomhash":"b267fdf687a45cdd7dffa776e26b8fba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,11 +164,11 @@
         }
     ],
     "wof:id":1125414049,
-    "wof:lastmodified":1582358022,
+    "wof:lastmodified":1684354337,
     "wof:name":"Gmina Rawa Mazowiecka",
     "wof:parent_id":102079849,
     "wof:placetype":"localadmin",
-    "wof:population":17770,
+    "wof:population":17324,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

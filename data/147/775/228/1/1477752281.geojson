@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142272506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jedlnia-Letnisko",
+    "eurostat:nuts_2021_id":"1007142272506",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142272506",
+    "eurostat:population":12838,
+    "eurostat:population_year":2020,
     "geom:area":0.008474,
-    "geom:area_square_m":65344966.301181,
+    "geom:area_square_m":65344966.301178,
     "geom:bbox":"21.201720175,51.388769066,21.43574081,51.451528609",
     "geom:latitude":51.416937,
     "geom:longitude":21.316638,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":21.31842,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079805
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142272506",
+        "eurostat:nuts_2021_id":"1007142272506"
+    },
     "wof:coterminous":[
         101913131
     ],
     "wof:country":"PL",
-    "wof:geomhash":"4d392e88a8f7e9e1d131b1f7c3fb5faf",
+    "wof:geomhash":"daf7187a5bb84399590bcfd24b5e68f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752281,
-    "wof:lastmodified":1570000227,
+    "wof:lastmodified":1684354402,
     "wof:name":"Jedlnia-Letnisko",
     "wof:parent_id":102079805,
     "wof:placetype":"localadmin",
+    "wof:population":12838,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

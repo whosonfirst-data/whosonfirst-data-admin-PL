@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321640301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czaplinek",
+    "eurostat:nuts_2021_id":"1002321640301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321640301",
+    "eurostat:population":11867,
+    "eurostat:population_year":2020,
     "geom:area":0.04946,
-    "geom:area_square_m":363325982.061153,
+    "geom:area_square_m":363325982.061102,
     "geom:bbox":"16.051917119,53.421194241,16.457906135,53.693896586",
     "geom:latitude":53.553386,
     "geom:longitude":16.258656,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":16.24493,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080113
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321640301",
+        "eurostat:nuts_2021_id":"1002321640301"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"9bb122e59cc3f9214953538923a31635",
+    "wof:geomhash":"8eb1e05666492c2dd78455d1eec28d4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752315,
-    "wof:lastmodified":1570003383,
+    "wof:lastmodified":1684354403,
     "wof:name":"Gmina Czaplinek",
     "wof:parent_id":102080113,
     "wof:placetype":"localadmin",
+    "wof:population":11867,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

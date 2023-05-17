@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021012606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Z\u0142otoryja",
+    "eurostat:nuts_2021_id":"1003021012606",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021012606",
+    "eurostat:population":7021,
+    "eurostat:population_year":2020,
     "geom:area":0.018635,
-    "geom:area_square_m":144568956.004893,
+    "geom:area_square_m":144568956.004879,
     "geom:bbox":"15.836135,51.065497,16.063086,51.22721",
     "geom:latitude":51.140901,
     "geom:longitude":15.965377,
@@ -156,6 +168,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -163,11 +177,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079657,
-        85687301
+        85687301,
+        102079657
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021012606",
+        "eurostat:nuts_2021_id":"1003021012606",
         "gp:id":24547400,
         "qs_pg:id":1026343
     },
@@ -179,7 +195,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"910f55679f41c53077152e59105e3cf2",
+    "wof:geomhash":"b3ef44c965a6e932f1ba87921d4f694f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -190,10 +206,12 @@
         }
     ],
     "wof:id":1125401137,
-    "wof:lastmodified":1607726728,
+    "wof:lastmodified":1684354325,
     "wof:name":"Gmina Z\u0142otoryja",
     "wof:parent_id":102079657,
     "wof:placetype":"localadmin",
+    "wof:population":7021,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

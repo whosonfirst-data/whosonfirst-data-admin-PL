@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Domani\u00f3w",
+    "eurostat:nuts_2021_id":"1003021041502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041502",
+    "eurostat:population":5162,
+    "eurostat:population_year":2020,
     "geom:area":0.012069,
-    "geom:area_square_m":94108499.771869,
+    "geom:area_square_m":94108499.771856,
     "geom:bbox":"17.068244682,50.840470662,17.232165998,50.986946969",
     "geom:latitude":50.906952,
     "geom:longitude":17.147829,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":17.149046,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041502",
+        "eurostat:nuts_2021_id":"1003021041502"
+    },
     "wof:coterminous":[
         1125939949
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5163bdfed5776f348db9c58f5fd2bee1",
+    "wof:geomhash":"89a43eed1054890d5eb1a8111d33e95c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477751765,
-    "wof:lastmodified":1570004733,
+    "wof:lastmodified":1684354374,
     "wof:name":"Domani\u00f3w",
     "wof:parent_id":102079651,
     "wof:placetype":"localadmin",
+    "wof:population":5162,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

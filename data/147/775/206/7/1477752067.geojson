@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021020304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kotla",
+    "eurostat:nuts_2021_id":"1003021020304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021020304",
+    "eurostat:population":4455,
+    "eurostat:population_year":2020,
     "geom:area":0.016593,
-    "geom:area_square_m":127050465.480312,
+    "geom:area_square_m":127050465.480315,
     "geom:bbox":"15.91242708,51.677254128,16.177924314,51.80475365",
     "geom:latitude":51.739755,
     "geom:longitude":16.04206,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":16.042071,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079769
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021020304",
+        "eurostat:nuts_2021_id":"1003021020304"
+    },
     "wof:coterminous":[
         101821405
     ],
     "wof:country":"PL",
-    "wof:geomhash":"99cfc63bff5bb5aafc1ade9060125eb6",
+    "wof:geomhash":"b4e2569dd6dba95f0b846383af7a685c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477752067,
-    "wof:lastmodified":1570003794,
+    "wof:lastmodified":1684354390,
     "wof:name":"Kotla",
     "wof:parent_id":102079769,
     "wof:placetype":"localadmin",
+    "wof:population":4455,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

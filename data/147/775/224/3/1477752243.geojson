@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krasnystaw",
+    "eurostat:nuts_2021_id":"1006061100601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100601",
+    "eurostat:population":18630,
+    "eurostat:population_year":2020,
     "geom:area":0.005393,
-    "geom:area_square_m":41979033.7977,
+    "geom:area_square_m":41979033.797716,
     "geom:bbox":"23.095072229,50.953603933,23.244508506,51.030174462",
     "geom:latitude":50.987073,
     "geom:longitude":23.166697,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":23.174045,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079745
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100601",
+        "eurostat:nuts_2021_id":"1006061100601"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"8d1da13989a97da0f038b20adbff1c5f",
+    "wof:geomhash":"37d66fd59fc36e81f5f8a6082f2786a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752243,
-    "wof:lastmodified":1570002962,
+    "wof:lastmodified":1684354400,
     "wof:name":"Gmina Krasnystaw",
     "wof:parent_id":102079745,
     "wof:placetype":"localadmin",
+    "wof:population":18630,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

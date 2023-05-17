@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121231809",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wadowice",
+    "eurostat:nuts_2021_id":"1001121231809",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL21A",
+    "eurostat:nuts_2021_level_lau":"1001121231809",
+    "eurostat:population":37888,
+    "eurostat:population_year":2020,
     "geom:area":0.014111,
-    "geom:area_square_m":112461748.365722,
+    "geom:area_square_m":112461748.36568,
     "geom:bbox":"19.411902083,49.795587576,19.648209944,49.924621617",
     "geom:latitude":49.868541,
     "geom:longitude":19.512762,
@@ -84,6 +96,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121231809",
+        "eurostat:nuts_2021_id":"1001121231809",
         "gp:id":24548594,
         "qs_pg:id":1137236
     },
@@ -104,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"efdf8e8b77efb6231e9c4e2f5b6b9435",
+    "wof:geomhash":"2b1babeff9d65a3dd4a5ac78496c55f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +131,12 @@
         }
     ],
     "wof:id":1125341997,
-    "wof:lastmodified":1582357693,
+    "wof:lastmodified":1684354250,
     "wof:name":"Gmina Wadowice",
     "wof:parent_id":102079451,
     "wof:placetype":"localadmin",
+    "wof:population":37888,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

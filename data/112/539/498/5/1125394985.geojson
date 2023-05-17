@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081140906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sulech\u00f3w",
+    "eurostat:nuts_2021_id":"1002081140906",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081140906",
+    "eurostat:population":26521,
+    "eurostat:population_year":2020,
     "geom:area":0.031036,
-    "geom:area_square_m":235782894.620688,
+    "geom:area_square_m":235782894.620696,
     "geom:bbox":"15.403576649,52.005596963,15.747607172,52.182812896",
     "geom:latitude":52.092604,
     "geom:longitude":15.596462,
@@ -167,7 +179,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -180,6 +193,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081140906",
+        "eurostat:nuts_2021_id":"1002081140906",
         "gn:id":3084241,
         "gp:id":24547467,
         "qs_pg:id":1043129
@@ -189,7 +204,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8216727a675b8f121bef2d69cef21517",
+    "wof:geomhash":"f1126d87707365203f74fecdd1fe9bd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,12 +215,12 @@
         }
     ],
     "wof:id":1125394985,
-    "wof:lastmodified":1582357909,
+    "wof:lastmodified":1684354315,
     "wof:name":"Gmina Sulech\u00f3w",
     "wof:parent_id":102079851,
     "wof:placetype":"localadmin",
-    "wof:population":18055,
-    "wof:population_rank":6,
+    "wof:population":26521,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

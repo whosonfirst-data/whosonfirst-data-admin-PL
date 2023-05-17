@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181346201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przemy\u015bl",
+    "eurostat:nuts_2021_id":"1006181346201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181346201",
+    "eurostat:population":60689,
+    "eurostat:population_year":2020,
     "geom:area":0.005763,
-    "geom:area_square_m":46016489.415558,
+    "geom:area_square_m":46016489.415547,
     "geom:bbox":"22.713051,49.746351,22.855421,49.820646",
     "geom:latitude":49.780579,
     "geom:longitude":22.777138,
@@ -209,6 +221,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -216,11 +230,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079469,
-        85687295
+        85687295,
+        102079469
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181346201",
+        "eurostat:nuts_2021_id":"1006181346201",
         "gn:id":7531300,
         "gp:id":12617373,
         "qs_pg:id":240777
@@ -234,7 +250,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"45a035aabeee7dd9d82902bb88740985",
+    "wof:geomhash":"d3f69cb907fb4297face594ee8c6e1fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -245,10 +261,12 @@
         }
     ],
     "wof:id":1125412149,
-    "wof:lastmodified":1607726088,
+    "wof:lastmodified":1684354336,
     "wof:name":"Przemy\u015bl",
     "wof:parent_id":102079469,
     "wof:placetype":"localadmin",
+    "wof:population":60689,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

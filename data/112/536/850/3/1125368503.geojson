@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lipie",
+    "eurostat:nuts_2021_id":"1001241460603",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460603",
+    "eurostat:population":6224,
+    "eurostat:population_year":2020,
     "geom:area":0.012693,
-    "geom:area_square_m":98699859.294703,
+    "geom:area_square_m":98699859.29471,
     "geom:bbox":"18.671960942,50.982911029,18.894966358,51.076443683",
     "geom:latitude":51.034077,
     "geom:longitude":18.785378,
@@ -63,6 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460603",
+        "eurostat:nuts_2021_id":"1001241460603",
         "gp:id":12616660,
         "qs_pg:id":968159
     },
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"07cc4d3ea7b82f9d40a6449beb10fef7",
+    "wof:geomhash":"cea533c5e603011f1eb4f097027293ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":1125368503,
-    "wof:lastmodified":1582357967,
+    "wof:lastmodified":1684354279,
     "wof:name":"Lipie",
     "wof:parent_id":102079667,
     "wof:placetype":"localadmin",
+    "wof:population":6224,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

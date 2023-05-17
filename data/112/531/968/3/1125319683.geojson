@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081130302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mi\u0119dzyrzecz",
+    "eurostat:nuts_2021_id":"1002081130302",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL431",
+    "eurostat:nuts_2021_level_lau":"1002081130302",
+    "eurostat:population":24815,
+    "eurostat:population_year":2020,
     "geom:area":0.041665,
-    "geom:area_square_m":314135908.725668,
+    "geom:area_square_m":314135908.725657,
     "geom:bbox":"15.395795514,52.342108581,15.768649265,52.536830054",
     "geom:latitude":52.429758,
     "geom:longitude":15.57187,
@@ -144,6 +156,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -156,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081130302",
+        "eurostat:nuts_2021_id":"1002081130302",
         "gp:id":24547826,
         "qs_pg:id":1109930
     },
@@ -164,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"18e143cfc8e13e45b1f5c597797bc189",
+    "wof:geomhash":"2a231f989736a4a126b97292a86adfc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +191,12 @@
         }
     ],
     "wof:id":1125319683,
-    "wof:lastmodified":1582357952,
+    "wof:lastmodified":1684354223,
     "wof:name":"Gmina Mi\u0119dzyrzecz",
     "wof:parent_id":102079947,
     "wof:placetype":"localadmin",
+    "wof:population":24815,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

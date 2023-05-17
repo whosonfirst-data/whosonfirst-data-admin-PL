@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161310101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brzeg",
+    "eurostat:nuts_2021_id":"1003161310101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161310101",
+    "eurostat:population":35709,
+    "eurostat:population_year":2020,
     "geom:area":0.001865,
-    "geom:area_square_m":14560104.025206,
+    "geom:area_square_m":14560104.025211,
     "geom:bbox":"17.418139,50.83894,17.507573,50.878907",
     "geom:latitude":50.858255,
     "geom:longitude":17.463755,
@@ -156,6 +168,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -163,11 +177,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079631,
-        85687313
+        85687313,
+        102079631
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161310101",
+        "eurostat:nuts_2021_id":"1003161310101",
         "gp:id":24548676,
         "qs_pg:id":1191085
     },
@@ -180,7 +196,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"462cc83750007c88fe34c563d0d94aa7",
+    "wof:geomhash":"6fe298df710b7bdfb082f40890019bb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,10 +207,12 @@
         }
     ],
     "wof:id":1125304953,
-    "wof:lastmodified":1607725357,
+    "wof:lastmodified":1684354206,
     "wof:name":"Brzeg",
     "wof:parent_id":102079631,
     "wof:placetype":"localadmin",
+    "wof:population":35709,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

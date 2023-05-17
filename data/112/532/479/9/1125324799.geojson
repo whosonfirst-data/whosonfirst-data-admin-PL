@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041086401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u0142oc\u0142awek",
+    "eurostat:nuts_2021_id":"1004041086401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041086401",
+    "eurostat:population":109883,
+    "eurostat:population_year":2020,
     "geom:area":0.0112,
-    "geom:area_square_m":83995698.538796,
+    "geom:area_square_m":83995698.53879,
     "geom:bbox":"18.939054,52.59479,19.182608,52.735971",
     "geom:latitude":52.661269,
     "geom:longitude":19.057504,
@@ -200,6 +212,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -207,11 +221,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079983,
-        85687319
+        85687319,
+        102079983
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041086401",
+        "eurostat:nuts_2021_id":"1004041086401",
         "gn:id":7532956,
         "gp:id":12618853,
         "qs_pg:id":1112457
@@ -225,7 +241,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f48e37d4cea2538ae80ed9fadb564c1a",
+    "wof:geomhash":"1c83a64146fe92713bf3e9fc60687fcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -236,10 +252,12 @@
         }
     ],
     "wof:id":1125324799,
-    "wof:lastmodified":1607725540,
+    "wof:lastmodified":1684354233,
     "wof:name":"W\u0142oc\u0142awek",
     "wof:parent_id":102079983,
     "wof:placetype":"localadmin",
+    "wof:population":109883,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

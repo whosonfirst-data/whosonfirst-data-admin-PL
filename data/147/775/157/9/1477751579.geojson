@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kobylin-Borzymy",
+    "eurostat:nuts_2021_id":"1006201381305",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381305",
+    "eurostat:population":3197,
+    "eurostat:population_year":2020,
     "geom:area":0.016017,
-    "geom:area_square_m":118955894.441498,
+    "geom:area_square_m":118955894.44149,
     "geom:bbox":"22.55986245,53.019991345,22.811665069,53.143783011",
     "geom:latitude":53.084656,
     "geom:longitude":22.666068,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":22.65564,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080095
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381305",
+        "eurostat:nuts_2021_id":"1006201381305"
+    },
     "wof:coterminous":[
         1125885299
     ],
     "wof:country":"PL",
-    "wof:geomhash":"092db3edb03ad62a073881b9bb3ceb33",
+    "wof:geomhash":"63e86c80781f192f47b5c1bdb2e0b504",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751579,
-    "wof:lastmodified":1569999050,
+    "wof:lastmodified":1684354365,
     "wof:name":"Kobylin-Borzymy",
     "wof:parent_id":102080095,
     "wof:placetype":"localadmin",
+    "wof:population":3197,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

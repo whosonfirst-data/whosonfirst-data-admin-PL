@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Goworowo",
+    "eurostat:nuts_2021_id":"1007142261504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261504",
+    "eurostat:population":8275,
+    "eurostat:population_year":2020,
     "geom:area":0.029255,
-    "geom:area_square_m":218230652.025193,
+    "geom:area_square_m":218230652.02514,
     "geom:bbox":"21.418182972,52.798214357,21.693666117,52.991163701",
     "geom:latitude":52.895031,
     "geom:longitude":21.538922,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":21.525458,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080139
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261504",
+        "eurostat:nuts_2021_id":"1007142261504"
+    },
     "wof:coterminous":[
         1310433263
     ],
     "wof:country":"PL",
-    "wof:geomhash":"ec35646ea58d27c3c05ac65e0f1dd38b",
+    "wof:geomhash":"fae5d69a0fb7a130a7004b2ccc577b56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125400187,
-    "wof:lastmodified":1569998158,
+    "wof:lastmodified":1684354324,
     "wof:name":"Goworowo",
     "wof:parent_id":102080139,
     "wof:placetype":"localadmin",
+    "wof:population":8275,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

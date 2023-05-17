@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142270903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lipsko",
+    "eurostat:nuts_2021_id":"1007142270903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142270903",
+    "eurostat:population":10970,
+    "eurostat:population_year":2020,
     "geom:area":0.017377,
-    "geom:area_square_m":134782190.192368,
+    "geom:area_square_m":134782190.192362,
     "geom:bbox":"21.507289045,51.069451074,21.735076502,51.228930521",
     "geom:latitude":51.151871,
     "geom:longitude":21.615304,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":21.61359,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079757
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142270903",
+        "eurostat:nuts_2021_id":"1007142270903"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"c5de38fc71e24c08b4f49bb78b57cc3f",
+    "wof:geomhash":"fc5a91cf8636c99144a9641ccc627223",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752155,
-    "wof:lastmodified":1570002917,
+    "wof:lastmodified":1684354395,
     "wof:name":"Gmina Lipsko",
     "wof:parent_id":102079757,
     "wof:placetype":"localadmin",
+    "wof:population":10970,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

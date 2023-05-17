@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301571802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Doruch\u00f3w",
+    "eurostat:nuts_2021_id":"1002301571802",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301571802",
+    "eurostat:population":5383,
+    "eurostat:population_year":2020,
     "geom:area":0.012854,
-    "geom:area_square_m":99135638.934687,
+    "geom:area_square_m":99135638.9347,
     "geom:bbox":"17.982316953,51.357546091,18.211316488,51.448191682",
     "geom:latitude":51.409839,
     "geom:longitude":18.092818,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":18.083598,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079747
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301571802",
+        "eurostat:nuts_2021_id":"1002301571802"
+    },
     "wof:coterminous":[
         101821351
     ],
     "wof:country":"PL",
-    "wof:geomhash":"443deebee09e041fb7fefcc565579509",
+    "wof:geomhash":"cdee9bd44370c5c9cd7413bdbca861da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752439,
-    "wof:lastmodified":1570000285,
+    "wof:lastmodified":1684354410,
     "wof:name":"Doruch\u00f3w",
     "wof:parent_id":102079747,
     "wof:placetype":"localadmin",
+    "wof:population":5383,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

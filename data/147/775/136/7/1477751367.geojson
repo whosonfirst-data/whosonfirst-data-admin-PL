@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380507",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kleszczele",
+    "eurostat:nuts_2021_id":"1006201380507",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380507",
+    "eurostat:population":2466,
+    "eurostat:population_year":2020,
     "geom:area":0.018942,
-    "geom:area_square_m":142313041.413776,
+    "geom:area_square_m":142313041.413797,
     "geom:bbox":"23.174813253,52.531341573,23.506167888,52.659499378",
     "geom:latitude":52.58272,
     "geom:longitude":23.331804,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":23.320577,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080091
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380507",
+        "eurostat:nuts_2021_id":"1006201380507"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"f99cd3beef63eab96a1c70b05e487ab2",
+    "wof:geomhash":"f46e9c617b7f83babf87c44b317b999b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751367,
-    "wof:lastmodified":1570002237,
+    "wof:lastmodified":1684354354,
     "wof:name":"Gmina Kleszczele",
     "wof:parent_id":102080091,
     "wof:placetype":"localadmin",
+    "wof:population":2466,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

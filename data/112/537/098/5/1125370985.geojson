@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081130103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Deszczno",
+    "eurostat:nuts_2021_id":"1002081130103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL431",
+    "eurostat:nuts_2021_level_lau":"1002081130103",
+    "eurostat:population":9942,
+    "eurostat:population_year":2020,
     "geom:area":0.022351,
-    "geom:area_square_m":167650192.983705,
+    "geom:area_square_m":167650192.983703,
     "geom:bbox":"15.157720853,52.58439808,15.421517404,52.735073883",
     "geom:latitude":52.65471,
     "geom:longitude":15.292368,
@@ -77,7 +89,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -90,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081130103",
+        "eurostat:nuts_2021_id":"1002081130103",
         "gn:id":3100465,
         "gp:id":12617910,
         "qs_pg:id":332051
@@ -102,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b919be4266177afa0130d7b0c2d2347b",
+    "wof:geomhash":"79609a52e1b4be392878604b62fef85a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,12 +128,12 @@
         }
     ],
     "wof:id":1125370985,
-    "wof:lastmodified":1582357846,
+    "wof:lastmodified":1684354282,
     "wof:name":"Deszczno",
     "wof:parent_id":102079975,
     "wof:placetype":"localadmin",
-    "wof:population":1100,
-    "wof:population_rank":3,
+    "wof:population":9942,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

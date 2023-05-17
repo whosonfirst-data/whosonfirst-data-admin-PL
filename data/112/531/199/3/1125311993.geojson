@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021031906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strzegom",
+    "eurostat:nuts_2021_id":"1003021031906",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021031906",
+    "eurostat:population":25708,
+    "eurostat:population_year":2020,
     "geom:area":0.018507,
-    "geom:area_square_m":144128120.196051,
+    "geom:area_square_m":144128120.196049,
     "geom:bbox":"16.249156309,50.877667888,16.484416326,51.029722989",
     "geom:latitude":50.964648,
     "geom:longitude":16.34748,
@@ -126,6 +138,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -138,6 +152,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021031906",
+        "eurostat:nuts_2021_id":"1003021031906",
         "gp:id":24547445,
         "qs_pg:id":1197186
     },
@@ -146,7 +162,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8242b1475994af8c9803f2b11b2664dd",
+    "wof:geomhash":"31be856e48b1a15aa078878c51f5d7e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +173,12 @@
         }
     ],
     "wof:id":1125311993,
-    "wof:lastmodified":1582357954,
+    "wof:lastmodified":1684354216,
     "wof:name":"Gmina Strzegom",
     "wof:parent_id":102079625,
     "wof:placetype":"localadmin",
+    "wof:population":25708,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

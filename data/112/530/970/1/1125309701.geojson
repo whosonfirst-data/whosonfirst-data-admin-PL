@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561410",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Purda",
+    "eurostat:nuts_2021_id":"1004281561410",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561410",
+    "eurostat:population":8708,
+    "eurostat:population_year":2020,
     "geom:area":0.043248,
-    "geom:area_square_m":316730713.895616,
+    "geom:area_square_m":316730713.89556,
     "geom:bbox":"20.484443666,53.543794479,20.863800284,53.785693291",
     "geom:latitude":53.681365,
     "geom:longitude":20.640581,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.637702,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080207
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561410",
+        "eurostat:nuts_2021_id":"1004281561410"
+    },
     "wof:coterminous":[
         1126014901
     ],
     "wof:country":"PL",
-    "wof:geomhash":"bc18f7f2e798a78c06a420b6f61dfdeb",
+    "wof:geomhash":"2f85cf6419a823df25b85564e956c04d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125309701,
-    "wof:lastmodified":1569994429,
+    "wof:lastmodified":1684354212,
     "wof:name":"Purda",
     "wof:parent_id":102080207,
     "wof:placetype":"localadmin",
+    "wof:population":8708,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

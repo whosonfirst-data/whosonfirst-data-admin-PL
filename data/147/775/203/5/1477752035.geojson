@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041061504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lubicz",
+    "eurostat:nuts_2021_id":"1004041061504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL613",
+    "eurostat:nuts_2021_level_lau":"1004041061504",
+    "eurostat:population":20181,
+    "eurostat:population_year":2020,
     "geom:area":0.014168,
-    "geom:area_square_m":105316976.967463,
+    "geom:area_square_m":105316976.967476,
     "geom:bbox":"18.677291456,52.947866117,18.864796907,53.133300506",
     "geom:latitude":53.046945,
     "geom:longitude":18.764433,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":18.773603,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080063
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041061504",
+        "eurostat:nuts_2021_id":"1004041061504"
+    },
     "wof:coterminous":[
         1125806195
     ],
     "wof:country":"PL",
-    "wof:geomhash":"c3c4d2e0ba871378e9220cec2b1aa040",
+    "wof:geomhash":"bcd9e3e7c030355f148562c59e3a8b55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752035,
-    "wof:lastmodified":1570000778,
+    "wof:lastmodified":1684354388,
     "wof:name":"Lubicz",
     "wof:parent_id":102080063,
     "wof:placetype":"localadmin",
+    "wof:population":20181,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221421401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tczew",
+    "eurostat:nuts_2021_id":"1004221421401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221421401",
+    "eurostat:population":59951,
+    "eurostat:population_year":2020,
     "geom:area":0.003069,
-    "geom:area_square_m":22255504.069511,
+    "geom:area_square_m":22255504.069516,
     "geom:bbox":"18.742642187,54.060771868,18.820578811,54.120661425",
     "geom:latitude":54.089518,
     "geom:longitude":18.781994,
@@ -201,6 +213,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -213,6 +227,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221421401",
+        "eurostat:nuts_2021_id":"1004221421401",
         "gp:id":24547708,
         "qs_pg:id":1103244
     },
@@ -221,7 +237,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e5953f0cfa6ffdbd9eb47b8200667c07",
+    "wof:geomhash":"3944c4ba3e0ca2156cea7680b9f25586",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -232,10 +248,12 @@
         }
     ],
     "wof:id":1125304177,
-    "wof:lastmodified":1582357890,
+    "wof:lastmodified":1684354198,
     "wof:name":"Gmina Tczew",
     "wof:parent_id":102080191,
     "wof:placetype":"localadmin",
+    "wof:population":59951,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

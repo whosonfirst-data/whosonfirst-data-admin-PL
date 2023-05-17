@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041671905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rogowo",
+    "eurostat:nuts_2021_id":"1004041671905",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL617",
+    "eurostat:nuts_2021_level_lau":"1004041671905",
+    "eurostat:population":6828,
+    "eurostat:population_year":2020,
     "geom:area":0.02378,
-    "geom:area_square_m":178160776.495656,
+    "geom:area_square_m":178160776.495675,
     "geom:bbox":"17.545706507,52.601664389,17.815452047,52.807956547",
     "geom:latitude":52.706017,
     "geom:longitude":17.679254,
@@ -68,7 +80,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -81,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041671905",
+        "eurostat:nuts_2021_id":"1004041671905",
         "gn:id":3087097,
         "gp:id":12618058,
         "qs_pg:id":938919
@@ -93,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"be10ca32be763241f5c3866bcc0e78ad",
+    "wof:geomhash":"7d1f31400f08bc953f1ee213e3f2eed5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,12 +119,12 @@
         }
     ],
     "wof:id":1125298751,
-    "wof:lastmodified":1582357811,
+    "wof:lastmodified":1684354191,
     "wof:name":"Rogowo",
     "wof:parent_id":102080017,
     "wof:placetype":"localadmin",
-    "wof:population":2127,
-    "wof:population_rank":4,
+    "wof:population":6828,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

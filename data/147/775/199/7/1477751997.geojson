@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142273605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zwole\u0144",
+    "eurostat:nuts_2021_id":"1007142273605",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142273605",
+    "eurostat:population":15125,
+    "eurostat:population_year":2020,
     "geom:area":0.020875,
-    "geom:area_square_m":161198080.191099,
+    "geom:area_square_m":161198080.191082,
     "geom:bbox":"21.445073982,51.26431073,21.707044559,51.425234741",
     "geom:latitude":51.353491,
     "geom:longitude":21.586475,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":21.584513,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079799
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142273605",
+        "eurostat:nuts_2021_id":"1007142273605"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"3ae77a9f6da863cff5a6219ceffaec9c",
+    "wof:geomhash":"babcdb14aac443b1c6d5b1b03f059664",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751997,
-    "wof:lastmodified":1570002457,
+    "wof:lastmodified":1684354386,
     "wof:name":"Gmina Zwole\u0144",
     "wof:parent_id":102079799,
     "wof:placetype":"localadmin",
+    "wof:population":15125,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

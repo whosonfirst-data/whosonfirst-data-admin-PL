@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121220711",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u0142opnice",
+    "eurostat:nuts_2021_id":"1001121220711",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121220711",
+    "eurostat:population":6764,
+    "eurostat:population_year":2020,
     "geom:area":0.007081,
-    "geom:area_square_m":56661691.730725,
+    "geom:area_square_m":56661691.730744,
     "geom:bbox":"20.276087783,49.632487299,20.389198887,49.719073309",
     "geom:latitude":49.673695,
     "geom:longitude":20.332936,
@@ -66,6 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -78,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121220711",
+        "eurostat:nuts_2021_id":"1001121220711",
         "gp:id":12618891,
         "qs_pg:id":493142
     },
@@ -89,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ccad80aaa17d26e3136d43deea23524a",
+    "wof:geomhash":"2b88fcc3def5d1c73a14f2eacdb3a8c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":1125315497,
-    "wof:lastmodified":1582357960,
+    "wof:lastmodified":1684354220,
     "wof:name":"S\u0142opnice",
     "wof:parent_id":102079423,
     "wof:placetype":"localadmin",
+    "wof:population":6764,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

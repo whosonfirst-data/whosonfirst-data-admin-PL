@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041061505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0141ubianka",
+    "eurostat:nuts_2021_id":"1004041061505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL613",
+    "eurostat:nuts_2021_level_lau":"1004041061505",
+    "eurostat:population":7293,
+    "eurostat:population_year":2020,
     "geom:area":0.011349,
-    "geom:area_square_m":84181871.249267,
+    "geom:area_square_m":84181871.249248,
     "geom:bbox":"18.409394087,53.080325329,18.561307905,53.201687843",
     "geom:latitude":53.140022,
     "geom:longitude":18.485218,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":18.479122,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080063
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041061505",
+        "eurostat:nuts_2021_id":"1004041061505"
+    },
     "wof:coterminous":[
         1477865399
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f248be3b59db5f6bda511c98df5174f4",
+    "wof:geomhash":"375fee132f94d39cce8ab1333868aa47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125288853,
-    "wof:lastmodified":1569990795,
+    "wof:lastmodified":1684354166,
     "wof:name":"\u0141ubianka",
     "wof:parent_id":102080063,
     "wof:placetype":"localadmin",
+    "wof:population":7293,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

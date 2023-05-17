@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261509",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olszewo-Borki",
+    "eurostat:nuts_2021_id":"1007142261509",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261509",
+    "eurostat:population":10786,
+    "eurostat:population_year":2020,
     "geom:area":0.026377,
-    "geom:area_square_m":195944042.739134,
+    "geom:area_square_m":195944042.739114,
     "geom:bbox":"21.227506865,52.984240467,21.562001511,53.144726284",
     "geom:latitude":53.074552,
     "geom:longitude":21.425889,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":21.428449,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080139
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261509",
+        "eurostat:nuts_2021_id":"1007142261509"
+    },
     "wof:coterminous":[
         1126046539
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b4c5a0ca78f4dd1ab997914d2c779c83",
+    "wof:geomhash":"be53a720f994a5f98592eee0d669511b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752151,
-    "wof:lastmodified":1570002883,
+    "wof:lastmodified":1684354395,
     "wof:name":"Olszewo-Borki",
     "wof:parent_id":102080139,
     "wof:placetype":"localadmin",
+    "wof:population":10786,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

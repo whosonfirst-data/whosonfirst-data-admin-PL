@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281560905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orneta",
+    "eurostat:nuts_2021_id":"1004281560905",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281560905",
+    "eurostat:population":11909,
+    "eurostat:population_year":2020,
     "geom:area":0.033572,
-    "geom:area_square_m":243197050.141453,
+    "geom:area_square_m":243197050.141432,
     "geom:bbox":"19.943645937,54.051240884,20.332703612,54.202309776",
     "geom:latitude":54.137719,
     "geom:longitude":20.142273,
@@ -143,7 +155,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -156,6 +169,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281560905",
+        "eurostat:nuts_2021_id":"1004281560905",
         "gn:id":763066,
         "gp:id":24547417,
         "qs_pg:id":962334
@@ -165,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ed8107aa0d274ad43b58285e852ef175",
+    "wof:geomhash":"f86ad6ec7535722e334bc1c307a35ce0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,12 +191,12 @@
         }
     ],
     "wof:id":1125367743,
-    "wof:lastmodified":1582357983,
+    "wof:lastmodified":1684354277,
     "wof:name":"Gmina Orneta",
     "wof:parent_id":102080215,
     "wof:placetype":"localadmin",
-    "wof:population":9412,
-    "wof:population_rank":5,
+    "wof:population":11909,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

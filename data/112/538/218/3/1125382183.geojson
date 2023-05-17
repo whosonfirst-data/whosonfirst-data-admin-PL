@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141300506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017babia Wola",
+    "eurostat:nuts_2021_id":"1007141300506",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141300506",
+    "eurostat:population":8985,
+    "eurostat:population_year":2020,
     "geom:area":0.013797,
-    "geom:area_square_m":105019048.198705,
+    "geom:area_square_m":105019048.198731,
     "geom:bbox":"20.595125004,51.924567168,20.772582635,52.071400787",
     "geom:latitude":52.005223,
     "geom:longitude":20.676009,
@@ -56,6 +68,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -64,6 +78,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141300506",
+        "eurostat:nuts_2021_id":"1007141300506",
         "gn:id":7531544,
         "qs_pg:id":1154813
     },
@@ -75,7 +91,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0ff41c388b8574c08af65018452884d0",
+    "wof:geomhash":"258d52195141c601682d851bd5cec2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,10 +102,12 @@
         }
     ],
     "wof:id":1125382183,
-    "wof:lastmodified":1582357929,
+    "wof:lastmodified":1684354299,
     "wof:name":"\u017babia Wola",
     "wof:parent_id":102079909,
     "wof:placetype":"localadmin",
+    "wof:population":8985,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

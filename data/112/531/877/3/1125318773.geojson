@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241497301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rybnik",
+    "eurostat:nuts_2021_id":"1001241497301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL227",
+    "eurostat:nuts_2021_level_lau":"1001241497301",
+    "eurostat:population":138098,
+    "eurostat:population_year":2020,
     "geom:area":0.018634,
-    "geom:area_square_m":147783315.693538,
+    "geom:area_square_m":147783315.693555,
     "geom:bbox":"18.441684,50.035408,18.65684,50.185671",
     "geom:latitude":50.105572,
     "geom:longitude":18.544221,
@@ -195,6 +207,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -202,11 +216,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079463,
-        85687277
+        85687277,
+        102079463
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241497301",
+        "eurostat:nuts_2021_id":"1001241497301",
         "gp:id":12618734,
         "qs_pg:id":210650
     },
@@ -219,7 +235,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f2b18883079cec7d93af9ab6ed3e7ebc",
+    "wof:geomhash":"98d51107f67c33ac117e7260f7032f08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -230,10 +246,12 @@
         }
     ],
     "wof:id":1125318773,
-    "wof:lastmodified":1607725978,
+    "wof:lastmodified":1684354222,
     "wof:name":"Rybnik",
     "wof:parent_id":102079463,
     "wof:placetype":"localadmin",
+    "wof:population":138098,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

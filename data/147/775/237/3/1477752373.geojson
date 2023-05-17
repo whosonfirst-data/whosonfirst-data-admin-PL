@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200908",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tokarnia",
+    "eurostat:nuts_2021_id":"1001121200908",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200908",
+    "eurostat:population":8820,
+    "eurostat:population_year":2020,
     "geom:area":0.00856,
-    "geom:area_square_m":68401588.622744,
+    "geom:area_square_m":68401588.622726,
     "geom:bbox":"19.772045156,49.704135484,19.960635681,49.773789163",
     "geom:latitude":49.73994,
     "geom:longitude":19.861675,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":19.859888,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079441
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200908",
+        "eurostat:nuts_2021_id":"1001121200908"
+    },
     "wof:coterminous":[
         101863255
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b2b676b3f7ab8ac8ca26266387292b90",
+    "wof:geomhash":"3c91679125534015648d958a66a6c7c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752373,
-    "wof:lastmodified":1570003897,
+    "wof:lastmodified":1684354406,
     "wof:name":"Tokarnia",
     "wof:parent_id":102079441,
     "wof:placetype":"localadmin",
+    "wof:population":8820,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

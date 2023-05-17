@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081130604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strzelce Kraje\u0144skie",
+    "eurostat:nuts_2021_id":"1002081130604",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL431",
+    "eurostat:nuts_2021_level_lau":"1002081130604",
+    "eurostat:population":16993,
+    "eurostat:population_year":2020,
     "geom:area":0.042608,
-    "geom:area_square_m":317706888.655058,
+    "geom:area_square_m":317706888.655031,
     "geom:bbox":"15.282861317,52.794376757,15.691142893,53.014461354",
     "geom:latitude":52.913718,
     "geom:longitude":15.499516,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":15.502613,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102080011
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002081130604",
+        "eurostat:nuts_2021_id":"1002081130604"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"7d294d23e4d7e27121e751ea680852d1",
+    "wof:geomhash":"1609d83fd95664a2e215ae9b7812f45f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752571,
-    "wof:lastmodified":1570000459,
+    "wof:lastmodified":1684354416,
     "wof:name":"Gmina Strzelce Kraje\u0144skie",
     "wof:parent_id":102080011,
     "wof:placetype":"localadmin",
+    "wof:population":16993,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

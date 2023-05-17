@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221720204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czersk",
+    "eurostat:nuts_2021_id":"1004221720204",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL637",
+    "eurostat:nuts_2021_level_lau":"1004221720204",
+    "eurostat:population":21644,
+    "eurostat:population_year":2020,
     "geom:area":0.051822,
-    "geom:area_square_m":378501366.334354,
+    "geom:area_square_m":378501366.334358,
     "geom:bbox":"17.65457,53.678803,18.140213,53.931189",
     "geom:latitude":53.794955,
     "geom:longitude":17.915001,
@@ -68,6 +80,8 @@
     "reversegeo:longitude":17.999521,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -75,11 +89,15 @@
         102080161
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221720204",
+        "eurostat:nuts_2021_id":"1004221720204"
+    },
     "wof:coterminous":[
         1477865679
     ],
     "wof:country":"PL",
-    "wof:geomhash":"96db63b7c27060b7598bcdad9f392234",
+    "wof:geomhash":"f10300796fdf26297c8f0596522faaac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +108,12 @@
         }
     ],
     "wof:id":1477752079,
-    "wof:lastmodified":1617129976,
+    "wof:lastmodified":1684354391,
     "wof:name":"Gmina Czersk",
     "wof:parent_id":102080161,
     "wof:placetype":"localadmin",
+    "wof:population":21644,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

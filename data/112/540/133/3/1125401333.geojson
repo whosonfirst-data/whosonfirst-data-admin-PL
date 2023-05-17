@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021032404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stoszowice",
+    "eurostat:nuts_2021_id":"1003021032404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021032404",
+    "eurostat:population":5381,
+    "eurostat:population_year":2020,
     "geom:area":0.014043,
-    "geom:area_square_m":110217343.652798,
+    "geom:area_square_m":110217343.652797,
     "geom:bbox":"16.579259095,50.52747487,16.773707383,50.667662585",
     "geom:latitude":50.601273,
     "geom:longitude":16.683583,
@@ -66,6 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -78,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021032404",
+        "eurostat:nuts_2021_id":"1003021032404",
         "gp:id":12618262,
         "qs_pg:id":899998
     },
@@ -89,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c32a53bca7d6ff23808795c3d4efd40b",
+    "wof:geomhash":"ecdeb7307aa89352e79979158657e959",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":1125401333,
-    "wof:lastmodified":1582357993,
+    "wof:lastmodified":1684354325,
     "wof:name":"Stoszowice",
     "wof:parent_id":102079577,
     "wof:placetype":"localadmin",
+    "wof:population":5381,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

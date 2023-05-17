@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radzi\u0142\u00f3w",
+    "eurostat:nuts_2021_id":"1006201390403",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390403",
+    "eurostat:population":4722,
+    "eurostat:population_year":2020,
     "geom:area":0.026971,
-    "geom:area_square_m":198726086.50317,
+    "geom:area_square_m":198726086.503219,
     "geom:bbox":"22.284965527,53.348590652,22.622077358,53.492892709",
     "geom:latitude":53.424503,
     "geom:longitude":22.443875,
@@ -56,6 +68,8 @@
     "reversegeo:longitude":22.455286,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -63,11 +77,15 @@
         102080181
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390403",
+        "eurostat:nuts_2021_id":"1006201390403"
+    },
     "wof:coterminous":[
         101820647
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2ce40c64128815a54561547fc9374156",
+    "wof:geomhash":"50500e345cfa8ba3e9338aa167768faf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752141,
-    "wof:lastmodified":1570003296,
+    "wof:lastmodified":1684354394,
     "wof:name":"Radzi\u0142\u00f3w",
     "wof:parent_id":102080181,
     "wof:placetype":"localadmin",
+    "wof:population":4722,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

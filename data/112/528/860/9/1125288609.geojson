@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142712906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Repki",
+    "eurostat:nuts_2021_id":"1007142712906",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142712906",
+    "eurostat:population":5173,
+    "eurostat:population_year":2020,
     "geom:area":0.022246,
-    "geom:area_square_m":167913363.712953,
+    "geom:area_square_m":167913363.713002,
     "geom:bbox":"22.306054439,52.313727907,22.564639863,52.439474658",
     "geom:latitude":52.379223,
     "geom:longitude":22.431768,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":22.43419,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080023
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142712906",
+        "eurostat:nuts_2021_id":"1007142712906"
+    },
     "wof:coterminous":[
         1477864875
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5a0411e123704d11ad7c426f4d76bbef",
+    "wof:geomhash":"84efc85681db233c4e0a7718d43dbf50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125288609,
-    "wof:lastmodified":1569990384,
+    "wof:lastmodified":1684354161,
     "wof:name":"Repki",
     "wof:parent_id":102080023,
     "wof:placetype":"localadmin",
+    "wof:population":5173,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

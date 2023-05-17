@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321631303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dar\u0142owo",
+    "eurostat:nuts_2021_id":"1002321631303",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321631303",
+    "eurostat:population":7949,
+    "eurostat:population_year":2020,
     "geom:area":0.037259,
-    "geom:area_square_m":268273125.205176,
+    "geom:area_square_m":268273125.205152,
     "geom:bbox":"16.214198,54.2828,16.587145,54.513997",
     "geom:latitude":54.387577,
     "geom:longitude":16.43566,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -94,11 +108,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080227,
-        85687271
+        85687271,
+        102080227
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321631303",
+        "eurostat:nuts_2021_id":"1002321631303",
         "gp:id":24547518,
         "qs_pg:id":1109910
     },
@@ -110,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"49b86bd2bafd5434cc40a5c700486733",
+    "wof:geomhash":"c73d6512485ef79ffe821af6435cd856",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":1125319633,
-    "wof:lastmodified":1607726603,
+    "wof:lastmodified":1684354223,
     "wof:name":"Gmina Dar\u0142owo",
     "wof:parent_id":102080227,
     "wof:placetype":"localadmin",
+    "wof:population":7949,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

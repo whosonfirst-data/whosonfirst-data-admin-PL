@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021032407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Z\u0142oty Stok",
+    "eurostat:nuts_2021_id":"1003021032407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021032407",
+    "eurostat:population":4447,
+    "eurostat:population_year":2020,
     "geom:area":0.009525,
-    "geom:area_square_m":75001581.281191,
+    "geom:area_square_m":75001581.281195,
     "geom:bbox":"16.755251777,50.397360014,16.9477985,50.48881191",
     "geom:latitude":50.447646,
     "geom:longitude":16.843258,
@@ -56,6 +68,8 @@
     "reversegeo:longitude":16.828681,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -63,8 +77,12 @@
         102079577
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021032407",
+        "eurostat:nuts_2021_id":"1003021032407"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"0e60cef141918cb8d360bd22049924ef",
+    "wof:geomhash":"fd637e95b820129b703a36dc2461eb38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477752371,
-    "wof:lastmodified":1570003893,
+    "wof:lastmodified":1684354406,
     "wof:name":"Gmina Z\u0142oty Stok",
     "wof:parent_id":102079577,
     "wof:placetype":"localadmin",
+    "wof:population":4447,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

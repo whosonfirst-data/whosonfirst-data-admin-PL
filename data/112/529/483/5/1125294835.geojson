@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142272511",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wierzbica",
+    "eurostat:nuts_2021_id":"1007142272511",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142272511",
+    "eurostat:population":9672,
+    "eurostat:population_year":2020,
     "geom:area":0.012114,
-    "geom:area_square_m":93757882.010414,
+    "geom:area_square_m":93757882.01045,
     "geom:bbox":"21.001756785,51.195847877,21.198780805,51.305658539",
     "geom:latitude":51.248327,
     "geom:longitude":21.096306,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142272511",
+        "eurostat:nuts_2021_id":"1007142272511",
         "gn:id":755810,
         "gp:id":12617745,
         "qs_pg:id":1099622
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b63a582f77e6bc164228ea60381dcc3f",
+    "wof:geomhash":"9cc208346162c12f31f1a119d0c3e65b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125294835,
-    "wof:lastmodified":1582357810,
+    "wof:lastmodified":1684354182,
     "wof:name":"Wierzbica",
     "wof:parent_id":102079805,
     "wof:placetype":"localadmin",
-    "wof:population":3956,
-    "wof:population_rank":4,
+    "wof:population":9672,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

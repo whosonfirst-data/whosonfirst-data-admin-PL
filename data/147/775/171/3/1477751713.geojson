@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021021101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lubin",
+    "eurostat:nuts_2021_id":"1003021021101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021021101",
+    "eurostat:population":72300,
+    "eurostat:population_year":2020,
     "geom:area":0.005265,
-    "geom:area_square_m":40616341.94661,
+    "geom:area_square_m":40616341.946602,
     "geom:bbox":"16.129634123,51.358967235,16.258249374,51.439867476",
     "geom:latitude":51.399679,
     "geom:longitude":16.195627,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":16.199973,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079735
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021021101",
+        "eurostat:nuts_2021_id":"1003021021101"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"116ca91d6c0020532fcb0388408346d7",
+    "wof:geomhash":"9a06b39acc8db5a560cc6a48f72dd1ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751713,
-    "wof:lastmodified":1570004788,
+    "wof:lastmodified":1684354372,
     "wof:name":"Gmina Lubin",
     "wof:parent_id":102079735,
     "wof:placetype":"localadmin",
+    "wof:population":72300,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

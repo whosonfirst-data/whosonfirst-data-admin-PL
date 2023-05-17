@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281566201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olsztyn",
+    "eurostat:nuts_2021_id":"1004281566201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281566201",
+    "eurostat:population":171979,
+    "eurostat:population_year":2020,
     "geom:area":0.012039,
-    "geom:area_square_m":87955471.713998,
+    "geom:area_square_m":87955471.713987,
     "geom:bbox":"20.36649,53.724125,20.566645,53.828985",
     "geom:latitude":53.781727,
     "geom:longitude":20.474159,
@@ -278,6 +290,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -285,11 +299,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080163,
-        85687305
+        85687305,
+        102080163
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281566201",
+        "eurostat:nuts_2021_id":"1004281566201",
         "gn:id":7532914,
         "gp:id":12616573,
         "qs_pg:id":1190412
@@ -303,7 +319,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6e96bbd997f0f5b93781abd8683a7399",
+    "wof:geomhash":"84f6565eb200a47e32f2ef15945736ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,10 +330,12 @@
         }
     ],
     "wof:id":1125304203,
-    "wof:lastmodified":1607725860,
+    "wof:lastmodified":1684354198,
     "wof:name":"Olsztyn",
     "wof:parent_id":102080163,
     "wof:placetype":"localadmin",
+    "wof:population":171979,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

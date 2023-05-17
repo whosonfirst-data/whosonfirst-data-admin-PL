@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121231309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zator",
+    "eurostat:nuts_2021_id":"1001121231309",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL21A",
+    "eurostat:nuts_2021_level_lau":"1001121231309",
+    "eurostat:population":9317,
+    "eurostat:population_year":2020,
     "geom:area":0.006474,
-    "geom:area_square_m":51463789.398299,
+    "geom:area_square_m":51463789.398321,
     "geom:bbox":"19.390021798,49.936533024,19.510290492,50.040331056",
     "geom:latitude":49.991964,
     "geom:longitude":19.440776,
@@ -143,7 +155,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -156,6 +169,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121231309",
+        "eurostat:nuts_2021_id":"1001121231309",
         "gn:id":3080590,
         "gp:id":24548416,
         "qs_pg:id":909134
@@ -165,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"33b7ef9aafb54a17df7a83767eeaccd6",
+    "wof:geomhash":"1916f2720a26bb85e7bdbeb830c5b882",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,12 +191,12 @@
         }
     ],
     "wof:id":1125350959,
-    "wof:lastmodified":1582357715,
+    "wof:lastmodified":1684354259,
     "wof:name":"Gmina Zator",
     "wof:parent_id":102079465,
     "wof:placetype":"localadmin",
-    "wof:population":4779,
-    "wof:population_rank":4,
+    "wof:population":9317,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

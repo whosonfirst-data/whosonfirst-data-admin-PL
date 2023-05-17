@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sawin",
+    "eurostat:nuts_2021_id":"1006061100310",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100310",
+    "eurostat:population":5470,
+    "eurostat:population_year":2020,
     "geom:area":0.024528,
-    "geom:area_square_m":189681473.710875,
+    "geom:area_square_m":189681473.710844,
     "geom:bbox":"23.336672672,51.184113518,23.593453128,51.374106452",
     "geom:latitude":51.288514,
     "geom:longitude":23.448981,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":23.447056,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079813
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100310",
+        "eurostat:nuts_2021_id":"1006061100310"
+    },
     "wof:coterminous":[
         101822675
     ],
     "wof:country":"PL",
-    "wof:geomhash":"9b182cf389f5585ba34b0d9201dc9aa1",
+    "wof:geomhash":"c9fa1d6b344d40cf115248d66be59dca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477752109,
-    "wof:lastmodified":1570000119,
+    "wof:lastmodified":1684354393,
     "wof:name":"Sawin",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",
+    "wof:population":5470,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281540201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Braniewo",
+    "eurostat:nuts_2021_id":"1004281540201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281540201",
+    "eurostat:population":16992,
+    "eurostat:population_year":2020,
     "geom:area":0.001716,
-    "geom:area_square_m":12356833.903193,
+    "geom:area_square_m":12356833.903197,
     "geom:bbox":"19.791592329,54.354902653,19.849456092,54.404044528",
     "geom:latitude":54.376873,
     "geom:longitude":19.82023,
@@ -162,6 +174,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -174,6 +188,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281540201",
+        "eurostat:nuts_2021_id":"1004281540201",
         "gp:id":24547673,
         "qs_pg:id":1197198
     },
@@ -182,7 +198,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0a2649f0f132d18dd37605080ef9ec26",
+    "wof:geomhash":"fa9a9095197145e674d7ee49c92f3975",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,10 +209,12 @@
         }
     ],
     "wof:id":1125312139,
-    "wof:lastmodified":1582357958,
+    "wof:lastmodified":1684354216,
     "wof:name":"Gmina Braniewo",
     "wof:parent_id":102080237,
     "wof:placetype":"localadmin",
+    "wof:population":16992,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

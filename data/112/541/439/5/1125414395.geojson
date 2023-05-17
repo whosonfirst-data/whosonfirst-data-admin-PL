@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301591404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sierak\u00f3w",
+    "eurostat:nuts_2021_id":"1002301591404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301591404",
+    "eurostat:population":8713,
+    "eurostat:population_year":2020,
     "geom:area":0.026976,
-    "geom:area_square_m":202316345.842901,
+    "geom:area_square_m":202316345.84288,
     "geom:bbox":"15.92503405,52.581252608,16.224129197,52.755410049",
     "geom:latitude":52.6615,
     "geom:longitude":16.059711,
@@ -134,7 +146,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -147,6 +160,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301591404",
+        "eurostat:nuts_2021_id":"1002301591404",
         "gn:id":3085974,
         "gp:id":24547721,
         "qs_pg:id":246666
@@ -156,7 +171,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c38fbd13f91de79cd1d653d3cf0496d0",
+    "wof:geomhash":"1c1a2ddfe6d03c50af17fb759ad033bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,11 +182,11 @@
         }
     ],
     "wof:id":1125414395,
-    "wof:lastmodified":1582358012,
+    "wof:lastmodified":1684354338,
     "wof:name":"Gmina Sierak\u00f3w",
     "wof:parent_id":102079961,
     "wof:placetype":"localadmin",
-    "wof:population":6090,
+    "wof:population":8713,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

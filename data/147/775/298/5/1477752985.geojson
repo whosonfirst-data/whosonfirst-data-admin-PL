@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061090107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Konstantyn\u00f3w",
+    "eurostat:nuts_2021_id":"1006061090107",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061090107",
+    "eurostat:population":4110,
+    "eurostat:population_year":2020,
     "geom:area":0.011428,
-    "geom:area_square_m":86590440.172438,
+    "geom:area_square_m":86590440.17243,
     "geom:bbox":"23.030029693,52.131366125,23.18156597,52.287841409",
     "geom:latitude":52.208062,
     "geom:longitude":23.104601,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":23.092043,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079973
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061090107",
+        "eurostat:nuts_2021_id":"1006061090107"
+    },
     "wof:coterminous":[
         1125891327
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2e9d3de6bbb4c004eb48382b82a9f31e",
+    "wof:geomhash":"c925c01cb1ceff905d8b28c83ec79b8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752985,
-    "wof:lastmodified":1570003594,
+    "wof:lastmodified":1684354440,
     "wof:name":"Konstantyn\u00f3w",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",
+    "wof:population":4110,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221421402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gniew",
+    "eurostat:nuts_2021_id":"1004221421402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221421402",
+    "eurostat:population":15443,
+    "eurostat:population_year":2020,
     "geom:area":0.026477,
-    "geom:area_square_m":193351911.49186,
+    "geom:area_square_m":193351911.491884,
     "geom:bbox":"18.684081,53.683762,18.888773,53.927885",
     "geom:latitude":53.80202,
     "geom:longitude":18.789111,
@@ -59,18 +71,24 @@
     "reversegeo:longitude":18.790647,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102080191,
-        85687267
+        85687267,
+        102080191
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221421402",
+        "eurostat:nuts_2021_id":"1004221421402"
+    },
     "wof:coterminous":[
         1477863673
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5fbaae89236502ccfb69ae876610954e",
+    "wof:geomhash":"885db07397aaac93e2cebc3f1d3bc432",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751633,
-    "wof:lastmodified":1607726653,
+    "wof:lastmodified":1684354367,
     "wof:name":"Gmina Gniew",
     "wof:parent_id":102080191,
     "wof:placetype":"localadmin",
+    "wof:population":15443,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

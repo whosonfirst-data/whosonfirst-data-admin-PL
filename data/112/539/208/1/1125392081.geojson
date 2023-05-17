@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181350602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kolbuszowa",
+    "eurostat:nuts_2021_id":"1006181350602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181350602",
+    "eurostat:population":24724,
+    "eurostat:population_year":2020,
     "geom:area":0.021519,
-    "geom:area_square_m":170267242.370769,
+    "geom:area_square_m":170267242.370768,
     "geom:bbox":"21.682337431,50.15039092,21.934706213,50.285260588",
     "geom:latitude":50.216769,
     "geom:longitude":21.80178,
@@ -144,6 +156,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -156,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181350602",
+        "eurostat:nuts_2021_id":"1006181350602",
         "gp:id":24548519,
         "qs_pg:id":1018431
     },
@@ -164,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"baae730f0f9446d9eb30462fc7ee96db",
+    "wof:geomhash":"895fbf6cadfc82e4d86f3afb7c99e2d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +191,12 @@
         }
     ],
     "wof:id":1125392081,
-    "wof:lastmodified":1582357921,
+    "wof:lastmodified":1684354309,
     "wof:name":"Gmina Kolbuszowa",
     "wof:parent_id":102079607,
     "wof:placetype":"localadmin",
+    "wof:population":24724,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

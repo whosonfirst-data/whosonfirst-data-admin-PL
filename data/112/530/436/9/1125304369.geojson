@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010607",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mys\u0142akowice",
+    "eurostat:nuts_2021_id":"1003021010607",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010607",
+    "eurostat:population":10160,
+    "eurostat:population_year":2020,
     "geom:area":0.011229,
-    "geom:area_square_m":87668058.329808,
+    "geom:area_square_m":87668058.329827,
     "geom:bbox":"15.744177693,50.792656024,15.92770394,50.902622303",
     "geom:latitude":50.846741,
     "geom:longitude":15.831882,
@@ -66,6 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -78,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010607",
+        "eurostat:nuts_2021_id":"1003021010607",
         "gp:id":12617792,
         "qs_pg:id":469048
     },
@@ -89,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1533c810814ca46304fbadcee5e4bcf3",
+    "wof:geomhash":"b2608cfe946b8507582dae0d1313e895",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":1125304369,
-    "wof:lastmodified":1582357883,
+    "wof:lastmodified":1684354200,
     "wof:name":"Mys\u0142akowice",
     "wof:parent_id":102079617,
     "wof:placetype":"localadmin",
+    "wof:population":10160,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181341407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sieniawa",
+    "eurostat:nuts_2021_id":"1006181341407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181341407",
+    "eurostat:population":7041,
+    "eurostat:population_year":2020,
     "geom:area":0.01604,
-    "geom:area_square_m":126997667.931278,
+    "geom:area_square_m":126997667.931327,
     "geom:bbox":"22.552417,50.128843,22.777826,50.243918",
     "geom:latitude":50.185262,
     "geom:longitude":22.661475,
@@ -143,7 +155,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -151,11 +164,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079589,
-        85687295
+        85687295,
+        102079589
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181341407",
+        "eurostat:nuts_2021_id":"1006181341407",
         "gn:id":759301,
         "gp:id":24548701,
         "qs_pg:id":1193097
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9843be1c671d3c5d3fc1642fadb5a9f9",
+    "wof:geomhash":"7786dd3eee7a9b3eaa2f3b7f89c87c25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,12 +194,12 @@
         }
     ],
     "wof:id":1125307609,
-    "wof:lastmodified":1607726693,
+    "wof:lastmodified":1684354210,
     "wof:name":"Gmina Sieniawa",
     "wof:parent_id":102079589,
     "wof:placetype":"localadmin",
-    "wof:population":2182,
-    "wof:population_rank":4,
+    "wof:population":7041,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

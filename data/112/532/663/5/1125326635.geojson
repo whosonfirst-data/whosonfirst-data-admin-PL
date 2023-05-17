@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021011005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olszyna",
+    "eurostat:nuts_2021_id":"1003021011005",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021011005",
+    "eurostat:population":6508,
+    "eurostat:population_year":2020,
     "geom:area":0.006042,
-    "geom:area_square_m":46958991.302832,
+    "geom:area_square_m":46958991.302828,
     "geom:bbox":"15.300683892,51.017877752,15.417518072,51.10121255",
     "geom:latitude":51.057623,
     "geom:longitude":15.360893,
@@ -120,6 +132,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -132,6 +146,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021011005",
+        "eurostat:nuts_2021_id":"1003021011005",
         "gp:id":12617559,
         "qs_pg:id":43602
     },
@@ -140,7 +156,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ae6d6cdde54671b54d5d64135b0b1bac",
+    "wof:geomhash":"9fd9bdebc2633a1738bd531f3ec24104",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":1125326635,
-    "wof:lastmodified":1582357743,
+    "wof:lastmodified":1684354235,
     "wof:name":"Gmina Olszyna",
     "wof:parent_id":102079643,
     "wof:placetype":"localadmin",
+    "wof:population":6508,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101152006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ozork\u00f3w",
+    "eurostat:nuts_2021_id":"1005101152006",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL712",
+    "eurostat:nuts_2021_level_lau":"1005101152006",
+    "eurostat:population":7021,
+    "eurostat:population_year":2020,
     "geom:area":0.012496,
-    "geom:area_square_m":95148293.567397,
+    "geom:area_square_m":95148293.567375,
     "geom:bbox":"19.172725,51.934543,19.417462,52.036419",
     "geom:latitude":51.990823,
     "geom:longitude":19.303488,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":19.342406,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,11 +86,15 @@
         102079873
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101152006",
+        "eurostat:nuts_2021_id":"1005101152006"
+    },
     "wof:coterminous":[
         1477865469
     ],
     "wof:country":"PL",
-    "wof:geomhash":"6eadf498bd3debf336319247ea1fcba0",
+    "wof:geomhash":"e4bc3c12ac62f72fe4b87d486460c251",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477753017,
-    "wof:lastmodified":1617130587,
+    "wof:lastmodified":1684354442,
     "wof:name":"Gmina Ozork\u00f3w",
     "wof:parent_id":102079873,
     "wof:placetype":"localadmin",
+    "wof:population":7021,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

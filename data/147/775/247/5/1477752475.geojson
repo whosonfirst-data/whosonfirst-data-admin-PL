@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181341310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017burawica",
+    "eurostat:nuts_2021_id":"1006181341310",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181341310",
+    "eurostat:population":12968,
+    "eurostat:population_year":2020,
     "geom:area":0.011976,
-    "geom:area_square_m":95499417.76851,
+    "geom:area_square_m":95499417.768501,
     "geom:bbox":"22.594219266,49.791784645,22.922127728,49.90403491",
     "geom:latitude":49.84089,
     "geom:longitude":22.781943,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":22.852533,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079513
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181341310",
+        "eurostat:nuts_2021_id":"1006181341310"
+    },
     "wof:coterminous":[
         1125840153
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5a35048b62ab471b3d56e45b3fb3ff42",
+    "wof:geomhash":"94d7ee38c003fbb28db44aed4d89f2d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752475,
-    "wof:lastmodified":1570003058,
+    "wof:lastmodified":1684354411,
     "wof:name":"\u017burawica",
     "wof:parent_id":102079513,
     "wof:placetype":"localadmin",
+    "wof:population":12968,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

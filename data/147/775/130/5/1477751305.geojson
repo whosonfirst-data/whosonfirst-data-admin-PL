@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041070208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osiek",
+    "eurostat:nuts_2021_id":"1004041070208",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL616",
+    "eurostat:nuts_2021_level_lau":"1004041070208",
+    "eurostat:population":4043,
+    "eurostat:population_year":2020,
     "geom:area":0.010075,
-    "geom:area_square_m":74705107.741947,
+    "geom:area_square_m":74705107.74197,
     "geom:bbox":"19.318541136,53.106167789,19.485794158,53.208824347",
     "geom:latitude":53.153303,
     "geom:longitude":19.401181,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":19.392848,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102080099
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041070208",
+        "eurostat:nuts_2021_id":"1004041070208"
+    },
     "wof:coterminous":[
         1126011041
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2d08abe33adc2283588ab16fb9c68f5f",
+    "wof:geomhash":"f25df5fc8bb9ff7d93786d6a4e684130",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751305,
-    "wof:lastmodified":1570002601,
+    "wof:lastmodified":1684354351,
     "wof:name":"Osiek",
     "wof:parent_id":102080099,
     "wof:placetype":"localadmin",
+    "wof:population":4043,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

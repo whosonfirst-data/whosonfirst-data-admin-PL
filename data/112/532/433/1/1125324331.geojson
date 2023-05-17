@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101170103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dru\u017cbice",
+    "eurostat:nuts_2021_id":"1005101170103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101170103",
+    "eurostat:population":5237,
+    "eurostat:population_year":2020,
     "geom:area":0.014662,
     "geom:area_square_m":112942605.452449,
     "geom:bbox":"19.312742632,51.398647115,19.49101956,51.534174722",
@@ -70,7 +82,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -83,6 +96,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101170103",
+        "eurostat:nuts_2021_id":"1005101170103",
         "gn:id":3100086,
         "gp:id":12618286,
         "qs_pg:id":24180
@@ -95,7 +110,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3692ba36d07bd656f2d422cfe861c1ab",
+    "wof:geomhash":"7e246940a1101f5fc630648cf0bbbd8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,12 +121,12 @@
         }
     ],
     "wof:id":1125324331,
-    "wof:lastmodified":1582357744,
+    "wof:lastmodified":1684354229,
     "wof:name":"Dru\u017cbice",
     "wof:parent_id":102079763,
     "wof:placetype":"localadmin",
-    "wof:population":530,
-    "wof:population_rank":2,
+    "wof:population":5237,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

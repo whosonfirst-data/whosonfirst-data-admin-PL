@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161310703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Korfant\u00f3w",
+    "eurostat:nuts_2021_id":"1003161310703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161310703",
+    "eurostat:population":8734,
+    "eurostat:population_year":2020,
     "geom:area":0.022757,
-    "geom:area_square_m":179062586.023929,
+    "geom:area_square_m":179062586.023982,
     "geom:bbox":"17.456028281,50.394262341,17.763026121,50.575709103",
     "geom:latitude":50.480044,
     "geom:longitude":17.599973,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161310703",
+        "eurostat:nuts_2021_id":"1003161310703",
         "gn:id":3095202,
         "gp:id":24548711,
         "qs_pg:id":1189941
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d55e7f688f16bf884611aff52e394c11",
+    "wof:geomhash":"73100b1f250c2989ceaaea830413d1d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125303973,
-    "wof:lastmodified":1582357869,
+    "wof:lastmodified":1684354197,
     "wof:name":"Gmina Korfant\u00f3w",
     "wof:parent_id":102079569,
     "wof:placetype":"localadmin",
-    "wof:population":1940,
-    "wof:population_rank":3,
+    "wof:population":8734,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121201404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pa\u0142ecznica",
+    "eurostat:nuts_2021_id":"1001121201404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121201404",
+    "eurostat:population":3568,
+    "eurostat:population_year":2020,
     "geom:area":0.006037,
-    "geom:area_square_m":47707281.819149,
+    "geom:area_square_m":47707281.819154,
     "geom:bbox":"20.252990999,50.231420112,20.362404991,50.322921254",
     "geom:latitude":50.277675,
     "geom:longitude":20.305865,
@@ -62,7 +74,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -71,6 +84,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121201404",
+        "eurostat:nuts_2021_id":"1001121201404",
         "gn:id":7532618,
         "qs_pg:id":691679
     },
@@ -82,7 +97,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"08cc00ba375d6a21e670acb3500fd25f",
+    "wof:geomhash":"564002d7270612849774bb6509ea404d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,11 +108,11 @@
         }
     ],
     "wof:id":1125282827,
-    "wof:lastmodified":1582357778,
+    "wof:lastmodified":1684354153,
     "wof:name":"Pa\u0142ecznica",
     "wof:parent_id":102079545,
     "wof:placetype":"localadmin",
-    "wof:population":3732,
+    "wof:population":3568,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

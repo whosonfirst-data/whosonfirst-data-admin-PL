@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301583004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pyzdry",
+    "eurostat:nuts_2021_id":"1002301583004",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301583004",
+    "eurostat:population":6937,
+    "eurostat:population_year":2020,
     "geom:area":0.018086,
-    "geom:area_square_m":137236047.004393,
+    "geom:area_square_m":137236047.004364,
     "geom:bbox":"17.643323726,52.063050327,17.833597672,52.222831942",
     "geom:latitude":52.145494,
     "geom:longitude":17.73039,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301583004",
+        "eurostat:nuts_2021_id":"1002301583004",
         "gn:id":3087617,
         "gp:id":24547627,
         "qs_pg:id":1043145
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"25a0fd5111843e609adb21aed8561399",
+    "wof:geomhash":"56bc8c0568cbc01343441f4693a85fd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125394997,
-    "wof:lastmodified":1582357908,
+    "wof:lastmodified":1684354315,
     "wof:name":"Gmina Pyzdry",
     "wof:parent_id":102079907,
     "wof:placetype":"localadmin",
-    "wof:population":3203,
-    "wof:population_rank":4,
+    "wof:population":6937,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

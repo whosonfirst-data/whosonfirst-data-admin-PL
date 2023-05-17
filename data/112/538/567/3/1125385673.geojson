@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142732801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sochaczew",
+    "eurostat:nuts_2021_id":"1007142732801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL926",
+    "eurostat:nuts_2021_level_lau":"1007142732801",
+    "eurostat:population":36282,
+    "eurostat:population_year":2020,
     "geom:area":0.003445,
-    "geom:area_square_m":26086615.201079,
+    "geom:area_square_m":26086615.201082,
     "geom:bbox":"20.188374231,52.191075154,20.300683382,52.281462358",
     "geom:latitude":52.235332,
     "geom:longitude":20.250633,
@@ -165,6 +177,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -177,6 +191,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142732801",
+        "eurostat:nuts_2021_id":"1007142732801",
         "gp:id":12616887,
         "qs_pg:id":1030453
     },
@@ -185,7 +201,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c279b7caf30d19e8cf50c2c257667ebd",
+    "wof:geomhash":"802315beeed1b7138f2345728b226cdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -196,10 +212,12 @@
         }
     ],
     "wof:id":1125385673,
-    "wof:lastmodified":1582357926,
+    "wof:lastmodified":1684354303,
     "wof:name":"Gmina Sochaczew",
     "wof:parent_id":102079945,
     "wof:placetype":"localadmin",
+    "wof:population":36282,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

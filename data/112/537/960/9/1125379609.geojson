@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142272508",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pionki",
+    "eurostat:nuts_2021_id":"1007142272508",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142272508",
+    "eurostat:population":9979,
+    "eurostat:population_year":2020,
     "geom:area":0.02972,
-    "geom:area_square_m":228883417.78866,
+    "geom:area_square_m":228883417.788634,
     "geom:bbox":"21.25207444,51.385018093,21.566598399,51.558942813",
     "geom:latitude":51.478019,
     "geom:longitude":21.425186,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142272508",
+        "eurostat:nuts_2021_id":"1007142272508",
         "gp:id":24548282,
         "qs_pg:id":1003267
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9ee08b5bf34378c10c1f92f487c51273",
+    "wof:geomhash":"fe18159666e1c973135e9aa8daaa77b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125379609,
-    "wof:lastmodified":1582357853,
+    "wof:lastmodified":1684354297,
     "wof:name":"Gmina Pionki",
     "wof:parent_id":102079805,
     "wof:placetype":"localadmin",
+    "wof:population":9979,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221401104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u0142adys\u0142awowo",
+    "eurostat:nuts_2021_id":"1004221401104",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221401104",
+    "eurostat:population":15388,
+    "eurostat:population_year":2020,
     "geom:area":0.005892,
-    "geom:area_square_m":41987818.947099,
+    "geom:area_square_m":41987818.947118,
     "geom:bbox":"18.194418593,54.752225541,18.529330163,54.836416667",
     "geom:latitude":54.808231,
     "geom:longitude":18.332513,
@@ -155,7 +167,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -168,6 +181,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221401104",
+        "eurostat:nuts_2021_id":"1004221401104",
         "gn:id":3081752,
         "gp:id":12618356,
         "qs_pg:id":248462
@@ -177,7 +192,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6ad878b2cb0a18733137ace66c8e7d0b",
+    "wof:geomhash":"21a1156623c09fdc4f89620a211a3bfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,11 +203,11 @@
         }
     ],
     "wof:id":1125415495,
-    "wof:lastmodified":1582358023,
+    "wof:lastmodified":1684354339,
     "wof:name":"Gmina W\u0142adys\u0142awowo",
     "wof:parent_id":102080269,
     "wof:placetype":"localadmin",
-    "wof:population":14889,
+    "wof:population":15388,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

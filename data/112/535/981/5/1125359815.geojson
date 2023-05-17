@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221436101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gda\u0144sk",
+    "eurostat:nuts_2021_id":"1004221436101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL633",
+    "eurostat:nuts_2021_level_lau":"1004221436101",
+    "eurostat:population":470907,
+    "eurostat:population_year":2020,
     "geom:area":0.036741,
-    "geom:area_square_m":264722601.229497,
+    "geom:area_square_m":264722601.229491,
     "geom:bbox":"18.429497,54.274974,18.950379,54.447218",
     "geom:latitude":54.359799,
     "geom:longitude":18.635948,
@@ -446,6 +458,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -453,11 +467,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080225,
-        85687267
+        85687267,
+        102080225
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221436101",
+        "eurostat:nuts_2021_id":"1004221436101",
         "gn:id":7531890,
         "gp:id":12618131,
         "qs_pg:id":1163033
@@ -471,7 +487,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"90ec17c503534327c652da01afdcda4c",
+    "wof:geomhash":"66c43b4c615f1faec00b6b5d7f69b737",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -482,10 +498,12 @@
         }
     ],
     "wof:id":1125359815,
-    "wof:lastmodified":1607725528,
+    "wof:lastmodified":1684354266,
     "wof:name":"Gda\u0144sk",
     "wof:parent_id":102080225,
     "wof:placetype":"localadmin",
+    "wof:population":470907,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

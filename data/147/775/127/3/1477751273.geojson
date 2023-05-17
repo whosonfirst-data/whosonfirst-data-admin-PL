@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241501610",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017barnowiec",
+    "eurostat:nuts_2021_id":"1001241501610",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22B",
+    "eurostat:nuts_2021_level_lau":"1001241501610",
+    "eurostat:population":4597,
+    "eurostat:population_year":2020,
     "geom:area":0.015813,
-    "geom:area_square_m":124377418.019895,
+    "geom:area_square_m":124377418.019918,
     "geom:bbox":"19.736380993,50.43413924,19.97400084,50.559286633",
     "geom:latitude":50.497001,
     "geom:longitude":19.842948,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":19.841151,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079613
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241501610",
+        "eurostat:nuts_2021_id":"1001241501610"
+    },
     "wof:coterminous":[
         1126020929
     ],
     "wof:country":"PL",
-    "wof:geomhash":"47bfab383c70014c096d8b379419960c",
+    "wof:geomhash":"5ba1866fa9519aee1a0278c1aa90174f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751273,
-    "wof:lastmodified":1570001535,
+    "wof:lastmodified":1684354350,
     "wof:name":"\u017barnowiec",
     "wof:parent_id":102079613,
     "wof:placetype":"localadmin",
+    "wof:population":4597,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321660502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gryfice",
+    "eurostat:nuts_2021_id":"1002321660502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321660502",
+    "eurostat:population":23757,
+    "eurostat:population_year":2020,
     "geom:area":0.03572,
-    "geom:area_square_m":260197340.778566,
+    "geom:area_square_m":260197340.778559,
     "geom:bbox":"15.021265287,53.81235442,15.307069177,54.008690971",
     "geom:latitude":53.906802,
     "geom:longitude":15.168198,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":15.156633,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102080165
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321660502",
+        "eurostat:nuts_2021_id":"1002321660502"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"9d3221ef042e8206acfb0f6369b21640",
+    "wof:geomhash":"9e30a89c937932088f43339e04f800e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477751545,
-    "wof:lastmodified":1570002073,
+    "wof:lastmodified":1684354363,
     "wof:name":"Gmina Gryfice",
     "wof:parent_id":102080165,
     "wof:placetype":"localadmin",
+    "wof:population":23757,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

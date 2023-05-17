@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081140402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bytom Odrza\u0144ski",
+    "eurostat:nuts_2021_id":"1002081140402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081140402",
+    "eurostat:population":5426,
+    "eurostat:population_year":2020,
     "geom:area":0.006811,
-    "geom:area_square_m":52180793.209983,
+    "geom:area_square_m":52180793.209988,
     "geom:bbox":"15.741362336,51.668586582,15.871823601,51.766432339",
     "geom:latitude":51.716036,
     "geom:longitude":15.808046,
@@ -154,7 +166,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -167,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081140402",
+        "eurostat:nuts_2021_id":"1002081140402",
         "gn:id":3101947,
         "gp:id":24547832,
         "qs_pg:id":1200475
@@ -176,7 +191,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"25695209f6fac1bb782edf11e3eced4c",
+    "wof:geomhash":"18aff6370d3508ddf4a341a8d4490fd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,12 +202,12 @@
         }
     ],
     "wof:id":1125290407,
-    "wof:lastmodified":1582357812,
+    "wof:lastmodified":1684354175,
     "wof:name":"Gmina Bytom Odrza\u0144ski",
     "wof:parent_id":102079825,
     "wof:placetype":"localadmin",
-    "wof:population":4408,
-    "wof:population_rank":4,
+    "wof:population":5426,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

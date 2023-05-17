@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Izbica",
+    "eurostat:nuts_2021_id":"1006061100604",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100604",
+    "eurostat:population":8124,
+    "eurostat:population_year":2020,
     "geom:area":0.017667,
-    "geom:area_square_m":137795148.997486,
+    "geom:area_square_m":137795148.997484,
     "geom:bbox":"23.018893094,50.840344376,23.288705088,50.944698403",
     "geom:latitude":50.893913,
     "geom:longitude":23.149594,
@@ -81,6 +93,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -93,6 +107,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100604",
+        "eurostat:nuts_2021_id":"1006061100604",
         "gp:id":12617795,
         "qs_pg:id":469049
     },
@@ -104,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f27d76e90ad7266a271764aef93f77e7",
+    "wof:geomhash":"16fe0fd386ab7edaabfb328fe63f8c95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +131,12 @@
         }
     ],
     "wof:id":1125304377,
-    "wof:lastmodified":1582357881,
+    "wof:lastmodified":1684354200,
     "wof:name":"Izbica",
     "wof:parent_id":102079745,
     "wof:placetype":"localadmin",
+    "wof:population":8124,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

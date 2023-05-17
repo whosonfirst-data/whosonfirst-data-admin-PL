@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101181408",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sieradz",
+    "eurostat:nuts_2021_id":"1005101181408",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101181408",
+    "eurostat:population":10706,
+    "eurostat:population_year":2020,
     "geom:area":0.023553,
-    "geom:area_square_m":180965603.882937,
+    "geom:area_square_m":180965603.882946,
     "geom:bbox":"18.637572,51.495059,18.879887,51.673766",
     "geom:latitude":51.58364,
     "geom:longitude":18.756224,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":18.736376,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,11 +83,15 @@
         102079819
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101181408",
+        "eurostat:nuts_2021_id":"1005101181408"
+    },
     "wof:coterminous":[
         1477864977
     ],
     "wof:country":"PL",
-    "wof:geomhash":"cb8e64a9cc8ce643bd44664a56c3e105",
+    "wof:geomhash":"ca10932509762de92607eb5d676f22b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752195,
-    "wof:lastmodified":1617130309,
+    "wof:lastmodified":1684354398,
     "wof:name":"Gmina Sieradz",
     "wof:parent_id":102079819,
     "wof:placetype":"localadmin",
+    "wof:population":10706,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

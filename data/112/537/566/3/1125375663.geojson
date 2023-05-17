@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142262203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czernice Borowe",
+    "eurostat:nuts_2021_id":"1007142262203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142262203",
+    "eurostat:population":3801,
+    "eurostat:population_year":2020,
     "geom:area":0.016099,
-    "geom:area_square_m":119694259.708068,
+    "geom:area_square_m":119694259.708082,
     "geom:bbox":"20.664530487,52.97065937,20.857399024,53.105896467",
     "geom:latitude":53.039623,
     "geom:longitude":20.754493,
@@ -78,7 +90,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -91,6 +104,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142262203",
+        "eurostat:nuts_2021_id":"1007142262203",
         "gn:id":773780,
         "gp:id":12617986,
         "qs_pg:id":998974
@@ -103,7 +118,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2fb5ce8a39cc8be7378f40bfa10ff4ad",
+    "wof:geomhash":"655c0c6edc72cf4ab01b894ebdfb2326",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,12 +129,12 @@
         }
     ],
     "wof:id":1125375663,
-    "wof:lastmodified":1582357838,
+    "wof:lastmodified":1684354292,
     "wof:name":"Czernice Borowe",
     "wof:parent_id":102080117,
     "wof:placetype":"localadmin",
-    "wof:population":480,
-    "wof:population_rank":2,
+    "wof:population":3801,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

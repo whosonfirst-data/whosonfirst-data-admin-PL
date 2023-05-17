@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Byczyna",
+    "eurostat:nuts_2021_id":"1003161320401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320401",
+    "eurostat:population":9221,
+    "eurostat:population_year":2020,
     "geom:area":0.023476,
-    "geom:area_square_m":182260237.450997,
+    "geom:area_square_m":182260237.450981,
     "geom:bbox":"18.067877399,51.037494192,18.348054679,51.174711822",
     "geom:latitude":51.106402,
     "geom:longitude":18.210239,
@@ -142,7 +154,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -155,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320401",
+        "eurostat:nuts_2021_id":"1003161320401",
         "gn:id":3102019,
         "gp:id":24548644,
         "qs_pg:id":905203
@@ -164,7 +179,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4577f182bcedd813b0d4fc2f93f3b475",
+    "wof:geomhash":"34f7b3d37b135d213fb57c75c165dde4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,12 +190,12 @@
         }
     ],
     "wof:id":1125282673,
-    "wof:lastmodified":1582357764,
+    "wof:lastmodified":1684354152,
     "wof:name":"Gmina Byczyna",
     "wof:parent_id":102079677,
     "wof:placetype":"localadmin",
-    "wof:population":3665,
-    "wof:population_rank":4,
+    "wof:population":9221,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

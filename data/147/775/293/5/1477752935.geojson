@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301591403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mi\u0119dzych\u00f3d",
+    "eurostat:nuts_2021_id":"1002301591403",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301591403",
+    "eurostat:population":18391,
+    "eurostat:population_year":2020,
     "geom:area":0.040715,
-    "geom:area_square_m":305856423.958457,
+    "geom:area_square_m":305856423.958454,
     "geom:bbox":"15.776346211,52.448265339,16.032198776,52.724716238",
     "geom:latitude":52.589877,
     "geom:longitude":15.910015,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":15.908067,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079961
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301591403",
+        "eurostat:nuts_2021_id":"1002301591403"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"e563497ffe2094d8665e63db419c528c",
+    "wof:geomhash":"e13b41c46fbbeaf85bb0b507096581a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752935,
-    "wof:lastmodified":1570000927,
+    "wof:lastmodified":1684354437,
     "wof:name":"Gmina Mi\u0119dzych\u00f3d",
     "wof:parent_id":102079961,
     "wof:placetype":"localadmin",
+    "wof:population":18391,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

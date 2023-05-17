@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321661403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dobrzany",
+    "eurostat:nuts_2021_id":"1002321661403",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321661403",
+    "eurostat:population":4800,
+    "eurostat:population_year":2020,
     "geom:area":0.018182,
-    "geom:area_square_m":134172983.189445,
+    "geom:area_square_m":134172983.189455,
     "geom:bbox":"15.335097846,53.288161886,15.591288122,53.422301273",
     "geom:latitude":53.358837,
     "geom:longitude":15.44469,
@@ -135,7 +147,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -148,6 +161,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321661403",
+        "eurostat:nuts_2021_id":"1002321661403",
         "gn:id":3100297,
         "gp:id":24547699,
         "qs_pg:id":203297
@@ -157,7 +172,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f68bf9277f97791d8c1ccd7fd59d1b19",
+    "wof:geomhash":"d3bffeff3f8149e432173262b33681ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,11 +183,11 @@
         }
     ],
     "wof:id":1125307661,
-    "wof:lastmodified":1582357888,
+    "wof:lastmodified":1684354210,
     "wof:name":"Gmina Dobrzany",
     "wof:parent_id":102080083,
     "wof:placetype":"localadmin",
-    "wof:population":2360,
+    "wof:population":4800,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

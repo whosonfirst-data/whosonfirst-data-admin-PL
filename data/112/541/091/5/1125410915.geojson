@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221400505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Somonino",
+    "eurostat:nuts_2021_id":"1004221400505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221400505",
+    "eurostat:population":10814,
+    "eurostat:population_year":2020,
     "geom:area":0.015448,
-    "geom:area_square_m":111601279.891838,
+    "geom:area_square_m":111601279.891859,
     "geom:bbox":"18.103094962,54.18633924,18.328024369,54.304207102",
     "geom:latitude":54.251118,
     "geom:longitude":18.207981,
@@ -63,6 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221400505",
+        "eurostat:nuts_2021_id":"1004221400505",
         "gp:id":12616985,
         "qs_pg:id":232687
     },
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6bf2875d3d43cab2fdf673d7544c27fe",
+    "wof:geomhash":"2bdd14edbf9180f998889d911ecce87b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":1125410915,
-    "wof:lastmodified":1582358011,
+    "wof:lastmodified":1684354333,
     "wof:name":"Somonino",
     "wof:parent_id":102080233,
     "wof:placetype":"localadmin",
+    "wof:population":10814,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

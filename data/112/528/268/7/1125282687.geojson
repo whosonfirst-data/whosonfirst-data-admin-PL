@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowy Korczyn",
+    "eurostat:nuts_2021_id":"1005261530103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530103",
+    "eurostat:population":5916,
+    "eurostat:population_year":2020,
     "geom:area":0.014729,
-    "geom:area_square_m":116283704.185609,
+    "geom:area_square_m":116283704.185605,
     "geom:bbox":"20.688116152,50.273287898,20.97721509,50.390560877",
     "geom:latitude":50.321304,
     "geom:longitude":20.816146,
@@ -75,7 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -88,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530103",
+        "eurostat:nuts_2021_id":"1005261530103",
         "gn:id":763545,
         "gp:id":12617084,
         "qs_pg:id":827420
@@ -100,7 +115,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f22b65d32e64bf1f7c2d06ddd82609f3",
+    "wof:geomhash":"5d18f23a0434e763f953e92532f81bc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,12 +126,12 @@
         }
     ],
     "wof:id":1125282687,
-    "wof:lastmodified":1582357762,
+    "wof:lastmodified":1684354152,
     "wof:name":"Nowy Korczyn",
     "wof:parent_id":102079615,
     "wof:placetype":"localadmin",
-    "wof:population":1032,
-    "wof:population_rank":3,
+    "wof:population":5916,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161311004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prudnik",
+    "eurostat:nuts_2021_id":"1003161311004",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161311004",
+    "eurostat:population":27109,
+    "eurostat:population_year":2020,
     "geom:area":0.015445,
-    "geom:area_square_m":121896093.372232,
+    "geom:area_square_m":121896093.372225,
     "geom:bbox":"17.447394878,50.269947368,17.610111503,50.41373981",
     "geom:latitude":50.338058,
     "geom:longitude":17.523426,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161311004",
+        "eurostat:nuts_2021_id":"1003161311004",
         "gp:id":24548700,
         "qs_pg:id":493543
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b63d2ebf7f74e0d908d6ce2b4d05041d",
+    "wof:geomhash":"735543a1ed258053a977a3efd08eb586",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125393709,
-    "wof:lastmodified":1582357911,
+    "wof:lastmodified":1684354313,
     "wof:name":"Gmina Prudnik",
     "wof:parent_id":102079549,
     "wof:placetype":"localadmin",
+    "wof:population":27109,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

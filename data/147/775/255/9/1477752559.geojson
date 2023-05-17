@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przeworno",
+    "eurostat:nuts_2021_id":"1003021041703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041703",
+    "eurostat:population":4754,
+    "eurostat:population_year":2020,
     "geom:area":0.014231,
-    "geom:area_square_m":111507872.506601,
+    "geom:area_square_m":111507872.506638,
     "geom:bbox":"17.064792012,50.613221755,17.25907712,50.752187774",
     "geom:latitude":50.678698,
     "geom:longitude":17.16782,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":17.185364,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079609
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041703",
+        "eurostat:nuts_2021_id":"1003021041703"
+    },
     "wof:coterminous":[
         101823729
     ],
     "wof:country":"PL",
-    "wof:geomhash":"fda24ace2960ce15a01a4001b2764a97",
+    "wof:geomhash":"b317baf9062263c6a4ff98453ba03211",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752559,
-    "wof:lastmodified":1570004039,
+    "wof:lastmodified":1684354416,
     "wof:name":"Przeworno",
     "wof:parent_id":102079609,
     "wof:placetype":"localadmin",
+    "wof:population":4754,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061090117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tuczna",
+    "eurostat:nuts_2021_id":"1006061090117",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061090117",
+    "eurostat:population":3004,
+    "eurostat:population_year":2020,
     "geom:area":0.02212,
-    "geom:area_square_m":168930663.512937,
+    "geom:area_square_m":168930663.512894,
     "geom:bbox":"23.312640548,51.777726149,23.557199113,51.937025951",
     "geom:latitude":51.857453,
     "geom:longitude":23.429898,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":23.431758,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079973
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061090117",
+        "eurostat:nuts_2021_id":"1006061090117"
+    },
     "wof:coterminous":[
         101821739
     ],
     "wof:country":"PL",
-    "wof:geomhash":"fddb470793ba7edd93e18f49ba2b3ebb",
+    "wof:geomhash":"06f92b2dd292a54b2abd69b15878d887",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752173,
-    "wof:lastmodified":1570000173,
+    "wof:lastmodified":1684354397,
     "wof:name":"Tuczna",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",
+    "wof:population":3004,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142270906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solec nad Wis\u0142\u0105",
+    "eurostat:nuts_2021_id":"1007142270906",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142270906",
+    "eurostat:population":4894,
+    "eurostat:population_year":2020,
     "geom:area":0.016664,
-    "geom:area_square_m":129346149.116392,
+    "geom:area_square_m":129346149.116386,
     "geom:bbox":"21.64606588,51.037329909,21.802998095,51.193625513",
     "geom:latitude":51.115796,
     "geom:longitude":21.73255,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142270906",
+        "eurostat:nuts_2021_id":"1007142270906",
         "gn:id":758605,
         "gp:id":12617887,
         "qs_pg:id":1015827
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"422b71f923968b9a1cb2a26ecac47707",
+    "wof:geomhash":"57c3aafea4e6a71f39b06710cb2c4dd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125385811,
-    "wof:lastmodified":1582357933,
+    "wof:lastmodified":1684354305,
     "wof:name":"Solec nad Wis\u0142\u0105",
     "wof:parent_id":102079757,
     "wof:placetype":"localadmin",
-    "wof:population":1650,
-    "wof:population_rank":3,
+    "wof:population":4894,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

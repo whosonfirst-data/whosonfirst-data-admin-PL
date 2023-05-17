@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321660606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mory\u0144",
+    "eurostat:nuts_2021_id":"1002321660606",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321660606",
+    "eurostat:population":4267,
+    "eurostat:population_year":2020,
     "geom:area":0.016618,
-    "geom:area_square_m":124079214.648162,
+    "geom:area_square_m":124079214.648159,
     "geom:bbox":"14.286715,52.796048,14.509844,52.909864",
     "geom:latitude":52.855748,
     "geom:longitude":14.404224,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -157,11 +170,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080047,
-        85687271
+        85687271,
+        102080047
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321660606",
+        "eurostat:nuts_2021_id":"1002321660606",
         "gn:id":3091435,
         "gp:id":24547439,
         "qs_pg:id":980139
@@ -174,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f3f4b0b25f91fcf2dbc93460b03b4ae0",
+    "wof:geomhash":"9887202a0ed2cbd71ab6fa4e882e58fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,12 +200,12 @@
         }
     ],
     "wof:id":1125372373,
-    "wof:lastmodified":1607726773,
+    "wof:lastmodified":1684354285,
     "wof:name":"Gmina Mory\u0144",
     "wof:parent_id":102080047,
     "wof:placetype":"localadmin",
-    "wof:population":1634,
-    "wof:population_rank":3,
+    "wof:population":4267,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241491502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radlin",
+    "eurostat:nuts_2021_id":"1001241491502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL227",
+    "eurostat:nuts_2021_level_lau":"1001241491502",
+    "eurostat:population":17759,
+    "eurostat:population_year":2020,
     "geom:area":0.001573,
-    "geom:area_square_m":12491337.565613,
+    "geom:area_square_m":12491337.565612,
     "geom:bbox":"18.427091045,50.019598584,18.504910996,50.062752854",
     "geom:latitude":50.04313,
     "geom:longitude":18.470847,
@@ -66,7 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -79,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241491502",
+        "eurostat:nuts_2021_id":"1001241491502",
         "gn:id":3087529,
         "gp:id":12617661,
         "qs_pg:id":211556
@@ -91,7 +106,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e78bf76e8374532334eb973832363d65",
+    "wof:geomhash":"e6b943c32a6cd61d6d8595c2ac984087",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1125319007,
-    "wof:lastmodified":1582357944,
+    "wof:lastmodified":1684354223,
     "wof:name":"Radlin",
     "wof:parent_id":102079445,
     "wof:placetype":"localadmin",
-    "wof:population":17479,
+    "wof:population":17759,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

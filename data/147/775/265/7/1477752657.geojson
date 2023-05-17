@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101150608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowosolna",
+    "eurostat:nuts_2021_id":"1005101150608",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL712",
+    "eurostat:nuts_2021_level_lau":"1005101150608",
+    "eurostat:population":5084,
+    "eurostat:population_year":2020,
     "geom:area":0.007035,
-    "geom:area_square_m":53781931.271064,
+    "geom:area_square_m":53781931.271057,
     "geom:bbox":"19.547179008,51.754665223,19.680893756,51.864590512",
     "geom:latitude":51.81181,
     "geom:longitude":19.628283,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":19.643914,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079837
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101150608",
+        "eurostat:nuts_2021_id":"1005101150608"
+    },
     "wof:coterminous":[
         1477866137
     ],
     "wof:country":"PL",
-    "wof:geomhash":"cb6b6c15841668134ee9b7dd5702e48a",
+    "wof:geomhash":"5f048b61504435064328737d61599f1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477752657,
-    "wof:lastmodified":1570003725,
+    "wof:lastmodified":1684354421,
     "wof:name":"Nowosolna",
     "wof:parent_id":102079837,
     "wof:placetype":"localadmin",
+    "wof:population":5084,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

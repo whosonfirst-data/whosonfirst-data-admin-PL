@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061120507",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Potok Wielki",
+    "eurostat:nuts_2021_id":"1006061120507",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061120507",
+    "eurostat:population":4651,
+    "eurostat:population_year":2020,
     "geom:area":0.01267,
-    "geom:area_square_m":99102211.918967,
+    "geom:area_square_m":99102211.918941,
     "geom:bbox":"22.141397719,50.662098759,22.292051303,50.842546465",
     "geom:latitude":50.758665,
     "geom:longitude":22.215783,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":22.22313,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079697
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061120507",
+        "eurostat:nuts_2021_id":"1006061120507"
+    },
     "wof:coterminous":[
         1477863921
     ],
     "wof:country":"PL",
-    "wof:geomhash":"4a0e13b9de08f384bb4c6aaf96b94609",
+    "wof:geomhash":"3a2eb75c4ca2f6282fbfa902c177d58a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125289325,
-    "wof:lastmodified":1569990571,
+    "wof:lastmodified":1684354172,
     "wof:name":"Potok Wielki",
     "wof:parent_id":102079697,
     "wof:placetype":"localadmin",
+    "wof:population":4651,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

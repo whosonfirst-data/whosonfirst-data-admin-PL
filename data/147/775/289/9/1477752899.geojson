@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261531305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Secemin",
+    "eurostat:nuts_2021_id":"1005261531305",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261531305",
+    "eurostat:population":4811,
+    "eurostat:population_year":2020,
     "geom:area":0.020539,
-    "geom:area_square_m":160641860.278232,
+    "geom:area_square_m":160641860.278216,
     "geom:bbox":"19.704303518,50.701260949,19.976222078,50.851517714",
     "geom:latitude":50.763274,
     "geom:longitude":19.843232,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":19.852426,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079679
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005261531305",
+        "eurostat:nuts_2021_id":"1005261531305"
+    },
     "wof:coterminous":[
         101823949
     ],
     "wof:country":"PL",
-    "wof:geomhash":"6bf95db89d91cd814e0edc7aa46729ad",
+    "wof:geomhash":"7cafbe12ea704d7a4faa51ba376c3398",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752899,
-    "wof:lastmodified":1569999954,
+    "wof:lastmodified":1684354435,
     "wof:name":"Secemin",
     "wof:parent_id":102079679,
     "wof:placetype":"localadmin",
+    "wof:population":4811,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

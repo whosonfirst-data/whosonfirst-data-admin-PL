@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301570601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jaraczewo",
+    "eurostat:nuts_2021_id":"1002301570601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301570601",
+    "eurostat:population":8142,
+    "eurostat:population_year":2020,
     "geom:area":0.017401,
-    "geom:area_square_m":132601721.429129,
+    "geom:area_square_m":132601721.429131,
     "geom:bbox":"17.186390995,51.873507476,17.443770648,52.021984882",
     "geom:latitude":51.955123,
     "geom:longitude":17.340308,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":17.349049,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079857
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301570601",
+        "eurostat:nuts_2021_id":"1002301570601"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"8c53fcb741153f6cd72994c82ec9d373",
+    "wof:geomhash":"e4eb0723611c1b81ae9f659bde2028e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752719,
-    "wof:lastmodified":1570003214,
+    "wof:lastmodified":1684354424,
     "wof:name":"Gmina Jaraczewo",
     "wof:parent_id":102079857,
     "wof:placetype":"localadmin",
+    "wof:population":8142,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

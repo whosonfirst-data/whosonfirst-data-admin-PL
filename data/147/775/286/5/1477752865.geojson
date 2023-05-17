@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221421301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czarna Woda",
+    "eurostat:nuts_2021_id":"1004221421301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221421301",
+    "eurostat:population":3141,
+    "eurostat:population_year":2020,
     "geom:area":0.003785,
-    "geom:area_square_m":27614164.699484,
+    "geom:area_square_m":27614164.699481,
     "geom:bbox":"18.063505357,53.824045905,18.211099992,53.871562373",
     "geom:latitude":53.846596,
     "geom:longitude":18.146392,
@@ -26,6 +38,8 @@
     "reversegeo:longitude":18.141372,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -33,8 +47,12 @@
         102080183
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221421301",
+        "eurostat:nuts_2021_id":"1004221421301"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"639276f69c5d9534b0583504f6cb3862",
+    "wof:geomhash":"d189b2f6e79ea537697bc273d935aaf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477752865,
-    "wof:lastmodified":1570000358,
+    "wof:lastmodified":1684354433,
     "wof:name":"Gmina Czarna Woda",
     "wof:parent_id":102080183,
     "wof:placetype":"localadmin",
+    "wof:population":3141,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

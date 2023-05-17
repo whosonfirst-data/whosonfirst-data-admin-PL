@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lubochnia",
+    "eurostat:nuts_2021_id":"1005101171606",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171606",
+    "eurostat:population":7197,
+    "eurostat:population_year":2020,
     "geom:area":0.017078,
-    "geom:area_square_m":131161052.112067,
+    "geom:area_square_m":131161052.112061,
     "geom:bbox":"19.942232351,51.532292312,20.155724087,51.662679947",
     "geom:latitude":51.603601,
     "geom:longitude":20.057568,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.055568,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079831
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171606",
+        "eurostat:nuts_2021_id":"1005101171606"
+    },
     "wof:coterminous":[
         1477864033
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f52edfd3a04e955c3c65aa29e230212d",
+    "wof:geomhash":"ce84d9cb2001c45f6a359858540f06d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125375689,
-    "wof:lastmodified":1569992856,
+    "wof:lastmodified":1684354292,
     "wof:name":"Lubochnia",
     "wof:parent_id":102079831,
     "wof:placetype":"localadmin",
+    "wof:population":7197,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

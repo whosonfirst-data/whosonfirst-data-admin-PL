@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301603107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zakrzewo",
+    "eurostat:nuts_2021_id":"1002301603107",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301603107",
+    "eurostat:population":4905,
+    "eurostat:population_year":2020,
     "geom:area":0.021939,
-    "geom:area_square_m":161729408.582201,
+    "geom:area_square_m":161729408.582198,
     "geom:bbox":"17.019490406,53.318908301,17.302257336,53.479793191",
     "geom:latitude":53.404002,
     "geom:longitude":17.16907,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":17.1691,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080109
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301603107",
+        "eurostat:nuts_2021_id":"1002301603107"
+    },
     "wof:coterminous":[
         101820585
     ],
     "wof:country":"PL",
-    "wof:geomhash":"04ff7371ccc1a1ea9a2b9d56e2bce038",
+    "wof:geomhash":"881ba81610e7965cc92d039f0d34b26a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751255,
-    "wof:lastmodified":1570004563,
+    "wof:lastmodified":1684354348,
     "wof:name":"Zakrzewo",
     "wof:parent_id":102080109,
     "wof:placetype":"localadmin",
+    "wof:population":4905,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

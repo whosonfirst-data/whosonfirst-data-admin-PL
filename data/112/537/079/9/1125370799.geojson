@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bielsk Podlaski",
+    "eurostat:nuts_2021_id":"1006201380303",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380303",
+    "eurostat:population":6606,
+    "eurostat:population_year":2020,
     "geom:area":0.057271,
-    "geom:area_square_m":428229999.093767,
+    "geom:area_square_m":428229999.093877,
     "geom:bbox":"22.974482,52.659283,23.378667,52.914069",
     "geom:latitude":52.792789,
     "geom:longitude":23.185072,
@@ -159,6 +171,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -166,11 +180,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080071,
-        85687283
+        85687283,
+        102080071
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380303",
+        "eurostat:nuts_2021_id":"1006201380303",
         "gp:id":24548150,
         "qs_pg:id":972208
     },
@@ -182,7 +198,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"45addc79f7be712bfaf71ed6e2adf84e",
+    "wof:geomhash":"e88e630b5ab6c830f3fbfd670a326921",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,10 +209,12 @@
         }
     ],
     "wof:id":1125370799,
-    "wof:lastmodified":1607726777,
+    "wof:lastmodified":1684354279,
     "wof:name":"Gmina Bielsk Podlaski",
     "wof:parent_id":102080071,
     "wof:placetype":"localadmin",
+    "wof:population":6606,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

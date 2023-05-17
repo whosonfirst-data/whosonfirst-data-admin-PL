@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241470504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pilchowice",
+    "eurostat:nuts_2021_id":"1001241470504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL229",
+    "eurostat:nuts_2021_level_lau":"1001241470504",
+    "eurostat:population":12013,
+    "eurostat:population_year":2020,
     "geom:area":0.008808,
-    "geom:area_square_m":69695269.75295,
+    "geom:area_square_m":69695269.752952,
     "geom:bbox":"18.4869535,50.172617876,18.641997094,50.264458757",
     "geom:latitude":50.213769,
     "geom:longitude":18.570492,
@@ -60,6 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241470504",
+        "eurostat:nuts_2021_id":"1001241470504",
         "gp:id":12617684,
         "qs_pg:id":248416
     },
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0a0c619ed36114b06fa1166f3a51fe1a",
+    "wof:geomhash":"f1c59aa33ea00dbf426ab6db9a0c8dfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":1125415381,
-    "wof:lastmodified":1582358017,
+    "wof:lastmodified":1684354339,
     "wof:name":"Pilchowice",
     "wof:parent_id":102079563,
     "wof:placetype":"localadmin",
+    "wof:population":12013,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

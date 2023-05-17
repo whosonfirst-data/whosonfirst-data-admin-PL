@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grabowo",
+    "eurostat:nuts_2021_id":"1006201380602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380602",
+    "eurostat:population":3399,
+    "eurostat:population_year":2020,
     "geom:area":0.017402,
-    "geom:area_square_m":128069716.674808,
+    "geom:area_square_m":128069716.674784,
     "geom:bbox":"22.059058683,53.412312338,22.279779441,53.544539966",
     "geom:latitude":53.47462,
     "geom:longitude":22.167707,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":22.154613,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080149
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380602",
+        "eurostat:nuts_2021_id":"1006201380602"
+    },
     "wof:coterminous":[
         1293033341
     ],
     "wof:country":"PL",
-    "wof:geomhash":"4378cdf38dfa0b530f76c9e5092aaa66",
+    "wof:geomhash":"bf9ab330a87acb3a0823c3f7da81a9d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752149,
-    "wof:lastmodified":1570003281,
+    "wof:lastmodified":1684354395,
     "wof:name":"Grabowo",
     "wof:parent_id":102080149,
     "wof:placetype":"localadmin",
+    "wof:population":3399,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

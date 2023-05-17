@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171610",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ujazd",
+    "eurostat:nuts_2021_id":"1005101171610",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171610",
+    "eurostat:population":7723,
+    "eurostat:population_year":2020,
     "geom:area":0.01255,
-    "geom:area_square_m":96375985.104932,
+    "geom:area_square_m":96375985.104922,
     "geom:bbox":"19.822086017,51.544468271,19.994696243,51.664440722",
     "geom:latitude":51.608487,
     "geom:longitude":19.909773,
@@ -103,7 +115,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -116,6 +129,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171610",
+        "eurostat:nuts_2021_id":"1005101171610",
         "gn:id":3082854,
         "gp:id":12616880,
         "qs_pg:id":23892
@@ -128,7 +143,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2dda562b6ed75852bb244657e81c2b8e",
+    "wof:geomhash":"ad592c65355dbed75c80265f46b395ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,12 +154,12 @@
         }
     ],
     "wof:id":1125288547,
-    "wof:lastmodified":1582357780,
+    "wof:lastmodified":1684354161,
     "wof:name":"Ujazd",
     "wof:parent_id":102079831,
     "wof:placetype":"localadmin",
-    "wof:population":1700,
-    "wof:population_rank":3,
+    "wof:population":7723,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

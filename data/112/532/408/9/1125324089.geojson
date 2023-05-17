@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200607",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Liszki",
+    "eurostat:nuts_2021_id":"1001121200607",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200607",
+    "eurostat:population":17447,
+    "eurostat:population_year":2020,
     "geom:area":0.009045,
-    "geom:area_square_m":71826431.549151,
+    "geom:area_square_m":71826431.549184,
     "geom:bbox":"19.661084741,49.978661867,19.829102064,50.093425349",
     "geom:latitude":50.042995,
     "geom:longitude":19.750003,
@@ -60,6 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200607",
+        "eurostat:nuts_2021_id":"1001121200607",
         "gp:id":12617574,
         "qs_pg:id":222002
     },
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"88fcce01ba6e15403f8f55ee91b18e10",
+    "wof:geomhash":"3bef1a14cf512a424983c849a051765e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":1125324089,
-    "wof:lastmodified":1582357731,
+    "wof:lastmodified":1684354225,
     "wof:name":"Liszki",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",
+    "wof:population":17447,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

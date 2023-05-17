@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Murowana Go\u015blina",
+    "eurostat:nuts_2021_id":"1002301612111",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612111",
+    "eurostat:population":16901,
+    "eurostat:population_year":2020,
     "geom:area":0.022831,
-    "geom:area_square_m":171486454.986359,
+    "geom:area_square_m":171486454.98635,
     "geom:bbox":"16.89340477,52.512977359,17.187339839,52.680661918",
     "geom:latitude":52.596109,
     "geom:longitude":17.039094,
@@ -90,6 +102,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -102,6 +116,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612111",
+        "eurostat:nuts_2021_id":"1002301612111",
         "gp:id":24548090,
         "qs_pg:id":1330180
     },
@@ -110,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5f9c07f9636d6e801f89f8539f23818a",
+    "wof:geomhash":"89bd58c6cf64b10c3112ad422b00aeae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":1125392415,
-    "wof:lastmodified":1582357917,
+    "wof:lastmodified":1684354310,
     "wof:name":"Gmina Murowana Go\u015blina",
     "wof:parent_id":102079955,
     "wof:placetype":"localadmin",
+    "wof:population":16901,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

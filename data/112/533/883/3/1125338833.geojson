@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301582707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tuliszk\u00f3w",
+    "eurostat:nuts_2021_id":"1002301582707",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301582707",
+    "eurostat:population":10537,
+    "eurostat:population_year":2020,
     "geom:area":0.01961,
-    "geom:area_square_m":149081951.845318,
+    "geom:area_square_m":149081951.845322,
     "geom:bbox":"18.218214125,51.981304961,18.44418479,52.125562163",
     "geom:latitude":52.061719,
     "geom:longitude":18.325588,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301582707",
+        "eurostat:nuts_2021_id":"1002301582707",
         "gn:id":3083017,
         "gp:id":24547773,
         "qs_pg:id":59467
@@ -159,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0b4a8aa996cb519393171dcb8b47b382",
+    "wof:geomhash":"6727aca7d9cc3d4db91fe169f4bdc98e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,12 +185,12 @@
         }
     ],
     "wof:id":1125338833,
-    "wof:lastmodified":1582357686,
+    "wof:lastmodified":1684354245,
     "wof:name":"Gmina Tuliszk\u00f3w",
     "wof:parent_id":102079883,
     "wof:placetype":"localadmin",
-    "wof:population":3371,
-    "wof:population_rank":4,
+    "wof:population":10537,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

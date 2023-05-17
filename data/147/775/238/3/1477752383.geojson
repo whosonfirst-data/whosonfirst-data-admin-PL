@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121201402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Koszyce",
+    "eurostat:nuts_2021_id":"1001121201402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121201402",
+    "eurostat:population":5454,
+    "eurostat:population_year":2020,
     "geom:area":0.008312,
-    "geom:area_square_m":65831065.117748,
+    "geom:area_square_m":65831065.117752,
     "geom:bbox":"20.474901178,50.133872859,20.681734419,50.211653279",
     "geom:latitude":50.172371,
     "geom:longitude":20.566015,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":20.550381,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079545
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121201402",
+        "eurostat:nuts_2021_id":"1001121201402"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"5cc43bc40dce07bf719941443a99b1ab",
+    "wof:geomhash":"c19af9166279913bc30668a851edf7fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752383,
-    "wof:lastmodified":1570003481,
+    "wof:lastmodified":1684354407,
     "wof:name":"Gmina Koszyce",
     "wof:parent_id":102079545,
     "wof:placetype":"localadmin",
+    "wof:population":5454,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

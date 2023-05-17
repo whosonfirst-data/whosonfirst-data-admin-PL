@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321641201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bielice",
+    "eurostat:nuts_2021_id":"1002321641201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321641201",
+    "eurostat:population":3122,
+    "eurostat:population_year":2020,
     "geom:area":0.011321,
-    "geom:area_square_m":83848624.109171,
+    "geom:area_square_m":83848624.109168,
     "geom:bbox":"14.668658394,53.134643208,14.817578672,53.273519407",
     "geom:latitude":53.203464,
     "geom:longitude":14.748244,
@@ -90,7 +102,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -103,6 +116,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321641201",
+        "eurostat:nuts_2021_id":"1002321641201",
         "gn:id":3103432,
         "gp:id":12617014,
         "qs_pg:id":1148863
@@ -115,7 +130,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cc978e03a7499f87fb9c92a7de093f29",
+    "wof:geomhash":"f57bc1f0aba483fa164094098d44921c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,12 +141,12 @@
         }
     ],
     "wof:id":1125350383,
-    "wof:lastmodified":1582357705,
+    "wof:lastmodified":1684354255,
     "wof:name":"Bielice",
     "wof:parent_id":102080041,
     "wof:placetype":"localadmin",
-    "wof:population":560,
-    "wof:population_rank":2,
+    "wof:population":3122,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

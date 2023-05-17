@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241491101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Racib\u00f3rz",
+    "eurostat:nuts_2021_id":"1001241491101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL227",
+    "eurostat:nuts_2021_level_lau":"1001241491101",
+    "eurostat:population":54739,
+    "eurostat:population_year":2020,
     "geom:area":0.009424,
-    "geom:area_square_m":74764966.993708,
+    "geom:area_square_m":74764966.993697,
     "geom:bbox":"18.141040882,50.044269724,18.302496375,50.13696092",
     "geom:latitude":50.088499,
     "geom:longitude":18.225469,
@@ -318,6 +330,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -330,6 +344,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241491101",
+        "eurostat:nuts_2021_id":"1001241491101",
         "gp:id":12618603,
         "qs_pg:id":31835
     },
@@ -341,7 +357,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"955f95658b49780061f0d2cdf2787f75",
+    "wof:geomhash":"2a6047338671528834c5eff2fe97ca3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -352,10 +368,12 @@
         }
     ],
     "wof:id":1125398941,
-    "wof:lastmodified":1582357909,
+    "wof:lastmodified":1684354320,
     "wof:name":"Racib\u00f3rz",
     "wof:parent_id":102079477,
     "wof:placetype":"localadmin",
+    "wof:population":54739,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

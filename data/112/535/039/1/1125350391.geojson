@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301592902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siedlec",
+    "eurostat:nuts_2021_id":"1002301592902",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301592902",
+    "eurostat:population":12734,
+    "eurostat:population_year":2020,
     "geom:area":0.026869,
-    "geom:area_square_m":203856037.914893,
+    "geom:area_square_m":203856037.914897,
     "geom:bbox":"15.833296055,52.065022944,16.107487492,52.246664207",
     "geom:latitude":52.151259,
     "geom:longitude":15.974434,
@@ -66,7 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -79,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301592902",
+        "eurostat:nuts_2021_id":"1002301592902",
         "gn:id":3086080,
         "gp:id":12617363,
         "qs_pg:id":1148864
@@ -91,7 +106,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d2349ecc89c893764ad80a03db2433e7",
+    "wof:geomhash":"b5fa0cb3b6695b69f6a0e62a3fac7d2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,12 +117,12 @@
         }
     ],
     "wof:id":1125350391,
-    "wof:lastmodified":1582357709,
+    "wof:lastmodified":1684354255,
     "wof:name":"Siedlec",
     "wof:parent_id":102079867,
     "wof:placetype":"localadmin",
-    "wof:population":1200,
-    "wof:population_rank":3,
+    "wof:population":12734,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

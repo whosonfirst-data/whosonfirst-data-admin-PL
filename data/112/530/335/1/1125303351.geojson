@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201370211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Turo\u015b\u0144 Ko\u015bcielna",
+    "eurostat:nuts_2021_id":"1006201370211",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201370211",
+    "eurostat:population":6411,
+    "eurostat:population_year":2020,
     "geom:area":0.018739,
-    "geom:area_square_m":139346151.823923,
+    "geom:area_square_m":139346151.823926,
     "geom:bbox":"22.896454937,52.942534951,23.121421502,53.103270788",
     "geom:latitude":53.030933,
     "geom:longitude":23.012908,
@@ -77,7 +89,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -90,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201370211",
+        "eurostat:nuts_2021_id":"1006201370211",
         "gn:id":756567,
         "gp:id":12617046,
         "qs_pg:id":272214
@@ -102,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"092357797e2b140fca5e626e924f45ee",
+    "wof:geomhash":"e0994ca39263a4cfecd60e08f1f09477",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,12 +128,12 @@
         }
     ],
     "wof:id":1125303351,
-    "wof:lastmodified":1582357886,
+    "wof:lastmodified":1684354195,
     "wof:name":"Turo\u015b\u0144 Ko\u015bcielna",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",
-    "wof:population":700,
-    "wof:population_rank":2,
+    "wof:population":6411,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

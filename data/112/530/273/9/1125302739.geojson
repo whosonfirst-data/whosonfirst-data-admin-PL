@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061121601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u0119blin",
+    "eurostat:nuts_2021_id":"1006061121601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061121601",
+    "eurostat:population":16058,
+    "eurostat:population_year":2020,
     "geom:area":0.00497,
-    "geom:area_square_m":38193272.78842,
+    "geom:area_square_m":38193272.788397,
     "geom:bbox":"21.814096138,51.529178238,21.934580535,51.60534043",
     "geom:latitude":51.571763,
     "geom:longitude":21.87356,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061121601",
+        "eurostat:nuts_2021_id":"1006061121601",
         "gn:id":773357,
         "gp:id":12617995,
         "qs_pg:id":1207104
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cbf2f7b8526cd57e52de6ce786f85997",
+    "wof:geomhash":"85d549fc8fee36777cff65f97d8ef6ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,11 +188,11 @@
         }
     ],
     "wof:id":1125302739,
-    "wof:lastmodified":1582357873,
+    "wof:lastmodified":1684354195,
     "wof:name":"D\u0119blin",
     "wof:parent_id":102079869,
     "wof:placetype":"localadmin",
-    "wof:population":17775,
+    "wof:population":16058,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

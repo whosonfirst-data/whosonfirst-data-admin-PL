@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chrz\u0105stowice",
+    "eurostat:nuts_2021_id":"1003161320901",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320901",
+    "eurostat:population":7013,
+    "eurostat:population_year":2020,
     "geom:area":0.010467,
-    "geom:area_square_m":82062123.748734,
+    "geom:area_square_m":82062123.748719,
     "geom:bbox":"17.991560427,50.609215103,18.191128581,50.704350013",
     "geom:latitude":50.652947,
     "geom:longitude":18.088883,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":18.079053,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079627
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320901",
+        "eurostat:nuts_2021_id":"1003161320901"
+    },
     "wof:coterminous":[
         101825143
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f81257c6b2908ed2b7000d1e0b99ee60",
+    "wof:geomhash":"f1f69be85c19cb39c99f2102311f986c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477751685,
-    "wof:lastmodified":1569999041,
+    "wof:lastmodified":1684354370,
     "wof:name":"Chrz\u0105stowice",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",
+    "wof:population":7013,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

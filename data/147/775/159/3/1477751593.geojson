@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181360801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Le\u017cajsk",
+    "eurostat:nuts_2021_id":"1006181360801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181360801",
+    "eurostat:population":13799,
+    "eurostat:population_year":2020,
     "geom:area":0.002595,
-    "geom:area_square_m":20513287.870736,
+    "geom:area_square_m":20513287.870735,
     "geom:bbox":"22.371619237,50.235498616,22.46561321,50.295677956",
     "geom:latitude":50.26562,
     "geom:longitude":22.419145,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":22.41596,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079599
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181360801",
+        "eurostat:nuts_2021_id":"1006181360801"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"b37da7d96e686c23efb4a14b586dfb4a",
+    "wof:geomhash":"ed0c0f2eac8a4f58190b7d1cf2e47f86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751593,
-    "wof:lastmodified":1569999132,
+    "wof:lastmodified":1684354365,
     "wof:name":"Gmina Le\u017cajsk",
     "wof:parent_id":102079599,
     "wof:placetype":"localadmin",
+    "wof:population":13799,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

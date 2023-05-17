@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181330705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Korczyna",
+    "eurostat:nuts_2021_id":"1006181330705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181330705",
+    "eurostat:population":11207,
+    "eurostat:population_year":2020,
     "geom:area":0.011609,
-    "geom:area_square_m":92762668.917179,
+    "geom:area_square_m":92762668.917194,
     "geom:bbox":"21.739939867,49.659737376,21.912091412,49.80104338",
     "geom:latitude":49.743169,
     "geom:longitude":21.829869,
@@ -62,7 +74,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -75,6 +88,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181330705",
+        "eurostat:nuts_2021_id":"1006181330705",
         "gn:id":768136,
         "gp:id":12617502,
         "qs_pg:id":1309942
@@ -87,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e19551045b921c0a9f743099db205f52",
+    "wof:geomhash":"154e71c9566ea93d19cf7c86e8c5831b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,12 +113,12 @@
         }
     ],
     "wof:id":1125332927,
-    "wof:lastmodified":1582357682,
+    "wof:lastmodified":1684354243,
     "wof:name":"Korczyna",
     "wof:parent_id":102079455,
     "wof:placetype":"localadmin",
-    "wof:population":6100,
-    "wof:population_rank":5,
+    "wof:population":11207,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

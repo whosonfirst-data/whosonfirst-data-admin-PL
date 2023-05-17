@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sejny",
+    "eurostat:nuts_2021_id":"1006201390905",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390905",
+    "eurostat:population":4007,
+    "eurostat:population_year":2020,
     "geom:area":0.029864,
-    "geom:area_square_m":216439384.611476,
+    "geom:area_square_m":216439384.611481,
     "geom:bbox":"23.264602288,54.009658902,23.528601483,54.232874199",
     "geom:latitude":54.117822,
     "geom:longitude":23.404952,
@@ -152,6 +164,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -160,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390905",
+        "eurostat:nuts_2021_id":"1006201390905",
         "gn:id":7532066,
         "qs_pg:id":1154825
     },
@@ -168,7 +184,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0377f4c1e553b452ec910112a257d1ac",
+    "wof:geomhash":"b8b61843a08e4e4953615976dff29771",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,10 +195,12 @@
         }
     ],
     "wof:id":1125409187,
-    "wof:lastmodified":1582358003,
+    "wof:lastmodified":1684354330,
     "wof:name":"Gmina Sejny",
     "wof:parent_id":102080257,
     "wof:placetype":"localadmin",
+    "wof:population":4007,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Skalbmierz",
+    "eurostat:nuts_2021_id":"1005261530305",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530305",
+    "eurostat:population":6463,
+    "eurostat:population_year":2020,
     "geom:area":0.010847,
-    "geom:area_square_m":85651017.164068,
+    "geom:area_square_m":85651017.164047,
     "geom:bbox":"20.291890214,50.261207836,20.485870216,50.359477766",
     "geom:latitude":50.311856,
     "geom:longitude":20.397198,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530305",
+        "eurostat:nuts_2021_id":"1005261530305",
         "gn:id":759172,
         "gp:id":24548472,
         "qs_pg:id":1018227
@@ -159,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2f149b8e9a46764de64de227f0eaba37",
+    "wof:geomhash":"a6356123ceeec0b357dfa3a5b7029ac8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,12 +185,12 @@
         }
     ],
     "wof:id":1125391765,
-    "wof:lastmodified":1582357923,
+    "wof:lastmodified":1684354309,
     "wof:name":"Gmina Skalbmierz",
     "wof:parent_id":102079561,
     "wof:placetype":"localadmin",
-    "wof:population":1291,
-    "wof:population_rank":3,
+    "wof:population":6463,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141300505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jaktor\u00f3w",
+    "eurostat:nuts_2021_id":"1007141300505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141300505",
+    "eurostat:population":12471,
+    "eurostat:population_year":2020,
     "geom:area":0.007249,
-    "geom:area_square_m":55091721.419452,
+    "geom:area_square_m":55091721.419439,
     "geom:bbox":"20.439432452,52.032616763,20.583241982,52.125952298",
     "geom:latitude":52.076592,
     "geom:longitude":20.518249,
@@ -53,6 +65,8 @@
     "reversegeo:longitude":20.535063,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -60,11 +74,15 @@
         102079909
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007141300505",
+        "eurostat:nuts_2021_id":"1007141300505"
+    },
     "wof:coterminous":[
         1125871511
     ],
     "wof:country":"PL",
-    "wof:geomhash":"c7c4c6ec68fbc63b1d76355f3cfc0e72",
+    "wof:geomhash":"7cba3b1a86dbc4bc08b4e27dc86ce7e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477752925,
-    "wof:lastmodified":1570000557,
+    "wof:lastmodified":1684354437,
     "wof:name":"Jaktor\u00f3w",
     "wof:parent_id":102079909,
     "wof:placetype":"localadmin",
+    "wof:population":12471,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

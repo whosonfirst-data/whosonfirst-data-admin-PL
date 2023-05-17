@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041066301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Toru\u0144",
+    "eurostat:nuts_2021_id":"1004041066301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL613",
+    "eurostat:nuts_2021_level_lau":"1004041066301",
+    "eurostat:population":201447,
+    "eurostat:population_year":2020,
     "geom:area":0.015496,
-    "geom:area_square_m":115259481.267518,
+    "geom:area_square_m":115259481.267515,
     "geom:bbox":"18.460666921,52.963073879,18.742230042,53.065898071",
     "geom:latitude":53.021102,
     "geom:longitude":18.618901,
@@ -260,6 +272,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -272,6 +286,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041066301",
+        "eurostat:nuts_2021_id":"1004041066301",
         "gn:id":7532549,
         "gp:id":12618883,
         "qs_pg:id":1293669
@@ -284,7 +300,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"abe5f70f40e91cd745abf72c13cb6d41",
+    "wof:geomhash":"7d07f749ea027969c4c83e8c11b138c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -295,10 +311,12 @@
         }
     ],
     "wof:id":1125287031,
-    "wof:lastmodified":1582357772,
+    "wof:lastmodified":1684354159,
     "wof:name":"Toru\u0144",
     "wof:parent_id":102080039,
     "wof:placetype":"localadmin",
+    "wof:population":201447,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

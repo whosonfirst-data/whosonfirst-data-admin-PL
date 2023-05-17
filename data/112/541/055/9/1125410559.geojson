@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szczuczyn",
+    "eurostat:nuts_2021_id":"1006201390405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390405",
+    "eurostat:population":6026,
+    "eurostat:population_year":2020,
     "geom:area":0.015673,
-    "geom:area_square_m":115092419.726173,
+    "geom:area_square_m":115092419.726159,
     "geom:bbox":"22.135727964,53.50998186,22.445774545,53.634076195",
     "geom:latitude":53.566652,
     "geom:longitude":22.283979,
@@ -142,7 +154,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -155,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390405",
+        "eurostat:nuts_2021_id":"1006201390405",
         "gn:id":757386,
         "gp:id":24548170,
         "qs_pg:id":59522
@@ -164,7 +179,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"81979c831a534f2292616db4271398b4",
+    "wof:geomhash":"d2a32edaae7378ef0186e8202168bb6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,12 +190,12 @@
         }
     ],
     "wof:id":1125410559,
-    "wof:lastmodified":1582358014,
+    "wof:lastmodified":1684354332,
     "wof:name":"Gmina Szczuczyn",
     "wof:parent_id":102080181,
     "wof:placetype":"localadmin",
-    "wof:population":3552,
-    "wof:population_rank":4,
+    "wof:population":6026,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361806",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zaleszany",
+    "eurostat:nuts_2021_id":"1006181361806",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361806",
+    "eurostat:population":10948,
+    "eurostat:population_year":2020,
     "geom:area":0.011077,
-    "geom:area_square_m":86870581.735083,
+    "geom:area_square_m":86870581.735118,
     "geom:bbox":"21.857066432,50.584604984,22.044388314,50.702703569",
     "geom:latitude":50.636058,
     "geom:longitude":21.940396,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":21.938973,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079669
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361806",
+        "eurostat:nuts_2021_id":"1006181361806"
+    },
     "wof:coterminous":[
         101822801
     ],
     "wof:country":"PL",
-    "wof:geomhash":"3de262d3f91db64787f50d097fb2a2ae",
+    "wof:geomhash":"82fa9207bd337ed76f6bfce69610b092",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752221,
-    "wof:lastmodified":1570003259,
+    "wof:lastmodified":1684354399,
     "wof:name":"Zaleszany",
     "wof:parent_id":102079669,
     "wof:placetype":"localadmin",
+    "wof:population":10948,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

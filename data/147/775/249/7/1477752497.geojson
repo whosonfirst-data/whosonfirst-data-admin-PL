@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241501608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szczekociny",
+    "eurostat:nuts_2021_id":"1001241501608",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22B",
+    "eurostat:nuts_2021_level_lau":"1001241501608",
+    "eurostat:population":7658,
+    "eurostat:population_year":2020,
     "geom:area":0.017195,
-    "geom:area_square_m":134842853.009575,
+    "geom:area_square_m":134842853.009554,
     "geom:bbox":"19.712949364,50.551943042,19.922185358,50.729155977",
     "geom:latitude":50.63937,
     "geom:longitude":19.799159,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":19.792103,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079613
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241501608",
+        "eurostat:nuts_2021_id":"1001241501608"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"548ebdf4333654ac85cd4867abed843b",
+    "wof:geomhash":"0ec99a4783a8c3213404f10ecc8fdfb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752497,
-    "wof:lastmodified":1570003116,
+    "wof:lastmodified":1684354412,
     "wof:name":"Gmina Szczekociny",
     "wof:parent_id":102079613,
     "wof:placetype":"localadmin",
+    "wof:population":7658,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

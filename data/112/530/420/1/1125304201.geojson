@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021030811",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowa Ruda",
+    "eurostat:nuts_2021_id":"1003021030811",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021030811",
+    "eurostat:population":11546,
+    "eurostat:population_year":2020,
     "geom:area":0.017729,
-    "geom:area_square_m":139154905.910987,
+    "geom:area_square_m":139154905.910953,
     "geom:bbox":"16.377823,50.496941,16.636725,50.681102",
     "geom:latitude":50.597009,
     "geom:longitude":16.520386,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -94,11 +108,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079559,
-        85687301
+        85687301,
+        102079559
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021030811",
+        "eurostat:nuts_2021_id":"1003021030811",
         "gp:id":24547711,
         "qs_pg:id":1103247
     },
@@ -110,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"edd90f3eb08b330ebbe06708606c599f",
+    "wof:geomhash":"ab1181f5eee9996b04c14a9f8b3d5124",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":1125304201,
-    "wof:lastmodified":1607726751,
+    "wof:lastmodified":1684354198,
     "wof:name":"Gmina Nowa Ruda",
     "wof:parent_id":102079559,
     "wof:placetype":"localadmin",
+    "wof:population":11546,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

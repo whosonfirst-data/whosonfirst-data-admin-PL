@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301602805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Skoki",
+    "eurostat:nuts_2021_id":"1002301602805",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301602805",
+    "eurostat:population":9713,
+    "eurostat:population_year":2020,
     "geom:area":0.02636,
-    "geom:area_square_m":197713886.41239,
+    "geom:area_square_m":197713886.412406,
     "geom:bbox":"17.031041776,52.566791068,17.342544094,52.745925706",
     "geom:latitude":52.657197,
     "geom:longitude":17.184867,
@@ -135,7 +147,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -148,6 +161,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301602805",
+        "eurostat:nuts_2021_id":"1002301602805",
         "gn:id":3085781,
         "gp:id":24547784,
         "qs_pg:id":335581
@@ -157,7 +172,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"203a99e923094b85009d88d3c9318cbd",
+    "wof:geomhash":"5afa9f63693481047117807c9fc878ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":1125372171,
-    "wof:lastmodified":1582357843,
+    "wof:lastmodified":1684354285,
     "wof:name":"Gmina Skoki",
     "wof:parent_id":102080019,
     "wof:placetype":"localadmin",
-    "wof:population":3972,
-    "wof:population_rank":4,
+    "wof:population":9713,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

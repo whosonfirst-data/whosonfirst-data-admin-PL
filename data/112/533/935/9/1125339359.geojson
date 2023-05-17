@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tarnogr\u00f3d",
+    "eurostat:nuts_2021_id":"1006061100212",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100212",
+    "eurostat:population":6655,
+    "eurostat:population_year":2020,
     "geom:area":0.014423,
-    "geom:area_square_m":113849370.870359,
+    "geom:area_square_m":113849370.870369,
     "geom:bbox":"22.606568076,50.291143932,22.879439429,50.385964405",
     "geom:latitude":50.330249,
     "geom:longitude":22.7508,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -162,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100212",
+        "eurostat:nuts_2021_id":"1006061100212",
         "gn:id":757029,
         "gp:id":24548784,
         "qs_pg:id":59642
@@ -171,7 +186,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ece212a566956dda28d88fc29a322bbd",
+    "wof:geomhash":"099d7732279efa6ccb6198b7ee49b627",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,12 +197,12 @@
         }
     ],
     "wof:id":1125339359,
-    "wof:lastmodified":1582357684,
+    "wof:lastmodified":1684354248,
     "wof:name":"Gmina Tarnogr\u00f3d",
     "wof:parent_id":102079699,
     "wof:placetype":"localadmin",
-    "wof:population":3396,
-    "wof:population_rank":4,
+    "wof:population":6655,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

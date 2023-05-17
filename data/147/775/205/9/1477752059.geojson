@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sztabin",
+    "eurostat:nuts_2021_id":"1006201390107",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390107",
+    "eurostat:population":5065,
+    "eurostat:population_year":2020,
     "geom:area":0.049374,
-    "geom:area_square_m":361263242.425573,
+    "geom:area_square_m":361263242.425549,
     "geom:bbox":"22.869788465,53.570063548,23.352403073,53.856149189",
     "geom:latitude":53.719909,
     "geom:longitude":23.106271,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":23.106226,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080221
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390107",
+        "eurostat:nuts_2021_id":"1006201390107"
+    },
     "wof:coterminous":[
         1126018441
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5cad0d4925706620045cea998094b674",
+    "wof:geomhash":"8d036e76303c37ad7dcadfe2d3268d30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752059,
-    "wof:lastmodified":1570001115,
+    "wof:lastmodified":1684354390,
     "wof:name":"Sztabin",
     "wof:parent_id":102080221,
     "wof:placetype":"localadmin",
+    "wof:population":5065,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

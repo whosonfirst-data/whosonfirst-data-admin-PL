@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181331706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tyrawa Wo\u0142oska",
+    "eurostat:nuts_2021_id":"1006181331706",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181331706",
+    "eurostat:population":1978,
+    "eurostat:population_year":2020,
     "geom:area":0.008611,
-    "geom:area_square_m":69026431.937859,
+    "geom:area_square_m":69026431.937866,
     "geom:bbox":"22.283909157,49.527453374,22.428058217,49.649043027",
     "geom:latitude":49.586434,
     "geom:longitude":22.362435,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181331706",
+        "eurostat:nuts_2021_id":"1006181331706",
         "gn:id":756456,
         "gp:id":12617394,
         "qs_pg:id":1001447
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"07fba5fab9ae8308104c22b490e20b0a",
+    "wof:geomhash":"1e8a404d1c26f893e5edad8d0d21b86a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125376565,
-    "wof:lastmodified":1582357846,
+    "wof:lastmodified":1684354294,
     "wof:name":"Tyrawa Wo\u0142oska",
     "wof:parent_id":102079437,
     "wof:placetype":"localadmin",
-    "wof:population":900,
-    "wof:population_rank":2,
+    "wof:population":1978,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

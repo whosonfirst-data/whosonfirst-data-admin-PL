@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081130105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lubiszyn",
+    "eurostat:nuts_2021_id":"1002081130105",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL431",
+    "eurostat:nuts_2021_level_lau":"1002081130105",
+    "eurostat:population":6878,
+    "eurostat:population_year":2020,
     "geom:area":0.027347,
-    "geom:area_square_m":204449473.055258,
+    "geom:area_square_m":204449473.055245,
     "geom:bbox":"14.810110988,52.727856728,15.149537346,52.889824588",
     "geom:latitude":52.79892,
     "geom:longitude":14.983412,
@@ -77,7 +89,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -90,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081130105",
+        "eurostat:nuts_2021_id":"1002081130105",
         "gn:id":3092913,
         "gp:id":12617065,
         "qs_pg:id":396922
@@ -102,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"04edc1be8d038147c8abe9882059072a",
+    "wof:geomhash":"61475e8b9eb601e1d2ab80e3ca7cc48b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,12 +128,12 @@
         }
     ],
     "wof:id":1125399495,
-    "wof:lastmodified":1582357913,
+    "wof:lastmodified":1684354321,
     "wof:name":"Lubiszyn",
     "wof:parent_id":102079975,
     "wof:placetype":"localadmin",
-    "wof:population":800,
-    "wof:population_rank":2,
+    "wof:population":6878,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

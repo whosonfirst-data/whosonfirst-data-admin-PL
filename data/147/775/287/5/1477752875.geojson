@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wielbark",
+    "eurostat:nuts_2021_id":"1004281561708",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561708",
+    "eurostat:population":6461,
+    "eurostat:population_year":2020,
     "geom:area":0.046993,
-    "geom:area_square_m":346455095.686195,
+    "geom:area_square_m":346455095.686187,
     "geom:bbox":"20.7489219,53.292275673,21.181222765,53.481150632",
     "geom:latitude":53.399665,
     "geom:longitude":20.948085,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":20.966042,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102080167
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561708",
+        "eurostat:nuts_2021_id":"1004281561708"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"416b023ea1a40cf6f58035911e322d75",
+    "wof:geomhash":"15e7cc035c20f45c2d16cf6db3292db4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752875,
-    "wof:lastmodified":1569999915,
+    "wof:lastmodified":1684354434,
     "wof:name":"Gmina Wielbark",
     "wof:parent_id":102080167,
     "wof:placetype":"localadmin",
+    "wof:population":6461,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

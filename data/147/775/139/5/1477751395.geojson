@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081130704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sul\u0119cin",
+    "eurostat:nuts_2021_id":"1002081130704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL431",
+    "eurostat:nuts_2021_level_lau":"1002081130704",
+    "eurostat:population":15745,
+    "eurostat:population_year":2020,
     "geom:area":0.04229,
-    "geom:area_square_m":318833919.83727,
+    "geom:area_square_m":318833919.8373,
     "geom:bbox":"14.968918623,52.341568195,15.450604739,52.532194571",
     "geom:latitude":52.431382,
     "geom:longitude":15.176646,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":15.173042,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079933
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002081130704",
+        "eurostat:nuts_2021_id":"1002081130704"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"daca8090fde590e753025d42904fe3ab",
+    "wof:geomhash":"d5f11e8fac36295acde621ac964251d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477751395,
-    "wof:lastmodified":1570002553,
+    "wof:lastmodified":1684354355,
     "wof:name":"Gmina Sul\u0119cin",
     "wof:parent_id":102079933,
     "wof:placetype":"localadmin",
+    "wof:population":15745,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mak\u00f3w Mazowiecki",
+    "eurostat:nuts_2021_id":"1007142261101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261101",
+    "eurostat:population":9711,
+    "eurostat:population_year":2020,
     "geom:area":0.001371,
-    "geom:area_square_m":10237758.906047,
+    "geom:area_square_m":10237758.906052,
     "geom:bbox":"21.06808391,52.841296156,21.118126138,52.882115714",
     "geom:latitude":52.861393,
     "geom:longitude":21.092059,
@@ -92,6 +104,8 @@
     "reversegeo:longitude":21.091583,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -99,11 +113,15 @@
         102080077
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261101",
+        "eurostat:nuts_2021_id":"1007142261101"
+    },
     "wof:coterminous":[
         101819149
     ],
     "wof:country":"PL",
-    "wof:geomhash":"71fea1ec69160f06dff440fe775ead2d",
+    "wof:geomhash":"15a623d600a7cda8ee344d9c9cf4f201",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,10 +132,12 @@
         }
     ],
     "wof:id":1477752917,
-    "wof:lastmodified":1570129457,
+    "wof:lastmodified":1684354436,
     "wof:name":"Mak\u00f3w Mazowiecki",
     "wof:parent_id":102080077,
     "wof:placetype":"localadmin",
+    "wof:population":9711,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

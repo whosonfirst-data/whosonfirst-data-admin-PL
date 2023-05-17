@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141286501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Warszawa",
+    "eurostat:nuts_2021_id":"1007141286501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL911",
+    "eurostat:nuts_2021_level_lau":"1007141286501",
+    "eurostat:population":1790658,
+    "eurostat:population_year":2020,
     "geom:area":0.068027,
-    "geom:area_square_m":515220209.105622,
+    "geom:area_square_m":515220209.105629,
     "geom:bbox":"20.851688337,52.097849611,21.271151295,52.368153943",
     "geom:latitude":52.229334,
     "geom:longitude":21.047739,
@@ -65,6 +77,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -77,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141286501",
+        "eurostat:nuts_2021_id":"1007141286501",
         "gn:id":7531926,
         "gp:id":24548810,
         "qs_pg:id":1175844
@@ -89,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a8863aa36314894fc364b5049e128a76",
+    "wof:geomhash":"77b4c216178b391488a020f7adacfb4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":1125365875,
-    "wof:lastmodified":1582357972,
+    "wof:lastmodified":1684354274,
     "wof:name":"Gmina Warszawa",
     "wof:parent_id":1477743805,
     "wof:placetype":"localadmin",
+    "wof:population":1790658,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

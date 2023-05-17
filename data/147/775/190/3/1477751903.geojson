@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281560902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kiwity",
+    "eurostat:nuts_2021_id":"1004281560902",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281560902",
+    "eurostat:population":3286,
+    "eurostat:population_year":2020,
     "geom:area":0.019929,
-    "geom:area_square_m":144476913.480386,
+    "geom:area_square_m":144476913.480405,
     "geom:bbox":"20.625411914,54.009791715,20.817053426,54.21405261",
     "geom:latitude":54.106374,
     "geom:longitude":20.719938,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.734423,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080215
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281560902",
+        "eurostat:nuts_2021_id":"1004281560902"
+    },
     "wof:coterminous":[
         1126016743
     ],
     "wof:country":"PL",
-    "wof:geomhash":"500e36465cac6bbf0d4510527eb104fa",
+    "wof:geomhash":"37515a3ed16a7e678eb8e7de3a11ca75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751903,
-    "wof:lastmodified":1570002296,
+    "wof:lastmodified":1684354382,
     "wof:name":"Kiwity",
     "wof:parent_id":102080215,
     "wof:placetype":"localadmin",
+    "wof:population":3286,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

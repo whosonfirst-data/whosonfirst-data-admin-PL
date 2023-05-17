@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zaklik\u00f3w",
+    "eurostat:nuts_2021_id":"1006181361805",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361805",
+    "eurostat:population":8516,
+    "eurostat:population_year":2020,
     "geom:area":0.025739,
-    "geom:area_square_m":201425901.647171,
+    "geom:area_square_m":201425901.647176,
     "geom:bbox":"21.951755183,50.651208528,22.205586129,50.820548344",
     "geom:latitude":50.736326,
     "geom:longitude":22.085043,
@@ -117,7 +129,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -130,6 +143,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361805",
+        "eurostat:nuts_2021_id":"1006181361805",
         "gn:id":754090,
         "gp:id":12617161,
         "qs_pg:id":1000171
@@ -139,7 +154,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"662b55b81b719bc47c3386e6da9f723a",
+    "wof:geomhash":"5f3d4483b41f194c94692f80e0d84f1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,12 +165,12 @@
         }
     ],
     "wof:id":1125375929,
-    "wof:lastmodified":1582357838,
+    "wof:lastmodified":1684354293,
     "wof:name":"Gmina Zaklik\u00f3w",
     "wof:parent_id":102079669,
     "wof:placetype":"localadmin",
-    "wof:population":3000,
-    "wof:population_rank":4,
+    "wof:population":8516,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

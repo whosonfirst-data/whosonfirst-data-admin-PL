@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pniewy",
+    "eurostat:nuts_2021_id":"1002301612406",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612406",
+    "eurostat:population":12708,
+    "eurostat:population_year":2020,
     "geom:area":0.020988,
-    "geom:area_square_m":157842923.649395,
+    "geom:area_square_m":157842923.649385,
     "geom:bbox":"16.185927435,52.449125379,16.441020765,52.648802052",
     "geom:latitude":52.540323,
     "geom:longitude":16.314034,
@@ -119,7 +131,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -132,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612406",
+        "eurostat:nuts_2021_id":"1002301612406",
         "gn:id":3088759,
         "gp:id":24547859,
         "qs_pg:id":341518
@@ -141,7 +156,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fda2533b16d0545695ccf785b9e675e7",
+    "wof:geomhash":"b46ed4eedf434a2d669d4e1b99d637b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,12 +167,12 @@
         }
     ],
     "wof:id":1125372433,
-    "wof:lastmodified":1582357843,
+    "wof:lastmodified":1684354286,
     "wof:name":"Gmina Pniewy",
     "wof:parent_id":102079963,
     "wof:placetype":"localadmin",
-    "wof:population":7738,
-    "wof:population_rank":5,
+    "wof:population":12708,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

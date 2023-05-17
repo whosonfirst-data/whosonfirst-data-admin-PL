@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241470505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rudziniec",
+    "eurostat:nuts_2021_id":"1001241470505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL229",
+    "eurostat:nuts_2021_level_lau":"1001241470505",
+    "eurostat:population":10643,
+    "eurostat:population_year":2020,
     "geom:area":0.020069,
-    "geom:area_square_m":158270024.665355,
+    "geom:area_square_m":158270024.665341,
     "geom:bbox":"18.357744622,50.299558571,18.603468322,50.446117075",
     "geom:latitude":50.373363,
     "geom:longitude":18.468463,
@@ -72,6 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241470505",
+        "eurostat:nuts_2021_id":"1001241470505",
         "gp:id":12617900,
         "qs_pg:id":272262
     },
@@ -95,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3fc198cedc869ab2685c06e260785660",
+    "wof:geomhash":"03f04d3be67f92d7ea5885f3f86797df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":1125304637,
-    "wof:lastmodified":1582357881,
+    "wof:lastmodified":1684354202,
     "wof:name":"Rudziniec",
     "wof:parent_id":102079563,
     "wof:placetype":"localadmin",
+    "wof:population":10643,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

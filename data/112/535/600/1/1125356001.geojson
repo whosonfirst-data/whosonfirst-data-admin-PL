@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221720607",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowa Karczma",
+    "eurostat:nuts_2021_id":"1004221720607",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL637",
+    "eurostat:nuts_2021_level_lau":"1004221720607",
+    "eurostat:population":7049,
+    "eurostat:population_year":2020,
     "geom:area":0.015587,
-    "geom:area_square_m":112912244.922442,
+    "geom:area_square_m":112912244.922431,
     "geom:bbox":"18.090269774,54.070572605,18.333039691,54.198953084",
     "geom:latitude":54.137736,
     "geom:longitude":18.183284,
@@ -60,6 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221720607",
+        "eurostat:nuts_2021_id":"1004221720607",
         "gp:id":12617235,
         "qs_pg:id":1153813
     },
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ce3a998727923a28750a7241ada72fbb",
+    "wof:geomhash":"e944b00308cd04523abd653b8bb94665",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":1125356001,
-    "wof:lastmodified":1582357718,
+    "wof:lastmodified":1684354261,
     "wof:name":"Nowa Karczma",
     "wof:parent_id":102080193,
     "wof:placetype":"localadmin",
+    "wof:population":7049,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

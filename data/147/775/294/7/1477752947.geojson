@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301570702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brzeziny",
+    "eurostat:nuts_2021_id":"1002301570702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301570702",
+    "eurostat:population":5817,
+    "eurostat:population_year":2020,
     "geom:area":0.016465,
-    "geom:area_square_m":126501114.845179,
+    "geom:area_square_m":126501114.845215,
     "geom:bbox":"18.158255347,51.532876875,18.378614142,51.64783246",
     "geom:latitude":51.58561,
     "geom:longitude":18.270685,
@@ -110,6 +122,8 @@
     "reversegeo:longitude":18.261761,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -117,11 +131,15 @@
         102079841
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301570702",
+        "eurostat:nuts_2021_id":"1002301570702"
+    },
     "wof:coterminous":[
         1477865927
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2f885d230e475399245e35b285fecc00",
+    "wof:geomhash":"2142741f8c5aaa008926fd998f1b6909",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +150,12 @@
         }
     ],
     "wof:id":1477752947,
-    "wof:lastmodified":1570000796,
+    "wof:lastmodified":1684354438,
     "wof:name":"Brzeziny",
     "wof:parent_id":102079841,
     "wof:placetype":"localadmin",
+    "wof:population":5817,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

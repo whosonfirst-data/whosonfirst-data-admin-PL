@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Konopiska",
+    "eurostat:nuts_2021_id":"1001241460407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460407",
+    "eurostat:population":10736,
+    "eurostat:population_year":2020,
     "geom:area":0.010008,
-    "geom:area_square_m":78339487.269516,
+    "geom:area_square_m":78339487.269509,
     "geom:bbox":"18.913007168,50.662728674,19.074171002,50.772252565",
     "geom:latitude":50.723313,
     "geom:longitude":18.994317,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":19.002166,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079663
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460407",
+        "eurostat:nuts_2021_id":"1001241460407"
+    },
     "wof:coterminous":[
         101823895
     ],
     "wof:country":"PL",
-    "wof:geomhash":"32435febebb34d742c16c9a5df264461",
+    "wof:geomhash":"bfc8e7412275dae849a6ec4b84ed03a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751883,
-    "wof:lastmodified":1570001630,
+    "wof:lastmodified":1684354381,
     "wof:name":"Konopiska",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",
+    "wof:population":10736,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

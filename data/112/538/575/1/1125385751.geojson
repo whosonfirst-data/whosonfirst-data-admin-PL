@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101191504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kowiesy",
+    "eurostat:nuts_2021_id":"1005101191504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL715",
+    "eurostat:nuts_2021_level_lau":"1005101191504",
+    "eurostat:population":2909,
+    "eurostat:population_year":2020,
     "geom:area":0.011202,
-    "geom:area_square_m":85478360.114198,
+    "geom:area_square_m":85478360.114207,
     "geom:bbox":"20.318576573,51.848245495,20.518831235,51.947933329",
     "geom:latitude":51.896537,
     "geom:longitude":20.417036,
@@ -65,7 +77,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -78,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101191504",
+        "eurostat:nuts_2021_id":"1005101191504",
         "gn:id":767858,
         "gp:id":12616904,
         "qs_pg:id":1015819
@@ -90,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b0ab10e26b64c52b3faeed802d91d9e8",
+    "wof:geomhash":"b602c9f8ab19a5f2f4e71c457e12676d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,12 +116,12 @@
         }
     ],
     "wof:id":1125385751,
-    "wof:lastmodified":1582357933,
+    "wof:lastmodified":1684354304,
     "wof:name":"Kowiesy",
     "wof:parent_id":102079895,
     "wof:placetype":"localadmin",
-    "wof:population":185,
-    "wof:population_rank":1,
+    "wof:population":2909,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

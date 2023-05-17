@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mielnik",
+    "eurostat:nuts_2021_id":"1006201381005",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381005",
+    "eurostat:population":2319,
+    "eurostat:population_year":2020,
     "geom:area":0.025903,
-    "geom:area_square_m":195631064.655809,
+    "geom:area_square_m":195631064.655838,
     "geom:bbox":"22.92920451,52.279938635,23.272095033,52.421874715",
     "geom:latitude":52.353605,
     "geom:longitude":23.101355,
@@ -69,6 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381005",
+        "eurostat:nuts_2021_id":"1006201381005",
         "gp:id":12618721,
         "qs_pg:id":1171892
     },
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ec84e6875a10b1ed13b2a34efa14765b",
+    "wof:geomhash":"7b4964f6459f324cf83741ad94fac3eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":1125284973,
-    "wof:lastmodified":1582357763,
+    "wof:lastmodified":1684354155,
     "wof:name":"Mielnik",
     "wof:parent_id":102080037,
     "wof:placetype":"localadmin",
+    "wof:population":2319,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

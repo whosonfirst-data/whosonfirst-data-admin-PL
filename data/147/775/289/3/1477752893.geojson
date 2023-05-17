@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281550505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stare Juchy",
+    "eurostat:nuts_2021_id":"1004281550505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL623",
+    "eurostat:nuts_2021_level_lau":"1004281550505",
+    "eurostat:population":3733,
+    "eurostat:population_year":2020,
     "geom:area":0.026936,
-    "geom:area_square_m":196189801.764741,
+    "geom:area_square_m":196189801.764793,
     "geom:bbox":"22.023853247,53.821580612,22.320831002,54.006703617",
     "geom:latitude":53.910759,
     "geom:longitude":22.18144,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":22.203852,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080209
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281550505",
+        "eurostat:nuts_2021_id":"1004281550505"
+    },
     "wof:coterminous":[
         101819441
     ],
     "wof:country":"PL",
-    "wof:geomhash":"06445738ac0098d35f9b13e61357fd84",
+    "wof:geomhash":"85c0bc18e8fdf44ed428594142ff2e57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752893,
-    "wof:lastmodified":1569999986,
+    "wof:lastmodified":1684354435,
     "wof:name":"Stare Juchy",
     "wof:parent_id":102080209,
     "wof:placetype":"localadmin",
+    "wof:population":3733,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miech\u00f3w",
+    "eurostat:nuts_2021_id":"1001121200805",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200805",
+    "eurostat:population":19645,
+    "eurostat:population_year":2020,
     "geom:area":0.018737,
-    "geom:area_square_m":147840524.204946,
+    "geom:area_square_m":147840524.205001,
     "geom:bbox":"19.938109752,50.290005273,20.205133039,50.42752699",
     "geom:latitude":50.349756,
     "geom:longitude":20.055739,
@@ -141,6 +153,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -153,6 +167,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200805",
+        "eurostat:nuts_2021_id":"1001121200805",
         "gp:id":24548641,
         "qs_pg:id":1311241
     },
@@ -161,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ddd9fab32bd2392984c939d0a43712c6",
+    "wof:geomhash":"4419016ae0474d30bd41e8ebae81b4b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +188,12 @@
         }
     ],
     "wof:id":1125335603,
-    "wof:lastmodified":1582357677,
+    "wof:lastmodified":1684354244,
     "wof:name":"Gmina Miech\u00f3w",
     "wof:parent_id":102079579,
     "wof:placetype":"localadmin",
+    "wof:population":19645,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

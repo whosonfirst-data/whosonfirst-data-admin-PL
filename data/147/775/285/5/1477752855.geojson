@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061102014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zamo\u015b\u0107",
+    "eurostat:nuts_2021_id":"1006061102014",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061102014",
+    "eurostat:population":23155,
+    "eurostat:population_year":2020,
     "geom:area":0.024955,
-    "geom:area_square_m":195423711.49125,
+    "geom:area_square_m":195423711.491246,
     "geom:bbox":"23.079169196,50.61771047,23.335203709,50.789136101",
     "geom:latitude":50.70582,
     "geom:longitude":23.206606,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":23.172936,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079715
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061102014",
+        "eurostat:nuts_2021_id":"1006061102014"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"b13aa0522573a8e1fea1aeca7ba6d39e",
+    "wof:geomhash":"e7fc1a346eb65d91a96f5648154128d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752855,
-    "wof:lastmodified":1570003206,
+    "wof:lastmodified":1684354433,
     "wof:name":"Gmina Zamo\u015b\u0107",
     "wof:parent_id":102079715,
     "wof:placetype":"localadmin",
+    "wof:population":23155,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

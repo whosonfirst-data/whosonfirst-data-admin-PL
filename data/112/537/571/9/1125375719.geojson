@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142272509",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przytyk",
+    "eurostat:nuts_2021_id":"1007142272509",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142272509",
+    "eurostat:population":7308,
+    "eurostat:population_year":2020,
     "geom:area":0.017379,
-    "geom:area_square_m":133873808.715477,
+    "geom:area_square_m":133873808.715475,
     "geom:bbox":"20.757256549,51.394715924,20.989149356,51.525319594",
     "geom:latitude":51.466401,
     "geom:longitude":20.868619,
@@ -78,7 +90,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -91,6 +104,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142272509",
+        "eurostat:nuts_2021_id":"1007142272509",
         "gn:id":760987,
         "gp:id":12618139,
         "qs_pg:id":998982
@@ -103,7 +118,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5733e3174a2335ad71dfe3eea351898e",
+    "wof:geomhash":"7eb52e1c5ec71b760741333211de1448",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,12 +129,12 @@
         }
     ],
     "wof:id":1125375719,
-    "wof:lastmodified":1582357864,
+    "wof:lastmodified":1684354293,
     "wof:name":"Przytyk",
     "wof:parent_id":102079805,
     "wof:placetype":"localadmin",
-    "wof:population":990,
-    "wof:population_rank":2,
+    "wof:population":7308,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141302103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brwin\u00f3w",
+    "eurostat:nuts_2021_id":"1007141302103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141302103",
+    "eurostat:population":26718,
+    "eurostat:population_year":2020,
     "geom:area":0.009099,
-    "geom:area_square_m":69036779.332906,
+    "geom:area_square_m":69036779.332908,
     "geom:bbox":"20.63080452,52.083730767,20.823527775,52.201154261",
     "geom:latitude":52.147676,
     "geom:longitude":20.725584,
@@ -147,7 +159,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -160,6 +173,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141302103",
+        "eurostat:nuts_2021_id":"1007141302103",
         "gn:id":775224,
         "gp:id":12617709,
         "qs_pg:id":1207102
@@ -169,7 +184,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bfc01f6f952a7d8185010006ddb3c50e",
+    "wof:geomhash":"a07ed5d593f8d4e9de8c09fbbbc4a75d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,12 +195,12 @@
         }
     ],
     "wof:id":1125314715,
-    "wof:lastmodified":1582357946,
+    "wof:lastmodified":1684354218,
     "wof:name":"Gmina Brwin\u00f3w",
     "wof:parent_id":102079919,
     "wof:placetype":"localadmin",
-    "wof:population":12315,
-    "wof:population_rank":6,
+    "wof:population":26718,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

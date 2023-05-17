@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301590401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borek Wielkopolski",
+    "eurostat:nuts_2021_id":"1002301590401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301590401",
+    "eurostat:population":7473,
+    "eurostat:population_year":2020,
     "geom:area":0.016671,
-    "geom:area_square_m":127168986.427039,
+    "geom:area_square_m":127168986.42704,
     "geom:bbox":"17.109431251,51.848158712,17.336791989,51.96892228",
     "geom:latitude":51.908939,
     "geom:longitude":17.222171,
@@ -92,7 +104,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -105,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301590401",
+        "eurostat:nuts_2021_id":"1002301590401",
         "gn:id":3102909,
         "gp:id":24548043,
         "qs_pg:id":52444
@@ -114,7 +129,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"beeab21998ee6f1855e4debcf3c22642",
+    "wof:geomhash":"3e16321328746a87d89a13f3785603f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,12 +140,12 @@
         }
     ],
     "wof:id":1125272075,
-    "wof:lastmodified":1582357801,
+    "wof:lastmodified":1684354141,
     "wof:name":"Gmina Borek Wielkopolski",
     "wof:parent_id":102079829,
     "wof:placetype":"localadmin",
-    "wof:population":2527,
-    "wof:population_rank":4,
+    "wof:population":7473,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

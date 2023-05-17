@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142270706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Magnuszew",
+    "eurostat:nuts_2021_id":"1007142270706",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142270706",
+    "eurostat:population":6742,
+    "eurostat:population_year":2020,
     "geom:area":0.01838,
     "geom:area_square_m":140638813.066856,
     "geom:bbox":"21.246951819,51.683155803,21.446901567,51.861673416",
@@ -53,6 +65,8 @@
     "reversegeo:longitude":21.350273,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -60,11 +74,15 @@
         102079859
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142270706",
+        "eurostat:nuts_2021_id":"1007142270706"
+    },
     "wof:coterminous":[
         1477863341
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e5a6938450c15cf52f50e27271d9f98b",
+    "wof:geomhash":"8573f6aaa53dae5a5d930ec79d8b43ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477752447,
-    "wof:lastmodified":1570000305,
+    "wof:lastmodified":1684354410,
     "wof:name":"Magnuszew",
     "wof:parent_id":102079859,
     "wof:placetype":"localadmin",
+    "wof:population":6742,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

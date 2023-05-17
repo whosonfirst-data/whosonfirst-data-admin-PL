@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081140907",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u015awidnica",
+    "eurostat:nuts_2021_id":"1002081140907",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081140907",
+    "eurostat:population":6602,
+    "eurostat:population_year":2020,
     "geom:area":0.021012,
-    "geom:area_square_m":160289913.978056,
+    "geom:area_square_m":160289913.978049,
     "geom:bbox":"15.232124,51.833425,15.476628,51.986173",
     "geom:latitude":51.906899,
     "geom:longitude":15.346437,
@@ -168,7 +180,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -176,11 +189,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079851,
-        85687327
+        85687327,
+        102079851
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081140907",
+        "eurostat:nuts_2021_id":"1002081140907",
         "gn:id":3084092,
         "gp:id":12618227,
         "qs_pg:id":1148915
@@ -193,7 +208,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8ca68395e3c154d02146a1c1576f3496",
+    "wof:geomhash":"6adfaa3665d72e69b57a3c78d3776a9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,12 +219,12 @@
         }
     ],
     "wof:id":1125350593,
-    "wof:lastmodified":1607724842,
+    "wof:lastmodified":1684354257,
     "wof:name":"\u015awidnica",
     "wof:parent_id":102079851,
     "wof:placetype":"localadmin",
-    "wof:population":1400,
-    "wof:population_rank":3,
+    "wof:population":6602,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

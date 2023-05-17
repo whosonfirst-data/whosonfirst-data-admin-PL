@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161310702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kamiennik",
+    "eurostat:nuts_2021_id":"1003161310702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161310702",
+    "eurostat:population":3444,
+    "eurostat:population_year":2020,
     "geom:area":0.011343,
-    "geom:area_square_m":89095206.285874,
+    "geom:area_square_m":89095206.2859,
     "geom:bbox":"17.061309816,50.515238207,17.244590509,50.616351451",
     "geom:latitude":50.56435,
     "geom:longitude":17.155808,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":17.155826,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079569
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161310702",
+        "eurostat:nuts_2021_id":"1003161310702"
+    },
     "wof:coterminous":[
         1477864157
     ],
     "wof:country":"PL",
-    "wof:geomhash":"4ba2cecbcf45019df956b48609fb234c",
+    "wof:geomhash":"fbdffcb107e8a962dbc8aab9b3331df1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125385791,
-    "wof:lastmodified":1569996475,
+    "wof:lastmodified":1684354305,
     "wof:name":"Kamiennik",
     "wof:parent_id":102079569,
     "wof:placetype":"localadmin",
+    "wof:population":3444,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

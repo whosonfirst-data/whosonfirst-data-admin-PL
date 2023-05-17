@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221420706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sadlinki",
+    "eurostat:nuts_2021_id":"1004221420706",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221420706",
+    "eurostat:population":5984,
+    "eurostat:population_year":2020,
     "geom:area":0.015265,
-    "geom:area_square_m":111874372.282283,
+    "geom:area_square_m":111874372.282295,
     "geom:bbox":"18.738969673,53.598919311,18.948209429,53.708056669",
     "geom:latitude":53.65267,
     "geom:longitude":18.836505,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":18.836524,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080159
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221420706",
+        "eurostat:nuts_2021_id":"1004221420706"
+    },
     "wof:coterminous":[
         1126033743
     ],
     "wof:country":"PL",
-    "wof:geomhash":"9efdfd0a3594b42d242243f4cf4faf4a",
+    "wof:geomhash":"c69ec39fa596f62f285c3e5d401fb0a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752671,
-    "wof:lastmodified":1570000883,
+    "wof:lastmodified":1684354422,
     "wof:name":"Sadlinki",
     "wof:parent_id":102080159,
     "wof:placetype":"localadmin",
+    "wof:population":5984,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

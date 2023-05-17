@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181351505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wielopole Skrzy\u0144skie",
+    "eurostat:nuts_2021_id":"1006181351505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181351505",
+    "eurostat:population":8151,
+    "eurostat:population_year":2020,
     "geom:area":0.01171,
-    "geom:area_square_m":93173928.111843,
+    "geom:area_square_m":93173928.111793,
     "geom:bbox":"21.49896146,49.887197525,21.697253114,50.000492627",
     "geom:latitude":49.946881,
     "geom:longitude":21.592972,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181351505",
+        "eurostat:nuts_2021_id":"1006181351505",
         "gn:id":755855,
         "gp:id":12618123,
         "qs_pg:id":1212383
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2a43578182adbea56bd26522a1d3644a",
+    "wof:geomhash":"d847e5039f09e9ba90fcd3fc99969189",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125317327,
-    "wof:lastmodified":1582357953,
+    "wof:lastmodified":1684354221,
     "wof:name":"Wielopole Skrzy\u0144skie",
     "wof:parent_id":102079547,
     "wof:placetype":"localadmin",
-    "wof:population":3982,
-    "wof:population_rank":4,
+    "wof:population":8151,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

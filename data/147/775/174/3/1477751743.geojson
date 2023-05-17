@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"August\u00f3w",
+    "eurostat:nuts_2021_id":"1006201390102",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390102",
+    "eurostat:population":6759,
+    "eurostat:population_year":2020,
     "geom:area":0.036382,
-    "geom:area_square_m":265495407.930421,
+    "geom:area_square_m":265495407.930346,
     "geom:bbox":"22.746094941,53.726634174,23.152222638,53.95278955",
     "geom:latitude":53.831152,
     "geom:longitude":22.926098,
@@ -71,6 +83,8 @@
     "reversegeo:longitude":22.939867,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -78,8 +92,12 @@
         102080221
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390102",
+        "eurostat:nuts_2021_id":"1006201390102"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"f369e3fb3c0f0a36f807dabfc069f79d",
+    "wof:geomhash":"5506d80709b19439449d6877bbadbec9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +108,12 @@
         }
     ],
     "wof:id":1477751743,
-    "wof:lastmodified":1570001243,
+    "wof:lastmodified":1684354373,
     "wof:name":"Gmina August\u00f3w",
     "wof:parent_id":102080221,
     "wof:placetype":"localadmin",
+    "wof:population":6759,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

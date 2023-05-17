@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061102007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nielisz",
+    "eurostat:nuts_2021_id":"1006061102007",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061102007",
+    "eurostat:population":5427,
+    "eurostat:population_year":2020,
     "geom:area":0.014316,
-    "geom:area_square_m":111870645.090092,
+    "geom:area_square_m":111870645.090112,
     "geom:bbox":"22.934341321,50.751963594,23.18006349,50.869116414",
     "geom:latitude":50.805867,
     "geom:longitude":23.056396,
@@ -71,7 +83,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -84,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061102007",
+        "eurostat:nuts_2021_id":"1006061102007",
         "gn:id":763946,
         "gp:id":12617087,
         "qs_pg:id":1018206
@@ -96,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f16b38548295ea6ab2a884a45d22d543",
+    "wof:geomhash":"6a660cb92650b8171c987ee02e509190",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,12 +122,12 @@
         }
     ],
     "wof:id":1125391667,
-    "wof:lastmodified":1582357902,
+    "wof:lastmodified":1684354309,
     "wof:name":"Nielisz",
     "wof:parent_id":102079715,
     "wof:placetype":"localadmin",
-    "wof:population":920,
-    "wof:population_rank":2,
+    "wof:population":5427,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

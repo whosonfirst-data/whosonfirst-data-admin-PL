@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kamienica Polska",
+    "eurostat:nuts_2021_id":"1001241460404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460404",
+    "eurostat:population":5567,
+    "eurostat:population_year":2020,
     "geom:area":0.005912,
-    "geom:area_square_m":46327824.179862,
+    "geom:area_square_m":46327824.179859,
     "geom:bbox":"19.074279638,50.635152093,19.223002128,50.708652838",
     "geom:latitude":50.674717,
     "geom:longitude":19.139863,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":19.134767,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079663
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460404",
+        "eurostat:nuts_2021_id":"1001241460404"
+    },
     "wof:coterminous":[
         101823899
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f5de0d149f6b9d33598bd47c3859ba2d",
+    "wof:geomhash":"d1a276361bc9c74c628b0546e3f69574",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751655,
-    "wof:lastmodified":1570002152,
+    "wof:lastmodified":1684354369,
     "wof:name":"Kamienica Polska",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",
+    "wof:population":5567,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

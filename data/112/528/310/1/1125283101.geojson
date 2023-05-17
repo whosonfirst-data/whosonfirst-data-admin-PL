@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021042001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oborniki \u015al\u0105skie",
+    "eurostat:nuts_2021_id":"1003021042001",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021042001",
+    "eurostat:population":20317,
+    "eurostat:population_year":2020,
     "geom:area":0.019876,
-    "geom:area_square_m":153703441.260943,
+    "geom:area_square_m":153703441.260948,
     "geom:bbox":"16.777447496,51.196658673,17.002819291,51.361423073",
     "geom:latitude":51.288619,
     "geom:longitude":16.892165,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021042001",
+        "eurostat:nuts_2021_id":"1003021042001",
         "gp:id":24547489,
         "qs_pg:id":1092333
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"36514645d8d9ba0b8a7d94ca5d7f2ff6",
+    "wof:geomhash":"db40f6ea9eadaba4204f2f4ec7148d41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125283101,
-    "wof:lastmodified":1582357787,
+    "wof:lastmodified":1684354153,
     "wof:name":"Gmina Oborniki \u015al\u0105skie",
     "wof:parent_id":102079733,
     "wof:placetype":"localadmin",
+    "wof:population":20317,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

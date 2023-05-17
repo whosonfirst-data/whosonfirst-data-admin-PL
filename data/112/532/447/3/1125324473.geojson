@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181330206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nozdrzec",
+    "eurostat:nuts_2021_id":"1006181330206",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181330206",
+    "eurostat:population":7996,
+    "eurostat:population_year":2020,
     "geom:area":0.015072,
-    "geom:area_square_m":120374997.201442,
+    "geom:area_square_m":120374997.201475,
     "geom:bbox":"22.027964297,49.707785534,22.294532706,49.835768251",
     "geom:latitude":49.765556,
     "geom:longitude":22.154309,
@@ -67,7 +79,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -80,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181330206",
+        "eurostat:nuts_2021_id":"1006181330206",
         "gn:id":763517,
         "gp:id":12618777,
         "qs_pg:id":24290
@@ -92,7 +107,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cce26b215dd295f6cc4597ac2ed791e9",
+    "wof:geomhash":"1954a16f3f925b257abadee89cfae040",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,12 +118,12 @@
         }
     ],
     "wof:id":1125324473,
-    "wof:lastmodified":1582357723,
+    "wof:lastmodified":1684354231,
     "wof:name":"Nozdrzec",
     "wof:parent_id":102079461,
     "wof:placetype":"localadmin",
-    "wof:population":1300,
-    "wof:population_rank":3,
+    "wof:population":7996,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

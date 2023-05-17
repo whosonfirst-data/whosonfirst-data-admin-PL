@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301591101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ko\u015bcian",
+    "eurostat:nuts_2021_id":"1002301591101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301591101",
+    "eurostat:population":23876,
+    "eurostat:population_year":2020,
     "geom:area":0.001181,
-    "geom:area_square_m":8973971.729791,
+    "geom:area_square_m":8973971.72979,
     "geom:bbox":"16.61865,52.067676,16.680265,52.101146",
     "geom:latitude":52.084279,
     "geom:longitude":16.645379,
@@ -173,7 +185,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -181,11 +194,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079871,
-        85687323
+        85687323,
+        102079871
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301591101",
+        "eurostat:nuts_2021_id":"1002301591101",
         "gn:id":3095151,
         "gp:id":24547471,
         "qs_pg:id":145585
@@ -198,7 +213,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"86f4d5e192389534a950bb3b13b5aeb1",
+    "wof:geomhash":"87e08c3eda2b1bbd777aa309dd3b3e5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,11 +224,11 @@
         }
     ],
     "wof:id":1125330033,
-    "wof:lastmodified":1607725920,
+    "wof:lastmodified":1684354241,
     "wof:name":"Gmina Ko\u015bcian",
     "wof:parent_id":102079871,
     "wof:placetype":"localadmin",
-    "wof:population":24096,
+    "wof:population":23876,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142252010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Raci\u0105\u017c",
+    "eurostat:nuts_2021_id":"1007142252010",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142252010",
+    "eurostat:population":8283,
+    "eurostat:population_year":2020,
     "geom:area":0.032352,
-    "geom:area_square_m":241933292.786392,
+    "geom:area_square_m":241933292.786355,
     "geom:bbox":"19.962745,52.668145,20.264335,52.896751",
     "geom:latitude":52.78678,
     "geom:longitude":20.126526,
@@ -62,18 +74,24 @@
     "reversegeo:longitude":20.111471,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102080031,
-        85687257
+        85687257,
+        102080031
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142252010",
+        "eurostat:nuts_2021_id":"1007142252010"
+    },
     "wof:coterminous":[
         1477865505
     ],
     "wof:country":"PL",
-    "wof:geomhash":"14d37c7e2d9266222853fcb617f51690",
+    "wof:geomhash":"370a6e5e162813a092f6582700caf294",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751331,
-    "wof:lastmodified":1607726480,
+    "wof:lastmodified":1684354352,
     "wof:name":"Gmina Raci\u0105\u017c",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",
+    "wof:population":8283,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

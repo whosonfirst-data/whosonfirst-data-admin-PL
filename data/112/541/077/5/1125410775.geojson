@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141291210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Latowicz",
+    "eurostat:nuts_2021_id":"1007141291210",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL912",
+    "eurostat:nuts_2021_level_lau":"1007141291210",
+    "eurostat:population":5399,
+    "eurostat:population_year":2020,
     "geom:area":0.01493,
-    "geom:area_square_m":113594153.700333,
+    "geom:area_square_m":113594153.700366,
     "geom:bbox":"21.652833871,51.973572997,21.88785713,52.084046485",
     "geom:latitude":52.02683,
     "geom:longitude":21.778872,
@@ -83,7 +95,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -96,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141291210",
+        "eurostat:nuts_2021_id":"1007141291210",
         "gn:id":766675,
         "gp:id":12618007,
         "qs_pg:id":69762
@@ -108,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d21bb9f16e9767d85b79bc0faa56890a",
+    "wof:geomhash":"8926839b6667f29a824e5e18af6a5678",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,12 +134,12 @@
         }
     ],
     "wof:id":1125410775,
-    "wof:lastmodified":1582358010,
+    "wof:lastmodified":1684354333,
     "wof:name":"Latowicz",
     "wof:parent_id":102079965,
     "wof:placetype":"localadmin",
-    "wof:population":1401,
-    "wof:population_rank":3,
+    "wof:population":5399,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

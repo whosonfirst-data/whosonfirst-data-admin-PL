@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081146201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zielona G\u00f3ra",
+    "eurostat:nuts_2021_id":"1002081146201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081146201",
+    "eurostat:population":141222,
+    "eurostat:population_year":2020,
     "geom:area":0.036363,
-    "geom:area_square_m":277284625.171948,
+    "geom:area_square_m":277284625.171954,
     "geom:bbox":"15.390737474,51.820143113,15.652423875,52.035103498",
     "geom:latitude":51.925877,
     "geom:longitude":15.531827,
@@ -263,6 +275,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -275,6 +289,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081146201",
+        "eurostat:nuts_2021_id":"1002081146201",
         "gn:id":7532225,
         "gp:id":12618458,
         "qs_pg:id":24221
@@ -284,7 +300,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d27414eabb5454e9519ffbdc2ca742f5",
+    "wof:geomhash":"8c39fd7b6f597bb248cba4edfeb7893f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -295,10 +311,12 @@
         }
     ],
     "wof:id":1125289263,
-    "wof:lastmodified":1582357786,
+    "wof:lastmodified":1684354171,
     "wof:name":"Gmina Zielona G\u00f3ra",
     "wof:parent_id":102079801,
     "wof:placetype":"localadmin",
+    "wof:population":141222,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

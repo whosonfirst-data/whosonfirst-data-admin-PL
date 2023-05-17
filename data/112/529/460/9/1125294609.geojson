@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321641203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lipiany",
+    "eurostat:nuts_2021_id":"1002321641203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321641203",
+    "eurostat:population":5832,
+    "eurostat:population_year":2020,
     "geom:area":0.012708,
-    "geom:area_square_m":94492463.265407,
+    "geom:area_square_m":94492463.265387,
     "geom:bbox":"14.872638,52.97026,15.067139,53.098682",
     "geom:latitude":53.032563,
     "geom:longitude":14.972342,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -145,11 +158,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080041,
-        85687271
+        85687271,
+        102080041
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321641203",
+        "eurostat:nuts_2021_id":"1002321641203",
         "gn:id":3093350,
         "gp:id":24547615,
         "qs_pg:id":1205694
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"271445d0e65a7f6a42d8b856e1b6c0b4",
+    "wof:geomhash":"0554f8c832baa9850481ba050e0086a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125294609,
-    "wof:lastmodified":1607726519,
+    "wof:lastmodified":1684354182,
     "wof:name":"Gmina Lipiany",
     "wof:parent_id":102080041,
     "wof:placetype":"localadmin",
-    "wof:population":4159,
-    "wof:population_rank":4,
+    "wof:population":5832,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dominowo",
+    "eurostat:nuts_2021_id":"1002301612501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612501",
+    "eurostat:population":3079,
+    "eurostat:population_year":2020,
     "geom:area":0.010458,
-    "geom:area_square_m":79090314.133056,
+    "geom:area_square_m":79090314.133049,
     "geom:bbox":"17.276716383,52.233176287,17.488138537,52.349721878",
     "geom:latitude":52.293316,
     "geom:longitude":17.378254,
@@ -72,7 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -85,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612501",
+        "eurostat:nuts_2021_id":"1002301612501",
         "gn:id":3100180,
         "gp:id":12617708,
         "qs_pg:id":1166286
@@ -97,7 +112,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b64e54873944677fbbf82f5e98bd5fa7",
+    "wof:geomhash":"52b517979773b76c4952685cc22864dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,12 +123,12 @@
         }
     ],
     "wof:id":1125362969,
-    "wof:lastmodified":1582357978,
+    "wof:lastmodified":1684354268,
     "wof:name":"Dominowo",
     "wof:parent_id":102079893,
     "wof:placetype":"localadmin",
-    "wof:population":547,
-    "wof:population_rank":2,
+    "wof:population":3079,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

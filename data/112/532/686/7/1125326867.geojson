@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241487601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u015awi\u0119toch\u0142owice",
+    "eurostat:nuts_2021_id":"1001241487601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22A",
+    "eurostat:nuts_2021_level_lau":"1001241487601",
+    "eurostat:population":49557,
+    "eurostat:population_year":2020,
     "geom:area":0.001679,
-    "geom:area_square_m":13259811.110267,
+    "geom:area_square_m":13259811.110272,
     "geom:bbox":"18.883469,50.270756,18.936971,50.324956",
     "geom:latitude":50.29853,
     "geom:longitude":18.910828,
@@ -246,6 +258,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -253,11 +267,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079507,
-        85687277
+        85687277,
+        102079507
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241487601",
+        "eurostat:nuts_2021_id":"1001241487601",
         "gp:id":12618433,
         "qs_pg:id":43745
     },
@@ -270,7 +286,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"740187c16883e926d5c1abc9c7adc127",
+    "wof:geomhash":"d36fb04a73315f140ceeacb18a6a25b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -281,10 +297,12 @@
         }
     ],
     "wof:id":1125326867,
-    "wof:lastmodified":1607725530,
+    "wof:lastmodified":1684354236,
     "wof:name":"\u015awi\u0119toch\u0142owice",
     "wof:parent_id":102079507,
     "wof:placetype":"localadmin",
+    "wof:population":49557,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

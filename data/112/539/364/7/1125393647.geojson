@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142713306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miedzna",
+    "eurostat:nuts_2021_id":"1007142713306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142713306",
+    "eurostat:population":3812,
+    "eurostat:population_year":2020,
     "geom:area":0.015349,
-    "geom:area_square_m":115560652.792256,
+    "geom:area_square_m":115560652.792306,
     "geom:bbox":"21.970707115,52.434331436,22.182226689,52.574447285",
     "geom:latitude":52.493132,
     "geom:longitude":22.056816,
@@ -86,7 +98,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -99,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142713306",
+        "eurostat:nuts_2021_id":"1007142713306",
         "gn:id":764876,
         "gp:id":12618861,
         "qs_pg:id":1019273
@@ -111,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"17a0804926a4e870f616f0c69b7a31e8",
+    "wof:geomhash":"9e5b2f138dc3f1557eaf05db3b678fbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,12 +137,12 @@
         }
     ],
     "wof:id":1125393647,
-    "wof:lastmodified":1582357904,
+    "wof:lastmodified":1684354313,
     "wof:name":"Miedzna",
     "wof:parent_id":102080015,
     "wof:placetype":"localadmin",
-    "wof:population":1400,
-    "wof:population_rank":3,
+    "wof:population":3812,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

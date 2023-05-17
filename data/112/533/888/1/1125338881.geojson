@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ostror\u00f3g",
+    "eurostat:nuts_2021_id":"1002301612405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612405",
+    "eurostat:population":4925,
+    "eurostat:population_year":2020,
     "geom:area":0.011254,
-    "geom:area_square_m":84472553.5643,
+    "geom:area_square_m":84472553.564295,
     "geom:bbox":"16.336837,52.581171,16.525527,52.680145",
     "geom:latitude":52.627103,
     "geom:longitude":16.432018,
@@ -124,7 +136,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -132,11 +145,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079963,
-        85687323
+        85687323,
+        102079963
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612405",
+        "eurostat:nuts_2021_id":"1002301612405",
         "gn:id":3089767,
         "gp:id":24547839,
         "qs_pg:id":59482
@@ -149,7 +164,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cdfad4e722a9e870c46f65ffa572cd49",
+    "wof:geomhash":"52c7c54cf6b2b19553d626f6e394922f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,12 +175,12 @@
         }
     ],
     "wof:id":1125338881,
-    "wof:lastmodified":1607725423,
+    "wof:lastmodified":1684354245,
     "wof:name":"Gmina Ostror\u00f3g",
     "wof:parent_id":102079963,
     "wof:placetype":"localadmin",
-    "wof:population":1984,
-    "wof:population_rank":3,
+    "wof:population":4925,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

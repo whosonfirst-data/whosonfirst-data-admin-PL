@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021032107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stare Bogaczowice",
+    "eurostat:nuts_2021_id":"1003021032107",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021032107",
+    "eurostat:population":4304,
+    "eurostat:population_year":2020,
     "geom:area":0.011129,
-    "geom:area_square_m":86908114.455458,
+    "geom:area_square_m":86908114.455464,
     "geom:bbox":"16.067616159,50.77131594,16.282895285,50.887440638",
     "geom:latitude":50.836476,
     "geom:longitude":16.183949,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":16.203478,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079595
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021032107",
+        "eurostat:nuts_2021_id":"1003021032107"
+    },
     "wof:coterminous":[
         101823663
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5bcf87b7822776f3a9a5df2493938cae",
+    "wof:geomhash":"7b56ed8750313f350b2362843e01be65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751869,
-    "wof:lastmodified":1570001723,
+    "wof:lastmodified":1684354380,
     "wof:name":"Stare Bogaczowice",
     "wof:parent_id":102079595,
     "wof:placetype":"localadmin",
+    "wof:population":4304,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

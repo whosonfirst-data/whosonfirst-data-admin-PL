@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121231205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olkusz",
+    "eurostat:nuts_2021_id":"1001121231205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL21A",
+    "eurostat:nuts_2021_level_lau":"1001121231205",
+    "eurostat:population":48601,
+    "eurostat:population_year":2020,
     "geom:area":0.019027,
-    "geom:area_square_m":150395214.977088,
+    "geom:area_square_m":150395214.977094,
     "geom:bbox":"19.492314066,50.188999188,19.686026456,50.346646413",
     "geom:latitude":50.264884,
     "geom:longitude":19.60069,
@@ -90,6 +102,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -102,6 +116,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121231205",
+        "eurostat:nuts_2021_id":"1001121231205",
         "gp:id":24548350,
         "qs_pg:id":1197231
     },
@@ -110,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"37e4b866423f3014f7bc1161a0ff599d",
+    "wof:geomhash":"efd9c3886ed44ad883fcf48b53987274",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":1125312177,
-    "wof:lastmodified":1582357947,
+    "wof:lastmodified":1684354216,
     "wof:name":"Gmina Olkusz",
     "wof:parent_id":102079555,
     "wof:placetype":"localadmin",
+    "wof:population":48601,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

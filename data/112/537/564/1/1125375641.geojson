@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121240407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szczucin",
+    "eurostat:nuts_2021_id":"1001121240407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL217",
+    "eurostat:nuts_2021_level_lau":"1001121240407",
+    "eurostat:population":13155,
+    "eurostat:population_year":2020,
     "geom:area":0.015074,
-    "geom:area_square_m":119068014.024748,
+    "geom:area_square_m":119068014.024733,
     "geom:bbox":"20.991629318,50.234479192,21.22263603,50.354897772",
     "geom:latitude":50.29805,
     "geom:longitude":21.108222,
@@ -126,7 +138,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -139,6 +152,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121240407",
+        "eurostat:nuts_2021_id":"1001121240407",
         "gn:id":757388,
         "gp:id":12617975,
         "qs_pg:id":998971
@@ -148,7 +163,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b6cb10f2a890e5f57ba20ee80047cb8d",
+    "wof:geomhash":"a44910451a3b4649e9d53b8649edbe4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,12 +174,12 @@
         }
     ],
     "wof:id":1125375641,
-    "wof:lastmodified":1582357852,
+    "wof:lastmodified":1684354291,
     "wof:name":"Gmina Szczucin",
     "wof:parent_id":102079567,
     "wof:placetype":"localadmin",
-    "wof:population":4166,
-    "wof:population_rank":4,
+    "wof:population":13155,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

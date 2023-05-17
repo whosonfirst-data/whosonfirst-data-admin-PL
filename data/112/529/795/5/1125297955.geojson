@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221411201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ustka",
+    "eurostat:nuts_2021_id":"1004221411201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL636",
+    "eurostat:nuts_2021_level_lau":"1004221411201",
+    "eurostat:population":15367,
+    "eurostat:population_year":2020,
     "geom:area":0.001408,
     "geom:area_square_m":10091242.466797,
     "geom:bbox":"16.823119,54.554404,16.897257,54.592053",
@@ -200,7 +212,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -208,11 +221,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080255,
-        85687267
+        85687267,
+        102080255
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221411201",
+        "eurostat:nuts_2021_id":"1004221411201",
         "gn:id":3082756,
         "gp:id":24547907,
         "qs_pg:id":192558
@@ -225,7 +240,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f7334aeab0f857e9b4dbcaa819e01540",
+    "wof:geomhash":"34b625b30f887c4a2f5b8091d270864d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -236,11 +251,11 @@
         }
     ],
     "wof:id":1125297955,
-    "wof:lastmodified":1607724817,
+    "wof:lastmodified":1684354190,
     "wof:name":"Gmina Ustka",
     "wof:parent_id":102080255,
     "wof:placetype":"localadmin",
-    "wof:population":16250,
+    "wof:population":15367,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

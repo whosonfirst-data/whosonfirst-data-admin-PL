@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321630802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dygowo",
+    "eurostat:nuts_2021_id":"1002321630802",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321630802",
+    "eurostat:population":5592,
+    "eurostat:population_year":2020,
     "geom:area":0.01766,
-    "geom:area_square_m":127985347.704325,
+    "geom:area_square_m":127985347.704318,
     "geom:bbox":"15.63204742,54.066446968,15.880525493,54.173778456",
     "geom:latitude":54.118515,
     "geom:longitude":15.747608,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":15.747574,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102080177
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321630802",
+        "eurostat:nuts_2021_id":"1002321630802"
+    },
     "wof:coterminous":[
         101819399
     ],
     "wof:country":"PL",
-    "wof:geomhash":"22362689afe763d587a13d70bb2420b3",
+    "wof:geomhash":"f3b934ff5b284ae925ab136e97b86773",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752357,
-    "wof:lastmodified":1570000682,
+    "wof:lastmodified":1684354406,
     "wof:name":"Dygowo",
     "wof:parent_id":102080177,
     "wof:placetype":"localadmin",
+    "wof:population":5592,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181362001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baran\u00f3w Sandomierski",
+    "eurostat:nuts_2021_id":"1006181362001",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181362001",
+    "eurostat:population":11852,
+    "eurostat:population_year":2020,
     "geom:area":0.015389,
-    "geom:area_square_m":121138793.681519,
+    "geom:area_square_m":121138793.681544,
     "geom:bbox":"21.482106789,50.386067367,21.690540011,50.52099543",
     "geom:latitude":50.459252,
     "geom:longitude":21.590645,
@@ -143,6 +155,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -155,6 +169,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181362001",
+        "eurostat:nuts_2021_id":"1006181362001",
         "gn:id":7533416,
         "gp:id":24548778,
         "qs_pg:id":59645
@@ -164,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ad1dc0eb48379048ea5c4141b7739643",
+    "wof:geomhash":"6386021c1970803ce0bdeb07e84245ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +191,12 @@
         }
     ],
     "wof:id":1125339387,
-    "wof:lastmodified":1582357677,
+    "wof:lastmodified":1684354248,
     "wof:name":"Gmina Baran\u00f3w Sandomierski",
     "wof:parent_id":102079653,
     "wof:placetype":"localadmin",
+    "wof:population":11852,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

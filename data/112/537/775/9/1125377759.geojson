@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hajn\u00f3wka",
+    "eurostat:nuts_2021_id":"1006201380501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380501",
+    "eurostat:population":20488,
+    "eurostat:population_year":2020,
     "geom:area":0.002832,
-    "geom:area_square_m":21204901.079972,
+    "geom:area_square_m":21204901.079963,
     "geom:bbox":"23.529024,52.70216,23.623592,52.761816",
     "geom:latitude":52.735486,
     "geom:longitude":23.568934,
@@ -206,7 +218,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -214,11 +227,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080091,
-        85687283
+        85687283,
+        102080091
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380501",
+        "eurostat:nuts_2021_id":"1006201380501",
         "gn:id":771158,
         "gp:id":24548319,
         "qs_pg:id":129324
@@ -231,7 +246,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d0793dbe9f015a3e38a5bade4809cd5e",
+    "wof:geomhash":"3fba110cd7f0b1b110bd1e748796b039",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -242,11 +257,11 @@
         }
     ],
     "wof:id":1125377759,
-    "wof:lastmodified":1607724946,
+    "wof:lastmodified":1684354296,
     "wof:name":"Gmina Hajn\u00f3wka",
     "wof:parent_id":102080091,
     "wof:placetype":"localadmin",
-    "wof:population":22157,
+    "wof:population":20488,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201371103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Korycin",
+    "eurostat:nuts_2021_id":"1006201371103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201371103",
+    "eurostat:population":3202,
+    "eurostat:population_year":2020,
     "geom:area":0.015858,
-    "geom:area_square_m":116820565.011872,
+    "geom:area_square_m":116820565.011845,
     "geom:bbox":"23.058218885,53.33921896,23.203856802,53.519346284",
     "geom:latitude":53.434614,
     "geom:longitude":23.124303,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":23.118442,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080189
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201371103",
+        "eurostat:nuts_2021_id":"1006201371103"
+    },
     "wof:coterminous":[
         1125949459
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2763fab5f2090eefe85558e40bc55c96",
+    "wof:geomhash":"86da86c466e4be77fceba878f4b68230",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752307,
-    "wof:lastmodified":1570003914,
+    "wof:lastmodified":1684354403,
     "wof:name":"Korycin",
     "wof:parent_id":102080189,
     "wof:placetype":"localadmin",
+    "wof:population":3202,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

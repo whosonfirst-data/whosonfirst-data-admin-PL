@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241501604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kroczyce",
+    "eurostat:nuts_2021_id":"1001241501604",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22B",
+    "eurostat:nuts_2021_level_lau":"1001241501604",
+    "eurostat:population":6306,
+    "eurostat:population_year":2020,
     "geom:area":0.01396,
-    "geom:area_square_m":109649515.516637,
+    "geom:area_square_m":109649515.516623,
     "geom:bbox":"19.51066129,50.503092679,19.736305661,50.624860763",
     "geom:latitude":50.565205,
     "geom:longitude":19.6017,
@@ -69,6 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241501604",
+        "eurostat:nuts_2021_id":"1001241501604",
         "gp:id":12617451,
         "qs_pg:id":31828
     },
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"effaf2ca6fc92880219540c4ca81a168",
+    "wof:geomhash":"c5f9ce10850676d2620aeccf4221c15b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":1125306049,
-    "wof:lastmodified":1582357883,
+    "wof:lastmodified":1684354207,
     "wof:name":"Kroczyce",
     "wof:parent_id":102079613,
     "wof:placetype":"localadmin",
+    "wof:population":6306,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

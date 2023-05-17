@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041080802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bobrowniki",
+    "eurostat:nuts_2021_id":"1004041080802",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041080802",
+    "eurostat:population":3086,
+    "eurostat:population_year":2020,
     "geom:area":0.012702,
-    "geom:area_square_m":95003146.244233,
+    "geom:area_square_m":95003146.244247,
     "geom:bbox":"18.907263189,52.707156042,19.091734811,52.835952685",
     "geom:latitude":52.781128,
     "geom:longitude":19.000756,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041080802",
+        "eurostat:nuts_2021_id":"1004041080802",
         "gn:id":3103148,
         "gp:id":12617469,
         "qs_pg:id":1099615
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d37277aeed38d8eb64d94407abe29937",
+    "wof:geomhash":"ba67b1f90ebb2b9ea0648a18c2157a13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125294803,
-    "wof:lastmodified":1582357823,
+    "wof:lastmodified":1684354182,
     "wof:name":"Bobrowniki",
     "wof:parent_id":102080033,
     "wof:placetype":"localadmin",
-    "wof:population":980,
-    "wof:population_rank":2,
+    "wof:population":3086,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

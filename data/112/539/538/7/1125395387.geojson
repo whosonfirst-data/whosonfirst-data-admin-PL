@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061090114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u0142awatycze",
+    "eurostat:nuts_2021_id":"1006061090114",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061090114",
+    "eurostat:population":2293,
+    "eurostat:population_year":2020,
     "geom:area":0.009365,
-    "geom:area_square_m":71624827.814092,
+    "geom:area_square_m":71624827.814104,
     "geom:bbox":"23.465238725,51.74308878,23.641429054,51.829107275",
     "geom:latitude":51.791255,
     "geom:longitude":23.550627,
@@ -98,7 +110,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -111,6 +124,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061090114",
+        "eurostat:nuts_2021_id":"1006061090114",
         "gn:id":758973,
         "gp:id":12618788,
         "qs_pg:id":1019852
@@ -123,7 +138,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"da88012af609ca554b8acefa8798e119",
+    "wof:geomhash":"90fd20e7eed0124a0fcd0d5c655fdd5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,11 +149,11 @@
         }
     ],
     "wof:id":1125395387,
-    "wof:lastmodified":1582357916,
+    "wof:lastmodified":1684354316,
     "wof:name":"S\u0142awatycze",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",
-    "wof:population":2647,
+    "wof:population":2293,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

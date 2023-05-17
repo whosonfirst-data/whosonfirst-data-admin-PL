@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041080808",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"T\u0142uchowo",
+    "eurostat:nuts_2021_id":"1004041080808",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041080808",
+    "eurostat:population":4648,
+    "eurostat:population_year":2020,
     "geom:area":0.01322,
-    "geom:area_square_m":98943674.335386,
+    "geom:area_square_m":98943674.33537,
     "geom:bbox":"19.346330559,52.680255739,19.527139598,52.816059462",
     "geom:latitude":52.752008,
     "geom:longitude":19.427658,
@@ -69,7 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -82,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041080808",
+        "eurostat:nuts_2021_id":"1004041080808",
         "gn:id":3083365,
         "gp:id":12618023,
         "qs_pg:id":272837
@@ -94,7 +109,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"34dc0c6fdd377a6260334ac685b69c09",
+    "wof:geomhash":"0cf54ad20dc9732f06d192230e157b51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,12 +120,12 @@
         }
     ],
     "wof:id":1125311025,
-    "wof:lastmodified":1582357945,
+    "wof:lastmodified":1684354213,
     "wof:name":"T\u0142uchowo",
     "wof:parent_id":102080033,
     "wof:placetype":"localadmin",
-    "wof:population":1159,
-    "wof:population_rank":3,
+    "wof:population":4648,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

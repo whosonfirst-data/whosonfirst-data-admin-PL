@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021021601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chocian\u00f3w",
+    "eurostat:nuts_2021_id":"1003021021601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021021601",
+    "eurostat:population":12796,
+    "eurostat:population_year":2020,
     "geom:area":0.028636,
-    "geom:area_square_m":220877242.781718,
+    "geom:area_square_m":220877242.781711,
     "geom:bbox":"15.815994662,51.326293427,16.108570056,51.517634665",
     "geom:latitude":51.406797,
     "geom:longitude":15.960954,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":15.960972,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079741
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021021601",
+        "eurostat:nuts_2021_id":"1003021021601"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"b5eb54cb76910030b677693c5e7f38dd",
+    "wof:geomhash":"d61ef4ef787135f5dab2a93d0566b4b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752553,
-    "wof:lastmodified":1570004049,
+    "wof:lastmodified":1684354416,
     "wof:name":"Gmina Chocian\u00f3w",
     "wof:parent_id":102079741,
     "wof:placetype":"localadmin",
+    "wof:population":12796,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

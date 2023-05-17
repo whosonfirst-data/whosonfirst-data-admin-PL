@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221720202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brusy",
+    "eurostat:nuts_2021_id":"1004221720202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL637",
+    "eurostat:nuts_2021_level_lau":"1004221720202",
+    "eurostat:population":14575,
+    "eurostat:population_year":2020,
     "geom:area":0.054742,
-    "geom:area_square_m":398781456.4605,
+    "geom:area_square_m":398781456.460469,
     "geom:bbox":"17.491276,53.780978,17.878753,54.031879",
     "geom:latitude":53.904291,
     "geom:longitude":17.675388,
@@ -68,6 +80,8 @@
     "reversegeo:longitude":17.678282,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -75,11 +89,15 @@
         102080161
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221720202",
+        "eurostat:nuts_2021_id":"1004221720202"
+    },
     "wof:coterminous":[
         1477864717
     ],
     "wof:country":"PL",
-    "wof:geomhash":"87ae171cd269d96013f72868aaa5a3ac",
+    "wof:geomhash":"37d283e57cf97bd19ff33db0f1eccacb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +108,12 @@
         }
     ],
     "wof:id":1477751641,
-    "wof:lastmodified":1617131415,
+    "wof:lastmodified":1684354368,
     "wof:name":"Gmina Brusy",
     "wof:parent_id":102080161,
     "wof:placetype":"localadmin",
+    "wof:population":14575,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

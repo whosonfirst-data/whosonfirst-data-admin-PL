@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281551801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Banie Mazurskie",
+    "eurostat:nuts_2021_id":"1004281551801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL623",
+    "eurostat:nuts_2021_level_lau":"1004281551801",
+    "eurostat:population":3671,
+    "eurostat:population_year":2020,
     "geom:area":0.028257,
-    "geom:area_square_m":204089607.734473,
+    "geom:area_square_m":204089607.734494,
     "geom:bbox":"21.938004967,54.170297107,22.160928949,54.337414151",
     "geom:latitude":54.259842,
     "geom:longitude":22.059878,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":22.061966,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080261
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281551801",
+        "eurostat:nuts_2021_id":"1004281551801"
+    },
     "wof:coterminous":[
         101819495
     ],
     "wof:country":"PL",
-    "wof:geomhash":"6274259cf7107f2eb73333fb53a43af5",
+    "wof:geomhash":"c755d4c92702df00df0a35bac4b3619f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751737,
-    "wof:lastmodified":1570001325,
+    "wof:lastmodified":1684354373,
     "wof:name":"Banie Mazurskie",
     "wof:parent_id":102080261,
     "wof:placetype":"localadmin",
+    "wof:population":3671,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

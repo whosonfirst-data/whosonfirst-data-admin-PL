@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szumowo",
+    "eurostat:nuts_2021_id":"1006201381404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381404",
+    "eurostat:population":4809,
+    "eurostat:population_year":2020,
     "geom:area":0.018838,
-    "geom:area_square_m":140492057.628938,
+    "geom:area_square_m":140492057.628952,
     "geom:bbox":"21.976098023,52.841758602,22.217544179,52.98613051",
     "geom:latitude":52.904313,
     "geom:longitude":22.099271,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":22.087451,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080103
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381404",
+        "eurostat:nuts_2021_id":"1006201381404"
+    },
     "wof:coterminous":[
         101820577
     ],
     "wof:country":"PL",
-    "wof:geomhash":"bf85932567fcb7d5a8283674e762c634",
+    "wof:geomhash":"a77d4f31ab7bc54ac9b9b0fa64050c1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751677,
-    "wof:lastmodified":1569999466,
+    "wof:lastmodified":1684354370,
     "wof:name":"Szumowo",
     "wof:parent_id":102080103,
     "wof:placetype":"localadmin",
+    "wof:population":4809,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

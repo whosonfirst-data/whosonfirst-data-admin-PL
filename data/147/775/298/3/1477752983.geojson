@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021021104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u015acinawa",
+    "eurostat:nuts_2021_id":"1003021021104",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021021104",
+    "eurostat:population":9866,
+    "eurostat:population_year":2020,
     "geom:area":0.021236,
-    "geom:area_square_m":163832497.196921,
+    "geom:area_square_m":163832497.196906,
     "geom:bbox":"16.30857,51.293596,16.477188,51.490291",
     "geom:latitude":51.396888,
     "geom:longitude":16.393054,
@@ -65,18 +77,24 @@
     "reversegeo:longitude":16.393054,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079735,
-        85687301
+        85687301,
+        102079735
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021021104",
+        "eurostat:nuts_2021_id":"1003021021104"
+    },
     "wof:coterminous":[
         1477865707
     ],
     "wof:country":"PL",
-    "wof:geomhash":"00a7c8b51a071f64c820abcff45b080c",
+    "wof:geomhash":"c7cd31fe424cead1caeee34312eb19ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477752983,
-    "wof:lastmodified":1607726762,
+    "wof:lastmodified":1684354440,
     "wof:name":"Gmina \u015acinawa",
     "wof:parent_id":102079735,
     "wof:placetype":"localadmin",
+    "wof:population":9866,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

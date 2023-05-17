@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221410803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cewice",
+    "eurostat:nuts_2021_id":"1004221410803",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL636",
+    "eurostat:nuts_2021_level_lau":"1004221410803",
+    "eurostat:population":7577,
+    "eurostat:population_year":2020,
     "geom:area":0.025977,
-    "geom:area_square_m":186795432.469149,
+    "geom:area_square_m":186795432.469126,
     "geom:bbox":"17.597815108,54.353363868,17.886815669,54.520051367",
     "geom:latitude":54.441525,
     "geom:longitude":17.75027,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":17.752424,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080263
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221410803",
+        "eurostat:nuts_2021_id":"1004221410803"
+    },
     "wof:coterminous":[
         1125854319
     ],
     "wof:country":"PL",
-    "wof:geomhash":"3b0cd119a98836f1e2e3c948156ed481",
+    "wof:geomhash":"176231c69f17e8d3ebe5cd0159d806d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752403,
-    "wof:lastmodified":1570003079,
+    "wof:lastmodified":1684354408,
     "wof:name":"Cewice",
     "wof:parent_id":102080263,
     "wof:placetype":"localadmin",
+    "wof:population":7577,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

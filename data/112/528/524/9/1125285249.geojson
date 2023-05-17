@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161310106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olszanka",
+    "eurostat:nuts_2021_id":"1003161310106",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161310106",
+    "eurostat:population":4867,
+    "eurostat:population_year":2020,
     "geom:area":0.011825,
-    "geom:area_square_m":92449404.106088,
+    "geom:area_square_m":92449404.106083,
     "geom:bbox":"17.349023873,50.719180028,17.543122291,50.828728209",
     "geom:latitude":50.781317,
     "geom:longitude":17.458867,
@@ -83,7 +95,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -96,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161310106",
+        "eurostat:nuts_2021_id":"1003161310106",
         "gn:id":3090127,
         "gp:id":12618559,
         "qs_pg:id":1093987
@@ -108,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"32642926181f3b529ae09c7b6dcbf56c",
+    "wof:geomhash":"0946337b150a43a48551ec1b06d96ab1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,12 +134,12 @@
         }
     ],
     "wof:id":1125285249,
-    "wof:lastmodified":1582357787,
+    "wof:lastmodified":1684354158,
     "wof:name":"Olszanka",
     "wof:parent_id":102079631,
     "wof:placetype":"localadmin",
-    "wof:population":447,
-    "wof:population_rank":2,
+    "wof:population":4867,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

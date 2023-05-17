@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142262202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chorzele",
+    "eurostat:nuts_2021_id":"1007142262202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142262202",
+    "eurostat:population":10175,
+    "eurostat:population_year":2020,
     "geom:area":0.049936,
-    "geom:area_square_m":369264240.009912,
+    "geom:area_square_m":369264240.009969,
     "geom:bbox":"20.674444563,53.182184314,21.203155838,53.363089807",
     "geom:latitude":53.270905,
     "geom:longitude":20.923836,
@@ -136,7 +148,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -149,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142262202",
+        "eurostat:nuts_2021_id":"1007142262202",
         "gn:id":774387,
         "gp:id":24548249,
         "qs_pg:id":435502
@@ -158,7 +173,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9bd6afe3fdaaff5eba95b3dfaf48ef9f",
+    "wof:geomhash":"c5ac80f4ddd3dafcb31a639b7dbf56d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,12 +184,12 @@
         }
     ],
     "wof:id":1125332799,
-    "wof:lastmodified":1582357686,
+    "wof:lastmodified":1684354242,
     "wof:name":"Gmina Chorzele",
     "wof:parent_id":102080117,
     "wof:placetype":"localadmin",
-    "wof:population":2807,
-    "wof:population_rank":4,
+    "wof:population":10175,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

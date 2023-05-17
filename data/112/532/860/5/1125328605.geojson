@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121220708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0141ukowica",
+    "eurostat:nuts_2021_id":"1001121220708",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121220708",
+    "eurostat:population":10062,
+    "eurostat:population_year":2020,
     "geom:area":0.008667,
-    "geom:area_square_m":69427568.132385,
+    "geom:area_square_m":69427568.132384,
     "geom:bbox":"20.375464714,49.577682247,20.550991049,49.673340264",
     "geom:latitude":49.621804,
     "geom:longitude":20.475342,
@@ -62,7 +74,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -75,6 +88,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121220708",
+        "eurostat:nuts_2021_id":"1001121220708",
         "gn:id":765736,
         "gp:id":12618633,
         "qs_pg:id":528240
@@ -87,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9faaa170d4600dc06f983a7ce7e79b7e",
+    "wof:geomhash":"434f212f826ea11f4945176ae596f040",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,12 +113,12 @@
         }
     ],
     "wof:id":1125328605,
-    "wof:lastmodified":1582357734,
+    "wof:lastmodified":1684354239,
     "wof:name":"\u0141ukowica",
     "wof:parent_id":102079423,
     "wof:placetype":"localadmin",
-    "wof:population":2220,
-    "wof:population_rank":4,
+    "wof:population":10062,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

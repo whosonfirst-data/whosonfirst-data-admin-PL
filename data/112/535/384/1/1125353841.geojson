@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jedwabne",
+    "eurostat:nuts_2021_id":"1006201380701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380701",
+    "eurostat:population":5299,
+    "eurostat:population_year":2020,
     "geom:area":0.021456,
-    "geom:area_square_m":158564473.666071,
+    "geom:area_square_m":158564473.666086,
     "geom:bbox":"22.204580472,53.236318085,22.498384462,53.353711632",
     "geom:latitude":53.297782,
     "geom:longitude":22.34814,
@@ -170,7 +182,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -183,6 +196,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380701",
+        "eurostat:nuts_2021_id":"1006201380701",
         "gn:id":770149,
         "gp:id":24548240,
         "qs_pg:id":1263423
@@ -192,7 +207,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fb3da1f36a60ec1013d643933e860215",
+    "wof:geomhash":"a1570a8dc90a62267538fa30eed1b997",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,12 +218,12 @@
         }
     ],
     "wof:id":1125353841,
-    "wof:lastmodified":1582357710,
+    "wof:lastmodified":1684354259,
     "wof:name":"Gmina Jedwabne",
     "wof:parent_id":102080143,
     "wof:placetype":"localadmin",
-    "wof:population":2204,
-    "wof:population_rank":4,
+    "wof:population":5299,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

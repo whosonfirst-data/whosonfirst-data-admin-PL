@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ruda-Huta",
+    "eurostat:nuts_2021_id":"1006061100309",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100309",
+    "eurostat:population":4502,
+    "eurostat:population_year":2020,
     "geom:area":0.01444,
-    "geom:area_square_m":111805189.967359,
+    "geom:area_square_m":111805189.967372,
     "geom:bbox":"23.51087687,51.167747754,23.726690156,51.277274829",
     "geom:latitude":51.230465,
     "geom:longitude":23.614353,
@@ -66,7 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -79,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100309",
+        "eurostat:nuts_2021_id":"1006061100309",
         "gn:id":7534559,
         "gp:id":12618648,
         "qs_pg:id":1025480
@@ -91,7 +106,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fa19eaba6aca3df32281a56723b1e53c",
+    "wof:geomhash":"6e7caac0035a60e756d5be61446227eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,12 +117,12 @@
         }
     ],
     "wof:id":1125400219,
-    "wof:lastmodified":1582357999,
+    "wof:lastmodified":1684354324,
     "wof:name":"Ruda-Huta",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",
-    "wof:population":1076,
-    "wof:population_rank":3,
+    "wof:population":4502,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

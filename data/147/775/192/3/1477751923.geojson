@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301600103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chodzie\u017c",
+    "eurostat:nuts_2021_id":"1002301600103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301600103",
+    "eurostat:population":6100,
+    "eurostat:population_year":2020,
     "geom:area":0.028498,
-    "geom:area_square_m":212107513.427629,
+    "geom:area_square_m":212107513.427622,
     "geom:bbox":"16.732045805,52.912138277,17.039028173,53.059984079",
     "geom:latitude":52.992872,
     "geom:longitude":16.889436,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":16.837477,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080021
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301600103",
+        "eurostat:nuts_2021_id":"1002301600103"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"2d85385b31d047ef5a3d3d2464962af2",
+    "wof:geomhash":"bf7f9a884539b50c2d9098f73f178ce2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751923,
-    "wof:lastmodified":1569999210,
+    "wof:lastmodified":1684354383,
     "wof:name":"Gmina Chodzie\u017c",
     "wof:parent_id":102080021,
     "wof:placetype":"localadmin",
+    "wof:population":6100,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

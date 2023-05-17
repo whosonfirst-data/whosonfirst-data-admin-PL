@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041671002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mrocza",
+    "eurostat:nuts_2021_id":"1004041671002",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL617",
+    "eurostat:nuts_2021_level_lau":"1004041671002",
+    "eurostat:population":9233,
+    "eurostat:population_year":2020,
     "geom:area":0.020262,
-    "geom:area_square_m":149933554.618747,
+    "geom:area_square_m":149933554.61877,
     "geom:bbox":"17.412662771,53.180533304,17.706854923,53.294900812",
     "geom:latitude":53.242888,
     "geom:longitude":17.566134,
@@ -146,7 +158,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -159,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041671002",
+        "eurostat:nuts_2021_id":"1004041671002",
         "gn:id":3091351,
         "gp:id":24547772,
         "qs_pg:id":999052
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bdb3f81909724367cff1c01dd5ede982",
+    "wof:geomhash":"213c8e49b37334b6d54db7cb5b1e11a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,12 +194,12 @@
         }
     ],
     "wof:id":1125375847,
-    "wof:lastmodified":1582357865,
+    "wof:lastmodified":1684354293,
     "wof:name":"Gmina Mrocza",
     "wof:parent_id":102080053,
     "wof:placetype":"localadmin",
-    "wof:population":4347,
-    "wof:population_rank":4,
+    "wof:population":9233,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

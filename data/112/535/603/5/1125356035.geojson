@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221720608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stara Kiszewa",
+    "eurostat:nuts_2021_id":"1004221720608",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL637",
+    "eurostat:nuts_2021_level_lau":"1004221720608",
+    "eurostat:population":6816,
+    "eurostat:population_year":2020,
     "geom:area":0.029133,
-    "geom:area_square_m":211802654.12603,
+    "geom:area_square_m":211802654.126008,
     "geom:bbox":"17.988174442,53.901725405,18.349535775,54.05784615",
     "geom:latitude":53.987889,
     "geom:longitude":18.142598,
@@ -69,6 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221720608",
+        "eurostat:nuts_2021_id":"1004221720608",
         "gp:id":12617276,
         "qs_pg:id":1153829
     },
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f095ff95d3e1ffe9ce162e0abfbe6f4e",
+    "wof:geomhash":"34032ed09297ae186cb72e8cf7305920",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":1125356035,
-    "wof:lastmodified":1582357707,
+    "wof:lastmodified":1684354261,
     "wof:name":"Stara Kiszewa",
     "wof:parent_id":102080193,
     "wof:placetype":"localadmin",
+    "wof:population":6816,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

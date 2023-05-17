@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021042307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sob\u00f3tka",
+    "eurostat:nuts_2021_id":"1003021042307",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021042307",
+    "eurostat:population":12914,
+    "eurostat:population_year":2020,
     "geom:area":0.017416,
-    "geom:area_square_m":135798182.463769,
+    "geom:area_square_m":135798182.463785,
     "geom:bbox":"16.671624112,50.836642598,16.860485202,50.976006039",
     "geom:latitude":50.906307,
     "geom:longitude":16.762176,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021042307",
+        "eurostat:nuts_2021_id":"1003021042307",
         "gn:id":3085252,
         "gp:id":24547746,
         "qs_pg:id":1200431
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9a85ed939f1dce47f0d0443c4908cae3",
+    "wof:geomhash":"642940eb2e770c7590e5d4fbc47dcf61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125290271,
-    "wof:lastmodified":1582357821,
+    "wof:lastmodified":1684354175,
     "wof:name":"Gmina Sob\u00f3tka",
     "wof:parent_id":102079685,
     "wof:placetype":"localadmin",
-    "wof:population":6906,
-    "wof:population_rank":5,
+    "wof:population":12914,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

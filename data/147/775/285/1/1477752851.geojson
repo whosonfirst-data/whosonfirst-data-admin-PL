@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241451306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"O\u017carowice",
+    "eurostat:nuts_2021_id":"1001241451306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL228",
+    "eurostat:nuts_2021_level_lau":"1001241451306",
+    "eurostat:population":5795,
+    "eurostat:population_year":2020,
     "geom:area":0.005769,
-    "geom:area_square_m":45400508.095724,
+    "geom:area_square_m":45400508.095733,
     "geom:bbox":"18.982462461,50.4285652,19.134465828,50.5225968",
     "geom:latitude":50.474175,
     "geom:longitude":19.056039,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":19.073818,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241451306",
+        "eurostat:nuts_2021_id":"1001241451306"
+    },
     "wof:coterminous":[
         101863473
     ],
     "wof:country":"PL",
-    "wof:geomhash":"508524393685a9bb515d01f723ae84c2",
+    "wof:geomhash":"1ff541459bca6014c6d81ecf5e6d8ac5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752851,
-    "wof:lastmodified":1570003200,
+    "wof:lastmodified":1684354432,
     "wof:name":"O\u017carowice",
     "wof:parent_id":102079581,
     "wof:placetype":"localadmin",
+    "wof:population":5795,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

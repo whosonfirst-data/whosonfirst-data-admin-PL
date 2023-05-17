@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221421313",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zblewo",
+    "eurostat:nuts_2021_id":"1004221421313",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221421313",
+    "eurostat:population":11832,
+    "eurostat:population_year":2020,
     "geom:area":0.018851,
-    "geom:area_square_m":137214454.529885,
+    "geom:area_square_m":137214454.52993,
     "geom:bbox":"18.23692986,53.866633246,18.440552821,54.023491448",
     "geom:latitude":53.938644,
     "geom:longitude":18.348128,
@@ -72,6 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221421313",
+        "eurostat:nuts_2021_id":"1004221421313",
         "gp:id":12617458,
         "qs_pg:id":1153830
     },
@@ -95,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"afe0ff398a0adef68f5a7321ea66b668",
+    "wof:geomhash":"9e22bd5706cc73e8c3470a128e27b7ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":1125356043,
-    "wof:lastmodified":1582357706,
+    "wof:lastmodified":1684354262,
     "wof:name":"Zblewo",
     "wof:parent_id":102080183,
     "wof:placetype":"localadmin",
+    "wof:population":11832,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

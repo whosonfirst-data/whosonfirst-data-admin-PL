@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061121409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pu\u0142awy",
+    "eurostat:nuts_2021_id":"1006061121409",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061121409",
+    "eurostat:population":12126,
+    "eurostat:population_year":2020,
     "geom:area":0.020841,
     "geom:area_square_m":160590464.936563,
     "geom:bbox":"21.760955,51.370213,22.032831,51.548364",
@@ -185,14 +197,18 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079833,
-        85687309
+        85687309,
+        102079833
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061121409",
+        "eurostat:nuts_2021_id":"1006061121409",
         "gn:id":7531633,
         "qs_pg:id":1041756
     },
@@ -204,7 +220,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d8106ef9b07555a1f255b221ede9ce7a",
+    "wof:geomhash":"00e141a5b49ac3339b5379af132491c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,10 +231,12 @@
         }
     ],
     "wof:id":1125393919,
-    "wof:lastmodified":1607726525,
+    "wof:lastmodified":1684354314,
     "wof:name":"Gmina Pu\u0142awy",
     "wof:parent_id":102079833,
     "wof:placetype":"localadmin",
+    "wof:population":12126,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

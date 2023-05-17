@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061121107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stanin",
+    "eurostat:nuts_2021_id":"1006061121107",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061121107",
+    "eurostat:population":9729,
+    "eurostat:population_year":2020,
     "geom:area":0.020988,
-    "geom:area_square_m":160197374.905761,
+    "geom:area_square_m":160197374.905726,
     "geom:bbox":"22.046920781,51.81860425,22.330709404,51.963999721",
     "geom:latitude":51.882455,
     "geom:longitude":22.192558,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":22.182996,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079925
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061121107",
+        "eurostat:nuts_2021_id":"1006061121107"
+    },
     "wof:coterminous":[
         1126017485
     ],
     "wof:country":"PL",
-    "wof:geomhash":"139f33b3f20ba80a17a8f8f2b64981b6",
+    "wof:geomhash":"c4d281c3e22f42e5983e9b5c45d8b0b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752673,
-    "wof:lastmodified":1570000898,
+    "wof:lastmodified":1684354422,
     "wof:name":"Stanin",
     "wof:parent_id":102079925,
     "wof:placetype":"localadmin",
+    "wof:population":9729,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

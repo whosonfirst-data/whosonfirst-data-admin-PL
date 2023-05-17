@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081140201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gubin",
+    "eurostat:nuts_2021_id":"1002081140201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081140201",
+    "eurostat:population":16614,
+    "eurostat:population_year":2020,
     "geom:area":0.002703,
-    "geom:area_square_m":20600813.753391,
+    "geom:area_square_m":20600813.75339,
     "geom:bbox":"14.704834,51.918394,14.79322,51.996198",
     "geom:latitude":51.955404,
     "geom:longitude":14.737226,
@@ -141,7 +153,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -149,11 +162,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079843,
-        85687327
+        85687327,
+        102079843
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081140201",
+        "eurostat:nuts_2021_id":"1002081140201",
         "gn:id":3098130,
         "gp:id":24547419,
         "qs_pg:id":962336
@@ -166,7 +181,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8a621a7904bd7c2c9180547241bf5355",
+    "wof:geomhash":"0e476db5a9099c8216c9b0c574b86cca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,11 +192,11 @@
         }
     ],
     "wof:id":1125367753,
-    "wof:lastmodified":1607725040,
+    "wof:lastmodified":1684354277,
     "wof:name":"Gmina Gubin",
     "wof:parent_id":102079843,
     "wof:placetype":"localadmin",
-    "wof:population":16629,
+    "wof:population":16614,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

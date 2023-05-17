@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301600205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lubasz",
+    "eurostat:nuts_2021_id":"1002301600205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301600205",
+    "eurostat:population":7701,
+    "eurostat:population_year":2020,
     "geom:area":0.022296,
-    "geom:area_square_m":166610941.639462,
+    "geom:area_square_m":166610941.639425,
     "geom:bbox":"16.379250504,52.737585728,16.63871794,52.891689362",
     "geom:latitude":52.818617,
     "geom:longitude":16.497019,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":16.495046,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080029
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301600205",
+        "eurostat:nuts_2021_id":"1002301600205"
+    },
     "wof:coterminous":[
         101820507
     ],
     "wof:country":"PL",
-    "wof:geomhash":"c96e87a21d96b2fd790a87c2fd4b3144",
+    "wof:geomhash":"38501d43068b690224f9d097e7254cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125364413,
-    "wof:lastmodified":1569997339,
+    "wof:lastmodified":1684354271,
     "wof:name":"Lubasz",
     "wof:parent_id":102080029,
     "wof:placetype":"localadmin",
+    "wof:population":7701,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

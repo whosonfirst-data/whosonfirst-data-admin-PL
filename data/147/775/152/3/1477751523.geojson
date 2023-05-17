@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181330203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dydnia",
+    "eurostat:nuts_2021_id":"1006181330203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181330203",
+    "eurostat:population":7914,
+    "eurostat:population_year":2020,
     "geom:area":0.016231,
-    "geom:area_square_m":129852001.908544,
+    "geom:area_square_m":129852001.908539,
     "geom:bbox":"22.074243288,49.626712489,22.330238487,49.736617127",
     "geom:latitude":49.684827,
     "geom:longitude":22.194309,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":22.19238,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079461
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181330203",
+        "eurostat:nuts_2021_id":"1006181330203"
+    },
     "wof:coterminous":[
         101848013
     ],
     "wof:country":"PL",
-    "wof:geomhash":"25de45013db61ae88e6c5fd29fafda75",
+    "wof:geomhash":"6b9070ca313bd75416abe03a56b09ae6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751523,
-    "wof:lastmodified":1570002517,
+    "wof:lastmodified":1684354362,
     "wof:name":"Dydnia",
     "wof:parent_id":102079461,
     "wof:placetype":"localadmin",
+    "wof:population":7914,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

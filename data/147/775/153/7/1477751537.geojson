@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181350604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niwiska",
+    "eurostat:nuts_2021_id":"1006181350604",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181350604",
+    "eurostat:population":6091,
+    "eurostat:population_year":2020,
     "geom:area":0.011959,
-    "geom:area_square_m":94572294.54395,
+    "geom:area_square_m":94572294.543883,
     "geom:bbox":"21.529724312,50.175599384,21.731003744,50.302126373",
     "geom:latitude":50.242074,
     "geom:longitude":21.634874,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":21.644721,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079607
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181350604",
+        "eurostat:nuts_2021_id":"1006181350604"
+    },
     "wof:coterminous":[
         1126006085
     ],
     "wof:country":"PL",
-    "wof:geomhash":"21d7b701260df5c4bcf058c3df411db7",
+    "wof:geomhash":"03954f7c7e3d304f6eeec58f0e640095",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751537,
-    "wof:lastmodified":1570002036,
+    "wof:lastmodified":1684354362,
     "wof:name":"Niwiska",
     "wof:parent_id":102079607,
     "wof:placetype":"localadmin",
+    "wof:population":6091,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

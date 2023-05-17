@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061091505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Komar\u00f3wka Podlaska",
+    "eurostat:nuts_2021_id":"1006061091505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061091505",
+    "eurostat:population":4185,
+    "eurostat:population_year":2020,
     "geom:area":0.017987,
-    "geom:area_square_m":137445992.070368,
+    "geom:area_square_m":137445992.070382,
     "geom:bbox":"22.832417837,51.763878868,23.062554958,51.895343506",
     "geom:latitude":51.830875,
     "geom:longitude":22.959833,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":22.980629,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079905
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061091505",
+        "eurostat:nuts_2021_id":"1006061091505"
+    },
     "wof:coterminous":[
         101821691
     ],
     "wof:country":"PL",
-    "wof:geomhash":"ca949b39c49b582c996f33c51da6ae6b",
+    "wof:geomhash":"2f01bff59f9e182a2e9d90eae29759ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752889,
-    "wof:lastmodified":1570000244,
+    "wof:lastmodified":1684354435,
     "wof:name":"Komar\u00f3wka Podlaska",
     "wof:parent_id":102079905,
     "wof:placetype":"localadmin",
+    "wof:population":4185,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

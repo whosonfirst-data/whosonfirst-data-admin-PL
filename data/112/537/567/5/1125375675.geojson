@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301611603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ryczyw\u00f3\u0142",
+    "eurostat:nuts_2021_id":"1002301611603",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301611603",
+    "eurostat:population":7293,
+    "eurostat:population_year":2020,
     "geom:area":0.020615,
-    "geom:area_square_m":154136198.791414,
+    "geom:area_square_m":154136198.791417,
     "geom:bbox":"16.701527574,52.709080734,16.924975626,52.888846027",
     "geom:latitude":52.794568,
     "geom:longitude":16.818764,
@@ -84,7 +96,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -97,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301611603",
+        "eurostat:nuts_2021_id":"1002301611603",
         "gn:id":3086533,
         "gp:id":12618029,
         "qs_pg:id":998976
@@ -109,7 +124,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"75d7ad141225cae135e1d76be29cae75",
+    "wof:geomhash":"ca6f4affd357de5558a64128deabae90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,12 +135,12 @@
         }
     ],
     "wof:id":1125375675,
-    "wof:lastmodified":1582357837,
+    "wof:lastmodified":1684354292,
     "wof:name":"Ryczyw\u00f3\u0142",
     "wof:parent_id":102079987,
     "wof:placetype":"localadmin",
-    "wof:population":2000,
-    "wof:population_rank":4,
+    "wof:population":7293,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

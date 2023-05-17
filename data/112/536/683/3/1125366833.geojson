@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241511404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bojszowy",
+    "eurostat:nuts_2021_id":"1001241511404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22C",
+    "eurostat:nuts_2021_level_lau":"1001241511404",
+    "eurostat:population":7924,
+    "eurostat:population_year":2020,
     "geom:area":0.004351,
-    "geom:area_square_m":34544418.007823,
+    "geom:area_square_m":34544418.007821,
     "geom:bbox":"19.030557214,50.017055645,19.165915639,50.091396009",
     "geom:latitude":50.050254,
     "geom:longitude":19.083642,
@@ -71,7 +83,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -84,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241511404",
+        "eurostat:nuts_2021_id":"1001241511404",
         "gn:id":3103004,
         "gp:id":12617901,
         "qs_pg:id":1180675
@@ -96,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f2f74672c5a74a76dd5a952e0dca7694",
+    "wof:geomhash":"b55fee03ba9904a20312ce376adfc512",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,12 +122,12 @@
         }
     ],
     "wof:id":1125366833,
-    "wof:lastmodified":1582357976,
+    "wof:lastmodified":1684354276,
     "wof:name":"Bojszowy",
     "wof:parent_id":102079475,
     "wof:placetype":"localadmin",
-    "wof:population":3219,
-    "wof:population_rank":4,
+    "wof:population":7924,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

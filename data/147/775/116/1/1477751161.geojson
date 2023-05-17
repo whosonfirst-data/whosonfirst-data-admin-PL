@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061091902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hanna",
+    "eurostat:nuts_2021_id":"1006061091902",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061091902",
+    "eurostat:population":2844,
+    "eurostat:population_year":2020,
     "geom:area":0.018114,
-    "geom:area_square_m":138827883.610921,
+    "geom:area_square_m":138827883.610947,
     "geom:bbox":"23.327870265,51.621350874,23.560412075,51.78058227",
     "geom:latitude":51.697723,
     "geom:longitude":23.464802,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":23.482419,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079889
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061091902",
+        "eurostat:nuts_2021_id":"1006061091902"
+    },
     "wof:coterminous":[
         1125907019
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f481289fa9765fb2a7277381d32dad51",
+    "wof:geomhash":"d5610de4b6e6a1a796d1a3fe3f74f714",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751161,
-    "wof:lastmodified":1570001458,
+    "wof:lastmodified":1684354344,
     "wof:name":"Hanna",
     "wof:parent_id":102079889,
     "wof:placetype":"localadmin",
+    "wof:population":2844,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kleszczewo",
+    "eurostat:nuts_2021_id":"1002301612106",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612106",
+    "eurostat:population":8868,
+    "eurostat:population_year":2020,
     "geom:area":0.009816,
-    "geom:area_square_m":74184717.273387,
+    "geom:area_square_m":74184717.273402,
     "geom:bbox":"17.049173486,52.275890518,17.241493299,52.377276504",
     "geom:latitude":52.325317,
     "geom:longitude":17.147998,
@@ -66,7 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -79,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612106",
+        "eurostat:nuts_2021_id":"1002301612106",
         "gn:id":3096130,
         "gp:id":12618316,
         "qs_pg:id":1013776
@@ -91,7 +106,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3436520bb09299076347c05527a547b8",
+    "wof:geomhash":"8a0daaf18013f03be0a210abe0d99da7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,12 +117,12 @@
         }
     ],
     "wof:id":1125383363,
-    "wof:lastmodified":1582357926,
+    "wof:lastmodified":1684354300,
     "wof:name":"Kleszczewo",
     "wof:parent_id":102079955,
     "wof:placetype":"localadmin",
-    "wof:population":580,
-    "wof:population_rank":2,
+    "wof:population":8868,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szulborze Wielkie",
+    "eurostat:nuts_2021_id":"1007142261609",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261609",
+    "eurostat:population":1646,
+    "eurostat:population_year":2020,
     "geom:area":0.006218,
-    "geom:area_square_m":46530964.820122,
+    "geom:area_square_m":46530964.820129,
     "geom:bbox":"22.178564665,52.712880021,22.311017104,52.803599378",
     "geom:latitude":52.759008,
     "geom:longitude":22.243684,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":22.243656,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080057
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261609",
+        "eurostat:nuts_2021_id":"1007142261609"
+    },
     "wof:coterminous":[
         1477863375
     ],
     "wof:country":"PL",
-    "wof:geomhash":"3ea69e17101c0865a3b38c62041d750d",
+    "wof:geomhash":"e2357543e8f3e8ca7e714cd90066e307",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477753001,
-    "wof:lastmodified":1569998958,
+    "wof:lastmodified":1684354441,
     "wof:name":"Szulborze Wielkie",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",
+    "wof:population":1646,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

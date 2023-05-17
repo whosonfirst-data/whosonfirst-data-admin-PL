@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301570705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ko\u017aminek",
+    "eurostat:nuts_2021_id":"1002301570705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301570705",
+    "eurostat:population":7547,
+    "eurostat:population_year":2020,
     "geom:area":0.011523,
-    "geom:area_square_m":88139221.647384,
+    "geom:area_square_m":88139221.647378,
     "geom:bbox":"18.225383261,51.7359136,18.432235633,51.848364913",
     "geom:latitude":51.788657,
     "geom:longitude":18.338831,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":18.354462,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079841
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301570705",
+        "eurostat:nuts_2021_id":"1002301570705"
+    },
     "wof:coterminous":[
         101821603
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2f177c16ecb400537eabcea1b56eb20b",
+    "wof:geomhash":"1a753e4d78637e305afee92e9cc9f75f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477752465,
-    "wof:lastmodified":1570002838,
+    "wof:lastmodified":1684354411,
     "wof:name":"Ko\u017aminek",
     "wof:parent_id":102079841,
     "wof:placetype":"localadmin",
+    "wof:population":7547,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241491107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pietrowice Wielkie",
+    "eurostat:nuts_2021_id":"1001241491107",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL227",
+    "eurostat:nuts_2021_level_lau":"1001241491107",
+    "eurostat:population":6883,
+    "eurostat:population_year":2020,
     "geom:area":0.008531,
-    "geom:area_square_m":67668933.715133,
+    "geom:area_square_m":67668933.715139,
     "geom:bbox":"18.035038262,50.04489206,18.166467477,50.167079184",
     "geom:latitude":50.099143,
     "geom:longitude":18.099362,
@@ -70,7 +82,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -83,6 +96,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241491107",
+        "eurostat:nuts_2021_id":"1001241491107",
         "gn:id":3089057,
         "gp:id":12618500,
         "qs_pg:id":24225
@@ -95,7 +110,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"865b57f187b322105ad74d18d58d69f7",
+    "wof:geomhash":"d61a7305ce37d50945aa2a2d7b97f41d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,12 +121,12 @@
         }
     ],
     "wof:id":1125289267,
-    "wof:lastmodified":1582357786,
+    "wof:lastmodified":1684354171,
     "wof:name":"Pietrowice Wielkie",
     "wof:parent_id":102079477,
     "wof:placetype":"localadmin",
-    "wof:population":2239,
-    "wof:population_rank":4,
+    "wof:population":6883,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

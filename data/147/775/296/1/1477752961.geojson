@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241451302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miasteczko \u015al\u0105skie",
+    "eurostat:nuts_2021_id":"1001241451302",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL228",
+    "eurostat:nuts_2021_level_lau":"1001241451302",
+    "eurostat:population":7442,
+    "eurostat:population_year":2020,
     "geom:area":0.008609,
-    "geom:area_square_m":67708996.478702,
+    "geom:area_square_m":67708996.478696,
     "geom:bbox":"18.838916396,50.451229222,19.053843139,50.537793339",
     "geom:latitude":50.504262,
     "geom:longitude":18.95106,
@@ -83,6 +95,8 @@
     "reversegeo:longitude":18.940449,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -90,11 +104,15 @@
         102079581
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241451302",
+        "eurostat:nuts_2021_id":"1001241451302"
+    },
     "wof:coterminous":[
         101823581
     ],
     "wof:country":"PL",
-    "wof:geomhash":"28232c6a8b3eb5866f8a7a779830b17b",
+    "wof:geomhash":"8e965e172348acc82778963b9dc9029f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +123,12 @@
         }
     ],
     "wof:id":1477752961,
-    "wof:lastmodified":1570003668,
+    "wof:lastmodified":1684354439,
     "wof:name":"Miasteczko \u015al\u0105skie",
     "wof:parent_id":102079581,
     "wof:placetype":"localadmin",
+    "wof:population":7442,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

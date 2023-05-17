@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czeremcha",
+    "eurostat:nuts_2021_id":"1006201380503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380503",
+    "eurostat:population":3115,
+    "eurostat:population_year":2020,
     "geom:area":0.012814,
-    "geom:area_square_m":96450148.506436,
+    "geom:area_square_m":96450148.506428,
     "geom:bbox":"23.256855974,52.426690011,23.495583845,52.565813763",
     "geom:latitude":52.504373,
     "geom:longitude":23.347161,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":23.348939,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080091
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380503",
+        "eurostat:nuts_2021_id":"1006201380503"
+    },
     "wof:coterminous":[
         1477863467
     ],
     "wof:country":"PL",
-    "wof:geomhash":"cb4b588006da0504b8dbeaa8b3fd9d4d",
+    "wof:geomhash":"0bce495186a68380191e9af683fe5f89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125304355,
-    "wof:lastmodified":1569995074,
+    "wof:lastmodified":1684354200,
     "wof:name":"Czeremcha",
     "wof:parent_id":102080091,
     "wof:placetype":"localadmin",
+    "wof:population":3115,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Milejczyce",
+    "eurostat:nuts_2021_id":"1006201381006",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381006",
+    "eurostat:population":1710,
+    "eurostat:population_year":2020,
     "geom:area":0.020055,
-    "geom:area_square_m":150868344.238465,
+    "geom:area_square_m":150868344.238445,
     "geom:bbox":"23.002030079,52.47348477,23.314991518,52.592780989",
     "geom:latitude":52.528019,
     "geom:longitude":23.139231,
@@ -50,6 +62,8 @@
     "reversegeo:longitude":23.141549,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -57,11 +71,15 @@
         102080037
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381006",
+        "eurostat:nuts_2021_id":"1006201381006"
+    },
     "wof:coterminous":[
         1125832827
     ],
     "wof:country":"PL",
-    "wof:geomhash":"99eb232c0756417cf04a358e49ee5377",
+    "wof:geomhash":"f670c73e0a5cec7ab5c325c08ffd7def",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +90,12 @@
         }
     ],
     "wof:id":1477751447,
-    "wof:lastmodified":1570001651,
+    "wof:lastmodified":1684354358,
     "wof:name":"Milejczyce",
     "wof:parent_id":102080037,
     "wof:placetype":"localadmin",
+    "wof:population":1710,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

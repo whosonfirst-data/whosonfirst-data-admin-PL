@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061102002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grabowiec",
+    "eurostat:nuts_2021_id":"1006061102002",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061102002",
+    "eurostat:population":3949,
+    "eurostat:population_year":2020,
     "geom:area":0.016392,
-    "geom:area_square_m":128017214.357754,
+    "geom:area_square_m":128017214.357774,
     "geom:bbox":"23.43298661,50.773328894,23.658482284,50.898597697",
     "geom:latitude":50.831623,
     "geom:longitude":23.546039,
@@ -72,7 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -85,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061102002",
+        "eurostat:nuts_2021_id":"1006061102002",
         "gn:id":771590,
         "gp:id":12617389,
         "qs_pg:id":342017
@@ -97,7 +112,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8421236761880f143b906f5204c64e64",
+    "wof:geomhash":"cbb116adc485eff89bec51aadddd46bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,12 +123,12 @@
         }
     ],
     "wof:id":1125372485,
-    "wof:lastmodified":1582357856,
+    "wof:lastmodified":1684354286,
     "wof:name":"Grabowiec",
     "wof:parent_id":102079715,
     "wof:placetype":"localadmin",
-    "wof:population":922,
-    "wof:population_rank":2,
+    "wof:population":3949,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

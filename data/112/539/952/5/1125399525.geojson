@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061121203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Karczmiska",
+    "eurostat:nuts_2021_id":"1006061121203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061121203",
+    "eurostat:population":5570,
+    "eurostat:population_year":2020,
     "geom:area":0.012241,
-    "geom:area_square_m":94754540.136343,
+    "geom:area_square_m":94754540.136318,
     "geom:bbox":"21.899060262,51.188404501,22.097560359,51.300821204",
     "geom:latitude":51.241809,
     "geom:longitude":22.002636,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":22.002601,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079761
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061121203",
+        "eurostat:nuts_2021_id":"1006061121203"
+    },
     "wof:coterminous":[
         1477864681
     ],
     "wof:country":"PL",
-    "wof:geomhash":"4241099524266f1a9892d1942adb3abf",
+    "wof:geomhash":"50c76265f7ed0c9f55e25894b6cda4be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125399525,
-    "wof:lastmodified":1569995271,
+    "wof:lastmodified":1684354322,
     "wof:name":"Karczmiska",
     "wof:parent_id":102079761,
     "wof:placetype":"localadmin",
+    "wof:population":5570,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

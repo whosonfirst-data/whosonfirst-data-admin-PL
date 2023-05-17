@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szamotu\u0142y",
+    "eurostat:nuts_2021_id":"1002301612407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612407",
+    "eurostat:population":30251,
+    "eurostat:population_year":2020,
     "geom:area":0.023268,
-    "geom:area_square_m":174824450.632396,
+    "geom:area_square_m":174824450.632409,
     "geom:bbox":"16.363078335,52.518010995,16.740772418,52.667219309",
     "geom:latitude":52.582241,
     "geom:longitude":16.564509,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":16.583022,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079963
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612407",
+        "eurostat:nuts_2021_id":"1002301612407"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"532fc116a2e41be5334b1ec6dddc17c8",
+    "wof:geomhash":"3ca7fdd15f4362fb8becbfa9a7325080",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752313,
-    "wof:lastmodified":1570003379,
+    "wof:lastmodified":1684354403,
     "wof:name":"Gmina Szamotu\u0142y",
     "wof:parent_id":102079963,
     "wof:placetype":"localadmin",
+    "wof:population":30251,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

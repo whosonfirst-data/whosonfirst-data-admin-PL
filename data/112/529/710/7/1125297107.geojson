@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201370209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Supra\u015bl",
+    "eurostat:nuts_2021_id":"1006201370209",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201370209",
+    "eurostat:population":15676,
+    "eurostat:population_year":2020,
     "geom:area":0.025348,
-    "geom:area_square_m":187789266.335216,
+    "geom:area_square_m":187789266.335253,
     "geom:bbox":"23.220240096,53.097463488,23.512563214,53.278717048",
     "geom:latitude":53.191143,
     "geom:longitude":23.347378,
@@ -150,7 +162,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -163,6 +176,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201370209",
+        "eurostat:nuts_2021_id":"1006201370209",
         "gn:id":757758,
         "gp:id":24548175,
         "qs_pg:id":192565
@@ -172,7 +187,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"055870912a5c86e1f06f53fb4462b4ff",
+    "wof:geomhash":"e6bfb2ee5dd706553def13ec827ebcb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,12 +198,12 @@
         }
     ],
     "wof:id":1125297107,
-    "wof:lastmodified":1582357828,
+    "wof:lastmodified":1684354189,
     "wof:name":"Gmina Supra\u015bl",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",
-    "wof:population":4526,
-    "wof:population_rank":4,
+    "wof:population":15676,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

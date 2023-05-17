@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brodnica",
+    "eurostat:nuts_2021_id":"1002301612601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612601",
+    "eurostat:population":4892,
+    "eurostat:population_year":2020,
     "geom:area":0.01258,
-    "geom:area_square_m":95447549.270348,
+    "geom:area_square_m":95447549.270334,
     "geom:bbox":"16.790245668,52.09780414,16.993530565,52.19800594",
     "geom:latitude":52.15052,
     "geom:longitude":16.892143,
@@ -122,6 +134,8 @@
     "reversegeo:longitude":16.894111,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -129,11 +143,15 @@
         102079865
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612601",
+        "eurostat:nuts_2021_id":"1002301612601"
+    },
     "wof:coterminous":[
         1310231555
     ],
     "wof:country":"PL",
-    "wof:geomhash":"9344225697a8847cd6cc48e5a24da7c0",
+    "wof:geomhash":"661acd7150b6eb54b24138ebae46d0f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +162,12 @@
         }
     ],
     "wof:id":1477751755,
-    "wof:lastmodified":1570001840,
+    "wof:lastmodified":1684354374,
     "wof:name":"Brodnica",
     "wof:parent_id":102079865,
     "wof:placetype":"localadmin",
+    "wof:population":4892,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

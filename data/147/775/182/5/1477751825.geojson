@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021021603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gr\u0119bocice",
+    "eurostat:nuts_2021_id":"1003021021603",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021021603",
+    "eurostat:population":5402,
+    "eurostat:population_year":2020,
     "geom:area":0.015779,
-    "geom:area_square_m":121248100.760608,
+    "geom:area_square_m":121248100.760623,
     "geom:bbox":"16.081800714,51.522036842,16.32771831,51.634333406",
     "geom:latitude":51.580387,
     "geom:longitude":16.201624,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":16.2137,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079741
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021021603",
+        "eurostat:nuts_2021_id":"1003021021603"
+    },
     "wof:coterminous":[
         101821325
     ],
     "wof:country":"PL",
-    "wof:geomhash":"0c116207a6f5dd25abc7a48efbcb1850",
+    "wof:geomhash":"a9ef45f8a73c7a45dbcaec08b656a9ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751825,
-    "wof:lastmodified":1570004694,
+    "wof:lastmodified":1684354377,
     "wof:name":"Gr\u0119bocice",
     "wof:parent_id":102079741,
     "wof:placetype":"localadmin",
+    "wof:population":5402,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301581003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kazimierz Biskupi",
+    "eurostat:nuts_2021_id":"1002301581003",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301581003",
+    "eurostat:population":11487,
+    "eurostat:population_year":2020,
     "geom:area":0.014183,
     "geom:area_square_m":107223031.235903,
     "geom:bbox":"18.021197413,52.24661039,18.252546921,52.365510705",
@@ -41,6 +53,8 @@
     "reversegeo:longitude":18.149689,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079943
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301581003",
+        "eurostat:nuts_2021_id":"1002301581003"
+    },
     "wof:coterminous":[
         1259906541
     ],
     "wof:country":"PL",
-    "wof:geomhash":"997a659cc6ca22edf883a1ef0bbaddd1",
+    "wof:geomhash":"b88073846e93444feed0beccd3af3b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751253,
-    "wof:lastmodified":1570004552,
+    "wof:lastmodified":1684354348,
     "wof:name":"Kazimierz Biskupi",
     "wof:parent_id":102079943,
     "wof:placetype":"localadmin",
+    "wof:population":11487,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

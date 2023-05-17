@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081140801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lubrza",
+    "eurostat:nuts_2021_id":"1002081140801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081140801",
+    "eurostat:population":3567,
+    "eurostat:population_year":2020,
     "geom:area":0.016097,
-    "geom:area_square_m":121742480.304967,
+    "geom:area_square_m":121742480.304969,
     "geom:bbox":"15.30474365,52.213623669,15.501888845,52.375885082",
     "geom:latitude":52.292508,
     "geom:longitude":15.40634,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":15.407813,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079887
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002081140801",
+        "eurostat:nuts_2021_id":"1002081140801"
+    },
     "wof:coterminous":[
         1126027671
     ],
     "wof:country":"PL",
-    "wof:geomhash":"8d3ce045cce83d990d2641fa85065195",
+    "wof:geomhash":"19aefb4486fa0c2e88b89d770d02e30a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751209,
-    "wof:lastmodified":1570001544,
+    "wof:lastmodified":1684354346,
     "wof:name":"Lubrza",
     "wof:parent_id":102079887,
     "wof:placetype":"localadmin",
+    "wof:population":3567,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krzeszowice",
+    "eurostat:nuts_2021_id":"1001121200606",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200606",
+    "eurostat:population":32129,
+    "eurostat:population_year":2020,
     "geom:area":0.017483,
-    "geom:area_square_m":138558812.363497,
+    "geom:area_square_m":138558812.363533,
     "geom:bbox":"19.520387717,50.061769388,19.716678598,50.201964546",
     "geom:latitude":50.136849,
     "geom:longitude":19.61732,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200606",
+        "eurostat:nuts_2021_id":"1001121200606",
         "gp:id":24548795,
         "qs_pg:id":221756
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"09f1f3b5676c44b1094dd58a82e01e85",
+    "wof:geomhash":"cc8752ae6e6ae641acfd02af56d3272c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125324029,
-    "wof:lastmodified":1582357744,
+    "wof:lastmodified":1684354224,
     "wof:name":"Gmina Krzeszowice",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",
+    "wof:population":32129,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

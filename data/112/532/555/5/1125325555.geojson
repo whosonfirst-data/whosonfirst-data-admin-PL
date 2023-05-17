@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321661104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Police",
+    "eurostat:nuts_2021_id":"1002321661104",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321661104",
+    "eurostat:population":41288,
+    "eurostat:population_year":2020,
     "geom:area":0.034118,
-    "geom:area_square_m":250460459.397426,
+    "geom:area_square_m":250460459.397421,
     "geom:bbox":"14.294588,53.490671,14.635972,53.711763",
     "geom:latitude":53.581158,
     "geom:longitude":14.478461,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -94,11 +108,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080119,
-        85687271
+        85687271,
+        102080119
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321661104",
+        "eurostat:nuts_2021_id":"1002321661104",
         "gp:id":24547898,
         "qs_pg:id":1263373
     },
@@ -110,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fc9bfc780678b7e6ed09a55a27fd1f34",
+    "wof:geomhash":"2fcffcb355492e27803e008af5a61a73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":1125325555,
-    "wof:lastmodified":1607726752,
+    "wof:lastmodified":1684354233,
     "wof:name":"Gmina Police",
     "wof:parent_id":102080119,
     "wof:placetype":"localadmin",
+    "wof:population":41288,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

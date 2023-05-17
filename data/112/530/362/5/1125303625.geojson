@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141291704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Karczew",
+    "eurostat:nuts_2021_id":"1007141291704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL912",
+    "eurostat:nuts_2021_level_lau":"1007141291704",
+    "eurostat:population":15899,
+    "eurostat:population_year":2020,
     "geom:area":0.010676,
-    "geom:area_square_m":81195000.59442,
+    "geom:area_square_m":81195000.594429,
     "geom:bbox":"21.204980187,51.976265119,21.353217954,52.092842126",
     "geom:latitude":52.042076,
     "geom:longitude":21.27293,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141291704",
+        "eurostat:nuts_2021_id":"1007141291704",
         "gp:id":24548159,
         "qs_pg:id":483128
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6469028d7e4563df08d365b6dc5e2e44",
+    "wof:geomhash":"6d75d566e3a53d9eed35c1da2180011d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125303625,
-    "wof:lastmodified":1582357868,
+    "wof:lastmodified":1684354196,
     "wof:name":"Gmina Karczew",
     "wof:parent_id":102079931,
     "wof:placetype":"localadmin",
+    "wof:population":15899,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

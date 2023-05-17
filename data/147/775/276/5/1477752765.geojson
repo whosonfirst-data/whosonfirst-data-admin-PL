@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Iwanowice",
+    "eurostat:nuts_2021_id":"1001121200603",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200603",
+    "eurostat:population":9164,
+    "eurostat:population_year":2020,
     "geom:area":0.008956,
-    "geom:area_square_m":70841178.149245,
+    "geom:area_square_m":70841178.149254,
     "geom:bbox":"19.913954066,50.172985212,20.033874194,50.283496581",
     "geom:latitude":50.229193,
     "geom:longitude":19.972066,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":19.972972,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079541
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200603",
+        "eurostat:nuts_2021_id":"1001121200603"
+    },
     "wof:coterminous":[
         1125979301
     ],
     "wof:country":"PL",
-    "wof:geomhash":"8f0a4def11ccfd2fe3de82d45d9c25c2",
+    "wof:geomhash":"1f38cf5b76aaf9191b1b137ccdff3969",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477752765,
-    "wof:lastmodified":1570003146,
+    "wof:lastmodified":1684354427,
     "wof:name":"Iwanowice",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",
+    "wof:population":9164,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

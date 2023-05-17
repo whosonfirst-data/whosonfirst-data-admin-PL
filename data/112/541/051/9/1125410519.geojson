@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barczewo",
+    "eurostat:nuts_2021_id":"1004281561401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561401",
+    "eurostat:population":18019,
+    "eurostat:population_year":2020,
     "geom:area":0.043686,
-    "geom:area_square_m":318753400.448915,
+    "geom:area_square_m":318753400.44894,
     "geom:bbox":"20.525815,53.750125,20.898522,53.939659",
     "geom:latitude":53.83715,
     "geom:longitude":20.715075,
@@ -150,7 +162,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -158,11 +171,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080207,
-        85687305
+        85687305,
+        102080207
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561401",
+        "eurostat:nuts_2021_id":"1004281561401",
         "gn:id":776384,
         "gp:id":24547585,
         "qs_pg:id":59428
@@ -175,7 +190,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a8621a3c0621974161a1b2b3787e7970",
+    "wof:geomhash":"6ef3fc192ab8450a555279ab5896eb92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,12 +201,12 @@
         }
     ],
     "wof:id":1125410519,
-    "wof:lastmodified":1607726119,
+    "wof:lastmodified":1684354331,
     "wof:name":"Gmina Barczewo",
     "wof:parent_id":102080207,
     "wof:placetype":"localadmin",
-    "wof:population":7315,
-    "wof:population_rank":5,
+    "wof:population":18019,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

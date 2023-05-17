@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pi\u0105tnica",
+    "eurostat:nuts_2021_id":"1006201380705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380705",
+    "eurostat:population":10702,
+    "eurostat:population_year":2020,
     "geom:area":0.029463,
-    "geom:area_square_m":218165042.964546,
+    "geom:area_square_m":218165042.964596,
     "geom:bbox":"21.999442458,53.119919716,22.301084171,53.311574479",
     "geom:latitude":53.213779,
     "geom:longitude":22.170699,
@@ -75,6 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -87,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380705",
+        "eurostat:nuts_2021_id":"1006201380705",
         "gp:id":12618249,
         "qs_pg:id":43721
     },
@@ -98,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"296e4181e50aa562565cb6ea2a4f2b58",
+    "wof:geomhash":"8ebd476276da5ed6c83757a2fdcb91de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":1125326855,
-    "wof:lastmodified":1582357738,
+    "wof:lastmodified":1684354235,
     "wof:name":"Pi\u0105tnica",
     "wof:parent_id":102080143,
     "wof:placetype":"localadmin",
+    "wof:population":10702,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

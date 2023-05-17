@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041080106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Koneck",
+    "eurostat:nuts_2021_id":"1004041080106",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041080106",
+    "eurostat:population":3125,
+    "eurostat:population_year":2020,
     "geom:area":0.009038,
-    "geom:area_square_m":67585881.254746,
+    "geom:area_square_m":67585881.254725,
     "geom:bbox":"18.613469373,52.739511275,18.804580264,52.836468304",
     "geom:latitude":52.790078,
     "geom:longitude":18.722863,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":18.746692,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102080009
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041080106",
+        "eurostat:nuts_2021_id":"1004041080106"
+    },
     "wof:coterminous":[
         1125797365
     ],
     "wof:country":"PL",
-    "wof:geomhash":"22241aed6ae2e78e39b343dbc5e17ea5",
+    "wof:geomhash":"fe504eb63248b77308f84e2938ab8de6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751303,
-    "wof:lastmodified":1570002593,
+    "wof:lastmodified":1684354351,
     "wof:name":"Koneck",
     "wof:parent_id":102080009,
     "wof:placetype":"localadmin",
+    "wof:population":3125,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

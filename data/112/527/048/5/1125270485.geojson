@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301572002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czermin",
+    "eurostat:nuts_2021_id":"1002301572002",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301572002",
+    "eurostat:population":4947,
+    "eurostat:population_year":2020,
     "geom:area":0.012831,
     "geom:area_square_m":97723035.391023,
     "geom:bbox":"17.691452264,51.921176515,17.871912356,52.045754347",
@@ -82,7 +94,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -95,6 +108,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301572002",
+        "eurostat:nuts_2021_id":"1002301572002",
         "gn:id":3101038,
         "gp:id":12618121,
         "qs_pg:id":904703
@@ -107,7 +122,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"157b8d4edae7f6363e747a8aae267873",
+    "wof:geomhash":"23ad31a080dde705ee36a39103031080",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,12 +133,12 @@
         }
     ],
     "wof:id":1125270485,
-    "wof:lastmodified":1582357793,
+    "wof:lastmodified":1684354140,
     "wof:name":"Czermin",
     "wof:parent_id":102079847,
     "wof:placetype":"localadmin",
-    "wof:population":789,
-    "wof:population_rank":2,
+    "wof:population":4947,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201370206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0141apy",
+    "eurostat:nuts_2021_id":"1006201370206",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201370206",
+    "eurostat:population":21848,
+    "eurostat:population_year":2020,
     "geom:area":0.017087,
     "geom:area_square_m":127141320.771926,
     "geom:bbox":"22.76119948,52.923214814,22.962577295,53.078133887",
@@ -164,7 +176,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -177,6 +190,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201370206",
+        "eurostat:nuts_2021_id":"1006201370206",
         "gn:id":766783,
         "gp:id":24548139,
         "qs_pg:id":886143
@@ -186,7 +201,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a8b8985fcd9e377d4ddc1bea95ef29b3",
+    "wof:geomhash":"b9b95b2b9dd3a7375b3af290d67fd0c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,12 +212,12 @@
         }
     ],
     "wof:id":1125372463,
-    "wof:lastmodified":1582357857,
+    "wof:lastmodified":1684354286,
     "wof:name":"Gmina \u0141apy",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",
-    "wof:population":16434,
-    "wof:population_rank":6,
+    "wof:population":21848,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

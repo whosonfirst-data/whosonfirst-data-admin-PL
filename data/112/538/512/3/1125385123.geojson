@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221400401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pruszcz Gda\u0144ski",
+    "eurostat:nuts_2021_id":"1004221400401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221400401",
+    "eurostat:population":31326,
+    "eurostat:population_year":2020,
     "geom:area":0.002269,
-    "geom:area_square_m":16392046.412601,
+    "geom:area_square_m":16392046.412606,
     "geom:bbox":"18.610196086,54.235771621,18.680402152,54.279785991",
     "geom:latitude":54.257118,
     "geom:longitude":18.647199,
@@ -155,6 +167,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -167,6 +181,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221400401",
+        "eurostat:nuts_2021_id":"1004221400401",
         "gn:id":7531785,
         "gp:id":24547685,
         "qs_pg:id":1015440
@@ -179,7 +195,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b66a4d9f55a18a0c773547e6d2e6d446",
+    "wof:geomhash":"71a6f2af14f6c18c8d13f092b17a3bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -190,10 +206,12 @@
         }
     ],
     "wof:id":1125385123,
-    "wof:lastmodified":1582357942,
+    "wof:lastmodified":1684354302,
     "wof:name":"Gmina Pruszcz Gda\u0144ski",
     "wof:parent_id":102080213,
     "wof:placetype":"localadmin",
+    "wof:population":31326,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

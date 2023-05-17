@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141293412",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wo\u0142omin",
+    "eurostat:nuts_2021_id":"1007141293412",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL912",
+    "eurostat:nuts_2021_level_lau":"1007141293412",
+    "eurostat:population":51884,
+    "eurostat:population_year":2020,
     "geom:area":0.008132,
-    "geom:area_square_m":61424981.669762,
+    "geom:area_square_m":61424981.669757,
     "geom:bbox":"21.188351826,52.30585037,21.347237761,52.392928517",
     "geom:latitude":52.347923,
     "geom:longitude":21.266745,
@@ -153,6 +165,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -165,6 +179,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141293412",
+        "eurostat:nuts_2021_id":"1007141293412",
         "gp:id":24548256,
         "qs_pg:id":1184502
     },
@@ -173,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2eaff7fe85407e2a9afac756382764e2",
+    "wof:geomhash":"a8071e8df1aba24dcf2eefbc63ec7a9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,10 +200,12 @@
         }
     ],
     "wof:id":1125370879,
-    "wof:lastmodified":1582357857,
+    "wof:lastmodified":1684354280,
     "wof:name":"Gmina Wo\u0142omin",
     "wof:parent_id":102079995,
     "wof:placetype":"localadmin",
+    "wof:population":51884,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

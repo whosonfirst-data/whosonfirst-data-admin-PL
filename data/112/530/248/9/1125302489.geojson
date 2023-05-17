@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301600208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wiele\u0144",
+    "eurostat:nuts_2021_id":"1002301600208",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301600208",
+    "eurostat:population":12304,
+    "eurostat:population_year":2020,
     "geom:area":0.057411,
-    "geom:area_square_m":428310163.005845,
+    "geom:area_square_m":428310163.00581,
     "geom:bbox":"16.07587601,52.749685564,16.410542877,53.049158449",
     "geom:latitude":52.890486,
     "geom:longitude":16.236469,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301600208",
+        "eurostat:nuts_2021_id":"1002301600208",
         "gn:id":3082319,
         "gp:id":24547592,
         "qs_pg:id":547483
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c038c651d6324324ac6991b4942abb4b",
+    "wof:geomhash":"f3d368ad26016f8dd9e3952b76fa853b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125302489,
-    "wof:lastmodified":1582357889,
+    "wof:lastmodified":1684354194,
     "wof:name":"Gmina Wiele\u0144",
     "wof:parent_id":102080029,
     "wof:placetype":"localadmin",
-    "wof:population":6067,
-    "wof:population_rank":5,
+    "wof:population":12304,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061091507",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ulan-Majorat",
+    "eurostat:nuts_2021_id":"1006061091507",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061091507",
+    "eurostat:population":6000,
+    "eurostat:population_year":2020,
     "geom:area":0.014052,
-    "geom:area_square_m":107370912.022777,
+    "geom:area_square_m":107370912.022809,
     "geom:bbox":"22.352517059,51.78810678,22.578705594,51.890208338",
     "geom:latitude":51.834361,
     "geom:longitude":22.471846,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":22.496544,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079905
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061091507",
+        "eurostat:nuts_2021_id":"1006061091507"
+    },
     "wof:coterminous":[
         1125967981
     ],
     "wof:country":"PL",
-    "wof:geomhash":"1b869b35f3051e8bc9ac7435095e9543",
+    "wof:geomhash":"4dfe8a225083e39d1d55f3b9b04c972b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751327,
-    "wof:lastmodified":1569998985,
+    "wof:lastmodified":1684354352,
     "wof:name":"Ulan-Majorat",
     "wof:parent_id":102079905,
     "wof:placetype":"localadmin",
+    "wof:population":6000,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

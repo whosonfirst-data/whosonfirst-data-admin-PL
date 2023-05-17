@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142272510",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Skaryszew",
+    "eurostat:nuts_2021_id":"1007142272510",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142272510",
+    "eurostat:population":14782,
+    "eurostat:population_year":2020,
     "geom:area":0.022069,
-    "geom:area_square_m":170632259.480412,
+    "geom:area_square_m":170632259.4804,
     "geom:bbox":"21.124826117,51.229239034,21.367237487,51.38632927",
     "geom:latitude":51.296586,
     "geom:longitude":21.254381,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142272510",
+        "eurostat:nuts_2021_id":"1007142272510",
         "gn:id":759151,
         "gp:id":24548313,
         "qs_pg:id":341551
@@ -159,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1368c64439633cc6abf824a5e623cc3b",
+    "wof:geomhash":"8aca4318c8bc693680a4dcf940b1a99d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,12 +185,12 @@
         }
     ],
     "wof:id":1125278561,
-    "wof:lastmodified":1582357796,
+    "wof:lastmodified":1684354146,
     "wof:name":"Gmina Skaryszew",
     "wof:parent_id":102079805,
     "wof:placetype":"localadmin",
-    "wof:population":4135,
-    "wof:population_rank":4,
+    "wof:population":14782,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

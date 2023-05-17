@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rajgr\u00f3d",
+    "eurostat:nuts_2021_id":"1006201390404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390404",
+    "eurostat:population":5176,
+    "eurostat:population_year":2020,
     "geom:area":0.028166,
-    "geom:area_square_m":206293208.72869,
+    "geom:area_square_m":206293208.728684,
     "geom:bbox":"22.472509709,53.597062556,22.84426755,53.761588786",
     "geom:latitude":53.678376,
     "geom:longitude":22.651988,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":22.649189,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080181
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390404",
+        "eurostat:nuts_2021_id":"1006201390404"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"0dc285c1cd55ab7569519905b3f0514e",
+    "wof:geomhash":"8ae75b91a3e0f85ef26a977daabe81d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752131,
-    "wof:lastmodified":1570003341,
+    "wof:lastmodified":1684354394,
     "wof:name":"Gmina Rajgr\u00f3d",
     "wof:parent_id":102080181,
     "wof:placetype":"localadmin",
+    "wof:population":5176,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

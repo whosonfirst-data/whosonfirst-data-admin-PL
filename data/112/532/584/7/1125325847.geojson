@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081130505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u0142ubice",
+    "eurostat:nuts_2021_id":"1002081130505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL431",
+    "eurostat:nuts_2021_level_lau":"1002081130505",
+    "eurostat:population":20071,
+    "eurostat:population_year":2020,
     "geom:area":0.024481,
-    "geom:area_square_m":184867840.040263,
+    "geom:area_square_m":184867840.040251,
     "geom:bbox":"14.53420697,52.255745006,14.74137412,52.464590388",
     "geom:latitude":52.36026,
     "geom:longitude":14.628979,
@@ -57,6 +69,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -69,6 +83,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081130505",
+        "eurostat:nuts_2021_id":"1002081130505",
         "gp:id":24547457,
         "qs_pg:id":501879
     },
@@ -77,7 +93,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"093c40a28cf576898e0b987297d5e6db",
+    "wof:geomhash":"4d611c6c93924dd57aadd110a0396f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,10 +104,12 @@
         }
     ],
     "wof:id":1125325847,
-    "wof:lastmodified":1582357749,
+    "wof:lastmodified":1684354234,
     "wof:name":"Gmina S\u0142ubice",
     "wof:parent_id":102079913,
     "wof:placetype":"localadmin",
+    "wof:population":20071,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

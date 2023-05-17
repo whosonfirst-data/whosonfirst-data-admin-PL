@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Padew Narodowa",
+    "eurostat:nuts_2021_id":"1006181361106",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361106",
+    "eurostat:population":5381,
+    "eurostat:population_year":2020,
     "geom:area":0.009016,
-    "geom:area_square_m":71009149.5056,
+    "geom:area_square_m":71009149.505587,
     "geom:bbox":"21.399957725,50.376634531,21.5963665,50.496452579",
     "geom:latitude":50.438229,
     "geom:longitude":21.49536,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":21.480553,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361106",
+        "eurostat:nuts_2021_id":"1006181361106"
+    },
     "wof:coterminous":[
         101823679
     ],
     "wof:country":"PL",
-    "wof:geomhash":"9e64a773342b8b46a0283bc6654e5962",
+    "wof:geomhash":"50765e37610bf1cc0cbdbb829f595c99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477751653,
-    "wof:lastmodified":1570002143,
+    "wof:lastmodified":1684354368,
     "wof:name":"Padew Narodowa",
     "wof:parent_id":102079597,
     "wof:placetype":"localadmin",
+    "wof:population":5381,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

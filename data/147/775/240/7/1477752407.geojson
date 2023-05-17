@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Opat\u00f3w",
+    "eurostat:nuts_2021_id":"1005261530604",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530604",
+    "eurostat:population":11663,
+    "eurostat:population_year":2020,
     "geom:area":0.014472,
-    "geom:area_square_m":113126156.055429,
+    "geom:area_square_m":113126156.055401,
     "geom:bbox":"21.310201,50.73486,21.519888,50.849263",
     "geom:latitude":50.790421,
     "geom:longitude":21.418944,
@@ -32,18 +44,24 @@
     "reversegeo:longitude":21.410544,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079709,
-        85687287
+        85687287,
+        102079709
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530604",
+        "eurostat:nuts_2021_id":"1005261530604"
+    },
     "wof:coterminous":[
         1477863541
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e7411acfbda406d9dfe9c297de6bf589",
+    "wof:geomhash":"0d2acdab63c3b73f8d91b7753ccd9f92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477752407,
-    "wof:lastmodified":1607726462,
+    "wof:lastmodified":1684354408,
     "wof:name":"Gmina Opat\u00f3w",
     "wof:parent_id":102079709,
     "wof:placetype":"localadmin",
+    "wof:population":11663,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

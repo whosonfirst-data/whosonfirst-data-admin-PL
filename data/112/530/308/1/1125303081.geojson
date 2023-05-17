@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tucz\u0119py",
+    "eurostat:nuts_2021_id":"1005261530107",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530107",
+    "eurostat:population":3740,
+    "eurostat:population_year":2020,
     "geom:area":0.010581,
-    "geom:area_square_m":83180894.105651,
+    "geom:area_square_m":83180894.105663,
     "geom:bbox":"20.895310719,50.47653987,21.11660366,50.566332565",
     "geom:latitude":50.521871,
     "geom:longitude":21.009611,
@@ -65,7 +77,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -78,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530107",
+        "eurostat:nuts_2021_id":"1005261530107",
         "gn:id":756629,
         "gp:id":12618220,
         "qs_pg:id":497894
@@ -90,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9b27e233f33bc303089eeaa534e473c1",
+    "wof:geomhash":"abf895942024d7b5581f0a35a255c01b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,12 +116,12 @@
         }
     ],
     "wof:id":1125303081,
-    "wof:lastmodified":1582357869,
+    "wof:lastmodified":1684354195,
     "wof:name":"Tucz\u0119py",
     "wof:parent_id":102079615,
     "wof:placetype":"localadmin",
-    "wof:population":575,
-    "wof:population_rank":2,
+    "wof:population":3740,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

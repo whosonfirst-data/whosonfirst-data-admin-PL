@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przec\u0142aw",
+    "eurostat:nuts_2021_id":"1006181361107",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361107",
+    "eurostat:population":12003,
+    "eurostat:population_year":2020,
     "geom:area":0.016898,
-    "geom:area_square_m":133739925.929357,
+    "geom:area_square_m":133739925.92937,
     "geom:bbox":"21.355823288,50.159350669,21.611305652,50.271224278",
     "geom:latitude":50.204524,
     "geom:longitude":21.489841,
@@ -113,7 +125,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -126,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361107",
+        "eurostat:nuts_2021_id":"1006181361107",
         "gn:id":761210,
         "gp:id":12617529,
         "qs_pg:id":24022
@@ -135,7 +150,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"759d131ae08468926d78b87d6c0b44bf",
+    "wof:geomhash":"325a801fa0b94da5ed7ffbb858fcfd78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,12 +161,12 @@
         }
     ],
     "wof:id":1125324213,
-    "wof:lastmodified":1582357737,
+    "wof:lastmodified":1684354227,
     "wof:name":"Gmina Przec\u0142aw",
     "wof:parent_id":102079597,
     "wof:placetype":"localadmin",
-    "wof:population":1599,
-    "wof:population_rank":3,
+    "wof:population":12003,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

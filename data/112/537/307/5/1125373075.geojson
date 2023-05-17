@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czerniewice",
+    "eurostat:nuts_2021_id":"1005101171604",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171604",
+    "eurostat:population":5048,
+    "eurostat:population_year":2020,
     "geom:area":0.016633,
-    "geom:area_square_m":127594116.661189,
+    "geom:area_square_m":127594116.661181,
     "geom:bbox":"20.068038411,51.579101223,20.287645482,51.724381018",
     "geom:latitude":51.657024,
     "geom:longitude":20.188988,
@@ -86,7 +98,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -99,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171604",
+        "eurostat:nuts_2021_id":"1005101171604",
         "gn:id":773765,
         "gp:id":12616871,
         "qs_pg:id":344474
@@ -111,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a280f00ae343282c70594c3ab32d1728",
+    "wof:geomhash":"8b980dc47d41c3672e45898edb0a5ec3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,12 +137,12 @@
         }
     ],
     "wof:id":1125373075,
-    "wof:lastmodified":1582357836,
+    "wof:lastmodified":1684354287,
     "wof:name":"Czerniewice",
     "wof:parent_id":102079831,
     "wof:placetype":"localadmin",
-    "wof:population":730,
-    "wof:population_rank":2,
+    "wof:population":5048,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

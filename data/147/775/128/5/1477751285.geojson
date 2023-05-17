@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321630805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ryma\u0144",
+    "eurostat:nuts_2021_id":"1002321630805",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321630805",
+    "eurostat:population":3929,
+    "eurostat:population_year":2020,
     "geom:area":0.020004,
-    "geom:area_square_m":145549840.081885,
+    "geom:area_square_m":145549840.081864,
     "geom:bbox":"15.417936881,53.873037043,15.645120592,54.033763484",
     "geom:latitude":53.953943,
     "geom:longitude":15.514668,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":15.51645,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102080177
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321630805",
+        "eurostat:nuts_2021_id":"1002321630805"
+    },
     "wof:coterminous":[
         1126006439
     ],
     "wof:country":"PL",
-    "wof:geomhash":"c6b28766957c87d4446fd28271cd6400",
+    "wof:geomhash":"6506a99cff83f18c9eb1ed8312a09414",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477751285,
-    "wof:lastmodified":1570001954,
+    "wof:lastmodified":1684354350,
     "wof:name":"Ryma\u0144",
     "wof:parent_id":102080177,
     "wof:placetype":"localadmin",
+    "wof:population":3929,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

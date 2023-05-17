@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221400502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kartuzy",
+    "eurostat:nuts_2021_id":"1004221400502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221400502",
+    "eurostat:population":34013,
+    "eurostat:population_year":2020,
     "geom:area":0.028521,
-    "geom:area_square_m":205503931.066657,
+    "geom:area_square_m":205503931.066672,
     "geom:bbox":"17.918943,54.254895,18.315228,54.434455",
     "geom:latitude":54.358036,
     "geom:longitude":18.120609,
@@ -165,6 +177,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -172,11 +186,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080233,
-        85687267
+        85687267,
+        102080233
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221400502",
+        "eurostat:nuts_2021_id":"1004221400502",
         "gp:id":12617049,
         "qs_pg:id":221874
     },
@@ -188,7 +204,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0454641576b3ac403f2ad46f3e37e1d2",
+    "wof:geomhash":"1331c0d68b8158ee624c1d0a9c863bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,10 +215,12 @@
         }
     ],
     "wof:id":1125324051,
-    "wof:lastmodified":1607726682,
+    "wof:lastmodified":1684354225,
     "wof:name":"Gmina Kartuzy",
     "wof:parent_id":102080233,
     "wof:placetype":"localadmin",
+    "wof:population":34013,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

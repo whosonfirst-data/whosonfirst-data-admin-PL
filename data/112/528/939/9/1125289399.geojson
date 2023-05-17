@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161321101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Izbicko",
+    "eurostat:nuts_2021_id":"1003161321101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161321101",
+    "eurostat:population":5412,
+    "eurostat:population_year":2020,
     "geom:area":0.010724,
-    "geom:area_square_m":84227877.1221,
+    "geom:area_square_m":84227877.122093,
     "geom:bbox":"18.075757595,50.492529101,18.243987911,50.649751549",
     "geom:latitude":50.564788,
     "geom:longitude":18.165438,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161321101",
+        "eurostat:nuts_2021_id":"1003161321101",
         "gn:id":3097839,
         "gp:id":12618786,
         "qs_pg:id":24297
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"92f486d0ab472b86bed58f5c1c0c10b9",
+    "wof:geomhash":"fccc2f94d05ce61938f4a254612f4aa8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125289399,
-    "wof:lastmodified":1582357755,
+    "wof:lastmodified":1684354173,
     "wof:name":"Izbicko",
     "wof:parent_id":102079587,
     "wof:placetype":"localadmin",
-    "wof:population":1100,
-    "wof:population_rank":3,
+    "wof:population":5412,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

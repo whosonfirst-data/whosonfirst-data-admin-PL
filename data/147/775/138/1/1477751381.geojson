@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142711002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0141osice",
+    "eurostat:nuts_2021_id":"1007142711002",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142711002",
+    "eurostat:population":10787,
+    "eurostat:population_year":2020,
     "geom:area":0.015951,
-    "geom:area_square_m":120833243.054624,
+    "geom:area_square_m":120833243.054588,
     "geom:bbox":"22.632575942,52.152280205,22.84533224,52.283169672",
     "geom:latitude":52.219463,
     "geom:longitude":22.737513,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":22.748012,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079981
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142711002",
+        "eurostat:nuts_2021_id":"1007142711002"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"e902f13e4b3609ef5d7cae710c289a1f",
+    "wof:geomhash":"defbeea54d46525e42d214f1b176d054",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751381,
-    "wof:lastmodified":1570002265,
+    "wof:lastmodified":1684354355,
     "wof:name":"Gmina \u0141osice",
     "wof:parent_id":102079981,
     "wof:placetype":"localadmin",
+    "wof:population":10787,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

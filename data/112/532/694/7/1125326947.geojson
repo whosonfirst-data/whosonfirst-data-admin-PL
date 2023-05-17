@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021020905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Legnickie Pole",
+    "eurostat:nuts_2021_id":"1003021020905",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021020905",
+    "eurostat:population":5196,
+    "eurostat:population_year":2020,
     "geom:area":0.010968,
-    "geom:area_square_m":85075126.659951,
+    "geom:area_square_m":85075126.659962,
     "geom:bbox":"16.152032828,51.098912842,16.328400993,51.196284094",
     "geom:latitude":51.1492,
     "geom:longitude":16.244567,
@@ -72,6 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021020905",
+        "eurostat:nuts_2021_id":"1003021020905",
         "gp:id":12618834,
         "qs_pg:id":43787
     },
@@ -95,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8b24fd8497319adae9d06c29a8140bb7",
+    "wof:geomhash":"8e9b9b37e86d8c47e3024630aa0e1f4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":1125326947,
-    "wof:lastmodified":1582357732,
+    "wof:lastmodified":1684354236,
     "wof:name":"Legnickie Pole",
     "wof:parent_id":102079691,
     "wof:placetype":"localadmin",
+    "wof:population":5196,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

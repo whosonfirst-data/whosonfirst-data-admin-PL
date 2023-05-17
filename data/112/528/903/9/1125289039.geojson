@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301580910",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osiek Ma\u0142y",
+    "eurostat:nuts_2021_id":"1002301580910",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301580910",
+    "eurostat:population":6155,
+    "eurostat:population_year":2020,
     "geom:area":0.011497,
-    "geom:area_square_m":86983471.058398,
+    "geom:area_square_m":86983471.058419,
     "geom:bbox":"18.479471907,52.223220905,18.654462467,52.340485495",
     "geom:latitude":52.275748,
     "geom:longitude":18.578533,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":18.572595,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079927
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301580910",
+        "eurostat:nuts_2021_id":"1002301580910"
+    },
     "wof:coterminous":[
         1477864319
     ],
     "wof:country":"PL",
-    "wof:geomhash":"13438e0066768d4f2ff6f80321668774",
+    "wof:geomhash":"405536ec792468e52773b29cf9fa60d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125289039,
-    "wof:lastmodified":1569990578,
+    "wof:lastmodified":1684354168,
     "wof:name":"Osiek Ma\u0142y",
     "wof:parent_id":102079927,
     "wof:placetype":"localadmin",
+    "wof:population":6155,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

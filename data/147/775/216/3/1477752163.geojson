@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121231805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mucharz",
+    "eurostat:nuts_2021_id":"1001121231805",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL21A",
+    "eurostat:nuts_2021_level_lau":"1001121231805",
+    "eurostat:population":4122,
+    "eurostat:population_year":2020,
     "geom:area":0.004656,
     "geom:area_square_m":37152276.04188,
     "geom:bbox":"19.461040689,49.786186157,19.594143983,49.848640448",
@@ -35,6 +47,8 @@
     "reversegeo:longitude":19.509643,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079451
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121231805",
+        "eurostat:nuts_2021_id":"1001121231805"
+    },
     "wof:coterminous":[
         1126010397
     ],
     "wof:country":"PL",
-    "wof:geomhash":"3eb88f6577635dbe7188f92ee499f4b2",
+    "wof:geomhash":"362bc0ed40b78834c9999d7bf8d06f9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752163,
-    "wof:lastmodified":1569999599,
+    "wof:lastmodified":1684354396,
     "wof:name":"Mucharz",
     "wof:parent_id":102079451,
     "wof:placetype":"localadmin",
+    "wof:population":4122,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

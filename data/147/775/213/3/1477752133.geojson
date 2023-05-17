@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041070406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stolno",
+    "eurostat:nuts_2021_id":"1004041070406",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL616",
+    "eurostat:nuts_2021_level_lau":"1004041070406",
+    "eurostat:population":5309,
+    "eurostat:population_year":2020,
     "geom:area":0.013291,
-    "geom:area_square_m":98123609.988264,
+    "geom:area_square_m":98123609.988265,
     "geom:bbox":"18.45042748,53.281346593,18.72813674,53.397861612",
     "geom:latitude":53.339728,
     "geom:longitude":18.572825,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":18.512814,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080093
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041070406",
+        "eurostat:nuts_2021_id":"1004041070406"
+    },
     "wof:coterminous":[
         1126017803
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e63ec0550d5b0928dcf4d98bb480967c",
+    "wof:geomhash":"1f8b02b9c26057e8e1ab6ecd4d5c76cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477752133,
-    "wof:lastmodified":1570003350,
+    "wof:lastmodified":1684354394,
     "wof:name":"Stolno",
     "wof:parent_id":102080093,
     "wof:placetype":"localadmin",
+    "wof:population":5309,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

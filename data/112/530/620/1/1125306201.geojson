@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sypniewo",
+    "eurostat:nuts_2021_id":"1007142261109",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261109",
+    "eurostat:population":3248,
+    "eurostat:population_year":2020,
     "geom:area":0.01719,
-    "geom:area_square_m":127929115.539659,
+    "geom:area_square_m":127929115.539643,
     "geom:bbox":"21.166714155,52.924441379,21.41974495,53.06684995",
     "geom:latitude":52.996021,
     "geom:longitude":21.283188,
@@ -68,7 +80,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -81,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261109",
+        "eurostat:nuts_2021_id":"1007142261109",
         "gn:id":757531,
         "gp:id":12617556,
         "qs_pg:id":1192029
@@ -93,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"15810719f2722f7451f2038f3c741c6f",
+    "wof:geomhash":"84acf102dc6f2a90a15db3b96fc91428",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,12 +119,12 @@
         }
     ],
     "wof:id":1125306201,
-    "wof:lastmodified":1582357878,
+    "wof:lastmodified":1684354208,
     "wof:name":"Sypniewo",
     "wof:parent_id":102080077,
     "wof:placetype":"localadmin",
-    "wof:population":480,
-    "wof:population_rank":2,
+    "wof:population":3248,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

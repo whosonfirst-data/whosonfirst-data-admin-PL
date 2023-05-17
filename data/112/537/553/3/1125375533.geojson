@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101176201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piotrk\u00f3w Trybunalski",
+    "eurostat:nuts_2021_id":"1005101176201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101176201",
+    "eurostat:population":73090,
+    "eurostat:population_year":2020,
     "geom:area":0.008687,
-    "geom:area_square_m":66995052.508611,
+    "geom:area_square_m":66995052.508622,
     "geom:bbox":"19.622878,51.372969,19.810361,51.452936",
     "geom:latitude":51.414878,
     "geom:longitude":19.705714,
@@ -194,6 +206,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -201,11 +215,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079749,
-        85687261
+        85687261,
+        102079749
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101176201",
+        "eurostat:nuts_2021_id":"1005101176201",
         "gn:id":7532758,
         "gp:id":12618826,
         "qs_pg:id":24306
@@ -219,7 +235,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f0c1938400bb74f4a7b325bb26c9a606",
+    "wof:geomhash":"c755ee4c29d03123bc4d953fa1f96589",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -230,10 +246,12 @@
         }
     ],
     "wof:id":1125375533,
-    "wof:lastmodified":1607725783,
+    "wof:lastmodified":1684354291,
     "wof:name":"Piotrk\u00f3w Trybunalski",
     "wof:parent_id":102079749,
     "wof:placetype":"localadmin",
+    "wof:population":73090,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321641705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wa\u0142cz",
+    "eurostat:nuts_2021_id":"1002321641705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321641705",
+    "eurostat:population":12677,
+    "eurostat:population_year":2020,
     "geom:area":0.077467,
-    "geom:area_square_m":572604166.604527,
+    "geom:area_square_m":572604166.604538,
     "geom:bbox":"16.212657235,53.126589047,16.714468294,53.460607233",
     "geom:latitude":53.2891,
     "geom:longitude":16.432569,
@@ -68,6 +80,8 @@
     "reversegeo:longitude":16.39222,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -75,8 +89,12 @@
         102080075
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321641705",
+        "eurostat:nuts_2021_id":"1002321641705"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"8154f6e9c84260c7cd7ec15f4b7487fe",
+    "wof:geomhash":"b459dbdc266fdd44e827c32f8e4d2ded",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477752005,
-    "wof:lastmodified":1570003469,
+    "wof:lastmodified":1684354387,
     "wof:name":"Gmina Wa\u0142cz",
     "wof:parent_id":102080075,
     "wof:placetype":"localadmin",
+    "wof:population":12677,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

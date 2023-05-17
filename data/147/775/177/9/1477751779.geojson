@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kamie\u0144",
+    "eurostat:nuts_2021_id":"1006061100306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100306",
+    "eurostat:population":4167,
+    "eurostat:population_year":2020,
     "geom:area":0.01242,
-    "geom:area_square_m":96444760.209621,
+    "geom:area_square_m":96444760.209623,
     "geom:bbox":"23.521045653,51.035104302,23.715960464,51.147362776",
     "geom:latitude":51.097443,
     "geom:longitude":23.60699,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":23.582633,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079813
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100306",
+        "eurostat:nuts_2021_id":"1006061100306"
+    },
     "wof:coterminous":[
         1126006521
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a20ec8c31159a1bb0ddc89545e81427a",
+    "wof:geomhash":"9ff71b819e2f8eec33caa02e620a7aa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751779,
-    "wof:lastmodified":1570004292,
+    "wof:lastmodified":1684354375,
     "wof:name":"Kamie\u0144",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",
+    "wof:population":4167,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
