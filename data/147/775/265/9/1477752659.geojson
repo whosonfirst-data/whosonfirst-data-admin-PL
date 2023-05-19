@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wysokie Mazowieckie",
+    "eurostat:nuts_2021_id":"1006201381301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381301",
+    "eurostat:population":9341,
+    "eurostat:population_year":2020,
     "geom:area":0.002036,
-    "geom:area_square_m":15175766.359733,
+    "geom:area_square_m":15175766.359736,
     "geom:bbox":"22.479315253,52.899844587,22.547844665,52.94998744",
     "geom:latitude":52.925517,
     "geom:longitude":22.509974,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":22.507209,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080095
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381301",
+        "eurostat:nuts_2021_id":"1006201381301"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"36d0f5100fd7895fa927621d836f908c",
+    "wof:geomhash":"be658a275fe4d66816767d94b1d7600a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752659,
-    "wof:lastmodified":1570003720,
+    "wof:lastmodified":1684354421,
     "wof:name":"Gmina Wysokie Mazowieckie",
     "wof:parent_id":102080095,
     "wof:placetype":"localadmin",
+    "wof:population":9341,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

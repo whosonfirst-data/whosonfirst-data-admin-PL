@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101181801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boles\u0142awiec",
+    "eurostat:nuts_2021_id":"1005101181801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101181801",
+    "eurostat:population":4080,
+    "eurostat:population_year":2020,
     "geom:area":0.008292,
-    "geom:area_square_m":64222638.527576,
+    "geom:area_square_m":64222638.527542,
     "geom:bbox":"18.162029439,51.154524059,18.293410064,51.26828845",
     "geom:latitude":51.214773,
     "geom:longitude":18.214073,
@@ -125,6 +137,8 @@
     "reversegeo:longitude":18.213101,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -132,11 +146,15 @@
         102079731
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101181801",
+        "eurostat:nuts_2021_id":"1005101181801"
+    },
     "wof:coterminous":[
         1477874087
     ],
     "wof:country":"PL",
-    "wof:geomhash":"312d1cbb69fe065d063fe39137bb058e",
+    "wof:geomhash":"6eddec4b3bf915fd0f505e18ca4d0881",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +165,12 @@
         }
     ],
     "wof:id":1477752987,
-    "wof:lastmodified":1570003573,
+    "wof:lastmodified":1684354440,
     "wof:name":"Boles\u0142awiec",
     "wof:parent_id":102079731,
     "wof:placetype":"localadmin",
+    "wof:population":4080,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

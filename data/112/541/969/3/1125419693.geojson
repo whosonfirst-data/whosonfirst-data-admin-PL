@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Charsznica",
+    "eurostat:nuts_2021_id":"1001121200801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200801",
+    "eurostat:population":7441,
+    "eurostat:population_year":2020,
     "geom:area":0.009922,
-    "geom:area_square_m":78179524.469326,
+    "geom:area_square_m":78179524.469318,
     "geom:bbox":"19.835657888,50.354566908,20.001691094,50.457201677",
     "geom:latitude":50.413303,
     "geom:longitude":19.920679,
@@ -105,7 +117,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -114,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200801",
+        "eurostat:nuts_2021_id":"1001121200801",
         "gn:id":6690134,
         "qs_pg:id":643797
     },
@@ -125,7 +140,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e88d8e942427b0aafbddfde078416c2a",
+    "wof:geomhash":"4ec85d6542e9600e7503d730508acdc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,11 +151,11 @@
         }
     ],
     "wof:id":1125419693,
-    "wof:lastmodified":1582358017,
+    "wof:lastmodified":1684354342,
     "wof:name":"Charsznica",
     "wof:parent_id":102079579,
     "wof:placetype":"localadmin",
-    "wof:population":8027,
+    "wof:population":7441,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

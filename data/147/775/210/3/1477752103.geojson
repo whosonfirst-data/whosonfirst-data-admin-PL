@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221421404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pelplin",
+    "eurostat:nuts_2021_id":"1004221421404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221421404",
+    "eurostat:population":16166,
+    "eurostat:population_year":2020,
     "geom:area":0.019289,
-    "geom:area_square_m":140436663.214906,
+    "geom:area_square_m":140436663.214897,
     "geom:bbox":"18.602631,53.865431,18.872258,53.984509",
     "geom:latitude":53.926993,
     "geom:longitude":18.73034,
@@ -59,18 +71,24 @@
     "reversegeo:longitude":18.732956,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102080191,
-        85687267
+        85687267,
+        102080191
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221421404",
+        "eurostat:nuts_2021_id":"1004221421404"
+    },
     "wof:coterminous":[
         1477865551
     ],
     "wof:country":"PL",
-    "wof:geomhash":"01b763f885bb029dc5139b7e75f8b300",
+    "wof:geomhash":"92a226351f1990920a3bce31e225fac3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752103,
-    "wof:lastmodified":1607726635,
+    "wof:lastmodified":1684354392,
     "wof:name":"Gmina Pelplin",
     "wof:parent_id":102080191,
     "wof:placetype":"localadmin",
+    "wof:population":16166,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u015aroda Wielkopolska",
+    "eurostat:nuts_2021_id":"1002301612504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612504",
+    "eurostat:population":32649,
+    "eurostat:population_year":2020,
     "geom:area":0.027243,
-    "geom:area_square_m":206312676.837259,
+    "geom:area_square_m":206312676.837277,
     "geom:bbox":"17.111417864,52.161945732,17.473171196,52.318415741",
     "geom:latitude":52.232556,
     "geom:longitude":17.302972,
@@ -141,6 +153,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -153,6 +167,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612504",
+        "eurostat:nuts_2021_id":"1002301612504",
         "gp:id":24547466,
         "qs_pg:id":405610
     },
@@ -161,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3ba41cf0a30ca1e842604d4de4990899",
+    "wof:geomhash":"a48dcf83b0b27ccc2a4f7228206a7ff8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +188,12 @@
         }
     ],
     "wof:id":1125404913,
-    "wof:lastmodified":1582357995,
+    "wof:lastmodified":1684354327,
     "wof:name":"Gmina \u015aroda Wielkopolska",
     "wof:parent_id":102079893,
     "wof:placetype":"localadmin",
+    "wof:population":32649,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

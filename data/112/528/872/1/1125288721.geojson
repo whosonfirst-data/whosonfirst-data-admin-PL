@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142262205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krasne",
+    "eurostat:nuts_2021_id":"1007142262205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142262205",
+    "eurostat:population":3610,
+    "eurostat:population_year":2020,
     "geom:area":0.01354,
-    "geom:area_square_m":100942725.923667,
+    "geom:area_square_m":100942725.923669,
     "geom:bbox":"20.773809649,52.864115353,21.017581562,52.979320733",
     "geom:latitude":52.920867,
     "geom:longitude":20.892877,
@@ -88,7 +100,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -101,6 +114,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142262205",
+        "eurostat:nuts_2021_id":"1007142262205",
         "gn:id":767647,
         "gp:id":12617172,
         "qs_pg:id":23950
@@ -113,7 +128,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c4cc34ebc989e2bb8e25b9c3fe0f9690",
+    "wof:geomhash":"99864fc14df9d64b9eb34ea24a1df395",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,12 +139,12 @@
         }
     ],
     "wof:id":1125288721,
-    "wof:lastmodified":1582357760,
+    "wof:lastmodified":1684354162,
     "wof:name":"Krasne",
     "wof:parent_id":102080117,
     "wof:placetype":"localadmin",
-    "wof:population":1000,
-    "wof:population_rank":3,
+    "wof:population":3610,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

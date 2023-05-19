@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piechowice",
+    "eurostat:nuts_2021_id":"1003021010603",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010603",
+    "eurostat:population":6156,
+    "eurostat:population_year":2020,
     "geom:area":0.005508,
-    "geom:area_square_m":43014982.232121,
+    "geom:area_square_m":43014982.232107,
     "geom:bbox":"15.534676669,50.776114594,15.640833231,50.879360212",
     "geom:latitude":50.831445,
     "geom:longitude":15.580181,
@@ -125,7 +137,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -138,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010603",
+        "eurostat:nuts_2021_id":"1003021010603",
         "gn:id":3089152,
         "gp:id":12618744,
         "qs_pg:id":1207116
@@ -150,7 +165,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fcd98de6a1112ed624b7e673324a9987",
+    "wof:geomhash":"7f1e41a111193a1994183b03aab9be80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,11 +176,11 @@
         }
     ],
     "wof:id":1125314733,
-    "wof:lastmodified":1582357958,
+    "wof:lastmodified":1684354218,
     "wof:name":"Piechowice",
     "wof:parent_id":102079617,
     "wof:placetype":"localadmin",
-    "wof:population":6496,
+    "wof:population":6156,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

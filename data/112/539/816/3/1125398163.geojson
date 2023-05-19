@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kamienna G\u00f3ra",
+    "eurostat:nuts_2021_id":"1003021010701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010701",
+    "eurostat:population":18840,
+    "eurostat:population_year":2020,
     "geom:area":0.0023,
-    "geom:area_square_m":17978676.66575,
+    "geom:area_square_m":17978676.665753,
     "geom:bbox":"15.98479987,50.761303553,16.082575699,50.808074049",
     "geom:latitude":50.782442,
     "geom:longitude":16.026572,
@@ -173,7 +185,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -186,6 +199,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010701",
+        "eurostat:nuts_2021_id":"1003021010701",
         "gn:id":3096779,
         "gp:id":24548083,
         "qs_pg:id":1043187
@@ -195,7 +210,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5a38d05ad07da168400d282a8fcf368d",
+    "wof:geomhash":"d475c2f869aae40c0158cdadf400a3a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,12 +221,12 @@
         }
     ],
     "wof:id":1125398163,
-    "wof:lastmodified":1582357905,
+    "wof:lastmodified":1684354319,
     "wof:name":"Gmina Kamienna G\u00f3ra",
     "wof:parent_id":102079601,
     "wof:placetype":"localadmin",
-    "wof:population":21743,
-    "wof:population_rank":7,
+    "wof:population":18840,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

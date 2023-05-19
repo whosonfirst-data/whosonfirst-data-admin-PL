@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141290804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serock",
+    "eurostat:nuts_2021_id":"1007141290804",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL912",
+    "eurostat:nuts_2021_level_lau":"1007141290804",
+    "eurostat:population":15125,
+    "eurostat:population_year":2020,
     "geom:area":0.014594,
-    "geom:area_square_m":109821623.447276,
+    "geom:area_square_m":109821623.44729,
     "geom:bbox":"20.891891633,52.456247199,21.150110915,52.56622321",
     "geom:latitude":52.512305,
     "geom:longitude":21.011845,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141290804",
+        "eurostat:nuts_2021_id":"1007141290804",
         "gn:id":759470,
         "gp:id":24548148,
         "qs_pg:id":972580
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"057e0cf537c9c422a7e9387edb60b3dd",
+    "wof:geomhash":"189c7ddfa31e77d3c9814f195def633d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125282391,
-    "wof:lastmodified":1582357780,
+    "wof:lastmodified":1684354150,
     "wof:name":"Gmina Serock",
     "wof:parent_id":102079985,
     "wof:placetype":"localadmin",
-    "wof:population":4023,
-    "wof:population_rank":4,
+    "wof:population":15125,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

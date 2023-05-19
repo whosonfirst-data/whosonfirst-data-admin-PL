@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061121104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krzywda",
+    "eurostat:nuts_2021_id":"1006061121104",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061121104",
+    "eurostat:population":10451,
+    "eurostat:population_year":2020,
     "geom:area":0.020969,
-    "geom:area_square_m":160371835.120852,
+    "geom:area_square_m":160371835.12085,
     "geom:bbox":"21.982854468,51.708114567,22.267124519,51.858907952",
     "geom:latitude":51.79195,
     "geom:longitude":22.125158,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":22.127307,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079925
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061121104",
+        "eurostat:nuts_2021_id":"1006061121104"
+    },
     "wof:coterminous":[
         1125918227
     ],
     "wof:country":"PL",
-    "wof:geomhash":"d07311febe7bb30c49611063f54e59af",
+    "wof:geomhash":"fbb1494b711b19d2a66e03c8e67362bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751511,
-    "wof:lastmodified":1569999515,
+    "wof:lastmodified":1684354361,
     "wof:name":"Krzywda",
     "wof:parent_id":102079925,
     "wof:placetype":"localadmin",
+    "wof:population":10451,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

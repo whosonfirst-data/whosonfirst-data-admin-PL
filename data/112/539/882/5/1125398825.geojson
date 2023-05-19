@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kolno",
+    "eurostat:nuts_2021_id":"1006201380601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380601",
+    "eurostat:population":10199,
+    "eurostat:population_year":2020,
     "geom:area":0.003387,
-    "geom:area_square_m":24971668.847534,
+    "geom:area_square_m":24971668.847538,
     "geom:bbox":"21.880390859,53.36634768,21.99188601,53.437319904",
     "geom:latitude":53.401688,
     "geom:longitude":21.933609,
@@ -128,6 +140,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380601",
+        "eurostat:nuts_2021_id":"1006201380601",
         "gn:id":7532707,
         "qs_pg:id":1063769
     },
@@ -144,7 +160,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2d1ab574a34797ddcc7cba9afaf891af",
+    "wof:geomhash":"0cb9137f5f1349ef371bb035c1b20f32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,10 +171,12 @@
         }
     ],
     "wof:id":1125398825,
-    "wof:lastmodified":1582357918,
+    "wof:lastmodified":1684354320,
     "wof:name":"Gmina Kolno",
     "wof:parent_id":102080149,
     "wof:placetype":"localadmin",
+    "wof:population":10199,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

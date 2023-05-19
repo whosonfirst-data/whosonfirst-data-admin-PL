@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041071203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rogowo",
+    "eurostat:nuts_2021_id":"1004041071203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL616",
+    "eurostat:nuts_2021_level_lau":"1004041071203",
+    "eurostat:population":4765,
+    "eurostat:population_year":2020,
     "geom:area":0.018707,
-    "geom:area_square_m":139277535.939875,
+    "geom:area_square_m":139277535.939871,
     "geom:bbox":"19.257112343,52.92779268,19.576976618,53.034101464",
     "geom:latitude":52.977915,
     "geom:longitude":19.409491,
@@ -68,7 +80,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -81,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041071203",
+        "eurostat:nuts_2021_id":"1004041071203",
         "gn:id":3087096,
         "gp:id":12618020,
         "qs_pg:id":528204
@@ -93,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"37f56232e128b438124ea53561ee8de9",
+    "wof:geomhash":"bb2d9156fd6782a8f77ea420949cdcb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,12 +119,12 @@
         }
     ],
     "wof:id":1125328577,
-    "wof:lastmodified":1582357731,
+    "wof:lastmodified":1684354239,
     "wof:name":"Rogowo",
     "wof:parent_id":102080059,
     "wof:placetype":"localadmin",
-    "wof:population":540,
-    "wof:population_rank":2,
+    "wof:population":4765,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

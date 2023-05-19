@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142263504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Somianka",
+    "eurostat:nuts_2021_id":"1007142263504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142263504",
+    "eurostat:population":5605,
+    "eurostat:population_year":2020,
     "geom:area":0.015617,
-    "geom:area_square_m":117363066.043133,
+    "geom:area_square_m":117363066.043151,
     "geom:bbox":"21.117718317,52.509364922,21.389592294,52.638739166",
     "geom:latitude":52.570834,
     "geom:longitude":21.265812,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":21.311186,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080045
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142263504",
+        "eurostat:nuts_2021_id":"1007142263504"
+    },
     "wof:coterminous":[
         1125887657
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e9ffef1d05cf465cf7edae1fd79013b9",
+    "wof:geomhash":"afbf22cc92c8e3e0dd56239182a3a2a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752177,
-    "wof:lastmodified":1570000168,
+    "wof:lastmodified":1684354397,
     "wof:name":"Somianka",
     "wof:parent_id":102080045,
     "wof:placetype":"localadmin",
+    "wof:population":5605,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

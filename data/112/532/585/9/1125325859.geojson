@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kluczbork",
+    "eurostat:nuts_2021_id":"1003161320402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320402",
+    "eurostat:population":35938,
+    "eurostat:population_year":2020,
     "geom:area":0.027769,
-    "geom:area_square_m":216187912.177485,
+    "geom:area_square_m":216187912.177477,
     "geom:bbox":"18.061414125,50.893621052,18.381459408,51.060793814",
     "geom:latitude":50.979163,
     "geom:longitude":18.214653,
@@ -153,6 +165,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -165,6 +179,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320402",
+        "eurostat:nuts_2021_id":"1003161320402",
         "gp:id":24548652,
         "qs_pg:id":501968
     },
@@ -173,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e1aed0a18a5c7f30abb3dc6b000cd7fd",
+    "wof:geomhash":"99f94c2388d29306bcbb846df4bc5cec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,10 +200,12 @@
         }
     ],
     "wof:id":1125325859,
-    "wof:lastmodified":1582357747,
+    "wof:lastmodified":1684354234,
     "wof:name":"Gmina Kluczbork",
     "wof:parent_id":102079677,
     "wof:placetype":"localadmin",
+    "wof:population":35938,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

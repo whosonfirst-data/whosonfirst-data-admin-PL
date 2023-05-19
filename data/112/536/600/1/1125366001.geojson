@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181351502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ostr\u00f3w",
+    "eurostat:nuts_2021_id":"1006181351502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181351502",
+    "eurostat:population":7358,
+    "eurostat:population_year":2020,
     "geom:area":0.012097,
     "geom:area_square_m":95866110.952179,
     "geom:bbox":"21.510098384,50.077770864,21.702112463,50.209130757",
@@ -77,7 +89,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -90,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181351502",
+        "eurostat:nuts_2021_id":"1006181351502",
         "gn:id":762901,
         "gp:id":12617759,
         "qs_pg:id":1178177
@@ -102,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e9c531c6c370fd0d81e9417fad2f2373",
+    "wof:geomhash":"fcab61c0d76c59f1e149d45e17f1bad7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,12 +128,12 @@
         }
     ],
     "wof:id":1125366001,
-    "wof:lastmodified":1582357980,
+    "wof:lastmodified":1684354275,
     "wof:name":"Ostr\u00f3w",
     "wof:parent_id":102079547,
     "wof:placetype":"localadmin",
-    "wof:population":1500,
-    "wof:population_rank":3,
+    "wof:population":7358,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

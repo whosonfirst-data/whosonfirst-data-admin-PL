@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041060305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowa Wie\u015b Wielka",
+    "eurostat:nuts_2021_id":"1004041060305",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL613",
+    "eurostat:nuts_2021_level_lau":"1004041060305",
+    "eurostat:population":10195,
+    "eurostat:population_year":2020,
     "geom:area":0.019848,
-    "geom:area_square_m":147701923.17536,
+    "geom:area_square_m":147701923.175351,
     "geom:bbox":"17.958868865,52.940198235,18.257487355,53.090694882",
     "geom:latitude":52.998628,
     "geom:longitude":18.092612,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":18.067832,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102080085
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041060305",
+        "eurostat:nuts_2021_id":"1004041060305"
+    },
     "wof:coterminous":[
         101819173
     ],
     "wof:country":"PL",
-    "wof:geomhash":"8109fcd936900d820056e407847d2663",
+    "wof:geomhash":"74fba7168463b6db03070b71f11f5b93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477751991,
-    "wof:lastmodified":1570002466,
+    "wof:lastmodified":1684354386,
     "wof:name":"Nowa Wie\u015b Wielka",
     "wof:parent_id":102080085,
     "wof:placetype":"localadmin",
+    "wof:population":10195,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

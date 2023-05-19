@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142732807",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sochaczew",
+    "eurostat:nuts_2021_id":"1007142732807",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL926",
+    "eurostat:nuts_2021_level_lau":"1007142732807",
+    "eurostat:population":10976,
+    "eurostat:population_year":2020,
     "geom:area":0.012018,
-    "geom:area_square_m":91032512.500547,
+    "geom:area_square_m":91032512.50057,
     "geom:bbox":"20.15636,52.149434,20.373582,52.282554",
     "geom:latitude":52.224908,
     "geom:longitude":20.268908,
@@ -90,6 +102,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -97,11 +111,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079945,
-        85687257
+        85687257,
+        102079945
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142732807",
+        "eurostat:nuts_2021_id":"1007142732807",
         "gp:id":24548297,
         "qs_pg:id":1109933
     },
@@ -113,7 +129,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3d5838f7610d187b7a8bd3e738517699",
+    "wof:geomhash":"cee746bd7c533494e5ac0e53b00a55ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":1125319697,
-    "wof:lastmodified":1607726605,
+    "wof:lastmodified":1684354223,
     "wof:name":"Gmina Sochaczew",
     "wof:parent_id":102079945,
     "wof:placetype":"localadmin",
+    "wof:population":10976,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

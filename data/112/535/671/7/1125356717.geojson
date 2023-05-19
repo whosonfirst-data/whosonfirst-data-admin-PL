@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221420904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malbork",
+    "eurostat:nuts_2021_id":"1004221420904",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221420904",
+    "eurostat:population":4831,
+    "eurostat:population_year":2020,
     "geom:area":0.013818,
-    "geom:area_square_m":100304362.028325,
+    "geom:area_square_m":100304362.028317,
     "geom:bbox":"18.94371,53.988051,19.14236,54.11127",
     "geom:latitude":54.052697,
     "geom:longitude":19.037024,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -94,11 +108,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080201,
-        85687267
+        85687267,
+        102080201
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221420904",
+        "eurostat:nuts_2021_id":"1004221420904",
         "gp:id":24547689,
         "qs_pg:id":1154556
     },
@@ -110,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d93296c6a3ac6df20d8b454912ca0ad2",
+    "wof:geomhash":"00d3237c4ee89570e0812c53f62b5ed7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":1125356717,
-    "wof:lastmodified":1607726660,
+    "wof:lastmodified":1684354263,
     "wof:name":"Gmina Malbork",
     "wof:parent_id":102080201,
     "wof:placetype":"localadmin",
+    "wof:population":4831,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061102006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mi\u0105czyn",
+    "eurostat:nuts_2021_id":"1006061102006",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061102006",
+    "eurostat:population":5726,
+    "eurostat:population_year":2020,
     "geom:area":0.019875,
-    "geom:area_square_m":155525847.188315,
+    "geom:area_square_m":155525847.188291,
     "geom:bbox":"23.433093418,50.675801066,23.671353532,50.802795703",
     "geom:latitude":50.740636,
     "geom:longitude":23.553373,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":23.555642,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079715
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061102006",
+        "eurostat:nuts_2021_id":"1006061102006"
+    },
     "wof:coterminous":[
         101822575
     ],
     "wof:country":"PL",
-    "wof:geomhash":"24effc4f10c49aae8842661e2c651c19",
+    "wof:geomhash":"b3866bbdf48fdb9baa5ed26cb9f085a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125294949,
-    "wof:lastmodified":1569992408,
+    "wof:lastmodified":1684354184,
     "wof:name":"Mi\u0105czyn",
     "wof:parent_id":102079715,
     "wof:placetype":"localadmin",
+    "wof:population":5726,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

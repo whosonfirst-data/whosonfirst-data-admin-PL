@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gaw\u0142uszowice",
+    "eurostat:nuts_2021_id":"1006181361104",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361104",
+    "eurostat:population":2727,
+    "eurostat:population_year":2020,
     "geom:area":0.004301,
-    "geom:area_square_m":33892761.692589,
+    "geom:area_square_m":33892761.692596,
     "geom:bbox":"21.339071425,50.365770059,21.455699319,50.441203323",
     "geom:latitude":50.410234,
     "geom:longitude":21.397664,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":21.384082,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361104",
+        "eurostat:nuts_2021_id":"1006181361104"
+    },
     "wof:coterminous":[
         1125919721
     ],
     "wof:country":"PL",
-    "wof:geomhash":"ee91a78e87df7cb302ebbf4ea924c432",
+    "wof:geomhash":"f7218d1c49e137d7e38998c4de212111",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752121,
-    "wof:lastmodified":1570002841,
+    "wof:lastmodified":1684354393,
     "wof:name":"Gaw\u0142uszowice",
     "wof:parent_id":102079597,
     "wof:placetype":"localadmin",
+    "wof:population":2727,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

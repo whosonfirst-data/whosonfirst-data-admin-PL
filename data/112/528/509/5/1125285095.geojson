@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121240405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olesno",
+    "eurostat:nuts_2021_id":"1001121240405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL217",
+    "eurostat:nuts_2021_level_lau":"1001121240405",
+    "eurostat:population":7966,
+    "eurostat:population_year":2020,
     "geom:area":0.009773,
-    "geom:area_square_m":77337658.659203,
+    "geom:area_square_m":77337658.659186,
     "geom:bbox":"20.834578943,50.16098206,21.001108302,50.25469384",
     "geom:latitude":50.210638,
     "geom:longitude":20.919404,
@@ -113,7 +125,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -126,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121240405",
+        "eurostat:nuts_2021_id":"1001121240405",
         "gn:id":763263,
         "gp:id":12616581,
         "qs_pg:id":1093962
@@ -138,7 +153,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4f4227ce8ffcf526d488c95eae15647e",
+    "wof:geomhash":"06b2265b798ebda51d727bc12928fbee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,12 +164,12 @@
         }
     ],
     "wof:id":1125285095,
-    "wof:lastmodified":1582357772,
+    "wof:lastmodified":1684354155,
     "wof:name":"Olesno",
     "wof:parent_id":102079567,
     "wof:placetype":"localadmin",
-    "wof:population":1708,
-    "wof:population_rank":3,
+    "wof:population":7966,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

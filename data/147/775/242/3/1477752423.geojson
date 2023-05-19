@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142270704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grab\u00f3w nad Pilic\u0105",
+    "eurostat:nuts_2021_id":"1007142270704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142270704",
+    "eurostat:population":3899,
+    "eurostat:population_year":2020,
     "geom:area":0.016223,
-    "geom:area_square_m":124259776.167986,
+    "geom:area_square_m":124259776.167963,
     "geom:bbox":"21.117418962,51.656958574,21.346099546,51.799293105",
     "geom:latitude":51.725283,
     "geom:longitude":21.232342,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":21.230633,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079859
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142270704",
+        "eurostat:nuts_2021_id":"1007142270704"
+    },
     "wof:coterminous":[
         1477864265
     ],
     "wof:country":"PL",
-    "wof:geomhash":"bc1c2ed147f7737e7e1967d0a9b3847a",
+    "wof:geomhash":"fef2797489917729eb3701cba603bb60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752423,
-    "wof:lastmodified":1570000022,
+    "wof:lastmodified":1684354409,
     "wof:name":"Grab\u00f3w nad Pilic\u0105",
     "wof:parent_id":102079859,
     "wof:placetype":"localadmin",
+    "wof:population":3899,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

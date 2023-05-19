@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mircze",
+    "eurostat:nuts_2021_id":"1006061100405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100405",
+    "eurostat:population":7007,
+    "eurostat:population_year":2020,
     "geom:area":0.02985,
-    "geom:area_square_m":234067497.950194,
+    "geom:area_square_m":234067497.95016,
     "geom:bbox":"23.745141734,50.550079432,24.091121111,50.719412151",
     "geom:latitude":50.642485,
     "geom:longitude":23.910827,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":23.894025,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079743
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100405",
+        "eurostat:nuts_2021_id":"1006061100405"
+    },
     "wof:coterminous":[
         101824025
     ],
     "wof:country":"PL",
-    "wof:geomhash":"3b4210ded56ee680c85212b7d0b68e7b",
+    "wof:geomhash":"c9b554cfc7132d95d80f5c0d28626431",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752115,
-    "wof:lastmodified":1569999650,
+    "wof:lastmodified":1684354393,
     "wof:name":"Mircze",
     "wof:parent_id":102079743,
     "wof:placetype":"localadmin",
+    "wof:population":7007,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

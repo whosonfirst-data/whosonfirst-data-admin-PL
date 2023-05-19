@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221401003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ostaszewo",
+    "eurostat:nuts_2021_id":"1004221401003",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221401003",
+    "eurostat:population":3216,
+    "eurostat:population_year":2020,
     "geom:area":0.008347,
     "geom:area_square_m":60367869.279508,
     "geom:bbox":"18.836579534,54.152231558,19.048509521,54.252745715",
@@ -38,6 +50,8 @@
     "reversegeo:longitude":18.96032,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102080239
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221401003",
+        "eurostat:nuts_2021_id":"1004221401003"
+    },
     "wof:coterminous":[
         1126011179
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e62fafbbbc221eaeca57d0a44b88836d",
+    "wof:geomhash":"9ea7a80bcb636e799b574db40003a189",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477753009,
-    "wof:lastmodified":1569998940,
+    "wof:lastmodified":1684354441,
     "wof:name":"Ostaszewo",
     "wof:parent_id":102080239,
     "wof:placetype":"localadmin",
+    "wof:population":3216,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

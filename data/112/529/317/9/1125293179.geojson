@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081130705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torzym",
+    "eurostat:nuts_2021_id":"1002081130705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL431",
+    "eurostat:nuts_2021_level_lau":"1002081130705",
+    "eurostat:population":6828,
+    "eurostat:population_year":2020,
     "geom:area":0.049449,
-    "geom:area_square_m":373863724.969384,
+    "geom:area_square_m":373863724.969421,
     "geom:bbox":"14.868632065,52.204607399,15.242659885,52.409614553",
     "geom:latitude":52.306411,
     "geom:longitude":15.037723,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081130705",
+        "eurostat:nuts_2021_id":"1002081130705",
         "gn:id":3083264,
         "gp:id":24547552,
         "qs_pg:id":1189873
@@ -159,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1817ce7b45bd13d8111ec4867f8f9130",
+    "wof:geomhash":"47a36a09856482bcbf6c78382ca97647",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,12 +185,12 @@
         }
     ],
     "wof:id":1125293179,
-    "wof:lastmodified":1582357829,
+    "wof:lastmodified":1684354181,
     "wof:name":"Gmina Torzym",
     "wof:parent_id":102079933,
     "wof:placetype":"localadmin",
-    "wof:population":2466,
-    "wof:population_rank":4,
+    "wof:population":6828,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

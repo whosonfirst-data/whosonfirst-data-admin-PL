@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301591502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lw\u00f3wek",
+    "eurostat:nuts_2021_id":"1002301591502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301591502",
+    "eurostat:population":9089,
+    "eurostat:population_year":2020,
     "geom:area":0.024263,
     "geom:area_square_m":182853712.706953,
     "geom:bbox":"16.009376587,52.379134321,16.35888918,52.514221512",
@@ -144,7 +156,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -157,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301591502",
+        "eurostat:nuts_2021_id":"1002301591502",
         "gn:id":3092639,
         "gp:id":24547486,
         "qs_pg:id":1314785
@@ -166,7 +181,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fabb67aec7298e4a2e5bd4bc9cc7a9ff",
+    "wof:geomhash":"76f604d5e3a009fa7c241d035eb43474",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,12 +192,12 @@
         }
     ],
     "wof:id":1125341283,
-    "wof:lastmodified":1582357692,
+    "wof:lastmodified":1684354249,
     "wof:name":"Gmina Lw\u00f3wek",
     "wof:parent_id":102079915,
     "wof:placetype":"localadmin",
-    "wof:population":2939,
-    "wof:population_rank":4,
+    "wof:population":9089,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

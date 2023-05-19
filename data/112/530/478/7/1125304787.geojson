@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041061508",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wielka Nieszawka",
+    "eurostat:nuts_2021_id":"1004041061508",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL613",
+    "eurostat:nuts_2021_level_lau":"1004041061508",
+    "eurostat:population":5238,
+    "eurostat:population_year":2020,
     "geom:area":0.028916,
-    "geom:area_square_m":215416516.72361,
+    "geom:area_square_m":215416516.723614,
     "geom:bbox":"18.360860609,52.858144009,18.722576881,53.039499888",
     "geom:latitude":52.952458,
     "geom:longitude":18.547624,
@@ -77,7 +89,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -90,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041061508",
+        "eurostat:nuts_2021_id":"1004041061508",
         "gn:id":3082287,
         "gp:id":12618207,
         "qs_pg:id":201412
@@ -102,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cdfea292cd5a9d82c9cf4f3265fb2aa7",
+    "wof:geomhash":"234dcb6f32f10194efe2ca806aaa7aee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,12 +128,12 @@
         }
     ],
     "wof:id":1125304787,
-    "wof:lastmodified":1582357871,
+    "wof:lastmodified":1684354205,
     "wof:name":"Wielka Nieszawka",
     "wof:parent_id":102080063,
     "wof:placetype":"localadmin",
-    "wof:population":460,
-    "wof:population_rank":2,
+    "wof:population":5238,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

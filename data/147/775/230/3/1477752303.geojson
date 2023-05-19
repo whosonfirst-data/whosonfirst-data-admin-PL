@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301571807",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ostrzesz\u00f3w",
+    "eurostat:nuts_2021_id":"1002301571807",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301571807",
+    "eurostat:population":24004,
+    "eurostat:population_year":2020,
     "geom:area":0.02422,
-    "geom:area_square_m":186692065.152132,
+    "geom:area_square_m":186692065.152149,
     "geom:bbox":"17.741568132,51.338653361,18.024001543,51.509682471",
     "geom:latitude":51.43743,
     "geom:longitude":17.902023,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":17.911644,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079747
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301571807",
+        "eurostat:nuts_2021_id":"1002301571807"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"33caf13edef4262197d396edfdc26a10",
+    "wof:geomhash":"6a0a4d5107b7f28252c9205c26e56f7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752303,
-    "wof:lastmodified":1570003934,
+    "wof:lastmodified":1684354403,
     "wof:name":"Gmina Ostrzesz\u00f3w",
     "wof:parent_id":102079747,
     "wof:placetype":"localadmin",
+    "wof:population":24004,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

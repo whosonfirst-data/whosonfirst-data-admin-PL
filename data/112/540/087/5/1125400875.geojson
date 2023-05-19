@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081140903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czerwie\u0144sk",
+    "eurostat:nuts_2021_id":"1002081140903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081140903",
+    "eurostat:population":9979,
+    "eurostat:population_year":2020,
     "geom:area":0.025603,
-    "geom:area_square_m":194741134.481119,
+    "geom:area_square_m":194741134.481118,
     "geom:bbox":"15.256626682,51.949560359,15.537298965,52.131333766",
     "geom:latitude":52.038102,
     "geom:longitude":15.364947,
@@ -128,7 +140,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -141,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081140903",
+        "eurostat:nuts_2021_id":"1002081140903",
         "gn:id":3100976,
         "gp:id":24548135,
         "qs_pg:id":1026079
@@ -150,7 +165,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"65ab66d2379aa9b9faff91c2ead2985d",
+    "wof:geomhash":"4e27aae33703f5557039aaf891f7a839",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,12 +176,12 @@
         }
     ],
     "wof:id":1125400875,
-    "wof:lastmodified":1582357998,
+    "wof:lastmodified":1684354324,
     "wof:name":"Gmina Czerwie\u0144sk",
     "wof:parent_id":102079851,
     "wof:placetype":"localadmin",
-    "wof:population":4197,
-    "wof:population_rank":4,
+    "wof:population":9979,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

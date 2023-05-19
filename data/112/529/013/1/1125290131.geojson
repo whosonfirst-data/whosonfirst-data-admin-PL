@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142710302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0141askarzew",
+    "eurostat:nuts_2021_id":"1007142710302",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142710302",
+    "eurostat:population":4829,
+    "eurostat:population_year":2020,
     "geom:area":0.001999,
-    "geom:area_square_m":15291689.898911,
+    "geom:area_square_m":15291689.898908,
     "geom:bbox":"21.562841277,51.759354195,21.65374672,51.8116727",
     "geom:latitude":51.783839,
     "geom:longitude":21.599315,
@@ -152,7 +164,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -165,6 +178,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142710302",
+        "eurostat:nuts_2021_id":"1007142710302",
         "gn:id":766757,
         "gp:id":24548218,
         "qs_pg:id":1095667
@@ -174,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d786b9a7d39874ec077009d2ebe92bf1",
+    "wof:geomhash":"36e56623d9c3f8fe8c0024d880fc6d7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,11 +200,11 @@
         }
     ],
     "wof:id":1125290131,
-    "wof:lastmodified":1582357810,
+    "wof:lastmodified":1684354174,
     "wof:name":"Gmina \u0141askarzew",
     "wof:parent_id":102079901,
     "wof:placetype":"localadmin",
-    "wof:population":4893,
+    "wof:population":4829,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301570604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017berk\u00f3w",
+    "eurostat:nuts_2021_id":"1002301570604",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301570604",
+    "eurostat:population":10248,
+    "eurostat:population_year":2020,
     "geom:area":0.022457,
     "geom:area_square_m":170683949.704391,
     "geom:bbox":"17.469223953,51.983760651,17.723556803,52.145667682",
@@ -62,6 +74,8 @@
     "reversegeo:longitude":17.6065,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079857
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301570604",
+        "eurostat:nuts_2021_id":"1002301570604"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"8b4695f2c04d0648272c76aa6e0cf686",
+    "wof:geomhash":"bf888e0dc3f6a5cb056e76295742c48c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751777,
-    "wof:lastmodified":1570004301,
+    "wof:lastmodified":1684354375,
     "wof:name":"Gmina \u017berk\u00f3w",
     "wof:parent_id":102079857,
     "wof:placetype":"localadmin",
+    "wof:population":10248,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

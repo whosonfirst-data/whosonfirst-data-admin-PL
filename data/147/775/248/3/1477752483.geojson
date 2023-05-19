@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241470502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pyskowice",
+    "eurostat:nuts_2021_id":"1001241470502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL229",
+    "eurostat:nuts_2021_level_lau":"1001241470502",
+    "eurostat:population":18429,
+    "eurostat:population_year":2020,
     "geom:area":0.003946,
-    "geom:area_square_m":31110732.958266,
+    "geom:area_square_m":31110732.958259,
     "geom:bbox":"18.543364859,50.36189519,18.658546256,50.421377333",
     "geom:latitude":50.388963,
     "geom:longitude":18.609636,
@@ -89,6 +101,8 @@
     "reversegeo:longitude":18.624849,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -96,11 +110,15 @@
         102079563
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241470502",
+        "eurostat:nuts_2021_id":"1001241470502"
+    },
     "wof:coterminous":[
         101824993
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f7fd843894170df5c03a898668fabe1a",
+    "wof:geomhash":"1882b3afbadbbc7ad2ebc2188582901e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +129,12 @@
         }
     ],
     "wof:id":1477752483,
-    "wof:lastmodified":1570002657,
+    "wof:lastmodified":1684354412,
     "wof:name":"Pyskowice",
     "wof:parent_id":102079563,
     "wof:placetype":"localadmin",
+    "wof:population":18429,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

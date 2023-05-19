@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czy\u017cew",
+    "eurostat:nuts_2021_id":"1006201381303",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381303",
+    "eurostat:population":6352,
+    "eurostat:population_year":2020,
     "geom:area":0.017385,
-    "geom:area_square_m":129896251.105071,
+    "geom:area_square_m":129896251.105099,
     "geom:bbox":"22.24245403,52.740464292,22.472617263,52.907680153",
     "geom:latitude":52.825257,
     "geom:longitude":22.351847,
@@ -71,6 +83,8 @@
     "reversegeo:longitude":22.351831,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -78,8 +92,12 @@
         102080095
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381303",
+        "eurostat:nuts_2021_id":"1006201381303"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"315710fcee74036fafebb154ec30132f",
+    "wof:geomhash":"d5772013e2fcd8b9093e14a9c61f8dd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +108,12 @@
         }
     ],
     "wof:id":1477751987,
-    "wof:lastmodified":1570002011,
+    "wof:lastmodified":1684354386,
     "wof:name":"Gmina Czy\u017cew",
     "wof:parent_id":102080095,
     "wof:placetype":"localadmin",
+    "wof:population":6352,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jordan\u00f3w",
+    "eurostat:nuts_2021_id":"1001121691505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691505",
+    "eurostat:population":11180,
+    "eurostat:population_year":2020,
     "geom:area":0.011514,
-    "geom:area_square_m":92166623.812906,
+    "geom:area_square_m":92166623.81295,
     "geom:bbox":"19.716058,49.585459,19.912117,49.725039",
     "geom:latitude":49.658477,
     "geom:longitude":19.822422,
@@ -62,18 +74,24 @@
     "reversegeo:longitude":19.835859,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079419,
-        85687291
+        85687291,
+        102079419
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691505",
+        "eurostat:nuts_2021_id":"1001121691505"
+    },
     "wof:coterminous":[
         1477863325
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e0fe903126c1061c3cdab40e80d03144",
+    "wof:geomhash":"e622d11f402ba528d424bc13958b23bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751621,
-    "wof:lastmodified":1607726642,
+    "wof:lastmodified":1684354367,
     "wof:name":"Gmina Jordan\u00f3w",
     "wof:parent_id":102079419,
     "wof:placetype":"localadmin",
+    "wof:population":11180,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

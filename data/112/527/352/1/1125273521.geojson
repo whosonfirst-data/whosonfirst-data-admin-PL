@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081140901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Babimost",
+    "eurostat:nuts_2021_id":"1002081140901",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081140901",
+    "eurostat:population":6226,
+    "eurostat:population_year":2020,
     "geom:area":0.012183,
-    "geom:area_square_m":92423792.3529,
+    "geom:area_square_m":92423792.352894,
     "geom:bbox":"15.719698703,52.092425745,15.883561007,52.215121621",
     "geom:latitude":52.157247,
     "geom:longitude":15.800885,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081140901",
+        "eurostat:nuts_2021_id":"1002081140901",
         "gn:id":3104002,
         "gp:id":24548021,
         "qs_pg:id":1059798
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bca924222a1df1bfb98501eaa17c4776",
+    "wof:geomhash":"41f3ecc1795807c1eae846e56b64bdb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125273521,
-    "wof:lastmodified":1582357792,
+    "wof:lastmodified":1684354142,
     "wof:name":"Gmina Babimost",
     "wof:parent_id":102079851,
     "wof:placetype":"localadmin",
-    "wof:population":4182,
-    "wof:population_rank":4,
+    "wof:population":6226,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101181703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Konopnica",
+    "eurostat:nuts_2021_id":"1005101181703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101181703",
+    "eurostat:population":3772,
+    "eurostat:population_year":2020,
     "geom:area":0.010719,
-    "geom:area_square_m":82769608.066344,
+    "geom:area_square_m":82769608.066364,
     "geom:bbox":"18.705896626,51.301419559,18.913180926,51.410810487",
     "geom:latitude":51.357705,
     "geom:longitude":18.815987,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":18.814442,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079729
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101181703",
+        "eurostat:nuts_2021_id":"1005101181703"
+    },
     "wof:coterminous":[
         1125891311
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a6e5bef28fc553af144a0c59eb5a374b",
+    "wof:geomhash":"70e5c9565c441298d0196feb13b9ae55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752811,
-    "wof:lastmodified":1570000428,
+    "wof:lastmodified":1684354430,
     "wof:name":"Konopnica",
     "wof:parent_id":102079729,
     "wof:placetype":"localadmin",
+    "wof:population":3772,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

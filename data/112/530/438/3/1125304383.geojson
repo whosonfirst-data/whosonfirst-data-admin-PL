@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301591401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chrzypsko Wielkie",
+    "eurostat:nuts_2021_id":"1002301591401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301591401",
+    "eurostat:population":3306,
+    "eurostat:population_year":2020,
     "geom:area":0.011213,
-    "geom:area_square_m":84185872.400631,
+    "geom:area_square_m":84185872.400614,
     "geom:bbox":"16.15127036,52.547427687,16.338538703,52.669295482",
     "geom:latitude":52.612766,
     "geom:longitude":16.234526,
@@ -92,7 +104,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -105,6 +118,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301591401",
+        "eurostat:nuts_2021_id":"1002301591401",
         "gn:id":3101513,
         "gp:id":12617485,
         "qs_pg:id":1190557
@@ -121,7 +136,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f186f36003fff7639db67819d2a8c767",
+    "wof:geomhash":"3d60b7c5c2b0e00532734cfdc0fb01c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,12 +147,12 @@
         }
     ],
     "wof:id":1125304383,
-    "wof:lastmodified":1582357883,
+    "wof:lastmodified":1684354200,
     "wof:name":"Chrzypsko Wielkie",
     "wof:parent_id":102079961,
     "wof:placetype":"localadmin",
-    "wof:population":920,
-    "wof:population_rank":2,
+    "wof:population":3306,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

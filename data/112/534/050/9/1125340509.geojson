@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101181805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0141ubnice",
+    "eurostat:nuts_2021_id":"1005101181805",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101181805",
+    "eurostat:population":4029,
+    "eurostat:population_year":2020,
     "geom:area":0.007837,
-    "geom:area_square_m":60753440.388546,
+    "geom:area_square_m":60753440.388538,
     "geom:bbox":"18.202966188,51.133954164,18.361714176,51.214642565",
     "geom:latitude":51.176299,
     "geom:longitude":18.294108,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":18.295621,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079731
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101181805",
+        "eurostat:nuts_2021_id":"1005101181805"
+    },
     "wof:coterminous":[
         101822911
     ],
     "wof:country":"PL",
-    "wof:geomhash":"18856adb68dd8c32f951ce4eb962e093",
+    "wof:geomhash":"1dcf1e5ee5001d930bb74a9f4d0e0e47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125340509,
-    "wof:lastmodified":1569988235,
+    "wof:lastmodified":1684354249,
     "wof:name":"\u0141ubnice",
     "wof:parent_id":102079731,
     "wof:placetype":"localadmin",
+    "wof:population":4029,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radomsko",
+    "eurostat:nuts_2021_id":"1005101171212",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171212",
+    "eurostat:population":5582,
+    "eurostat:population_year":2020,
     "geom:area":0.010979,
-    "geom:area_square_m":85352562.64308,
+    "geom:area_square_m":85352562.64307,
     "geom:bbox":"19.318521,50.992446,19.548682,51.129029",
     "geom:latitude":51.043888,
     "geom:longitude":19.448056,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":19.444952,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,11 +83,15 @@
         102079711
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171212",
+        "eurostat:nuts_2021_id":"1005101171212"
+    },
     "wof:coterminous":[
         1477863497
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e8251e3ce5bffa1bed374562aecc5102",
+    "wof:geomhash":"bca633114c217adf0cbd82c55c6ddccf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751669,
-    "wof:lastmodified":1617129869,
+    "wof:lastmodified":1684354369,
     "wof:name":"Gmina Radomsko",
     "wof:parent_id":102079711,
     "wof:placetype":"localadmin",
+    "wof:population":5582,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

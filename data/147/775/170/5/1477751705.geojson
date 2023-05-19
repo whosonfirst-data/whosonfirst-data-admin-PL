@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121220502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Biecz",
+    "eurostat:nuts_2021_id":"1001121220502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121220502",
+    "eurostat:population":16808,
+    "eurostat:population_year":2020,
     "geom:area":0.012253,
-    "geom:area_square_m":97923591.752105,
+    "geom:area_square_m":97923591.752109,
     "geom:bbox":"21.09502381,49.665020763,21.331407209,49.781734967",
     "geom:latitude":49.736192,
     "geom:longitude":21.219374,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":21.217629,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079429
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121220502",
+        "eurostat:nuts_2021_id":"1001121220502"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"dabe72bafe1674255066254dce0ca09f",
+    "wof:geomhash":"79204004427719e73583bee2c9f4caf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751705,
-    "wof:lastmodified":1570004288,
+    "wof:lastmodified":1684354371,
     "wof:name":"Gmina Biecz",
     "wof:parent_id":102079429,
     "wof:placetype":"localadmin",
+    "wof:population":16808,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

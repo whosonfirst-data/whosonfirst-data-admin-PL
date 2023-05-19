@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321660507",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rewal",
+    "eurostat:nuts_2021_id":"1002321660507",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321660507",
+    "eurostat:population":3862,
+    "eurostat:population_year":2020,
     "geom:area":0.005579,
-    "geom:area_square_m":40472950.599819,
+    "geom:area_square_m":40472950.59981,
     "geom:bbox":"14.895819363,54.039237635,15.187090957,54.119723111",
     "geom:latitude":54.079354,
     "geom:longitude":15.046009,
@@ -95,7 +107,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -108,6 +121,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321660507",
+        "eurostat:nuts_2021_id":"1002321660507",
         "gn:id":3087176,
         "gp:id":12618685,
         "qs_pg:id":905479
@@ -124,7 +139,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fe1607cc336233b45c38ec1704d19c82",
+    "wof:geomhash":"c496c1cc0762153f1b16b6a4f29d7ca4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,12 +150,12 @@
         }
     ],
     "wof:id":1125316271,
-    "wof:lastmodified":1582357948,
+    "wof:lastmodified":1684354220,
     "wof:name":"Rewal",
     "wof:parent_id":102080165,
     "wof:placetype":"localadmin",
-    "wof:population":959,
-    "wof:population_rank":2,
+    "wof:population":3862,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

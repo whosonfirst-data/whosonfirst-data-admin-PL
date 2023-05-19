@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061121109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trzebiesz\u00f3w",
+    "eurostat:nuts_2021_id":"1006061121109",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061121109",
+    "eurostat:population":7352,
+    "eurostat:population_year":2020,
     "geom:area":0.018388,
-    "geom:area_square_m":139997813.516703,
+    "geom:area_square_m":139997813.516713,
     "geom:bbox":"22.433529221,51.926023505,22.635841061,52.069930602",
     "geom:latitude":51.995996,
     "geom:longitude":22.524152,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":22.524157,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079925
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061121109",
+        "eurostat:nuts_2021_id":"1006061121109"
+    },
     "wof:coterminous":[
         1125886569
     ],
     "wof:country":"PL",
-    "wof:geomhash":"76686c7166897dd01f2dea368df94f08",
+    "wof:geomhash":"f094ddc42bf4c7a6996f24119fac3cb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752675,
-    "wof:lastmodified":1570000907,
+    "wof:lastmodified":1684354422,
     "wof:name":"Trzebiesz\u00f3w",
     "wof:parent_id":102079925,
     "wof:placetype":"localadmin",
+    "wof:population":7352,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

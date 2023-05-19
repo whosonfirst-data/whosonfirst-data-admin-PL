@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121201406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radziemice",
+    "eurostat:nuts_2021_id":"1001121201406",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121201406",
+    "eurostat:population":3342,
+    "eurostat:population_year":2020,
     "geom:area":0.00731,
-    "geom:area_square_m":57783141.129988,
+    "geom:area_square_m":57783141.129982,
     "geom:bbox":"20.126201299,50.219321621,20.281696437,50.305273718",
     "geom:latitude":50.26335,
     "geom:longitude":20.209054,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":20.207899,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102079545
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121201406",
+        "eurostat:nuts_2021_id":"1001121201406"
+    },
     "wof:coterminous":[
         1126006399
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f5dfffde4a8fa6ea2fa07ba96131a09c",
+    "wof:geomhash":"5b298d7296bad536351c7ceb30fef3eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477752411,
-    "wof:lastmodified":1570002737,
+    "wof:lastmodified":1684354408,
     "wof:name":"Radziemice",
     "wof:parent_id":102079545,
     "wof:placetype":"localadmin",
+    "wof:population":3342,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460408",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kruszyna",
+    "eurostat:nuts_2021_id":"1001241460408",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460408",
+    "eurostat:population":4806,
+    "eurostat:population_year":2020,
     "geom:area":0.011943,
-    "geom:area_square_m":92957978.022345,
+    "geom:area_square_m":92957978.022366,
     "geom:bbox":"19.202432228,50.946265966,19.410722517,51.047716648",
     "geom:latitude":50.987924,
     "geom:longitude":19.306431,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":19.296216,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079663
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460408",
+        "eurostat:nuts_2021_id":"1001241460408"
+    },
     "wof:coterminous":[
         1126007337
     ],
     "wof:country":"PL",
-    "wof:geomhash":"dc93d90113ba453652b9f7083977a739",
+    "wof:geomhash":"d1de5a54979a4d88d840c212d8829616",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751881,
-    "wof:lastmodified":1570001625,
+    "wof:lastmodified":1684354381,
     "wof:name":"Kruszyna",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",
+    "wof:population":4806,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

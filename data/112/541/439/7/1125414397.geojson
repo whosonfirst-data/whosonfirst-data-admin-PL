@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301611602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rogo\u017ano",
+    "eurostat:nuts_2021_id":"1002301611602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301611602",
+    "eurostat:population":18353,
+    "eurostat:population_year":2020,
     "geom:area":0.028769,
-    "geom:area_square_m":215385833.032232,
+    "geom:area_square_m":215385833.032222,
     "geom:bbox":"16.847170513,52.657295649,17.132495968,52.831860625",
     "geom:latitude":52.737472,
     "geom:longitude":16.990338,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301611602",
+        "eurostat:nuts_2021_id":"1002301611602",
         "gn:id":3087072,
         "gp:id":24547706,
         "qs_pg:id":246667
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"47e4da9974bf7c94a9e312e1e00f5fc1",
+    "wof:geomhash":"7613b9d61d9603a59bd7fd508557bc5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,11 +188,11 @@
         }
     ],
     "wof:id":1125414397,
-    "wof:lastmodified":1582358011,
+    "wof:lastmodified":1684354338,
     "wof:name":"Gmina Rogo\u017ano",
     "wof:parent_id":102079987,
     "wof:placetype":"localadmin",
-    "wof:population":10859,
+    "wof:population":18353,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021030205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dzier\u017coni\u00f3w",
+    "eurostat:nuts_2021_id":"1003021030205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021030205",
+    "eurostat:population":9092,
+    "eurostat:population_year":2020,
     "geom:area":0.017963,
-    "geom:area_square_m":140582755.383822,
+    "geom:area_square_m":140582755.383832,
     "geom:bbox":"16.547988,50.624973,16.773273,50.826819",
     "geom:latitude":50.73414,
     "geom:longitude":16.660226,
@@ -62,18 +74,24 @@
     "reversegeo:longitude":16.624651,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079591,
-        85687301
+        85687301,
+        102079591
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021030205",
+        "eurostat:nuts_2021_id":"1003021030205"
+    },
     "wof:coterminous":[
         1477864057
     ],
     "wof:country":"PL",
-    "wof:geomhash":"650f60331c274fb9e5b367fdea033165",
+    "wof:geomhash":"ce9b510f667abae22593a69aa4335190",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752887,
-    "wof:lastmodified":1607726709,
+    "wof:lastmodified":1684354434,
     "wof:name":"Gmina Dzier\u017coni\u00f3w",
     "wof:parent_id":102079591,
     "wof:placetype":"localadmin",
+    "wof:population":9092,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

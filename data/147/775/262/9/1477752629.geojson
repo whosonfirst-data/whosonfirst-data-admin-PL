@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081141006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niegos\u0142awice",
+    "eurostat:nuts_2021_id":"1002081141006",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081141006",
+    "eurostat:population":4357,
+    "eurostat:population_year":2020,
     "geom:area":0.017692,
-    "geom:area_square_m":135852461.985175,
+    "geom:area_square_m":135852461.985169,
     "geom:bbox":"15.611139594,51.552134002,15.857188862,51.672189342",
     "geom:latitude":51.60994,
     "geom:longitude":15.736478,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":15.726544,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079759
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002081141006",
+        "eurostat:nuts_2021_id":"1002081141006"
+    },
     "wof:coterminous":[
         1126004503
     ],
     "wof:country":"PL",
-    "wof:geomhash":"d8491565ba74f6cd33ddb8d13bda69fa",
+    "wof:geomhash":"d98db2a7c5addae17ab6e6179c9b064c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752629,
-    "wof:lastmodified":1570003632,
+    "wof:lastmodified":1684354420,
     "wof:name":"Niegos\u0142awice",
     "wof:parent_id":102079759,
     "wof:placetype":"localadmin",
+    "wof:population":4357,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

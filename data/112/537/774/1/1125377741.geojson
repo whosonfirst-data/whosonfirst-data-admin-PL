@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061090101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mi\u0119dzyrzec Podlaski",
+    "eurostat:nuts_2021_id":"1006061090101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061090101",
+    "eurostat:population":16753,
+    "eurostat:population_year":2020,
     "geom:area":0.00262,
-    "geom:area_square_m":19951357.809354,
+    "geom:area_square_m":19951357.809349,
     "geom:bbox":"22.724189,51.960453,22.82959,52.00157",
     "geom:latitude":51.980782,
     "geom:longitude":22.783281,
@@ -371,7 +383,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -379,11 +392,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079973,
-        85687309
+        85687309,
+        102079973
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061090101",
+        "eurostat:nuts_2021_id":"1006061090101",
         "gn:id":764862,
         "gp:id":24548559,
         "qs_pg:id":129314
@@ -396,7 +411,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5d9a3faf1e7f5a89a6c616defd28ac66",
+    "wof:geomhash":"837b6df8118e69470ef63554ba5fb6f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -407,11 +422,11 @@
         }
     ],
     "wof:id":1125377741,
-    "wof:lastmodified":1607724742,
+    "wof:lastmodified":1684354296,
     "wof:name":"Gmina Mi\u0119dzyrzec Podlaski",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",
-    "wof:population":17158,
+    "wof:population":16753,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

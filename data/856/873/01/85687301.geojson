@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Dolno\u015bl\u0105skie",
+    "eurostat:name_local":"Dolno\u015bl\u0105skie",
+    "eurostat:nuts_2021_id":"PL51",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:population":2845944,
+    "eurostat:population_year":2022,
     "geom:area":2.559175,
-    "geom:area_square_m":19875834162.166073,
+    "geom:area_square_m":19875834349.08403,
     "geom:bbox":"14.817379,50.096331,17.795269,51.804754",
     "geom:latitude":51.089501,
     "geom:longitude":16.410687,
@@ -278,8 +288,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-21",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"19,947",
     "statoids:area_mi":"7,701",
     "statoids:as_of_date":"2011-03-21",
@@ -301,6 +311,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14360,
+        "eurostat:nuts_2021_id":"PL51",
         "fips:code":"PL72",
         "hasc:id":"PL.DS",
         "iso:id":"PL-DS",
@@ -312,7 +323,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe79739d944c85b89bd476011e913124",
+    "wof:geomhash":"6ea60abab2cb246dd40c0460c2ec6dd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -330,12 +341,12 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1617131134,
+    "wof:lastmodified":1684351467,
     "wof:name":"Dolno\u015bl\u0105skie",
     "wof:parent_id":85633723,
     "wof:placetype":"region",
     "wof:placetype_local":"voivodship",
-    "wof:population":2915238,
+    "wof:population":2845944,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:shortcode":"DS",

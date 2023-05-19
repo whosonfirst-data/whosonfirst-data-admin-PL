@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321660501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brojce",
+    "eurostat:nuts_2021_id":"1002321660501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321660501",
+    "eurostat:population":3743,
+    "eurostat:population_year":2020,
     "geom:area":0.016149,
-    "geom:area_square_m":117459363.257462,
+    "geom:area_square_m":117459363.257457,
     "geom:bbox":"15.26287968,53.910257719,15.466358938,54.040833629",
     "geom:latitude":53.96903,
     "geom:longitude":15.35979,
@@ -69,7 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -82,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321660501",
+        "eurostat:nuts_2021_id":"1002321660501",
         "gn:id":3102597,
         "gp:id":12616790,
         "qs_pg:id":1148847
@@ -94,7 +109,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"dc92e7e5a2937728ba4b1b953405aaf5",
+    "wof:geomhash":"fbd61693d2baf482bbee6614a9da3108",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,12 +120,12 @@
         }
     ],
     "wof:id":1125350347,
-    "wof:lastmodified":1582357717,
+    "wof:lastmodified":1684354255,
     "wof:name":"Brojce",
     "wof:parent_id":102080165,
     "wof:placetype":"localadmin",
-    "wof:population":1248,
-    "wof:population_rank":3,
+    "wof:population":3743,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321630806",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siemy\u015bl",
+    "eurostat:nuts_2021_id":"1002321630806",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321630806",
+    "eurostat:population":3853,
+    "eurostat:population_year":2020,
     "geom:area":0.01472,
-    "geom:area_square_m":106860525.906097,
+    "geom:area_square_m":106860525.906088,
     "geom:bbox":"15.433518007,53.975967632,15.636080747,54.111640909",
     "geom:latitude":54.047756,
     "geom:longitude":15.535676,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":15.511946,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102080177
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321630806",
+        "eurostat:nuts_2021_id":"1002321630806"
+    },
     "wof:coterminous":[
         101874493
     ],
     "wof:country":"PL",
-    "wof:geomhash":"19e36b02648abd4ef4f255a4f486d027",
+    "wof:geomhash":"636c440bbea24ef04a6d3bf32c970c03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477752973,
-    "wof:lastmodified":1570004007,
+    "wof:lastmodified":1684354439,
     "wof:name":"Siemy\u015bl",
     "wof:parent_id":102080177,
     "wof:placetype":"localadmin",
+    "wof:population":3853,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

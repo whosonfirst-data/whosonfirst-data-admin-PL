@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kostrzyn",
+    "eurostat:nuts_2021_id":"1002301612108",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612108",
+    "eurostat:population":18491,
+    "eurostat:population_year":2020,
     "geom:area":0.020426,
-    "geom:area_square_m":154177291.882439,
+    "geom:area_square_m":154177291.882443,
     "geom:bbox":"17.117626411,52.311748235,17.375179968,52.44948784",
     "geom:latitude":52.379066,
     "geom:longitude":17.255977,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612108",
+        "eurostat:nuts_2021_id":"1002301612108",
         "gn:id":3095058,
         "gp:id":24547908,
         "qs_pg:id":1043178
@@ -159,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c09973a41dbf3ffa6bf638b6ce11e940",
+    "wof:geomhash":"c5aa463ddef7d31e751a89b7d551cf36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,12 +185,12 @@
         }
     ],
     "wof:id":1125282479,
-    "wof:lastmodified":1582357776,
+    "wof:lastmodified":1684354151,
     "wof:name":"Gmina Kostrzyn",
     "wof:parent_id":102079955,
     "wof:placetype":"localadmin",
-    "wof:population":8965,
-    "wof:population_rank":5,
+    "wof:population":18491,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

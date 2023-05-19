@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142270701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Garbatka-Letnisko",
+    "eurostat:nuts_2021_id":"1007142270701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142270701",
+    "eurostat:population":5001,
+    "eurostat:population_year":2020,
     "geom:area":0.009555,
-    "geom:area_square_m":73561688.512179,
+    "geom:area_square_m":73561688.512174,
     "geom:bbox":"21.536967293,51.444390842,21.762433222,51.529644213",
     "geom:latitude":51.492175,
     "geom:longitude":21.631124,
@@ -81,7 +93,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -94,6 +107,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142270701",
+        "eurostat:nuts_2021_id":"1007142270701",
         "gn:id":772372,
         "gp:id":12616853,
         "qs_pg:id":270389
@@ -106,7 +121,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"499d7f473c3e6fdddcf65dcbc13fc8b3",
+    "wof:geomhash":"f58a92bcffc25307ee2e8a16fa6a5f07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,12 +132,12 @@
         }
     ],
     "wof:id":1125301093,
-    "wof:lastmodified":1582357886,
+    "wof:lastmodified":1684354193,
     "wof:name":"Garbatka-Letnisko",
     "wof:parent_id":102079859,
     "wof:placetype":"localadmin",
-    "wof:population":3295,
-    "wof:population_rank":4,
+    "wof:population":5001,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

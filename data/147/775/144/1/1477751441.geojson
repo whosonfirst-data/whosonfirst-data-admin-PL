@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121240402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u0105browa Tarnowska",
+    "eurostat:nuts_2021_id":"1001121240402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL217",
+    "eurostat:nuts_2021_level_lau":"1001121240402",
+    "eurostat:population":21256,
+    "eurostat:population_year":2020,
     "geom:area":0.014653,
-    "geom:area_square_m":116048870.404694,
+    "geom:area_square_m":116048870.404713,
     "geom:bbox":"20.931421644,50.106635644,21.110868026,50.250993447",
     "geom:latitude":50.171159,
     "geom:longitude":21.022711,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":21.024067,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079567
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121240402",
+        "eurostat:nuts_2021_id":"1001121240402"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"35591cfd18aa3040642bfd47adfa922f",
+    "wof:geomhash":"3559e1818bdcb317d24cb9035601c24e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751441,
-    "wof:lastmodified":1570001656,
+    "wof:lastmodified":1684354358,
     "wof:name":"Gmina D\u0105browa Tarnowska",
     "wof:parent_id":102079567,
     "wof:placetype":"localadmin",
+    "wof:population":21256,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

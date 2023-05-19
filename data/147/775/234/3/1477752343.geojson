@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181340407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pruchnik",
+    "eurostat:nuts_2021_id":"1006181340407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181340407",
+    "eurostat:population":9681,
+    "eurostat:population_year":2020,
     "geom:area":0.01005,
-    "geom:area_square_m":80050096.033343,
+    "geom:area_square_m":80050096.033301,
     "geom:bbox":"22.410472825,49.842680958,22.569290959,49.95261163",
     "geom:latitude":49.898198,
     "geom:longitude":22.490744,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":22.490733,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079573
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181340407",
+        "eurostat:nuts_2021_id":"1006181340407"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"085e83ee477838777d3076b1e6ec61b6",
+    "wof:geomhash":"fda28880d3e4237bcb35a22fec82e9e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752343,
-    "wof:lastmodified":1570001202,
+    "wof:lastmodified":1684354405,
     "wof:name":"Gmina Pruchnik",
     "wof:parent_id":102079573,
     "wof:placetype":"localadmin",
+    "wof:population":9681,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

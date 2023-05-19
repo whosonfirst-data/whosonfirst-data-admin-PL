@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kondratowice",
+    "eurostat:nuts_2021_id":"1003021041702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041702",
+    "eurostat:population":4276,
+    "eurostat:population_year":2020,
     "geom:area":0.01252,
-    "geom:area_square_m":97925037.1017,
+    "geom:area_square_m":97925037.101735,
     "geom:bbox":"16.85789385,50.699561627,17.012141671,50.834422825",
     "geom:latitude":50.763653,
     "geom:longitude":16.937297,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":16.931055,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079609
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041702",
+        "eurostat:nuts_2021_id":"1003021041702"
+    },
     "wof:coterminous":[
         1126006897
     ],
     "wof:country":"PL",
-    "wof:geomhash":"00d3c404dc85ebda2eecc749b6361095",
+    "wof:geomhash":"74cfb09a2a813dd12b85e1d6626a9f60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751351,
-    "wof:lastmodified":1569998930,
+    "wof:lastmodified":1684354353,
     "wof:name":"Kondratowice",
     "wof:parent_id":102079609,
     "wof:placetype":"localadmin",
+    "wof:population":4276,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

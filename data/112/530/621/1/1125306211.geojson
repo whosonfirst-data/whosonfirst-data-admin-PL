@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solec-Zdr\u00f3j",
+    "eurostat:nuts_2021_id":"1005261530105",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530105",
+    "eurostat:population":5036,
+    "eurostat:population_year":2020,
     "geom:area":0.010749,
-    "geom:area_square_m":84760217.419994,
+    "geom:area_square_m":84760217.419974,
     "geom:bbox":"20.805478248,50.329129382,20.974050884,50.432465638",
     "geom:latitude":50.377506,
     "geom:longitude":20.886207,
@@ -80,7 +92,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -93,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530105",
+        "eurostat:nuts_2021_id":"1005261530105",
         "gn:id":758603,
         "gp:id":12617786,
         "qs_pg:id":1192030
@@ -105,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f709f78c41c25874b43a1f7c82458044",
+    "wof:geomhash":"f00d3b4a27f34aa93d6b31a23adf79c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,12 +131,12 @@
         }
     ],
     "wof:id":1125306211,
-    "wof:lastmodified":1582357873,
+    "wof:lastmodified":1684354208,
     "wof:name":"Solec-Zdr\u00f3j",
     "wof:parent_id":102079615,
     "wof:placetype":"localadmin",
-    "wof:population":900,
-    "wof:population_rank":2,
+    "wof:population":5036,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

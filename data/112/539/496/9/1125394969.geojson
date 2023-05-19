@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261531306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u0142oszczowa",
+    "eurostat:nuts_2021_id":"1005261531306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261531306",
+    "eurostat:population":19292,
+    "eurostat:population_year":2020,
     "geom:area":0.032491,
-    "geom:area_square_m":253731607.637728,
+    "geom:area_square_m":253731607.637719,
     "geom:bbox":"19.747060002,50.721699034,20.12147002,50.930215443",
     "geom:latitude":50.834509,
     "geom:longitude":19.955545,
@@ -155,7 +167,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -168,6 +181,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261531306",
+        "eurostat:nuts_2021_id":"1005261531306",
         "gn:id":3081699,
         "gp:id":24548727,
         "qs_pg:id":1043117
@@ -177,7 +192,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1292fc9b423c1001b02c3d2202e42033",
+    "wof:geomhash":"9ac0ff04ab98bf762334152ac035d979",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,11 +203,11 @@
         }
     ],
     "wof:id":1125394969,
-    "wof:lastmodified":1582357909,
+    "wof:lastmodified":1684354315,
     "wof:name":"Gmina W\u0142oszczowa",
     "wof:parent_id":102079679,
     "wof:placetype":"localadmin",
-    "wof:population":10661,
+    "wof:population":19292,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

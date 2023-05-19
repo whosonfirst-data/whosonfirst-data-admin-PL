@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121241611",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wierzchos\u0142awice",
+    "eurostat:nuts_2021_id":"1001121241611",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL217",
+    "eurostat:nuts_2021_level_lau":"1001121241611",
+    "eurostat:population":10857,
+    "eurostat:population_year":2020,
     "geom:area":0.009417,
     "geom:area_square_m":74803788.193439,
     "geom:bbox":"20.754949515,49.966844727,20.917005886,50.07761637",
@@ -68,7 +80,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -81,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121241611",
+        "eurostat:nuts_2021_id":"1001121241611",
         "gn:id":755775,
         "gp:id":24548646,
         "qs_pg:id":192580
@@ -93,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2ef90be80ba934c9ec01fa01526dfdd9",
+    "wof:geomhash":"ef78e97fd5a202da9d4dfe72e4398a07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,12 +119,12 @@
         }
     ],
     "wof:id":1125295291,
-    "wof:lastmodified":1582357817,
+    "wof:lastmodified":1684354185,
     "wof:name":"Wierzchos\u0142awice",
     "wof:parent_id":102079535,
     "wof:placetype":"localadmin",
-    "wof:population":3000,
-    "wof:population_rank":4,
+    "wof:population":10857,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

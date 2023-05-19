@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281560101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bartoszyce",
+    "eurostat:nuts_2021_id":"1004281560101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281560101",
+    "eurostat:population":23284,
+    "eurostat:population_year":2020,
     "geom:area":0.001625,
-    "geom:area_square_m":11736269.49089,
+    "geom:area_square_m":11736269.490884,
     "geom:bbox":"20.768663923,54.234772331,20.852106392,54.276841451",
     "geom:latitude":54.252806,
     "geom:longitude":20.807016,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":20.799433,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080247
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281560101",
+        "eurostat:nuts_2021_id":"1004281560101"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"f9bde9d2cab17d8fab61363e2891076b",
+    "wof:geomhash":"36ee42f53b730d47f3d29f6dbe30791b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752859,
-    "wof:lastmodified":1570003189,
+    "wof:lastmodified":1684354433,
     "wof:name":"Gmina Bartoszyce",
     "wof:parent_id":102080247,
     "wof:placetype":"localadmin",
+    "wof:population":23284,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121231810",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wieprz",
+    "eurostat:nuts_2021_id":"1001121231810",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL21A",
+    "eurostat:nuts_2021_level_lau":"1001121231810",
+    "eurostat:population":12432,
+    "eurostat:population_year":2020,
     "geom:area":0.009318,
     "geom:area_square_m":74200358.213733,
     "geom:bbox":"19.298335937,49.861355104,19.452301668,49.964335047",
@@ -89,6 +101,8 @@
     "reversegeo:longitude":19.395124,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -96,11 +110,15 @@
         102079451
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121231810",
+        "eurostat:nuts_2021_id":"1001121231810"
+    },
     "wof:coterminous":[
         101841501
     ],
     "wof:country":"PL",
-    "wof:geomhash":"8e0de15eef012b0b72cc726a7edb9413",
+    "wof:geomhash":"b2dff13632addc1767a992ffae461496",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +129,12 @@
         }
     ],
     "wof:id":1477752025,
-    "wof:lastmodified":1570001083,
+    "wof:lastmodified":1684354388,
     "wof:name":"Wieprz",
     "wof:parent_id":102079451,
     "wof:placetype":"localadmin",
+    "wof:population":12432,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

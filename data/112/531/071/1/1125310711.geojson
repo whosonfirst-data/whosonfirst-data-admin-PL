@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101152004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aleksandr\u00f3w \u0141\u00f3dzki",
+    "eurostat:nuts_2021_id":"1005101152004",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL712",
+    "eurostat:nuts_2021_level_lau":"1005101152004",
+    "eurostat:population":32303,
+    "eurostat:population_year":2020,
     "geom:area":0.015179,
-    "geom:area_square_m":115993997.400405,
+    "geom:area_square_m":115993997.400427,
     "geom:bbox":"19.138556674,51.771218368,19.357273227,51.884144915",
     "geom:latitude":51.829952,
     "geom:longitude":19.250761,
@@ -180,7 +192,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -193,6 +206,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101152004",
+        "eurostat:nuts_2021_id":"1005101152004",
         "gn:id":3104132,
         "gp:id":24548349,
         "qs_pg:id":1257555
@@ -202,7 +217,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2344c38e9da31bc462334dc5238dc86f",
+    "wof:geomhash":"902f97bb7bab3d38ad9c2496cdd820c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -213,11 +228,11 @@
         }
     ],
     "wof:id":1125310711,
-    "wof:lastmodified":1582357947,
+    "wof:lastmodified":1684354213,
     "wof:name":"Gmina Aleksandr\u00f3w \u0141\u00f3dzki",
     "wof:parent_id":102079873,
     "wof:placetype":"localadmin",
-    "wof:population":20292,
+    "wof:population":32303,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

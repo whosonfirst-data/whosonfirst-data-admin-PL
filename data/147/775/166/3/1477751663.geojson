@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041071201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rypin",
+    "eurostat:nuts_2021_id":"1004041071201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL616",
+    "eurostat:nuts_2021_level_lau":"1004041071201",
+    "eurostat:population":16130,
+    "eurostat:population_year":2020,
     "geom:area":0.001469,
     "geom:area_square_m":10914012.796051,
     "geom:bbox":"19.385903633,53.042805565,19.455438582,53.083331294",
@@ -65,6 +77,8 @@
     "reversegeo:longitude":19.420345,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080059
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041071201",
+        "eurostat:nuts_2021_id":"1004041071201"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"fadeea1dd532660c69af75539e9b9982",
+    "wof:geomhash":"b1f528f8dabc0d2ac4e8a73c50a1c240",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751663,
-    "wof:lastmodified":1569999165,
+    "wof:lastmodified":1684354369,
     "wof:name":"Gmina Rypin",
     "wof:parent_id":102080059,
     "wof:placetype":"localadmin",
+    "wof:population":16130,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

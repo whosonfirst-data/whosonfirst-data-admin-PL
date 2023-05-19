@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142713308",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stoczek",
+    "eurostat:nuts_2021_id":"1007142713308",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142713308",
+    "eurostat:population":4945,
+    "eurostat:population_year":2020,
     "geom:area":0.019146,
-    "geom:area_square_m":143975288.352649,
+    "geom:area_square_m":143975288.352682,
     "geom:bbox":"21.793872746,52.475933033,22.008864948,52.609911204",
     "geom:latitude":52.544606,
     "geom:longitude":21.904785,
@@ -86,7 +98,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -99,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142713308",
+        "eurostat:nuts_2021_id":"1007142713308",
         "gn:id":758162,
         "gp:id":12617779,
         "qs_pg:id":1014864
@@ -111,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"102a13ac4fd573b4da9561a26167a6a8",
+    "wof:geomhash":"cdc5fe342ad12c5781b42fb62499391a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,12 +137,12 @@
         }
     ],
     "wof:id":1125384063,
-    "wof:lastmodified":1582357931,
+    "wof:lastmodified":1684354301,
     "wof:name":"Stoczek",
     "wof:parent_id":102080015,
     "wof:placetype":"localadmin",
-    "wof:population":890,
-    "wof:population_rank":2,
+    "wof:population":4945,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

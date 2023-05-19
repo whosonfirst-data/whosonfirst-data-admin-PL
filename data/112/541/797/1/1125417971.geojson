@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017barki",
+    "eurostat:nuts_2021_id":"1001241460905",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460905",
+    "eurostat:population":8453,
+    "eurostat:population_year":2020,
     "geom:area":0.012839,
-    "geom:area_square_m":100693855.630586,
+    "geom:area_square_m":100693855.630621,
     "geom:bbox":"19.248948174,50.580731565,19.489121852,50.692722169",
     "geom:latitude":50.635932,
     "geom:longitude":19.366927,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460905",
+        "eurostat:nuts_2021_id":"1001241460905",
         "gn:id":3080674,
         "gp:id":24548713,
         "qs_pg:id":1189942
@@ -159,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"caa446f881234fd9a2f508e69d2fd42b",
+    "wof:geomhash":"528f6d4b2cd4584ef6987a421b6feee2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,12 +185,12 @@
         }
     ],
     "wof:id":1125417971,
-    "wof:lastmodified":1582358006,
+    "wof:lastmodified":1684354340,
     "wof:name":"Gmina \u017barki",
     "wof:parent_id":102079605,
     "wof:placetype":"localadmin",
-    "wof:population":4363,
-    "wof:population_rank":4,
+    "wof:population":8453,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

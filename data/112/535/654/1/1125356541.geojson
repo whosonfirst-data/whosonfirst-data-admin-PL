@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081130101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kostrzyn nad Odr\u0105",
+    "eurostat:nuts_2021_id":"1002081130101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL431",
+    "eurostat:nuts_2021_level_lau":"1002081130101",
+    "eurostat:population":17730,
+    "eurostat:population_year":2020,
     "geom:area":0.006123,
-    "geom:area_square_m":45968355.081276,
+    "geom:area_square_m":45968355.081273,
     "geom:bbox":"14.564033992,52.572150532,14.716271075,52.660408184",
     "geom:latitude":52.614703,
     "geom:longitude":14.638129,
@@ -153,6 +165,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -165,6 +179,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081130101",
+        "eurostat:nuts_2021_id":"1002081130101",
         "gp:id":12618497,
         "qs_pg:id":289431
     },
@@ -176,7 +192,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b8b5a45eabb98ef3c9a41c9647f656e0",
+    "wof:geomhash":"c0c07ed0272d274aa7d32083c27d2748",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,10 +203,12 @@
         }
     ],
     "wof:id":1125356541,
-    "wof:lastmodified":1582357717,
+    "wof:lastmodified":1684354263,
     "wof:name":"Kostrzyn nad Odr\u0105",
     "wof:parent_id":102079975,
     "wof:placetype":"localadmin",
+    "wof:population":17730,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

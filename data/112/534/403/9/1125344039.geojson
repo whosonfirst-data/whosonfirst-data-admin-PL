@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sucha Beskidzka",
+    "eurostat:nuts_2021_id":"1001121691502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691502",
+    "eurostat:population":9088,
+    "eurostat:population_year":2020,
     "geom:area":0.003449,
-    "geom:area_square_m":27563351.974156,
+    "geom:area_square_m":27563351.974152,
     "geom:bbox":"19.53357405,49.698136806,19.621811584,49.766938981",
     "geom:latitude":49.736126,
     "geom:longitude":19.577791,
@@ -141,6 +153,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -153,6 +167,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691502",
+        "eurostat:nuts_2021_id":"1001121691502",
         "gp:id":12618735,
         "qs_pg:id":276317
     },
@@ -164,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"44781e38ad6b842ef4b0012dd88c553b",
+    "wof:geomhash":"2fb9f66e06f34210dc50011f42de9c5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +191,12 @@
         }
     ],
     "wof:id":1125344039,
-    "wof:lastmodified":1582357697,
+    "wof:lastmodified":1684354252,
     "wof:name":"Sucha Beskidzka",
     "wof:parent_id":102079419,
     "wof:placetype":"localadmin",
+    "wof:population":9088,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

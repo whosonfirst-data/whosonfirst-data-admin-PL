@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321660504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"P\u0142oty",
+    "eurostat:nuts_2021_id":"1002321660504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321660504",
+    "eurostat:population":8801,
+    "eurostat:population_year":2020,
     "geom:area":0.03264,
-    "geom:area_square_m":238201550.926932,
+    "geom:area_square_m":238201550.926938,
     "geom:bbox":"15.083245464,53.72678719,15.48617168,53.939169168",
     "geom:latitude":53.828713,
     "geom:longitude":15.288237,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -162,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321660504",
+        "eurostat:nuts_2021_id":"1002321660504",
         "gn:id":3088788,
         "gp:id":24547652,
         "qs_pg:id":1200403
@@ -171,7 +186,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ded70d6c0656389942dddf1ca5c2be46",
+    "wof:geomhash":"861390f72afcbb27bd1a8c47e12df371",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,12 +197,12 @@
         }
     ],
     "wof:id":1125290225,
-    "wof:lastmodified":1582357811,
+    "wof:lastmodified":1684354175,
     "wof:name":"Gmina P\u0142oty",
     "wof:parent_id":102080165,
     "wof:placetype":"localadmin",
-    "wof:population":4093,
-    "wof:population_rank":4,
+    "wof:population":8801,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

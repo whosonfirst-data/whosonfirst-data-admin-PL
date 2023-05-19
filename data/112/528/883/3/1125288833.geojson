@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181331702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Besko",
+    "eurostat:nuts_2021_id":"1006181331702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181331702",
+    "eurostat:population":4508,
+    "eurostat:population_year":2020,
     "geom:area":0.003417,
-    "geom:area_square_m":27384990.698195,
+    "geom:area_square_m":27384990.698209,
     "geom:bbox":"21.906743526,49.561786408,21.996072657,49.620485043",
     "geom:latitude":49.593039,
     "geom:longitude":21.953484,
@@ -71,7 +83,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -84,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181331702",
+        "eurostat:nuts_2021_id":"1006181331702",
         "gn:id":776214,
         "gp:id":12617413,
         "qs_pg:id":24001
@@ -96,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c8d4162f7c6a609793e3fc0a85426f91",
+    "wof:geomhash":"453e58abd5d493ad13f72b72c1ba3018",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,11 +122,11 @@
         }
     ],
     "wof:id":1125288833,
-    "wof:lastmodified":1582357775,
+    "wof:lastmodified":1684354165,
     "wof:name":"Besko",
     "wof:parent_id":102079437,
     "wof:placetype":"localadmin",
-    "wof:population":3700,
+    "wof:population":4508,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

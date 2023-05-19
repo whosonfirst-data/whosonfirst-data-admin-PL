@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nidzica",
+    "eurostat:nuts_2021_id":"1004281561104",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561104",
+    "eurostat:population":21003,
+    "eurostat:population_year":2020,
     "geom:area":0.051193,
-    "geom:area_square_m":377234970.525678,
+    "geom:area_square_m":377234970.525611,
     "geom:bbox":"20.294798583,53.287331099,20.690460718,53.530698455",
     "geom:latitude":53.420246,
     "geom:longitude":20.475285,
@@ -144,6 +156,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -156,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561104",
+        "eurostat:nuts_2021_id":"1004281561104",
         "gp:id":24547645,
         "qs_pg:id":888206
     },
@@ -164,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2fab28796508772f815cd85278dca3d4",
+    "wof:geomhash":"26726f958d6ea03d210baebe7ed216d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +191,12 @@
         }
     ],
     "wof:id":1125396289,
-    "wof:lastmodified":1582357905,
+    "wof:lastmodified":1684354317,
     "wof:name":"Gmina Nidzica",
     "wof:parent_id":102080129,
     "wof:placetype":"localadmin",
+    "wof:population":21003,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

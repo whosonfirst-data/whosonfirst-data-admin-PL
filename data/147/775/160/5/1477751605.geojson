@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321631305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Postomino",
+    "eurostat:nuts_2021_id":"1002321631305",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321631305",
+    "eurostat:population":6891,
+    "eurostat:population_year":2020,
     "geom:area":0.03145,
-    "geom:area_square_m":225876126.694128,
+    "geom:area_square_m":225876126.69414,
     "geom:bbox":"16.472282891,54.412555178,16.841119809,54.569663778",
     "geom:latitude":54.490886,
     "geom:longitude":16.664571,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":16.667349,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102080227
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321631305",
+        "eurostat:nuts_2021_id":"1002321631305"
+    },
     "wof:coterminous":[
         1125776605
     ],
     "wof:country":"PL",
-    "wof:geomhash":"99aed01a4b0fe6e5ca04d68cb1e8a8b9",
+    "wof:geomhash":"49552c0caf7b6e0ecd320b414102287e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477751605,
-    "wof:lastmodified":1569999407,
+    "wof:lastmodified":1684354366,
     "wof:name":"Postomino",
     "wof:parent_id":102080227,
     "wof:placetype":"localadmin",
+    "wof:population":6891,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

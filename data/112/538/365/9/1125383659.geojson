@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301582305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Powidz",
+    "eurostat:nuts_2021_id":"1002301582305",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301582305",
+    "eurostat:population":2320,
+    "eurostat:population_year":2020,
     "geom:area":0.010662,
-    "geom:area_square_m":80382296.464748,
+    "geom:area_square_m":80382296.464758,
     "geom:bbox":"17.850248112,52.365503162,18.051769298,52.487489354",
     "geom:latitude":52.430754,
     "geom:longitude":17.934252,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":17.949532,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079941
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301582305",
+        "eurostat:nuts_2021_id":"1002301582305"
+    },
     "wof:coterminous":[
         101820281
     ],
     "wof:country":"PL",
-    "wof:geomhash":"78b09ae440c225a6c1ea77d750bbfa26",
+    "wof:geomhash":"3d9c0d80bcb0271a0dd6aab44e095d67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125383659,
-    "wof:lastmodified":1569995985,
+    "wof:lastmodified":1684354300,
     "wof:name":"Powidz",
     "wof:parent_id":102079941,
     "wof:placetype":"localadmin",
+    "wof:population":2320,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

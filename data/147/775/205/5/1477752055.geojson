@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142263505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wyszk\u00f3w",
+    "eurostat:nuts_2021_id":"1007142263505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142263505",
+    "eurostat:population":39637,
+    "eurostat:population_year":2020,
     "geom:area":0.0219,
-    "geom:area_square_m":164536802.992812,
+    "geom:area_square_m":164536802.99284,
     "geom:bbox":"21.326735788,52.52254554,21.610945558,52.656239312",
     "geom:latitude":52.58425,
     "geom:longitude":21.458152,
@@ -56,6 +68,8 @@
     "reversegeo:longitude":21.446377,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -63,8 +77,12 @@
         102080045
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142263505",
+        "eurostat:nuts_2021_id":"1007142263505"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"f1b4ee6caed3e95a86ef1128e8bbe074",
+    "wof:geomhash":"574becbff1198a839a6cc97b2d91c170",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477752055,
-    "wof:lastmodified":1570001136,
+    "wof:lastmodified":1684354389,
     "wof:name":"Gmina Wyszk\u00f3w",
     "wof:parent_id":102080045,
     "wof:placetype":"localadmin",
+    "wof:population":39637,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

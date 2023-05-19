@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041670701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Inowroc\u0142aw",
+    "eurostat:nuts_2021_id":"1004041670701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL617",
+    "eurostat:nuts_2021_level_lau":"1004041670701",
+    "eurostat:population":72561,
+    "eurostat:population_year":2020,
     "geom:area":0.004051,
-    "geom:area_square_m":30302230.256815,
+    "geom:area_square_m":30302230.256824,
     "geom:bbox":"18.207166382,52.74373433,18.293228158,52.819655638",
     "geom:latitude":52.780777,
     "geom:longitude":18.253341,
@@ -68,6 +80,8 @@
     "reversegeo:longitude":18.252507,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -75,8 +89,12 @@
         102080013
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041670701",
+        "eurostat:nuts_2021_id":"1004041670701"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"986e43392d7cec959a09a81930fda5f0",
+    "wof:geomhash":"d80274f20fa4d3d5e09488fdbd8e8878",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477751551,
-    "wof:lastmodified":1570002433,
+    "wof:lastmodified":1684354363,
     "wof:name":"Gmina Inowroc\u0142aw",
     "wof:parent_id":102080013,
     "wof:placetype":"localadmin",
+    "wof:population":72561,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

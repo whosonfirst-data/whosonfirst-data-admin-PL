@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021020404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u0105sosz",
+    "eurostat:nuts_2021_id":"1003021020404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021020404",
+    "eurostat:population":7155,
+    "eurostat:population_year":2020,
     "geom:area":0.025551,
-    "geom:area_square_m":196385340.058685,
+    "geom:area_square_m":196385340.058705,
     "geom:bbox":"16.586025512,51.485407383,16.8287686,51.648604589",
     "geom:latitude":51.567413,
     "geom:longitude":16.713354,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":16.713373,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,8 +56,12 @@
         102079771
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021020404",
+        "eurostat:nuts_2021_id":"1003021020404"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"d7a9483c05ab79bae5470dc018176c3c",
+    "wof:geomhash":"af97858adb018f9ab7b8c5acaa4deff0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477751357,
-    "wof:lastmodified":1569998924,
+    "wof:lastmodified":1684354353,
     "wof:name":"Gmina W\u0105sosz",
     "wof:parent_id":102079771,
     "wof:placetype":"localadmin",
+    "wof:population":7155,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

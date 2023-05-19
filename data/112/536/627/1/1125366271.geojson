@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081140202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bobrowice",
+    "eurostat:nuts_2021_id":"1002081140202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081140202",
+    "eurostat:population":3178,
+    "eurostat:population_year":2020,
     "geom:area":0.024205,
-    "geom:area_square_m":184558148.359211,
+    "geom:area_square_m":184558148.359217,
     "geom:bbox":"14.917617047,51.860864827,15.200062122,52.010794474",
     "geom:latitude":51.929007,
     "geom:longitude":15.056533,
@@ -69,7 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -82,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081140202",
+        "eurostat:nuts_2021_id":"1002081140202",
         "gn:id":3103162,
         "gp:id":12617240,
         "qs_pg:id":961199
@@ -94,7 +109,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f79bbe78bfc7b845b17c6092d99e331c",
+    "wof:geomhash":"92a05d1e6d9bcbf71bdaf3a013dd899c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,12 +120,12 @@
         }
     ],
     "wof:id":1125366271,
-    "wof:lastmodified":1582357966,
+    "wof:lastmodified":1684354275,
     "wof:name":"Bobrowice",
     "wof:parent_id":102079843,
     "wof:placetype":"localadmin",
-    "wof:population":884,
-    "wof:population_rank":2,
+    "wof:population":3178,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

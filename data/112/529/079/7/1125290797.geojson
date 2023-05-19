@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181360805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowa Sarzyna",
+    "eurostat:nuts_2021_id":"1006181360805",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181360805",
+    "eurostat:population":21579,
+    "eurostat:population_year":2020,
     "geom:area":0.018157,
-    "geom:area_square_m":143348549.499204,
+    "geom:area_square_m":143348549.499237,
     "geom:bbox":"22.188599998,50.251450757,22.402654552,50.3967763",
     "geom:latitude":50.321526,
     "geom:longitude":22.297161,
@@ -113,7 +125,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -126,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181360805",
+        "eurostat:nuts_2021_id":"1006181360805",
         "gn:id":763765,
         "gp:id":24548597,
         "qs_pg:id":1200789
@@ -135,7 +150,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c795f1ad6e59a835ec1d6c19eeadaded",
+    "wof:geomhash":"0948e374ec0e5ff75dc5770a2019738b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,12 +161,12 @@
         }
     ],
     "wof:id":1125290797,
-    "wof:lastmodified":1582357809,
+    "wof:lastmodified":1684354176,
     "wof:name":"Gmina Nowa Sarzyna",
     "wof:parent_id":102079599,
     "wof:placetype":"localadmin",
-    "wof:population":6255,
-    "wof:population_rank":5,
+    "wof:population":21579,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

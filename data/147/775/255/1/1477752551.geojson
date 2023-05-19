@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orla",
+    "eurostat:nuts_2021_id":"1006201380306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380306",
+    "eurostat:population":2702,
+    "eurostat:population_year":2020,
     "geom:area":0.021244,
-    "geom:area_square_m":159272118.312788,
+    "geom:area_square_m":159272118.312835,
     "geom:bbox":"23.175526854,52.588417928,23.402481831,52.755796786",
     "geom:latitude":52.675762,
     "geom:longitude":23.289637,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":23.281951,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,11 +80,15 @@
         102080071
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380306",
+        "eurostat:nuts_2021_id":"1006201380306"
+    },
     "wof:coterminous":[
         1126033561
     ],
     "wof:country":"PL",
-    "wof:geomhash":"ba8d8a952664837d5b377efdadf9d0e1",
+    "wof:geomhash":"8640ee46e7d54392828665a1e7441ce2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752551,
-    "wof:lastmodified":1570004042,
+    "wof:lastmodified":1684354415,
     "wof:name":"Orla",
     "wof:parent_id":102080071,
     "wof:placetype":"localadmin",
+    "wof:population":2702,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

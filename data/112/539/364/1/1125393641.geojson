@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181351005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Markowa",
+    "eurostat:nuts_2021_id":"1006181351005",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181351005",
+    "eurostat:population":6481,
+    "eurostat:population_year":2020,
     "geom:area":0.008618,
-    "geom:area_square_m":68511521.936051,
+    "geom:area_square_m":68511521.936048,
     "geom:bbox":"22.210684832,49.926475493,22.354129051,50.052432245",
     "geom:latitude":49.988013,
     "geom:longitude":22.286657,
@@ -71,7 +83,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -84,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181351005",
+        "eurostat:nuts_2021_id":"1006181351005",
         "gn:id":765188,
         "gp:id":12618783,
         "qs_pg:id":1019272
@@ -96,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a8acca7c23256137f590c1b16d6ad042",
+    "wof:geomhash":"e2e300f197054ac7b91c638c0dc4998f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,12 +122,12 @@
         }
     ],
     "wof:id":1125393641,
-    "wof:lastmodified":1582357905,
+    "wof:lastmodified":1684354313,
     "wof:name":"Markowa",
     "wof:parent_id":102079565,
     "wof:placetype":"localadmin",
-    "wof:population":4100,
-    "wof:population_rank":4,
+    "wof:population":6481,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

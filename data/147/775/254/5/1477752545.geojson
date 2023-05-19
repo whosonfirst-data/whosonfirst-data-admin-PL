@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142701913",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stara Bia\u0142a",
+    "eurostat:nuts_2021_id":"1007142701913",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL923",
+    "eurostat:nuts_2021_level_lau":"1007142701913",
+    "eurostat:population":11968,
+    "eurostat:population_year":2020,
     "geom:area":0.014744,
-    "geom:area_square_m":110689902.416456,
+    "geom:area_square_m":110689902.416452,
     "geom:bbox":"19.545356355,52.553077821,19.757935245,52.683395858",
     "geom:latitude":52.617035,
     "geom:longitude":19.651825,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":19.669549,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102080003
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142701913",
+        "eurostat:nuts_2021_id":"1007142701913"
+    },
     "wof:coterminous":[
         1293422343
     ],
     "wof:country":"PL",
-    "wof:geomhash":"d3e4cbbb8e9f495a40c182c3c6e74282",
+    "wof:geomhash":"feb0b1c23473fde82dc5de9e0864e0f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477752545,
-    "wof:lastmodified":1570003629,
+    "wof:lastmodified":1684354415,
     "wof:name":"Stara Bia\u0142a",
     "wof:parent_id":102080003,
     "wof:placetype":"localadmin",
+    "wof:population":11968,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

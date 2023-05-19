@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261520506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u0142upia Konecka",
+    "eurostat:nuts_2021_id":"1005261520506",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL721",
+    "eurostat:nuts_2021_level_lau":"1005261520506",
+    "eurostat:population":3319,
+    "eurostat:population_year":2020,
     "geom:area":0.013548,
-    "geom:area_square_m":105378231.672452,
+    "geom:area_square_m":105378231.672464,
     "geom:bbox":"20.032556657,50.960471768,20.223719837,51.077800038",
     "geom:latitude":51.021665,
     "geom:longitude":20.125683,
@@ -79,7 +91,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -92,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261520506",
+        "eurostat:nuts_2021_id":"1005261520506",
         "gn:id":758857,
         "gp:id":12617534,
         "qs_pg:id":1160564
@@ -104,7 +119,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fcf5706e7f02510ace9b1622c698ceeb",
+    "wof:geomhash":"1b0d9413b253aaf69788f0e4de20581d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,12 +130,12 @@
         }
     ],
     "wof:id":1125358795,
-    "wof:lastmodified":1582357712,
+    "wof:lastmodified":1684354265,
     "wof:name":"S\u0142upia Konecka",
     "wof:parent_id":102079739,
     "wof:placetype":"localadmin",
-    "wof:population":290,
-    "wof:population_rank":2,
+    "wof:population":3319,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

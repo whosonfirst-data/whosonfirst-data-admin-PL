@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241491105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ku\u017ania Raciborska",
+    "eurostat:nuts_2021_id":"1001241491105",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL227",
+    "eurostat:nuts_2021_level_lau":"1001241491105",
+    "eurostat:population":11768,
+    "eurostat:population_year":2020,
     "geom:area":0.01595,
-    "geom:area_square_m":126227470.227056,
+    "geom:area_square_m":126227470.227049,
     "geom:bbox":"18.235187738,50.154933974,18.503242496,50.258235303",
     "geom:latitude":50.206017,
     "geom:longitude":18.377276,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241491105",
+        "eurostat:nuts_2021_id":"1001241491105",
         "gp:id":24548768,
         "qs_pg:id":1154608
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"85608a4eef8e859f1488fdb893aa0574",
+    "wof:geomhash":"5b456f6dd612af8e2399f5d4638452f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125356785,
-    "wof:lastmodified":1582357713,
+    "wof:lastmodified":1684354264,
     "wof:name":"Gmina Ku\u017ania Raciborska",
     "wof:parent_id":102079477,
     "wof:placetype":"localadmin",
+    "wof:population":11768,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

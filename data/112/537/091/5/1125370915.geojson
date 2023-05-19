@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"J\u0119drzej\u00f3w",
+    "eurostat:nuts_2021_id":"1005261530202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530202",
+    "eurostat:population":27898,
+    "eurostat:population_year":2020,
     "geom:area":0.028808,
-    "geom:area_square_m":225869990.307313,
+    "geom:area_square_m":225869990.307279,
     "geom:bbox":"20.178511957,50.54625318,20.467562832,50.736836135",
     "geom:latitude":50.647654,
     "geom:longitude":20.307505,
@@ -144,6 +156,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -156,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530202",
+        "eurostat:nuts_2021_id":"1005261530202",
         "gp:id":24548372,
         "qs_pg:id":1184521
     },
@@ -164,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8246a15ae481dfe6dbe24a828c567623",
+    "wof:geomhash":"2daa45211f7d3c3cdc9bca8ddff21f57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +191,12 @@
         }
     ],
     "wof:id":1125370915,
-    "wof:lastmodified":1582357844,
+    "wof:lastmodified":1684354281,
     "wof:name":"Gmina J\u0119drzej\u00f3w",
     "wof:parent_id":102079641,
     "wof:placetype":"localadmin",
+    "wof:population":27898,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

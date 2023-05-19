@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142251309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wieczfnia Ko\u015bcielna",
+    "eurostat:nuts_2021_id":"1007142251309",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142251309",
+    "eurostat:population":4048,
+    "eurostat:population_year":2020,
     "geom:area":0.016095,
-    "geom:area_square_m":119245146.899267,
+    "geom:area_square_m":119245146.899272,
     "geom:bbox":"20.376331405,53.134813419,20.609241697,53.246760011",
     "geom:latitude":53.188753,
     "geom:longitude":20.485749,
@@ -77,7 +89,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -90,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142251309",
+        "eurostat:nuts_2021_id":"1007142251309",
         "gn:id":755919,
         "gp:id":12618397,
         "qs_pg:id":1251934
@@ -102,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d963b5653ea34da6941a91d3f3373273",
+    "wof:geomhash":"7099e6bb25d0c95673597276bc05eb01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,12 +128,12 @@
         }
     ],
     "wof:id":1125285071,
-    "wof:lastmodified":1582357771,
+    "wof:lastmodified":1684354155,
     "wof:name":"Wieczfnia Ko\u015bcielna",
     "wof:parent_id":102080089,
     "wof:placetype":"localadmin",
-    "wof:population":337,
-    "wof:population_rank":2,
+    "wof:population":4048,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041670903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mogilno",
+    "eurostat:nuts_2021_id":"1004041670903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL617",
+    "eurostat:nuts_2021_level_lau":"1004041670903",
+    "eurostat:population":24574,
+    "eurostat:population_year":2020,
     "geom:area":0.034025,
-    "geom:area_square_m":255297961.584744,
+    "geom:area_square_m":255297961.584753,
     "geom:bbox":"17.785473369,52.541369702,18.115101109,52.720871653",
     "geom:latitude":52.64084,
     "geom:longitude":17.968413,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -162,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041670903",
+        "eurostat:nuts_2021_id":"1004041670903",
         "gn:id":3091523,
         "gp:id":24548075,
         "qs_pg:id":192564
@@ -171,7 +186,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ae07917600f5d4a2c9fc3aca2d51a827",
+    "wof:geomhash":"fd738ebdedf84d77c125a5dd1a18c89b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,12 +197,12 @@
         }
     ],
     "wof:id":1125297095,
-    "wof:lastmodified":1582357807,
+    "wof:lastmodified":1684354189,
     "wof:name":"Gmina Mogilno",
     "wof:parent_id":102079993,
     "wof:placetype":"localadmin",
-    "wof:population":12465,
-    "wof:population_rank":6,
+    "wof:population":24574,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

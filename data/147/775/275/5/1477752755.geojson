@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kazimierza Wielka",
+    "eurostat:nuts_2021_id":"1005261530303",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530303",
+    "eurostat:population":16118,
+    "eurostat:population_year":2020,
     "geom:area":0.01772,
-    "geom:area_square_m":140107452.628024,
+    "geom:area_square_m":140107452.627989,
     "geom:bbox":"20.35297772,50.1854543,20.60241974,50.317633391",
     "geom:latitude":50.249806,
     "geom:longitude":20.480606,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":20.489089,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079561
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530303",
+        "eurostat:nuts_2021_id":"1005261530303"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"a3b1a97c91916960020624c60baace09",
+    "wof:geomhash":"1eab310fe886d1f754f1fe281f50e4a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752755,
-    "wof:lastmodified":1570000414,
+    "wof:lastmodified":1684354427,
     "wof:name":"Gmina Kazimierza Wielka",
     "wof:parent_id":102079561,
     "wof:placetype":"localadmin",
+    "wof:population":16118,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

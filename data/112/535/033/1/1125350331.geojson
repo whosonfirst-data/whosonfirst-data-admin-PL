@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061120707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trzydnik Du\u017cy",
+    "eurostat:nuts_2021_id":"1006061120707",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061120707",
+    "eurostat:population":6406,
+    "eurostat:population_year":2020,
     "geom:area":0.01329,
-    "geom:area_square_m":103746473.082779,
+    "geom:area_square_m":103746473.082778,
     "geom:bbox":"22.058566511,50.797204559,22.266319855,50.918743114",
     "geom:latitude":50.853731,
     "geom:longitude":22.151916,
@@ -66,7 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -79,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061120707",
+        "eurostat:nuts_2021_id":"1006061120707",
         "gn:id":756648,
         "gp:id":12616649,
         "qs_pg:id":1148845
@@ -91,7 +106,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cbd65ee6b6aece979acfe26b8be939d4",
+    "wof:geomhash":"c05f59b600bcf6ee8fe01cd4a4b88274",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,12 +117,12 @@
         }
     ],
     "wof:id":1125350331,
-    "wof:lastmodified":1582357717,
+    "wof:lastmodified":1684354254,
     "wof:name":"Trzydnik Du\u017cy",
     "wof:parent_id":102079721,
     "wof:placetype":"localadmin",
-    "wof:population":394,
-    "wof:population_rank":2,
+    "wof:population":6406,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041081808",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Izbica Kujawska",
+    "eurostat:nuts_2021_id":"1004041081808",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041081808",
+    "eurostat:population":7657,
+    "eurostat:population_year":2020,
     "geom:area":0.017442,
-    "geom:area_square_m":131596954.581325,
+    "geom:area_square_m":131596954.581329,
     "geom:bbox":"18.677056555,52.331783481,18.930048765,52.465326507",
     "geom:latitude":52.397603,
     "geom:longitude":18.799522,
@@ -148,7 +160,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -161,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041081808",
+        "eurostat:nuts_2021_id":"1004041081808",
         "gn:id":3097841,
         "gp:id":24547745,
         "qs_pg:id":59453
@@ -170,7 +185,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"211aa44d0d2191b10b476060315db248",
+    "wof:geomhash":"f5d66d74598ce9e1d685d6b63d852f27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,12 +196,12 @@
         }
     ],
     "wof:id":1125275941,
-    "wof:lastmodified":1582357791,
+    "wof:lastmodified":1684354143,
     "wof:name":"Gmina Izbica Kujawska",
     "wof:parent_id":102079997,
     "wof:placetype":"localadmin",
-    "wof:population":2771,
-    "wof:population_rank":4,
+    "wof:population":7657,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

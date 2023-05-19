@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181341404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jawornik Polski",
+    "eurostat:nuts_2021_id":"1006181341404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181341404",
+    "eurostat:population":4456,
+    "eurostat:population_year":2020,
     "geom:area":0.007877,
-    "geom:area_square_m":62718210.607563,
+    "geom:area_square_m":62718210.607554,
     "geom:bbox":"22.232339548,49.87236685,22.38030175,49.958493187",
     "geom:latitude":49.912928,
     "geom:longitude":22.309021,
@@ -71,7 +83,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -84,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181341404",
+        "eurostat:nuts_2021_id":"1006181341404",
         "gn:id":770221,
         "gp:id":12618767,
         "qs_pg:id":1172340
@@ -96,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2c50c83f230a2a83d371724523423f94",
+    "wof:geomhash":"c2fc2a985d705eb9e15029243f2ff3f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,12 +122,12 @@
         }
     ],
     "wof:id":1125364659,
-    "wof:lastmodified":1582357969,
+    "wof:lastmodified":1684354272,
     "wof:name":"Jawornik Polski",
     "wof:parent_id":102079589,
     "wof:placetype":"localadmin",
-    "wof:population":1122,
-    "wof:population_rank":3,
+    "wof:population":4456,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

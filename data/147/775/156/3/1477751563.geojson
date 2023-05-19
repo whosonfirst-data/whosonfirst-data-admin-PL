@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321641001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barlinek",
+    "eurostat:nuts_2021_id":"1002321641001",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321641001",
+    "eurostat:population":19244,
+    "eurostat:population_year":2020,
     "geom:area":0.034606,
-    "geom:area_square_m":257696829.195605,
+    "geom:area_square_m":257696829.195575,
     "geom:bbox":"15.018520912,52.862843768,15.332691755,53.085123403",
     "geom:latitude":52.970496,
     "geom:longitude":15.182563,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":15.184964,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102080005
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321641001",
+        "eurostat:nuts_2021_id":"1002321641001"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"c1a61e8c8a225002e8e3055db31ec3c7",
+    "wof:geomhash":"79b57f0e94c20b4eb5de41fe561e1fd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751563,
-    "wof:lastmodified":1569999575,
+    "wof:lastmodified":1684354364,
     "wof:name":"Gmina Barlinek",
     "wof:parent_id":102080005,
     "wof:placetype":"localadmin",
+    "wof:population":19244,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

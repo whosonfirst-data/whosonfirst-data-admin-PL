@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061090119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zalesie",
+    "eurostat:nuts_2021_id":"1006061090119",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061090119",
+    "eurostat:population":4405,
+    "eurostat:population_year":2020,
     "geom:area":0.019277,
-    "geom:area_square_m":146564167.368437,
+    "geom:area_square_m":146564167.368422,
     "geom:bbox":"23.284737562,51.994610786,23.514893076,52.134646136",
     "geom:latitude":52.057385,
     "geom:longitude":23.411303,
@@ -77,6 +89,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -89,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061090119",
+        "eurostat:nuts_2021_id":"1006061090119",
         "gn:id":753982,
         "gp:id":12617398,
         "qs_pg:id":1178173
@@ -101,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ec892c7e7ec3ea10c78cbd705d5a7112",
+    "wof:geomhash":"7b0aa9c7d5b5a517a3185eadbb04ca0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,10 +128,12 @@
         }
     ],
     "wof:id":1125365983,
-    "wof:lastmodified":1582357974,
+    "wof:lastmodified":1684354274,
     "wof:name":"Zalesie",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",
+    "wof:population":4405,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

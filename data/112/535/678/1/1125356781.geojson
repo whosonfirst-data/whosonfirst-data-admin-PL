@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241511005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pszczyna",
+    "eurostat:nuts_2021_id":"1001241511005",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22C",
+    "eurostat:nuts_2021_level_lau":"1001241511005",
+    "eurostat:population":52770,
+    "eurostat:population_year":2020,
     "geom:area":0.021899,
-    "geom:area_square_m":174095345.175135,
+    "geom:area_square_m":174095345.175134,
     "geom:bbox":"18.742946314,49.921486705,19.060594761,50.062876551",
     "geom:latitude":49.988998,
     "geom:longitude":18.915275,
@@ -147,6 +159,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -159,6 +173,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241511005",
+        "eurostat:nuts_2021_id":"1001241511005",
         "gp:id":24548760,
         "qs_pg:id":1154606
     },
@@ -167,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2e6d1aa6f2804c180f48f164f44266dc",
+    "wof:geomhash":"0fcd3315d5a7c687b4c20cdce3a3970a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,10 +194,12 @@
         }
     ],
     "wof:id":1125356781,
-    "wof:lastmodified":1582357713,
+    "wof:lastmodified":1684354264,
     "wof:name":"Gmina Pszczyna",
     "wof:parent_id":102079457,
     "wof:placetype":"localadmin",
+    "wof:population":52770,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

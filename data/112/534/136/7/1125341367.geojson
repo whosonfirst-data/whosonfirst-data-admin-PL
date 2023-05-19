@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201391207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Suwa\u0142ki",
+    "eurostat:nuts_2021_id":"1006201391207",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201391207",
+    "eurostat:population":7739,
+    "eurostat:population_year":2020,
     "geom:area":0.03633,
-    "geom:area_square_m":263488268.025214,
+    "geom:area_square_m":263488268.025179,
     "geom:bbox":"22.770632268,54.003620717,23.153797174,54.184198395",
     "geom:latitude":54.088825,
     "geom:longitude":22.956399,
@@ -93,6 +105,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -105,6 +119,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201391207",
+        "eurostat:nuts_2021_id":"1006201391207",
         "gp:id":12616721,
         "qs_pg:id":1314972
     },
@@ -113,7 +129,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"768f07681deeb0f0eb3c01e92c807db3",
+    "wof:geomhash":"292c9f1d52e06e4edeca02e0e691a1ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":1125341367,
-    "wof:lastmodified":1582357693,
+    "wof:lastmodified":1684354249,
     "wof:name":"Gmina Suwa\u0142ki",
     "wof:parent_id":102080265,
     "wof:placetype":"localadmin",
+    "wof:population":7739,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

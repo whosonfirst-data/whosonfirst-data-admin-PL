@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142252011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sochocin",
+    "eurostat:nuts_2021_id":"1007142252011",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142252011",
+    "eurostat:population":5809,
+    "eurostat:population_year":2020,
     "geom:area":0.016235,
-    "geom:area_square_m":121698957.326042,
+    "geom:area_square_m":121698957.326016,
     "geom:bbox":"20.371068581,52.610062105,20.614410606,52.739389009",
     "geom:latitude":52.682635,
     "geom:longitude":20.482237,
@@ -83,7 +95,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -96,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142252011",
+        "eurostat:nuts_2021_id":"1007142252011",
         "gn:id":758681,
         "gp:id":12617601,
         "qs_pg:id":272336
@@ -108,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ad5dcf9dc74da3b85b5963321d95d5a7",
+    "wof:geomhash":"05203ea5aaf99114986fb4040087293a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,12 +134,12 @@
         }
     ],
     "wof:id":1125307529,
-    "wof:lastmodified":1582357868,
+    "wof:lastmodified":1684354210,
     "wof:name":"Sochocin",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",
-    "wof:population":1945,
-    "wof:population_rank":3,
+    "wof:population":5809,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

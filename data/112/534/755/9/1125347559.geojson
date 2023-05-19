@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281560806",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Srokowo",
+    "eurostat:nuts_2021_id":"1004281560806",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281560806",
+    "eurostat:population":3754,
+    "eurostat:population_year":2020,
     "geom:area":0.026746,
-    "geom:area_square_m":193331168.51502,
+    "geom:area_square_m":193331168.514998,
     "geom:bbox":"21.396259617,54.121857654,21.602311704,54.325421831",
     "geom:latitude":54.226632,
     "geom:longitude":21.494613,
@@ -66,6 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -78,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281560806",
+        "eurostat:nuts_2021_id":"1004281560806",
         "gp:id":12617114,
         "qs_pg:id":282202
     },
@@ -89,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3148034ff33cdccc167f8232fedb32e3",
+    "wof:geomhash":"700751858197d9a77a8d80f28a5845ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":1125347559,
-    "wof:lastmodified":1582357690,
+    "wof:lastmodified":1684354253,
     "wof:name":"Srokowo",
     "wof:parent_id":102080249,
     "wof:placetype":"localadmin",
+    "wof:population":3754,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

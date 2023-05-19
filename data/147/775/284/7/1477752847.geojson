@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241470507",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Toszek",
+    "eurostat:nuts_2021_id":"1001241470507",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL229",
+    "eurostat:nuts_2021_level_lau":"1001241470507",
+    "eurostat:population":9383,
+    "eurostat:population_year":2020,
     "geom:area":0.012639,
-    "geom:area_square_m":99521976.597107,
+    "geom:area_square_m":99521976.597134,
     "geom:bbox":"18.379609052,50.385069601,18.635325144,50.499462392",
     "geom:latitude":50.447121,
     "geom:longitude":18.508795,
@@ -68,6 +80,8 @@
     "reversegeo:longitude":18.528141,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -75,8 +89,12 @@
         102079563
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241470507",
+        "eurostat:nuts_2021_id":"1001241470507"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"6327aa84ac5bc434370ac10944116360",
+    "wof:geomhash":"18dca07d4dab687427717f9aad966e65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477752847,
-    "wof:lastmodified":1570002623,
+    "wof:lastmodified":1684354432,
     "wof:name":"Gmina Toszek",
     "wof:parent_id":102079563,
     "wof:placetype":"localadmin",
+    "wof:population":9383,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

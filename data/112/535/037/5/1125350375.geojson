@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Obsza",
+    "eurostat:nuts_2021_id":"1006061100210",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100210",
+    "eurostat:population":4233,
+    "eurostat:population_year":2020,
     "geom:area":0.014296,
-    "geom:area_square_m":112843017.875038,
+    "geom:area_square_m":112843017.875047,
     "geom:bbox":"22.85410273,50.286916276,23.141338881,50.380295217",
     "geom:latitude":50.331487,
     "geom:longitude":22.984052,
@@ -75,7 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -88,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100210",
+        "eurostat:nuts_2021_id":"1006061100210",
         "gn:id":763451,
         "gp:id":12616996,
         "qs_pg:id":1148862
@@ -100,7 +115,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e051f3962d516b898cc47fab375e854e",
+    "wof:geomhash":"8def243fc7d5fd51051c402015b4c98d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,12 +126,12 @@
         }
     ],
     "wof:id":1125350375,
-    "wof:lastmodified":1582357709,
+    "wof:lastmodified":1684354255,
     "wof:name":"Obsza",
     "wof:parent_id":102079699,
     "wof:placetype":"localadmin",
-    "wof:population":861,
-    "wof:population_rank":2,
+    "wof:population":4233,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

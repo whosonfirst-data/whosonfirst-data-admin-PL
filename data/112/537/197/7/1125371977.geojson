@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281551903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u0119gorzewo",
+    "eurostat:nuts_2021_id":"1004281551903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL623",
+    "eurostat:nuts_2021_level_lau":"1004281551903",
+    "eurostat:population":16605,
+    "eurostat:population_year":2020,
     "geom:area":0.047025,
-    "geom:area_square_m":340005464.840841,
+    "geom:area_square_m":340005464.840826,
     "geom:bbox":"21.531085,54.080841726,21.87893925,54.329702985",
     "geom:latitude":54.215781,
     "geom:longitude":21.672909,
@@ -90,6 +102,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -102,6 +116,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281551903",
+        "eurostat:nuts_2021_id":"1004281551903",
         "gp:id":24547858,
         "qs_pg:id":976909
     },
@@ -110,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a550a9409c9b7a7621ce72d69fadbb03",
+    "wof:geomhash":"183ae1a1309239b0beb4747d4349b6e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":1125371977,
-    "wof:lastmodified":1582357854,
+    "wof:lastmodified":1684354284,
     "wof:name":"Gmina W\u0119gorzewo",
     "wof:parent_id":102080253,
     "wof:placetype":"localadmin",
+    "wof:population":16605,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

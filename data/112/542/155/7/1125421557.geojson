@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142730608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowe Miasto nad Pilic\u0105",
+    "eurostat:nuts_2021_id":"1007142730608",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL926",
+    "eurostat:nuts_2021_level_lau":"1007142730608",
+    "eurostat:population":7668,
+    "eurostat:population_year":2020,
     "geom:area":0.020587,
-    "geom:area_square_m":158025526.33696,
+    "geom:area_square_m":158025526.336964,
     "geom:bbox":"20.385005656,51.556399219,20.663207628,51.697189603",
     "geom:latitude":51.627795,
     "geom:longitude":20.530377,
@@ -102,7 +114,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -115,6 +128,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142730608",
+        "eurostat:nuts_2021_id":"1007142730608",
         "gn:id":763659,
         "gp:id":24548165,
         "qs_pg:id":259737
@@ -124,7 +139,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"19dfbdc2cd63520e5e6cddbaa59ce9b3",
+    "wof:geomhash":"b972196dd297e5f16bc2489a98b6c7f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,12 +150,12 @@
         }
     ],
     "wof:id":1125421557,
-    "wof:lastmodified":1582357832,
+    "wof:lastmodified":1684354342,
     "wof:name":"Gmina Nowe Miasto nad Pilic\u0105",
     "wof:parent_id":102079877,
     "wof:placetype":"localadmin",
-    "wof:population":3856,
-    "wof:population_rank":4,
+    "wof:population":7668,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

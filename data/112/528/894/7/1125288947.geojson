@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221401005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sztutowo",
+    "eurostat:nuts_2021_id":"1004221401005",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221401005",
+    "eurostat:population":3634,
+    "eurostat:population_year":2020,
     "geom:area":0.015399,
-    "geom:area_square_m":111059561.596443,
+    "geom:area_square_m":111059561.596437,
     "geom:bbox":"19.138225518,54.265777737,19.414998266,54.366705534",
     "geom:latitude":54.320802,
     "geom:longitude":19.255071,
@@ -89,7 +101,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -102,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221401005",
+        "eurostat:nuts_2021_id":"1004221401005",
         "gn:id":7534274,
         "gp:id":12617836,
         "qs_pg:id":24066
@@ -114,7 +129,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"de4ea77112b14330893ab1c67361f80e",
+    "wof:geomhash":"a09873cefd3180a4e2a73e6cf20f065f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,11 +140,11 @@
         }
     ],
     "wof:id":1125288947,
-    "wof:lastmodified":1582357766,
+    "wof:lastmodified":1684354167,
     "wof:name":"Sztutowo",
     "wof:parent_id":102080239,
     "wof:placetype":"localadmin",
-    "wof:population":2988,
+    "wof:population":3634,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

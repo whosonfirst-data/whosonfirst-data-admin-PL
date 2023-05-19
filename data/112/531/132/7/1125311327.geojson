@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321630903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bobolice",
+    "eurostat:nuts_2021_id":"1002321630903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321630903",
+    "eurostat:population":8898,
+    "eurostat:population_year":2020,
     "geom:area":0.050331,
-    "geom:area_square_m":365978886.559596,
+    "geom:area_square_m":365978886.559582,
     "geom:bbox":"16.298452566,53.885400026,16.762341638,54.079719126",
     "geom:latitude":53.980789,
     "geom:longitude":16.552244,
@@ -136,7 +148,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -149,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321630903",
+        "eurostat:nuts_2021_id":"1002321630903",
         "gn:id":3103179,
         "gp:id":24547805,
         "qs_pg:id":206262
@@ -158,7 +173,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"573011a80ed8725b23f27b68b768cf15",
+    "wof:geomhash":"a0a28185f63d50a74d7142c1b746781c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,12 +184,12 @@
         }
     ],
     "wof:id":1125311327,
-    "wof:lastmodified":1582357944,
+    "wof:lastmodified":1684354215,
     "wof:name":"Gmina Bobolice",
     "wof:parent_id":102080199,
     "wof:placetype":"localadmin",
-    "wof:population":4365,
-    "wof:population_rank":4,
+    "wof:population":8898,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

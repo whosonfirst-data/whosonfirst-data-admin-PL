@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261531207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stasz\u00f3w",
+    "eurostat:nuts_2021_id":"1005261531207",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261531207",
+    "eurostat:population":25599,
+    "eurostat:population_year":2020,
     "geom:area":0.028743,
-    "geom:area_square_m":225682306.834122,
+    "geom:area_square_m":225682306.834178,
     "geom:bbox":"21.047773446,50.494090218,21.411321215,50.64822805",
     "geom:latitude":50.581573,
     "geom:longitude":21.205531,
@@ -68,6 +80,8 @@
     "reversegeo:longitude":21.142356,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -75,8 +89,12 @@
         102079635
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005261531207",
+        "eurostat:nuts_2021_id":"1005261531207"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"5a6ccc9b87764931492c6f2501b0cc89",
+    "wof:geomhash":"02fb0154a01139f088150c759eea0b42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477752287,
-    "wof:lastmodified":1570000213,
+    "wof:lastmodified":1684354402,
     "wof:name":"Gmina Stasz\u00f3w",
     "wof:parent_id":102079635,
     "wof:placetype":"localadmin",
+    "wof:population":25599,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

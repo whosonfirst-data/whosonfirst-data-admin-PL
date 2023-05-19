@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142712905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kos\u00f3w Lacki",
+    "eurostat:nuts_2021_id":"1007142712905",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142712905",
+    "eurostat:population":5947,
+    "eurostat:population_year":2020,
     "geom:area":0.026538,
-    "geom:area_square_m":199375116.74406,
+    "geom:area_square_m":199375116.744119,
     "geom:bbox":"21.974069474,52.497411071,22.241999032,52.693245207",
     "geom:latitude":52.586129,
     "geom:longitude":22.115363,
@@ -148,7 +160,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -161,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142712905",
+        "eurostat:nuts_2021_id":"1007142712905",
         "gn:id":768002,
         "gp:id":24548173,
         "qs_pg:id":1056833
@@ -170,7 +185,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bc35346077e1de8ef3b34d1355188669",
+    "wof:geomhash":"4ff5ce9a674cfc4f4cab8df9625cfd21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,12 +196,12 @@
         }
     ],
     "wof:id":1125271033,
-    "wof:lastmodified":1582357791,
+    "wof:lastmodified":1684354140,
     "wof:name":"Gmina Kos\u00f3w Lacki",
     "wof:parent_id":102080023,
     "wof:placetype":"localadmin",
-    "wof:population":2090,
-    "wof:population_rank":4,
+    "wof:population":5947,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

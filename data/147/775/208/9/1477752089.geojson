@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201370203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dobrzyniewo Du\u017ce",
+    "eurostat:nuts_2021_id":"1006201370203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201370203",
+    "eurostat:population":9423,
+    "eurostat:population_year":2020,
     "geom:area":0.021679,
-    "geom:area_square_m":160458834.290156,
+    "geom:area_square_m":160458834.29017,
     "geom:bbox":"22.884403419,53.155190731,23.123342375,53.307653834",
     "geom:latitude":53.232576,
     "geom:longitude":23.014839,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":23.00519,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080145
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201370203",
+        "eurostat:nuts_2021_id":"1006201370203"
+    },
     "wof:coterminous":[
         101874523
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2ef3e6a5c91c1cd47abf724f58e0c8a8",
+    "wof:geomhash":"382a93896a22e953bf96730ae8fd27b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752089,
-    "wof:lastmodified":1570003855,
+    "wof:lastmodified":1684354391,
     "wof:name":"Dobrzyniewo Du\u017ce",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",
+    "wof:population":9423,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rudka",
+    "eurostat:nuts_2021_id":"1006201380307",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380307",
+    "eurostat:population":1868,
+    "eurostat:population_year":2020,
     "geom:area":0.009348,
-    "geom:area_square_m":70005239.442075,
+    "geom:area_square_m":70005239.442083,
     "geom:bbox":"22.611431925,52.674542089,22.803950558,52.758694229",
     "geom:latitude":52.723216,
     "geom:longitude":22.71232,
@@ -53,6 +65,8 @@
     "reversegeo:longitude":22.721744,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -60,11 +74,15 @@
         102080071
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380307",
+        "eurostat:nuts_2021_id":"1006201380307"
+    },
     "wof:coterminous":[
         101820545
     ],
     "wof:country":"PL",
-    "wof:geomhash":"0641cd25d35824c25d8f826bff919490",
+    "wof:geomhash":"a30758094a9479608ef01578b85c4017",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477752703,
-    "wof:lastmodified":1570002620,
+    "wof:lastmodified":1684354424,
     "wof:name":"Rudka",
     "wof:parent_id":102080071,
     "wof:placetype":"localadmin",
+    "wof:population":1868,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041671001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kcynia",
+    "eurostat:nuts_2021_id":"1004041671001",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL617",
+    "eurostat:nuts_2021_level_lau":"1004041671001",
+    "eurostat:population":13361,
+    "eurostat:population_year":2020,
     "geom:area":0.039749,
-    "geom:area_square_m":295689555.372964,
+    "geom:area_square_m":295689555.372919,
     "geom:bbox":"17.301556495,52.894873656,17.61299972,53.110410397",
     "geom:latitude":53.015202,
     "geom:longitude":17.473044,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041671001",
+        "eurostat:nuts_2021_id":"1004041671001",
         "gn:id":3096385,
         "gp:id":12618614,
         "qs_pg:id":1207110
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"336710179cb1416abaf62cb1af4c5de9",
+    "wof:geomhash":"e1feaacc9c6806da2339558c5f17d38e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125282625,
-    "wof:lastmodified":1582357780,
+    "wof:lastmodified":1684354152,
     "wof:name":"Gmina Kcynia",
     "wof:parent_id":102080053,
     "wof:placetype":"localadmin",
-    "wof:population":4716,
-    "wof:population_rank":4,
+    "wof:population":13361,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

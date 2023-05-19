@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181366401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tarnobrzeg",
+    "eurostat:nuts_2021_id":"1006181366401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181366401",
+    "eurostat:population":46745,
+    "eurostat:population_year":2020,
     "geom:area":0.01084,
-    "geom:area_square_m":85106921.235449,
+    "geom:area_square_m":85106921.235473,
     "geom:bbox":"21.601196,50.51227,21.796277,50.655249",
     "geom:latitude":50.584601,
     "geom:longitude":21.707076,
@@ -266,6 +278,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -273,11 +287,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079637,
-        85687295
+        85687295,
+        102079637
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181366401",
+        "eurostat:nuts_2021_id":"1006181366401",
         "gn:id":7532503,
         "gp:id":12618865,
         "qs_pg:id":24315
@@ -291,7 +307,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"715487fca6edb48cad8fa4b4f37e63c6",
+    "wof:geomhash":"484360f020ab03b71127d16ebc42a8c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -302,10 +318,12 @@
         }
     ],
     "wof:id":1125342451,
-    "wof:lastmodified":1607725465,
+    "wof:lastmodified":1684354252,
     "wof:name":"Tarnobrzeg",
     "wof:parent_id":102079637,
     "wof:placetype":"localadmin",
+    "wof:population":46745,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

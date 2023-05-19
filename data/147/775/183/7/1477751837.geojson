@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101181904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zdu\u0144ska Wola",
+    "eurostat:nuts_2021_id":"1005101181904",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101181904",
+    "eurostat:population":12198,
+    "eurostat:population_year":2020,
     "geom:area":0.014464,
-    "geom:area_square_m":111025688.602118,
+    "geom:area_square_m":111025688.602113,
     "geom:bbox":"18.793893388,51.557875935,19.041648863,51.68676166",
     "geom:latitude":51.628265,
     "geom:longitude":18.919743,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":18.889647,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079803
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101181904",
+        "eurostat:nuts_2021_id":"1005101181904"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"2fe2cd78d1ab656018158e5032cfd0e0",
+    "wof:geomhash":"92d04374cd0d886a3510fedef1f87a6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751837,
-    "wof:lastmodified":1570004354,
+    "wof:lastmodified":1684354378,
     "wof:name":"Gmina Zdu\u0144ska Wola",
     "wof:parent_id":102079803,
     "wof:placetype":"localadmin",
+    "wof:population":12198,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kamienna G\u00f3ra",
+    "eurostat:nuts_2021_id":"1003021010702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010702",
+    "eurostat:population":9035,
+    "eurostat:population_year":2020,
     "geom:area":0.020134,
-    "geom:area_square_m":157507238.206754,
+    "geom:area_square_m":157507238.206733,
     "geom:bbox":"15.859248415,50.669427162,16.179563945,50.839009074",
     "geom:latitude":50.752956,
     "geom:longitude":16.017441,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010702",
+        "eurostat:nuts_2021_id":"1003021010702",
         "gp:id":24547440,
         "qs_pg:id":1092335
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0094109225be316f4c363626176d792c",
+    "wof:geomhash":"c4c61f021c10dbb9c47950adce0f821f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125283117,
-    "wof:lastmodified":1582357783,
+    "wof:lastmodified":1684354153,
     "wof:name":"Gmina Kamienna G\u00f3ra",
     "wof:parent_id":102079601,
     "wof:placetype":"localadmin",
+    "wof:population":9035,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

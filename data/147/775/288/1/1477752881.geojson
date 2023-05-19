@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121221006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Korzenna",
+    "eurostat:nuts_2021_id":"1001121221006",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121221006",
+    "eurostat:population":14497,
+    "eurostat:population_year":2020,
     "geom:area":0.013322,
-    "geom:area_square_m":106562804.23065,
+    "geom:area_square_m":106562804.230643,
     "geom:bbox":"20.725408242,49.629427654,20.949750797,49.766049314",
     "geom:latitude":49.693267,
     "geom:longitude":20.829776,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":20.822138,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079425
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121221006",
+        "eurostat:nuts_2021_id":"1001121221006"
+    },
     "wof:coterminous":[
         101827297
     ],
     "wof:country":"PL",
-    "wof:geomhash":"3cbbd1ba6b3acdd07372171b7d2605e4",
+    "wof:geomhash":"c902a6c36e84fc100a90c1637ec44a5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752881,
-    "wof:lastmodified":1570000260,
+    "wof:lastmodified":1684354434,
     "wof:name":"Korzenna",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",
+    "wof:population":14497,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

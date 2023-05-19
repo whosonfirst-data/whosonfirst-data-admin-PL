@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142273002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jastrz\u0105b",
+    "eurostat:nuts_2021_id":"1007142273002",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142273002",
+    "eurostat:population":5196,
+    "eurostat:population_year":2020,
     "geom:area":0.007019,
-    "geom:area_square_m":54334972.351109,
+    "geom:area_square_m":54334972.351106,
     "geom:bbox":"20.894297464,51.18713943,21.023705697,51.282773188",
     "geom:latitude":51.241657,
     "geom:longitude":20.95992,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":20.955525,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079751
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142273002",
+        "eurostat:nuts_2021_id":"1007142273002"
+    },
     "wof:coterminous":[
         1209942689
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b882963fe16ef1d62bdc9f12d2f46eb3",
+    "wof:geomhash":"99db1cfaf7ccdcfae32f9b2b406003d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477751323,
-    "wof:lastmodified":1569998992,
+    "wof:lastmodified":1684354352,
     "wof:name":"Jastrz\u0105b",
     "wof:parent_id":102079751,
     "wof:placetype":"localadmin",
+    "wof:population":5196,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

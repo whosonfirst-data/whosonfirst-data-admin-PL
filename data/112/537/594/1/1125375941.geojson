@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181330202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Domaradz",
+    "eurostat:nuts_2021_id":"1006181330202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181330202",
+    "eurostat:population":6100,
+    "eurostat:population_year":2020,
     "geom:area":0.007055,
-    "geom:area_square_m":56320476.493395,
+    "geom:area_square_m":56320476.493412,
     "geom:bbox":"21.894796134,49.747166608,22.075129094,49.837620936",
     "geom:latitude":49.790035,
     "geom:longitude":22.000017,
@@ -63,7 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -76,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181330202",
+        "eurostat:nuts_2021_id":"1006181330202",
         "gn:id":773040,
         "gp:id":12617288,
         "qs_pg:id":1000173
@@ -88,7 +103,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"788489297e8a04edbc9dd4652fc760b0",
+    "wof:geomhash":"2e507813a3ac2b329511b28a28307876",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,12 +114,12 @@
         }
     ],
     "wof:id":1125375941,
-    "wof:lastmodified":1582357837,
+    "wof:lastmodified":1684354293,
     "wof:name":"Domaradz",
     "wof:parent_id":102079461,
     "wof:placetype":"localadmin",
-    "wof:population":3100,
-    "wof:population_rank":4,
+    "wof:population":6100,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

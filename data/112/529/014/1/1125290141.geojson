@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142272301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borkowice",
+    "eurostat:nuts_2021_id":"1007142272301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142272301",
+    "eurostat:population":4261,
+    "eurostat:population_year":2020,
     "geom:area":0.011057,
-    "geom:area_square_m":85478171.485595,
+    "geom:area_square_m":85478171.485617,
     "geom:bbox":"20.606945495,51.251542389,20.783968837,51.3572295",
     "geom:latitude":51.301938,
     "geom:longitude":20.691629,
@@ -68,7 +80,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -81,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142272301",
+        "eurostat:nuts_2021_id":"1007142272301",
         "gn:id":775533,
         "gp:id":24548248,
         "qs_pg:id":1095668
@@ -93,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f4a91d84e293e00837944cd2a399e23c",
+    "wof:geomhash":"f30daa73e1909fc4a16c1ec4874e1421",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,12 +119,12 @@
         }
     ],
     "wof:id":1125290141,
-    "wof:lastmodified":1582357811,
+    "wof:lastmodified":1684354174,
     "wof:name":"Borkowice",
     "wof:parent_id":102079797,
     "wof:placetype":"localadmin",
-    "wof:population":658,
-    "wof:population_rank":2,
+    "wof:population":4261,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

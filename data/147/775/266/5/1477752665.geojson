@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321660701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dziwn\u00f3w",
+    "eurostat:nuts_2021_id":"1002321660701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321660701",
+    "eurostat:population":3957,
+    "eurostat:population_year":2020,
     "geom:area":0.005157,
-    "geom:area_square_m":37467475.691263,
+    "geom:area_square_m":37467475.691272,
     "geom:bbox":"14.65027208,53.966830418,14.904187065,54.054618627",
     "geom:latitude":54.017419,
     "geom:longitude":14.77376,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":14.752908,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102080153
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321660701",
+        "eurostat:nuts_2021_id":"1002321660701"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"aa1c7c4ab9f91c48da8ddf6416837d28",
+    "wof:geomhash":"24163e7f0c71a12ddd006e94056dbf53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752665,
-    "wof:lastmodified":1570000581,
+    "wof:lastmodified":1684354421,
     "wof:name":"Gmina Dziwn\u00f3w",
     "wof:parent_id":102080153,
     "wof:placetype":"localadmin",
+    "wof:population":3957,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

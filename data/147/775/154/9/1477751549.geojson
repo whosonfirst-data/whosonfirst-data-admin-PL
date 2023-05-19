@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221400402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cedry Wielkie",
+    "eurostat:nuts_2021_id":"1004221400402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221400402",
+    "eurostat:population":6965,
+    "eurostat:population_year":2020,
     "geom:area":0.017077,
-    "geom:area_square_m":123339544.746778,
+    "geom:area_square_m":123339544.746783,
     "geom:bbox":"18.734110363,54.192925463,18.948108399,54.317712281",
     "geom:latitude":54.259935,
     "geom:longitude":18.854275,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":18.877653,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080213
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221400402",
+        "eurostat:nuts_2021_id":"1004221400402"
+    },
     "wof:coterminous":[
         1125888527
     ],
     "wof:country":"PL",
-    "wof:geomhash":"05058928bca00b25740f8580a9fbefe0",
+    "wof:geomhash":"160881c2e6be36903a1d3a4a078b8443",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751549,
-    "wof:lastmodified":1570002057,
+    "wof:lastmodified":1684354363,
     "wof:name":"Cedry Wielkie",
     "wof:parent_id":102080213,
     "wof:placetype":"localadmin",
+    "wof:population":6965,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

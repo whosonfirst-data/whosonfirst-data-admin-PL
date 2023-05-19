@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Zachodniopomorskie",
+    "eurostat:name_local":"Zachodniopomorskie",
+    "eurostat:nuts_2021_id":"PL42",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:population":1652230,
+    "eurostat:population_year":2022,
     "geom:area":3.106476,
-    "geom:area_square_m":22802114983.096687,
+    "geom:area_square_m":22802113719.192474,
     "geom:bbox":"14.122885,52.624689,16.982053,54.569664",
     "geom:latitude":53.584823,
     "geom:longitude":15.54307,
@@ -400,8 +410,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-21",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"22,892",
     "statoids:area_mi":"8,839",
     "statoids:as_of_date":"2011-03-21",
@@ -423,6 +433,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14348,
+        "eurostat:nuts_2021_id":"PL42",
         "fips:code":"PL87",
         "gn:id":3337499,
         "gp:id":12577950,
@@ -436,7 +447,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d338a75b006af46a7d30ad2ced28c19b",
+    "wof:geomhash":"644f86ae5883a95e0a42a6ed3288a8ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -454,12 +465,12 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1614895728,
+    "wof:lastmodified":1684351461,
     "wof:name":"Zachodniopomorskie",
     "wof:parent_id":85633723,
     "wof:placetype":"region",
     "wof:placetype_local":"voivodship",
-    "wof:population":1722883,
+    "wof:population":1652230,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:shortcode":"ZP",

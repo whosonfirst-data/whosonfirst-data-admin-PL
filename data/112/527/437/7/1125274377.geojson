@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241441702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czernich\u00f3w",
+    "eurostat:nuts_2021_id":"1001241441702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241441702",
+    "eurostat:population":6740,
+    "eurostat:population_year":2020,
     "geom:area":0.007026,
-    "geom:area_square_m":56097769.358513,
+    "geom:area_square_m":56097769.358506,
     "geom:bbox":"19.127504638,49.726045052,19.261865035,49.828882043",
     "geom:latitude":49.778912,
     "geom:longitude":19.191707,
@@ -69,6 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241441702",
+        "eurostat:nuts_2021_id":"1001241441702",
         "gp:id":12618554,
         "qs_pg:id":1171856
     },
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bcd299104ff1792dc13778c1eabe8b70",
+    "wof:geomhash":"2c7033116aeb79ab5ef27757e20aca87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":1125274377,
-    "wof:lastmodified":1582357795,
+    "wof:lastmodified":1684354142,
     "wof:name":"Czernich\u00f3w",
     "wof:parent_id":102079411,
     "wof:placetype":"localadmin",
+    "wof:population":6740,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

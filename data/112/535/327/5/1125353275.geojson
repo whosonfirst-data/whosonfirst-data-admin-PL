@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czarnia",
+    "eurostat:nuts_2021_id":"1007142261502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261502",
+    "eurostat:population":2513,
+    "eurostat:population_year":2020,
     "geom:area":0.012659,
-    "geom:area_square_m":93466058.324667,
+    "geom:area_square_m":93466058.324683,
     "geom:bbox":"21.053888064,53.278005513,21.260919706,53.399162486",
     "geom:latitude":53.337638,
     "geom:longitude":21.173085,
@@ -68,7 +80,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -81,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261502",
+        "eurostat:nuts_2021_id":"1007142261502",
         "gn:id":773902,
         "gp:id":12617159,
         "qs_pg:id":69718
@@ -93,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"67c4b610c1efcb8063f9e2ac5f92546c",
+    "wof:geomhash":"e8800edb28f349a91e634a68ba8c4603",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,12 +119,12 @@
         }
     ],
     "wof:id":1125353275,
-    "wof:lastmodified":1582357719,
+    "wof:lastmodified":1684354259,
     "wof:name":"Czarnia",
     "wof:parent_id":102080139,
     "wof:placetype":"localadmin",
-    "wof:population":457,
-    "wof:population_rank":2,
+    "wof:population":2513,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

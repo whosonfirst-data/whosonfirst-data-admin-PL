@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081141009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017baga\u0144",
+    "eurostat:nuts_2021_id":"1002081141009",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081141009",
+    "eurostat:population":7306,
+    "eurostat:population_year":2020,
     "geom:area":0.0364,
-    "geom:area_square_m":279603847.541543,
+    "geom:area_square_m":279603847.541441,
     "geom:bbox":"15.232968976,51.407615105,15.519433651,51.761415902",
     "geom:latitude":51.59484,
     "geom:longitude":15.350019,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":15.335975,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079759
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002081141009",
+        "eurostat:nuts_2021_id":"1002081141009"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"769ab912bf25b9365ed436042528b8f2",
+    "wof:geomhash":"d7ad5a456d241866c309e73d35d797c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477751893,
-    "wof:lastmodified":1570001421,
+    "wof:lastmodified":1684354381,
     "wof:name":"Gmina \u017baga\u0144",
     "wof:parent_id":102079759,
     "wof:placetype":"localadmin",
+    "wof:population":7306,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

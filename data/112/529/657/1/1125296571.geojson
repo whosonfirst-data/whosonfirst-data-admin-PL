@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141293403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Z\u0105bki",
+    "eurostat:nuts_2021_id":"1007141293403",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL912",
+    "eurostat:nuts_2021_level_lau":"1007141293403",
+    "eurostat:population":37818,
+    "eurostat:population_year":2020,
     "geom:area":0.001447,
-    "geom:area_square_m":10941050.506605,
+    "geom:area_square_m":10941050.506607,
     "geom:bbox":"21.083569116,52.273994006,21.141469068,52.31097638",
     "geom:latitude":52.292991,
     "geom:longitude":21.11587,
@@ -129,7 +141,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -142,6 +155,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141293403",
+        "eurostat:nuts_2021_id":"1007141293403",
         "gn:id":754351,
         "gp:id":12616859,
         "qs_pg:id":450676
@@ -154,7 +169,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7a07e28115c8dd890102295843fa973e",
+    "wof:geomhash":"0110d1659227bc6456224db504ea0b96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,11 +180,11 @@
         }
     ],
     "wof:id":1125296571,
-    "wof:lastmodified":1582357814,
+    "wof:lastmodified":1684354187,
     "wof:name":"Z\u0105bki",
     "wof:parent_id":102079995,
     "wof:placetype":"localadmin",
-    "wof:population":23473,
+    "wof:population":37818,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

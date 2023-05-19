@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301570704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Godziesze Wielkie",
+    "eurostat:nuts_2021_id":"1002301570704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301570704",
+    "eurostat:population":9591,
+    "eurostat:population_year":2020,
     "geom:area":0.013681,
-    "geom:area_square_m":104958547.072385,
+    "geom:area_square_m":104958547.072365,
     "geom:bbox":"18.074368303,51.5868147,18.256798966,51.719550816",
     "geom:latitude":51.653217,
     "geom:longitude":18.15568,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":18.149493,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079841
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301570704",
+        "eurostat:nuts_2021_id":"1002301570704"
+    },
     "wof:coterminous":[
         1126032991
     ],
     "wof:country":"PL",
-    "wof:geomhash":"d0cfa8009a636c19b5a1b2d3308aaf04",
+    "wof:geomhash":"ce018b6f8827bae718f71b81727188ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752469,
-    "wof:lastmodified":1570002805,
+    "wof:lastmodified":1684354411,
     "wof:name":"Godziesze Wielkie",
     "wof:parent_id":102079841,
     "wof:placetype":"localadmin",
+    "wof:population":9591,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

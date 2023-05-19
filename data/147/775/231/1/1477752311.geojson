@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041080103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nieszawa",
+    "eurostat:nuts_2021_id":"1004041080103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041080103",
+    "eurostat:population":1843,
+    "eurostat:population_year":2020,
     "geom:area":0.001302,
     "geom:area_square_m":9728960.762635,
     "geom:bbox":"18.863682298,52.818994294,18.909185645,52.860237635",
@@ -89,6 +101,8 @@
     "reversegeo:longitude":18.887117,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -96,11 +110,15 @@
         102080009
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041080103",
+        "eurostat:nuts_2021_id":"1004041080103"
+    },
     "wof:coterminous":[
         101818995
     ],
     "wof:country":"PL",
-    "wof:geomhash":"17cc003a28c0c861865c4ab8a28b28ef",
+    "wof:geomhash":"72b90ec5506ebeb4411e9c05165b423d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,10 +129,12 @@
         }
     ],
     "wof:id":1477752311,
-    "wof:lastmodified":1570129453,
+    "wof:lastmodified":1684354403,
     "wof:name":"Nieszawa",
     "wof:parent_id":102080009,
     "wof:placetype":"localadmin",
+    "wof:population":1843,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

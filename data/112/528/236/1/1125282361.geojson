@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301580309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trzemeszno",
+    "eurostat:nuts_2021_id":"1002301580309",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301580309",
+    "eurostat:population":14294,
+    "eurostat:population_year":2020,
     "geom:area":0.023229,
-    "geom:area_square_m":174552715.511146,
+    "geom:area_square_m":174552715.51115,
     "geom:bbox":"17.715677923,52.507691136,17.991558645,52.656932698",
     "geom:latitude":52.575586,
     "geom:longitude":17.838728,
@@ -134,7 +146,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -147,6 +160,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301580309",
+        "eurostat:nuts_2021_id":"1002301580309",
         "gn:id":3083077,
         "gp:id":24548107,
         "qs_pg:id":962613
@@ -156,7 +171,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b7a30f932251a092ee7cf68a0cd5a7de",
+    "wof:geomhash":"4308c6fd4afe8488af5f8296ab68fb38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,12 +182,12 @@
         }
     ],
     "wof:id":1125282361,
-    "wof:lastmodified":1582357778,
+    "wof:lastmodified":1684354150,
     "wof:name":"Gmina Trzemeszno",
     "wof:parent_id":102079967,
     "wof:placetype":"localadmin",
-    "wof:population":7840,
-    "wof:population_rank":5,
+    "wof:population":14294,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

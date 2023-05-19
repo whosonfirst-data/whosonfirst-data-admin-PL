@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301571206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zduny",
+    "eurostat:nuts_2021_id":"1002301571206",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301571206",
+    "eurostat:population":7577,
+    "eurostat:population_year":2020,
     "geom:area":0.011038,
-    "geom:area_square_m":84653462.894937,
+    "geom:area_square_m":84653462.894942,
     "geom:bbox":"17.222182572,51.626193435,17.478285252,51.703554128",
     "geom:latitude":51.665741,
     "geom:longitude":17.339195,
@@ -106,7 +118,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -119,6 +132,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301571206",
+        "eurostat:nuts_2021_id":"1002301571206",
         "gn:id":3080411,
         "gp:id":12617297,
         "qs_pg:id":202617
@@ -128,7 +143,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b7077642052857f383ceef66088eaa2b",
+    "wof:geomhash":"236340cc14473b29f55419d4be213869",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,12 +154,12 @@
         }
     ],
     "wof:id":1125306293,
-    "wof:lastmodified":1582357879,
+    "wof:lastmodified":1684354209,
     "wof:name":"Gmina Zduny",
     "wof:parent_id":102079811,
     "wof:placetype":"localadmin",
-    "wof:population":4498,
-    "wof:population_rank":4,
+    "wof:population":7577,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

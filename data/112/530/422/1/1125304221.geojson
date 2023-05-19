@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301570602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jarocin",
+    "eurostat:nuts_2021_id":"1002301570602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301570602",
+    "eurostat:population":45731,
+    "eurostat:population_year":2020,
     "geom:area":0.02617,
-    "geom:area_square_m":199376719.626374,
+    "geom:area_square_m":199376719.626378,
     "geom:bbox":"17.384545305,51.873397025,17.633651965,52.055021561",
     "geom:latitude":51.966906,
     "geom:longitude":17.504622,
@@ -57,6 +69,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -69,6 +83,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301570602",
+        "eurostat:nuts_2021_id":"1002301570602",
         "gp:id":24548027,
         "qs_pg:id":1103250
     },
@@ -77,7 +93,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"191900116b0ef4af7002b491f60ce89e",
+    "wof:geomhash":"3a56408f2228da41d1252bc66516d701",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,10 +104,12 @@
         }
     ],
     "wof:id":1125304221,
-    "wof:lastmodified":1582357872,
+    "wof:lastmodified":1684354198,
     "wof:name":"Gmina Jarocin",
     "wof:parent_id":102079857,
     "wof:placetype":"localadmin",
+    "wof:population":45731,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200614",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u015awi\u0105tniki G\u00f3rne",
+    "eurostat:nuts_2021_id":"1001121200614",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200614",
+    "eurostat:population":10195,
+    "eurostat:population_year":2020,
     "geom:area":0.002548,
-    "geom:area_square_m":20277682.387567,
+    "geom:area_square_m":20277682.387555,
     "geom:bbox":"19.912696646,49.90532883,20.007147462,49.974028214",
     "geom:latitude":49.942041,
     "geom:longitude":19.959423,
@@ -133,7 +145,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -146,6 +159,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200614",
+        "eurostat:nuts_2021_id":"1001121200614",
         "gn:id":3084107,
         "gp:id":24548451,
         "qs_pg:id":1316184
@@ -155,7 +170,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f95bc77f7b7aeed11b787e810acefc24",
+    "wof:geomhash":"d81b03130cdfe1de7867ba9abaa340e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,12 +181,12 @@
         }
     ],
     "wof:id":1125342185,
-    "wof:lastmodified":1582357690,
+    "wof:lastmodified":1684354251,
     "wof:name":"Gmina \u015awi\u0105tniki G\u00f3rne",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",
-    "wof:population":2125,
-    "wof:population_rank":4,
+    "wof:population":10195,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

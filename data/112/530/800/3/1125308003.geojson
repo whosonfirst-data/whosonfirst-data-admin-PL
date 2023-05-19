@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spytkowice",
+    "eurostat:nuts_2021_id":"1001121691113",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691113",
+    "eurostat:population":4609,
+    "eurostat:population_year":2020,
     "geom:area":0.004004,
-    "geom:area_square_m":32108995.817327,
+    "geom:area_square_m":32108995.817321,
     "geom:bbox":"19.75145653,49.54350389,19.874950224,49.599326672",
     "geom:latitude":49.574223,
     "geom:longitude":19.813504,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":19.822811,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079407
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691113",
+        "eurostat:nuts_2021_id":"1001121691113"
+    },
     "wof:coterminous":[
         101863139
     ],
     "wof:country":"PL",
-    "wof:geomhash":"bce956c26597d2b00cb80a5ece24bfc0",
+    "wof:geomhash":"cdf4a017238bbcd222044659de8efba2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125308003,
-    "wof:lastmodified":1569994885,
+    "wof:lastmodified":1684354211,
     "wof:name":"Spytkowice",
     "wof:parent_id":102079407,
     "wof:placetype":"localadmin",
+    "wof:population":4609,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"\u0141\u00f3dzkie",
+    "eurostat:name_local":"\u0141\u00f3dzkie",
+    "eurostat:nuts_2021_id":"PL71",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:population":2404078,
+    "eurostat:population_year":2022,
     "geom:area":2.363616,
-    "geom:area_square_m":18151739401.572754,
+    "geom:area_square_m":18151739518.636158,
     "geom:bbox":"18.074521,50.843277,20.659258,52.394081",
     "geom:latitude":51.604865,
     "geom:longitude":19.417596,
@@ -358,8 +368,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-21",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"18,219",
     "statoids:area_mi":"7,034",
     "statoids:as_of_date":"2011-03-21",
@@ -381,6 +391,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14350,
+        "eurostat:nuts_2021_id":"PL71",
         "fips:code":"PL74",
         "gn:id":3337493,
         "gp:id":12577937,
@@ -394,7 +405,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"897c9424f98b900677c445337ed14f40",
+    "wof:geomhash":"623a73b155462c1eec2aa67cf85cd2f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -412,12 +423,12 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1617130634,
+    "wof:lastmodified":1684351459,
     "wof:name":"\u0141\u00f3dzkie",
     "wof:parent_id":85633723,
     "wof:placetype":"region",
     "wof:placetype_local":"voivodship",
-    "wof:population":2538677,
+    "wof:population":2404078,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:shortcode":"LD",

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081130601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dobiegniew",
+    "eurostat:nuts_2021_id":"1002081130601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL431",
+    "eurostat:nuts_2021_level_lau":"1002081130601",
+    "eurostat:population":6536,
+    "eurostat:population_year":2020,
     "geom:area":0.047011,
-    "geom:area_square_m":349865882.63314,
+    "geom:area_square_m":349865882.633187,
     "geom:bbox":"15.606940907,52.89200429,15.998250032,53.12397221",
     "geom:latitude":52.996337,
     "geom:longitude":15.831295,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081130601",
+        "eurostat:nuts_2021_id":"1002081130601",
         "gn:id":3100400,
         "gp:id":24547571,
         "qs_pg:id":1189877
@@ -159,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"72366c7a74d7f8b02bc098adab50887f",
+    "wof:geomhash":"5ba362c7cadcc42c71a2df85685d060b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,12 +185,12 @@
         }
     ],
     "wof:id":1125303909,
-    "wof:lastmodified":1582357871,
+    "wof:lastmodified":1684354197,
     "wof:name":"Gmina Dobiegniew",
     "wof:parent_id":102080011,
     "wof:placetype":"localadmin",
-    "wof:population":3179,
-    "wof:population_rank":4,
+    "wof:population":6536,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

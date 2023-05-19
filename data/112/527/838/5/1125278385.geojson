@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142710314",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017belech\u00f3w",
+    "eurostat:nuts_2021_id":"1007142710314",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142710314",
+    "eurostat:population":8281,
+    "eurostat:population_year":2020,
     "geom:area":0.011398,
-    "geom:area_square_m":87146714.039473,
+    "geom:area_square_m":87146714.039475,
     "geom:bbox":"21.763934767,51.759533591,21.956505092,51.846076294",
     "geom:latitude":51.804229,
     "geom:longitude":21.855134,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -162,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142710314",
+        "eurostat:nuts_2021_id":"1007142710314",
         "gn:id":753394,
         "gp:id":24548278,
         "qs_pg:id":129260
@@ -171,7 +186,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"31cbbfb2d9100d328bbcdda1d9c97c0f",
+    "wof:geomhash":"e10f3032b45c262d2ff9c29b3da9bfac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,12 +197,12 @@
         }
     ],
     "wof:id":1125278385,
-    "wof:lastmodified":1582357801,
+    "wof:lastmodified":1684354145,
     "wof:name":"Gmina \u017belech\u00f3w",
     "wof:parent_id":102079901,
     "wof:placetype":"localadmin",
-    "wof:population":4087,
-    "wof:population_rank":4,
+    "wof:population":8281,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

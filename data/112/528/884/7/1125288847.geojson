@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301601902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bia\u0142o\u015bliwie",
+    "eurostat:nuts_2021_id":"1002301601902",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301601902",
+    "eurostat:population":4852,
+    "eurostat:population_year":2020,
     "geom:area":0.010144,
-    "geom:area_square_m":75281585.790685,
+    "geom:area_square_m":75281585.790688,
     "geom:bbox":"17.05486224,53.071874097,17.22793909,53.162552756",
     "geom:latitude":53.116101,
     "geom:longitude":17.144011,
@@ -70,7 +82,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -83,6 +96,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301601902",
+        "eurostat:nuts_2021_id":"1002301601902",
         "gn:id":3103545,
         "gp:id":12617512,
         "qs_pg:id":24014
@@ -95,7 +110,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e9091cfc25d2dd4a5be5743a7e55d8c3",
+    "wof:geomhash":"73e859ff75848147c6443376dcfeb181",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,11 +121,11 @@
         }
     ],
     "wof:id":1125288847,
-    "wof:lastmodified":1582357773,
+    "wof:lastmodified":1684354165,
     "wof:name":"Bia\u0142o\u015bliwie",
     "wof:parent_id":102080065,
     "wof:placetype":"localadmin",
-    "wof:population":2600,
+    "wof:population":4852,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

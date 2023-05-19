@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221400405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przywidz",
+    "eurostat:nuts_2021_id":"1004221400405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221400405",
+    "eurostat:population":5957,
+    "eurostat:population_year":2020,
     "geom:area":0.017817,
-    "geom:area_square_m":128859661.354182,
+    "geom:area_square_m":128859661.35419,
     "geom:bbox":"18.215088793,54.137023454,18.452990415,54.277418134",
     "geom:latitude":54.2043,
     "geom:longitude":18.328822,
@@ -60,6 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221400405",
+        "eurostat:nuts_2021_id":"1004221400405",
         "gp:id":12616799,
         "qs_pg:id":1316400
     },
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bb5fe396c08ff6e6899ef24688d0f51c",
+    "wof:geomhash":"f12a455d750e849279909595a7d9de8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":1125342317,
-    "wof:lastmodified":1582357695,
+    "wof:lastmodified":1684354251,
     "wof:name":"Przywidz",
     "wof:parent_id":102080213,
     "wof:placetype":"localadmin",
+    "wof:population":5957,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

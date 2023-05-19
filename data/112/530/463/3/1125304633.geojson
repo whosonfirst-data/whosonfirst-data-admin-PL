@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aleksandr\u00f3w",
+    "eurostat:nuts_2021_id":"1005101171001",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171001",
+    "eurostat:population":4326,
+    "eurostat:population_year":2020,
     "geom:area":0.018558,
-    "geom:area_square_m":143567853.395478,
+    "geom:area_square_m":143567853.395467,
     "geom:bbox":"19.892267936,51.180033859,20.067443073,51.358061888",
     "geom:latitude":51.269789,
     "geom:longitude":19.970084,
@@ -93,7 +105,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -106,6 +119,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171001",
+        "eurostat:nuts_2021_id":"1005101171001",
         "gn:id":3104146,
         "gp:id":12616694,
         "qs_pg:id":201356
@@ -118,7 +133,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c0a93db4ec9da9bbe0bc23cbfeff8528",
+    "wof:geomhash":"9d99886d77ee7868a3ab9d147e3f43c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,12 +144,12 @@
         }
     ],
     "wof:id":1125304633,
-    "wof:lastmodified":1582357882,
+    "wof:lastmodified":1684354202,
     "wof:name":"Aleksandr\u00f3w",
     "wof:parent_id":102079783,
     "wof:placetype":"localadmin",
-    "wof:population":200,
-    "wof:population_rank":2,
+    "wof:population":4326,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

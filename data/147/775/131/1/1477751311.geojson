@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jelcz-Laskowice",
+    "eurostat:nuts_2021_id":"1003021041503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041503",
+    "eurostat:population":23292,
+    "eurostat:population_year":2020,
     "geom:area":0.021483,
     "geom:area_square_m":167054252.20669,
     "geom:bbox":"17.269838282,50.962629698,17.54365967,51.103702614",
@@ -59,6 +71,8 @@
     "reversegeo:longitude":17.365635,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041503",
+        "eurostat:nuts_2021_id":"1003021041503"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"1d400cd97471adf3279efad79cd8241c",
+    "wof:geomhash":"4989cdf77154eb6152f08403f14d69dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477751311,
-    "wof:lastmodified":1570002208,
+    "wof:lastmodified":1684354351,
     "wof:name":"Gmina Jelcz-Laskowice",
     "wof:parent_id":102079651,
     "wof:placetype":"localadmin",
+    "wof:population":23292,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

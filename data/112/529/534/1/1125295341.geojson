@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301582304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ostrowite",
+    "eurostat:nuts_2021_id":"1002301582304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301582304",
+    "eurostat:population":5077,
+    "eurostat:population_year":2020,
     "geom:area":0.013667,
-    "geom:area_square_m":103149541.199592,
+    "geom:area_square_m":103149541.1996,
     "geom:bbox":"17.935730574,52.309435811,18.08977129,52.446974297",
     "geom:latitude":52.383486,
     "geom:longitude":18.012208,
@@ -68,7 +80,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -81,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301582304",
+        "eurostat:nuts_2021_id":"1002301582304",
         "gn:id":3089719,
         "gp:id":12616832,
         "qs_pg:id":189630
@@ -93,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0744b7c3e51d2845d90ac2e4573c585b",
+    "wof:geomhash":"303b02efa46fd8628c83cb6454d749e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,12 +119,12 @@
         }
     ],
     "wof:id":1125295341,
-    "wof:lastmodified":1582357805,
+    "wof:lastmodified":1684354185,
     "wof:name":"Ostrowite",
     "wof:parent_id":102079941,
     "wof:placetype":"localadmin",
-    "wof:population":582,
-    "wof:population_rank":2,
+    "wof:population":5077,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

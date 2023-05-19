@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301600201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czarnk\u00f3w",
+    "eurostat:nuts_2021_id":"1002301600201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301600201",
+    "eurostat:population":10607,
+    "eurostat:population_year":2020,
     "geom:area":0.001361,
-    "geom:area_square_m":10150419.846824,
+    "geom:area_square_m":10150419.846822,
     "geom:bbox":"16.50556819,52.881211883,16.598028759,52.921212371",
     "geom:latitude":52.899101,
     "geom:longitude":16.560536,
@@ -161,7 +173,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -174,6 +187,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301600201",
+        "eurostat:nuts_2021_id":"1002301600201",
         "gn:id":3101145,
         "gp:id":24547583,
         "qs_pg:id":1043208
@@ -183,7 +198,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d37b14478db54042997c8e2474a5071d",
+    "wof:geomhash":"6507a5f16e26044b04a782ca71043c71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,11 +209,11 @@
         }
     ],
     "wof:id":1125402063,
-    "wof:lastmodified":1582358001,
+    "wof:lastmodified":1684354326,
     "wof:name":"Gmina Czarnk\u00f3w",
     "wof:parent_id":102080029,
     "wof:placetype":"localadmin",
-    "wof:population":11562,
+    "wof:population":10607,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

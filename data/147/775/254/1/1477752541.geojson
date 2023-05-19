@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061121604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ryki",
+    "eurostat:nuts_2021_id":"1006061121604",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061121604",
+    "eurostat:population":20386,
+    "eurostat:population_year":2020,
     "geom:area":0.020991,
-    "geom:area_square_m":161116494.144153,
+    "geom:area_square_m":161116494.144264,
     "geom:bbox":"21.840549284,51.533243984,22.073419887,51.700592754",
     "geom:latitude":51.630203,
     "geom:longitude":21.949328,
@@ -68,6 +80,8 @@
     "reversegeo:longitude":21.966885,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -75,8 +89,12 @@
         102079869
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061121604",
+        "eurostat:nuts_2021_id":"1006061121604"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"551690c96f3ea85de7f390d9c5813fda",
+    "wof:geomhash":"dbc0624a175a1f2e62ab9163611094fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477752541,
-    "wof:lastmodified":1570003622,
+    "wof:lastmodified":1684354415,
     "wof:name":"Gmina Ryki",
     "wof:parent_id":102079869,
     "wof:placetype":"localadmin",
+    "wof:population":20386,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

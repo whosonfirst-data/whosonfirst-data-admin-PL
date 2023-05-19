@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mak\u00f3w Podhala\u0144ski",
+    "eurostat:nuts_2021_id":"1001121691506",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691506",
+    "eurostat:population":16077,
+    "eurostat:population_year":2020,
     "geom:area":0.013546,
-    "geom:area_square_m":108311367.869421,
+    "geom:area_square_m":108311367.869438,
     "geom:bbox":"19.571580455,49.640999785,19.798123836,49.76150674",
     "geom:latitude":49.710048,
     "geom:longitude":19.689876,
@@ -144,7 +156,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -157,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691506",
+        "eurostat:nuts_2021_id":"1001121691506",
         "gn:id":3092517,
         "gp:id":24548380,
         "qs_pg:id":1200770
@@ -166,7 +181,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bf1869249b3d1934b9e40035201f5e09",
+    "wof:geomhash":"042808042549c63519b5152b6a45cbfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,12 +192,12 @@
         }
     ],
     "wof:id":1125290749,
-    "wof:lastmodified":1582357821,
+    "wof:lastmodified":1684354176,
     "wof:name":"Gmina Mak\u00f3w Podhala\u0144ski",
     "wof:parent_id":102079419,
     "wof:placetype":"localadmin",
-    "wof:population":5746,
-    "wof:population_rank":5,
+    "wof:population":16077,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

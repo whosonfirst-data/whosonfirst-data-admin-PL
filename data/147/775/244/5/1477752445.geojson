@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dolsk",
+    "eurostat:nuts_2021_id":"1002301612602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612602",
+    "eurostat:population":5883,
+    "eurostat:population_year":2020,
     "geom:area":0.016286,
-    "geom:area_square_m":124000042.928042,
+    "geom:area_square_m":124000042.928022,
     "geom:bbox":"16.976610287,51.924784603,17.189019696,52.050797331",
     "geom:latitude":51.992321,
     "geom:longitude":17.086293,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":17.094874,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079865
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612602",
+        "eurostat:nuts_2021_id":"1002301612602"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"f8288ee89a984ddb48b149b6b64abd8e",
+    "wof:geomhash":"24c57eed85fae51fa0c02a6c43789f74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752445,
-    "wof:lastmodified":1570000326,
+    "wof:lastmodified":1684354410,
     "wof:name":"Gmina Dolsk",
     "wof:parent_id":102079865,
     "wof:placetype":"localadmin",
+    "wof:population":5883,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

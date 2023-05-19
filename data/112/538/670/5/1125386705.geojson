@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301571705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przygodzice",
+    "eurostat:nuts_2021_id":"1002301571705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301571705",
+    "eurostat:population":12179,
+    "eurostat:population_year":2020,
     "geom:area":0.021172,
-    "geom:area_square_m":162776223.165345,
+    "geom:area_square_m":162776223.165332,
     "geom:bbox":"17.705346644,51.478960124,17.952026658,51.624258727",
     "geom:latitude":51.555425,
     "geom:longitude":17.822987,
@@ -71,7 +83,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -84,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301571705",
+        "eurostat:nuts_2021_id":"1002301571705",
         "gn:id":3087847,
         "gp:id":12616900,
         "qs_pg:id":1016278
@@ -96,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4f5d1ba5a1783f56f46f5b22f7d13ec6",
+    "wof:geomhash":"73dffcbf88227748981355627743da0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,12 +122,12 @@
         }
     ],
     "wof:id":1125386705,
-    "wof:lastmodified":1582357937,
+    "wof:lastmodified":1684354306,
     "wof:name":"Przygodzice",
     "wof:parent_id":102079789,
     "wof:placetype":"localadmin",
-    "wof:population":3000,
-    "wof:population_rank":4,
+    "wof:population":12179,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121231308",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przecisz\u00f3w",
+    "eurostat:nuts_2021_id":"1001121231308",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL21A",
+    "eurostat:nuts_2021_level_lau":"1001121231308",
+    "eurostat:population":6761,
+    "eurostat:population_year":2020,
     "geom:area":0.004444,
-    "geom:area_square_m":35326264.548036,
+    "geom:area_square_m":35326264.548032,
     "geom:bbox":"19.335431691,49.945006022,19.405225027,50.046426216",
     "geom:latitude":49.996412,
     "geom:longitude":19.371785,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":19.374607,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079465
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121231308",
+        "eurostat:nuts_2021_id":"1001121231308"
+    },
     "wof:coterminous":[
         1125945591
     ],
     "wof:country":"PL",
-    "wof:geomhash":"86ffb7c73f4214ff9cb67f3d0141a162",
+    "wof:geomhash":"e05993281a28c2d10d54c5d267893595",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752083,
-    "wof:lastmodified":1570003869,
+    "wof:lastmodified":1684354391,
     "wof:name":"Przecisz\u00f3w",
     "wof:parent_id":102079465,
     "wof:placetype":"localadmin",
+    "wof:population":6761,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

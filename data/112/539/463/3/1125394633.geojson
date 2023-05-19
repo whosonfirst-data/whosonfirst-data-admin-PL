@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101181902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szadek",
+    "eurostat:nuts_2021_id":"1005101181902",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101181902",
+    "eurostat:population":7312,
+    "eurostat:population_year":2020,
     "geom:area":0.019722,
-    "geom:area_square_m":151111855.418175,
+    "geom:area_square_m":151111855.418183,
     "geom:bbox":"18.801563935,51.652445547,19.107897031,51.773401001",
     "geom:latitude":51.709564,
     "geom:longitude":18.967568,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -162,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101181902",
+        "eurostat:nuts_2021_id":"1005101181902",
         "gn:id":3083904,
         "gp:id":24548355,
         "qs_pg:id":1019622
@@ -171,7 +186,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9bfab96fe39664cfe4bdff054c88ef44",
+    "wof:geomhash":"963612876d8a2fffc189feda33864dfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,12 +197,12 @@
         }
     ],
     "wof:id":1125394633,
-    "wof:lastmodified":1582357907,
+    "wof:lastmodified":1684354314,
     "wof:name":"Gmina Szadek",
     "wof:parent_id":102079803,
     "wof:placetype":"localadmin",
-    "wof:population":2012,
-    "wof:population_rank":4,
+    "wof:population":7312,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261521101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Starachowice",
+    "eurostat:nuts_2021_id":"1005261521101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL721",
+    "eurostat:nuts_2021_level_lau":"1005261521101",
+    "eurostat:population":48395,
+    "eurostat:population_year":2020,
     "geom:area":0.004078,
-    "geom:area_square_m":31706213.715725,
+    "geom:area_square_m":31706213.7157,
     "geom:bbox":"21.020860271,51.002140089,21.122418366,51.074515012",
     "geom:latitude":51.040186,
     "geom:longitude":21.079108,
@@ -144,6 +156,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -156,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261521101",
+        "eurostat:nuts_2021_id":"1005261521101",
         "gp:id":12618828,
         "qs_pg:id":1334141
     },
@@ -167,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ce1cbba0146fdd82603611bbf35d3002",
+    "wof:geomhash":"60d376af058a277dff5f0af181124bd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,10 +194,12 @@
         }
     ],
     "wof:id":1125288861,
-    "wof:lastmodified":1582357760,
+    "wof:lastmodified":1684354166,
     "wof:name":"Starachowice",
     "wof:parent_id":102079727,
     "wof:placetype":"localadmin",
+    "wof:population":48395,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241440308",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ha\u017clach",
+    "eurostat:nuts_2021_id":"1001241440308",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241440308",
+    "eurostat:population":10915,
+    "eurostat:population_year":2020,
     "geom:area":0.006093,
-    "geom:area_square_m":48619462.047457,
+    "geom:area_square_m":48619462.047453,
     "geom:bbox":"18.582047318,49.770068769,18.708591925,49.850911061",
     "geom:latitude":49.812225,
     "geom:longitude":18.649595,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":18.650795,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079421
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241440308",
+        "eurostat:nuts_2021_id":"1001241440308"
+    },
     "wof:coterminous":[
         101863163
     ],
     "wof:country":"PL",
-    "wof:geomhash":"9ec640d86fb0ad48ef95dc3f6446e97e",
+    "wof:geomhash":"afd344547cbf6b8178356144604a025b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752841,
-    "wof:lastmodified":1570002625,
+    "wof:lastmodified":1684354432,
     "wof:name":"Ha\u017clach",
     "wof:parent_id":102079421,
     "wof:placetype":"localadmin",
+    "wof:population":10915,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

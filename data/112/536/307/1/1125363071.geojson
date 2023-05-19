@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221410801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L\u0119bork",
+    "eurostat:nuts_2021_id":"1004221410801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL636",
+    "eurostat:nuts_2021_level_lau":"1004221410801",
+    "eurostat:population":35273,
+    "eurostat:population_year":2020,
     "geom:area":0.002478,
-    "geom:area_square_m":17779880.246782,
+    "geom:area_square_m":17779880.24678,
     "geom:bbox":"17.709749828,54.512132072,17.805626891,54.559037366",
     "geom:latitude":54.535344,
     "geom:longitude":17.749569,
@@ -155,7 +167,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -168,6 +181,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221410801",
+        "eurostat:nuts_2021_id":"1004221410801",
         "gn:id":3093739,
         "gp:id":12618848,
         "qs_pg:id":954086
@@ -177,7 +192,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0b23eb8bb62cb49709c524f221943b28",
+    "wof:geomhash":"208219b451332b0f3ea3ff0697ef1384",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,11 +203,11 @@
         }
     ],
     "wof:id":1125363071,
-    "wof:lastmodified":1582357963,
+    "wof:lastmodified":1684354269,
     "wof:name":"Gmina L\u0119bork",
     "wof:parent_id":102080263,
     "wof:placetype":"localadmin",
-    "wof:population":35161,
+    "wof:population":35273,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

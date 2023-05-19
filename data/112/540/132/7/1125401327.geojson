@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Podg\u00f3rzyn",
+    "eurostat:nuts_2021_id":"1003021010608",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010608",
+    "eurostat:population":8249,
+    "eurostat:population_year":2020,
     "geom:area":0.010521,
-    "geom:area_square_m":82203432.652199,
+    "geom:area_square_m":82203432.65218,
     "geom:bbox":"15.620021071,50.754733874,15.797607084,50.873247122",
     "geom:latitude":50.810142,
     "geom:longitude":15.705989,
@@ -60,6 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010608",
+        "eurostat:nuts_2021_id":"1003021010608",
         "gp:id":12617076,
         "qs_pg:id":899997
     },
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d514b4ffb54b45a8602236059d9311ff",
+    "wof:geomhash":"af1b290c72e9b7fcf05aea559d88d416",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":1125401327,
-    "wof:lastmodified":1582357992,
+    "wof:lastmodified":1684354325,
     "wof:name":"Podg\u00f3rzyn",
     "wof:parent_id":102079617,
     "wof:placetype":"localadmin",
+    "wof:population":8249,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

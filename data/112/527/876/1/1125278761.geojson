@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142706201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"P\u0142ock",
+    "eurostat:nuts_2021_id":"1007142706201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL923",
+    "eurostat:nuts_2021_level_lau":"1007142706201",
+    "eurostat:population":119425,
+    "eurostat:population_year":2020,
     "geom:area":0.011661,
-    "geom:area_square_m":87698960.555115,
+    "geom:area_square_m":87698960.55512,
     "geom:bbox":"19.624083,52.473744,19.805857,52.597087",
     "geom:latitude":52.537548,
     "geom:longitude":19.701586,
@@ -209,6 +221,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -216,11 +230,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079969,
-        85687257
+        85687257,
+        102079969
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142706201",
+        "eurostat:nuts_2021_id":"1007142706201",
         "gn:id":7532723,
         "gp:id":12618239,
         "qs_pg:id":1078183
@@ -234,7 +250,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b0197d14f879a6a385d5f645a0d49d41",
+    "wof:geomhash":"898b6cf66919db60437a2542dc677eba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -245,10 +261,12 @@
         }
     ],
     "wof:id":1125278761,
-    "wof:lastmodified":1607725681,
+    "wof:lastmodified":1684354147,
     "wof:name":"P\u0142ock",
     "wof:parent_id":102079969,
     "wof:placetype":"localadmin",
+    "wof:population":119425,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

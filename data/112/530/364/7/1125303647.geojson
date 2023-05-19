@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181351501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Iwierzyce",
+    "eurostat:nuts_2021_id":"1006181351501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181351501",
+    "eurostat:population":7735,
+    "eurostat:population_year":2020,
     "geom:area":0.008219,
-    "geom:area_square_m":65306658.225171,
+    "geom:area_square_m":65306658.225164,
     "geom:bbox":"21.688269375,49.964144134,21.821698751,50.081757231",
     "geom:latitude":50.015904,
     "geom:longitude":21.750508,
@@ -65,7 +77,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -78,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181351501",
+        "eurostat:nuts_2021_id":"1006181351501",
         "gn:id":770763,
         "gp:id":12617342,
         "qs_pg:id":466506
@@ -90,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b65d1e3b3596963a624fc06b29394f34",
+    "wof:geomhash":"710b9346727a8b26f2beed89a2d6eb3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,12 +116,12 @@
         }
     ],
     "wof:id":1125303647,
-    "wof:lastmodified":1582357870,
+    "wof:lastmodified":1684354197,
     "wof:name":"Iwierzyce",
     "wof:parent_id":102079547,
     "wof:placetype":"localadmin",
-    "wof:population":940,
-    "wof:population_rank":2,
+    "wof:population":7735,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

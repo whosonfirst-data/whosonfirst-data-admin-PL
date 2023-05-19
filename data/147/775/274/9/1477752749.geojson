@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221720306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przechlewo",
+    "eurostat:nuts_2021_id":"1004221720306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL637",
+    "eurostat:nuts_2021_level_lau":"1004221720306",
+    "eurostat:population":6331,
+    "eurostat:population_year":2020,
     "geom:area":0.033271,
-    "geom:area_square_m":242878910.67041,
+    "geom:area_square_m":242878910.670404,
     "geom:bbox":"17.070264792,53.71597055,17.382667583,53.94272568",
     "geom:latitude":53.817157,
     "geom:longitude":17.245913,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":17.248282,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080157
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221720306",
+        "eurostat:nuts_2021_id":"1004221720306"
+    },
     "wof:coterminous":[
         101820633
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a9ce7a6bbd2460285fbbfb8740441e65",
+    "wof:geomhash":"33dee014d438529c10056fe6f20be90b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752749,
-    "wof:lastmodified":1569999763,
+    "wof:lastmodified":1684354427,
     "wof:name":"Przechlewo",
     "wof:parent_id":102080157,
     "wof:placetype":"localadmin",
+    "wof:population":6331,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

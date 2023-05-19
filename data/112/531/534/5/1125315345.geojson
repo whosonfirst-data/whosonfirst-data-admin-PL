@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261526101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kielce",
+    "eurostat:nuts_2021_id":"1005261526101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL721",
+    "eurostat:nuts_2021_level_lau":"1005261526101",
+    "eurostat:population":194852,
+    "eurostat:population_year":2020,
     "geom:area":0.013999,
-    "geom:area_square_m":109262602.024951,
+    "geom:area_square_m":109262602.024928,
     "geom:bbox":"20.510522471,50.793298217,20.720626392,50.915082436",
     "geom:latitude":50.860979,
     "geom:longitude":20.608948,
@@ -249,6 +261,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -261,6 +275,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261526101",
+        "eurostat:nuts_2021_id":"1005261526101",
         "gp:id":12617184,
         "qs_pg:id":493089
     },
@@ -272,7 +288,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ddcd781cda23959028c98a238352263f",
+    "wof:geomhash":"06d1d69038bc7af4abf8cf63aae3e1f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -283,10 +299,12 @@
         }
     ],
     "wof:id":1125315345,
-    "wof:lastmodified":1582357945,
+    "wof:lastmodified":1684354219,
     "wof:name":"Kielce",
     "wof:parent_id":102079655,
     "wof:placetype":"localadmin",
+    "wof:population":194852,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

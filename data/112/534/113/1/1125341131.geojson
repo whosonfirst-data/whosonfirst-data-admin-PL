@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rabka-Zdr\u00f3j",
+    "eurostat:nuts_2021_id":"1001121691112",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691112",
+    "eurostat:population":17091,
+    "eurostat:population_year":2020,
     "geom:area":0.008601,
-    "geom:area_square_m":68939157.400215,
+    "geom:area_square_m":68939157.40023,
     "geom:bbox":"19.909328723,49.539725393,20.039495337,49.661121554",
     "geom:latitude":49.594903,
     "geom:longitude":19.973261,
@@ -90,6 +102,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -102,6 +116,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691112",
+        "eurostat:nuts_2021_id":"1001121691112",
         "gp:id":24548486,
         "qs_pg:id":1314461
     },
@@ -110,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"99f1be7da932f2da722caa5e039ad125",
+    "wof:geomhash":"9d005104c70bce68f072defafd4d9285",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":1125341131,
-    "wof:lastmodified":1582357699,
+    "wof:lastmodified":1684354249,
     "wof:name":"Gmina Rabka-Zdr\u00f3j",
     "wof:parent_id":102079407,
     "wof:placetype":"localadmin",
+    "wof:population":17091,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

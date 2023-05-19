@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142252002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Raci\u0105\u017c",
+    "eurostat:nuts_2021_id":"1007142252002",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142252002",
+    "eurostat:population":4394,
+    "eurostat:population_year":2020,
     "geom:area":0.001118,
-    "geom:area_square_m":8364837.403738,
+    "geom:area_square_m":8364837.403739,
     "geom:bbox":"20.091747571,52.768821686,20.149190642,52.796646684",
     "geom:latitude":52.784361,
     "geom:longitude":20.118256,
@@ -145,7 +157,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -158,6 +171,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142252002",
+        "eurostat:nuts_2021_id":"1007142252002",
         "gn:id":760844,
         "gp:id":24548140,
         "qs_pg:id":59523
@@ -167,7 +182,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d9be258412639a2d631c2d5300102e02",
+    "wof:geomhash":"0773dcaeb5afcf74175e69975692c54a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,11 +193,11 @@
         }
     ],
     "wof:id":1125410561,
-    "wof:lastmodified":1582358021,
+    "wof:lastmodified":1684354332,
     "wof:name":"Gmina Raci\u0105\u017c",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",
-    "wof:population":4676,
+    "wof:population":4394,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

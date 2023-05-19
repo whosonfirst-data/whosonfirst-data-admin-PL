@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301590505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wielichowo",
+    "eurostat:nuts_2021_id":"1002301590505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301590505",
+    "eurostat:population":6910,
+    "eurostat:population_year":2020,
     "geom:area":0.014119,
-    "geom:area_square_m":107221038.08926,
+    "geom:area_square_m":107221038.089253,
     "geom:bbox":"16.259817757,52.033232763,16.46978913,52.181565495",
     "geom:latitude":52.10829,
     "geom:longitude":16.373564,
@@ -124,7 +136,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -137,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301590505",
+        "eurostat:nuts_2021_id":"1002301590505",
         "gn:id":3082299,
         "gp:id":24547602,
         "qs_pg:id":59429
@@ -146,7 +161,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e2904ff469a60a61ccb0b96553977082",
+    "wof:geomhash":"395fb4fb3ab2529b263ab69cef641c36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,12 +172,12 @@
         }
     ],
     "wof:id":1125410521,
-    "wof:lastmodified":1582358013,
+    "wof:lastmodified":1684354331,
     "wof:name":"Gmina Wielichowo",
     "wof:parent_id":102079879,
     "wof:placetype":"localadmin",
-    "wof:population":1736,
-    "wof:population_rank":3,
+    "wof:population":6910,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

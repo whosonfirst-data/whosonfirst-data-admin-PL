@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301572001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chocz",
+    "eurostat:nuts_2021_id":"1002301572001",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301572001",
+    "eurostat:population":4753,
+    "eurostat:population_year":2020,
     "geom:area":0.009634,
-    "geom:area_square_m":73365347.322055,
+    "geom:area_square_m":73365347.322052,
     "geom:bbox":"17.798132835,51.915735265,17.979965389,52.037416665",
     "geom:latitude":51.986959,
     "geom:longitude":17.894133,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":17.895506,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079847
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301572001",
+        "eurostat:nuts_2021_id":"1002301572001"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"eb4a7cf7678259a7a609729ca725cb9c",
+    "wof:geomhash":"f2162e11a877994c4ec573d231bdf5c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1125379993,
-    "wof:lastmodified":1569992871,
+    "wof:lastmodified":1684354298,
     "wof:name":"Gmina Chocz",
     "wof:parent_id":102079847,
     "wof:placetype":"localadmin",
+    "wof:population":4753,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

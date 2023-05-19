@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142263506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zabrodzie",
+    "eurostat:nuts_2021_id":"1007142263506",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142263506",
+    "eurostat:population":5943,
+    "eurostat:population_year":2020,
     "geom:area":0.012179,
-    "geom:area_square_m":91663402.523201,
+    "geom:area_square_m":91663402.523197,
     "geom:bbox":"21.305862168,52.462888243,21.579539289,52.541624575",
     "geom:latitude":52.506243,
     "geom:longitude":21.438624,
@@ -63,6 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142263506",
+        "eurostat:nuts_2021_id":"1007142263506",
         "gp:id":12616633,
         "qs_pg:id":493059
     },
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"75fc5467fedd249eda1f0c53c68447f4",
+    "wof:geomhash":"de38e1ed2a88ac2aa8f68e0a00db916f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":1125315249,
-    "wof:lastmodified":1582357961,
+    "wof:lastmodified":1684354219,
     "wof:name":"Zabrodzie",
     "wof:parent_id":102080045,
     "wof:placetype":"localadmin",
+    "wof:population":5943,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

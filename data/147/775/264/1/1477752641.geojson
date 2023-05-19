@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cieszk\u00f3w",
+    "eurostat:nuts_2021_id":"1003021041301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041301",
+    "eurostat:population":4663,
+    "eurostat:population_year":2020,
     "geom:area":0.013084,
-    "geom:area_square_m":100467647.736652,
+    "geom:area_square_m":100467647.73665,
     "geom:bbox":"17.20826856,51.564864967,17.478383967,51.648015298",
     "geom:latitude":51.611158,
     "geom:longitude":17.326266,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":17.324208,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041301",
+        "eurostat:nuts_2021_id":"1003021041301"
+    },
     "wof:coterminous":[
         101821359
     ],
     "wof:country":"PL",
-    "wof:geomhash":"4a426536672c3e4458462e651a1999bb",
+    "wof:geomhash":"b0c834cf5c41d6ef73aa1951829a8093",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752641,
-    "wof:lastmodified":1570003960,
+    "wof:lastmodified":1684354420,
     "wof:name":"Cieszk\u00f3w",
     "wof:parent_id":102079753,
     "wof:placetype":"localadmin",
+    "wof:population":4663,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tomasz\u00f3w Mazowiecki",
+    "eurostat:nuts_2021_id":"1005101171609",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171609",
+    "eurostat:population":11224,
+    "eurostat:population_year":2020,
     "geom:area":0.019422,
-    "geom:area_square_m":149512978.152313,
+    "geom:area_square_m":149512978.152273,
     "geom:bbox":"19.856217,51.419876,20.165263,51.591424",
     "geom:latitude":51.497245,
     "geom:longitude":20.011922,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171609",
+        "eurostat:nuts_2021_id":"1005101171609",
         "gp:id":24548382,
         "qs_pg:id":907626
     },
@@ -110,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"207866620af798b30982a6bdd14b2e38",
+    "wof:geomhash":"9bd970a8639b8628a5719c2106db5ac4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":1125387681,
-    "wof:lastmodified":1617131424,
+    "wof:lastmodified":1684354307,
     "wof:name":"Gmina Tomasz\u00f3w Mazowiecki",
     "wof:parent_id":102079831,
     "wof:placetype":"localadmin",
+    "wof:population":11224,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

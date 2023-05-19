@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dobryszyce",
+    "eurostat:nuts_2021_id":"1005101171202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171202",
+    "eurostat:population":4502,
+    "eurostat:population_year":2020,
     "geom:area":0.006528,
-    "geom:area_square_m":50636170.261875,
+    "geom:area_square_m":50636170.261879,
     "geom:bbox":"19.35163892,51.104535253,19.478651983,51.200652458",
     "geom:latitude":51.145279,
     "geom:longitude":19.413326,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":19.412261,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079711
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171202",
+        "eurostat:nuts_2021_id":"1005101171202"
+    },
     "wof:coterminous":[
         1125931335
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e146509e8b7361715ced11170206adfd",
+    "wof:geomhash":"8280f2ddafd165fcfd92ecae5440d3de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752605,
-    "wof:lastmodified":1570000873,
+    "wof:lastmodified":1684354418,
     "wof:name":"Dobryszyce",
     "wof:parent_id":102079711,
     "wof:placetype":"localadmin",
+    "wof:population":4502,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

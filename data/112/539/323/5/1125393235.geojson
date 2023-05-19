@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101170704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Opoczno",
+    "eurostat:nuts_2021_id":"1005101170704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101170704",
+    "eurostat:population":34108,
+    "eurostat:population_year":2020,
     "geom:area":0.024626,
-    "geom:area_square_m":189981674.233981,
+    "geom:area_square_m":189981674.233892,
     "geom:bbox":"20.171731668,51.325629973,20.444376519,51.506272855",
     "geom:latitude":51.398623,
     "geom:longitude":20.30206,
@@ -165,6 +177,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -177,6 +191,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101170704",
+        "eurostat:nuts_2021_id":"1005101170704",
         "gp:id":24548680,
         "qs_pg:id":1019038
     },
@@ -185,7 +201,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e50e21f906980728bea72eab47432a23",
+    "wof:geomhash":"dcbc0f254c6ca418781a81b4b60d7965",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -196,10 +212,12 @@
         }
     ],
     "wof:id":1125393235,
-    "wof:lastmodified":1582357912,
+    "wof:lastmodified":1684354312,
     "wof:name":"Gmina Opoczno",
     "wof:parent_id":102079785,
     "wof:placetype":"localadmin",
+    "wof:population":34108,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

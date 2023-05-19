@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141301801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u00f3ra Kalwaria",
+    "eurostat:nuts_2021_id":"1007141301801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141301801",
+    "eurostat:population":27063,
+    "eurostat:population_year":2020,
     "geom:area":0.018849,
-    "geom:area_square_m":143571720.728997,
+    "geom:area_square_m":143571720.728996,
     "geom:bbox":"21.073045724,51.887954141,21.281262416,52.054768193",
     "geom:latitude":51.976221,
     "geom:longitude":21.176421,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141301801",
+        "eurostat:nuts_2021_id":"1007141301801",
         "gp:id":24548208,
         "qs_pg:id":281573
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"174be5c3a4e185ee574a3ff8d9d601e6",
+    "wof:geomhash":"898895ccd9e64082246f08a470b2c638",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125346395,
-    "wof:lastmodified":1582357697,
+    "wof:lastmodified":1684354253,
     "wof:name":"Gmina G\u00f3ra Kalwaria",
     "wof:parent_id":102079911,
     "wof:placetype":"localadmin",
+    "wof:population":27063,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

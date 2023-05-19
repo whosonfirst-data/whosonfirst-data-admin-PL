@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161310202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Branice",
+    "eurostat:nuts_2021_id":"1003161310202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161310202",
+    "eurostat:population":6474,
+    "eurostat:population_year":2020,
     "geom:area":0.015271,
-    "geom:area_square_m":121222994.088361,
+    "geom:area_square_m":121222994.088355,
     "geom:bbox":"17.729227859,49.972485282,17.899093001,50.140443013",
     "geom:latitude":50.062026,
     "geom:longitude":17.824313,
@@ -75,7 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -88,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161310202",
+        "eurostat:nuts_2021_id":"1003161310202",
         "gn:id":3102679,
         "gp:id":12617757,
         "qs_pg:id":286997
@@ -100,7 +115,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9a368f3da0772ff1d0065bd9e3f92a59",
+    "wof:geomhash":"b07dbb85339c1ef4281dfd6347ab2f69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,12 +126,12 @@
         }
     ],
     "wof:id":1125354369,
-    "wof:lastmodified":1582357706,
+    "wof:lastmodified":1684354260,
     "wof:name":"Branice",
     "wof:parent_id":102079489,
     "wof:placetype":"localadmin",
-    "wof:population":2300,
-    "wof:population_rank":4,
+    "wof:population":6474,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

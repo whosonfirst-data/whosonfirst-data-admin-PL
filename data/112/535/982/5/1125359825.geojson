@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261520415",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pierzchnica",
+    "eurostat:nuts_2021_id":"1005261520415",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL721",
+    "eurostat:nuts_2021_level_lau":"1005261520415",
+    "eurostat:population":4700,
+    "eurostat:population_year":2020,
     "geom:area":0.013317,
-    "geom:area_square_m":104335421.757145,
+    "geom:area_square_m":104335421.757156,
     "geom:bbox":"20.679290416,50.631662256,20.889783268,50.741061194",
     "geom:latitude":50.683144,
     "geom:longitude":20.785209,
@@ -104,7 +116,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -117,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261520415",
+        "eurostat:nuts_2021_id":"1005261520415",
         "gn:id":762275,
         "gp:id":12618107,
         "qs_pg:id":1163039
@@ -126,7 +141,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"782e9e34e7bfb83f0f56a4c41ea1ef98",
+    "wof:geomhash":"778dea5d81f4862cca97dfceb253c89a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,12 +152,12 @@
         }
     ],
     "wof:id":1125359825,
-    "wof:lastmodified":1582357711,
+    "wof:lastmodified":1684354266,
     "wof:name":"Gmina Pierzchnica",
     "wof:parent_id":102079693,
     "wof:placetype":"localadmin",
-    "wof:population":1016,
-    "wof:population_rank":3,
+    "wof:population":4700,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

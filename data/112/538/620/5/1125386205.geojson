@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161326101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Opole",
+    "eurostat:nuts_2021_id":"1003161326101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161326101",
+    "eurostat:population":128035,
+    "eurostat:population_year":2020,
     "geom:area":0.018954,
-    "geom:area_square_m":148511757.231369,
+    "geom:area_square_m":148511757.231372,
     "geom:bbox":"17.779590671,50.587647821,18.032696038,50.76997435",
     "geom:latitude":50.679378,
     "geom:longitude":17.917744,
@@ -272,6 +284,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -284,6 +298,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161326101",
+        "eurostat:nuts_2021_id":"1003161326101",
         "gn:id":7532413,
         "gp:id":12618874,
         "qs_pg:id":1031874
@@ -296,7 +312,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b753925ed00283a46fe77308efa925ac",
+    "wof:geomhash":"6057a55b55b04966947db22346e652e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -307,10 +323,12 @@
         }
     ],
     "wof:id":1125386205,
-    "wof:lastmodified":1582357930,
+    "wof:lastmodified":1684354306,
     "wof:name":"Opole",
     "wof:parent_id":102079583,
     "wof:placetype":"localadmin",
+    "wof:population":128035,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u0119cinka",
+    "eurostat:nuts_2021_id":"1003021010503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010503",
+    "eurostat:population":5007,
+    "eurostat:population_year":2020,
     "geom:area":0.018948,
-    "geom:area_square_m":147250144.444143,
+    "geom:area_square_m":147250144.444167,
     "geom:bbox":"15.932949686,50.990843095,16.197516267,51.136667881",
     "geom:latitude":51.062402,
     "geom:longitude":16.06546,
@@ -63,6 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010503",
+        "eurostat:nuts_2021_id":"1003021010503",
         "gp:id":12618083,
         "qs_pg:id":1019225
     },
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"365c6f0748ea67bcdd0080ffdd84a32b",
+    "wof:geomhash":"78c1c756378ffd14423044f8139447e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":1125383215,
-    "wof:lastmodified":1582357941,
+    "wof:lastmodified":1684354300,
     "wof:name":"M\u0119cinka",
     "wof:parent_id":102079645,
     "wof:placetype":"localadmin",
+    "wof:population":5007,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

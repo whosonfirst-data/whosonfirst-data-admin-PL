@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strzeleczki",
+    "eurostat:nuts_2021_id":"1003161320503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320503",
+    "eurostat:population":7398,
+    "eurostat:population_year":2020,
     "geom:area":0.014857,
-    "geom:area_square_m":116952537.260041,
+    "geom:area_square_m":116952537.260051,
     "geom:bbox":"17.751523229,50.396425828,17.942096881,50.530175485",
     "geom:latitude":50.461269,
     "geom:longitude":17.837606,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":17.839044,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079553
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320503",
+        "eurostat:nuts_2021_id":"1003161320503"
+    },
     "wof:coterminous":[
         101823499
     ],
     "wof:country":"PL",
-    "wof:geomhash":"c1e9717393f45dd8110febf24f2369e9",
+    "wof:geomhash":"092bbc88dbb156965c661cfec112a477",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752685,
-    "wof:lastmodified":1570000502,
+    "wof:lastmodified":1684354422,
     "wof:name":"Strzeleczki",
     "wof:parent_id":102079553,
     "wof:placetype":"localadmin",
+    "wof:population":7398,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

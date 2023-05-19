@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181356301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rzesz\u00f3w",
+    "eurostat:nuts_2021_id":"1006181356301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181356301",
+    "eurostat:population":196208,
+    "eurostat:population_year":2020,
     "geom:area":0.015883,
-    "geom:area_square_m":126182345.236119,
+    "geom:area_square_m":126182345.236114,
     "geom:bbox":"21.858684,49.932583,22.094148,50.081668",
     "geom:latitude":50.022128,
     "geom:longitude":21.994655,
@@ -281,6 +293,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -288,11 +302,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079529,
-        85687295
+        85687295,
+        102079529
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181356301",
+        "eurostat:nuts_2021_id":"1006181356301",
         "gn:id":7532474,
         "gp:id":12618659,
         "qs_pg:id":223615
@@ -306,7 +322,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"843c11cecf2106d8449a9d0faf0f0c5c",
+    "wof:geomhash":"f52fb72d9f457add1c03c51ef532d429",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -317,10 +333,12 @@
         }
     ],
     "wof:id":1125389309,
-    "wof:lastmodified":1607725925,
+    "wof:lastmodified":1684354308,
     "wof:name":"Rzesz\u00f3w",
     "wof:parent_id":102079529,
     "wof:placetype":"localadmin",
+    "wof:population":196208,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

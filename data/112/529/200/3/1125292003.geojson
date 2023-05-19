@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261520508",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St\u0105pork\u00f3w",
+    "eurostat:nuts_2021_id":"1005261520508",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL721",
+    "eurostat:nuts_2021_level_lau":"1005261520508",
+    "eurostat:population":16699,
+    "eurostat:population_year":2020,
     "geom:area":0.029758,
-    "geom:area_square_m":230841294.27758,
+    "geom:area_square_m":230841294.27756,
     "geom:bbox":"20.467711287,51.047094071,20.702686025,51.246881463",
     "geom:latitude":51.144917,
     "geom:longitude":20.579284,
@@ -135,7 +147,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -148,6 +161,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261520508",
+        "eurostat:nuts_2021_id":"1005261520508",
         "gn:id":758393,
         "gp:id":24548710,
         "qs_pg:id":1097037
@@ -157,7 +172,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d3b1f6f8259b5cf2e0d43f615a6c4b0b",
+    "wof:geomhash":"41f0d2bb54b58c3672db125fd9cb6afb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":1125292003,
-    "wof:lastmodified":1582357824,
+    "wof:lastmodified":1684354179,
     "wof:name":"Gmina St\u0105pork\u00f3w",
     "wof:parent_id":102079739,
     "wof:placetype":"localadmin",
-    "wof:population":5946,
-    "wof:population_rank":5,
+    "wof:population":16699,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

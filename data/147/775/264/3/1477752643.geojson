@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kro\u015bnice",
+    "eurostat:nuts_2021_id":"1003021041302",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041302",
+    "eurostat:population":8139,
+    "eurostat:population_year":2020,
     "geom:area":0.023081,
-    "geom:area_square_m":177870752.922137,
+    "geom:area_square_m":177870752.922129,
     "geom:bbox":"17.249315658,51.367442433,17.545881051,51.521477975",
     "geom:latitude":51.448338,
     "geom:longitude":17.377665,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":17.355183,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041302",
+        "eurostat:nuts_2021_id":"1003021041302"
+    },
     "wof:coterminous":[
         101821363
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f2a7a81c52745b080f72884919926232",
+    "wof:geomhash":"5a3260ae7b15f72e24fc6ad943cffc43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752643,
-    "wof:lastmodified":1570003968,
+    "wof:lastmodified":1684354420,
     "wof:name":"Kro\u015bnice",
     "wof:parent_id":102079753,
     "wof:placetype":"localadmin",
+    "wof:population":8139,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

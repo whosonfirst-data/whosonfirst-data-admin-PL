@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142273602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Policzna",
+    "eurostat:nuts_2021_id":"1007142273602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142273602",
+    "eurostat:population":5473,
+    "eurostat:population_year":2020,
     "geom:area":0.014546,
-    "geom:area_square_m":112129660.573118,
+    "geom:area_square_m":112129660.573123,
     "geom:bbox":"21.550026902,51.377569636,21.787703577,51.50084217",
     "geom:latitude":51.433405,
     "geom:longitude":21.673553,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":21.68523,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079799
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142273602",
+        "eurostat:nuts_2021_id":"1007142273602"
+    },
     "wof:coterminous":[
         101822657
     ],
     "wof:country":"PL",
-    "wof:geomhash":"4bcfc47967dd19e77e123ab2be4e1415",
+    "wof:geomhash":"5867e34501d813c76ddb1419b05a7f26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477752959,
-    "wof:lastmodified":1570000655,
+    "wof:lastmodified":1684354439,
     "wof:name":"Policzna",
     "wof:parent_id":102079799,
     "wof:placetype":"localadmin",
+    "wof:population":5473,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

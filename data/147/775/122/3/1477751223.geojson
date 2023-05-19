@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041681406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowe",
+    "eurostat:nuts_2021_id":"1004041681406",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL618",
+    "eurostat:nuts_2021_level_lau":"1004041681406",
+    "eurostat:population":10183,
+    "eurostat:population_year":2020,
     "geom:area":0.014491,
-    "geom:area_square_m":106223121.049906,
+    "geom:area_square_m":106223121.049882,
     "geom:bbox":"18.56046898,53.556860733,18.788971425,53.703985075",
     "geom:latitude":53.641812,
     "geom:longitude":18.689786,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":18.691424,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102080137
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041681406",
+        "eurostat:nuts_2021_id":"1004041681406"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"a7a90c12a850d3b4e8a4b5b970e307e4",
+    "wof:geomhash":"0a4ac9be23ddda811f83a6d8b638e4df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751223,
-    "wof:lastmodified":1570004578,
+    "wof:lastmodified":1684354347,
     "wof:name":"Gmina Nowe",
     "wof:parent_id":102080137,
     "wof:placetype":"localadmin",
+    "wof:population":10183,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

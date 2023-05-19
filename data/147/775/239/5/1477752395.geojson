@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221421303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Starogard Gda\u0144ski",
+    "eurostat:nuts_2021_id":"1004221421303",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221421303",
+    "eurostat:population":47671,
+    "eurostat:population_year":2020,
     "geom:area":0.003461,
-    "geom:area_square_m":25173160.701848,
+    "geom:area_square_m":25173160.701863,
     "geom:bbox":"18.481067,53.934226096,18.571824858,53.996706977",
     "geom:latitude":53.968132,
     "geom:longitude":18.522664,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":18.523535,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102080183
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221421303",
+        "eurostat:nuts_2021_id":"1004221421303"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"e99b1ec36bced6e35b023970ec41e983",
+    "wof:geomhash":"acd81d9f41af9a927d7c5618712d7770",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752395,
-    "wof:lastmodified":1570003785,
+    "wof:lastmodified":1684354408,
     "wof:name":"Gmina Starogard Gda\u0144ski",
     "wof:parent_id":102080183,
     "wof:placetype":"localadmin",
+    "wof:population":47671,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

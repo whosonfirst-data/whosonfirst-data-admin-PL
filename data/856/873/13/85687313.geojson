@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Opolskie",
+    "eurostat:name_local":"Opolskie",
+    "eurostat:nuts_2021_id":"PL52",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:population":928070,
+    "eurostat:population_year":2022,
     "geom:area":1.196205,
-    "geom:area_square_m":9378980177.533575,
+    "geom:area_square_m":9378980363.875828,
     "geom:bbox":"16.907903,49.972485,18.695487,51.1946",
     "geom:latitude":50.647111,
     "geom:longitude":17.899873,
@@ -384,8 +394,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-21",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"9,412",
     "statoids:area_mi":"3,634",
     "statoids:as_of_date":"2011-03-21",
@@ -407,6 +417,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14375,
+        "eurostat:nuts_2021_id":"PL52",
         "fips:code":"PL79",
         "gn:id":3337495,
         "gp:id":12577942,
@@ -420,7 +431,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e3e32cbac27d1c7155e267ed23d8af3a",
+    "wof:geomhash":"5f3723cbcda12d3da667d139c651d949",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -438,13 +449,13 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1614895723,
+    "wof:lastmodified":1684351470,
     "wof:name":"Opolskie",
     "wof:parent_id":85633723,
     "wof:placetype":"region",
     "wof:placetype_local":"voivodship",
-    "wof:population":1016213,
-    "wof:population_rank":12,
+    "wof:population":928070,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:shortcode":"OP",
     "wof:subdivision":"PL-OP",

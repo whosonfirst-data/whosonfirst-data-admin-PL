@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121201904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niepo\u0142omice",
+    "eurostat:nuts_2021_id":"1001121201904",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121201904",
+    "eurostat:population":29141,
+    "eurostat:population_year":2020,
     "geom:area":0.012084,
-    "geom:area_square_m":95971700.52257,
+    "geom:area_square_m":95971700.522558,
     "geom:bbox":"20.114770682,49.971312475,20.36996436,50.100195165",
     "geom:latitude":50.038376,
     "geom:longitude":20.243155,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":20.245069,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079479
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121201904",
+        "eurostat:nuts_2021_id":"1001121201904"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"c7e1c2139cb128831bdb1e9e4f627599",
+    "wof:geomhash":"7fd6cdcb1df6dd4260de87ae63a66cee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752479,
-    "wof:lastmodified":1570003026,
+    "wof:lastmodified":1684354412,
     "wof:name":"Gmina Niepo\u0142omice",
     "wof:parent_id":102079479,
     "wof:placetype":"localadmin",
+    "wof:population":29141,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

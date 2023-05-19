@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Knyszyn",
+    "eurostat:nuts_2021_id":"1006201390804",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390804",
+    "eurostat:population":4750,
+    "eurostat:population_year":2020,
     "geom:area":0.017155,
-    "geom:area_square_m":126675186.045255,
+    "geom:area_square_m":126675186.045239,
     "geom:bbox":"22.818284782,53.279626346,23.081302987,53.417843746",
     "geom:latitude":53.333399,
     "geom:longitude":22.95201,
@@ -164,7 +176,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -177,6 +190,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390804",
+        "eurostat:nuts_2021_id":"1006201390804",
         "gn:id":768963,
         "gp:id":24548154,
         "qs_pg:id":129322
@@ -186,7 +201,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"30c55fc0466f7da2e80d9e3dbdc3a320",
+    "wof:geomhash":"c5e23f30a921c3f82e353ff7a19c9ba8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,11 +212,11 @@
         }
     ],
     "wof:id":1125278403,
-    "wof:lastmodified":1582357801,
+    "wof:lastmodified":1684354145,
     "wof:name":"Gmina Knyszyn",
     "wof:parent_id":102080175,
     "wof:placetype":"localadmin",
-    "wof:population":2758,
+    "wof:population":4750,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

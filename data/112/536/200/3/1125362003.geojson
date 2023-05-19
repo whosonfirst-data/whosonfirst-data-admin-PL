@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241501605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0141azy",
+    "eurostat:nuts_2021_id":"1001241501605",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22B",
+    "eurostat:nuts_2021_level_lau":"1001241501605",
+    "eurostat:population":15893,
+    "eurostat:population_year":2020,
     "geom:area":0.016814,
-    "geom:area_square_m":132472989.177102,
+    "geom:area_square_m":132472989.17713,
     "geom:bbox":"19.249778029,50.359335016,19.519510064,50.485976868",
     "geom:latitude":50.418,
     "geom:longitude":19.389791,
@@ -140,6 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -152,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241501605",
+        "eurostat:nuts_2021_id":"1001241501605",
         "gn:id":3093769,
         "gp:id":24548375,
         "qs_pg:id":1164034
@@ -161,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"aaf8afc7738004027a6c2c78efd6cfb7",
+    "wof:geomhash":"1227c7a19f2be83653461cec5a7cafe4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +188,12 @@
         }
     ],
     "wof:id":1125362003,
-    "wof:lastmodified":1582357977,
+    "wof:lastmodified":1684354266,
     "wof:name":"Gmina \u0141azy",
     "wof:parent_id":102079613,
     "wof:placetype":"localadmin",
+    "wof:population":15893,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

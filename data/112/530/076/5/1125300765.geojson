@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101170104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kleszcz\u00f3w",
+    "eurostat:nuts_2021_id":"1005101170104",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101170104",
+    "eurostat:population":6335,
+    "eurostat:population_year":2020,
     "geom:area":0.016053,
-    "geom:area_square_m":124273290.309787,
+    "geom:area_square_m":124273290.309791,
     "geom:bbox":"19.179847463,51.181921166,19.413782279,51.299568095",
     "geom:latitude":51.23882,
     "geom:longitude":19.300591,
@@ -65,7 +77,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -78,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101170104",
+        "eurostat:nuts_2021_id":"1005101170104",
         "gn:id":3096123,
         "gp:id":12616695,
         "qs_pg:id":487613
@@ -90,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4235c036c4cafcde8a547654c23303ef",
+    "wof:geomhash":"309df95ba8a40bece2485a71eb54823d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,12 +116,12 @@
         }
     ],
     "wof:id":1125300765,
-    "wof:lastmodified":1582357878,
+    "wof:lastmodified":1684354192,
     "wof:name":"Kleszcz\u00f3w",
     "wof:parent_id":102079763,
     "wof:placetype":"localadmin",
-    "wof:population":2000,
-    "wof:population_rank":4,
+    "wof:population":6335,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

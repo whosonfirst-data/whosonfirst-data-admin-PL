@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181330707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miejsce Piastowe",
+    "eurostat:nuts_2021_id":"1006181330707",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181330707",
+    "eurostat:population":13691,
+    "eurostat:population_year":2020,
     "geom:area":0.006388,
-    "geom:area_square_m":51157072.956198,
+    "geom:area_square_m":51157072.956199,
     "geom:bbox":"21.713731075,49.587982163,21.858098811,49.675210133",
     "geom:latitude":49.633469,
     "geom:longitude":21.778882,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":21.755944,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079455
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181330707",
+        "eurostat:nuts_2021_id":"1006181330707"
+    },
     "wof:coterminous":[
         101827361
     ],
     "wof:country":"PL",
-    "wof:geomhash":"9b52b16c81fc2076139263fe3a0575fb",
+    "wof:geomhash":"8f0ac3011ce2c0bce9691682fe9f527b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752023,
-    "wof:lastmodified":1570001081,
+    "wof:lastmodified":1684354388,
     "wof:name":"Miejsce Piastowe",
     "wof:parent_id":102079455,
     "wof:placetype":"localadmin",
+    "wof:population":13691,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

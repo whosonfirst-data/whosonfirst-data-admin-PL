@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowinka",
+    "eurostat:nuts_2021_id":"1006201390105",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390105",
+    "eurostat:population":2953,
+    "eurostat:population_year":2020,
     "geom:area":0.027927,
-    "geom:area_square_m":203211865.609324,
+    "geom:area_square_m":203211865.609323,
     "geom:bbox":"22.83319517,53.863326359,23.155935291,54.024769714",
     "geom:latitude":53.952256,
     "geom:longitude":23.006072,
@@ -63,6 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390105",
+        "eurostat:nuts_2021_id":"1006201390105",
         "gp:id":12616949,
         "qs_pg:id":493081
     },
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fae7519c2b8b3c49bd2ad0cbcd2fc198",
+    "wof:geomhash":"e8ca02a0940ae327ec680da6d6901381",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":1125315335,
-    "wof:lastmodified":1582357944,
+    "wof:lastmodified":1684354219,
     "wof:name":"Nowinka",
     "wof:parent_id":102080221,
     "wof:placetype":"localadmin",
+    "wof:population":2953,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

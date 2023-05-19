@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142270901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chotcza",
+    "eurostat:nuts_2021_id":"1007142270901",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142270901",
+    "eurostat:population":2326,
+    "eurostat:population_year":2020,
     "geom:area":0.011555,
-    "geom:area_square_m":89444060.119448,
+    "geom:area_square_m":89444060.119458,
     "geom:bbox":"21.639976282,51.179233669,21.821717944,51.30469768",
     "geom:latitude":51.243107,
     "geom:longitude":21.733112,
@@ -73,7 +85,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -86,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142270901",
+        "eurostat:nuts_2021_id":"1007142270901",
         "gn:id":7535495,
         "gp:id":12617179,
         "qs_pg:id":23952
@@ -98,7 +113,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"edab63b17fe6165590233f9014453599",
+    "wof:geomhash":"0b097b3fd63fc1d475c96ab15b86631f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,12 +124,12 @@
         }
     ],
     "wof:id":1125288625,
-    "wof:lastmodified":1582357779,
+    "wof:lastmodified":1684354161,
     "wof:name":"Chotcza",
     "wof:parent_id":102079757,
     "wof:placetype":"localadmin",
-    "wof:population":270,
-    "wof:population_rank":2,
+    "wof:population":2326,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

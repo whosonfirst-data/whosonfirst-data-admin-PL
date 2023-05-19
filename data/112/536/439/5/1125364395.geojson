@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021031905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marcinowice",
+    "eurostat:nuts_2021_id":"1003021031905",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021031905",
+    "eurostat:population":6519,
+    "eurostat:population_year":2020,
     "geom:area":0.012165,
-    "geom:area_square_m":94905538.73034,
+    "geom:area_square_m":94905538.730336,
     "geom:bbox":"16.529088126,50.816949952,16.701697169,50.93937651",
     "geom:latitude":50.879648,
     "geom:longitude":16.627397,
@@ -60,6 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021031905",
+        "eurostat:nuts_2021_id":"1003021031905",
         "gp:id":12617442,
         "qs_pg:id":1171787
     },
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f6d85054a099ef5953640b78d2d6a7da",
+    "wof:geomhash":"4ee138df47a6bcd22823777d1ebdfdea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":1125364395,
-    "wof:lastmodified":1582357967,
+    "wof:lastmodified":1684354271,
     "wof:name":"Marcinowice",
     "wof:parent_id":102079625,
     "wof:placetype":"localadmin",
+    "wof:population":6519,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

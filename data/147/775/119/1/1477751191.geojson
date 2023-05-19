@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221421601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dzierzgo\u0144",
+    "eurostat:nuts_2021_id":"1004221421601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221421601",
+    "eurostat:population":9225,
+    "eurostat:population_year":2020,
     "geom:area":0.01792,
-    "geom:area_square_m":130397340.914624,
+    "geom:area_square_m":130397340.914652,
     "geom:bbox":"19.210825,53.862859,19.410733,54.027442",
     "geom:latitude":53.951189,
     "geom:longitude":19.311521,
@@ -62,18 +74,24 @@
     "reversegeo:longitude":19.313045,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102080179,
-        85687267
+        85687267,
+        102080179
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221421601",
+        "eurostat:nuts_2021_id":"1004221421601"
+    },
     "wof:coterminous":[
         1477864223
     ],
     "wof:country":"PL",
-    "wof:geomhash":"7d046369784c1d8f62e5bf737431234a",
+    "wof:geomhash":"e65ed602eda06c09fa2553241b8b5405",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751191,
-    "wof:lastmodified":1607726507,
+    "wof:lastmodified":1684354345,
     "wof:name":"Gmina Dzierzgo\u0144",
     "wof:parent_id":102080179,
     "wof:placetype":"localadmin",
+    "wof:population":9225,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

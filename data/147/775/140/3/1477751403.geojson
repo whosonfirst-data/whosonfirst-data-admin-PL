@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320807",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Z\u0119bowice",
+    "eurostat:nuts_2021_id":"1003161320807",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320807",
+    "eurostat:population":3631,
+    "eurostat:population_year":2020,
     "geom:area":0.012203,
-    "geom:area_square_m":95420991.990519,
+    "geom:area_square_m":95420991.990531,
     "geom:bbox":"18.225221907,50.715266731,18.442784152,50.827811782",
     "geom:latitude":50.774119,
     "geom:longitude":18.31831,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":18.310911,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079671
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320807",
+        "eurostat:nuts_2021_id":"1003161320807"
+    },
     "wof:coterminous":[
         101825155
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a46df2507d270f45aded964f6b6a8dfb",
+    "wof:geomhash":"2e891240fc79f319010a5d416ce04733",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477751403,
-    "wof:lastmodified":1570004671,
+    "wof:lastmodified":1684354356,
     "wof:name":"Z\u0119bowice",
     "wof:parent_id":102079671,
     "wof:placetype":"localadmin",
+    "wof:population":3631,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

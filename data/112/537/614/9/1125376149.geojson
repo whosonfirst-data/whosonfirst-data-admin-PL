@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041070501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Golub-Dobrzy\u0144",
+    "eurostat:nuts_2021_id":"1004041070501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL616",
+    "eurostat:nuts_2021_level_lau":"1004041070501",
+    "eurostat:population":12546,
+    "eurostat:population_year":2020,
     "geom:area":0.001007,
-    "geom:area_square_m":7472680.114563,
+    "geom:area_square_m":7472680.114564,
     "geom:bbox":"19.030500289,53.094060323,19.077773901,53.130402645",
     "geom:latitude":53.111285,
     "geom:longitude":19.057247,
@@ -173,7 +185,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -186,6 +199,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041070501",
+        "eurostat:nuts_2021_id":"1004041070501",
         "gn:id":3098925,
         "gp:id":24548062,
         "qs_pg:id":962537
@@ -195,7 +210,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4e192e53312f3ecf4ddbc4aa89a4e9a3",
+    "wof:geomhash":"5b25f65b140d0968bebd11d961bbd4e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,11 +221,11 @@
         }
     ],
     "wof:id":1125376149,
-    "wof:lastmodified":1582357856,
+    "wof:lastmodified":1684354294,
     "wof:name":"Gmina Golub-Dobrzy\u0144",
     "wof:parent_id":102080067,
     "wof:placetype":"localadmin",
-    "wof:population":12937,
+    "wof:population":12546,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

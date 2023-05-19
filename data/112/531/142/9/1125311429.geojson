@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301570806",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rychtal",
+    "eurostat:nuts_2021_id":"1002301570806",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301570806",
+    "eurostat:population":3804,
+    "eurostat:population_year":2020,
     "geom:area":0.012411,
-    "geom:area_square_m":96251665.191808,
+    "geom:area_square_m":96251665.191817,
     "geom:bbox":"17.811967845,51.103645065,18.004317957,51.231950686",
     "geom:latitude":51.156923,
     "geom:longitude":17.899393,
@@ -66,7 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -79,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301570806",
+        "eurostat:nuts_2021_id":"1002301570806",
         "gn:id":3086544,
         "gp:id":12618076,
         "qs_pg:id":253322
@@ -91,7 +106,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9bc8e82676b58266c2a122d98ec24455",
+    "wof:geomhash":"176488fec83cc62ac12bf97e794ae363",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,12 +117,12 @@
         }
     ],
     "wof:id":1125311429,
-    "wof:lastmodified":1582357949,
+    "wof:lastmodified":1684354216,
     "wof:name":"Rychtal",
     "wof:parent_id":102079713,
     "wof:placetype":"localadmin",
-    "wof:population":1300,
-    "wof:population_rank":3,
+    "wof:population":3804,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

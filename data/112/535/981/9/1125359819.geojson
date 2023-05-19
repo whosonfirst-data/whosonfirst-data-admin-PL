@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021012605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zagrodno",
+    "eurostat:nuts_2021_id":"1003021012605",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021012605",
+    "eurostat:population":5269,
+    "eurostat:population_year":2020,
     "geom:area":0.015734,
-    "geom:area_square_m":121901764.284988,
+    "geom:area_square_m":121901764.285001,
     "geom:bbox":"15.7406089,51.146317179,15.958841843,51.262256854",
     "geom:latitude":51.202723,
     "geom:longitude":15.846829,
@@ -77,7 +89,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -90,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021012605",
+        "eurostat:nuts_2021_id":"1003021012605",
         "gn:id":3080895,
         "gp:id":12618095,
         "qs_pg:id":1163038
@@ -102,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ca0f2a9ff219f453bfc6173a65758fb5",
+    "wof:geomhash":"67fd7806df1d4cb44caec49241f8cfdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,12 +128,12 @@
         }
     ],
     "wof:id":1125359819,
-    "wof:lastmodified":1582357720,
+    "wof:lastmodified":1684354266,
     "wof:name":"Zagrodno",
     "wof:parent_id":102079657,
     "wof:placetype":"localadmin",
-    "wof:population":1626,
-    "wof:population_rank":3,
+    "wof:population":5269,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

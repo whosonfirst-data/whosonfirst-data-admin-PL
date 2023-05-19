@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021020903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krotoszyce",
+    "eurostat:nuts_2021_id":"1003021020903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021020903",
+    "eurostat:population":3319,
+    "eurostat:population_year":2020,
     "geom:area":0.008672,
-    "geom:area_square_m":67258439.693509,
+    "geom:area_square_m":67258439.693505,
     "geom:bbox":"16.01736356,51.099364733,16.168220743,51.209024637",
     "geom:latitude":51.151613,
     "geom:longitude":16.08795,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":16.093079,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079691
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021020903",
+        "eurostat:nuts_2021_id":"1003021020903"
+    },
     "wof:coterminous":[
         1126050583
     ],
     "wof:country":"PL",
-    "wof:geomhash":"ca6168299c532b5f48caa7014855c61a",
+    "wof:geomhash":"a674a3d12079aa543948cb3f2e760b5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752967,
-    "wof:lastmodified":1570003666,
+    "wof:lastmodified":1684354439,
     "wof:name":"Krotoszyce",
     "wof:parent_id":102079691,
     "wof:placetype":"localadmin",
+    "wof:population":3319,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

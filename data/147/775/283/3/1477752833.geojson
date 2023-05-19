@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rutki",
+    "eurostat:nuts_2021_id":"1006201381403",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381403",
+    "eurostat:population":5514,
+    "eurostat:population_year":2020,
     "geom:area":0.026836,
-    "geom:area_square_m":199194972.58759,
+    "geom:area_square_m":199194972.587571,
     "geom:bbox":"22.282200731,53.038635911,22.594008848,53.203369564",
     "geom:latitude":53.108965,
     "geom:longitude":22.43809,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":22.440498,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102080103
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381403",
+        "eurostat:nuts_2021_id":"1006201381403"
+    },
     "wof:coterminous":[
         1326757099
     ],
     "wof:country":"PL",
-    "wof:geomhash":"1dc6790c38a86be0b40cca793d62d83f",
+    "wof:geomhash":"b21f943cd510e52486ec3dd436cf4ddf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752833,
-    "wof:lastmodified":1570002694,
+    "wof:lastmodified":1684354431,
     "wof:name":"Rutki",
     "wof:parent_id":102080103,
     "wof:placetype":"localadmin",
+    "wof:population":5514,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

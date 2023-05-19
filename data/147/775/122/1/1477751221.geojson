@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041681401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bukowiec",
+    "eurostat:nuts_2021_id":"1004041681401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL618",
+    "eurostat:nuts_2021_level_lau":"1004041681401",
+    "eurostat:population":5138,
+    "eurostat:population_year":2020,
     "geom:area":0.014999,
-    "geom:area_square_m":110518630.070166,
+    "geom:area_square_m":110518630.070154,
     "geom:bbox":"18.150627882,53.363181809,18.344851908,53.481800987",
     "geom:latitude":53.424015,
     "geom:longitude":18.247996,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":18.247923,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102080137
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041681401",
+        "eurostat:nuts_2021_id":"1004041681401"
+    },
     "wof:coterminous":[
         101819285
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5e27a2d77d100857ff53d0a74448348e",
+    "wof:geomhash":"af2d9e962bd1f82852a491f0b90b4914",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477751221,
-    "wof:lastmodified":1570004572,
+    "wof:lastmodified":1684354347,
     "wof:name":"Bukowiec",
     "wof:parent_id":102080137,
     "wof:placetype":"localadmin",
+    "wof:population":5138,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142701905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Drobin",
+    "eurostat:nuts_2021_id":"1007142701905",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL923",
+    "eurostat:nuts_2021_level_lau":"1007142701905",
+    "eurostat:population":7891,
+    "eurostat:population_year":2020,
     "geom:area":0.019083,
-    "geom:area_square_m":142937134.565122,
+    "geom:area_square_m":142937134.565116,
     "geom:bbox":"19.819083343,52.651881248,20.074230297,52.781981931",
     "geom:latitude":52.71752,
     "geom:longitude":19.957333,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -162,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142701905",
+        "eurostat:nuts_2021_id":"1007142701905",
         "gn:id":3100124,
         "gp:id":24548241,
         "qs_pg:id":1200767
@@ -171,7 +186,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8eee68d954a702a6ca8be3e94125af99",
+    "wof:geomhash":"f2d62d502d463b961446f3073e0f7da0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,12 +197,12 @@
         }
     ],
     "wof:id":1125290739,
-    "wof:lastmodified":1582357820,
+    "wof:lastmodified":1684354176,
     "wof:name":"Gmina Drobin",
     "wof:parent_id":102080003,
     "wof:placetype":"localadmin",
-    "wof:population":2938,
-    "wof:population_rank":4,
+    "wof:population":7891,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

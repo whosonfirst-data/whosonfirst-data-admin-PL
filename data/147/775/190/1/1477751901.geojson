@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061091504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"K\u0105kolewnica",
+    "eurostat:nuts_2021_id":"1006061091504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061091504",
+    "eurostat:population":8024,
+    "eurostat:population_year":2020,
     "geom:area":0.019261,
-    "geom:area_square_m":146946123.096483,
+    "geom:area_square_m":146946123.096464,
     "geom:bbox":"22.549858674,51.824394992,22.779828298,51.97401838",
     "geom:latitude":51.903485,
     "geom:longitude":22.666531,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":22.666537,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079905
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061091504",
+        "eurostat:nuts_2021_id":"1006061091504"
+    },
     "wof:coterminous":[
         1477863951
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b05bf0d53a87c51d7cbc4ee1a1918538",
+    "wof:geomhash":"b1d11510dbf12c109fdd0bf26d8c7714",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477751901,
-    "wof:lastmodified":1570002288,
+    "wof:lastmodified":1684354382,
     "wof:name":"K\u0105kolewnica",
     "wof:parent_id":102079905,
     "wof:placetype":"localadmin",
+    "wof:population":8024,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

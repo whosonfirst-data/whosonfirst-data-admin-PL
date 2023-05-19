@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121221007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krynica-Zdr\u00f3j",
+    "eurostat:nuts_2021_id":"1001121221007",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121221007",
+    "eurostat:population":16680,
+    "eurostat:population_year":2020,
     "geom:area":0.018011,
-    "geom:area_square_m":144834699.832119,
+    "geom:area_square_m":144834699.832137,
     "geom:bbox":"20.874834439,49.358477427,21.104104333,49.532228972",
     "geom:latitude":49.43384,
     "geom:longitude":20.99064,
@@ -153,6 +165,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -165,6 +179,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121221007",
+        "eurostat:nuts_2021_id":"1001121221007",
         "gp:id":24548538,
         "qs_pg:id":1263387
     },
@@ -173,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f5144cef673474a8dad8e3695b49c6d7",
+    "wof:geomhash":"9fde4ce14170ae7fe1f988ce8bac8400",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,10 +200,12 @@
         }
     ],
     "wof:id":1125325573,
-    "wof:lastmodified":1582357722,
+    "wof:lastmodified":1684354233,
     "wof:name":"Gmina Krynica-Zdr\u00f3j",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",
+    "wof:population":16680,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

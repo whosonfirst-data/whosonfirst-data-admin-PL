@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Budziszewice",
+    "eurostat:nuts_2021_id":"1005101171603",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171603",
+    "eurostat:population":2149,
+    "eurostat:population_year":2020,
     "geom:area":0.003917,
-    "geom:area_square_m":30032173.085802,
+    "geom:area_square_m":30032173.085803,
     "geom:bbox":"19.91288657,51.654536458,20.068054517,51.728151125",
     "geom:latitude":51.681715,
     "geom:longitude":19.974773,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":19.95018,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079831
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171603",
+        "eurostat:nuts_2021_id":"1005101171603"
+    },
     "wof:coterminous":[
         1477866143
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f0e531c1e97ee2775ef09bb2c2b157ba",
+    "wof:geomhash":"c763458071e0f05dbed98c43b4be3654",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125324111,
-    "wof:lastmodified":1569989569,
+    "wof:lastmodified":1684354226,
     "wof:name":"Budziszewice",
     "wof:parent_id":102079831,
     "wof:placetype":"localadmin",
+    "wof:population":2149,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

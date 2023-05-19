@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hajn\u00f3wka",
+    "eurostat:nuts_2021_id":"1006201380506",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380506",
+    "eurostat:population":3843,
+    "eurostat:population_year":2020,
     "geom:area":0.038953,
-    "geom:area_square_m":291762693.765289,
+    "geom:area_square_m":291762693.765272,
     "geom:bbox":"23.41417,52.602313,23.719179,52.845011",
     "geom:latitude":52.717714,
     "geom:longitude":23.601373,
@@ -90,6 +102,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -97,11 +111,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080091,
-        85687283
+        85687283,
+        102080091
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380506",
+        "eurostat:nuts_2021_id":"1006201380506",
         "gp:id":24548270,
         "qs_pg:id":1334615
     },
@@ -113,7 +129,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a1baaa4643936881e5b22b16f4cc1170",
+    "wof:geomhash":"bc9feaab6dd1b180efb5c024c3a4a964",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":1125401815,
-    "wof:lastmodified":1607726776,
+    "wof:lastmodified":1684354326,
     "wof:name":"Gmina Hajn\u00f3wka",
     "wof:parent_id":102080091,
     "wof:placetype":"localadmin",
+    "wof:population":3843,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

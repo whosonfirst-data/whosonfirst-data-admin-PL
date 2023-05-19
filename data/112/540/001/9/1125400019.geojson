@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mosina",
+    "eurostat:nuts_2021_id":"1002301612110",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612110",
+    "eurostat:population":33442,
+    "eurostat:population_year":2020,
     "geom:area":0.022552,
-    "geom:area_square_m":170773538.611186,
+    "geom:area_square_m":170773538.611209,
     "geom:bbox":"16.73210553,52.167355963,17.019608207,52.333879238",
     "geom:latitude":52.236264,
     "geom:longitude":16.886893,
@@ -90,6 +102,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -102,6 +116,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612110",
+        "eurostat:nuts_2021_id":"1002301612110",
         "gp:id":24547886,
         "qs_pg:id":896491
     },
@@ -110,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d8b873141bc17bdc694eff3b907ec1db",
+    "wof:geomhash":"7109cf6337c0eaad64af8939cf8aa83e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":1125400019,
-    "wof:lastmodified":1582357995,
+    "wof:lastmodified":1684354323,
     "wof:name":"Gmina Mosina",
     "wof:parent_id":102079955,
     "wof:placetype":"localadmin",
+    "wof:population":33442,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

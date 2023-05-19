@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mr\u0105gowo",
+    "eurostat:nuts_2021_id":"1004281561001",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561001",
+    "eurostat:population":21556,
+    "eurostat:population_year":2020,
     "geom:area":0.002021,
-    "geom:area_square_m":14738810.38644,
+    "geom:area_square_m":14738810.386445,
     "geom:bbox":"21.263765464,53.841987279,21.333898003,53.89487614",
     "geom:latitude":53.867291,
     "geom:longitude":21.302889,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":21.303418,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102080203
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561001",
+        "eurostat:nuts_2021_id":"1004281561001"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"af58176ef456d2dd5e90c242966d7256",
+    "wof:geomhash":"b40ddd26a87e6165b05ee656d0297905",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752297,
-    "wof:lastmodified":1569999618,
+    "wof:lastmodified":1684354403,
     "wof:name":"Gmina Mr\u0105gowo",
     "wof:parent_id":102080203,
     "wof:placetype":"localadmin",
+    "wof:population":21556,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

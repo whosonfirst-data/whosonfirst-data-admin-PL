@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281540207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wilcz\u0119ta",
+    "eurostat:nuts_2021_id":"1004281540207",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281540207",
+    "eurostat:population":2970,
+    "eurostat:population_year":2020,
     "geom:area":0.020358,
-    "geom:area_square_m":147355717.800749,
+    "geom:area_square_m":147355717.800706,
     "geom:bbox":"19.71880964,54.102088388,19.979060841,54.251355294",
     "geom:latitude":54.171382,
     "geom:longitude":19.856219,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":19.869046,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080237
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281540207",
+        "eurostat:nuts_2021_id":"1004281540207"
+    },
     "wof:coterminous":[
         1125908845
     ],
     "wof:country":"PL",
-    "wof:geomhash":"67507f83ec598d9b221710dd2c1e275e",
+    "wof:geomhash":"d92182fd4fd1728056a3ffb8159e787e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752797,
-    "wof:lastmodified":1570002763,
+    "wof:lastmodified":1684354429,
     "wof:name":"Wilcz\u0119ta",
     "wof:parent_id":102080237,
     "wof:placetype":"localadmin",
+    "wof:population":2970,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

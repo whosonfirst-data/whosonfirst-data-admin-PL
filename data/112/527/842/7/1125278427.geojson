@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261520404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chmielnik",
+    "eurostat:nuts_2021_id":"1005261520404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL721",
+    "eurostat:nuts_2021_level_lau":"1005261520404",
+    "eurostat:population":11264,
+    "eurostat:population_year":2020,
     "geom:area":0.018057,
-    "geom:area_square_m":141688834.028891,
+    "geom:area_square_m":141688834.028884,
     "geom:bbox":"20.603576555,50.536484031,20.829236615,50.687193233",
     "geom:latitude":50.609712,
     "geom:longitude":20.721268,
@@ -116,7 +128,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -129,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261520404",
+        "eurostat:nuts_2021_id":"1005261520404",
         "gn:id":774504,
         "gp:id":24548339,
         "qs_pg:id":129350
@@ -138,7 +153,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"44b2df4edeaa55d8d43cdb45616b58e7",
+    "wof:geomhash":"19d8cec0afe2a4623ae950afd2eeaaf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,12 +164,12 @@
         }
     ],
     "wof:id":1125278427,
-    "wof:lastmodified":1582357793,
+    "wof:lastmodified":1684354145,
     "wof:name":"Gmina Chmielnik",
     "wof:parent_id":102079693,
     "wof:placetype":"localadmin",
-    "wof:population":3926,
-    "wof:population_rank":4,
+    "wof:population":11264,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181351007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017bo\u0142ynia",
+    "eurostat:nuts_2021_id":"1006181351007",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181351007",
+    "eurostat:population":7036,
+    "eurostat:population_year":2020,
     "geom:area":0.007135,
-    "geom:area_square_m":56521610.881699,
+    "geom:area_square_m":56521610.881697,
     "geom:bbox":"22.24697914,50.114120822,22.386367238,50.205899074",
     "geom:latitude":50.160009,
     "geom:longitude":22.310171,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181351007",
+        "eurostat:nuts_2021_id":"1006181351007",
         "gn:id":753130,
         "gp:id":12617553,
         "qs_pg:id":1099621
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"23f9d956aa23dfe1799d6b0359eaa0ed",
+    "wof:geomhash":"2f2add9b26c0e3a8c1620aefc9193038",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,11 +125,11 @@
         }
     ],
     "wof:id":1125294821,
-    "wof:lastmodified":1582357808,
+    "wof:lastmodified":1684354182,
     "wof:name":"\u017bo\u0142ynia",
     "wof:parent_id":102079565,
     "wof:placetype":"localadmin",
-    "wof:population":5145,
+    "wof:population":7036,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

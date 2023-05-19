@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wizna",
+    "eurostat:nuts_2021_id":"1006201380708",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380708",
+    "eurostat:population":3957,
+    "eurostat:population_year":2020,
     "geom:area":0.017932,
-    "geom:area_square_m":132835506.092349,
+    "geom:area_square_m":132835506.092309,
     "geom:bbox":"22.240994261,53.10979426,22.486328768,53.270480745",
     "geom:latitude":53.196931,
     "geom:longitude":22.352661,
@@ -53,6 +65,8 @@
     "reversegeo:longitude":22.332236,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -60,11 +74,15 @@
         102080143
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380708",
+        "eurostat:nuts_2021_id":"1006201380708"
+    },
     "wof:coterminous":[
         1126060187
     ],
     "wof:country":"PL",
-    "wof:geomhash":"8a7a820f5aeda417bf6b2dc19e0da574",
+    "wof:geomhash":"c1cd842c5d43770e950189dd4de747b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477752599,
-    "wof:lastmodified":1570000593,
+    "wof:lastmodified":1684354418,
     "wof:name":"Wizna",
     "wof:parent_id":102080143,
     "wof:placetype":"localadmin",
+    "wof:population":3957,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

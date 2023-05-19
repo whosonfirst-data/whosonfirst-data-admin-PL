@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142712901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soko\u0142\u00f3w Podlaski",
+    "eurostat:nuts_2021_id":"1007142712901",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142712901",
+    "eurostat:population":18945,
+    "eurostat:population_year":2020,
     "geom:area":0.002312,
-    "geom:area_square_m":17438647.658181,
+    "geom:area_square_m":17438647.658185,
     "geom:bbox":"22.192142991,52.388197334,22.275887935,52.44026699",
     "geom:latitude":52.408873,
     "geom:longitude":22.235874,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":22.236525,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102080023
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142712901",
+        "eurostat:nuts_2021_id":"1007142712901"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"176fc952f0368a9fd13bf129ee04406b",
+    "wof:geomhash":"f6ce812985875af29f004020148429df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751731,
-    "wof:lastmodified":1570001329,
+    "wof:lastmodified":1684354373,
     "wof:name":"Gmina Soko\u0142\u00f3w Podlaski",
     "wof:parent_id":102080023,
     "wof:placetype":"localadmin",
+    "wof:population":18945,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

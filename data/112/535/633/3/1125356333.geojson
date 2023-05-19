@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141301803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lesznowola",
+    "eurostat:nuts_2021_id":"1007141301803",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141301803",
+    "eurostat:population":28500,
+    "eurostat:population_year":2020,
     "geom:area":0.009084,
-    "geom:area_square_m":69035855.327677,
+    "geom:area_square_m":69035855.327699,
     "geom:bbox":"20.809666165,52.021535516,21.035504392,52.120636077",
     "geom:latitude":52.074476,
     "geom:longitude":20.914684,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.941123,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079911
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007141301803",
+        "eurostat:nuts_2021_id":"1007141301803"
+    },
     "wof:coterminous":[
         1125783215
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5300c9b03bb2714c9004bb8c1be77b3e",
+    "wof:geomhash":"97ea60bf5560b28df61f8ced59eab1b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125356333,
-    "wof:lastmodified":1569988437,
+    "wof:lastmodified":1684354262,
     "wof:name":"Lesznowola",
     "wof:parent_id":102079911,
     "wof:placetype":"localadmin",
+    "wof:population":28500,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

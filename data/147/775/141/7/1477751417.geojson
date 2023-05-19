@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301592205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rawicz",
+    "eurostat:nuts_2021_id":"1002301592205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301592205",
+    "eurostat:population":30303,
+    "eurostat:population_year":2020,
     "geom:area":0.017408,
-    "geom:area_square_m":133665100.723212,
+    "geom:area_square_m":133665100.723221,
     "geom:bbox":"16.7660649,51.54357605,17.011582659,51.679497881",
     "geom:latitude":51.611998,
     "geom:longitude":16.88431,
@@ -56,6 +68,8 @@
     "reversegeo:longitude":16.882447,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -63,8 +77,12 @@
         102079767
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301592205",
+        "eurostat:nuts_2021_id":"1002301592205"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"ba0eae421abff688a0c7a9762d073d25",
+    "wof:geomhash":"375f87cdd101b2703ece5b76e148cf68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477751417,
-    "wof:lastmodified":1570004426,
+    "wof:lastmodified":1684354356,
     "wof:name":"Gmina Rawicz",
     "wof:parent_id":102079767,
     "wof:placetype":"localadmin",
+    "wof:population":30303,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181340907",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stary Dzik\u00f3w",
+    "eurostat:nuts_2021_id":"1006181340907",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181340907",
+    "eurostat:population":4143,
+    "eurostat:population_year":2020,
     "geom:area":0.019622,
-    "geom:area_square_m":155169026.431131,
+    "geom:area_square_m":155169026.431154,
     "geom:bbox":"22.797822173,50.14815272,23.037647498,50.30155639",
     "geom:latitude":50.243869,
     "geom:longitude":22.917457,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":22.925636,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079623
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181340907",
+        "eurostat:nuts_2021_id":"1006181340907"
+    },
     "wof:coterminous":[
         1125768281
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a15ba8d548ca5eb69474a59c0e14653d",
+    "wof:geomhash":"2a7deef075aaa3bd7304495a905ab4c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752405,
-    "wof:lastmodified":1570003080,
+    "wof:lastmodified":1684354408,
     "wof:name":"Stary Dzik\u00f3w",
     "wof:parent_id":102079623,
     "wof:placetype":"localadmin",
+    "wof:population":4143,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

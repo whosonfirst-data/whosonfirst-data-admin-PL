@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301601903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kaczory",
+    "eurostat:nuts_2021_id":"1002301601903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301601903",
+    "eurostat:population":7860,
+    "eurostat:population_year":2020,
     "geom:area":0.020217,
-    "geom:area_square_m":150026898.471808,
+    "geom:area_square_m":150026898.471801,
     "geom:bbox":"16.770408191,53.050232403,16.980808291,53.220132759",
     "geom:latitude":53.119138,
     "geom:longitude":16.896266,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":16.889163,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102080065
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301601903",
+        "eurostat:nuts_2021_id":"1002301601903"
+    },
     "wof:coterminous":[
         101820535
     ],
     "wof:country":"PL",
-    "wof:geomhash":"ad209607a8e9d116dd575d7e4c19af04",
+    "wof:geomhash":"86c85aac93681931c65b49a5054b7db4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751217,
-    "wof:lastmodified":1570001855,
+    "wof:lastmodified":1684354346,
     "wof:name":"Kaczory",
     "wof:parent_id":102080065,
     "wof:placetype":"localadmin",
+    "wof:population":7860,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

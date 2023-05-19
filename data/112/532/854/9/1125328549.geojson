@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mi\u0119kinia",
+    "eurostat:nuts_2021_id":"1003021041803",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041803",
+    "eurostat:population":17006,
+    "eurostat:population_year":2020,
     "geom:area":0.023079,
-    "geom:area_square_m":178860901.033801,
+    "geom:area_square_m":178860901.033813,
     "geom:bbox":"16.674925479,51.092712121,16.906431054,51.261342279",
     "geom:latitude":51.189808,
     "geom:longitude":16.777137,
@@ -80,7 +92,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -93,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041803",
+        "eurostat:nuts_2021_id":"1003021041803",
         "gn:id":3091953,
         "gp:id":12617774,
         "qs_pg:id":528105
@@ -105,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4c21a86efaacbee7943ce4c71b7c6aa5",
+    "wof:geomhash":"2d7a7e8d7828baa7fb5a0310780736f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,12 +131,12 @@
         }
     ],
     "wof:id":1125328549,
-    "wof:lastmodified":1582357745,
+    "wof:lastmodified":1684354238,
     "wof:name":"Mi\u0119kinia",
     "wof:parent_id":102079675,
     "wof:placetype":"localadmin",
-    "wof:population":2500,
-    "wof:population_rank":4,
+    "wof:population":17006,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

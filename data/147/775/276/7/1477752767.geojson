@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281540404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Markusy",
+    "eurostat:nuts_2021_id":"1004281540404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281540404",
+    "eurostat:population":4048,
+    "eurostat:population_year":2020,
     "geom:area":0.015019,
-    "geom:area_square_m":109035906.889684,
+    "geom:area_square_m":109035906.889689,
     "geom:bbox":"19.258035328,53.984657554,19.524603716,54.111837111",
     "geom:latitude":54.046685,
     "geom:longitude":19.402774,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":19.404784,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102080231
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281540404",
+        "eurostat:nuts_2021_id":"1004281540404"
+    },
     "wof:coterminous":[
         1125885691
     ],
     "wof:country":"PL",
-    "wof:geomhash":"1616cd087750a27a9646edf102ce34fa",
+    "wof:geomhash":"4e7ef31e0922f961c33c376440160aa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752767,
-    "wof:lastmodified":1570003134,
+    "wof:lastmodified":1684354428,
     "wof:name":"Markusy",
     "wof:parent_id":102080231,
     "wof:placetype":"localadmin",
+    "wof:population":4048,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

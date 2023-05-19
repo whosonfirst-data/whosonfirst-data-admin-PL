@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142273005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szyd\u0142owiec",
+    "eurostat:nuts_2021_id":"1007142273005",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142273005",
+    "eurostat:population":18698,
+    "eurostat:population_year":2020,
     "geom:area":0.017795,
-    "geom:area_square_m":137783627.046709,
+    "geom:area_square_m":137783627.046724,
     "geom:bbox":"20.722566691,51.145334972,20.938389998,51.34324525",
     "geom:latitude":51.2306,
     "geom:longitude":20.849149,
@@ -138,6 +150,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -150,6 +164,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142273005",
+        "eurostat:nuts_2021_id":"1007142273005",
         "gp:id":24548265,
         "qs_pg:id":1154595
     },
@@ -158,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1d5d3c019e09f616ac6b3780305bda17",
+    "wof:geomhash":"0c9eacd7938b03eff0add6c55eb3ad9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,10 +185,12 @@
         }
     ],
     "wof:id":1125356763,
-    "wof:lastmodified":1582357713,
+    "wof:lastmodified":1684354263,
     "wof:name":"Gmina Szyd\u0142owiec",
     "wof:parent_id":102079751,
     "wof:placetype":"localadmin",
+    "wof:population":18698,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

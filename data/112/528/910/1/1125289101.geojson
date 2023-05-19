@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142710303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borowie",
+    "eurostat:nuts_2021_id":"1007142710303",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142710303",
+    "eurostat:population":5283,
+    "eurostat:population_year":2020,
     "geom:area":0.010488,
-    "geom:area_square_m":79925830.546932,
+    "geom:area_square_m":79925830.54694,
     "geom:bbox":"21.661780535,51.910192504,21.89290232,51.995564124",
     "geom:latitude":51.95285,
     "geom:longitude":21.783925,
@@ -73,7 +85,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -86,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142710303",
+        "eurostat:nuts_2021_id":"1007142710303",
         "gn:id":775493,
         "gp:id":12618012,
         "qs_pg:id":24106
@@ -98,7 +113,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bf284e3a1cdee4ad8c87b6ef63d6e168",
+    "wof:geomhash":"2a2d440bf11c038e7eab7c7938d968bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,12 +124,12 @@
         }
     ],
     "wof:id":1125289101,
-    "wof:lastmodified":1582357787,
+    "wof:lastmodified":1684354169,
     "wof:name":"Borowie",
     "wof:parent_id":102079901,
     "wof:placetype":"localadmin",
-    "wof:population":400,
-    "wof:population_rank":2,
+    "wof:population":5283,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

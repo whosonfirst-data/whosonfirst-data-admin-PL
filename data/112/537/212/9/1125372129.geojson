@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321630906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Polan\u00f3w",
+    "eurostat:nuts_2021_id":"1002321630906",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321630906",
+    "eurostat:population":8610,
+    "eurostat:population_year":2020,
     "geom:area":0.054043,
-    "geom:area_square_m":391688401.046831,
+    "geom:area_square_m":391688401.046836,
     "geom:bbox":"16.411768082,53.98361527,16.812649141,54.242032057",
     "geom:latitude":54.116262,
     "geom:longitude":16.636004,
@@ -134,7 +146,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -147,6 +160,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321630906",
+        "eurostat:nuts_2021_id":"1002321630906",
         "gn:id":3088492,
         "gp:id":24547472,
         "qs_pg:id":335496
@@ -156,7 +171,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e46084750dd3638e955f303e358811af",
+    "wof:geomhash":"df940b453fd6370610bbd3ea824d3973",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,12 +182,12 @@
         }
     ],
     "wof:id":1125372129,
-    "wof:lastmodified":1582357858,
+    "wof:lastmodified":1684354284,
     "wof:name":"Gmina Polan\u00f3w",
     "wof:parent_id":102080199,
     "wof:placetype":"localadmin",
-    "wof:population":2960,
-    "wof:population_rank":4,
+    "wof:population":8610,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

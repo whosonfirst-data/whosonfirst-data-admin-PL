@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301571806",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mikstat",
+    "eurostat:nuts_2021_id":"1002301571806",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301571806",
+    "eurostat:population":6046,
+    "eurostat:population_year":2020,
     "geom:area":0.011292,
-    "geom:area_square_m":86864017.072275,
+    "geom:area_square_m":86864017.072278,
     "geom:bbox":"17.871199095,51.476344819,18.109524457,51.582265962",
     "geom:latitude":51.529785,
     "geom:longitude":17.985476,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":17.987253,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079747
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301571806",
+        "eurostat:nuts_2021_id":"1002301571806"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"37e5c3991bd67450778eb96fd649a62a",
+    "wof:geomhash":"fb2606cb324ee7c8749ed2d8d749e9bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752807,
-    "wof:lastmodified":1569999731,
+    "wof:lastmodified":1684354430,
     "wof:name":"Gmina Mikstat",
     "wof:parent_id":102079747,
     "wof:placetype":"localadmin",
+    "wof:population":6046,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

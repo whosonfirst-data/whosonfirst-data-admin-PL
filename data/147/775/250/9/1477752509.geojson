@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221400507",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sul\u0119czyno",
+    "eurostat:nuts_2021_id":"1004221400507",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221400507",
+    "eurostat:population":5547,
+    "eurostat:population_year":2020,
     "geom:area":0.01811,
-    "geom:area_square_m":130853800.017751,
+    "geom:area_square_m":130853800.017734,
     "geom:bbox":"17.679991362,54.174569766,17.904416943,54.312729108",
     "geom:latitude":54.244085,
     "geom:longitude":17.796864,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":17.789287,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080233
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221400507",
+        "eurostat:nuts_2021_id":"1004221400507"
+    },
     "wof:coterminous":[
         1125809693
     ],
     "wof:country":"PL",
-    "wof:geomhash":"0de922a7c60e76d115bd180e427c89eb",
+    "wof:geomhash":"150a97b7a578d224a0bc4a5a3f05bd43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752509,
-    "wof:lastmodified":1570000504,
+    "wof:lastmodified":1684354413,
     "wof:name":"Sul\u0119czyno",
     "wof:parent_id":102080233,
     "wof:placetype":"localadmin",
+    "wof:population":5547,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121220712",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tymbark",
+    "eurostat:nuts_2021_id":"1001121220712",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121220712",
+    "eurostat:population":6591,
+    "eurostat:population_year":2020,
     "geom:area":0.004078,
-    "geom:area_square_m":32592491.026006,
+    "geom:area_square_m":32592491.026,
     "geom:bbox":"20.249460365,49.698654874,20.370745121,49.760503063",
     "geom:latitude":49.731248,
     "geom:longitude":20.312403,
@@ -72,6 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121220712",
+        "eurostat:nuts_2021_id":"1001121220712",
         "gp:id":12618798,
         "qs_pg:id":1093304
     },
@@ -95,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2579804477b6317c40d5ce4c5ed51d61",
+    "wof:geomhash":"c7f46f0456eaa103df4e836a7a9cbf51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":1125284413,
-    "wof:lastmodified":1582357759,
+    "wof:lastmodified":1684354155,
     "wof:name":"Tymbark",
     "wof:parent_id":102079423,
     "wof:placetype":"localadmin",
+    "wof:population":6591,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

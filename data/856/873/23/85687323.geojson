@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Wielkopolskie",
+    "eurostat:name_local":"Wielkopolskie",
+    "eurostat:nuts_2021_id":"PL41",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:population":3471812,
+    "eurostat:population_year":2022,
     "geom:area":3.932196,
-    "geom:area_square_m":29711986188.061363,
+    "geom:area_square_m":29711986188.061447,
     "geom:bbox":"15.776346,51.103645,19.105,53.655869",
     "geom:latitude":52.330783,
     "geom:longitude":17.243102,
@@ -305,8 +315,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-21",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"29,827",
     "statoids:area_mi":"11,516",
     "statoids:as_of_date":"2011-03-21",
@@ -328,6 +338,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14357,
+        "eurostat:nuts_2021_id":"PL41",
         "fips:code":"PL86",
         "hasc:id":"PL.WP",
         "iso:id":"PL-WP",
@@ -339,7 +350,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4c75f18dabcf843508893eaee198e47e",
+    "wof:geomhash":"6e884fccd5970dd9dc20f52745dec860",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -357,12 +368,12 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1614895722,
+    "wof:lastmodified":1684351472,
     "wof:name":"Wielkopolskie",
     "wof:parent_id":85633723,
     "wof:placetype":"region",
     "wof:placetype_local":"voivodship",
-    "wof:population":3447441,
+    "wof:population":3471812,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:shortcode":"WP",

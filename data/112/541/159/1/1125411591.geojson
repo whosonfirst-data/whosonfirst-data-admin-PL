@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021032108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Walim",
+    "eurostat:nuts_2021_id":"1003021032108",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021032108",
+    "eurostat:population":5403,
+    "eurostat:population_year":2020,
     "geom:area":0.010077,
-    "geom:area_square_m":78872794.215822,
+    "geom:area_square_m":78872794.215808,
     "geom:bbox":"16.327203473,50.660253179,16.493480852,50.793249645",
     "geom:latitude":50.729659,
     "geom:longitude":16.413345,
@@ -60,6 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021032108",
+        "eurostat:nuts_2021_id":"1003021032108",
         "gp:id":12617941,
         "qs_pg:id":238790
     },
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"66ed47b7662c93242a6aeb30d0f75ca8",
+    "wof:geomhash":"dae204eaebc39134d7fc7d6772609e17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":1125411591,
-    "wof:lastmodified":1582358008,
+    "wof:lastmodified":1684354335,
     "wof:name":"Walim",
     "wof:parent_id":102079595,
     "wof:placetype":"localadmin",
+    "wof:population":5403,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

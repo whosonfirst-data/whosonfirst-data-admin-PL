@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061091304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parczew",
+    "eurostat:nuts_2021_id":"1006061091304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061091304",
+    "eurostat:population":14445,
+    "eurostat:population_year":2020,
     "geom:area":0.019048,
-    "geom:area_square_m":146252959.737861,
+    "geom:area_square_m":146252959.737934,
     "geom:bbox":"22.783998115,51.516567092,23.047202537,51.684296964",
     "geom:latitude":51.614136,
     "geom:longitude":22.895107,
@@ -68,6 +80,8 @@
     "reversegeo:longitude":22.88413,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -75,8 +89,12 @@
         102079885
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061091304",
+        "eurostat:nuts_2021_id":"1006061091304"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"e8e27bfc7292f1f3a3260fd131385a3b",
+    "wof:geomhash":"d49b1e671f69213a5ece09cc86d1e00f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477752677,
-    "wof:lastmodified":1570000878,
+    "wof:lastmodified":1684354422,
     "wof:name":"Gmina Parczew",
     "wof:parent_id":102079885,
     "wof:placetype":"localadmin",
+    "wof:population":14445,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

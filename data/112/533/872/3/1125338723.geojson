@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321641801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dobra",
+    "eurostat:nuts_2021_id":"1002321641801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321641801",
+    "eurostat:population":4363,
+    "eurostat:population_year":2020,
     "geom:area":0.015719,
-    "geom:area_square_m":115424062.295535,
+    "geom:area_square_m":115424062.295536,
     "geom:bbox":"15.144603244,53.504233931,15.394052103,53.629496037",
     "geom:latitude":53.569705,
     "geom:longitude":15.271647,
@@ -154,7 +166,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -167,6 +180,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321641801",
+        "eurostat:nuts_2021_id":"1002321641801",
         "gn:id":3100363,
         "gp:id":24547636,
         "qs_pg:id":59440
@@ -176,7 +191,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e7d5400bb755a05e85ac65d7d269e08c",
+    "wof:geomhash":"57fe222d7aecdc9a1ab73954b9ae044d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,11 +202,11 @@
         }
     ],
     "wof:id":1125338723,
-    "wof:lastmodified":1582357680,
+    "wof:lastmodified":1684354245,
     "wof:name":"Gmina Dobra",
     "wof:parent_id":102080131,
     "wof:placetype":"localadmin",
-    "wof:population":2336,
+    "wof:population":4363,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jonkowo",
+    "eurostat:nuts_2021_id":"1004281561407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561407",
+    "eurostat:population":7430,
+    "eurostat:population_year":2020,
     "geom:area":0.023016,
-    "geom:area_square_m":167986675.721153,
+    "geom:area_square_m":167986675.721145,
     "geom:bbox":"20.12216113,53.7602905,20.410771821,53.889880826",
     "geom:latitude":53.824461,
     "geom:longitude":20.266002,
@@ -92,6 +104,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -100,6 +114,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561407",
+        "eurostat:nuts_2021_id":"1004281561407",
         "gn:id":7532043,
         "gp:id":12616777,
         "qs_pg:id":1154824
@@ -115,7 +131,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bd9885ef7c816d61b6e863eef3c85ca7",
+    "wof:geomhash":"3fb3a6e94488fdd74083f6e72d7dfdd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,10 +142,12 @@
         }
     ],
     "wof:id":1125409181,
-    "wof:lastmodified":1582358003,
+    "wof:lastmodified":1684354329,
     "wof:name":"Jonkowo",
     "wof:parent_id":102080207,
     "wof:placetype":"localadmin",
+    "wof:population":7430,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

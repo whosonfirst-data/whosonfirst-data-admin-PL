@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301583003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nekla",
+    "eurostat:nuts_2021_id":"1002301583003",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301583003",
+    "eurostat:population":7571,
+    "eurostat:population_year":2020,
     "geom:area":0.012642,
-    "geom:area_square_m":95494534.645588,
+    "geom:area_square_m":95494534.645573,
     "geom:bbox":"17.346785344,52.26966069,17.504460645,52.418774538",
     "geom:latitude":52.346195,
     "geom:longitude":17.42972,
@@ -128,7 +140,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -141,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301583003",
+        "eurostat:nuts_2021_id":"1002301583003",
         "gn:id":3091089,
         "gp:id":24547608,
         "qs_pg:id":1083375
@@ -150,7 +165,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7084c73a57e890df54be9ae4d6dab5ae",
+    "wof:geomhash":"682f9d1cef51addd262e9a7e36647418",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,12 +176,12 @@
         }
     ],
     "wof:id":1125281423,
-    "wof:lastmodified":1582357767,
+    "wof:lastmodified":1684354148,
     "wof:name":"Gmina Nekla",
     "wof:parent_id":102079907,
     "wof:placetype":"localadmin",
-    "wof:population":3351,
-    "wof:population_rank":4,
+    "wof:population":7571,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

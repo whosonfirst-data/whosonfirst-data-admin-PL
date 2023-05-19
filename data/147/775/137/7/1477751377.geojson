@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221411207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pot\u0119gowo",
+    "eurostat:nuts_2021_id":"1004221411207",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL636",
+    "eurostat:nuts_2021_level_lau":"1004221411207",
+    "eurostat:population":6882,
+    "eurostat:population_year":2020,
     "geom:area":0.031651,
-    "geom:area_square_m":227478490.96925,
+    "geom:area_square_m":227478490.969259,
     "geom:bbox":"17.291260533,54.367332128,17.619264935,54.553037786",
     "geom:latitude":54.462983,
     "geom:longitude":17.459812,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":17.457318,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080255
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221411207",
+        "eurostat:nuts_2021_id":"1004221411207"
+    },
     "wof:coterminous":[
         1243486925
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e373d8439e6cf69d2788bcc4d0c8f97c",
+    "wof:geomhash":"c789dbfc052c9e8d5d6bab653f2249a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751377,
-    "wof:lastmodified":1570002559,
+    "wof:lastmodified":1684354354,
     "wof:name":"Pot\u0119gowo",
     "wof:parent_id":102080255,
     "wof:placetype":"localadmin",
+    "wof:population":6882,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

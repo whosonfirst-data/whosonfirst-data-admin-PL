@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281551601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bia\u0142a Piska",
+    "eurostat:nuts_2021_id":"1004281551601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL623",
+    "eurostat:nuts_2021_level_lau":"1004281551601",
+    "eurostat:population":11622,
+    "eurostat:population_year":2020,
     "geom:area":0.057099,
-    "geom:area_square_m":418641772.598139,
+    "geom:area_square_m":418641772.598163,
     "geom:bbox":"21.905855988,53.495696907,22.305639397,53.758501667",
     "geom:latitude":53.633517,
     "geom:longitude":22.085221,
@@ -146,7 +158,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -159,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281551601",
+        "eurostat:nuts_2021_id":"1004281551601",
         "gn:id":776178,
         "gp:id":24547764,
         "qs_pg:id":1097000
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ef8acfa59375af08d2a05e17d5f38bc9",
+    "wof:geomhash":"a3dc371b8a5fcee4b13e0fb4e936e9f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,12 +194,12 @@
         }
     ],
     "wof:id":1125291849,
-    "wof:lastmodified":1582357828,
+    "wof:lastmodified":1684354178,
     "wof:name":"Gmina Bia\u0142a Piska",
     "wof:parent_id":102080195,
     "wof:placetype":"localadmin",
-    "wof:population":4027,
-    "wof:population_rank":4,
+    "wof:population":11622,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

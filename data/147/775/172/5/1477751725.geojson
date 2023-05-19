@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041681409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u015awiecie",
+    "eurostat:nuts_2021_id":"1004041681409",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL618",
+    "eurostat:nuts_2021_level_lau":"1004041681409",
+    "eurostat:population":33949,
+    "eurostat:population_year":2020,
     "geom:area":0.023632,
-    "geom:area_square_m":174174363.532638,
+    "geom:area_square_m":174174363.532633,
     "geom:bbox":"18.286856117,53.297524712,18.618388038,53.495788028",
     "geom:latitude":53.411841,
     "geom:longitude":18.429874,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":18.432314,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080137
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041681409",
+        "eurostat:nuts_2021_id":"1004041681409"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"fe4f590e845d58df51907adeaa11cfbb",
+    "wof:geomhash":"d90d2f8858b9f98fb50fda4e89b30cb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751725,
-    "wof:lastmodified":1570001716,
+    "wof:lastmodified":1684354372,
     "wof:name":"Gmina \u015awiecie",
     "wof:parent_id":102080137,
     "wof:placetype":"localadmin",
+    "wof:population":33949,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

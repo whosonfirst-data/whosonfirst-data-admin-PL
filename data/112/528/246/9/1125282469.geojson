@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101152008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stryk\u00f3w",
+    "eurostat:nuts_2021_id":"1005101152008",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL712",
+    "eurostat:nuts_2021_level_lau":"1005101152008",
+    "eurostat:population":12711,
+    "eurostat:population_year":2020,
     "geom:area":0.020621,
-    "geom:area_square_m":157304957.680257,
+    "geom:area_square_m":157304957.680283,
     "geom:bbox":"19.505621586,51.835802024,19.712964996,51.982410504",
     "geom:latitude":51.908966,
     "geom:longitude":19.605207,
@@ -152,7 +164,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -165,6 +178,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101152008",
+        "eurostat:nuts_2021_id":"1005101152008",
         "gn:id":3084464,
         "gp:id":24548333,
         "qs_pg:id":1043134
@@ -174,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3a98bcb605ca830046737bb4e774ff52",
+    "wof:geomhash":"803266fea7ca378090b6e885ea0b8eb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,12 +200,12 @@
         }
     ],
     "wof:id":1125282469,
-    "wof:lastmodified":1582357775,
+    "wof:lastmodified":1684354151,
     "wof:name":"Gmina Stryk\u00f3w",
     "wof:parent_id":102079873,
     "wof:placetype":"localadmin",
-    "wof:population":3297,
-    "wof:population_rank":4,
+    "wof:population":12711,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

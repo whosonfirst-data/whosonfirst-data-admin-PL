@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061120709",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wilko\u0142az",
+    "eurostat:nuts_2021_id":"1006061120709",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061120709",
+    "eurostat:population":5527,
+    "eurostat:population_year":2020,
     "geom:area":0.010462,
-    "geom:area_square_m":81413414.09085,
+    "geom:area_square_m":81413414.090843,
     "geom:bbox":"22.243849107,50.942290245,22.387512786,51.051466951",
     "geom:latitude":50.998986,
     "geom:longitude":22.316773,
@@ -75,7 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -88,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061120709",
+        "eurostat:nuts_2021_id":"1006061120709",
         "gn:id":755675,
         "gp:id":12618827,
         "qs_pg:id":487656
@@ -100,7 +115,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0580cb0b74c2410b7a692a6a2cafd356",
+    "wof:geomhash":"c14233cc64323234315c3cd7bc1506db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,12 +126,12 @@
         }
     ],
     "wof:id":1125300533,
-    "wof:lastmodified":1582357881,
+    "wof:lastmodified":1684354192,
     "wof:name":"Wilko\u0142az",
     "wof:parent_id":102079721,
     "wof:placetype":"localadmin",
-    "wof:population":2493,
-    "wof:population_rank":4,
+    "wof:population":5527,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

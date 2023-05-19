@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390806",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mo\u0144ki",
+    "eurostat:nuts_2021_id":"1006201390806",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390806",
+    "eurostat:population":14874,
+    "eurostat:population_year":2020,
     "geom:area":0.021824,
-    "geom:area_square_m":160903496.83972,
+    "geom:area_square_m":160903496.839734,
     "geom:bbox":"22.599912476,53.31224744,22.927326045,53.465325803",
     "geom:latitude":53.398631,
     "geom:longitude":22.797123,
@@ -185,7 +197,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -198,6 +211,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390806",
+        "eurostat:nuts_2021_id":"1006201390806",
         "gn:id":764421,
         "gp:id":24548285,
         "qs_pg:id":129301
@@ -207,7 +222,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5855c99d39e1abee416b8a2a3d086188",
+    "wof:geomhash":"52b3991da22f29d328b0171d657aa7ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -218,11 +233,11 @@
         }
     ],
     "wof:id":1125289409,
-    "wof:lastmodified":1582357769,
+    "wof:lastmodified":1684354173,
     "wof:name":"Gmina Mo\u0144ki",
     "wof:parent_id":102080175,
     "wof:placetype":"localadmin",
-    "wof:population":10577,
+    "wof:population":14874,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

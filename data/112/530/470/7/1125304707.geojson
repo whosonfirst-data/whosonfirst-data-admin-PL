@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101190403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u00f3ra \u015awi\u0119tej Ma\u0142gorzaty",
+    "eurostat:nuts_2021_id":"1005101190403",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL715",
+    "eurostat:nuts_2021_level_lau":"1005101190403",
+    "eurostat:population":4345,
+    "eurostat:population_year":2020,
     "geom:area":0.011828,
-    "geom:area_square_m":89916773.800138,
+    "geom:area_square_m":89916773.800149,
     "geom:bbox":"19.212014045,52.017004576,19.420126503,52.113441413",
     "geom:latitude":52.064951,
     "geom:longitude":19.322612,
@@ -69,7 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -82,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101190403",
+        "eurostat:nuts_2021_id":"1005101190403",
         "gn:id":3098871,
         "gp:id":12617150,
         "qs_pg:id":201366
@@ -94,7 +109,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"16c422e541f5818b6507dbc14f810638",
+    "wof:geomhash":"e49b678cd229b388210cc374a4c83428",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,12 +120,12 @@
         }
     ],
     "wof:id":1125304707,
-    "wof:lastmodified":1582357876,
+    "wof:lastmodified":1684354204,
     "wof:name":"G\u00f3ra \u015awi\u0119tej Ma\u0142gorzaty",
     "wof:parent_id":102079891,
     "wof:placetype":"localadmin",
-    "wof:population":357,
-    "wof:population_rank":2,
+    "wof:population":4345,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221720305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kocza\u0142a",
+    "eurostat:nuts_2021_id":"1004221720305",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL637",
+    "eurostat:nuts_2021_level_lau":"1004221720305",
+    "eurostat:population":3356,
+    "eurostat:population_year":2020,
     "geom:area":0.030523,
-    "geom:area_square_m":222299043.580763,
+    "geom:area_square_m":222299043.580754,
     "geom:bbox":"16.977385194,53.814261918,17.241208554,54.011348565",
     "geom:latitude":53.914391,
     "geom:longitude":17.108391,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":17.105875,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080157
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221720305",
+        "eurostat:nuts_2021_id":"1004221720305"
+    },
     "wof:coterminous":[
         101819357
     ],
     "wof:country":"PL",
-    "wof:geomhash":"dc1e1e93c430519f7656b7e452cef65d",
+    "wof:geomhash":"4784d9458bc271f255a1776240217d34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751269,
-    "wof:lastmodified":1570001908,
+    "wof:lastmodified":1684354349,
     "wof:name":"Kocza\u0142a",
     "wof:parent_id":102080157,
     "wof:placetype":"localadmin",
+    "wof:population":3356,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

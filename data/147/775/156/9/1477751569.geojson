@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021021605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przemk\u00f3w",
+    "eurostat:nuts_2021_id":"1003021021605",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021021605",
+    "eurostat:population":8341,
+    "eurostat:population_year":2020,
     "geom:area":0.013952,
-    "geom:area_square_m":107342136.164109,
+    "geom:area_square_m":107342136.164137,
     "geom:bbox":"15.702774274,51.440226257,15.933496007,51.577685925",
     "geom:latitude":51.521192,
     "geom:longitude":15.82122,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":15.819424,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079741
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021021605",
+        "eurostat:nuts_2021_id":"1003021021605"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"d6fcec6fadb6d104e7ae1e22aa3eeb03",
+    "wof:geomhash":"7ad5e9c8eb8272c19080fc2e4f50c298",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751569,
-    "wof:lastmodified":1569999567,
+    "wof:lastmodified":1684354364,
     "wof:name":"Gmina Przemk\u00f3w",
     "wof:parent_id":102079741,
     "wof:placetype":"localadmin",
+    "wof:population":8341,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

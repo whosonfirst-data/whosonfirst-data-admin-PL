@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061096101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bia\u0142a Podlaska",
+    "eurostat:nuts_2021_id":"1006061096101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061096101",
+    "eurostat:population":57170,
+    "eurostat:population_year":2020,
     "geom:area":0.006469,
-    "geom:area_square_m":49210552.079584,
+    "geom:area_square_m":49210552.079602,
     "geom:bbox":"23.065108259,51.996385206,23.211502619,52.061683874",
     "geom:latitude":52.030006,
     "geom:longitude":23.142019,
@@ -218,6 +230,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -230,6 +244,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061096101",
+        "eurostat:nuts_2021_id":"1006061096101",
         "gn:id":7531194,
         "gp:id":12617454,
         "qs_pg:id":1172322
@@ -239,7 +255,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d6c0f0e42f6c0f488687389f40b28a61",
+    "wof:geomhash":"decb18fc241a1c3035073f914eaeebbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -250,10 +266,12 @@
         }
     ],
     "wof:id":1125364609,
-    "wof:lastmodified":1582357977,
+    "wof:lastmodified":1684354272,
     "wof:name":"Gmina Bia\u0142a Podlaska",
     "wof:parent_id":102079937,
     "wof:placetype":"localadmin",
+    "wof:population":57170,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

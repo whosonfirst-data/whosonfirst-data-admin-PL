@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lel\u00f3w",
+    "eurostat:nuts_2021_id":"1001241460409",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460409",
+    "eurostat:population":4824,
+    "eurostat:population_year":2020,
     "geom:area":0.015746,
     "geom:area_square_m":123325830.888805,
     "geom:bbox":"19.52370367,50.636974661,19.786376032,50.776665868",
@@ -50,6 +62,8 @@
     "reversegeo:longitude":19.637381,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -57,11 +71,15 @@
         102079663
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460409",
+        "eurostat:nuts_2021_id":"1001241460409"
+    },
     "wof:coterminous":[
         1125780397
     ],
     "wof:country":"PL",
-    "wof:geomhash":"7f62afbcd56b9058098d7c3198ecb71a",
+    "wof:geomhash":"93ca6d71e095b36214a7c565c841028a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +90,12 @@
         }
     ],
     "wof:id":1477752743,
-    "wof:lastmodified":1569999798,
+    "wof:lastmodified":1684354426,
     "wof:name":"Lel\u00f3w",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",
+    "wof:population":4824,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

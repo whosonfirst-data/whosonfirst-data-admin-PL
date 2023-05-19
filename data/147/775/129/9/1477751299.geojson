@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221720605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Liniewo",
+    "eurostat:nuts_2021_id":"1004221720605",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL637",
+    "eurostat:nuts_2021_level_lau":"1004221720605",
+    "eurostat:population":4597,
+    "eurostat:population_year":2020,
     "geom:area":0.015085,
-    "geom:area_square_m":109442183.733388,
+    "geom:area_square_m":109442183.733382,
     "geom:bbox":"18.126536753,54.019291197,18.361261246,54.132215261",
     "geom:latitude":54.0746,
     "geom:longitude":18.25521,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":18.247201,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102080193
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221720605",
+        "eurostat:nuts_2021_id":"1004221720605"
+    },
     "wof:coterminous":[
         1126021429
     ],
     "wof:country":"PL",
-    "wof:geomhash":"579e6d01ff07cd8d55de1b81ae1e0221",
+    "wof:geomhash":"d6b74732d49183e5a52f89551eccd76e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751299,
-    "wof:lastmodified":1570001428,
+    "wof:lastmodified":1684354351,
     "wof:name":"Liniewo",
     "wof:parent_id":102080193,
     "wof:placetype":"localadmin",
+    "wof:population":4597,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

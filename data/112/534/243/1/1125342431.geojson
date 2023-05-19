@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181330506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krempna",
+    "eurostat:nuts_2021_id":"1006181330506",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181330506",
+    "eurostat:population":1861,
+    "eurostat:population_year":2020,
     "geom:area":0.0253,
-    "geom:area_square_m":203204521.415449,
+    "geom:area_square_m":203204521.415431,
     "geom:bbox":"21.358474318,49.412248417,21.614167693,49.575946868",
     "geom:latitude":49.492398,
     "geom:longitude":21.486762,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181330506",
+        "eurostat:nuts_2021_id":"1006181330506",
         "gn:id":767561,
         "gp:id":12618469,
         "qs_pg:id":24222
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3bbb730035e6492b66b93c28c9ca5dbb",
+    "wof:geomhash":"b5227c155d98c6aa65df44998fc0dbe2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125342431,
-    "wof:lastmodified":1582357691,
+    "wof:lastmodified":1684354252,
     "wof:name":"Krempna",
     "wof:parent_id":102079453,
     "wof:placetype":"localadmin",
-    "wof:population":500,
-    "wof:population_rank":2,
+    "wof:population":1861,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Komprachcice",
+    "eurostat:nuts_2021_id":"1003161320904",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320904",
+    "eurostat:population":9120,
+    "eurostat:population_year":2020,
     "geom:area":0.006426,
-    "geom:area_square_m":50405668.104649,
+    "geom:area_square_m":50405668.104638,
     "geom:bbox":"17.735735238,50.582488209,17.876780343,50.670556987",
     "geom:latitude":50.62839,
     "geom:longitude":17.809593,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":17.809612,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079627
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320904",
+        "eurostat:nuts_2021_id":"1003161320904"
+    },
     "wof:coterminous":[
         101841753
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2e2f21ad3028d6a5c83665a20ed3e568",
+    "wof:geomhash":"0b9a155107e2bbc42a42b438f5aeba8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751629,
-    "wof:lastmodified":1570002113,
+    "wof:lastmodified":1684354367,
     "wof:name":"Komprachcice",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",
+    "wof:population":9120,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

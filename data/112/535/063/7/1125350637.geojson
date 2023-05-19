@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u0142ynarze",
+    "eurostat:nuts_2021_id":"1007142261105",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261105",
+    "eurostat:population":1742,
+    "eurostat:population_year":2020,
     "geom:area":0.010012,
     "geom:area_square_m":74562735.233379,
     "geom:bbox":"21.287547327,52.918410371,21.497275279,53.025926438",
@@ -23,6 +35,8 @@
     "reversegeo:longitude":21.436246,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080077
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261105",
+        "eurostat:nuts_2021_id":"1007142261105"
+    },
     "wof:coterminous":[
         1477864823
     ],
     "wof:country":"PL",
-    "wof:geomhash":"bb8c50bf43d6e0505748e6268a2df14b",
+    "wof:geomhash":"94d07173d27a60093019683d300cb876",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125350637,
-    "wof:lastmodified":1569988583,
+    "wof:lastmodified":1684354258,
     "wof:name":"M\u0142ynarze",
     "wof:parent_id":102080077,
     "wof:placetype":"localadmin",
+    "wof:population":1742,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

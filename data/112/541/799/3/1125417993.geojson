@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poronin",
+    "eurostat:nuts_2021_id":"1001121691705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691705",
+    "eurostat:population":11650,
+    "eurostat:population_year":2020,
     "geom:area":0.010338,
-    "geom:area_square_m":83341140.582551,
+    "geom:area_square_m":83341140.58261,
     "geom:bbox":"19.899174395,49.227122415,20.109946011,49.363686063",
     "geom:latitude":49.308598,
     "geom:longitude":20.020592,
@@ -77,7 +89,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -90,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691705",
+        "eurostat:nuts_2021_id":"1001121691705",
         "gn:id":761437,
         "gp:id":12618264,
         "qs_pg:id":1190585
@@ -102,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"951b890ad33abb26db226ad2c538f68e",
+    "wof:geomhash":"3920bc2cb94a72751816c26e66dd0b84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,12 +128,12 @@
         }
     ],
     "wof:id":1125417993,
-    "wof:lastmodified":1582358007,
+    "wof:lastmodified":1684354341,
     "wof:name":"Poronin",
     "wof:parent_id":102079405,
     "wof:placetype":"localadmin",
-    "wof:population":3507,
-    "wof:population_rank":4,
+    "wof:population":11650,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

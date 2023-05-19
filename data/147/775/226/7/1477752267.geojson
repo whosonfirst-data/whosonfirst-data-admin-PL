@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121240205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gnojnik",
+    "eurostat:nuts_2021_id":"1001121240205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL217",
+    "eurostat:nuts_2021_level_lau":"1001121240205",
+    "eurostat:population":8029,
+    "eurostat:population_year":2020,
     "geom:area":0.006881,
     "geom:area_square_m":54810574.656376,
     "geom:bbox":"20.553965248,49.852893489,20.69798313,49.929925807",
@@ -35,6 +47,8 @@
     "reversegeo:longitude":20.608532,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079517
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121240205",
+        "eurostat:nuts_2021_id":"1001121240205"
+    },
     "wof:coterminous":[
         1326656783
     ],
     "wof:country":"PL",
-    "wof:geomhash":"fa18417677e1477da180619bea91ad05",
+    "wof:geomhash":"d08208115fd6facbb1771c14b4b8250f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752267,
-    "wof:lastmodified":1570000059,
+    "wof:lastmodified":1684354401,
     "wof:name":"Gnojnik",
     "wof:parent_id":102079517,
     "wof:placetype":"localadmin",
+    "wof:population":8029,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

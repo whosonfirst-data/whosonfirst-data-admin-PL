@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241491108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rudnik",
+    "eurostat:nuts_2021_id":"1001241491108",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL227",
+    "eurostat:nuts_2021_level_lau":"1001241491108",
+    "eurostat:population":5193,
+    "eurostat:population_year":2020,
     "geom:area":0.009298,
-    "geom:area_square_m":73660439.154045,
+    "geom:area_square_m":73660439.154051,
     "geom:bbox":"18.057885421,50.111264038,18.260056788,50.197642423",
     "geom:latitude":50.155772,
     "geom:longitude":18.172183,
@@ -127,7 +139,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -140,6 +153,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241491108",
+        "eurostat:nuts_2021_id":"1001241491108",
         "gn:id":3086759,
         "gp:id":12617807,
         "qs_pg:id":24051
@@ -152,7 +167,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d17f96a32a350a49b8a7174a36d25a3b",
+    "wof:geomhash":"e6aa8c650a4376968853356714840183",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,12 +178,12 @@
         }
     ],
     "wof:id":1125288901,
-    "wof:lastmodified":1582357782,
+    "wof:lastmodified":1684354166,
     "wof:name":"Rudnik",
     "wof:parent_id":102079477,
     "wof:placetype":"localadmin",
-    "wof:population":916,
-    "wof:population_rank":2,
+    "wof:population":5193,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

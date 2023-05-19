@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pasym",
+    "eurostat:nuts_2021_id":"1004281561704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561704",
+    "eurostat:population":5312,
+    "eurostat:population_year":2020,
     "geom:area":0.02027,
-    "geom:area_square_m":148578533.406784,
+    "geom:area_square_m":148578533.406757,
     "geom:bbox":"20.688003585,53.572516814,20.921998937,53.719044872",
     "geom:latitude":53.645429,
     "geom:longitude":20.807287,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561704",
+        "eurostat:nuts_2021_id":"1004281561704",
         "gn:id":762588,
         "gp:id":12618624,
         "qs_pg:id":1099649
@@ -159,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"de949ef9ce67132137d510b0eac21915",
+    "wof:geomhash":"024bbe861c9db583c03e69ba6b1433be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,12 +185,12 @@
         }
     ],
     "wof:id":1125294965,
-    "wof:lastmodified":1582357815,
+    "wof:lastmodified":1684354184,
     "wof:name":"Gmina Pasym",
     "wof:parent_id":102080167,
     "wof:placetype":"localadmin",
-    "wof:population":2539,
-    "wof:population_rank":4,
+    "wof:population":5312,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

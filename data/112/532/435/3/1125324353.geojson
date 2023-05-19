@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221411209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Smo\u0142dzino",
+    "eurostat:nuts_2021_id":"1004221411209",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL636",
+    "eurostat:nuts_2021_level_lau":"1004221411209",
+    "eurostat:population":3375,
+    "eurostat:population_year":2020,
     "geom:area":0.036236,
-    "geom:area_square_m":259058011.180962,
+    "geom:area_square_m":259058011.180972,
     "geom:bbox":"17.059164322,54.584177744,17.531232786,54.760090932",
     "geom:latitude":54.678222,
     "geom:longitude":17.262899,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221411209",
+        "eurostat:nuts_2021_id":"1004221411209",
         "gn:id":3085360,
         "gp:id":12618282,
         "qs_pg:id":24175
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"abb4e47fa543fb05434d182e1c4aa163",
+    "wof:geomhash":"b5453a198df2c5c6f472230e02bb2a98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125324353,
-    "wof:lastmodified":1582357746,
+    "wof:lastmodified":1684354229,
     "wof:name":"Smo\u0142dzino",
     "wof:parent_id":102080255,
     "wof:placetype":"localadmin",
-    "wof:population":984,
-    "wof:population_rank":2,
+    "wof:population":3375,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

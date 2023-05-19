@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Uchanie",
+    "eurostat:nuts_2021_id":"1006061100407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100407",
+    "eurostat:population":4514,
+    "eurostat:population_year":2020,
     "geom:area":0.015416,
-    "geom:area_square_m":120232861.294592,
+    "geom:area_square_m":120232861.294585,
     "geom:bbox":"23.58041772,50.846872528,23.808809568,50.952159479",
     "geom:latitude":50.894976,
     "geom:longitude":23.691233,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":23.682025,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079743
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100407",
+        "eurostat:nuts_2021_id":"1006061100407"
+    },
     "wof:coterminous":[
         1125929985
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e62b7c78d29db15bfc301648159642b6",
+    "wof:geomhash":"0eb51acece2f78f6c39f4da5da0d71dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752567,
-    "wof:lastmodified":1570001043,
+    "wof:lastmodified":1684354416,
     "wof:name":"Uchanie",
     "wof:parent_id":102079743,
     "wof:placetype":"localadmin",
+    "wof:population":4514,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

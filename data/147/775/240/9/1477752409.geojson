@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121201405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Proszowice",
+    "eurostat:nuts_2021_id":"1001121201405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121201405",
+    "eurostat:population":16139,
+    "eurostat:population_year":2020,
     "geom:area":0.012597,
-    "geom:area_square_m":99702621.607827,
+    "geom:area_square_m":99702621.607818,
     "geom:bbox":"20.243138853,50.154174469,20.500084909,50.257739788",
     "geom:latitude":50.200305,
     "geom:longitude":20.342907,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":20.309029,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079545
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121201405",
+        "eurostat:nuts_2021_id":"1001121201405"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"0a77bf768e955a6107e11e1dfdef8f13",
+    "wof:geomhash":"ed8fc08ac62508bc2ad41a375412db5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752409,
-    "wof:lastmodified":1570003060,
+    "wof:lastmodified":1684354408,
     "wof:name":"Gmina Proszowice",
     "wof:parent_id":102079545,
     "wof:placetype":"localadmin",
+    "wof:population":16139,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

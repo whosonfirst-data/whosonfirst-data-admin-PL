@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Igo\u0142omia-Wawrze\u0144czyce",
+    "eurostat:nuts_2021_id":"1001121200602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200602",
+    "eurostat:population":7698,
+    "eurostat:population_year":2020,
     "geom:area":0.007891,
-    "geom:area_square_m":62579121.919057,
+    "geom:area_square_m":62579121.919031,
     "geom:bbox":"20.184928757,50.053434602,20.353766045,50.160466237",
     "geom:latitude":50.105186,
     "geom:longitude":20.268773,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.270053,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079541
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200602",
+        "eurostat:nuts_2021_id":"1001121200602"
+    },
     "wof:coterminous":[
         1477864999
     ],
     "wof:country":"PL",
-    "wof:geomhash":"8de4e02572a577ccad3347f6d867bfdf",
+    "wof:geomhash":"067b4141d951943506bd57c9bd1c1c96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477752799,
-    "wof:lastmodified":1570002754,
+    "wof:lastmodified":1684354430,
     "wof:name":"Igo\u0142omia-Wawrze\u0144czyce",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",
+    "wof:population":7698,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

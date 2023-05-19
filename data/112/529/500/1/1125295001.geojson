@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181351006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rakszawa",
+    "eurostat:nuts_2021_id":"1006181351006",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181351006",
+    "eurostat:population":7359,
+    "eurostat:population_year":2020,
     "geom:area":0.008365,
-    "geom:area_square_m":66234298.165421,
+    "geom:area_square_m":66234298.165422,
     "geom:bbox":"22.16127714,50.120671174,22.28566241,50.246768061",
     "geom:latitude":50.182565,
     "geom:longitude":22.229034,
@@ -62,7 +74,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -75,6 +88,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181351006",
+        "eurostat:nuts_2021_id":"1006181351006",
         "gn:id":760632,
         "gp:id":12618820,
         "qs_pg:id":1099657
@@ -87,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5c042b40c5b1f1585c4d9ad695acd699",
+    "wof:geomhash":"6b1774e6f0bd73525324998bef200c7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,11 +113,11 @@
         }
     ],
     "wof:id":1125295001,
-    "wof:lastmodified":1582357819,
+    "wof:lastmodified":1684354185,
     "wof:name":"Rakszawa",
     "wof:parent_id":102079565,
     "wof:placetype":"localadmin",
-    "wof:population":6894,
+    "wof:population":7359,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

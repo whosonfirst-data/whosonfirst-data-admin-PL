@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021031907",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u015awidnica",
+    "eurostat:nuts_2021_id":"1003021031907",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021031907",
+    "eurostat:population":17311,
+    "eurostat:population_year":2020,
     "geom:area":0.026499,
-    "geom:area_square_m":207056397.22485,
+    "geom:area_square_m":207056397.224825,
     "geom:bbox":"16.332181448,50.711234778,16.605680907,50.905301888",
     "geom:latitude":50.809145,
     "geom:longitude":16.474614,
@@ -176,6 +188,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -184,6 +198,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021031907",
+        "eurostat:nuts_2021_id":"1003021031907",
         "gn:id":7531185,
         "gp:id":24547761,
         "qs_pg:id":1154808
@@ -196,7 +212,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a7cd84c485715644cf896ef1f794c10a",
+    "wof:geomhash":"2b50b1a6335b637f77c1e777275bf77f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -207,10 +223,12 @@
         }
     ],
     "wof:id":1125288749,
-    "wof:lastmodified":1582357758,
+    "wof:lastmodified":1684354163,
     "wof:name":"Gmina \u015awidnica",
     "wof:parent_id":102079625,
     "wof:placetype":"localadmin",
+    "wof:population":17311,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

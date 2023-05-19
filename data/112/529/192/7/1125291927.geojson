@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ksi\u0105\u017c Wielkopolski",
+    "eurostat:nuts_2021_id":"1002301612603",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612603",
+    "eurostat:population":8495,
+    "eurostat:population_year":2020,
     "geom:area":0.019382,
-    "geom:area_square_m":147393867.860694,
+    "geom:area_square_m":147393867.860698,
     "geom:bbox":"17.083837863,51.972338495,17.327039964,52.109675097",
     "geom:latitude":52.047714,
     "geom:longitude":17.217377,
@@ -141,7 +153,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -154,6 +167,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612603",
+        "eurostat:nuts_2021_id":"1002301612603",
         "gn:id":3094355,
         "gp:id":24548104,
         "qs_pg:id":1097012
@@ -163,7 +178,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"02370dd7398ed2a3dc055a154561774e",
+    "wof:geomhash":"7fc306c870792b4b9461df8f0a7f5cc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,12 +189,12 @@
         }
     ],
     "wof:id":1125291927,
-    "wof:lastmodified":1582357806,
+    "wof:lastmodified":1684354178,
     "wof:name":"Gmina Ksi\u0105\u017c Wielkopolski",
     "wof:parent_id":102079865,
     "wof:placetype":"localadmin",
-    "wof:population":2736,
-    "wof:population_rank":4,
+    "wof:population":8495,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

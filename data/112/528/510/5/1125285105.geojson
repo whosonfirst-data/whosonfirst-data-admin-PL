@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krasnosielc",
+    "eurostat:nuts_2021_id":"1007142261104",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261104",
+    "eurostat:population":6352,
+    "eurostat:population_year":2020,
     "geom:area":0.022399,
-    "geom:area_square_m":166471547.958721,
+    "geom:area_square_m":166471547.95871,
     "geom:bbox":"21.043514925,52.973040299,21.311607067,53.138893467",
     "geom:latitude":53.055827,
     "geom:longitude":21.163176,
@@ -89,7 +101,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -102,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261104",
+        "eurostat:nuts_2021_id":"1007142261104",
         "gn:id":767608,
         "gp:id":12616797,
         "qs_pg:id":1093963
@@ -114,7 +129,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c99524995467b6b2772a90058f46b17c",
+    "wof:geomhash":"c995f3c15c52260cbab96eb48966f234",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,12 +140,12 @@
         }
     ],
     "wof:id":1125285105,
-    "wof:lastmodified":1582357767,
+    "wof:lastmodified":1684354156,
     "wof:name":"Krasnosielc",
     "wof:parent_id":102080077,
     "wof:placetype":"localadmin",
-    "wof:population":1300,
-    "wof:population_rank":3,
+    "wof:population":6352,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

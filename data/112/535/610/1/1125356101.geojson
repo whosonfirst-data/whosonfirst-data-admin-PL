@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241441707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0141\u0119kawica",
+    "eurostat:nuts_2021_id":"1001241441707",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241441707",
+    "eurostat:population":4552,
+    "eurostat:population_year":2020,
     "geom:area":0.005331,
-    "geom:area_square_m":42588564.757518,
+    "geom:area_square_m":42588564.757523,
     "geom:bbox":"19.241389707,49.709529607,19.369169453,49.780108032",
     "geom:latitude":49.750604,
     "geom:longitude":19.297268,
@@ -66,6 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -78,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241441707",
+        "eurostat:nuts_2021_id":"1001241441707",
         "gp:id":12618707,
         "qs_pg:id":1153842
     },
@@ -89,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"91dacab4e3fbf29cc801945086320239",
+    "wof:geomhash":"2e1e83a652a1f58075dd07c53a3a059a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":1125356101,
-    "wof:lastmodified":1582357701,
+    "wof:lastmodified":1684354262,
     "wof:name":"\u0141\u0119kawica",
     "wof:parent_id":102079411,
     "wof:placetype":"localadmin",
+    "wof:population":4552,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Re\u0144ska Wie\u015b",
+    "eurostat:nuts_2021_id":"1003161320306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320306",
+    "eurostat:population":8295,
+    "eurostat:population_year":2020,
     "geom:area":0.012384,
-    "geom:area_square_m":97756049.37886,
+    "geom:area_square_m":97756049.378827,
     "geom:bbox":"18.028344127,50.262815581,18.17896386,50.420499751",
     "geom:latitude":50.329557,
     "geom:longitude":18.094739,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":18.094758,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079523
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320306",
+        "eurostat:nuts_2021_id":"1003161320306"
+    },
     "wof:coterminous":[
         101824843
     ],
     "wof:country":"PL",
-    "wof:geomhash":"7e91957c0c2d73a850dc0fd7f24acb71",
+    "wof:geomhash":"7723312a1953842fbcb5224dfc71f5a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125303091,
-    "wof:lastmodified":1569993859,
+    "wof:lastmodified":1684354195,
     "wof:name":"Re\u0144ska Wie\u015b",
     "wof:parent_id":102079523,
     "wof:placetype":"localadmin",
+    "wof:population":8295,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

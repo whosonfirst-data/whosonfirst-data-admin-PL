@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281551901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Budry",
+    "eurostat:nuts_2021_id":"1004281551901",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL623",
+    "eurostat:nuts_2021_level_lau":"1004281551901",
+    "eurostat:population":2780,
+    "eurostat:population_year":2020,
     "geom:area":0.02413,
-    "geom:area_square_m":174209688.007093,
+    "geom:area_square_m":174209688.007098,
     "geom:bbox":"21.693904868,54.202313525,21.987784315,54.333710975",
     "geom:latitude":54.276818,
     "geom:longitude":21.86376,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":21.863747,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080253
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281551901",
+        "eurostat:nuts_2021_id":"1004281551901"
+    },
     "wof:coterminous":[
         1126004335
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5e966be6e9309dd48f304ac23261c9be",
+    "wof:geomhash":"cdc2a87dc443c5018fb04681da0086b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752787,
-    "wof:lastmodified":1570002975,
+    "wof:lastmodified":1684354429,
     "wof:name":"Budry",
     "wof:parent_id":102080253,
     "wof:placetype":"localadmin",
+    "wof:population":2780,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

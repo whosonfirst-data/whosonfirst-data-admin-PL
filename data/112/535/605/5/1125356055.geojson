@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221720606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lipusz",
+    "eurostat:nuts_2021_id":"1004221720606",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL637",
+    "eurostat:nuts_2021_level_lau":"1004221720606",
+    "eurostat:population":3744,
+    "eurostat:population_year":2020,
     "geom:area":0.01497,
-    "geom:area_square_m":108540366.824409,
+    "geom:area_square_m":108540366.824403,
     "geom:bbox":"17.662268182,54.039893486,17.879017134,54.17958573",
     "geom:latitude":54.100037,
     "geom:longitude":17.771593,
@@ -63,6 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221720606",
+        "eurostat:nuts_2021_id":"1004221720606",
         "gp:id":12617256,
         "qs_pg:id":1153834
     },
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"de78fee3be0cb15f5b14e45403686d86",
+    "wof:geomhash":"f0ab0985da76069c403fb68e9b818b37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":1125356055,
-    "wof:lastmodified":1582357705,
+    "wof:lastmodified":1684354262,
     "wof:name":"Lipusz",
     "wof:parent_id":102080193,
     "wof:placetype":"localadmin",
+    "wof:population":3744,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

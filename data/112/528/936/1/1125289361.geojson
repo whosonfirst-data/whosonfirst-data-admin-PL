@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061101810",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Telatyn",
+    "eurostat:nuts_2021_id":"1006061101810",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061101810",
+    "eurostat:population":3901,
+    "eurostat:population_year":2020,
     "geom:area":0.013902,
-    "geom:area_square_m":109270984.824264,
+    "geom:area_square_m":109270984.82427,
     "geom:bbox":"23.771922615,50.474786149,23.987973721,50.58808206",
     "geom:latitude":50.53041,
     "geom:longitude":23.871238,
@@ -64,7 +76,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -77,6 +90,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061101810",
+        "eurostat:nuts_2021_id":"1006061101810",
         "gn:id":756980,
         "gp:id":12618672,
         "qs_pg:id":24262
@@ -89,7 +104,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5ee8e8c0c2091b27fd7ff638bc696b33",
+    "wof:geomhash":"6ebf60f7ee2bd64f8158d9e9c73cb695",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,12 +115,12 @@
         }
     ],
     "wof:id":1125289361,
-    "wof:lastmodified":1582357753,
+    "wof:lastmodified":1684354172,
     "wof:name":"Telatyn",
     "wof:parent_id":102079689,
     "wof:placetype":"localadmin",
-    "wof:population":603,
-    "wof:population_rank":2,
+    "wof:population":3901,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

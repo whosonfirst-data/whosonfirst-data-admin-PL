@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malczyce",
+    "eurostat:nuts_2021_id":"1003021041802",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041802",
+    "eurostat:population":5952,
+    "eurostat:population_year":2020,
     "geom:area":0.006777,
-    "geom:area_square_m":52524819.27778,
+    "geom:area_square_m":52524819.277772,
     "geom:bbox":"16.441791076,51.111045347,16.559819271,51.231270035",
     "geom:latitude":51.18485,
     "geom:longitude":16.49079,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":16.490822,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079675
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041802",
+        "eurostat:nuts_2021_id":"1003021041802"
+    },
     "wof:coterminous":[
         101821271
     ],
     "wof:country":"PL",
-    "wof:geomhash":"515064a8d550e93efbe52178c35473f3",
+    "wof:geomhash":"2b04cb9acedb1263e06b961d00f39ad4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752181,
-    "wof:lastmodified":1569999700,
+    "wof:lastmodified":1684354397,
     "wof:name":"Malczyce",
     "wof:parent_id":102079675,
     "wof:placetype":"localadmin",
+    "wof:population":5952,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

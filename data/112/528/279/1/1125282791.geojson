@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221401002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowy Dw\u00f3r Gda\u0144ski",
+    "eurostat:nuts_2021_id":"1004221401002",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221401002",
+    "eurostat:population":17695,
+    "eurostat:population_year":2020,
     "geom:area":0.02934,
-    "geom:area_square_m":212220436.637596,
+    "geom:area_square_m":212220436.637574,
     "geom:bbox":"18.950661,54.116121,19.326518,54.27663",
     "geom:latitude":54.200155,
     "geom:longitude":19.165963,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -157,11 +170,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080239,
-        85687267
+        85687267,
+        102080239
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221401002",
+        "eurostat:nuts_2021_id":"1004221401002",
         "gn:id":3090502,
         "gp:id":24548123,
         "qs_pg:id":1200718
@@ -174,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5bf4e55698a7cb246d7db72869ca87ad",
+    "wof:geomhash":"67b01b727b86b9fcaf36b4b396b3f6b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,12 +200,12 @@
         }
     ],
     "wof:id":1125282791,
-    "wof:lastmodified":1607726673,
+    "wof:lastmodified":1684354152,
     "wof:name":"Gmina Nowy Dw\u00f3r Gda\u0144ski",
     "wof:parent_id":102080239,
     "wof:placetype":"localadmin",
-    "wof:population":9822,
-    "wof:population_rank":5,
+    "wof:population":17695,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

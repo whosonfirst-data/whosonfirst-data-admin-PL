@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181330201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brzoz\u00f3w",
+    "eurostat:nuts_2021_id":"1006181330201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181330201",
+    "eurostat:population":26599,
+    "eurostat:population_year":2020,
     "geom:area":0.012842,
-    "geom:area_square_m":102731966.530066,
+    "geom:area_square_m":102731966.530049,
     "geom:bbox":"21.932915,49.6183,22.113537,49.753444",
     "geom:latitude":49.68923,
     "geom:longitude":22.033452,
@@ -65,18 +77,24 @@
     "reversegeo:longitude":22.032089,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079461,
-        85687295
+        85687295,
+        102079461
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181330201",
+        "eurostat:nuts_2021_id":"1006181330201"
+    },
     "wof:coterminous":[
         1477864149
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e9e287991eb1ffc3fa0f773396470e3e",
+    "wof:geomhash":"6c0f0a6d14c9c27d84935faf27cd8deb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477752203,
-    "wof:lastmodified":1607726511,
+    "wof:lastmodified":1684354398,
     "wof:name":"Gmina Brzoz\u00f3w",
     "wof:parent_id":102079461,
     "wof:placetype":"localadmin",
+    "wof:population":26599,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

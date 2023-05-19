@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121220702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mszana Dolna",
+    "eurostat:nuts_2021_id":"1001121220702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121220702",
+    "eurostat:population":7889,
+    "eurostat:population_year":2020,
     "geom:area":0.003376,
-    "geom:area_square_m":27010548.294134,
+    "geom:area_square_m":27010548.294138,
     "geom:bbox":"20.027662948,49.649482919,20.131032978,49.712693825",
     "geom:latitude":49.682435,
     "geom:longitude":20.075833,
@@ -146,7 +158,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -159,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121220702",
+        "eurostat:nuts_2021_id":"1001121220702",
         "gn:id":764276,
         "gp:id":24548584,
         "qs_pg:id":1200788
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"752ff4299486bd0ad856fb76345cc049",
+    "wof:geomhash":"0bf9c1e472d04f871949ae579bdfea38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,11 +194,11 @@
         }
     ],
     "wof:id":1125290785,
-    "wof:lastmodified":1582357812,
+    "wof:lastmodified":1684354176,
     "wof:name":"Gmina Mszana Dolna",
     "wof:parent_id":102079423,
     "wof:placetype":"localadmin",
-    "wof:population":7500,
+    "wof:population":7889,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

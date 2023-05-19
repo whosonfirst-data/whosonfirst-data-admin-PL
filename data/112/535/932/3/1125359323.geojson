@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301581007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rychwa\u0142",
+    "eurostat:nuts_2021_id":"1002301581007",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301581007",
+    "eurostat:population":8249,
+    "eurostat:population_year":2020,
     "geom:area":0.015443,
-    "geom:area_square_m":117391548.657436,
+    "geom:area_square_m":117391548.657458,
     "geom:bbox":"18.069321136,51.982312755,18.229347302,52.148798145",
     "geom:latitude":52.066546,
     "geom:longitude":18.152138,
@@ -131,7 +143,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -144,6 +157,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301581007",
+        "eurostat:nuts_2021_id":"1002301581007",
         "gn:id":3086541,
         "gp:id":24548013,
         "qs_pg:id":520238
@@ -153,7 +168,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"def54f1cf6bd3be356da28823d34591c",
+    "wof:geomhash":"80543afdd554fb48e49224ae02cdad36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,12 +179,12 @@
         }
     ],
     "wof:id":1125359323,
-    "wof:lastmodified":1582357711,
+    "wof:lastmodified":1684354265,
     "wof:name":"Gmina Rychwa\u0142",
     "wof:parent_id":102079943,
     "wof:placetype":"localadmin",
-    "wof:population":2370,
-    "wof:population_rank":4,
+    "wof:population":8249,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

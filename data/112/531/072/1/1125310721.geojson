@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161310707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paczk\u00f3w",
+    "eurostat:nuts_2021_id":"1003161310707",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161310707",
+    "eurostat:population":12535,
+    "eurostat:population_year":2020,
     "geom:area":0.010122,
-    "geom:area_square_m":79708560.621651,
+    "geom:area_square_m":79708560.621636,
     "geom:bbox":"16.907902882,50.401991095,17.160717654,50.489182974",
     "geom:latitude":50.443429,
     "geom:longitude":17.026825,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -162,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161310707",
+        "eurostat:nuts_2021_id":"1003161310707",
         "gn:id":3089566,
         "gp:id":24548798,
         "qs_pg:id":1257559
@@ -171,7 +186,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"34828412891f22b771d4ca55baaf05d4",
+    "wof:geomhash":"078e27c09d20928ff8324b536f024cd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,12 +197,12 @@
         }
     ],
     "wof:id":1125310721,
-    "wof:lastmodified":1582357957,
+    "wof:lastmodified":1684354213,
     "wof:name":"Gmina Paczk\u00f3w",
     "wof:parent_id":102079569,
     "wof:placetype":"localadmin",
-    "wof:population":8081,
-    "wof:population_rank":5,
+    "wof:population":12535,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

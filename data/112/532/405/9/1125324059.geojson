@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szaflary",
+    "eurostat:nuts_2021_id":"1001121691114",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691114",
+    "eurostat:population":11103,
+    "eurostat:population_year":2020,
     "geom:area":0.006728,
-    "geom:area_square_m":54120958.926811,
+    "geom:area_square_m":54120958.926793,
     "geom:bbox":"19.920194164,49.374404926,20.066263199,49.460724542",
     "geom:latitude":49.416442,
     "geom:longitude":19.991258,
@@ -63,6 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691114",
+        "eurostat:nuts_2021_id":"1001121691114",
         "gp:id":12617168,
         "qs_pg:id":221875
     },
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ceb682769d36f28ba7ec584ed03bbb86",
+    "wof:geomhash":"53efeac7d823082cdc79a1430af3222b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":1125324059,
-    "wof:lastmodified":1582357743,
+    "wof:lastmodified":1684354225,
     "wof:name":"Szaflary",
     "wof:parent_id":102079407,
     "wof:placetype":"localadmin",
+    "wof:population":11103,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

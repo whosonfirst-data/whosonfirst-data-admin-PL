@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201391206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rutka-Tartak",
+    "eurostat:nuts_2021_id":"1006201391206",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201391206",
+    "eurostat:population":2322,
+    "eurostat:population_year":2020,
     "geom:area":0.014284,
-    "geom:area_square_m":103019754.428759,
+    "geom:area_square_m":103019754.428747,
     "geom:bbox":"22.863762631,54.259740314,23.06316477,54.390988783",
     "geom:latitude":54.317881,
     "geom:longitude":22.964685,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":22.97148,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080265
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201391206",
+        "eurostat:nuts_2021_id":"1006201391206"
+    },
     "wof:coterminous":[
         1125851059
     ],
     "wof:country":"PL",
-    "wof:geomhash":"cd3a019cf91a1baa19a7b03b91b5a3e6",
+    "wof:geomhash":"d20f9e04bc121e852392abf130814c84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752329,
-    "wof:lastmodified":1570000707,
+    "wof:lastmodified":1684354404,
     "wof:name":"Rutka-Tartak",
     "wof:parent_id":102080265,
     "wof:placetype":"localadmin",
+    "wof:population":2322,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

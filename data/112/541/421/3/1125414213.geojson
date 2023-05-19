@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321641701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wa\u0142cz",
+    "eurostat:nuts_2021_id":"1002321641701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321641701",
+    "eurostat:population":25179,
+    "eurostat:population_year":2020,
     "geom:area":0.005141,
-    "geom:area_square_m":38013601.539608,
+    "geom:area_square_m":38013601.539612,
     "geom:bbox":"16.372182208,53.23853388,16.526693319,53.306862732",
     "geom:latitude":53.272174,
     "geom:longitude":16.455579,
@@ -165,7 +177,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -178,6 +191,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321641701",
+        "eurostat:nuts_2021_id":"1002321641701",
         "gn:id":3082704,
         "gp:id":24548085,
         "qs_pg:id":246097
@@ -187,7 +202,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ea91a2416801e3649f83b494bfc8c119",
+    "wof:geomhash":"d0c1c273e5b68c6cc06ef4cca00d109c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -198,11 +213,11 @@
         }
     ],
     "wof:id":1125414213,
-    "wof:lastmodified":1582358018,
+    "wof:lastmodified":1684354337,
     "wof:name":"Gmina Wa\u0142cz",
     "wof:parent_id":102080075,
     "wof:placetype":"localadmin",
-    "wof:population":25971,
+    "wof:population":25179,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

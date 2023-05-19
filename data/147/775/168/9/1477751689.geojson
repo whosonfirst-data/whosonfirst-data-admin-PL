@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321640305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wierzchowo",
+    "eurostat:nuts_2021_id":"1002321640305",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321640305",
+    "eurostat:population":4243,
+    "eurostat:population_year":2020,
     "geom:area":0.030995,
-    "geom:area_square_m":228289851.168756,
+    "geom:area_square_m":228289851.168742,
     "geom:bbox":"15.987103712,53.36569653,16.371089622,53.510169298",
     "geom:latitude":53.440462,
     "geom:longitude":16.163166,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":16.16609,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080113
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321640305",
+        "eurostat:nuts_2021_id":"1002321640305"
+    },
     "wof:coterminous":[
         101820587
     ],
     "wof:country":"PL",
-    "wof:geomhash":"286e316d769f30907046cbe3f128bd15",
+    "wof:geomhash":"6c2b5d0cd1fe4dd6760db6b01c6fdc50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751689,
-    "wof:lastmodified":1569999013,
+    "wof:lastmodified":1684354370,
     "wof:name":"Wierzchowo",
     "wof:parent_id":102080113,
     "wof:placetype":"localadmin",
+    "wof:population":4243,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

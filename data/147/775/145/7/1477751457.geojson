@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Janowiec Ko\u015bcielny",
+    "eurostat:nuts_2021_id":"1004281561101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561101",
+    "eurostat:population":3202,
+    "eurostat:population_year":2020,
     "geom:area":0.01831,
-    "geom:area_square_m":135369237.407758,
+    "geom:area_square_m":135369237.407783,
     "geom:bbox":"20.382599882,53.21416527,20.631884314,53.348634666",
     "geom:latitude":53.27903,
     "geom:longitude":20.525477,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":20.544405,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080129
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561101",
+        "eurostat:nuts_2021_id":"1004281561101"
+    },
     "wof:coterminous":[
         1125885167
     ],
     "wof:country":"PL",
-    "wof:geomhash":"af431c9851f96fd58acd4d1bd914bb24",
+    "wof:geomhash":"8bafffe0ffc43aae08c18e73693ec4c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751457,
-    "wof:lastmodified":1570001355,
+    "wof:lastmodified":1684354358,
     "wof:name":"Janowiec Ko\u015bcielny",
     "wof:parent_id":102080129,
     "wof:placetype":"localadmin",
+    "wof:population":3202,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

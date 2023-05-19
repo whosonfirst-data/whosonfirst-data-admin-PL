@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121220707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Limanowa",
+    "eurostat:nuts_2021_id":"1001121220707",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121220707",
+    "eurostat:population":25607,
+    "eurostat:population_year":2020,
     "geom:area":0.018977,
-    "geom:area_square_m":151736964.592393,
+    "geom:area_square_m":151736964.592434,
     "geom:bbox":"20.292242,49.633838,20.591798,49.823349",
     "geom:latitude":49.710984,
     "geom:longitude":20.440044,
@@ -62,18 +74,24 @@
     "reversegeo:longitude":20.475109,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079423,
-        85687291
+        85687291,
+        102079423
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121220707",
+        "eurostat:nuts_2021_id":"1001121220707"
+    },
     "wof:coterminous":[
         1477864997
     ],
     "wof:country":"PL",
-    "wof:geomhash":"bb46987891c0eddb270176178bfeb620",
+    "wof:geomhash":"bf251b778e1cf92a7845913c719d1edb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751333,
-    "wof:lastmodified":1607726544,
+    "wof:lastmodified":1684354352,
     "wof:name":"Gmina Limanowa",
     "wof:parent_id":102079423,
     "wof:placetype":"localadmin",
+    "wof:population":25607,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

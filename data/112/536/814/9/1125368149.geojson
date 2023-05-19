@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101190201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kutno",
+    "eurostat:nuts_2021_id":"1005101190201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL715",
+    "eurostat:nuts_2021_level_lau":"1005101190201",
+    "eurostat:population":43911,
+    "eurostat:population_year":2020,
     "geom:area":0.004418,
-    "geom:area_square_m":33463187.62734,
+    "geom:area_square_m":33463187.627344,
     "geom:bbox":"19.28940637,52.19096589,19.452854566,52.253597314",
     "geom:latitude":52.225792,
     "geom:longitude":19.376069,
@@ -177,6 +189,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -189,6 +203,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101190201",
+        "eurostat:nuts_2021_id":"1005101190201",
         "gp:id":24548552,
         "qs_pg:id":1182074
     },
@@ -197,7 +213,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"557ba45b0798114fb9accc970f777c0f",
+    "wof:geomhash":"0303e51cf0bb1e48225685e2d679b418",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -208,10 +224,12 @@
         }
     ],
     "wof:id":1125368149,
-    "wof:lastmodified":1582357975,
+    "wof:lastmodified":1684354278,
     "wof:name":"Gmina Kutno",
     "wof:parent_id":102079929,
     "wof:placetype":"localadmin",
+    "wof:population":43911,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

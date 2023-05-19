@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101180901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dzia\u0142oszyn",
+    "eurostat:nuts_2021_id":"1005101180901",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101180901",
+    "eurostat:population":12444,
+    "eurostat:population_year":2020,
     "geom:area":0.01552,
-    "geom:area_square_m":120466923.061969,
+    "geom:area_square_m":120466923.06196,
     "geom:bbox":"18.73998289,51.058979737,18.961493015,51.169832451",
     "geom:latitude":51.11644,
     "geom:longitude":18.850407,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":18.837196,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079705
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101180901",
+        "eurostat:nuts_2021_id":"1005101180901"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"f76f50e6878613b36cc9190c93c77caa",
+    "wof:geomhash":"60883274a5a0a4a196ac1338a3ce3737",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752573,
-    "wof:lastmodified":1570000470,
+    "wof:lastmodified":1684354416,
     "wof:name":"Gmina Dzia\u0142oszyn",
     "wof:parent_id":102079705,
     "wof:placetype":"localadmin",
+    "wof:population":12444,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

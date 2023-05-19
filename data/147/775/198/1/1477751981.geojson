@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121220706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laskowa",
+    "eurostat:nuts_2021_id":"1001121220706",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121220706",
+    "eurostat:population":8206,
+    "eurostat:population_year":2020,
     "geom:area":0.009045,
-    "geom:area_square_m":72252205.880021,
+    "geom:area_square_m":72252205.880019,
     "geom:bbox":"20.402378864,49.719523814,20.595836731,49.801833543",
     "geom:latitude":49.759139,
     "geom:longitude":20.499267,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":20.500729,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102079423
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121220706",
+        "eurostat:nuts_2021_id":"1001121220706"
+    },
     "wof:coterminous":[
         101827281
     ],
     "wof:country":"PL",
-    "wof:geomhash":"adb2d8995312542260ddb6ae5a3ae353",
+    "wof:geomhash":"74295ce1206a1d3baad354d8ccc7a5df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477751981,
-    "wof:lastmodified":1570002014,
+    "wof:lastmodified":1684354385,
     "wof:name":"Laskowa",
     "wof:parent_id":102079423,
     "wof:placetype":"localadmin",
+    "wof:population":8206,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

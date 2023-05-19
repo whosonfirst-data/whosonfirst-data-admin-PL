@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181340401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jaros\u0142aw",
+    "eurostat:nuts_2021_id":"1006181340401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181340401",
+    "eurostat:population":37479,
+    "eurostat:population_year":2020,
     "geom:area":0.004343,
-    "geom:area_square_m":34495701.661414,
+    "geom:area_square_m":34495701.661426,
     "geom:bbox":"22.616745606,49.993282319,22.724213402,50.08680818",
     "geom:latitude":50.035864,
     "geom:longitude":22.673282,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":22.669656,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079573
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181340401",
+        "eurostat:nuts_2021_id":"1006181340401"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"4698265eb121d5ab1e913163ebf9c667",
+    "wof:geomhash":"b55bce530b32a6df13ae2999eca53442",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751975,
-    "wof:lastmodified":1570002414,
+    "wof:lastmodified":1684354385,
     "wof:name":"Gmina Jaros\u0142aw",
     "wof:parent_id":102079573,
     "wof:placetype":"localadmin",
+    "wof:population":37479,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

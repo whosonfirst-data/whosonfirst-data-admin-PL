@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142252008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowe Miasto",
+    "eurostat:nuts_2021_id":"1007142252008",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142252008",
+    "eurostat:population":4655,
+    "eurostat:population_year":2020,
     "geom:area":0.01565,
-    "geom:area_square_m":117383798.670712,
+    "geom:area_square_m":117383798.670692,
     "geom:bbox":"20.560719596,52.579040877,20.731461064,52.725508529",
     "geom:latitude":52.656495,
     "geom:longitude":20.646855,
@@ -81,7 +93,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -94,6 +107,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142252008",
+        "eurostat:nuts_2021_id":"1007142252008",
         "gn:id":763661,
         "gp:id":12618468,
         "qs_pg:id":48922
@@ -106,7 +121,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e4b21459b25e8b50cfbbb526c6e0b416",
+    "wof:geomhash":"50b98e1ac750b0b19fd5cff1471847c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,11 +132,11 @@
         }
     ],
     "wof:id":1125291503,
-    "wof:lastmodified":1582357805,
+    "wof:lastmodified":1684354177,
     "wof:name":"Nowe Miasto",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",
-    "wof:population":2000,
+    "wof:population":4655,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

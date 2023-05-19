@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rozogi",
+    "eurostat:nuts_2021_id":"1004281561705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561705",
+    "eurostat:population":5523,
+    "eurostat:population_year":2020,
     "geom:area":0.030367,
-    "geom:area_square_m":223490469.59158,
+    "geom:area_square_m":223490469.591577,
     "geom:bbox":"21.134484207,53.394572831,21.551689847,53.553839604",
     "geom:latitude":53.474122,
     "geom:longitude":21.334874,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":21.366529,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080167
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561705",
+        "eurostat:nuts_2021_id":"1004281561705"
+    },
     "wof:coterminous":[
         1126025381
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5438655ea59a892cd62e15f16b79b290",
+    "wof:geomhash":"d8f1267f6f094e6c66deec7dbdc5d6f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751461,
-    "wof:lastmodified":1570004480,
+    "wof:lastmodified":1684354358,
     "wof:name":"Rozogi",
     "wof:parent_id":102080167,
     "wof:placetype":"localadmin",
+    "wof:population":5523,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

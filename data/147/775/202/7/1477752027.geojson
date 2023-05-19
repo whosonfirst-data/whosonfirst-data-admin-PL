@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121221001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gryb\u00f3w",
+    "eurostat:nuts_2021_id":"1001121221001",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121221001",
+    "eurostat:population":6026,
+    "eurostat:population_year":2020,
     "geom:area":0.00211,
-    "geom:area_square_m":16904118.798634,
+    "geom:area_square_m":16904118.798631,
     "geom:bbox":"20.90547384,49.594071664,21.009086333,49.635799771",
     "geom:latitude":49.613681,
     "geom:longitude":20.950724,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":20.942874,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079425
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121221001",
+        "eurostat:nuts_2021_id":"1001121221001"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"95a4de99c5224de752dfc2321aaf45bb",
+    "wof:geomhash":"13a7d9c7b59820dd55b87eea5d47b73b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752027,
-    "wof:lastmodified":1570001078,
+    "wof:lastmodified":1684354388,
     "wof:name":"Gmina Gryb\u00f3w",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",
+    "wof:population":6026,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

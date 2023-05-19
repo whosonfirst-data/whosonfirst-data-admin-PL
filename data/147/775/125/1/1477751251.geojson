@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301570709",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stawiszyn",
+    "eurostat:nuts_2021_id":"1002301570709",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301570709",
+    "eurostat:population":7133,
+    "eurostat:population_year":2020,
     "geom:area":0.010218,
-    "geom:area_square_m":77904794.619861,
+    "geom:area_square_m":77904794.619877,
     "geom:bbox":"18.06002421,51.868775725,18.211381973,51.986133007",
     "geom:latitude":51.931167,
     "geom:longitude":18.125391,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":18.126548,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079841
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301570709",
+        "eurostat:nuts_2021_id":"1002301570709"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"95846a72e77ad6a18ee959b5a8221c53",
+    "wof:geomhash":"12a9c8e951028e493f26563c85aeb9cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477751251,
-    "wof:lastmodified":1570004544,
+    "wof:lastmodified":1684354348,
     "wof:name":"Gmina Stawiszyn",
     "wof:parent_id":102079841,
     "wof:placetype":"localadmin",
+    "wof:population":7133,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

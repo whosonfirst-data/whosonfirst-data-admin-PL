@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301602801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u0105growiec",
+    "eurostat:nuts_2021_id":"1002301602801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301602801",
+    "eurostat:population":25686,
+    "eurostat:population_year":2020,
     "geom:area":0.002374,
     "geom:area_square_m":17746489.154173,
     "geom:bbox":"17.158300142,52.786908007,17.236926507,52.837600145",
@@ -65,6 +77,8 @@
     "reversegeo:longitude":17.210944,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080019
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301602801",
+        "eurostat:nuts_2021_id":"1002301602801"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"6c6edc2e11f28565ec0220f00597a6e0",
+    "wof:geomhash":"7d74af32b86135db2d390b6d43d2d848",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751937,
-    "wof:lastmodified":1569999445,
+    "wof:lastmodified":1684354383,
     "wof:name":"Gmina W\u0105growiec",
     "wof:parent_id":102080019,
     "wof:placetype":"localadmin",
+    "wof:population":25686,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

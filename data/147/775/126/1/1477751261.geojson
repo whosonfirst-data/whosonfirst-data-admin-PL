@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301571203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ko\u017amin Wielkopolski",
+    "eurostat:nuts_2021_id":"1002301571203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301571203",
+    "eurostat:population":13211,
+    "eurostat:population_year":2020,
     "geom:area":0.019876,
-    "geom:area_square_m":151858136.717552,
+    "geom:area_square_m":151858136.717559,
     "geom:bbox":"17.291181783,51.775543683,17.562388327,51.901147526",
     "geom:latitude":51.837433,
     "geom:longitude":17.42145,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":17.423999,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079811
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301571203",
+        "eurostat:nuts_2021_id":"1002301571203"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"f9ebd6c16d2336dfcbad598444b2fea1",
+    "wof:geomhash":"1be7efa353a169c8ebeb74eafb9dea19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477751261,
-    "wof:lastmodified":1570001935,
+    "wof:lastmodified":1684354349,
     "wof:name":"Gmina Ko\u017amin Wielkopolski",
     "wof:parent_id":102079811,
     "wof:placetype":"localadmin",
+    "wof:population":13211,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

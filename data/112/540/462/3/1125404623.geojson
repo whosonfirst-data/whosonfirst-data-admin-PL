@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101190501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0141owicz",
+    "eurostat:nuts_2021_id":"1005101190501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL715",
+    "eurostat:nuts_2021_level_lau":"1005101190501",
+    "eurostat:population":28224,
+    "eurostat:population_year":2020,
     "geom:area":0.003072,
-    "geom:area_square_m":23333290.696158,
+    "geom:area_square_m":23333290.696147,
     "geom:bbox":"19.901058868,52.064871479,19.988348943,52.137384439",
     "geom:latitude":52.104601,
     "geom:longitude":19.939341,
@@ -84,7 +96,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -93,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101190501",
+        "eurostat:nuts_2021_id":"1005101190501",
         "gn:id":6941022,
         "qs_pg:id":653101
     },
@@ -101,7 +116,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1cdae2b05285b3597fb26e85a50ada85",
+    "wof:geomhash":"ef0578ae475c0193913aca4709fcfd48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,11 +127,11 @@
         }
     ],
     "wof:id":1125404623,
-    "wof:lastmodified":1582357996,
+    "wof:lastmodified":1684354327,
     "wof:name":"Gmina \u0141owicz",
     "wof:parent_id":102079923,
     "wof:placetype":"localadmin",
-    "wof:population":30168,
+    "wof:population":28224,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

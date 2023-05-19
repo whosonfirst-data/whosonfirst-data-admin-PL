@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021030203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pieszyce",
+    "eurostat:nuts_2021_id":"1003021030203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021030203",
+    "eurostat:population":9410,
+    "eurostat:population_year":2020,
     "geom:area":0.008095,
-    "geom:area_square_m":63391142.199922,
+    "geom:area_square_m":63391142.199924,
     "geom:bbox":"16.479582658,50.648605757,16.627984986,50.758684986",
     "geom:latitude":50.705384,
     "geom:longitude":16.552939,
@@ -131,7 +143,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -144,6 +157,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021030203",
+        "eurostat:nuts_2021_id":"1003021030203",
         "gn:id":3089065,
         "gp:id":12618077,
         "qs_pg:id":24122
@@ -153,7 +168,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4c5cfb41a32307f64741e6f7cccb5c64",
+    "wof:geomhash":"995f8062e8e5d9347a0b5881c9c8323a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,11 +179,11 @@
         }
     ],
     "wof:id":1125289129,
-    "wof:lastmodified":1582357767,
+    "wof:lastmodified":1684354170,
     "wof:name":"Gmina Pieszyce",
     "wof:parent_id":102079591,
     "wof:placetype":"localadmin",
-    "wof:population":9406,
+    "wof:population":9410,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

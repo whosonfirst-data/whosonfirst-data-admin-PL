@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181351605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dyn\u00f3w",
+    "eurostat:nuts_2021_id":"1006181351605",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181351605",
+    "eurostat:population":6893,
+    "eurostat:population_year":2020,
     "geom:area":0.014871,
-    "geom:area_square_m":118634743.793545,
+    "geom:area_square_m":118634743.79352,
     "geom:bbox":"22.096148103,49.74457995,22.336414543,49.890296977",
     "geom:latitude":49.821429,
     "geom:longitude":22.229391,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181351605",
+        "eurostat:nuts_2021_id":"1006181351605",
         "gp:id":24548415,
         "qs_pg:id":32596
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4b447b74e6e3e3251f572fc645fa8d0f",
+    "wof:geomhash":"5c8e7b20c23501a7f6b85b4e1ef4d890",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125400009,
-    "wof:lastmodified":1582357993,
+    "wof:lastmodified":1684354323,
     "wof:name":"Gmina Dyn\u00f3w",
     "wof:parent_id":102079585,
     "wof:placetype":"localadmin",
+    "wof:population":6893,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

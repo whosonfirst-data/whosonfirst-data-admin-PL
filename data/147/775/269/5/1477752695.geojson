@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181351902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frysztak",
+    "eurostat:nuts_2021_id":"1006181351902",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181351902",
+    "eurostat:population":10361,
+    "eurostat:population_year":2020,
     "geom:area":0.011328,
-    "geom:area_square_m":90330637.30554,
+    "geom:area_square_m":90330637.305551,
     "geom:bbox":"21.476620482,49.785249646,21.661343353,49.89640486",
     "geom:latitude":49.844663,
     "geom:longitude":21.570376,
@@ -50,6 +62,8 @@
     "reversegeo:longitude":21.587087,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -57,11 +71,15 @@
         102079483
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181351902",
+        "eurostat:nuts_2021_id":"1006181351902"
+    },
     "wof:coterminous":[
         1125879521
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b73ef9a923768045e747362d73287ff0",
+    "wof:geomhash":"a0b6a2aa1427c1805c96c5ad7ac8e6d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +90,12 @@
         }
     ],
     "wof:id":1477752695,
-    "wof:lastmodified":1570001069,
+    "wof:lastmodified":1684354423,
     "wof:name":"Frysztak",
     "wof:parent_id":102079483,
     "wof:placetype":"localadmin",
+    "wof:population":10361,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

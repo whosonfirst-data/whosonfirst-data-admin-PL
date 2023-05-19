@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Biszcza",
+    "eurostat:nuts_2021_id":"1006061100204",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100204",
+    "eurostat:population":3764,
+    "eurostat:population_year":2020,
     "geom:area":0.013444,
-    "geom:area_square_m":105925313.010278,
+    "geom:area_square_m":105925313.010253,
     "geom:bbox":"22.502628356,50.352457239,22.735579632,50.47643541",
     "geom:latitude":50.418958,
     "geom:longitude":22.628498,
@@ -67,7 +79,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -80,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100204",
+        "eurostat:nuts_2021_id":"1006061100204",
         "gn:id":775888,
         "gp:id":12617703,
         "qs_pg:id":24038
@@ -92,7 +107,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"64138ef8dd3cc5182c4d2c3a829f9fca",
+    "wof:geomhash":"3b65fd5245c7f73fae6c7d8f93f8f36c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,12 +118,12 @@
         }
     ],
     "wof:id":1125288857,
-    "wof:lastmodified":1582357776,
+    "wof:lastmodified":1684354166,
     "wof:name":"Biszcza",
     "wof:parent_id":102079699,
     "wof:placetype":"localadmin",
-    "wof:population":1901,
-    "wof:population_rank":3,
+    "wof:population":3764,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowy Targ",
+    "eurostat:nuts_2021_id":"1001121691109",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691109",
+    "eurostat:population":24070,
+    "eurostat:population_year":2020,
     "geom:area":0.025774,
-    "geom:area_square_m":207051565.001678,
+    "geom:area_square_m":207051565.001622,
     "geom:bbox":"19.879217873,49.404085801,20.229887712,49.560139606",
     "geom:latitude":49.483562,
     "geom:longitude":20.071891,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691109",
+        "eurostat:nuts_2021_id":"1001121691109",
         "gp:id":24548696,
         "qs_pg:id":493546
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ad31cbf733eab20198eb23b1a1efa994",
+    "wof:geomhash":"fe4435796130dfeae0d8d02c215a1513",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125393883,
-    "wof:lastmodified":1582357924,
+    "wof:lastmodified":1684354313,
     "wof:name":"Gmina Nowy Targ",
     "wof:parent_id":102079407,
     "wof:placetype":"localadmin",
+    "wof:population":24070,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

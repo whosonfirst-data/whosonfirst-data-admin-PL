@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Le\u015bniowice",
+    "eurostat:nuts_2021_id":"1006061100307",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100307",
+    "eurostat:population":3583,
+    "eurostat:population_year":2020,
     "geom:area":0.01507,
-    "geom:area_square_m":117275553.882436,
+    "geom:area_square_m":117275553.88244,
     "geom:bbox":"23.385716575,50.94292462,23.615715588,51.060212996",
     "geom:latitude":50.997256,
     "geom:longitude":23.505118,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":23.503365,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079813
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100307",
+        "eurostat:nuts_2021_id":"1006061100307"
+    },
     "wof:coterminous":[
         1126007801
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a8c95f4a80bef202481ecaefa1418888",
+    "wof:geomhash":"de16f6b159be6105ed7ebee05c769937",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752533,
-    "wof:lastmodified":1570003550,
+    "wof:lastmodified":1684354414,
     "wof:name":"Le\u015bniowice",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",
+    "wof:population":3583,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

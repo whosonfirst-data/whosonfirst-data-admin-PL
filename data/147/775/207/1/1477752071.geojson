@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stary Luboty\u0144",
+    "eurostat:nuts_2021_id":"1007142261608",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261608",
+    "eurostat:population":3707,
+    "eurostat:population_year":2020,
     "geom:area":0.014641,
     "geom:area_square_m":109159458.557895,
     "geom:bbox":"21.831199821,52.855220577,22.028818209,52.980570441",
@@ -44,6 +56,8 @@
     "reversegeo:longitude":21.931203,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080057
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261608",
+        "eurostat:nuts_2021_id":"1007142261608"
+    },
     "wof:coterminous":[
         1477864749
     ],
     "wof:country":"PL",
-    "wof:geomhash":"0a109236f1bbb5e4c86a34f91b0e87be",
+    "wof:geomhash":"b9b8c118580f797010378dbba560fb88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752071,
-    "wof:lastmodified":1570003528,
+    "wof:lastmodified":1684354391,
     "wof:name":"Stary Luboty\u0144",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",
+    "wof:population":3707,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

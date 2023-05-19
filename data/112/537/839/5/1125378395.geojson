@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321660706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wolin",
+    "eurostat:nuts_2021_id":"1002321660706",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321660706",
+    "eurostat:population":12115,
+    "eurostat:population_year":2020,
     "geom:area":0.044727,
-    "geom:area_square_m":326085000.583199,
+    "geom:area_square_m":326085000.583181,
     "geom:bbox":"14.470472619,53.76730437,14.801213148,53.999782568",
     "geom:latitude":53.87099,
     "geom:longitude":14.626945,
@@ -185,7 +197,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -198,6 +211,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321660706",
+        "eurostat:nuts_2021_id":"1002321660706",
         "gn:id":3081471,
         "gp:id":24548818,
         "qs_pg:id":145551
@@ -207,7 +222,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4ee0833d9296db1ceb42e52da890ada8",
+    "wof:geomhash":"014fe77790c9b6aeb8e2d8b00f9f6816",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -218,11 +233,11 @@
         }
     ],
     "wof:id":1125378395,
-    "wof:lastmodified":1582357862,
+    "wof:lastmodified":1684354296,
     "wof:name":"Gmina Wolin",
     "wof:parent_id":102080153,
     "wof:placetype":"localadmin",
-    "wof:population":12438,
+    "wof:population":12115,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

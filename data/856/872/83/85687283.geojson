@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Podlaskie",
+    "eurostat:name_local":"Podlaskie",
+    "eurostat:nuts_2021_id":"PL84",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:population":1135785,
+    "eurostat:population_year":2022,
     "geom:area":2.718484,
-    "geom:area_square_m":20104897529.147655,
+    "geom:area_square_m":20104896273.964817,
     "geom:bbox":"21.592837,52.279939,23.94627,54.410403",
     "geom:latitude":53.264518,
     "geom:longitude":22.929305,
@@ -398,8 +408,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-21",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"20,187",
     "statoids:area_mi":"7,794",
     "statoids:as_of_date":"2011-03-21",
@@ -421,6 +431,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14358,
+        "eurostat:nuts_2021_id":"PL84",
         "fips:code":"PL81",
         "gn:id":858789,
         "gp:id":12577944,
@@ -434,7 +445,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3d193b7ddfdaa820ced9e7e61b9ce2df",
+    "wof:geomhash":"753ce72607a881ed95d905e608c655dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -452,12 +463,12 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1617130120,
+    "wof:lastmodified":1684351463,
     "wof:name":"Podlaskie",
     "wof:parent_id":85633723,
     "wof:placetype":"region",
     "wof:placetype_local":"voivodship",
-    "wof:population":1202365,
+    "wof:population":1135785,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:shortcode":"PD",

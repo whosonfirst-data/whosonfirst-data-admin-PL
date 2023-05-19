@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201370205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Juchnowiec Ko\u015bcielny",
+    "eurostat:nuts_2021_id":"1006201370205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201370205",
+    "eurostat:population":16572,
+    "eurostat:population_year":2020,
     "geom:area":0.022988,
-    "geom:area_square_m":171079455.970946,
+    "geom:area_square_m":171079455.970997,
     "geom:bbox":"23.065712735,52.9003438,23.244378549,53.104964055",
     "geom:latitude":52.997454,
     "geom:longitude":23.152404,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":23.150701,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080145
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201370205",
+        "eurostat:nuts_2021_id":"1006201370205"
+    },
     "wof:coterminous":[
         1126033169
     ],
     "wof:country":"PL",
-    "wof:geomhash":"ae63023ee14310ae9e8b8ebd8947f262",
+    "wof:geomhash":"dfa1b0d19eca9f2a5c962f5310668660",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752667,
-    "wof:lastmodified":1570000566,
+    "wof:lastmodified":1684354421,
     "wof:name":"Juchnowiec Ko\u015bcielny",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",
+    "wof:population":16572,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

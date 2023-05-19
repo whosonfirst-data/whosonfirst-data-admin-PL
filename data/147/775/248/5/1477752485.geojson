@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Panki",
+    "eurostat:nuts_2021_id":"1001241460606",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460606",
+    "eurostat:population":5039,
+    "eurostat:population_year":2020,
     "geom:area":0.007019,
-    "geom:area_square_m":54751315.181416,
+    "geom:area_square_m":54751315.181412,
     "geom:bbox":"18.689749618,50.834054533,18.817918859,50.937890018",
     "geom:latitude":50.887608,
     "geom:longitude":18.753933,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":18.760248,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079667
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460606",
+        "eurostat:nuts_2021_id":"1001241460606"
+    },
     "wof:coterminous":[
         101823911
     ],
     "wof:country":"PL",
-    "wof:geomhash":"063294d9b570224b250c8b8303010f56",
+    "wof:geomhash":"0ff97ef20824970937061bdc9cbd88d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752485,
-    "wof:lastmodified":1570002663,
+    "wof:lastmodified":1684354412,
     "wof:name":"Panki",
     "wof:parent_id":102079667,
     "wof:placetype":"localadmin",
+    "wof:population":5039,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piecki",
+    "eurostat:nuts_2021_id":"1004281561004",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561004",
+    "eurostat:population":7572,
+    "eurostat:population_year":2020,
     "geom:area":0.042799,
-    "geom:area_square_m":313156189.523074,
+    "geom:area_square_m":313156189.523092,
     "geom:bbox":"21.161178382,53.625475739,21.52232848,53.814359234",
     "geom:latitude":53.719883,
     "geom:longitude":21.348092,
@@ -60,6 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561004",
+        "eurostat:nuts_2021_id":"1004281561004",
         "gp:id":12616758,
         "qs_pg:id":493062
     },
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"17952fa3fbeaf26a42bc52bd9779b46e",
+    "wof:geomhash":"2b5b9b1b634ea64ece7d1db2954773ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":1125315259,
-    "wof:lastmodified":1582357961,
+    "wof:lastmodified":1684354219,
     "wof:name":"Piecki",
     "wof:parent_id":102080203,
     "wof:placetype":"localadmin",
+    "wof:population":7572,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

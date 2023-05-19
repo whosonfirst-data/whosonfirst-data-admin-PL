@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301582706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przykona",
+    "eurostat:nuts_2021_id":"1002301582706",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301582706",
+    "eurostat:population":4589,
+    "eurostat:population_year":2020,
     "geom:area":0.014537,
-    "geom:area_square_m":110690014.659268,
+    "geom:area_square_m":110690014.659265,
     "geom:bbox":"18.542016677,51.941156961,18.741743668,52.050329186",
     "geom:latitude":51.991366,
     "geom:longitude":18.650913,
@@ -61,7 +73,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -74,6 +87,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301582706",
+        "eurostat:nuts_2021_id":"1002301582706",
         "gn:id":3087836,
         "gp:id":24547669,
         "qs_pg:id":206247
@@ -86,7 +101,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5db12b74837169bee13edf690b62bae8",
+    "wof:geomhash":"a06f63982e3c5d000e4d258649f3d6e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,12 +112,12 @@
         }
     ],
     "wof:id":1125311273,
-    "wof:lastmodified":1582357950,
+    "wof:lastmodified":1684354214,
     "wof:name":"Przykona",
     "wof:parent_id":102079883,
     "wof:placetype":"localadmin",
-    "wof:population":520,
-    "wof:population_rank":2,
+    "wof:population":4589,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

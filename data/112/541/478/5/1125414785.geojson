@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041070204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brzozie",
+    "eurostat:nuts_2021_id":"1004041070204",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL616",
+    "eurostat:nuts_2021_level_lau":"1004041070204",
+    "eurostat:population":3824,
+    "eurostat:population_year":2020,
     "geom:area":0.012655,
-    "geom:area_square_m":93510379.757555,
+    "geom:area_square_m":93510379.757564,
     "geom:bbox":"19.471626242,53.263118153,19.73056606,53.34460597",
     "geom:latitude":53.303391,
     "geom:longitude":19.603739,
@@ -57,6 +69,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -69,6 +83,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041070204",
+        "eurostat:nuts_2021_id":"1004041070204",
         "gp:id":12618209,
         "qs_pg:id":247872
     },
@@ -80,7 +96,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0ff0f0febec1a9193eff7beca63ab357",
+    "wof:geomhash":"58b3ef1f80e42f8e2d6d430c390ebd58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +107,12 @@
         }
     ],
     "wof:id":1125414785,
-    "wof:lastmodified":1582358009,
+    "wof:lastmodified":1684354338,
     "wof:name":"Brzozie",
     "wof:parent_id":102080099,
     "wof:placetype":"localadmin",
+    "wof:population":3824,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

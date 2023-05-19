@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142732804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u0142odzieszyn",
+    "eurostat:nuts_2021_id":"1007142732804",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL926",
+    "eurostat:nuts_2021_level_lau":"1007142732804",
+    "eurostat:population":5575,
+    "eurostat:population_year":2020,
     "geom:area":0.015485,
-    "geom:area_square_m":117036887.73234,
+    "geom:area_square_m":117036887.732356,
     "geom:bbox":"20.088144384,52.253387405,20.277435427,52.386639428",
     "geom:latitude":52.320071,
     "geom:longitude":20.187751,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":20.195384,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079945
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142732804",
+        "eurostat:nuts_2021_id":"1007142732804"
+    },
     "wof:coterminous":[
         1477863403
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2029f85efd97b703cde4e617e315a688",
+    "wof:geomhash":"4f2caf699e8dee18311c060f20141663",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751559,
-    "wof:lastmodified":1570002420,
+    "wof:lastmodified":1684354364,
     "wof:name":"M\u0142odzieszyn",
     "wof:parent_id":102079945,
     "wof:placetype":"localadmin",
+    "wof:population":5575,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142252007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Naruszewo",
+    "eurostat:nuts_2021_id":"1007142252007",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142252007",
+    "eurostat:population":6312,
+    "eurostat:population_year":2020,
     "geom:area":0.021114,
-    "geom:area_square_m":158864484.019768,
+    "geom:area_square_m":158864484.019743,
     "geom:bbox":"20.188150405,52.458927108,20.461529971,52.582238747",
     "geom:latitude":52.519193,
     "geom:longitude":20.33924,
@@ -78,7 +90,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -91,6 +104,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142252007",
+        "eurostat:nuts_2021_id":"1007142252007",
         "gn:id":764107,
         "gp:id":12618636,
         "qs_pg:id":1148937
@@ -103,7 +118,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9ac2f549da8fd4798a4bc65e0e5ebe16",
+    "wof:geomhash":"4d5fe10bd19b46fc905995aa8cb94ab9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,12 +129,12 @@
         }
     ],
     "wof:id":1125350645,
-    "wof:lastmodified":1582357708,
+    "wof:lastmodified":1684354258,
     "wof:name":"Naruszewo",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",
-    "wof:population":222,
-    "wof:population_rank":2,
+    "wof:population":6312,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

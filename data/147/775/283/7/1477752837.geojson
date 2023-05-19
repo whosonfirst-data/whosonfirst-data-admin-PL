@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301600202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czarnk\u00f3w",
+    "eurostat:nuts_2021_id":"1002301600202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301600202",
+    "eurostat:population":11419,
+    "eurostat:population_year":2020,
     "geom:area":0.046428,
-    "geom:area_square_m":346086775.440427,
+    "geom:area_square_m":346086775.440384,
     "geom:bbox":"16.328226911,52.831667563,16.780160032,53.044366361",
     "geom:latitude":52.925972,
     "geom:longitude":16.572274,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":16.519258,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102080029
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301600202",
+        "eurostat:nuts_2021_id":"1002301600202"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"d3edfc4b31d8926b46885329a0b7119d",
+    "wof:geomhash":"998fe9eb85571a178cb7c09daac4c159",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752837,
-    "wof:lastmodified":1570002684,
+    "wof:lastmodified":1684354432,
     "wof:name":"Gmina Czarnk\u00f3w",
     "wof:parent_id":102080029,
     "wof:placetype":"localadmin",
+    "wof:population":11419,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

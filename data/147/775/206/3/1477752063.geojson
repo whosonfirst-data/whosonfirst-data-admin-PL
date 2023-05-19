@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321640302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Drawsko Pomorskie",
+    "eurostat:nuts_2021_id":"1002321640302",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321640302",
+    "eurostat:population":17174,
+    "eurostat:population_year":2020,
     "geom:area":0.055471,
-    "geom:area_square_m":407734093.981517,
+    "geom:area_square_m":407734093.981449,
     "geom:bbox":"15.646953293,53.380943865,16.005592209,53.678803635",
     "geom:latitude":53.527232,
     "geom:longitude":15.833136,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":15.845418,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102080113
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321640302",
+        "eurostat:nuts_2021_id":"1002321640302"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"bc2d16df036ed3c7eece4f2aed00834f",
+    "wof:geomhash":"55abedb540f5e08bf41047c9e5e67276",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752063,
-    "wof:lastmodified":1570003800,
+    "wof:lastmodified":1684354390,
     "wof:name":"Gmina Drawsko Pomorskie",
     "wof:parent_id":102080113,
     "wof:placetype":"localadmin",
+    "wof:population":17174,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

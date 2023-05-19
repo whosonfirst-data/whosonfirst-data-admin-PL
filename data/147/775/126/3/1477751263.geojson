@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241470508",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wielowie\u015b",
+    "eurostat:nuts_2021_id":"1001241470508",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL229",
+    "eurostat:nuts_2021_level_lau":"1001241470508",
+    "eurostat:population":5856,
+    "eurostat:population_year":2020,
     "geom:area":0.014718,
-    "geom:area_square_m":115739249.997882,
+    "geom:area_square_m":115739249.997893,
     "geom:bbox":"18.429893416,50.435600386,18.665846495,50.552713462",
     "geom:latitude":50.509855,
     "geom:longitude":18.556938,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":18.588172,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079563
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241470508",
+        "eurostat:nuts_2021_id":"1001241470508"
+    },
     "wof:coterminous":[
         1477863707
     ],
     "wof:country":"PL",
-    "wof:geomhash":"9e5fcad2e89a44672cdc4af039344d8c",
+    "wof:geomhash":"f4c895bfafea26822bd79d223511e956",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751263,
-    "wof:lastmodified":1570001936,
+    "wof:lastmodified":1684354349,
     "wof:name":"Wielowie\u015b",
     "wof:parent_id":102079563,
     "wof:placetype":"localadmin",
+    "wof:population":5856,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

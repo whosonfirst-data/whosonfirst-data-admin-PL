@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041671903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Janowiec Wielkopolski",
+    "eurostat:nuts_2021_id":"1004041671903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL617",
+    "eurostat:nuts_2021_level_lau":"1004041671903",
+    "eurostat:population":9008,
+    "eurostat:population_year":2020,
     "geom:area":0.017403,
-    "geom:area_square_m":130208513.087029,
+    "geom:area_square_m":130208513.087031,
     "geom:bbox":"17.404365404,52.672529658,17.621684531,52.862080904",
     "geom:latitude":52.765359,
     "geom:longitude":17.521459,
@@ -142,7 +154,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -155,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041671903",
+        "eurostat:nuts_2021_id":"1004041671903",
         "gn:id":3097594,
         "gp:id":24548063,
         "qs_pg:id":59510
@@ -164,7 +179,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6e275f52b6f6c4f27e941d9d7d914291",
+    "wof:geomhash":"81b1aa363739f0b0aecc611900255057",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,11 +190,11 @@
         }
     ],
     "wof:id":1125410543,
-    "wof:lastmodified":1582358012,
+    "wof:lastmodified":1684354331,
     "wof:name":"Gmina Janowiec Wielkopolski",
     "wof:parent_id":102080017,
     "wof:placetype":"localadmin",
-    "wof:population":5110,
+    "wof:population":9008,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

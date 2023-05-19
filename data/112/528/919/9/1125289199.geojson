@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261531203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ole\u015bnica",
+    "eurostat:nuts_2021_id":"1005261531203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261531203",
+    "eurostat:population":3880,
+    "eurostat:population_year":2020,
     "geom:area":0.006765,
-    "geom:area_square_m":53255300.063077,
+    "geom:area_square_m":53255300.063098,
     "geom:bbox":"20.976579943,50.425649563,21.148507678,50.489420781",
     "geom:latitude":50.45901,
     "geom:longitude":21.071385,
@@ -157,7 +169,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -170,6 +183,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261531203",
+        "eurostat:nuts_2021_id":"1005261531203",
         "gn:id":763268,
         "gp:id":12618242,
         "qs_pg:id":24161
@@ -179,7 +194,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2b36c2b0d61fb435e6a4c03965accf50",
+    "wof:geomhash":"4274d8c4c84f11cefb4e16ae454920b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -190,12 +205,12 @@
         }
     ],
     "wof:id":1125289199,
-    "wof:lastmodified":1582357786,
+    "wof:lastmodified":1684354170,
     "wof:name":"Gmina Ole\u015bnica",
     "wof:parent_id":102079635,
     "wof:placetype":"localadmin",
-    "wof:population":1800,
-    "wof:population_rank":3,
+    "wof:population":3880,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

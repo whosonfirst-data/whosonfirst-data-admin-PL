@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lgota Wielka",
+    "eurostat:nuts_2021_id":"1005101171208",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171208",
+    "eurostat:population":4278,
+    "eurostat:population_year":2020,
     "geom:area":0.0081,
-    "geom:area_square_m":62833782.006163,
+    "geom:area_square_m":62833782.006161,
     "geom:bbox":"19.233423618,51.094172101,19.412656763,51.190820784",
     "geom:latitude":51.145464,
     "geom:longitude":19.316581,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":19.322685,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079711
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171208",
+        "eurostat:nuts_2021_id":"1005101171208"
+    },
     "wof:coterminous":[
         1477863697
     ],
     "wof:country":"PL",
-    "wof:geomhash":"402a5076fb86277e7039cc421cf9fddf",
+    "wof:geomhash":"4d25af9439c80b22fe91251c46a934c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125350495,
-    "wof:lastmodified":1569988378,
+    "wof:lastmodified":1684354256,
     "wof:name":"Lgota Wielka",
     "wof:parent_id":102079711,
     "wof:placetype":"localadmin",
+    "wof:population":4278,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

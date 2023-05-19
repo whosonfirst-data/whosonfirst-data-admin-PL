@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181330505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ko\u0142aczyce",
+    "eurostat:nuts_2021_id":"1006181330505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181330505",
+    "eurostat:population":8929,
+    "eurostat:population_year":2020,
     "geom:area":0.007632,
-    "geom:area_square_m":60900387.184474,
+    "geom:area_square_m":60900387.184481,
     "geom:bbox":"21.409053,49.774413,21.560157,49.840546",
     "geom:latitude":49.806835,
     "geom:longitude":21.485045,
@@ -125,7 +137,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -133,11 +146,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079453,
-        85687295
+        85687295,
+        102079453
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181330505",
+        "eurostat:nuts_2021_id":"1006181330505",
         "gn:id":768827,
         "gp:id":12617681,
         "qs_pg:id":1015826
@@ -150,7 +165,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a3b08008f1a6a663ac3c1989a653448b",
+    "wof:geomhash":"446c6a501751d62779d39f1db327a589",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,12 +176,12 @@
         }
     ],
     "wof:id":1125385805,
-    "wof:lastmodified":1607726747,
+    "wof:lastmodified":1684354305,
     "wof:name":"Gmina Ko\u0142aczyce",
     "wof:parent_id":102079453,
     "wof:placetype":"localadmin",
-    "wof:population":1316,
-    "wof:population_rank":3,
+    "wof:population":8929,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

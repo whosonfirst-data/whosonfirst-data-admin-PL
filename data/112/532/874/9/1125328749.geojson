@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121231803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kalwaria Zebrzydowska",
+    "eurostat:nuts_2021_id":"1001121231803",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL21A",
+    "eurostat:nuts_2021_level_lau":"1001121231803",
+    "eurostat:population":20012,
+    "eurostat:population_year":2020,
     "geom:area":0.009416,
-    "geom:area_square_m":75018620.670939,
+    "geom:area_square_m":75018620.670905,
     "geom:bbox":"19.577637263,49.84335328,19.773191569,49.934303581",
     "geom:latitude":49.885069,
     "geom:longitude":19.674384,
@@ -174,6 +186,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -186,6 +200,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121231803",
+        "eurostat:nuts_2021_id":"1001121231803",
         "gp:id":24548399,
         "qs_pg:id":1113733
     },
@@ -194,7 +210,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"08b1564cdfb3007f2b4f967d7e8f936e",
+    "wof:geomhash":"7092c503ef284e28572ed3be8f9d820d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -205,10 +221,12 @@
         }
     ],
     "wof:id":1125328749,
-    "wof:lastmodified":1582357726,
+    "wof:lastmodified":1684354240,
     "wof:name":"Gmina Kalwaria Zebrzydowska",
     "wof:parent_id":102079451,
     "wof:placetype":"localadmin",
+    "wof:population":20012,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

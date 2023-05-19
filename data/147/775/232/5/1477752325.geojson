@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301581006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krzym\u00f3w",
+    "eurostat:nuts_2021_id":"1002301581006",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301581006",
+    "eurostat:population":8112,
+    "eurostat:population_year":2020,
     "geom:area":0.012155,
-    "geom:area_square_m":92155541.344722,
+    "geom:area_square_m":92155541.344724,
     "geom:bbox":"18.283036574,52.122488281,18.467217564,52.229660819",
     "geom:latitude":52.18234,
     "geom:longitude":18.36664,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":18.364891,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102079943
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301581006",
+        "eurostat:nuts_2021_id":"1002301581006"
+    },
     "wof:coterminous":[
         1293416475
     ],
     "wof:country":"PL",
-    "wof:geomhash":"64581a6cd0e3fa126f9ec108062dcd18",
+    "wof:geomhash":"ad2d0b6d4d8cf8e3a9d5dc8fe87c4a5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477752325,
-    "wof:lastmodified":1570000726,
+    "wof:lastmodified":1684354404,
     "wof:name":"Krzym\u00f3w",
     "wof:parent_id":102079943,
     "wof:placetype":"localadmin",
+    "wof:population":8112,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

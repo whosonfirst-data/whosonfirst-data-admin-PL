@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261520705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kun\u00f3w",
+    "eurostat:nuts_2021_id":"1005261520705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL721",
+    "eurostat:nuts_2021_level_lau":"1005261520705",
+    "eurostat:population":9779,
+    "eurostat:population_year":2020,
     "geom:area":0.014532,
-    "geom:area_square_m":113134693.363468,
+    "geom:area_square_m":113134693.363445,
     "geom:bbox":"21.196195838,50.915526474,21.420350734,51.040453733",
     "geom:latitude":50.97981,
     "geom:longitude":21.306303,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261520705",
+        "eurostat:nuts_2021_id":"1005261520705",
         "gn:id":767020,
         "gp:id":24548420,
         "qs_pg:id":407840
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0996207aed0aa02f852c3ff486acf9d4",
+    "wof:geomhash":"09b5f5f23cea10102bc4ce1b24ab6f41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125372185,
-    "wof:lastmodified":1582357840,
+    "wof:lastmodified":1684354285,
     "wof:name":"Gmina Kun\u00f3w",
     "wof:parent_id":102079703,
     "wof:placetype":"localadmin",
-    "wof:population":3078,
-    "wof:population_rank":4,
+    "wof:population":9779,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

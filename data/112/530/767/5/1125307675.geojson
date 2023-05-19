@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221420907",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowy Staw",
+    "eurostat:nuts_2021_id":"1004221420907",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221420907",
+    "eurostat:population":7637,
+    "eurostat:population_year":2020,
     "geom:area":0.015737,
-    "geom:area_square_m":114022398.563193,
+    "geom:area_square_m":114022398.563189,
     "geom:bbox":"18.913808951,54.083214024,19.221443702,54.183082205",
     "geom:latitude":54.130216,
     "geom:longitude":19.065373,
@@ -146,7 +158,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -159,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221420907",
+        "eurostat:nuts_2021_id":"1004221420907",
         "gn:id":3090470,
         "gp:id":24547704,
         "qs_pg:id":203300
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9c1d4174c2eefa368ee660948ecc967f",
+    "wof:geomhash":"244baf2b4416d781b937b898f35ee498",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,12 +194,12 @@
         }
     ],
     "wof:id":1125307675,
-    "wof:lastmodified":1582357885,
+    "wof:lastmodified":1684354210,
     "wof:name":"Gmina Nowy Staw",
     "wof:parent_id":102080201,
     "wof:placetype":"localadmin",
-    "wof:population":4403,
-    "wof:population_rank":4,
+    "wof:population":7637,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

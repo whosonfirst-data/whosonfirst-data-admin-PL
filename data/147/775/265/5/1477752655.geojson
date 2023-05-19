@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101191507",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowy Kaw\u0119czyn",
+    "eurostat:nuts_2021_id":"1005101191507",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL715",
+    "eurostat:nuts_2021_level_lau":"1005101191507",
+    "eurostat:population":3370,
+    "eurostat:population_year":2020,
     "geom:area":0.013604,
-    "geom:area_square_m":103829030.594497,
+    "geom:area_square_m":103829030.594507,
     "geom:bbox":"20.151125018,51.834394109,20.346008037,51.939738533",
     "geom:latitude":51.886066,
     "geom:longitude":20.249484,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":20.247639,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079895
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101191507",
+        "eurostat:nuts_2021_id":"1005101191507"
+    },
     "wof:coterminous":[
         1477864983
     ],
     "wof:country":"PL",
-    "wof:geomhash":"30839816d119efa84fc07633d0fcba08",
+    "wof:geomhash":"b8be2666c8cd8a718b5672525871f02b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752655,
-    "wof:lastmodified":1570003744,
+    "wof:lastmodified":1684354421,
     "wof:name":"Nowy Kaw\u0119czyn",
     "wof:parent_id":102079895,
     "wof:placetype":"localadmin",
+    "wof:population":3370,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

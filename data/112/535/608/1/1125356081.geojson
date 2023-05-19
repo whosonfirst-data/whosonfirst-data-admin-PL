@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241457101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piekary \u015al\u0105skie",
+    "eurostat:nuts_2021_id":"1001241457101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL228",
+    "eurostat:nuts_2021_level_lau":"1001241457101",
+    "eurostat:population":55030,
+    "eurostat:population_year":2020,
     "geom:area":0.005037,
-    "geom:area_square_m":39723498.590689,
+    "geom:area_square_m":39723498.590684,
     "geom:bbox":"18.914489,50.330651,19.041529,50.421007",
     "geom:latitude":50.3736,
     "geom:longitude":18.96666,
@@ -171,6 +183,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -178,11 +192,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079543,
-        85687277
+        85687277,
+        102079543
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241457101",
+        "eurostat:nuts_2021_id":"1001241457101",
         "gp:id":12618807,
         "qs_pg:id":1153839
     },
@@ -195,7 +211,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"51893de2c433c222c7ff6387151b2d4d",
+    "wof:geomhash":"18cde218b2f29c47a58b7a8fabeee782",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,10 +222,12 @@
         }
     ],
     "wof:id":1125356081,
-    "wof:lastmodified":1607725517,
+    "wof:lastmodified":1684354262,
     "wof:name":"Piekary \u015al\u0105skie",
     "wof:parent_id":102079543,
     "wof:placetype":"localadmin",
+    "wof:population":55030,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

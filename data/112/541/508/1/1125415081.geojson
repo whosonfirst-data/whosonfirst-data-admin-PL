@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021016101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jelenia G\u00f3ra",
+    "eurostat:nuts_2021_id":"1003021016101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021016101",
+    "eurostat:population":79061,
+    "eurostat:population_year":2020,
     "geom:area":0.013957,
-    "geom:area_square_m":108913369.184288,
+    "geom:area_square_m":108913369.184243,
     "geom:bbox":"15.577868,50.767772,15.877162,50.932555",
     "geom:latitude":50.870938,
     "geom:longitude":15.708135,
@@ -177,6 +189,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -184,11 +198,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079603,
-        85687301
+        85687301,
+        102079603
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021016101",
+        "eurostat:nuts_2021_id":"1003021016101",
         "gp:id":12618518,
         "qs_pg:id":248231
     },
@@ -201,7 +217,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"19d761be4d8b7ce85a6de61c1ad2b797",
+    "wof:geomhash":"56ac71539d794deb4b69f04b7b548ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -212,10 +228,12 @@
         }
     ],
     "wof:id":1125415081,
-    "wof:lastmodified":1607726083,
+    "wof:lastmodified":1684354338,
     "wof:name":"Jelenia G\u00f3ra",
     "wof:parent_id":102079603,
     "wof:placetype":"localadmin",
+    "wof:population":79061,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

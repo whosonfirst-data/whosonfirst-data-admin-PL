@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141303204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leszno",
+    "eurostat:nuts_2021_id":"1007141303204",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141303204",
+    "eurostat:population":10207,
+    "eurostat:population_year":2020,
     "geom:area":0.016467,
-    "geom:area_square_m":124585179.573008,
+    "geom:area_square_m":124585179.573,
     "geom:bbox":"20.469128608,52.22563294,20.732729014,52.33372047",
     "geom:latitude":52.275549,
     "geom:longitude":20.605302,
@@ -146,6 +158,8 @@
     "reversegeo:longitude":20.592371,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -153,11 +167,15 @@
         102079949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007141303204",
+        "eurostat:nuts_2021_id":"1007141303204"
+    },
     "wof:coterminous":[
         1260006141
     ],
     "wof:country":"PL",
-    "wof:geomhash":"d940dfc1c6c6e8dfe703bcbd400cdb8a",
+    "wof:geomhash":"cba0bb3ce72864b1f0b347fd0f1cd406",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,10 +186,12 @@
         }
     ],
     "wof:id":1477752351,
-    "wof:lastmodified":1570000689,
+    "wof:lastmodified":1684354405,
     "wof:name":"Leszno",
     "wof:parent_id":102079949,
     "wof:placetype":"localadmin",
+    "wof:population":10207,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

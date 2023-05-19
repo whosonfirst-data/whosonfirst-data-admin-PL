@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rejowiec Fabryczny",
+    "eurostat:nuts_2021_id":"1006061100301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100301",
+    "eurostat:population":4386,
+    "eurostat:population_year":2020,
     "geom:area":0.001833,
-    "geom:area_square_m":14225238.133085,
+    "geom:area_square_m":14225238.133082,
     "geom:bbox":"23.20356162,51.101081067,23.29612574,51.137351181",
     "geom:latitude":51.119356,
     "geom:longitude":23.244996,
@@ -144,7 +156,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -157,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100301",
+        "eurostat:nuts_2021_id":"1006061100301",
         "gn:id":760516,
         "gp:id":24548672,
         "qs_pg:id":1163682
@@ -169,7 +184,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"88903f2a009c2d25420e9559dd045488",
+    "wof:geomhash":"ceb401df3d3fd5db07c6910e39f6ad4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,11 +195,11 @@
         }
     ],
     "wof:id":1125361707,
-    "wof:lastmodified":1582357982,
+    "wof:lastmodified":1684354266,
     "wof:name":"Rejowiec Fabryczny",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",
-    "wof:population":4474,
+    "wof:population":4386,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

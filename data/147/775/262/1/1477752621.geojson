@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boguty-Pianki",
+    "eurostat:nuts_2021_id":"1007142261603",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261603",
+    "eurostat:population":2581,
+    "eurostat:population_year":2020,
     "geom:area":0.011852,
-    "geom:area_square_m":88741914.832248,
+    "geom:area_square_m":88741914.832247,
     "geom:bbox":"22.328247624,52.661864032,22.460744905,52.795457794",
     "geom:latitude":52.731779,
     "geom:longitude":22.398281,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":22.39954,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080057
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261603",
+        "eurostat:nuts_2021_id":"1007142261603"
+    },
     "wof:coterminous":[
         1125954417
     ],
     "wof:country":"PL",
-    "wof:geomhash":"74572ffbc853d357f5accaa65bfbc3ad",
+    "wof:geomhash":"6d4684ca2d5851536650aa13af190c29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752621,
-    "wof:lastmodified":1570003642,
+    "wof:lastmodified":1684354419,
     "wof:name":"Boguty-Pianki",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",
+    "wof:population":2581,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

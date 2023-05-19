@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142270101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bia\u0142obrzegi",
+    "eurostat:nuts_2021_id":"1007142270101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142270101",
+    "eurostat:population":10263,
+    "eurostat:population_year":2020,
     "geom:area":0.010091,
-    "geom:area_square_m":77450259.524789,
+    "geom:area_square_m":77450259.52478,
     "geom:bbox":"20.879955983,51.575303135,21.048745285,51.693287382",
     "geom:latitude":51.629952,
     "geom:longitude":20.974357,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":20.973048,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,8 +53,12 @@
         102079839
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142270101",
+        "eurostat:nuts_2021_id":"1007142270101"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"585616864a74244ff64f9ca41f7b60d9",
+    "wof:geomhash":"569858a1d6d298b9762a7c1cd278037f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,10 +69,12 @@
         }
     ],
     "wof:id":1477751865,
-    "wof:lastmodified":1570001766,
+    "wof:lastmodified":1684354380,
     "wof:name":"Gmina Bia\u0142obrzegi",
     "wof:parent_id":102079839,
     "wof:placetype":"localadmin",
+    "wof:population":10263,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

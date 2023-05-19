@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321641005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowogr\u00f3dek Pomorski",
+    "eurostat:nuts_2021_id":"1002321641005",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321641005",
+    "eurostat:population":3357,
+    "eurostat:population_year":2020,
     "geom:area":0.019481,
-    "geom:area_square_m":145309319.063227,
+    "geom:area_square_m":145309319.063231,
     "geom:bbox":"14.948665158,52.830581478,15.19613695,52.978361412",
     "geom:latitude":52.898051,
     "geom:longitude":15.065239,
@@ -65,7 +77,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -78,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321641005",
+        "eurostat:nuts_2021_id":"1002321641005",
         "gn:id":3090552,
         "gp:id":12618818,
         "qs_pg:id":1027368
@@ -90,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1eff1e2d2aa46ba661109347bbdddf4d",
+    "wof:geomhash":"acdc006c5c89211ca4889cce39a8f1b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,12 +116,12 @@
         }
     ],
     "wof:id":1125384469,
-    "wof:lastmodified":1582357930,
+    "wof:lastmodified":1684354302,
     "wof:name":"Nowogr\u00f3dek Pomorski",
     "wof:parent_id":102080005,
     "wof:placetype":"localadmin",
-    "wof:population":450,
-    "wof:population_rank":2,
+    "wof:population":3357,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

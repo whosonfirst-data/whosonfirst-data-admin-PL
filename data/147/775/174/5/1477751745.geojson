@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301571804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kobyla G\u00f3ra",
+    "eurostat:nuts_2021_id":"1002301571804",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301571804",
+    "eurostat:population":6139,
+    "eurostat:population_year":2020,
     "geom:area":0.016683,
-    "geom:area_square_m":128788745.964634,
+    "geom:area_square_m":128788745.964636,
     "geom:bbox":"17.704181883,51.293077538,17.923944849,51.443287821",
     "geom:latitude":51.368429,
     "geom:longitude":17.80745,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":17.799955,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079747
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301571804",
+        "eurostat:nuts_2021_id":"1002301571804"
+    },
     "wof:coterminous":[
         101821341
     ],
     "wof:country":"PL",
-    "wof:geomhash":"1cde9527e65311907efb1c88c4363744",
+    "wof:geomhash":"d20022ad8d464437e9e16199fd213d75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751745,
-    "wof:lastmodified":1570001252,
+    "wof:lastmodified":1684354374,
     "wof:name":"Kobyla G\u00f3ra",
     "wof:parent_id":102079747,
     "wof:placetype":"localadmin",
+    "wof:population":6139,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

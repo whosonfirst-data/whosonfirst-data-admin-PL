@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142702705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sierpc",
+    "eurostat:nuts_2021_id":"1007142702705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL923",
+    "eurostat:nuts_2021_level_lau":"1007142702705",
+    "eurostat:population":7042,
+    "eurostat:population_year":2020,
     "geom:area":0.020012,
-    "geom:area_square_m":149487516.138548,
+    "geom:area_square_m":149487516.138572,
     "geom:bbox":"19.508759,52.760781,19.7868,52.904196",
     "geom:latitude":52.834542,
     "geom:longitude":19.662595,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -94,11 +108,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080035,
-        85687257
+        85687257,
+        102080035
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142702705",
+        "eurostat:nuts_2021_id":"1007142702705",
         "gp:id":24548271,
         "qs_pg:id":32581
     },
@@ -110,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"812f356468f57e88efbd69f0d716c841",
+    "wof:geomhash":"e4ab00f841920d697cfb906909468411",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":1125306739,
-    "wof:lastmodified":1607726533,
+    "wof:lastmodified":1684354210,
     "wof:name":"Gmina Sierpc",
     "wof:parent_id":102080035,
     "wof:placetype":"localadmin",
+    "wof:population":7042,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

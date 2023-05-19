@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561411",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stawiguda",
+    "eurostat:nuts_2021_id":"1004281561411",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561411",
+    "eurostat:population":10548,
+    "eurostat:population_year":2020,
     "geom:area":0.030301,
-    "geom:area_square_m":222030678.869606,
+    "geom:area_square_m":222030678.869605,
     "geom:bbox":"20.308369758,53.552077613,20.558929144,53.7572131",
     "geom:latitude":53.658539,
     "geom:longitude":20.437351,
@@ -69,6 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561411",
+        "eurostat:nuts_2021_id":"1004281561411",
         "gp:id":12617249,
         "qs_pg:id":493091
     },
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"759db67a33ea8d90a0e946ac6bb55484",
+    "wof:geomhash":"54e4a70e7c8664251aa750b42a286073",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":1125315361,
-    "wof:lastmodified":1582357954,
+    "wof:lastmodified":1684354220,
     "wof:name":"Stawiguda",
     "wof:parent_id":102080207,
     "wof:placetype":"localadmin",
+    "wof:population":10548,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

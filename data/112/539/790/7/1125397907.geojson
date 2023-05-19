@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ostr\u00f3w Mazowiecka",
+    "eurostat:nuts_2021_id":"1007142261601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261601",
+    "eurostat:population":22399,
+    "eurostat:population_year":2020,
     "geom:area":0.002967,
-    "geom:area_square_m":22181779.407145,
+    "geom:area_square_m":22181779.407148,
     "geom:bbox":"21.844753527,52.778372495,21.937430045,52.835803663",
     "geom:latitude":52.802506,
     "geom:longitude":21.8856,
@@ -162,6 +174,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -174,6 +188,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261601",
+        "eurostat:nuts_2021_id":"1007142261601",
         "gp:id":24548153,
         "qs_pg:id":395305
     },
@@ -182,7 +198,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b3340076257414c7416dd68ae65e0960",
+    "wof:geomhash":"ea64cd09d6adfb9de6fd530c2f244160",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,10 +209,12 @@
         }
     ],
     "wof:id":1125397907,
-    "wof:lastmodified":1582357901,
+    "wof:lastmodified":1684354319,
     "wof:name":"Gmina Ostr\u00f3w Mazowiecka",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",
+    "wof:population":22399,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

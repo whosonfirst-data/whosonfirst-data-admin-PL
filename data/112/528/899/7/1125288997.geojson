@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321660405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osina",
+    "eurostat:nuts_2021_id":"1002321660405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321660405",
+    "eurostat:population":3034,
+    "eurostat:population_year":2020,
     "geom:area":0.013801,
-    "geom:area_square_m":101216799.94243,
+    "geom:area_square_m":101216799.942441,
     "geom:bbox":"14.902915693,53.559898284,15.106998912,53.681949234",
     "geom:latitude":53.62068,
     "geom:longitude":14.998408,
@@ -80,7 +92,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -93,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321660405",
+        "eurostat:nuts_2021_id":"1002321660405",
         "gn:id":3089876,
         "gp:id":12617841,
         "qs_pg:id":24071
@@ -105,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"caa4757559b51ccd3c00e4cc5efce239",
+    "wof:geomhash":"d3408bc1a802b6d6dca8566b54820c00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,11 +131,11 @@
         }
     ],
     "wof:id":1125288997,
-    "wof:lastmodified":1582357781,
+    "wof:lastmodified":1684354168,
     "wof:name":"Osina",
     "wof:parent_id":102080123,
     "wof:placetype":"localadmin",
-    "wof:population":2952,
+    "wof:population":3034,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

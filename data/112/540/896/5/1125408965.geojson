@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czernich\u00f3w",
+    "eurostat:nuts_2021_id":"1001121200601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200601",
+    "eurostat:population":14712,
+    "eurostat:population_year":2020,
     "geom:area":0.010564,
-    "geom:area_square_m":83935590.523172,
+    "geom:area_square_m":83935590.523183,
     "geom:bbox":"19.558273133,49.974802782,19.762648144,50.065587156",
     "geom:latitude":50.015332,
     "geom:longitude":19.659261,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200601",
+        "eurostat:nuts_2021_id":"1001121200601",
         "gn:id":3101009,
         "gp:id":12618555,
         "qs_pg:id":49193
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7b25db47d36261ca323e1a1c215c602b",
+    "wof:geomhash":"9806f0ffe1d6ed9cf943b488fa1c75cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125408965,
-    "wof:lastmodified":1582358001,
+    "wof:lastmodified":1684354328,
     "wof:name":"Czernich\u00f3w",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",
-    "wof:population":1707,
-    "wof:population_rank":3,
+    "wof:population":14712,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

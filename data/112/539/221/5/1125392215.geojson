@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Raba Wy\u017cna",
+    "eurostat:nuts_2021_id":"1001121691111",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691111",
+    "eurostat:population":14750,
+    "eurostat:population_year":2020,
     "geom:area":0.011063,
-    "geom:area_square_m":88732135.013388,
+    "geom:area_square_m":88732135.013391,
     "geom:bbox":"19.756659908,49.511474847,19.970382192,49.637591907",
     "geom:latitude":49.559796,
     "geom:longitude":19.876255,
@@ -75,6 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -87,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691111",
+        "eurostat:nuts_2021_id":"1001121691111",
         "gp:id":12617571,
         "qs_pg:id":1018499
     },
@@ -98,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"053fc56039ad9f6a3a7a91b92d6a385f",
+    "wof:geomhash":"b02cee188ea025cf8f5512693d53ccf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":1125392215,
-    "wof:lastmodified":1582357906,
+    "wof:lastmodified":1684354310,
     "wof:name":"Raba Wy\u017cna",
     "wof:parent_id":102079407,
     "wof:placetype":"localadmin",
+    "wof:population":14750,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

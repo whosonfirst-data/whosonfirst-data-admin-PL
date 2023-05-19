@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301592903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wolsztyn",
+    "eurostat:nuts_2021_id":"1002301592903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301592903",
+    "eurostat:population":30539,
+    "eurostat:population_year":2020,
     "geom:area":0.03275,
-    "geom:area_square_m":248933860.2447,
+    "geom:area_square_m":248933860.244705,
     "geom:bbox":"15.964343667,51.977158234,16.284513396,52.176152623",
     "geom:latitude":52.068702,
     "geom:longitude":16.112554,
@@ -144,6 +156,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -156,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301592903",
+        "eurostat:nuts_2021_id":"1002301592903",
         "gp:id":24547824,
         "qs_pg:id":1017793
     },
@@ -164,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"395e909b9205d97e519b59b686979e7b",
+    "wof:geomhash":"00ef3a61e8d8042725932f53736ad251",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +191,12 @@
         }
     ],
     "wof:id":1125391407,
-    "wof:lastmodified":1582357923,
+    "wof:lastmodified":1684354308,
     "wof:name":"Gmina Wolsztyn",
     "wof:parent_id":102079867,
     "wof:placetype":"localadmin",
+    "wof:population":30539,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

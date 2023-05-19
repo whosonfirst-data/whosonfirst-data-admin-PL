@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142266101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ostro\u0142\u0119ka",
+    "eurostat:nuts_2021_id":"1007142266101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142266101",
+    "eurostat:population":52055,
+    "eurostat:population_year":2020,
     "geom:area":0.004486,
-    "geom:area_square_m":33321716.604569,
+    "geom:area_square_m":33321716.604567,
     "geom:bbox":"21.535617,53.043326,21.666036,53.112374",
     "geom:latitude":53.082086,
     "geom:longitude":21.594843,
@@ -167,6 +179,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -179,6 +193,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142266101",
+        "eurostat:nuts_2021_id":"1007142266101",
         "gn:id":7532502,
         "gp:id":12618808,
         "qs_pg:id":1027300
@@ -192,7 +208,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"31ede1230ab34d1d8754360bb819c140",
+    "wof:geomhash":"7baa3fb56294c3c1c169e51b79648b65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,10 +219,12 @@
         }
     ],
     "wof:id":1125401215,
-    "wof:lastmodified":1617131386,
+    "wof:lastmodified":1684354325,
     "wof:name":"Ostro\u0142\u0119ka",
     "wof:parent_id":102080081,
     "wof:placetype":"localadmin",
+    "wof:population":52055,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

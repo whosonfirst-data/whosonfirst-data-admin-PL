@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281540303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"I\u0142owo-Osada",
+    "eurostat:nuts_2021_id":"1004281540303",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281540303",
+    "eurostat:population":7192,
+    "eurostat:population_year":2020,
     "geom:area":0.013948,
-    "geom:area_square_m":103346174.251768,
+    "geom:area_square_m":103346174.25176,
     "geom:bbox":"20.194752565,53.139118308,20.414261132,53.237967361",
     "geom:latitude":53.187781,
     "geom:longitude":20.298211,
@@ -83,6 +95,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -91,6 +105,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281540303",
+        "eurostat:nuts_2021_id":"1004281540303",
         "gn:id":7532288,
         "qs_pg:id":1154828
     },
@@ -102,7 +118,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3c8cc541ec45a6702e4b288c94337916",
+    "wof:geomhash":"dc59f574c82c222ca2ead77a643c237e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,10 +129,12 @@
         }
     ],
     "wof:id":1125409201,
-    "wof:lastmodified":1582358003,
+    "wof:lastmodified":1684354330,
     "wof:name":"I\u0142owo-Osada",
     "wof:parent_id":102080111,
     "wof:placetype":"localadmin",
+    "wof:population":7192,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

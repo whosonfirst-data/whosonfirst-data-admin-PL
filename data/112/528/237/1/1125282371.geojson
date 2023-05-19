@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141301404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nasielsk",
+    "eurostat:nuts_2021_id":"1007141301404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141301404",
+    "eurostat:population":19965,
+    "eurostat:population_year":2020,
     "geom:area":0.027271,
-    "geom:area_square_m":204955411.43119,
+    "geom:area_square_m":204955411.431215,
     "geom:bbox":"20.604308778,52.498755597,20.930488323,52.646610179",
     "geom:latitude":52.569598,
     "geom:longitude":20.78192,
@@ -141,7 +153,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -154,6 +167,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141301404",
+        "eurostat:nuts_2021_id":"1007141301404",
         "gn:id":764100,
         "gp:id":24548262,
         "qs_pg:id":962705
@@ -163,7 +178,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"715bba8745391aced04cc9ca01985bd7",
+    "wof:geomhash":"410d4436480a134f08331309b2350faf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,12 +189,12 @@
         }
     ],
     "wof:id":1125282371,
-    "wof:lastmodified":1582357780,
+    "wof:lastmodified":1684354150,
     "wof:name":"Gmina Nasielsk",
     "wof:parent_id":102080001,
     "wof:placetype":"localadmin",
-    "wof:population":7445,
-    "wof:population_rank":5,
+    "wof:population":19965,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

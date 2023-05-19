@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101152002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ozork\u00f3w",
+    "eurostat:nuts_2021_id":"1005101152002",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL712",
+    "eurostat:nuts_2021_level_lau":"1005101152002",
+    "eurostat:population":19311,
+    "eurostat:population_year":2020,
     "geom:area":0.002022,
-    "geom:area_square_m":15406451.889895,
+    "geom:area_square_m":15406451.889902,
     "geom:bbox":"19.252410055,51.932340938,19.341009969,51.985049446",
     "geom:latitude":51.957745,
     "geom:longitude":19.291116,
@@ -173,7 +185,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -186,6 +199,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101152002",
+        "eurostat:nuts_2021_id":"1005101152002",
         "gn:id":3089582,
         "gp:id":24548699,
         "qs_pg:id":145578
@@ -195,7 +210,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5bbc2f2f05e15645eb75700b5fc4df0c",
+    "wof:geomhash":"44bd9d174bbfe5136823c7e02ca3e892",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,12 +221,12 @@
         }
     ],
     "wof:id":1125378411,
-    "wof:lastmodified":1582357856,
+    "wof:lastmodified":1684354296,
     "wof:name":"Gmina Ozork\u00f3w",
     "wof:parent_id":102079873,
     "wof:placetype":"localadmin",
-    "wof:population":20608,
-    "wof:population_rank":7,
+    "wof:population":19311,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

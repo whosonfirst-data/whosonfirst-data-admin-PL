@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301600203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Drawsko",
+    "eurostat:nuts_2021_id":"1002301600203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301600203",
+    "eurostat:population":5775,
+    "eurostat:population_year":2020,
     "geom:area":0.021725,
-    "geom:area_square_m":162403351.593198,
+    "geom:area_square_m":162403351.593222,
     "geom:bbox":"15.893221426,52.727052073,16.144431017,52.873965856",
     "geom:latitude":52.803338,
     "geom:longitude":16.023361,
@@ -66,6 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -78,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301600203",
+        "eurostat:nuts_2021_id":"1002301600203",
         "gp:id":12618053,
         "qs_pg:id":1293309
     },
@@ -89,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"90034710fee0d8289b0ab70c5daed29e",
+    "wof:geomhash":"2f4a6f954afa2f316db1060e86ac26b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":1125286879,
-    "wof:lastmodified":1582357760,
+    "wof:lastmodified":1684354159,
     "wof:name":"Drawsko",
     "wof:parent_id":102080029,
     "wof:placetype":"localadmin",
+    "wof:population":5775,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041061502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Che\u0142m\u017ca",
+    "eurostat:nuts_2021_id":"1004041061502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL613",
+    "eurostat:nuts_2021_level_lau":"1004041061502",
+    "eurostat:population":9826,
+    "eurostat:population_year":2020,
     "geom:area":0.024049,
-    "geom:area_square_m":178170912.370118,
+    "geom:area_square_m":178170912.37013,
     "geom:bbox":"18.471995,53.120642,18.803537,53.262953",
     "geom:latitude":53.191206,
     "geom:longitude":18.648919,
@@ -62,18 +74,24 @@
     "reversegeo:longitude":18.685974,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102080063,
-        85687319
+        85687319,
+        102080063
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041061502",
+        "eurostat:nuts_2021_id":"1004041061502"
+    },
     "wof:coterminous":[
         1477865395
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a68480579b0f3ec55efa44f7a13464c6",
+    "wof:geomhash":"42e40e26c476491fddfe5945222df2f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751727,
-    "wof:lastmodified":1607726628,
+    "wof:lastmodified":1684354373,
     "wof:name":"Gmina Che\u0142m\u017ca",
     "wof:parent_id":102080063,
     "wof:placetype":"localadmin",
+    "wof:population":9826,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

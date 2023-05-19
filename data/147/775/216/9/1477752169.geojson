@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460415",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u0119dziny",
+    "eurostat:nuts_2021_id":"1001241460415",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460415",
+    "eurostat:population":9933,
+    "eurostat:population_year":2020,
     "geom:area":0.005266,
     "geom:area_square_m":41083763.829937,
     "geom:bbox":"19.175238961,50.842984555,19.284053526,50.91833099",
@@ -32,6 +44,8 @@
     "reversegeo:longitude":19.223708,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102079663
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460415",
+        "eurostat:nuts_2021_id":"1001241460415"
+    },
     "wof:coterminous":[
         101756593
     ],
     "wof:country":"PL",
-    "wof:geomhash":"79701f57d8f54578a46505d9d40c7f13",
+    "wof:geomhash":"f59e9770de100b61c733dab638d74576",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477752169,
-    "wof:lastmodified":1569999581,
+    "wof:lastmodified":1684354396,
     "wof:name":"R\u0119dziny",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",
+    "wof:population":9933,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

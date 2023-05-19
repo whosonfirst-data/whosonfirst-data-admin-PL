@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261520703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bodzech\u00f3w",
+    "eurostat:nuts_2021_id":"1005261520703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL721",
+    "eurostat:nuts_2021_level_lau":"1005261520703",
+    "eurostat:population":13326,
+    "eurostat:population_year":2020,
     "geom:area":0.015621,
-    "geom:area_square_m":121732602.778838,
+    "geom:area_square_m":121732602.778877,
     "geom:bbox":"21.263950291,50.862105903,21.523180911,51.032160233",
     "geom:latitude":50.932199,
     "geom:longitude":21.399717,
@@ -62,6 +74,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -74,6 +88,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261520703",
+        "eurostat:nuts_2021_id":"1005261520703",
         "gn:id":775737,
         "gp:id":24548697,
         "qs_pg:id":989451
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"58285b24f6c9bdef7c8248cb53e17c2a",
+    "wof:geomhash":"438238754376087e604f6d62ad50fb74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":1125373443,
-    "wof:lastmodified":1582357865,
+    "wof:lastmodified":1684354288,
     "wof:name":"Bodzech\u00f3w",
     "wof:parent_id":102079703,
     "wof:placetype":"localadmin",
+    "wof:population":13326,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

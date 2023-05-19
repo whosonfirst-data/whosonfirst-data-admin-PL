@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021031904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jaworzyna \u015al\u0105ska",
+    "eurostat:nuts_2021_id":"1003021031904",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021031904",
+    "eurostat:population":10239,
+    "eurostat:population_year":2020,
     "geom:area":0.008628,
-    "geom:area_square_m":67271765.935536,
+    "geom:area_square_m":67271765.935521,
     "geom:bbox":"16.375929245,50.856505811,16.497881139,50.957777394",
     "geom:latitude":50.908923,
     "geom:longitude":16.434511,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021031904",
+        "eurostat:nuts_2021_id":"1003021031904",
         "gp:id":24547990,
         "qs_pg:id":1290485
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"53ad6bc2182f11ba0fb4279d236a5474",
+    "wof:geomhash":"1569918043bf1a8a683aeac0e8d660f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125327543,
-    "wof:lastmodified":1582357722,
+    "wof:lastmodified":1684354237,
     "wof:name":"Gmina Jaworzyna \u015al\u0105ska",
     "wof:parent_id":102079625,
     "wof:placetype":"localadmin",
+    "wof:population":10239,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

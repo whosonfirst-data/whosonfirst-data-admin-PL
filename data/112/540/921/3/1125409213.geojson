@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021036501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wa\u0142brzych",
+    "eurostat:nuts_2021_id":"1003021036501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021036501",
+    "eurostat:population":111356,
+    "eurostat:population_year":2020,
     "geom:area":0.010795,
-    "geom:area_square_m":84387999.956628,
+    "geom:area_square_m":84387999.956578,
     "geom:bbox":"16.227179,50.716093,16.35527,50.85414",
     "geom:latitude":50.78644,
     "geom:longitude":16.290023,
@@ -215,15 +227,18 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        1477743803,
-        85687301
+        85687301,
+        1477743803
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021036501",
+        "eurostat:nuts_2021_id":"1003021036501",
         "gn:id":7532039,
         "gp:id":12618868,
         "qs_pg:id":1154831
@@ -241,7 +256,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"89ca35950fd4cb5153ee01ca33c631fa",
+    "wof:geomhash":"c162c51c7f6a454f33ad5f5456a44d4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -252,11 +267,11 @@
         }
     ],
     "wof:id":1125409213,
-    "wof:lastmodified":1607726063,
+    "wof:lastmodified":1684354330,
     "wof:name":"Wa\u0142brzych",
     "wof:parent_id":1477743803,
     "wof:placetype":"localadmin",
-    "wof:population":127431,
+    "wof:population":111356,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

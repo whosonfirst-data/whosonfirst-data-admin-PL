@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Harasiuki",
+    "eurostat:nuts_2021_id":"1006181361201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361201",
+    "eurostat:population":6074,
+    "eurostat:population_year":2020,
     "geom:area":0.021306,
-    "geom:area_square_m":167572962.085335,
+    "geom:area_square_m":167572962.085383,
     "geom:bbox":"22.34943949,50.397277051,22.587289635,50.591937149",
     "geom:latitude":50.500256,
     "geom:longitude":22.46184,
@@ -66,7 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -79,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361201",
+        "eurostat:nuts_2021_id":"1006181361201",
         "gn:id":771134,
         "gp:id":12617157,
         "qs_pg:id":1023399
@@ -91,7 +106,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1960c3c40536e56b29f6e824ff6020fc",
+    "wof:geomhash":"e769e26243ba578e1be16eb0ffbc190e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,12 +117,12 @@
         }
     ],
     "wof:id":1125397181,
-    "wof:lastmodified":1582357923,
+    "wof:lastmodified":1684354319,
     "wof:name":"Harasiuki",
     "wof:parent_id":102079639,
     "wof:placetype":"localadmin",
-    "wof:population":862,
-    "wof:population_rank":2,
+    "wof:population":6074,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241517701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tychy",
+    "eurostat:nuts_2021_id":"1001241517701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22C",
+    "eurostat:nuts_2021_level_lau":"1001241517701",
+    "eurostat:population":127590,
+    "eurostat:population_year":2020,
     "geom:area":0.010284,
-    "geom:area_square_m":81533372.659455,
+    "geom:area_square_m":81533372.659461,
     "geom:bbox":"18.925276,50.077167,19.091515,50.175833",
     "geom:latitude":50.123091,
     "geom:longitude":19.002631,
@@ -239,15 +251,18 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079471,
-        85687277
+        85687277,
+        102079471
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241517701",
+        "eurostat:nuts_2021_id":"1001241517701",
         "gn:id":7532522,
         "gp:id":12618477,
         "qs_pg:id":1154846
@@ -265,7 +280,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0367097889f64050265827f1f094fb69",
+    "wof:geomhash":"57b1af044e87c7cf7c07436f551e16ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -276,11 +291,11 @@
         }
     ],
     "wof:id":1125409241,
-    "wof:lastmodified":1607726047,
+    "wof:lastmodified":1684354331,
     "wof:name":"Tychy",
     "wof:parent_id":102079471,
     "wof:placetype":"localadmin",
-    "wof:population":130000,
+    "wof:population":127590,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

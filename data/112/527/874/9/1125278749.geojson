@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121241613",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wojnicz",
+    "eurostat:nuts_2021_id":"1001121241613",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL217",
+    "eurostat:nuts_2021_level_lau":"1001121241613",
+    "eurostat:population":13443,
+    "eurostat:population_year":2020,
     "geom:area":0.009935,
-    "geom:area_square_m":79047161.773458,
+    "geom:area_square_m":79047161.773476,
     "geom:bbox":"20.745919176,49.875608782,20.882962776,50.020204846",
     "geom:latitude":49.948833,
     "geom:longitude":20.807977,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121241613",
+        "eurostat:nuts_2021_id":"1001121241613",
         "gn:id":755390,
         "gp:id":12617433,
         "qs_pg:id":1078174
@@ -159,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"54e60f94462cde35e46da95aa33c93ac",
+    "wof:geomhash":"dff4ccd174201a92e603e71d70826dac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,12 +185,12 @@
         }
     ],
     "wof:id":1125278749,
-    "wof:lastmodified":1582357793,
+    "wof:lastmodified":1684354146,
     "wof:name":"Gmina Wojnicz",
     "wof:parent_id":102079535,
     "wof:placetype":"localadmin",
-    "wof:population":3509,
-    "wof:population_rank":4,
+    "wof:population":13443,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

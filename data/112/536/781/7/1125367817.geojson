@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281540203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frombork",
+    "eurostat:nuts_2021_id":"1004281540203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281540203",
+    "eurostat:population":3555,
+    "eurostat:population_year":2020,
     "geom:area":0.017343,
-    "geom:area_square_m":125021440.401521,
+    "geom:area_square_m":125021440.401519,
     "geom:bbox":"19.619137947,54.259314372,19.783723982,54.453266692",
     "geom:latitude":54.338336,
     "geom:longitude":19.691664,
@@ -173,7 +185,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -186,6 +199,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281540203",
+        "eurostat:nuts_2021_id":"1004281540203",
         "gn:id":3099634,
         "gp:id":24547894,
         "qs_pg:id":962504
@@ -195,7 +210,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cc185a9672c447d635d1f82fc3d17cab",
+    "wof:geomhash":"c91e5217f9a271c451413fa69a429b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,11 +221,11 @@
         }
     ],
     "wof:id":1125367817,
-    "wof:lastmodified":1582357981,
+    "wof:lastmodified":1684354278,
     "wof:name":"Gmina Frombork",
     "wof:parent_id":102080237,
     "wof:placetype":"localadmin",
-    "wof:population":2529,
+    "wof:population":3555,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

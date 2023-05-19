@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zambr\u00f3w",
+    "eurostat:nuts_2021_id":"1006201381405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381405",
+    "eurostat:population":8875,
+    "eurostat:population_year":2020,
     "geom:area":0.040057,
-    "geom:area_square_m":298186776.055519,
+    "geom:area_square_m":298186776.055538,
     "geom:bbox":"22.028364,52.870344,22.357861,53.11727",
     "geom:latitude":52.98514,
     "geom:longitude":22.194062,
@@ -65,18 +77,24 @@
     "reversegeo:longitude":22.131222,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102080103,
-        85687283
+        85687283,
+        102080103
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381405",
+        "eurostat:nuts_2021_id":"1006201381405"
+    },
     "wof:coterminous":[
         1477864545
     ],
     "wof:country":"PL",
-    "wof:geomhash":"c143effb96caf0b6e8d93322c0113444",
+    "wof:geomhash":"79819b4d0ef891a518a7beba770a6c45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477751411,
-    "wof:lastmodified":1607726560,
+    "wof:lastmodified":1684354356,
     "wof:name":"Gmina Zambr\u00f3w",
     "wof:parent_id":102080103,
     "wof:placetype":"localadmin",
+    "wof:population":8875,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221401102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jastarnia",
+    "eurostat:nuts_2021_id":"1004221401102",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221401102",
+    "eurostat:population":3690,
+    "eurostat:population_year":2020,
     "geom:area":0.001373,
-    "geom:area_square_m":9809761.6122,
+    "geom:area_square_m":9809761.612207,
     "geom:bbox":"18.524923,54.674692,18.735105,54.755405",
     "geom:latitude":54.710704,
     "geom:longitude":18.647113,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -157,11 +170,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080269,
-        85687267
+        85687267,
+        102080269
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221401102",
+        "eurostat:nuts_2021_id":"1004221401102",
         "gn:id":3097421,
         "gp:id":12617932,
         "qs_pg:id":248463
@@ -174,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"92aef92b63e62b599d303e916c089901",
+    "wof:geomhash":"a22cfcdc91fe5be10013522a70960fa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,11 +200,11 @@
         }
     ],
     "wof:id":1125415497,
-    "wof:lastmodified":1607724794,
+    "wof:lastmodified":1684354339,
     "wof:name":"Gmina Jastarnia",
     "wof:parent_id":102080269,
     "wof:placetype":"localadmin",
-    "wof:population":3925,
+    "wof:population":3690,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

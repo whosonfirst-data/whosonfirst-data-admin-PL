@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142710313",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wilga",
+    "eurostat:nuts_2021_id":"1007142710313",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142710313",
+    "eurostat:population":5278,
+    "eurostat:population_year":2020,
     "geom:area":0.015503,
-    "geom:area_square_m":118419682.459464,
+    "geom:area_square_m":118419682.459447,
     "geom:bbox":"21.275804451,51.766500339,21.502297085,51.907151288",
     "geom:latitude":51.847402,
     "geom:longitude":21.402415,
@@ -75,7 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -88,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142710313",
+        "eurostat:nuts_2021_id":"1007142710313",
         "gn:id":755692,
         "gp:id":12617059,
         "qs_pg:id":270550
@@ -100,7 +115,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"25d857d880fb17f869ddf3e1e4d6d7cd",
+    "wof:geomhash":"71d36d3469749a71c0add130e43b4bde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,12 +126,12 @@
         }
     ],
     "wof:id":1125312807,
-    "wof:lastmodified":1582357946,
+    "wof:lastmodified":1684354217,
     "wof:name":"Wilga",
     "wof:parent_id":102079901,
     "wof:placetype":"localadmin",
-    "wof:population":1000,
-    "wof:population_rank":3,
+    "wof:population":5278,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

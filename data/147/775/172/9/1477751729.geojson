@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221720304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Debrzno",
+    "eurostat:nuts_2021_id":"1004221720304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL637",
+    "eurostat:nuts_2021_level_lau":"1004221720304",
+    "eurostat:population":8984,
+    "eurostat:population_year":2020,
     "geom:area":0.030374,
-    "geom:area_square_m":223076528.93238,
+    "geom:area_square_m":223076528.932336,
     "geom:bbox":"16.991360429,53.490964271,17.422804294,53.634064377",
     "geom:latitude":53.561986,
     "geom:longitude":17.203772,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":17.221779,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080157
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221720304",
+        "eurostat:nuts_2021_id":"1004221720304"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"bd1ab0054233184f51eee64d0cd0042f",
+    "wof:geomhash":"0de4f3c15c76756393f2b96b7fcf1d67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751729,
-    "wof:lastmodified":1570001674,
+    "wof:lastmodified":1684354373,
     "wof:name":"Gmina Debrzno",
     "wof:parent_id":102080157,
     "wof:placetype":"localadmin",
+    "wof:population":8984,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

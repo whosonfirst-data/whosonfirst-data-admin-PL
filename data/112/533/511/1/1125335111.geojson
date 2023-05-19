@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181332103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lesko",
+    "eurostat:nuts_2021_id":"1006181332103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181332103",
+    "eurostat:population":11319,
+    "eurostat:population_year":2020,
     "geom:area":0.013816,
-    "geom:area_square_m":111029609.193513,
+    "geom:area_square_m":111029609.193533,
     "geom:bbox":"22.261321,49.379294,22.431745,49.550274",
     "geom:latitude":49.465546,
     "geom:longitude":22.341189,
@@ -150,6 +162,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -157,11 +171,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079415,
-        85687295
+        85687295,
+        102079415
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181332103",
+        "eurostat:nuts_2021_id":"1006181332103",
         "gp:id":12617031,
         "qs_pg:id":1120456
     },
@@ -173,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"63e5344c6e6b8e9f9177f598527c0604",
+    "wof:geomhash":"d76c7d6254742e83235cba6d14978ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,10 +200,12 @@
         }
     ],
     "wof:id":1125335111,
-    "wof:lastmodified":1607726467,
+    "wof:lastmodified":1684354243,
     "wof:name":"Gmina Lesko",
     "wof:parent_id":102079415,
     "wof:placetype":"localadmin",
+    "wof:population":11319,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

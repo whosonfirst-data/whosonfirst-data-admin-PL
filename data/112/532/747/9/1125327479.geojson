@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nur",
+    "eurostat:nuts_2021_id":"1007142261606",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261606",
+    "eurostat:population":2673,
+    "eurostat:population_year":2020,
     "geom:area":0.012755,
     "geom:area_square_m":95620119.727449,
     "geom:bbox":"22.208579239,52.609376118,22.473970063,52.748291501",
@@ -65,6 +77,8 @@
     "reversegeo:longitude":22.294183,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,11 +86,15 @@
         102080057
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261606",
+        "eurostat:nuts_2021_id":"1007142261606"
+    },
     "wof:coterminous":[
         101913081
     ],
     "wof:country":"PL",
-    "wof:geomhash":"40d4b51a137eac2fe0d7c77778a074e9",
+    "wof:geomhash":"7e3d17e268f3ade305a69f89e9d7ff86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1125327479,
-    "wof:lastmodified":1569989422,
+    "wof:lastmodified":1684354237,
     "wof:name":"Nur",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",
+    "wof:population":2673,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

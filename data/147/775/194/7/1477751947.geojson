@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321661408",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marianowo",
+    "eurostat:nuts_2021_id":"1002321661408",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321661408",
+    "eurostat:population":3113,
+    "eurostat:population_year":2020,
     "geom:area":0.013766,
-    "geom:area_square_m":101518773.383108,
+    "geom:area_square_m":101518773.383146,
     "geom:bbox":"15.126720245,53.314993689,15.353847449,53.46491629",
     "geom:latitude":53.387984,
     "geom:longitude":15.262739,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":15.264497,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102080083
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321661408",
+        "eurostat:nuts_2021_id":"1002321661408"
+    },
     "wof:coterminous":[
         1126044537
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2c52ed5b05b6fb02b2baca52dd34614a",
+    "wof:geomhash":"6ecbda2c55a2cf08efc8d8fab03cd839",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477751947,
-    "wof:lastmodified":1569999409,
+    "wof:lastmodified":1684354384,
     "wof:name":"Marianowo",
     "wof:parent_id":102080083,
     "wof:placetype":"localadmin",
+    "wof:population":3113,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

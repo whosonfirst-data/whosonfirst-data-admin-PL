@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142732806",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rybno",
+    "eurostat:nuts_2021_id":"1007142732806",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL926",
+    "eurostat:nuts_2021_level_lau":"1007142732806",
+    "eurostat:population":3478,
+    "eurostat:population_year":2020,
     "geom:area":0.009571,
-    "geom:area_square_m":72471251.061647,
+    "geom:area_square_m":72471251.061612,
     "geom:bbox":"20.016757626,52.176372752,20.176878757,52.28929521",
     "geom:latitude":52.238707,
     "geom:longitude":20.105762,
@@ -75,7 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -88,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142732806",
+        "eurostat:nuts_2021_id":"1007142732806",
         "gn:id":759895,
         "gp:id":12616924,
         "qs_pg:id":201364
@@ -100,7 +115,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9fb87c4cd4ed8d734594ce3030f43a6d",
+    "wof:geomhash":"76dd327cf799e358002ce380fe4bea72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,12 +126,12 @@
         }
     ],
     "wof:id":1125304691,
-    "wof:lastmodified":1582357895,
+    "wof:lastmodified":1684354203,
     "wof:name":"Rybno",
     "wof:parent_id":102079945,
     "wof:placetype":"localadmin",
-    "wof:population":607,
-    "wof:population_rank":2,
+    "wof:population":3478,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

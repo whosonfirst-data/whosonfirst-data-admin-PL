@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281540407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pas\u0142\u0119k",
+    "eurostat:nuts_2021_id":"1004281540407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281540407",
+    "eurostat:population":19313,
+    "eurostat:population_year":2020,
     "geom:area":0.036211,
-    "geom:area_square_m":262885046.828912,
+    "geom:area_square_m":262885046.82892,
     "geom:bbox":"19.551036622,53.94115028,19.832618539,54.147762964",
     "geom:latitude":54.047365,
     "geom:longitude":19.686401,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -162,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281540407",
+        "eurostat:nuts_2021_id":"1004281540407",
         "gn:id":3089392,
         "gp:id":24547632,
         "qs_pg:id":962426
@@ -175,7 +190,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c156e9a27ae35a1de147a3df7ff18a7d",
+    "wof:geomhash":"5596d9e7551d0387c562d091a4777ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,11 +201,11 @@
         }
     ],
     "wof:id":1125367809,
-    "wof:lastmodified":1582357983,
+    "wof:lastmodified":1684354278,
     "wof:name":"Gmina Pas\u0142\u0119k",
     "wof:parent_id":102080231,
     "wof:placetype":"localadmin",
-    "wof:population":12267,
+    "wof:population":19313,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

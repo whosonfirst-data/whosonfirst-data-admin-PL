@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321630804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ko\u0142obrzeg",
+    "eurostat:nuts_2021_id":"1002321630804",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321630804",
+    "eurostat:population":10982,
+    "eurostat:population_year":2020,
     "geom:area":0.019793,
-    "geom:area_square_m":143411519.173836,
+    "geom:area_square_m":143411519.173843,
     "geom:bbox":"15.347362518,54.073365727,15.680640596,54.184726193",
     "geom:latitude":54.128023,
     "geom:longitude":15.499338,
@@ -93,6 +105,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -105,6 +119,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321630804",
+        "eurostat:nuts_2021_id":"1002321630804",
         "gp:id":24548110,
         "qs_pg:id":1113740
     },
@@ -113,7 +129,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e28ad93d64439a7b9881f3d7bdb41ba1",
+    "wof:geomhash":"28d3a355ec0fec14de1bb69c1f9fe07e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +140,12 @@
         }
     ],
     "wof:id":1125328763,
-    "wof:lastmodified":1582357739,
+    "wof:lastmodified":1684354240,
     "wof:name":"Gmina Ko\u0142obrzeg",
     "wof:parent_id":102080177,
     "wof:placetype":"localadmin",
+    "wof:population":10982,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

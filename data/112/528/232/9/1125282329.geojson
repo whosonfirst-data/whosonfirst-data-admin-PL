@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142710307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maciejowice",
+    "eurostat:nuts_2021_id":"1007142710307",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142710307",
+    "eurostat:population":6909,
+    "eurostat:population_year":2020,
     "geom:area":0.022568,
-    "geom:area_square_m":172927500.314521,
+    "geom:area_square_m":172927500.314543,
     "geom:bbox":"21.410332307,51.61756198,21.673663192,51.786848185",
     "geom:latitude":51.706756,
     "geom:longitude":21.539807,
@@ -86,7 +98,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -99,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142710307",
+        "eurostat:nuts_2021_id":"1007142710307",
         "gn:id":765600,
         "gp:id":12616920,
         "qs_pg:id":953800
@@ -111,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"31f49ffa35f44bdc2c7fb98e4de5551e",
+    "wof:geomhash":"5b8ef88645c2aa415cfd462590ea920b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,12 +137,12 @@
         }
     ],
     "wof:id":1125282329,
-    "wof:lastmodified":1582357764,
+    "wof:lastmodified":1684354150,
     "wof:name":"Maciejowice",
     "wof:parent_id":102079901,
     "wof:placetype":"localadmin",
-    "wof:population":2000,
-    "wof:population_rank":4,
+    "wof:population":6909,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

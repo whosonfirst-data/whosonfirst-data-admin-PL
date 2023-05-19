@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201371101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u0105browa Bia\u0142ostocka",
+    "eurostat:nuts_2021_id":"1006201371101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201371101",
+    "eurostat:population":11336,
+    "eurostat:population_year":2020,
     "geom:area":0.03584,
-    "geom:area_square_m":262747589.266927,
+    "geom:area_square_m":262747589.266916,
     "geom:bbox":"23.13942416,53.528919455,23.458204317,53.721956791",
     "geom:latitude":53.638628,
     "geom:longitude":23.31537,
@@ -155,7 +167,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -168,6 +181,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201371101",
+        "eurostat:nuts_2021_id":"1006201371101",
         "gn:id":773593,
         "gp:id":24548311,
         "qs_pg:id":1026083
@@ -177,7 +192,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"14df22e653ada507ebb87446b07f6d57",
+    "wof:geomhash":"ba455839b5a431da1ffd0f7839f338d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,12 +203,12 @@
         }
     ],
     "wof:id":1125400881,
-    "wof:lastmodified":1582357999,
+    "wof:lastmodified":1684354324,
     "wof:name":"Gmina D\u0105browa Bia\u0142ostocka",
     "wof:parent_id":102080189,
     "wof:placetype":"localadmin",
-    "wof:population":6044,
-    "wof:population_rank":5,
+    "wof:population":11336,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181351504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u0119dzisz\u00f3w Ma\u0142opolski",
+    "eurostat:nuts_2021_id":"1006181351504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181351504",
+    "eurostat:population":23784,
+    "eurostat:population_year":2020,
     "geom:area":0.01935,
-    "geom:area_square_m":153522545.296662,
+    "geom:area_square_m":153522545.296776,
     "geom:bbox":"21.612508238,49.971296822,21.822881283,50.178599698",
     "geom:latitude":50.085544,
     "geom:longitude":21.718357,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181351504",
+        "eurostat:nuts_2021_id":"1006181351504",
         "gn:id":759504,
         "gp:id":24548640,
         "qs_pg:id":923478
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5b3cd3ebda7d35273ec54f64f5ade767",
+    "wof:geomhash":"df0d737395f2b6e79188b263740c1b40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125353607,
-    "wof:lastmodified":1582357711,
+    "wof:lastmodified":1684354259,
     "wof:name":"Gmina S\u0119dzisz\u00f3w Ma\u0142opolski",
     "wof:parent_id":102079547,
     "wof:placetype":"localadmin",
-    "wof:population":7096,
-    "wof:population_rank":5,
+    "wof:population":23784,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

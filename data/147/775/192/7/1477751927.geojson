@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141300504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grodzisk Mazowiecki",
+    "eurostat:nuts_2021_id":"1007141300504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141300504",
+    "eurostat:population":48907,
+    "eurostat:population_year":2020,
     "geom:area":0.014086,
-    "geom:area_square_m":106981589.17075,
+    "geom:area_square_m":106981589.170761,
     "geom:bbox":"20.502652682,52.031731407,20.734502419,52.165189953",
     "geom:latitude":52.106296,
     "geom:longitude":20.616481,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":20.605106,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079909
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007141300504",
+        "eurostat:nuts_2021_id":"1007141300504"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"cae619f78dce51275cd14d2a1283cf75",
+    "wof:geomhash":"f50ba3e56b3695049d738772fe3ff8d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751927,
-    "wof:lastmodified":1569999200,
+    "wof:lastmodified":1684354383,
     "wof:name":"Gmina Grodzisk Mazowiecki",
     "wof:parent_id":102079909,
     "wof:placetype":"localadmin",
+    "wof:population":48907,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

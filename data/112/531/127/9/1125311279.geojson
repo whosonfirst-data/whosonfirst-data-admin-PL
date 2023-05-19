@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041670703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gniewkowo",
+    "eurostat:nuts_2021_id":"1004041670703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL617",
+    "eurostat:nuts_2021_level_lau":"1004041670703",
+    "eurostat:population":14388,
+    "eurostat:population_year":2020,
     "geom:area":0.023979,
-    "geom:area_square_m":178928411.240189,
+    "geom:area_square_m":178928411.240192,
     "geom:bbox":"18.28746829,52.812989253,18.564748586,52.955806867",
     "geom:latitude":52.882337,
     "geom:longitude":18.428223,
@@ -139,7 +151,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -152,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041670703",
+        "eurostat:nuts_2021_id":"1004041670703",
         "gn:id":3099120,
         "gp:id":24547623,
         "qs_pg:id":206252
@@ -161,7 +176,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"17ea0609b1a95ec4c5ceec343ac7c061",
+    "wof:geomhash":"2a40c00fd8c8905a609a9b87614a7eb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,12 +187,12 @@
         }
     ],
     "wof:id":1125311279,
-    "wof:lastmodified":1582357950,
+    "wof:lastmodified":1684354214,
     "wof:name":"Gmina Gniewkowo",
     "wof:parent_id":102080013,
     "wof:placetype":"localadmin",
-    "wof:population":7224,
-    "wof:population_rank":5,
+    "wof:population":14388,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

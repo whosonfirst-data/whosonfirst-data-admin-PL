@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Drohiczyn",
+    "eurostat:nuts_2021_id":"1006201381002",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381002",
+    "eurostat:population":6222,
+    "eurostat:population_year":2020,
     "geom:area":0.027485,
-    "geom:area_square_m":207083413.858186,
+    "geom:area_square_m":207083413.858226,
     "geom:bbox":"22.510109817,52.366260735,22.766628465,52.555124252",
     "geom:latitude":52.459384,
     "geom:longitude":22.64101,
@@ -158,7 +170,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -171,6 +184,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381002",
+        "eurostat:nuts_2021_id":"1006201381002",
         "gn:id":772959,
         "gp:id":24548307,
         "qs_pg:id":129337
@@ -180,7 +195,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a4f921b41ddfdaf72ed28c084d109379",
+    "wof:geomhash":"f971b08dd23f8a44204078628cdf6a22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,12 +206,12 @@
         }
     ],
     "wof:id":1125278421,
-    "wof:lastmodified":1582357793,
+    "wof:lastmodified":1684354145,
     "wof:name":"Gmina Drohiczyn",
     "wof:parent_id":102080037,
     "wof:placetype":"localadmin",
-    "wof:population":2075,
-    "wof:population_rank":4,
+    "wof:population":6222,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

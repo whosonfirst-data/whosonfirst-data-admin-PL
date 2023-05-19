@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301580304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kiszkowo",
+    "eurostat:nuts_2021_id":"1002301580304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301580304",
+    "eurostat:population":5443,
+    "eurostat:population_year":2020,
     "geom:area":0.015179,
-    "geom:area_square_m":114046870.056288,
+    "geom:area_square_m":114046870.056289,
     "geom:bbox":"17.150624271,52.534353656,17.416235691,52.643899733",
     "geom:latitude":52.58202,
     "geom:longitude":17.293922,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":17.291866,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079967
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301580304",
+        "eurostat:nuts_2021_id":"1002301580304"
+    },
     "wof:coterminous":[
         1477863579
     ],
     "wof:country":"PL",
-    "wof:geomhash":"d72f599356eac11682ee65d740ded575",
+    "wof:geomhash":"c3b11620c818344317f06de380eeeda0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125366855,
-    "wof:lastmodified":1569997678,
+    "wof:lastmodified":1684354276,
     "wof:name":"Kiszkowo",
     "wof:parent_id":102079967,
     "wof:placetype":"localadmin",
+    "wof:population":5443,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

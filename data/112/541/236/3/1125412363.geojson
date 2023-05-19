@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081130501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cybinka",
+    "eurostat:nuts_2021_id":"1002081130501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL431",
+    "eurostat:nuts_2021_level_lau":"1002081130501",
+    "eurostat:population":6469,
+    "eurostat:population_year":2020,
     "geom:area":0.036756,
-    "geom:area_square_m":278560052.719995,
+    "geom:area_square_m":278560052.720005,
     "geom:bbox":"14.679128913,52.069639605,14.918958796,52.307222312",
     "geom:latitude":52.200056,
     "geom:longitude":14.790413,
@@ -84,6 +96,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081130501",
+        "eurostat:nuts_2021_id":"1002081130501",
         "gp:id":24547663,
         "qs_pg:id":241924
     },
@@ -104,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f18313d93a3bc8a682b37e0c3a2143df",
+    "wof:geomhash":"7159e58eae56fbc81a4d51aa0f985c92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +131,12 @@
         }
     ],
     "wof:id":1125412363,
-    "wof:lastmodified":1582358019,
+    "wof:lastmodified":1684354336,
     "wof:name":"Gmina Cybinka",
     "wof:parent_id":102079913,
     "wof:placetype":"localadmin",
+    "wof:population":6469,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

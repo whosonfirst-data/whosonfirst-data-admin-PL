@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221401502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rumia",
+    "eurostat:nuts_2021_id":"1004221401502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221401502",
+    "eurostat:population":49230,
+    "eurostat:population_year":2020,
     "geom:area":0.004175,
-    "geom:area_square_m":29928732.543281,
+    "geom:area_square_m":29928732.543275,
     "geom:bbox":"18.338665086,54.531997759,18.43116403,54.606407301",
     "geom:latitude":54.566918,
     "geom:longitude":18.383125,
@@ -107,6 +119,8 @@
     "reversegeo:longitude":18.382229,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -114,11 +128,15 @@
         102080267
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221401502",
+        "eurostat:nuts_2021_id":"1004221401502"
+    },
     "wof:coterminous":[
         101756679
     ],
     "wof:country":"PL",
-    "wof:geomhash":"0aa0b88e808ad95009ac27ead01ec492",
+    "wof:geomhash":"b15b97766c9b335bb22fcee75985525c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,10 +147,12 @@
         }
     ],
     "wof:id":1477751989,
-    "wof:lastmodified":1570002000,
+    "wof:lastmodified":1684354386,
     "wof:name":"Rumia",
     "wof:parent_id":102080267,
     "wof:placetype":"localadmin",
+    "wof:population":49230,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

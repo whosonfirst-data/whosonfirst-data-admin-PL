@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mielec",
+    "eurostat:nuts_2021_id":"1006181361105",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361105",
+    "eurostat:population":13389,
+    "eurostat:population_year":2020,
     "geom:area":0.015482,
-    "geom:area_square_m":122300254.183359,
+    "geom:area_square_m":122300254.183415,
     "geom:bbox":"21.346342667,50.223091731,21.610773814,50.36858694",
     "geom:latitude":50.294294,
     "geom:longitude":21.456106,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":21.406761,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361105",
+        "eurostat:nuts_2021_id":"1006181361105"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"d0ef5316807d208e561362115bc09205",
+    "wof:geomhash":"f1ff9b817f3b5f61af6d9bae564c4239",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751649,
-    "wof:lastmodified":1570002306,
+    "wof:lastmodified":1684354368,
     "wof:name":"Gmina Mielec",
     "wof:parent_id":102079597,
     "wof:placetype":"localadmin",
+    "wof:population":13389,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241441705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Koszarawa",
+    "eurostat:nuts_2021_id":"1001241441705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241441705",
+    "eurostat:population":2367,
+    "eurostat:population_year":2020,
     "geom:area":0.00391,
     "geom:area_square_m":31299098.679591,
     "geom:bbox":"19.379909549,49.616254253,19.479245974,49.680527529",
@@ -44,6 +56,8 @@
     "reversegeo:longitude":19.425815,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079411
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241441705",
+        "eurostat:nuts_2021_id":"1001241441705"
+    },
     "wof:coterminous":[
         101827239
     ],
     "wof:country":"PL",
-    "wof:geomhash":"26b580b6a10d96954c7081d2a9909563",
+    "wof:geomhash":"670766b229c1faf662cad524926cc2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751833,
-    "wof:lastmodified":1570004358,
+    "wof:lastmodified":1684354378,
     "wof:name":"Koszarawa",
     "wof:parent_id":102079411,
     "wof:placetype":"localadmin",
+    "wof:population":2367,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121241616",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szerzyny",
+    "eurostat:nuts_2021_id":"1001121241616",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL217",
+    "eurostat:nuts_2021_level_lau":"1001121241616",
+    "eurostat:population":7943,
+    "eurostat:population_year":2020,
     "geom:area":0.010245,
-    "geom:area_square_m":81735966.832296,
+    "geom:area_square_m":81735966.832294,
     "geom:bbox":"21.128473798,49.776104487,21.348953708,49.854670455",
     "geom:latitude":49.817659,
     "geom:longitude":21.231666,
@@ -63,7 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -76,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121241616",
+        "eurostat:nuts_2021_id":"1001121241616",
         "gn:id":757322,
         "gp:id":12618551,
         "qs_pg:id":234886
@@ -88,7 +103,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"972bdf76a316dd6ec9a9f1338d8ee4a8",
+    "wof:geomhash":"7b1e69c011f930ee3690f2f63c60c723",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,12 +114,12 @@
         }
     ],
     "wof:id":1125411279,
-    "wof:lastmodified":1582358015,
+    "wof:lastmodified":1684354334,
     "wof:name":"Szerzyny",
     "wof:parent_id":102079535,
     "wof:placetype":"localadmin",
-    "wof:population":2235,
-    "wof:population_rank":4,
+    "wof:population":7943,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

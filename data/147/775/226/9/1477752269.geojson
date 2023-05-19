@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460416",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Starcza",
+    "eurostat:nuts_2021_id":"1001241460416",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460416",
+    "eurostat:population":2829,
+    "eurostat:population_year":2020,
     "geom:area":0.002556,
     "geom:area_square_m":20028546.963724,
     "geom:bbox":"18.99826529,50.63464049,19.099806539,50.691667837",
@@ -41,6 +53,8 @@
     "reversegeo:longitude":19.06252,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079663
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460416",
+        "eurostat:nuts_2021_id":"1001241460416"
+    },
     "wof:coterminous":[
         101823893
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f2b489b130434002409e26644c98645c",
+    "wof:geomhash":"b661770cddb9bf261d1262d09b7be804",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752269,
-    "wof:lastmodified":1570000056,
+    "wof:lastmodified":1684354401,
     "wof:name":"Starcza",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",
+    "wof:population":2829,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

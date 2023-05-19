@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142700404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sanniki",
+    "eurostat:nuts_2021_id":"1007142700404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL923",
+    "eurostat:nuts_2021_level_lau":"1007142700404",
+    "eurostat:population":5997,
+    "eurostat:population_year":2020,
     "geom:area":0.012471,
-    "geom:area_square_m":94236199.272476,
+    "geom:area_square_m":94236199.272493,
     "geom:bbox":"19.745843019,52.271725709,19.984565912,52.391589822",
     "geom:latitude":52.329461,
     "geom:longitude":19.853351,
@@ -94,7 +106,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -107,6 +120,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142700404",
+        "eurostat:nuts_2021_id":"1007142700404",
         "gn:id":3086288,
         "gp:id":12616678,
         "qs_pg:id":487612
@@ -116,7 +131,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c7a8eb2b8a858b7a3ff01569468691c3",
+    "wof:geomhash":"97e0a3dc8a384479b7d48adb0e0fd30d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,12 +142,12 @@
         }
     ],
     "wof:id":1125346441,
-    "wof:lastmodified":1582357691,
+    "wof:lastmodified":1684354253,
     "wof:name":"Gmina Sanniki",
     "wof:parent_id":102079959,
     "wof:placetype":"localadmin",
-    "wof:population":2000,
-    "wof:population_rank":4,
+    "wof:population":5997,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

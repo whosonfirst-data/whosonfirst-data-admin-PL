@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121231206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trzyci\u0105\u017c",
+    "eurostat:nuts_2021_id":"1001121231206",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL21A",
+    "eurostat:nuts_2021_level_lau":"1001121231206",
+    "eurostat:population":7039,
+    "eurostat:population_year":2020,
     "geom:area":0.012079,
-    "geom:area_square_m":95399928.892316,
+    "geom:area_square_m":95399928.892295,
     "geom:bbox":"19.671618103,50.24934019,19.920946544,50.345693481",
     "geom:latitude":50.304063,
     "geom:longitude":19.795256,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":19.79339,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079555
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121231206",
+        "eurostat:nuts_2021_id":"1001121231206"
+    },
     "wof:coterminous":[
         1126007193
     ],
     "wof:country":"PL",
-    "wof:geomhash":"220f17b401ebb9d378959e8cb2bf7188",
+    "wof:geomhash":"a2542436e6b85060e5aeb735b5ac6ca5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751939,
-    "wof:lastmodified":1569999442,
+    "wof:lastmodified":1684354384,
     "wof:name":"Trzyci\u0105\u017c",
     "wof:parent_id":102079555,
     "wof:placetype":"localadmin",
+    "wof:population":7039,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

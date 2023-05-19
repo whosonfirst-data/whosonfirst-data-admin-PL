@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301590503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kamieniec",
+    "eurostat:nuts_2021_id":"1002301590503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301590503",
+    "eurostat:population":6673,
+    "eurostat:population_year":2020,
     "geom:area":0.017362,
-    "geom:area_square_m":131730157.481176,
+    "geom:area_square_m":131730157.481164,
     "geom:bbox":"16.383018613,52.082019983,16.602993672,52.21887781",
     "geom:latitude":52.150797,
     "geom:longitude":16.485364,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":16.483689,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079879
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301590503",
+        "eurostat:nuts_2021_id":"1002301590503"
+    },
     "wof:coterminous":[
         1126006537
     ],
     "wof:country":"PL",
-    "wof:geomhash":"add5e7c7830f45abf607ee0bb6986abc",
+    "wof:geomhash":"3a077aab68c666d6c7ae299cbcb271a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477751945,
-    "wof:lastmodified":1569999421,
+    "wof:lastmodified":1684354384,
     "wof:name":"Kamieniec",
     "wof:parent_id":102079879,
     "wof:placetype":"localadmin",
+    "wof:population":6673,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

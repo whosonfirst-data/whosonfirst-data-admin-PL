@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zakopane",
+    "eurostat:nuts_2021_id":"1001121691701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691701",
+    "eurostat:population":27010,
+    "eurostat:population_year":2020,
     "geom:area":0.010412,
-    "geom:area_square_m":83998446.893267,
+    "geom:area_square_m":83998446.893269,
     "geom:bbox":"19.900387759,49.218345192,20.04315215,49.333170927",
     "geom:latitude":49.274678,
     "geom:longitude":19.974624,
@@ -216,6 +228,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -228,6 +242,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691701",
+        "eurostat:nuts_2021_id":"1001121691701",
         "gp:id":12618323,
         "qs_pg:id":1153827
     },
@@ -239,7 +255,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cbf4ab258c606f939e95d61fdc2e2bbf",
+    "wof:geomhash":"79d1ae1360ea39473ab80a3f501b3080",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -250,10 +266,12 @@
         }
     ],
     "wof:id":1125356033,
-    "wof:lastmodified":1582357707,
+    "wof:lastmodified":1684354261,
     "wof:name":"Zakopane",
     "wof:parent_id":102079405,
     "wof:placetype":"localadmin",
+    "wof:population":27010,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

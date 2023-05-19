@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mas\u0142owice",
+    "eurostat:nuts_2021_id":"1005101171210",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171210",
+    "eurostat:population":4161,
+    "eurostat:population_year":2020,
     "geom:area":0.014894,
-    "geom:area_square_m":115632512.809258,
+    "geom:area_square_m":115632512.80927,
     "geom:bbox":"19.65593275,51.046492356,19.880122846,51.189531786",
     "geom:latitude":51.108285,
     "geom:longitude":19.767011,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":19.765312,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079711
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171210",
+        "eurostat:nuts_2021_id":"1005101171210"
+    },
     "wof:coterminous":[
         1125885719
     ],
     "wof:country":"PL",
-    "wof:geomhash":"d7109a36fb1f1dc6f572a117a0005ccc",
+    "wof:geomhash":"f64ed0a82d26390d367595c5d6eff802",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752607,
-    "wof:lastmodified":1570000847,
+    "wof:lastmodified":1684354418,
     "wof:name":"Mas\u0142owice",
     "wof:parent_id":102079711,
     "wof:placetype":"localadmin",
+    "wof:population":4161,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

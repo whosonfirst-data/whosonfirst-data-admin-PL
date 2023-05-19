@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142276301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radom",
+    "eurostat:nuts_2021_id":"1007142276301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142276301",
+    "eurostat:population":211371,
+    "eurostat:population_year":2020,
     "geom:area":0.014441,
-    "geom:area_square_m":111388996.209904,
+    "geom:area_square_m":111388996.209893,
     "geom:bbox":"21.053186,51.348621,21.259069,51.485855",
     "geom:latitude":51.406224,
     "geom:longitude":21.156576,
@@ -224,6 +236,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -236,6 +250,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142276301",
+        "eurostat:nuts_2021_id":"1007142276301",
         "gn:id":7532212,
         "gp:id":12617968,
         "qs_pg:id":463407
@@ -249,7 +265,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f2422f8b76d6d1a3fce51a3277c2735d",
+    "wof:geomhash":"80a3d9c222581e38bb84dded6661e4f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -260,10 +276,12 @@
         }
     ],
     "wof:id":1125297083,
-    "wof:lastmodified":1617131183,
+    "wof:lastmodified":1684354188,
     "wof:name":"Radom",
     "wof:parent_id":102079781,
     "wof:placetype":"localadmin",
+    "wof:population":211371,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

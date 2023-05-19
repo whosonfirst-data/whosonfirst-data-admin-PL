@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321641603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Po\u0142czyn-Zdr\u00f3j",
+    "eurostat:nuts_2021_id":"1002321641603",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321641603",
+    "eurostat:population":15118,
+    "eurostat:population_year":2020,
     "geom:area":0.046906,
-    "geom:area_square_m":342876321.311145,
+    "geom:area_square_m":342876321.311199,
     "geom:bbox":"15.906021684,53.644568403,16.26821859,53.900916005",
     "geom:latitude":53.760121,
     "geom:longitude":16.087182,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":16.114636,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102080147
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321641603",
+        "eurostat:nuts_2021_id":"1002321641603"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"fb5eb77a8beff4ff54406a3b83cb21d0",
+    "wof:geomhash":"6793aa2db8a3837bf9a729a22378a694",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752591,
-    "wof:lastmodified":1570000596,
+    "wof:lastmodified":1684354417,
     "wof:name":"Gmina Po\u0142czyn-Zdr\u00f3j",
     "wof:parent_id":102080147,
     "wof:placetype":"localadmin",
+    "wof:population":15118,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

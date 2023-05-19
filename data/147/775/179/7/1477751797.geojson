@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241450703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciasna",
+    "eurostat:nuts_2021_id":"1001241450703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL228",
+    "eurostat:nuts_2021_level_lau":"1001241450703",
+    "eurostat:population":7454,
+    "eurostat:population_year":2020,
     "geom:area":0.017079,
-    "geom:area_square_m":133525077.992021,
+    "geom:area_square_m":133525077.992011,
     "geom:bbox":"18.503623977,50.706929501,18.76502362,50.854144226",
     "geom:latitude":50.781283,
     "geom:longitude":18.621492,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":18.619525,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079621
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241450703",
+        "eurostat:nuts_2021_id":"1001241450703"
+    },
     "wof:coterminous":[
         101823775
     ],
     "wof:country":"PL",
-    "wof:geomhash":"85a87b6f7b93785f1f62e6fe8cb7b192",
+    "wof:geomhash":"f892a2a746c17a1bef87ef7af7c4f117",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751797,
-    "wof:lastmodified":1570004496,
+    "wof:lastmodified":1684354376,
     "wof:name":"Ciasna",
     "wof:parent_id":102079621,
     "wof:placetype":"localadmin",
+    "wof:population":7454,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

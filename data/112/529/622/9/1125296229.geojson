@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dobrze\u0144 Wielki",
+    "eurostat:nuts_2021_id":"1003161320903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320903",
+    "eurostat:population":9478,
+    "eurostat:population_year":2020,
     "geom:area":0.008078,
-    "geom:area_square_m":63147843.729852,
+    "geom:area_square_m":63147843.729863,
     "geom:bbox":"17.768841823,50.737305395,17.92872508,50.839427754",
     "geom:latitude":50.788736,
     "geom:longitude":17.849799,
@@ -69,6 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320903",
+        "eurostat:nuts_2021_id":"1003161320903",
         "gp:id":12616814,
         "qs_pg:id":1211337
     },
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2ce366d73960a64f3bd2c2e363572184",
+    "wof:geomhash":"837370d37c4655a9ff6a83223d95ea79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":1125296229,
-    "wof:lastmodified":1582357821,
+    "wof:lastmodified":1684354187,
     "wof:name":"Dobrze\u0144 Wielki",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",
+    "wof:population":9478,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

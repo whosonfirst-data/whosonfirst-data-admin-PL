@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121221005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kamionka Wielka",
+    "eurostat:nuts_2021_id":"1001121221005",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121221005",
+    "eurostat:population":10432,
+    "eurostat:population_year":2020,
     "geom:area":0.008081,
-    "geom:area_square_m":64791749.451397,
+    "geom:area_square_m":64791749.45141,
     "geom:bbox":"20.743315681,49.539289154,20.91916321,49.622858365",
     "geom:latitude":49.578339,
     "geom:longitude":20.830716,
@@ -26,6 +38,8 @@
     "reversegeo:longitude":20.807421,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -33,11 +47,15 @@
         102079425
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121221005",
+        "eurostat:nuts_2021_id":"1001121221005"
+    },
     "wof:coterminous":[
         101826147
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b530713b480327abf787831a963a8ec1",
+    "wof:geomhash":"ec785544481aaaa65603a17328f10006",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,10 +66,12 @@
         }
     ],
     "wof:id":1477752521,
-    "wof:lastmodified":1570004070,
+    "wof:lastmodified":1684354414,
     "wof:name":"Kamionka Wielka",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",
+    "wof:population":10432,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

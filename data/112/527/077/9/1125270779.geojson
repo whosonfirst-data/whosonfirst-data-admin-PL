@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041081103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dobre",
+    "eurostat:nuts_2021_id":"1004041081103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041081103",
+    "eurostat:population":5352,
+    "eurostat:population_year":2020,
     "geom:area":0.009411,
-    "geom:area_square_m":70533195.075914,
+    "geom:area_square_m":70533195.075911,
     "geom:bbox":"18.489638264,52.643457092,18.677748853,52.725867329",
     "geom:latitude":52.689087,
     "geom:longitude":18.585681,
@@ -73,7 +85,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -86,6 +99,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041081103",
+        "eurostat:nuts_2021_id":"1004041081103",
         "gn:id":3100355,
         "gp:id":12618119,
         "qs_pg:id":1056461
@@ -98,7 +113,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"28567ce3de73602a104126d5207108af",
+    "wof:geomhash":"54e437df4fc10895cd8f2f730554b37a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,12 +124,12 @@
         }
     ],
     "wof:id":1125270779,
-    "wof:lastmodified":1582357794,
+    "wof:lastmodified":1684354140,
     "wof:name":"Dobre",
     "wof:parent_id":102079977,
     "wof:placetype":"localadmin",
-    "wof:population":2500,
-    "wof:population_rank":4,
+    "wof:population":5352,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

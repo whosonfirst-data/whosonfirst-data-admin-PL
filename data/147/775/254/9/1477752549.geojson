@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181351904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strzy\u017c\u00f3w",
+    "eurostat:nuts_2021_id":"1006181351904",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181351904",
+    "eurostat:population":20677,
+    "eurostat:population_year":2020,
     "geom:area":0.017545,
-    "geom:area_square_m":139865714.517906,
+    "geom:area_square_m":139865714.517913,
     "geom:bbox":"21.677129266,49.781207515,21.883604681,49.951902177",
     "geom:latitude":49.85617,
     "geom:longitude":21.784405,
@@ -68,6 +80,8 @@
     "reversegeo:longitude":21.785963,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -75,8 +89,12 @@
         102079483
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181351904",
+        "eurostat:nuts_2021_id":"1006181351904"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"816b18d2f8313985362dbe98122308c0",
+    "wof:geomhash":"560f5e78f39f329657fd70da61cf23d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477752549,
-    "wof:lastmodified":1570003597,
+    "wof:lastmodified":1684354415,
     "wof:name":"Gmina Strzy\u017c\u00f3w",
     "wof:parent_id":102079483,
     "wof:placetype":"localadmin",
+    "wof:population":20677,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142252406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Winnica",
+    "eurostat:nuts_2021_id":"1007142252406",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142252406",
+    "eurostat:population":4091,
+    "eurostat:population_year":2020,
     "geom:area":0.015274,
-    "geom:area_square_m":114620258.794953,
+    "geom:area_square_m":114620258.794969,
     "geom:bbox":"20.844573163,52.556272414,21.003618034,52.715477885",
     "geom:latitude":52.636023,
     "geom:longitude":20.931527,
@@ -77,7 +89,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -90,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142252406",
+        "eurostat:nuts_2021_id":"1007142252406",
         "gn:id":755609,
         "gp:id":12617576,
         "qs_pg:id":1180649
@@ -102,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a8e073e3f0790805b60f34c2a8ecbc4a",
+    "wof:geomhash":"8157a29125c519ee0ec80a3e6602c9d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,12 +128,12 @@
         }
     ],
     "wof:id":1125366809,
-    "wof:lastmodified":1582357966,
+    "wof:lastmodified":1684354276,
     "wof:name":"Winnica",
     "wof:parent_id":102080027,
     "wof:placetype":"localadmin",
-    "wof:population":560,
-    "wof:population_rank":2,
+    "wof:population":4091,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

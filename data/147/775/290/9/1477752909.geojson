@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281541201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowe Miasto Lubawskie",
+    "eurostat:nuts_2021_id":"1004281541201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281541201",
+    "eurostat:population":10850,
+    "eurostat:population_year":2020,
     "geom:area":0.001535,
-    "geom:area_square_m":11310136.859544,
+    "geom:area_square_m":11310136.859545,
     "geom:bbox":"19.549115448,53.406306741,19.618645858,53.444254707",
     "geom:latitude":53.423331,
     "geom:longitude":19.585073,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":19.596125,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102080125
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281541201",
+        "eurostat:nuts_2021_id":"1004281541201"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"5afa797f81966042050c54f278da4ab6",
+    "wof:geomhash":"5a557c66b5230c3510d4dc90568b2374",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477752909,
-    "wof:lastmodified":1570003975,
+    "wof:lastmodified":1684354436,
     "wof:name":"Gmina Nowe Miasto Lubawskie",
     "wof:parent_id":102080125,
     "wof:placetype":"localadmin",
+    "wof:population":10850,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

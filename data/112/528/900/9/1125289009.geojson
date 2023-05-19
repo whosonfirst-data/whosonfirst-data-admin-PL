@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142702702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gozdowo",
+    "eurostat:nuts_2021_id":"1007142702702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL923",
+    "eurostat:nuts_2021_level_lau":"1007142702702",
+    "eurostat:population":5943,
+    "eurostat:population_year":2020,
     "geom:area":0.016808,
-    "geom:area_square_m":125851036.58307,
+    "geom:area_square_m":125851036.583091,
     "geom:bbox":"19.587677763,52.676779373,19.828597466,52.798872137",
     "geom:latitude":52.733006,
     "geom:longitude":19.699571,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":19.697725,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080035
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142702702",
+        "eurostat:nuts_2021_id":"1007142702702"
+    },
     "wof:coterminous":[
         1477863399
     ],
     "wof:country":"PL",
-    "wof:geomhash":"48b895ef4c7c9702672558bb929e084a",
+    "wof:geomhash":"915794d0e8d1cd6ac3dc296d6e4c5415",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125289009,
-    "wof:lastmodified":1569989925,
+    "wof:lastmodified":1684354168,
     "wof:name":"Gozdowo",
     "wof:parent_id":102080035,
     "wof:placetype":"localadmin",
+    "wof:population":5943,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241511403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L\u0119dziny",
+    "eurostat:nuts_2021_id":"1001241511403",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22C",
+    "eurostat:nuts_2021_level_lau":"1001241511403",
+    "eurostat:population":16798,
+    "eurostat:population_year":2020,
     "geom:area":0.003968,
-    "geom:area_square_m":31455235.639227,
+    "geom:area_square_m":31455235.639209,
     "geom:bbox":"19.074581309,50.091920333,19.172492653,50.16501718",
     "geom:latitude":50.126844,
     "geom:longitude":19.123821,
@@ -141,7 +153,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -154,6 +167,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241511403",
+        "eurostat:nuts_2021_id":"1001241511403",
         "gn:id":3093708,
         "gp:id":12617663,
         "qs_pg:id":1164893
@@ -166,7 +181,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3a010a8970e25a4c79e1c9f251dbd2e1",
+    "wof:geomhash":"2d3a5f7360d59c00e71e7b81a58af90d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,11 +192,11 @@
         }
     ],
     "wof:id":1125362425,
-    "wof:lastmodified":1582357966,
+    "wof:lastmodified":1684354267,
     "wof:name":"L\u0119dziny",
     "wof:parent_id":102079475,
     "wof:placetype":"localadmin",
-    "wof:population":16305,
+    "wof:population":16798,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

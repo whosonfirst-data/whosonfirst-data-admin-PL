@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301590407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poniec",
+    "eurostat:nuts_2021_id":"1002301590407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301590407",
+    "eurostat:population":7734,
+    "eurostat:population_year":2020,
     "geom:area":0.017193,
-    "geom:area_square_m":131528682.859022,
+    "geom:area_square_m":131528682.85906,
     "geom:bbox":"16.728851022,51.693389849,16.970263352,51.869467787",
     "geom:latitude":51.779346,
     "geom:longitude":16.860587,
@@ -135,7 +147,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -148,6 +161,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301590407",
+        "eurostat:nuts_2021_id":"1002301590407",
         "gn:id":3088345,
         "gp:id":24548052,
         "qs_pg:id":956340
@@ -157,7 +172,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ed50dcd19aeb08e08b6d957a2ecc6e1c",
+    "wof:geomhash":"3e36803a1be25cf264dff6af9d577017",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,12 +183,12 @@
         }
     ],
     "wof:id":1125365315,
-    "wof:lastmodified":1582357974,
+    "wof:lastmodified":1684354273,
     "wof:name":"Gmina Poniec",
     "wof:parent_id":102079829,
     "wof:placetype":"localadmin",
-    "wof:population":2849,
-    "wof:population_rank":4,
+    "wof:population":7734,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

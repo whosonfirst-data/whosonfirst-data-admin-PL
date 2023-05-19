@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241501607",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pilica",
+    "eurostat:nuts_2021_id":"1001241501607",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22B",
+    "eurostat:nuts_2021_level_lau":"1001241501607",
+    "eurostat:population":8570,
+    "eurostat:population_year":2020,
     "geom:area":0.018084,
-    "geom:area_square_m":142277990.0125,
+    "geom:area_square_m":142277990.012497,
     "geom:bbox":"19.593946825,50.404504165,19.791918327,50.556363832",
     "geom:latitude":50.486642,
     "geom:longitude":19.691076,
@@ -56,6 +68,8 @@
     "reversegeo:longitude":19.708935,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -63,8 +77,12 @@
         102079613
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241501607",
+        "eurostat:nuts_2021_id":"1001241501607"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"2ed60dd1a3395fda7fa8a9fc466b2e97",
+    "wof:geomhash":"b45251d1154d5d4c89076d717f1e6705",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477752279,
-    "wof:lastmodified":1569999652,
+    "wof:lastmodified":1684354402,
     "wof:name":"Gmina Pilica",
     "wof:parent_id":102079613,
     "wof:placetype":"localadmin",
+    "wof:population":8570,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

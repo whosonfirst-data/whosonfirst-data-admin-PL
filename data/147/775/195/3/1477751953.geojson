@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201391202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Filip\u00f3w",
+    "eurostat:nuts_2021_id":"1006201391202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201391202",
+    "eurostat:population":4292,
+    "eurostat:population_year":2020,
     "geom:area":0.020753,
-    "geom:area_square_m":150169106.596503,
+    "geom:area_square_m":150169106.596517,
     "geom:bbox":"22.476556315,54.121841182,22.808397096,54.251396735",
     "geom:latitude":54.182542,
     "geom:longitude":22.624892,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":22.622407,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080265
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201391202",
+        "eurostat:nuts_2021_id":"1006201391202"
+    },
     "wof:coterminous":[
         101819503
     ],
     "wof:country":"PL",
-    "wof:geomhash":"38a49ce41a7838905eb9a06a7e1c928e",
+    "wof:geomhash":"c4f07dda3e16c3a96902c713ff053b38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751953,
-    "wof:lastmodified":1569999245,
+    "wof:lastmodified":1684354384,
     "wof:name":"Filip\u00f3w",
     "wof:parent_id":102080265,
     "wof:placetype":"localadmin",
+    "wof:population":4292,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

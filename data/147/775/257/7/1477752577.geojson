@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161310602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Namys\u0142\u00f3w",
+    "eurostat:nuts_2021_id":"1003161310602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161310602",
+    "eurostat:population":26172,
+    "eurostat:population_year":2020,
     "geom:area":0.037198,
-    "geom:area_square_m":289018396.199448,
+    "geom:area_square_m":289018396.199438,
     "geom:bbox":"17.514284005,50.973319552,17.882778237,51.194600209",
     "geom:latitude":51.070633,
     "geom:longitude":17.70186,
@@ -71,6 +83,8 @@
     "reversegeo:longitude":17.714355,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -78,8 +92,12 @@
         102079673
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161310602",
+        "eurostat:nuts_2021_id":"1003161310602"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"17da1629a19f31231f736ad4e6002232",
+    "wof:geomhash":"5f0ecf7d893e62c61746a6ddcb7cbe4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +108,12 @@
         }
     ],
     "wof:id":1477752577,
-    "wof:lastmodified":1570000456,
+    "wof:lastmodified":1684354417,
     "wof:name":"Gmina Namys\u0142\u00f3w",
     "wof:parent_id":102079673,
     "wof:placetype":"localadmin",
+    "wof:population":26172,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

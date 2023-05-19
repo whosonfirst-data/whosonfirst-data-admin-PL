@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142253702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kuczbork-Osada",
+    "eurostat:nuts_2021_id":"1007142253702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142253702",
+    "eurostat:population":4714,
+    "eurostat:population_year":2020,
     "geom:area":0.016313,
-    "geom:area_square_m":121096633.956335,
+    "geom:area_square_m":121096633.956357,
     "geom:bbox":"19.924798445,53.036528723,20.137931065,53.168116631",
     "geom:latitude":53.106899,
     "geom:longitude":20.041758,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":20.052285,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080069
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142253702",
+        "eurostat:nuts_2021_id":"1007142253702"
+    },
     "wof:coterminous":[
         1125823891
     ],
     "wof:country":"PL",
-    "wof:geomhash":"c0540f0d72ece3edcacbbb6e5a5dda2a",
+    "wof:geomhash":"2984e6eba435fb8f8c3db499ad5dbd44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751505,
-    "wof:lastmodified":1569999122,
+    "wof:lastmodified":1684354361,
     "wof:name":"Kuczbork-Osada",
     "wof:parent_id":102080069,
     "wof:placetype":"localadmin",
+    "wof:population":4714,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121241614",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zakliczyn",
+    "eurostat:nuts_2021_id":"1001121241614",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL217",
+    "eurostat:nuts_2021_level_lau":"1001121241614",
+    "eurostat:population":12488,
+    "eurostat:population_year":2020,
     "geom:area":0.015254,
-    "geom:area_square_m":121650113.054841,
+    "geom:area_square_m":121650113.054895,
     "geom:bbox":"20.697900688,49.761402428,20.88284474,49.904387478",
     "geom:latitude":49.837143,
     "geom:longitude":20.790254,
@@ -153,7 +165,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -166,6 +179,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121241614",
+        "eurostat:nuts_2021_id":"1001121241614",
         "gn:id":754092,
         "gp:id":12617674,
         "qs_pg:id":1093970
@@ -175,7 +190,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e248a45907966db5f71661afda0106b6",
+    "wof:geomhash":"e10aad6e3eee4e3beb3f178310b4d7d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,12 +201,12 @@
         }
     ],
     "wof:id":1125285159,
-    "wof:lastmodified":1582357788,
+    "wof:lastmodified":1684354157,
     "wof:name":"Gmina Zakliczyn",
     "wof:parent_id":102079535,
     "wof:placetype":"localadmin",
-    "wof:population":1534,
-    "wof:population_rank":3,
+    "wof:population":12488,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

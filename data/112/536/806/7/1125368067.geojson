@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301581012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u015alesin",
+    "eurostat:nuts_2021_id":"1002301581012",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301581012",
+    "eurostat:population":14067,
+    "eurostat:population_year":2020,
     "geom:area":0.019213,
-    "geom:area_square_m":145066262.897656,
+    "geom:area_square_m":145066262.89768,
     "geom:bbox":"18.220445906,52.293894449,18.447911351,52.435407039",
     "geom:latitude":52.365313,
     "geom:longitude":18.324895,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301581012",
+        "eurostat:nuts_2021_id":"1002301581012",
         "gp:id":24547909,
         "qs_pg:id":1181948
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d2291d7bef73bf21b4b2d97b68d387c2",
+    "wof:geomhash":"140f57bee60dc50f39289f00ed437147",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125368067,
-    "wof:lastmodified":1582357979,
+    "wof:lastmodified":1684354278,
     "wof:name":"Gmina \u015alesin",
     "wof:parent_id":102079943,
     "wof:placetype":"localadmin",
+    "wof:population":14067,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

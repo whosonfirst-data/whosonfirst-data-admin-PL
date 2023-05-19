@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Ma\u0142opolskie",
+    "eurostat:name_local":"Ma\u0142opolskie",
+    "eurostat:nuts_2021_id":"PL21",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:population":3368893,
+    "eurostat:population_year":2022,
     "geom:area":1.898506,
-    "geom:area_square_m":15133719434.1178,
+    "geom:area_square_m":15133719258.157183,
     "geom:bbox":"19.083123,49.178476,21.421742,50.520501",
     "geom:latitude":49.858947,
     "geom:longitude":20.269334,
@@ -361,8 +371,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-21",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"15,183",
     "statoids:area_mi":"5,862",
     "statoids:as_of_date":"2011-03-21",
@@ -384,6 +394,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14373,
+        "eurostat:nuts_2021_id":"PL21",
         "fips:code":"PL77",
         "gn:id":858786,
         "gp:id":12577940,
@@ -397,7 +408,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bf8ba652846c60dcec7608659c07e003",
+    "wof:geomhash":"804b2d3ff6a0d17429c1cfe6ea657e03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -415,12 +426,12 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1614895727,
+    "wof:lastmodified":1684351465,
     "wof:name":"Ma\u0142opolskie",
     "wof:parent_id":85633723,
     "wof:placetype":"region",
     "wof:placetype_local":"voivodship",
-    "wof:population":3337471,
+    "wof:population":3368893,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:shortcode":"MA",

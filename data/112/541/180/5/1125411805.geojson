@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281550608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ryn",
+    "eurostat:nuts_2021_id":"1004281550608",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL623",
+    "eurostat:nuts_2021_level_lau":"1004281550608",
+    "eurostat:population":5668,
+    "eurostat:population_year":2020,
     "geom:area":0.027984,
-    "geom:area_square_m":203688821.320293,
+    "geom:area_square_m":203688821.320315,
     "geom:bbox":"21.429664,53.854607,21.719957,54.063369",
     "geom:latitude":53.939091,
     "geom:longitude":21.572777,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -94,11 +108,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080235,
-        85687305
+        85687305,
+        102080235
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281550608",
+        "eurostat:nuts_2021_id":"1004281550608",
         "gp:id":24547717,
         "qs_pg:id":238945
     },
@@ -110,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6b943b7aa675813ddcb9f2ba16387f61",
+    "wof:geomhash":"0ed790a5d343c9c070abeff8b3c8d1bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":1125411805,
-    "wof:lastmodified":1607726493,
+    "wof:lastmodified":1684354335,
     "wof:name":"Gmina Ryn",
     "wof:parent_id":102080235,
     "wof:placetype":"localadmin",
+    "wof:population":5668,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

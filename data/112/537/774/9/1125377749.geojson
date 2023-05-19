@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141303205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0141omianki",
+    "eurostat:nuts_2021_id":"1007141303205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141303205",
+    "eurostat:population":27203,
+    "eurostat:population_year":2020,
     "geom:area":0.005126,
-    "geom:area_square_m":38715537.538032,
+    "geom:area_square_m":38715537.538023,
     "geom:bbox":"20.801813405,52.313301972,20.925832056,52.379322738",
     "geom:latitude":52.349791,
     "geom:longitude":20.869911,
@@ -137,7 +149,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -150,6 +163,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141303205",
+        "eurostat:nuts_2021_id":"1007141303205",
         "gn:id":766042,
         "gp:id":24548330,
         "qs_pg:id":129317
@@ -159,7 +174,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b36070b823e552d400785c844afdeb03",
+    "wof:geomhash":"82fd8291d9906414af5cfca3a7a9084e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,12 +185,12 @@
         }
     ],
     "wof:id":1125377749,
-    "wof:lastmodified":1582357864,
+    "wof:lastmodified":1684354296,
     "wof:name":"Gmina \u0141omianki",
     "wof:parent_id":102079949,
     "wof:placetype":"localadmin",
-    "wof:population":15315,
-    "wof:population_rank":6,
+    "wof:population":27203,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

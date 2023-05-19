@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101181807",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wierusz\u00f3w",
+    "eurostat:nuts_2021_id":"1005101181807",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101181807",
+    "eurostat:population":14275,
+    "eurostat:population_year":2020,
     "geom:area":0.012525,
-    "geom:area_square_m":96799462.608742,
+    "geom:area_square_m":96799462.608758,
     "geom:bbox":"18.074521495,51.255459403,18.25255545,51.391423632",
     "geom:latitude":51.315025,
     "geom:longitude":18.163144,
@@ -141,6 +153,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -153,6 +167,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101181807",
+        "eurostat:nuts_2021_id":"1005101181807",
         "gp:id":24548758,
         "qs_pg:id":1260805
     },
@@ -161,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"40d5b71785d0eece3879aa9e7f1d823c",
+    "wof:geomhash":"b064403a6735b4da93b983bd465393bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +188,12 @@
         }
     ],
     "wof:id":1125324965,
-    "wof:lastmodified":1582357735,
+    "wof:lastmodified":1684354233,
     "wof:name":"Gmina Wierusz\u00f3w",
     "wof:parent_id":102079731,
     "wof:placetype":"localadmin",
+    "wof:population":14275,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

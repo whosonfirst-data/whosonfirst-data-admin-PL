@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rudnik",
+    "eurostat:nuts_2021_id":"1006061100609",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100609",
+    "eurostat:population":3009,
+    "eurostat:population_year":2020,
     "geom:area":0.011301,
-    "geom:area_square_m":88195047.949605,
+    "geom:area_square_m":88195047.949621,
     "geom:bbox":"22.874626729,50.804021952,23.033605809,50.918558922",
     "geom:latitude":50.863986,
     "geom:longitude":22.953154,
@@ -96,7 +108,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -109,6 +122,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100609",
+        "eurostat:nuts_2021_id":"1006061100609",
         "gn:id":760054,
         "gp:id":12618334,
         "qs_pg:id":987536
@@ -121,7 +136,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c799f8e86092f9a2906e2af1375f2834",
+    "wof:geomhash":"97389677e42f91753ddf7cd3b2da0bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,12 +147,12 @@
         }
     ],
     "wof:id":1125372719,
-    "wof:lastmodified":1582357859,
+    "wof:lastmodified":1684354287,
     "wof:name":"Rudnik",
     "wof:parent_id":102079745,
     "wof:placetype":"localadmin",
-    "wof:population":543,
-    "wof:population_rank":2,
+    "wof:population":3009,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

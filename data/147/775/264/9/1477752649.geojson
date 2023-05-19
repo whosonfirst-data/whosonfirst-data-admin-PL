@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061121103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Adam\u00f3w",
+    "eurostat:nuts_2021_id":"1006061121103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061121103",
+    "eurostat:population":5594,
+    "eurostat:population_year":2020,
     "geom:area":0.012834,
-    "geom:area_square_m":98318083.149198,
+    "geom:area_square_m":98318083.149193,
     "geom:bbox":"22.114939872,51.644703362,22.312608507,51.771130752",
     "geom:latitude":51.716042,
     "geom:longitude":22.211241,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":22.203052,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079925
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061121103",
+        "eurostat:nuts_2021_id":"1006061121103"
+    },
     "wof:coterminous":[
         101817569
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a86f5459fde9d8c2e5372b0b1391117a",
+    "wof:geomhash":"17a25c1554306bb10a2fe25796698569",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752649,
-    "wof:lastmodified":1570003952,
+    "wof:lastmodified":1684354421,
     "wof:name":"Adam\u00f3w",
     "wof:parent_id":102079925,
     "wof:placetype":"localadmin",
+    "wof:population":5594,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

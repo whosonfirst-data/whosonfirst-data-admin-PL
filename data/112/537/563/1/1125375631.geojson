@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101181803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Galewice",
+    "eurostat:nuts_2021_id":"1005101181803",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101181803",
+    "eurostat:population":6115,
+    "eurostat:population_year":2020,
     "geom:area":0.017514,
-    "geom:area_square_m":135178141.892253,
+    "geom:area_square_m":135178141.892232,
     "geom:bbox":"18.17129065,51.313701826,18.387582978,51.454341833",
     "geom:latitude":51.377524,
     "geom:longitude":18.26717,
@@ -69,7 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -82,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101181803",
+        "eurostat:nuts_2021_id":"1005101181803",
         "gn:id":3099544,
         "gp:id":12617432,
         "qs_pg:id":998970
@@ -94,7 +109,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c249003612aa8a90fd262d4f3f852941",
+    "wof:geomhash":"2cbbbcd6aa3da9893b966ac0c1c16a75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,12 +120,12 @@
         }
     ],
     "wof:id":1125375631,
-    "wof:lastmodified":1582357853,
+    "wof:lastmodified":1684354291,
     "wof:name":"Galewice",
     "wof:parent_id":102079731,
     "wof:placetype":"localadmin",
-    "wof:population":1200,
-    "wof:population_rank":3,
+    "wof:population":6115,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081141008",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wymiarki",
+    "eurostat:nuts_2021_id":"1002081141008",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081141008",
+    "eurostat:population":2263,
+    "eurostat:population_year":2020,
     "geom:area":0.008168,
-    "geom:area_square_m":62845824.726475,
+    "geom:area_square_m":62845824.726481,
     "geom:bbox":"14.98757627,51.48171023,15.169602235,51.561678989",
     "geom:latitude":51.520187,
     "geom:longitude":15.07469,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":15.073323,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079759
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002081141008",
+        "eurostat:nuts_2021_id":"1002081141008"
+    },
     "wof:coterminous":[
         101821379
     ],
     "wof:country":"PL",
-    "wof:geomhash":"ac7751d8ea63e66c472fb0cae9cea350",
+    "wof:geomhash":"9bbf83056314c904bf274e440d4315af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751425,
-    "wof:lastmodified":1570001397,
+    "wof:lastmodified":1684354357,
     "wof:name":"Wymiarki",
     "wof:parent_id":102079759,
     "wof:placetype":"localadmin",
+    "wof:population":2263,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021032101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bogusz\u00f3w-Gorce",
+    "eurostat:nuts_2021_id":"1003021032101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021032101",
+    "eurostat:population":15310,
+    "eurostat:population_year":2020,
     "geom:area":0.003442,
-    "geom:area_square_m":26926992.393492,
+    "geom:area_square_m":26926992.393495,
     "geom:bbox":"16.154928209,50.719996244,16.256081251,50.790202833",
     "geom:latitude":50.751537,
     "geom:longitude":16.203767,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021032101",
+        "eurostat:nuts_2021_id":"1003021032101",
         "gn:id":3103034,
         "gp:id":12617874,
         "qs_pg:id":528167
@@ -165,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7c32804f074ea505bd8b068b97d3fe51",
+    "wof:geomhash":"8166b6ba26ef7f7605274a8c47231875",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,11 +191,11 @@
         }
     ],
     "wof:id":1125328571,
-    "wof:lastmodified":1582357731,
+    "wof:lastmodified":1684354239,
     "wof:name":"Bogusz\u00f3w-Gorce",
     "wof:parent_id":102079595,
     "wof:placetype":"localadmin",
-    "wof:population":16726,
+    "wof:population":15310,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

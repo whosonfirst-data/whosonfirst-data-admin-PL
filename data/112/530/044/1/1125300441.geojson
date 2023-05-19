@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221401509",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szemud",
+    "eurostat:nuts_2021_id":"1004221401509",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221401509",
+    "eurostat:population":18240,
+    "eurostat:population_year":2020,
     "geom:area":0.024508,
-    "geom:area_square_m":176115508.229284,
+    "geom:area_square_m":176115508.229286,
     "geom:bbox":"18.094797551,54.408196344,18.418827329,54.535359781",
     "geom:latitude":54.469276,
     "geom:longitude":18.242279,
@@ -83,7 +95,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -96,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221401509",
+        "eurostat:nuts_2021_id":"1004221401509",
         "gn:id":3083725,
         "gp:id":12617320,
         "qs_pg:id":487626
@@ -108,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d92c6ea96ff0b5edbc43cef092747819",
+    "wof:geomhash":"2182d9c887f45303b3ef039d69795baf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,12 +134,12 @@
         }
     ],
     "wof:id":1125300441,
-    "wof:lastmodified":1582357893,
+    "wof:lastmodified":1684354191,
     "wof:name":"Szemud",
     "wof:parent_id":102080267,
     "wof:placetype":"localadmin",
-    "wof:population":1639,
-    "wof:population_rank":3,
+    "wof:population":18240,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

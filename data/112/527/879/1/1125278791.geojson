@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Opatowiec",
+    "eurostat:nuts_2021_id":"1005261530304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530304",
+    "eurostat:population":3283,
+    "eurostat:population_year":2020,
     "geom:area":0.008649,
-    "geom:area_square_m":68359677.381904,
+    "geom:area_square_m":68359677.381879,
     "geom:bbox":"20.593659186,50.201404181,20.774727531,50.321459393",
     "geom:latitude":50.265938,
     "geom:longitude":20.680943,
@@ -117,7 +129,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -130,6 +143,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530304",
+        "eurostat:nuts_2021_id":"1005261530304",
         "gn:id":763120,
         "gp:id":12618366,
         "qs_pg:id":1078188
@@ -139,7 +154,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"72029cf7aa16173c13a5f5f9182c9e23",
+    "wof:geomhash":"93bb7f7cdfcc839fd1cc2fc3807c4a03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,12 +165,12 @@
         }
     ],
     "wof:id":1125278791,
-    "wof:lastmodified":1582357799,
+    "wof:lastmodified":1684354147,
     "wof:name":"Gmina Opatowiec",
     "wof:parent_id":102079561,
     "wof:placetype":"localadmin",
-    "wof:population":410,
-    "wof:population_rank":2,
+    "wof:population":3283,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

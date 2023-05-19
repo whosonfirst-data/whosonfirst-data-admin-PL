@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221420903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lichnowy",
+    "eurostat:nuts_2021_id":"1004221420903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221420903",
+    "eurostat:population":4613,
+    "eurostat:population_year":2020,
     "geom:area":0.012204,
-    "geom:area_square_m":88459802.117979,
+    "geom:area_square_m":88459802.117994,
     "geom:bbox":"18.805948857,54.049251289,18.992944272,54.166399866",
     "geom:latitude":54.11115,
     "geom:longitude":18.896022,
@@ -44,7 +56,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -53,6 +66,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221420903",
+        "eurostat:nuts_2021_id":"1004221420903",
         "gn:id":7532264,
         "qs_pg:id":691357
     },
@@ -64,7 +79,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d1716cf25c6d90168ada97db27adc82c",
+    "wof:geomhash":"69cacc6dc8ac2f8d6c64e3e06f24e253",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,11 +90,11 @@
         }
     ],
     "wof:id":1125374341,
-    "wof:lastmodified":1582357861,
+    "wof:lastmodified":1684354289,
     "wof:name":"Lichnowy",
     "wof:parent_id":102080201,
     "wof:placetype":"localadmin",
-    "wof:population":4591,
+    "wof:population":4613,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

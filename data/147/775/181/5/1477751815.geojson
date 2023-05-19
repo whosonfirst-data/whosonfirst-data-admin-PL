@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jasion\u00f3wka",
+    "eurostat:nuts_2021_id":"1006201390802",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390802",
+    "eurostat:population":2765,
+    "eurostat:population_year":2020,
     "geom:area":0.013075,
-    "geom:area_square_m":96415098.985895,
+    "geom:area_square_m":96415098.985893,
     "geom:bbox":"22.927326045,53.319620935,23.132527993,53.46631626",
     "geom:latitude":53.39215,
     "geom:longitude":23.033124,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":23.017599,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080175
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390802",
+        "eurostat:nuts_2021_id":"1006201390802"
+    },
     "wof:coterminous":[
         1125799855
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a1bd34e6559e3e8a87d7929e9d90bfbf",
+    "wof:geomhash":"9bb7b61e19a9bb17d94c440550f9772f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751815,
-    "wof:lastmodified":1570001819,
+    "wof:lastmodified":1684354377,
     "wof:name":"Jasion\u00f3wka",
     "wof:parent_id":102080175,
     "wof:placetype":"localadmin",
+    "wof:population":2765,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

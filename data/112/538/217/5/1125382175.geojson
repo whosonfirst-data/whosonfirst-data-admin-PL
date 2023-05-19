@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241511401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bieru\u0144",
+    "eurostat:nuts_2021_id":"1001241511401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22C",
+    "eurostat:nuts_2021_level_lau":"1001241511401",
+    "eurostat:population":19507,
+    "eurostat:population_year":2020,
     "geom:area":0.005092,
-    "geom:area_square_m":40401130.79273,
+    "geom:area_square_m":40401130.792727,
     "geom:bbox":"19.053694298,50.056210265,19.233570493,50.112548724",
     "geom:latitude":50.079879,
     "geom:longitude":19.130901,
@@ -128,6 +140,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -136,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241511401",
+        "eurostat:nuts_2021_id":"1001241511401",
         "gn:id":7531497,
         "qs_pg:id":1154812
     },
@@ -147,7 +163,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4b00714fbcd3790f72705eb8b5da3e97",
+    "wof:geomhash":"8909c41d0ea58a49481f450bc01edb8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,10 +174,12 @@
         }
     ],
     "wof:id":1125382175,
-    "wof:lastmodified":1582357930,
+    "wof:lastmodified":1684354299,
     "wof:name":"Bieru\u0144",
     "wof:parent_id":102079475,
     "wof:placetype":"localadmin",
+    "wof:population":19507,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"K\u0142obuck",
+    "eurostat:nuts_2021_id":"1001241460601",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460601",
+    "eurostat:population":20327,
+    "eurostat:population_year":2020,
     "geom:area":0.016617,
-    "geom:area_square_m":129568243.475281,
+    "geom:area_square_m":129568243.475285,
     "geom:bbox":"18.853703371,50.844027116,19.111564667,50.969665882",
     "geom:latitude":50.905924,
     "geom:longitude":18.992087,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":19.015384,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079667
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460601",
+        "eurostat:nuts_2021_id":"1001241460601"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"ebc6185fb6d7047cd6a8cb15c9ecde33",
+    "wof:geomhash":"d603cc6e5c38329189d49c6e4e381b6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751257,
-    "wof:lastmodified":1570004540,
+    "wof:lastmodified":1684354349,
     "wof:name":"Gmina K\u0142obuck",
     "wof:parent_id":102079667,
     "wof:placetype":"localadmin",
+    "wof:population":20327,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

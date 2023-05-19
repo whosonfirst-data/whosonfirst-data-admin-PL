@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141291201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mi\u0144sk Mazowiecki",
+    "eurostat:nuts_2021_id":"1007141291201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL912",
+    "eurostat:nuts_2021_level_lau":"1007141291201",
+    "eurostat:population":40999,
+    "eurostat:population_year":2020,
     "geom:area":0.001733,
-    "geom:area_square_m":13138763.086026,
+    "geom:area_square_m":13138763.086025,
     "geom:bbox":"21.509376368,52.159922884,21.603928414,52.198040663",
     "geom:latitude":52.177683,
     "geom:longitude":21.560241,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":21.559525,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079965
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007141291201",
+        "eurostat:nuts_2021_id":"1007141291201"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"99e92bdcda15772e3aad4b89aa49a877",
+    "wof:geomhash":"38eb5520c671079047411663e48a8536",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751419,
-    "wof:lastmodified":1570004419,
+    "wof:lastmodified":1684354356,
     "wof:name":"Gmina Mi\u0144sk Mazowiecki",
     "wof:parent_id":102079965,
     "wof:placetype":"localadmin",
+    "wof:population":40999,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

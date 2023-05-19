@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142252004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czerwi\u0144sk nad Wis\u0142\u0105",
+    "eurostat:nuts_2021_id":"1007142252004",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142252004",
+    "eurostat:population":7640,
+    "eurostat:population_year":2020,
     "geom:area":0.019042,
-    "geom:area_square_m":143559144.157752,
+    "geom:area_square_m":143559144.157743,
     "geom:bbox":"20.222376161,52.381137204,20.497473113,52.488289681",
     "geom:latitude":52.431662,
     "geom:longitude":20.353465,
@@ -86,7 +98,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -99,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142252004",
+        "eurostat:nuts_2021_id":"1007142252004",
         "gn:id":773751,
         "gp:id":12617728,
         "qs_pg:id":24047
@@ -111,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d9ea33008a00ce673f72fb8619e4bfc6",
+    "wof:geomhash":"bb5fea0d12c40cfb91a35e208fa9cf23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,12 +137,12 @@
         }
     ],
     "wof:id":1125324275,
-    "wof:lastmodified":1582357741,
+    "wof:lastmodified":1684354228,
     "wof:name":"Czerwi\u0144sk nad Wis\u0142\u0105",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",
-    "wof:population":1200,
-    "wof:population_rank":3,
+    "wof:population":7640,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

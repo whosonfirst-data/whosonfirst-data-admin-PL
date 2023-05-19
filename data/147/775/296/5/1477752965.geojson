@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241441703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gilowice",
+    "eurostat:nuts_2021_id":"1001241441703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241441703",
+    "eurostat:population":6251,
+    "eurostat:population_year":2020,
     "geom:area":0.003502,
-    "geom:area_square_m":28000774.656472,
+    "geom:area_square_m":28000774.656473,
     "geom:bbox":"19.247851134,49.682556911,19.354779933,49.742660679",
     "geom:latitude":49.709012,
     "geom:longitude":19.302068,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":19.311776,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079411
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241441703",
+        "eurostat:nuts_2021_id":"1001241441703"
+    },
     "wof:coterminous":[
         101827237
     ],
     "wof:country":"PL",
-    "wof:geomhash":"4d217a8edd460927b1b10b60c7860a4c",
+    "wof:geomhash":"ce396754a71a5576cec4b786dabf4b95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477752965,
-    "wof:lastmodified":1570003679,
+    "wof:lastmodified":1684354439,
     "wof:name":"Gilowice",
     "wof:parent_id":102079411,
     "wof:placetype":"localadmin",
+    "wof:population":6251,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sandomierz",
+    "eurostat:nuts_2021_id":"1005261530901",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530901",
+    "eurostat:population":23362,
+    "eurostat:population_year":2020,
     "geom:area":0.00365,
-    "geom:area_square_m":28594877.033675,
+    "geom:area_square_m":28594877.033686,
     "geom:bbox":"21.700373581,50.641590227,21.793820931,50.717569207",
     "geom:latitude":50.680343,
     "geom:longitude":21.751167,
@@ -186,6 +198,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -198,6 +212,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530901",
+        "eurostat:nuts_2021_id":"1005261530901",
         "gp:id":12618452,
         "qs_pg:id":1160696
     },
@@ -209,7 +225,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2a82c746dfa8587ae63dc71455e94eb4",
+    "wof:geomhash":"3fd1ccc66781daf8bd30a6e12b1a575c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -220,10 +236,12 @@
         }
     ],
     "wof:id":1125358931,
-    "wof:lastmodified":1582357708,
+    "wof:lastmodified":1684354265,
     "wof:name":"Sandomierz",
     "wof:parent_id":102079681,
     "wof:placetype":"localadmin",
+    "wof:population":23362,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

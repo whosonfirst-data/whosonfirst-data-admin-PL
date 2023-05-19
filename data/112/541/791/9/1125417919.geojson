@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181340409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rokietnica",
+    "eurostat:nuts_2021_id":"1006181340409",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181340409",
+    "eurostat:population":4349,
+    "eurostat:population_year":2020,
     "geom:area":0.007141,
-    "geom:area_square_m":56893046.94021,
+    "geom:area_square_m":56893046.940213,
     "geom:bbox":"22.563364748,49.837386508,22.702125653,49.931030331",
     "geom:latitude":49.886335,
     "geom:longitude":22.626246,
@@ -69,7 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -82,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181340409",
+        "eurostat:nuts_2021_id":"1006181340409",
         "gn:id":760404,
         "gp:id":12618548,
         "qs_pg:id":253333
@@ -94,7 +109,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"84e644e4c4c9bd35efce451c6ba8440f",
+    "wof:geomhash":"8ed9073850e8ede8204a764ab9a9075c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1125417919,
-    "wof:lastmodified":1582358009,
+    "wof:lastmodified":1684354340,
     "wof:name":"Rokietnica",
     "wof:parent_id":102079573,
     "wof:placetype":"localadmin",
-    "wof:population":2500,
+    "wof:population":4349,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

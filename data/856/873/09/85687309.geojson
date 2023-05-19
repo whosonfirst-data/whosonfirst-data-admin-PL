@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Lubelskie",
+    "eurostat:name_local":"Lubelskie",
+    "eurostat:nuts_2021_id":"PL81",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:population":2055257,
+    "eurostat:population_year":2022,
     "geom:area":3.232313,
-    "geom:area_square_m":25032014682.276894,
+    "geom:area_square_m":25032013897.891628,
     "geom:bbox":"21.615543,50.251829,24.145783,52.287841",
     "geom:latitude":51.220719,
     "geom:longitude":22.900267,
@@ -403,8 +413,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-21",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"25,122",
     "statoids:area_mi":"9,700",
     "statoids:as_of_date":"2011-03-21",
@@ -426,6 +436,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14349,
+        "eurostat:nuts_2021_id":"PL81",
         "fips:code":"PL75",
         "gn:id":858785,
         "gp:id":12577938,
@@ -439,7 +450,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7629a1830e4937d05ce78abb9ee96812",
+    "wof:geomhash":"0ec0cbe5b26e4813493e9ed0cc2b8793",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -457,12 +468,12 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1614895721,
+    "wof:lastmodified":1684351469,
     "wof:name":"Lubelskie",
     "wof:parent_id":85633723,
     "wof:placetype":"region",
     "wof:placetype_local":"voivodship",
-    "wof:population":2175700,
+    "wof:population":2055257,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:shortcode":"LU",

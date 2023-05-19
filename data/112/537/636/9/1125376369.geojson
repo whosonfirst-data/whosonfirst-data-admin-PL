@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121221003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gr\u00f3dek nad Dunajcem",
+    "eurostat:nuts_2021_id":"1001121221003",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121221003",
+    "eurostat:population":9252,
+    "eurostat:population_year":2020,
     "geom:area":0.011003,
-    "geom:area_square_m":87903546.669874,
+    "geom:area_square_m":87903546.669836,
     "geom:bbox":"20.645962842,49.694137419,20.828395397,49.806852968",
     "geom:latitude":49.752854,
     "geom:longitude":20.735441,
@@ -60,6 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121221003",
+        "eurostat:nuts_2021_id":"1001121221003",
         "gp:id":12617255,
         "qs_pg:id":1001232
     },
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e4d9f57495d03c13a960d03a3bc0c7ba",
+    "wof:geomhash":"6459735d156fcfe6768e7307f64b0c51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":1125376369,
-    "wof:lastmodified":1582357863,
+    "wof:lastmodified":1684354294,
     "wof:name":"Gr\u00f3dek nad Dunajcem",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",
+    "wof:population":9252,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

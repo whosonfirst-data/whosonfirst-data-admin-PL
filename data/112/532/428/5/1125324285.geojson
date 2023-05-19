@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301591503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miedzichowo",
+    "eurostat:nuts_2021_id":"1002301591503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301591503",
+    "eurostat:population":3695,
+    "eurostat:population_year":2020,
     "geom:area":0.027502,
-    "geom:area_square_m":207485677.664502,
+    "geom:area_square_m":207485677.664487,
     "geom:bbox":"15.804058445,52.322240079,16.169485567,52.483582505",
     "geom:latitude":52.40095,
     "geom:longitude":15.982962,
@@ -71,7 +83,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -84,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301591503",
+        "eurostat:nuts_2021_id":"1002301591503",
         "gn:id":3092000,
         "gp:id":12617735,
         "qs_pg:id":24048
@@ -96,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1e86f502503840df0c2c1d1afac02611",
+    "wof:geomhash":"7e40599d26509e8e3fc7910dcf4993e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,12 +122,12 @@
         }
     ],
     "wof:id":1125324285,
-    "wof:lastmodified":1582357737,
+    "wof:lastmodified":1684354228,
     "wof:name":"Miedzichowo",
     "wof:parent_id":102079915,
     "wof:placetype":"localadmin",
-    "wof:population":471,
-    "wof:population_rank":2,
+    "wof:population":3695,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

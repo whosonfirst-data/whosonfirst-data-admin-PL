@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121220510",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"U\u015bcie Gorlickie",
+    "eurostat:nuts_2021_id":"1001121220510",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121220510",
+    "eurostat:population":6848,
+    "eurostat:population_year":2020,
     "geom:area":0.03569,
-    "geom:area_square_m":286660759.919917,
+    "geom:area_square_m":286660759.919885,
     "geom:bbox":"20.998717544,49.40099075,21.348327811,49.579092649",
     "geom:latitude":49.491426,
     "geom:longitude":21.16081,
@@ -72,6 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121220510",
+        "eurostat:nuts_2021_id":"1001121220510",
         "gp:id":12617162,
         "qs_pg:id":970539
     },
@@ -95,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8b6917ed365be718a6181b9de87560d0",
+    "wof:geomhash":"e1c07eea66a89596b5a56fca7468e64a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":1125370439,
-    "wof:lastmodified":1582357859,
+    "wof:lastmodified":1684354279,
     "wof:name":"U\u015bcie Gorlickie",
     "wof:parent_id":102079429,
     "wof:placetype":"localadmin",
+    "wof:population":6848,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

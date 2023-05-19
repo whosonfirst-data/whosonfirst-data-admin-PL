@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100311",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siedliszcze",
+    "eurostat:nuts_2021_id":"1006061100311",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100311",
+    "eurostat:population":6836,
+    "eurostat:population_year":2020,
     "geom:area":0.019823,
-    "geom:area_square_m":153593259.43444,
+    "geom:area_square_m":153593259.434423,
     "geom:bbox":"23.037479771,51.149973436,23.31856399,51.26248787",
     "geom:latitude":51.199435,
     "geom:longitude":23.164466,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":23.153122,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079813
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100311",
+        "eurostat:nuts_2021_id":"1006061100311"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"94242256c91bebd62e12177904c30a4a",
+    "wof:geomhash":"c7c24a9af4f94b035edceadb21a8c16f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752015,
-    "wof:lastmodified":1570003844,
+    "wof:lastmodified":1684354387,
     "wof:name":"Gmina Siedliszcze",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",
+    "wof:population":6836,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

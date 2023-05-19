@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krypno",
+    "eurostat:nuts_2021_id":"1006201390805",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390805",
+    "eurostat:population":3973,
+    "eurostat:population_year":2020,
     "geom:area":0.015126,
-    "geom:area_square_m":111848220.894447,
+    "geom:area_square_m":111848220.894461,
     "geom:bbox":"22.730747682,53.213888632,22.955260923,53.331070257",
     "geom:latitude":53.271933,
     "geom:longitude":22.82696,
@@ -50,6 +62,8 @@
     "reversegeo:longitude":22.82523,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -57,11 +71,15 @@
         102080175
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390805",
+        "eurostat:nuts_2021_id":"1006201390805"
+    },
     "wof:coterminous":[
         1126021217
     ],
     "wof:country":"PL",
-    "wof:geomhash":"83dc3969171251f0ec846c4141893fbf",
+    "wof:geomhash":"fe5f83a720c0f951ec81fb35b01c004d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +90,12 @@
         }
     ],
     "wof:id":1477751243,
-    "wof:lastmodified":1570004215,
+    "wof:lastmodified":1684354348,
     "wof:name":"Krypno",
     "wof:parent_id":102080175,
     "wof:placetype":"localadmin",
+    "wof:population":3973,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321631304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malechowo",
+    "eurostat:nuts_2021_id":"1002321631304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321631304",
+    "eurostat:population":6264,
+    "eurostat:population_year":2020,
     "geom:area":0.031227,
-    "geom:area_square_m":225485960.287397,
+    "geom:area_square_m":225485960.287417,
     "geom:bbox":"16.391451009,54.188953437,16.732355828,54.359788328",
     "geom:latitude":54.270485,
     "geom:longitude":16.564337,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":16.550099,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102080227
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321631304",
+        "eurostat:nuts_2021_id":"1002321631304"
+    },
     "wof:coterminous":[
         1126011347
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a9c7b4dfcfe6b0c5dc6f70d13ed523ec",
+    "wof:geomhash":"7671fe9b1fe7ed29bd889b690adc03f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477752069,
-    "wof:lastmodified":1570003789,
+    "wof:lastmodified":1684354390,
     "wof:name":"Malechowo",
     "wof:parent_id":102080227,
     "wof:placetype":"localadmin",
+    "wof:population":6264,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

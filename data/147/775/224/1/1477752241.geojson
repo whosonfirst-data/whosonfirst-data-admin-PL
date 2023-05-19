@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trzeszczany",
+    "eurostat:nuts_2021_id":"1006061100406",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100406",
+    "eurostat:population":4091,
+    "eurostat:population_year":2020,
     "geom:area":0.011519,
-    "geom:area_square_m":89976963.900709,
+    "geom:area_square_m":89976963.900695,
     "geom:bbox":"23.6219248,50.773879849,23.83000495,50.870256064",
     "geom:latitude":50.822594,
     "geom:longitude":23.727358,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":23.710044,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079743
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100406",
+        "eurostat:nuts_2021_id":"1006061100406"
+    },
     "wof:coterminous":[
         1125951931
     ],
     "wof:country":"PL",
-    "wof:geomhash":"4107a639da1ca790b7571611221dc588",
+    "wof:geomhash":"8d436d9b05a44a775b9c2f9a45f4756a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752241,
-    "wof:lastmodified":1570002960,
+    "wof:lastmodified":1684354400,
     "wof:name":"Trzeszczany",
     "wof:parent_id":102079743,
     "wof:placetype":"localadmin",
+    "wof:population":4091,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

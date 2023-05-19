@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321660508",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trzebiat\u00f3w",
+    "eurostat:nuts_2021_id":"1002321660508",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321660508",
+    "eurostat:population":16137,
+    "eurostat:population_year":2020,
     "geom:area":0.030899,
-    "geom:area_square_m":224194791.999827,
+    "geom:area_square_m":224194791.999826,
     "geom:bbox":"15.136086748,53.979240665,15.454917648,54.159138498",
     "geom:latitude":54.071123,
     "geom:longitude":15.283032,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321660508",
+        "eurostat:nuts_2021_id":"1002321660508",
         "gp:id":24548073,
         "qs_pg:id":1184499
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"06677fabb78f6c3029cc46573b4a61ae",
+    "wof:geomhash":"b76b09990f863d69d5c9eb823326125b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125370859,
-    "wof:lastmodified":1582357844,
+    "wof:lastmodified":1684354280,
     "wof:name":"Gmina Trzebiat\u00f3w",
     "wof:parent_id":102080165,
     "wof:placetype":"localadmin",
+    "wof:population":16137,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

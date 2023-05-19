@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Koprzywnica",
+    "eurostat:nuts_2021_id":"1005261530904",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530904",
+    "eurostat:population":6634,
+    "eurostat:population_year":2020,
     "geom:area":0.008802,
-    "geom:area_square_m":69087555.292223,
+    "geom:area_square_m":69087555.292211,
     "geom:bbox":"21.466629947,50.549344789,21.667067174,50.639127825",
     "geom:latitude":50.597136,
     "geom:longitude":21.575586,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":21.59378,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079681
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530904",
+        "eurostat:nuts_2021_id":"1005261530904"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"b12c081c1d7af0daea3dddfdebdf19ac",
+    "wof:geomhash":"ab19a5d208adf652c51f98ef528df3b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751431,
-    "wof:lastmodified":1570001586,
+    "wof:lastmodified":1684354357,
     "wof:name":"Gmina Koprzywnica",
     "wof:parent_id":102079681,
     "wof:placetype":"localadmin",
+    "wof:population":6634,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142252407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zatory",
+    "eurostat:nuts_2021_id":"1007142252407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142252407",
+    "eurostat:population":4849,
+    "eurostat:population_year":2020,
     "geom:area":0.015918,
-    "geom:area_square_m":119481964.61572,
+    "geom:area_square_m":119481964.615701,
     "geom:bbox":"21.102679644,52.553587928,21.305250888,52.681643758",
     "geom:latitude":52.624621,
     "geom:longitude":21.193654,
@@ -81,7 +93,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -94,6 +107,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142252407",
+        "eurostat:nuts_2021_id":"1007142252407",
         "gn:id":753702,
         "gp:id":12618028,
         "qs_pg:id":998975
@@ -106,7 +121,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a0f8bcb948fb224bd07a6480ce03519e",
+    "wof:geomhash":"06046ab7b5fd341c9d9694695a02918c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,12 +132,12 @@
         }
     ],
     "wof:id":1125375671,
-    "wof:lastmodified":1582357837,
+    "wof:lastmodified":1684354292,
     "wof:name":"Zatory",
     "wof:parent_id":102080027,
     "wof:placetype":"localadmin",
-    "wof:population":970,
-    "wof:population_rank":2,
+    "wof:population":4849,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

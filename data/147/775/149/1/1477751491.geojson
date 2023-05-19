@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061090113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rossosz",
+    "eurostat:nuts_2021_id":"1006061090113",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061090113",
+    "eurostat:population":2193,
+    "eurostat:population_year":2020,
     "geom:area":0.009975,
-    "geom:area_square_m":76199183.244135,
+    "geom:area_square_m":76199183.244137,
     "geom:bbox":"23.036093935,51.799367419,23.204111348,51.898511996",
     "geom:latitude":51.847669,
     "geom:longitude":23.10888,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":23.107276,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079973
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061090113",
+        "eurostat:nuts_2021_id":"1006061090113"
+    },
     "wof:coterminous":[
         1243586283
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5e61149461058067e20116c13b0f11d2",
+    "wof:geomhash":"8aa9db93e1815f1dfaaed9499d5282a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751491,
-    "wof:lastmodified":1570004739,
+    "wof:lastmodified":1684354360,
     "wof:name":"Rossosz",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",
+    "wof:population":2193,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

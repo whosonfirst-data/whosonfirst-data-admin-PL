@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siemiatycze",
+    "eurostat:nuts_2021_id":"1006201381009",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381009",
+    "eurostat:population":6087,
+    "eurostat:population_year":2020,
     "geom:area":0.029983,
-    "geom:area_square_m":225931052.301635,
+    "geom:area_square_m":225931052.301593,
     "geom:bbox":"22.724407571,52.358580857,23.012097329,52.539532941",
     "geom:latitude":52.453944,
     "geom:longitude":22.85632,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":22.833988,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080037
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381009",
+        "eurostat:nuts_2021_id":"1006201381009"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"a09d68a2f2169dd5c63bc9acec5927b3",
+    "wof:geomhash":"dba249274a1d3323a4226c6f0c3fa686",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751497,
-    "wof:lastmodified":1570004736,
+    "wof:lastmodified":1684354360,
     "wof:name":"Gmina Siemiatycze",
     "wof:parent_id":102080037,
     "wof:placetype":"localadmin",
+    "wof:population":6087,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141290801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Legionowo",
+    "eurostat:nuts_2021_id":"1007141290801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL912",
+    "eurostat:nuts_2021_level_lau":"1007141290801",
+    "eurostat:population":53886,
+    "eurostat:population_year":2020,
     "geom:area":0.001789,
-    "geom:area_square_m":13492271.0996,
+    "geom:area_square_m":13492271.099601,
     "geom:bbox":"20.898603851,52.384834268,20.980025138,52.424962224",
     "geom:latitude":52.405107,
     "geom:longitude":20.932076,
@@ -155,7 +167,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -168,6 +181,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141290801",
+        "eurostat:nuts_2021_id":"1007141290801",
         "gn:id":766555,
         "gp:id":12618791,
         "qs_pg:id":1257290
@@ -180,7 +195,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b6661ad83e9ce0dc84da81188e71d7bd",
+    "wof:geomhash":"d5bc2da16e5485f4df2e87b571e11f4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,11 +206,11 @@
         }
     ],
     "wof:id":1125350201,
-    "wof:lastmodified":1582357713,
+    "wof:lastmodified":1684354254,
     "wof:name":"Legionowo",
     "wof:parent_id":102079985,
     "wof:placetype":"localadmin",
-    "wof:population":50786,
+    "wof:population":53886,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

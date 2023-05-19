@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281540707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zalewo",
+    "eurostat:nuts_2021_id":"1004281540707",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281540707",
+    "eurostat:population":6763,
+    "eurostat:population_year":2020,
     "geom:area":0.03462,
-    "geom:area_square_m":252775605.508674,
+    "geom:area_square_m":252775605.508642,
     "geom:bbox":"19.471882431,53.71006901,19.768079897,53.916711157",
     "geom:latitude":53.808844,
     "geom:longitude":19.623131,
@@ -138,7 +150,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -151,6 +164,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281540707",
+        "eurostat:nuts_2021_id":"1004281540707",
         "gn:id":3080757,
         "gp:id":24547437,
         "qs_pg:id":1200367
@@ -160,7 +175,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f11c9cffaf20fadeb0a0391b57fd9a41",
+    "wof:geomhash":"30448e621e25175bdf01f3cd16c0d278",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,12 +186,12 @@
         }
     ],
     "wof:id":1125290149,
-    "wof:lastmodified":1582357811,
+    "wof:lastmodified":1684354174,
     "wof:name":"Gmina Zalewo",
     "wof:parent_id":102080171,
     "wof:placetype":"localadmin",
-    "wof:population":2112,
-    "wof:population_rank":4,
+    "wof:population":6763,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

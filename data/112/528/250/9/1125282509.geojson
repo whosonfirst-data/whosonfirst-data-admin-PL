@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dobrodzie\u0144",
+    "eurostat:nuts_2021_id":"1003161320801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320801",
+    "eurostat:population":9838,
+    "eurostat:population_year":2020,
     "geom:area":0.020718,
-    "geom:area_square_m":162167616.294217,
+    "geom:area_square_m":162167616.294221,
     "geom:bbox":"18.313220413,50.616442522,18.581909885,50.806667269",
     "geom:latitude":50.727824,
     "geom:longitude":18.451538,
@@ -147,7 +159,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -160,6 +173,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320801",
+        "eurostat:nuts_2021_id":"1003161320801",
         "gn:id":3100342,
         "gp:id":24548464,
         "qs_pg:id":1043205
@@ -169,7 +184,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a2542d9a1cf438c9925aba12baec48cb",
+    "wof:geomhash":"a69fc1d07433a80248630e93b17a157b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,12 +195,12 @@
         }
     ],
     "wof:id":1125282509,
-    "wof:lastmodified":1582357762,
+    "wof:lastmodified":1684354151,
     "wof:name":"Gmina Dobrodzie\u0144",
     "wof:parent_id":102079671,
     "wof:placetype":"localadmin",
-    "wof:population":4014,
-    "wof:population_rank":4,
+    "wof:population":9838,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

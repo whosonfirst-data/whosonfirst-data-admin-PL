@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301570703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cek\u00f3w-Kolonia",
+    "eurostat:nuts_2021_id":"1002301570703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301570703",
+    "eurostat:population":4746,
+    "eurostat:population_year":2020,
     "geom:area":0.011523,
-    "geom:area_square_m":87973888.653508,
+    "geom:area_square_m":87973888.653512,
     "geom:bbox":"18.194647675,51.800279683,18.416436237,51.930001079",
     "geom:latitude":51.871609,
     "geom:longitude":18.289804,
@@ -29,6 +41,8 @@
     "reversegeo:longitude":18.315794,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -36,11 +50,15 @@
         102079841
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301570703",
+        "eurostat:nuts_2021_id":"1002301570703"
+    },
     "wof:coterminous":[
         1125821609
     ],
     "wof:country":"PL",
-    "wof:geomhash":"0459d9b38d793101f8161ea3c91f57fa",
+    "wof:geomhash":"9d75ba2c2a7fffcf59d64326b1e578a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,10 +69,12 @@
         }
     ],
     "wof:id":1477752467,
-    "wof:lastmodified":1570002812,
+    "wof:lastmodified":1684354411,
     "wof:name":"Cek\u00f3w-Kolonia",
     "wof:parent_id":102079841,
     "wof:placetype":"localadmin",
+    "wof:population":4746,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

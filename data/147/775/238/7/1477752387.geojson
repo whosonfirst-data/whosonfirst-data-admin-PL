@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321641205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pyrzyce",
+    "eurostat:nuts_2021_id":"1002321641205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321641205",
+    "eurostat:population":19313,
+    "eurostat:population_year":2020,
     "geom:area":0.027437,
-    "geom:area_square_m":203456391.639199,
+    "geom:area_square_m":203456391.639194,
     "geom:bbox":"14.779181446,53.050577835,15.038056445,53.246730151",
     "geom:latitude":53.150954,
     "geom:longitude":14.905154,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":14.905174,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080041
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321641205",
+        "eurostat:nuts_2021_id":"1002321641205"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"7f57c6276e5867174d615bde7daae862",
+    "wof:geomhash":"686efcc571e8021e72017f9ea4562aeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752387,
-    "wof:lastmodified":1570003479,
+    "wof:lastmodified":1684354407,
     "wof:name":"Gmina Pyrzyce",
     "wof:parent_id":102080041,
     "wof:placetype":"localadmin",
+    "wof:population":19313,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121231204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Klucze",
+    "eurostat:nuts_2021_id":"1001121231204",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL21A",
+    "eurostat:nuts_2021_level_lau":"1001121231204",
+    "eurostat:population":14973,
+    "eurostat:population_year":2020,
     "geom:area":0.015096,
-    "geom:area_square_m":119066568.378405,
+    "geom:area_square_m":119066568.378413,
     "geom:bbox":"19.456426619,50.310566359,19.684597065,50.420304253",
     "geom:latitude":50.366072,
     "geom:longitude":19.567596,
@@ -57,6 +69,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -69,6 +83,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121231204",
+        "eurostat:nuts_2021_id":"1001121231204",
         "gp:id":12617861,
         "qs_pg:id":238786
     },
@@ -80,7 +96,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f9888d9a3990427fa4f51f8c7aff6e3c",
+    "wof:geomhash":"7d2439da4023434c269f7c75338b74bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +107,12 @@
         }
     ],
     "wof:id":1125411577,
-    "wof:lastmodified":1582358008,
+    "wof:lastmodified":1684354335,
     "wof:name":"Klucze",
     "wof:parent_id":102079555,
     "wof:placetype":"localadmin",
+    "wof:population":14973,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

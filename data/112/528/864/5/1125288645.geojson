@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101190508",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0141yszkowice",
+    "eurostat:nuts_2021_id":"1005101190508",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL715",
+    "eurostat:nuts_2021_level_lau":"1005101190508",
+    "eurostat:population":6693,
+    "eurostat:population_year":2020,
     "geom:area":0.014036,
-    "geom:area_square_m":106876779.569261,
+    "geom:area_square_m":106876779.569287,
     "geom:bbox":"19.831072559,51.90945542,20.061661853,52.052060999",
     "geom:latitude":51.988782,
     "geom:longitude":19.924224,
@@ -63,7 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -76,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101190508",
+        "eurostat:nuts_2021_id":"1005101190508",
         "gn:id":3092616,
         "gp:id":12617190,
         "qs_pg:id":23954
@@ -88,7 +103,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"51ba07d8b18de82c0bc505636ab3ef0d",
+    "wof:geomhash":"d02688b7fff48f1f23a7acba95e49337",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,12 +114,12 @@
         }
     ],
     "wof:id":1125288645,
-    "wof:lastmodified":1582357782,
+    "wof:lastmodified":1684354162,
     "wof:name":"\u0141yszkowice",
     "wof:parent_id":102079923,
     "wof:placetype":"localadmin",
-    "wof:population":1100,
-    "wof:population_rank":3,
+    "wof:population":6693,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

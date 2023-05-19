@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221720302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czarne",
+    "eurostat:nuts_2021_id":"1004221720302",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL637",
+    "eurostat:nuts_2021_level_lau":"1004221720302",
+    "eurostat:population":9055,
+    "eurostat:population_year":2020,
     "geom:area":0.031918,
-    "geom:area_square_m":233913459.075531,
+    "geom:area_square_m":233913459.075527,
     "geom:bbox":"16.873685431,53.541914787,17.204696445,53.735637487",
     "geom:latitude":53.652585,
     "geom:longitude":17.003929,
@@ -142,7 +154,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -155,6 +168,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221720302",
+        "eurostat:nuts_2021_id":"1004221720302",
         "gn:id":3101161,
         "gp:id":24547782,
         "qs_pg:id":59465
@@ -164,7 +179,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6e15ff64f8b1a466bd3878ed4cf97179",
+    "wof:geomhash":"281782c6c4ce6a6f5222044bd6d46ba7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,11 +190,11 @@
         }
     ],
     "wof:id":1125338811,
-    "wof:lastmodified":1582357680,
+    "wof:lastmodified":1684354245,
     "wof:name":"Gmina Czarne",
     "wof:parent_id":102080157,
     "wof:placetype":"localadmin",
-    "wof:population":6035,
+    "wof:population":9055,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142712902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bielany",
+    "eurostat:nuts_2021_id":"1007142712902",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142712902",
+    "eurostat:population":3609,
+    "eurostat:population_year":2020,
     "geom:area":0.014511,
-    "geom:area_square_m":109641306.803674,
+    "geom:area_square_m":109641306.803696,
     "geom:bbox":"22.076025399,52.288217116,22.367635857,52.384979161",
     "geom:latitude":52.336004,
     "geom:longitude":22.240171,
@@ -99,7 +111,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -112,6 +125,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142712902",
+        "eurostat:nuts_2021_id":"1007142712902",
         "gn:id":776024,
         "gp:id":12617577,
         "qs_pg:id":24026
@@ -124,7 +139,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c51a6d26ba25378cbf5dde1e5377bdb5",
+    "wof:geomhash":"a5572fbc797e8f2a09fb8c9d138b53b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,12 +150,12 @@
         }
     ],
     "wof:id":1125324245,
-    "wof:lastmodified":1582357729,
+    "wof:lastmodified":1684354228,
     "wof:name":"Bielany",
     "wof:parent_id":102080023,
     "wof:placetype":"localadmin",
-    "wof:population":168,
-    "wof:population_rank":1,
+    "wof:population":3609,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

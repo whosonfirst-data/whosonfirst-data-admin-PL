@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261520402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bodzentyn",
+    "eurostat:nuts_2021_id":"1005261520402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL721",
+    "eurostat:nuts_2021_level_lau":"1005261520402",
+    "eurostat:population":11479,
+    "eurostat:population_year":2020,
     "geom:area":0.020436,
-    "geom:area_square_m":159194978.942816,
+    "geom:area_square_m":159194978.942835,
     "geom:bbox":"20.816692924,50.873740775,21.019868289,51.031814479",
     "geom:latitude":50.951196,
     "geom:longitude":20.917995,
@@ -84,6 +96,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261520402",
+        "eurostat:nuts_2021_id":"1005261520402",
         "gp:id":24548627,
         "qs_pg:id":1092349
     },
@@ -104,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"44079658ece351dae76421a8a07250d9",
+    "wof:geomhash":"145fba8bafcb625d843c79c7b1e472ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +131,12 @@
         }
     ],
     "wof:id":1125283173,
-    "wof:lastmodified":1582357786,
+    "wof:lastmodified":1684354153,
     "wof:name":"Gmina Bodzentyn",
     "wof:parent_id":102079693,
     "wof:placetype":"localadmin",
+    "wof:population":11479,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

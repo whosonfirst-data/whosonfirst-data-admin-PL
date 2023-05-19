@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041081807",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fabianki",
+    "eurostat:nuts_2021_id":"1004041081807",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041081807",
+    "eurostat:population":10107,
+    "eurostat:population_year":2020,
     "geom:area":0.010082,
-    "geom:area_square_m":75530362.305129,
+    "geom:area_square_m":75530362.305132,
     "geom:bbox":"19.000910011,52.66132437,19.189286088,52.779447312",
     "geom:latitude":52.708505,
     "geom:longitude":19.101635,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":19.112366,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079997
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041081807",
+        "eurostat:nuts_2021_id":"1004041081807"
+    },
     "wof:coterminous":[
         1477863689
     ],
     "wof:country":"PL",
-    "wof:geomhash":"17a83d1822318d182c27248f25c3e8b4",
+    "wof:geomhash":"6a0717ce63be707ad47ceb32829d9ebc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125408957,
-    "wof:lastmodified":1569997999,
+    "wof:lastmodified":1684354328,
     "wof:name":"Fabianki",
     "wof:parent_id":102079997,
     "wof:placetype":"localadmin",
+    "wof:population":10107,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

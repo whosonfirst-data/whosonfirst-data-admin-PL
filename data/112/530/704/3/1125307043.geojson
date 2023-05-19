@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241451303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radzionk\u00f3w",
+    "eurostat:nuts_2021_id":"1001241451303",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL228",
+    "eurostat:nuts_2021_level_lau":"1001241451303",
+    "eurostat:population":16873,
+    "eurostat:population_year":2020,
     "geom:area":0.001672,
-    "geom:area_square_m":13176358.873423,
+    "geom:area_square_m":13176358.873425,
     "geom:bbox":"18.877878173,50.371859157,18.923557076,50.431127786",
     "geom:latitude":50.402575,
     "geom:longitude":18.902034,
@@ -117,6 +129,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -129,6 +143,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241451303",
+        "eurostat:nuts_2021_id":"1001241451303",
         "gp:id":12618881,
         "qs_pg:id":1293351
     },
@@ -140,7 +156,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2da19625e1ff441e3caf22122b2afaad",
+    "wof:geomhash":"2551a460fcf6115f7ab167ff34d9570c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,10 +167,12 @@
         }
     ],
     "wof:id":1125307043,
-    "wof:lastmodified":1582357887,
+    "wof:lastmodified":1684354210,
     "wof:name":"Radzionk\u00f3w",
     "wof:parent_id":102079581,
     "wof:placetype":"localadmin",
+    "wof:population":16873,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

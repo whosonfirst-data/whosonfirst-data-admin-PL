@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101180303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u0119dziejowice",
+    "eurostat:nuts_2021_id":"1005101180303",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101180303",
+    "eurostat:population":6370,
+    "eurostat:population_year":2020,
     "geom:area":0.015535,
     "geom:area_square_m":119568034.73055,
     "geom:bbox":"18.940261887,51.439786649,19.13503476,51.58284244",
@@ -23,6 +35,8 @@
     "reversegeo:longitude":19.02778,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079807
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101180303",
+        "eurostat:nuts_2021_id":"1005101180303"
+    },
     "wof:coterminous":[
         1477864733
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5efa2e5fc7dbe59870412c8746c04104",
+    "wof:geomhash":"82714861aa1f597da2de9c8b8b1c64d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125385827,
-    "wof:lastmodified":1569996366,
+    "wof:lastmodified":1684354305,
     "wof:name":"S\u0119dziejowice",
     "wof:parent_id":102079807,
     "wof:placetype":"localadmin",
+    "wof:population":6370,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

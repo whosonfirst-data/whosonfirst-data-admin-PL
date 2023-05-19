@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041081101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radziej\u00f3w",
+    "eurostat:nuts_2021_id":"1004041081101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041081101",
+    "eurostat:population":5516,
+    "eurostat:population_year":2020,
     "geom:area":0.000755,
     "geom:area_square_m":5668335.394882,
     "geom:bbox":"18.513743597,52.602527668,18.548244182,52.635707272",
@@ -65,6 +77,8 @@
     "reversegeo:longitude":18.530486,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079977
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041081101",
+        "eurostat:nuts_2021_id":"1004041081101"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"d642dca05dfa8a3cd4e50d53f0615683",
+    "wof:geomhash":"1b2838c5e66157418f2f9d20435f02a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751397,
-    "wof:lastmodified":1570002545,
+    "wof:lastmodified":1684354355,
     "wof:name":"Gmina Radziej\u00f3w",
     "wof:parent_id":102079977,
     "wof:placetype":"localadmin",
+    "wof:population":5516,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

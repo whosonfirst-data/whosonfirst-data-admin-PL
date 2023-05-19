@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321640306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Z\u0142ocieniec",
+    "eurostat:nuts_2021_id":"1002321640306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321640306",
+    "eurostat:population":16359,
+    "eurostat:population_year":2020,
     "geom:area":0.037957,
-    "geom:area_square_m":278775199.297156,
+    "geom:area_square_m":278775199.29721,
     "geom:bbox":"15.821062035,53.418461071,16.178329292,53.693145704",
     "geom:latitude":53.560642,
     "geom:longitude":16.025437,
@@ -146,7 +158,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -159,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321640306",
+        "eurostat:nuts_2021_id":"1002321640306",
         "gn:id":3080102,
         "gp:id":24547734,
         "qs_pg:id":246665
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"debd12eed9ce2c21b6750cbde4e529bf",
+    "wof:geomhash":"d800abf425f94c199f3b6499f7b2e841",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,11 +194,11 @@
         }
     ],
     "wof:id":1125414393,
-    "wof:lastmodified":1582358011,
+    "wof:lastmodified":1684354338,
     "wof:name":"Gmina Z\u0142ocieniec",
     "wof:parent_id":102080113,
     "wof:placetype":"localadmin",
-    "wof:population":13337,
+    "wof:population":16359,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

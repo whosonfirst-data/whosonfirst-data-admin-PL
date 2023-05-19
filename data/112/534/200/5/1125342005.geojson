@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200611",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Skawina",
+    "eurostat:nuts_2021_id":"1001121200611",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200611",
+    "eurostat:population":43586,
+    "eurostat:population_year":2020,
     "geom:area":0.012505,
-    "geom:area_square_m":99501126.890488,
+    "geom:area_square_m":99501126.890491,
     "geom:bbox":"19.652184019,49.885189237,19.868826794,49.996994343",
     "geom:latitude":49.948438,
     "geom:longitude":19.777984,
@@ -135,6 +147,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -147,6 +161,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200611",
+        "eurostat:nuts_2021_id":"1001121200611",
         "gp:id":24548605,
         "qs_pg:id":1137238
     },
@@ -155,7 +171,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d60fb66c7c94568be71c319c9856d502",
+    "wof:geomhash":"d33666056ba2ee9ebb3ba1bc08435759",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,10 +182,12 @@
         }
     ],
     "wof:id":1125342005,
-    "wof:lastmodified":1582357695,
+    "wof:lastmodified":1684354250,
     "wof:name":"Gmina Skawina",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",
+    "wof:population":43586,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

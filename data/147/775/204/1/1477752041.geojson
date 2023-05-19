@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021012505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sulik\u00f3w",
+    "eurostat:nuts_2021_id":"1003021012505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021012505",
+    "eurostat:population":6012,
+    "eurostat:population_year":2020,
     "geom:area":0.012119,
-    "geom:area_square_m":94183123.178725,
+    "geom:area_square_m":94183123.178769,
     "geom:bbox":"14.983324608,50.990126472,15.168244957,51.133328354",
     "geom:latitude":51.061531,
     "geom:longitude":15.087374,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":15.081131,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102079695
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021012505",
+        "eurostat:nuts_2021_id":"1003021012505"
+    },
     "wof:coterminous":[
         101822863
     ],
     "wof:country":"PL",
-    "wof:geomhash":"057274b8e21ab31ad263dccde033c907",
+    "wof:geomhash":"207967398954617ab36cdad4cc001d13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477752041,
-    "wof:lastmodified":1570000752,
+    "wof:lastmodified":1684354389,
     "wof:name":"Sulik\u00f3w",
     "wof:parent_id":102079695,
     "wof:placetype":"localadmin",
+    "wof:population":6012,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

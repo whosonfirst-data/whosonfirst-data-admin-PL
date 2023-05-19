@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261531301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kluczewsko",
+    "eurostat:nuts_2021_id":"1005261531301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261531301",
+    "eurostat:population":5197,
+    "eurostat:population_year":2020,
     "geom:area":0.017509,
-    "geom:area_square_m":136370050.439955,
+    "geom:area_square_m":136370050.439938,
     "geom:bbox":"19.827614633,50.894748133,20.022180847,51.048309628",
     "geom:latitude":50.959844,
     "geom:longitude":19.917161,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":19.907459,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079679
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005261531301",
+        "eurostat:nuts_2021_id":"1005261531301"
+    },
     "wof:coterminous":[
         1126006745
     ],
     "wof:country":"PL",
-    "wof:geomhash":"d344b744fbe17e133d25b94e8b59f5b8",
+    "wof:geomhash":"16277451a7e197a84c325772caf7b2fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751177,
-    "wof:lastmodified":1570001972,
+    "wof:lastmodified":1684354345,
     "wof:name":"Kluczewsko",
     "wof:parent_id":102079679,
     "wof:placetype":"localadmin",
+    "wof:population":5197,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061090111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piszczac",
+    "eurostat:nuts_2021_id":"1006061090111",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061090111",
+    "eurostat:population":7188,
+    "eurostat:population_year":2020,
     "geom:area":0.022252,
-    "geom:area_square_m":169552074.197562,
+    "geom:area_square_m":169552074.19754,
     "geom:bbox":"23.221757628,51.897896646,23.544498973,52.021332391",
     "geom:latitude":51.960484,
     "geom:longitude":23.397104,
@@ -72,7 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -85,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061090111",
+        "eurostat:nuts_2021_id":"1006061090111",
         "gn:id":762118,
         "gp:id":12618426,
         "qs_pg:id":354664
@@ -97,7 +112,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3a0b064e80420ac874e8f5b3cd8ce0ce",
+    "wof:geomhash":"415748add30c9eacc9cb75c2df086e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,12 +123,12 @@
         }
     ],
     "wof:id":1125374503,
-    "wof:lastmodified":1582357862,
+    "wof:lastmodified":1684354289,
     "wof:name":"Piszczac",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",
-    "wof:population":3087,
-    "wof:population_rank":4,
+    "wof:population":7188,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

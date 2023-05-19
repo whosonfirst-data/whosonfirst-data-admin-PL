@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frampol",
+    "eurostat:nuts_2021_id":"1006061100205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100205",
+    "eurostat:population":6095,
+    "eurostat:population_year":2020,
     "geom:area":0.013685,
-    "geom:area_square_m":107270417.954971,
+    "geom:area_square_m":107270417.954959,
     "geom:bbox":"22.643892708,50.584804344,22.839904846,50.750917605",
     "geom:latitude":50.659126,
     "geom:longitude":22.733062,
@@ -139,7 +151,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -152,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100205",
+        "eurostat:nuts_2021_id":"1006061100205",
         "gn:id":772492,
         "gp:id":24548655,
         "qs_pg:id":59622
@@ -161,7 +176,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"995b3c3a8b4f45df4e338856a4f98ae3",
+    "wof:geomhash":"5e6c338adc4d72308dac5dcd32809c15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,12 +187,12 @@
         }
     ],
     "wof:id":1125410567,
-    "wof:lastmodified":1582358020,
+    "wof:lastmodified":1684354332,
     "wof:name":"Gmina Frampol",
     "wof:parent_id":102079699,
     "wof:placetype":"localadmin",
-    "wof:population":1411,
-    "wof:population_rank":3,
+    "wof:population":6095,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

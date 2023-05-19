@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tusz\u00f3w Narodowy",
+    "eurostat:nuts_2021_id":"1006181361109",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361109",
+    "eurostat:population":8222,
+    "eurostat:population_year":2020,
     "geom:area":0.011277,
-    "geom:area_square_m":88938025.145539,
+    "geom:area_square_m":88938025.145573,
     "geom:bbox":"21.400152715,50.325691081,21.640607425,50.415721683",
     "geom:latitude":50.370111,
     "geom:longitude":21.509814,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":21.491658,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361109",
+        "eurostat:nuts_2021_id":"1006181361109"
+    },
     "wof:coterminous":[
         1126018615
     ],
     "wof:country":"PL",
-    "wof:geomhash":"6ee214adaccbbb71a1914c0ea22f6758",
+    "wof:geomhash":"ce5b1c2b582347975b12efc0c35ea8c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752449,
-    "wof:lastmodified":1570000299,
+    "wof:lastmodified":1684354410,
     "wof:name":"Tusz\u00f3w Narodowy",
     "wof:parent_id":102079597,
     "wof:placetype":"localadmin",
+    "wof:population":8222,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

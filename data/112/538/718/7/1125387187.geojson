@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241441711",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rajcza",
+    "eurostat:nuts_2021_id":"1001241441711",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241441711",
+    "eurostat:population":8810,
+    "eurostat:population_year":2020,
     "geom:area":0.016342,
-    "geom:area_square_m":131305099.711717,
+    "geom:area_square_m":131305099.711735,
     "geom:bbox":"18.946578713,49.393976306,19.168354563,49.537778053",
     "geom:latitude":49.473616,
     "geom:longitude":19.040166,
@@ -72,6 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241441711",
+        "eurostat:nuts_2021_id":"1001241441711",
         "gp:id":12618764,
         "qs_pg:id":882755
     },
@@ -95,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"42633c75b7b6a4281b961283113b446d",
+    "wof:geomhash":"ed1fd2633a4c544165d3120504b588fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":1125387187,
-    "wof:lastmodified":1582357942,
+    "wof:lastmodified":1684354307,
     "wof:name":"Rajcza",
     "wof:parent_id":102079411,
     "wof:placetype":"localadmin",
+    "wof:population":8810,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

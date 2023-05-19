@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061121206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poniatowa",
+    "eurostat:nuts_2021_id":"1006061121206",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061121206",
+    "eurostat:population":14149,
+    "eurostat:population_year":2020,
     "geom:area":0.010873,
-    "geom:area_square_m":84229324.505464,
+    "geom:area_square_m":84229324.505443,
     "geom:bbox":"22.010839817,51.153561687,22.17479322,51.278208523",
     "geom:latitude":51.209602,
     "geom:longitude":22.098478,
@@ -139,7 +151,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -152,6 +165,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061121206",
+        "eurostat:nuts_2021_id":"1006061121206",
         "gn:id":761546,
         "gp:id":24548772,
         "qs_pg:id":59633
@@ -161,7 +176,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"59806121fdb3c75d6e27c776351aaae3",
+    "wof:geomhash":"a414824477a2ed981df909d98e09c1e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,11 +187,11 @@
         }
     ],
     "wof:id":1125339305,
-    "wof:lastmodified":1582357679,
+    "wof:lastmodified":1684354248,
     "wof:name":"Gmina Poniatowa",
     "wof:parent_id":102079761,
     "wof:placetype":"localadmin",
-    "wof:population":10056,
+    "wof:population":14149,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301570708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Opat\u00f3wek",
+    "eurostat:nuts_2021_id":"1002301570708",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301570708",
+    "eurostat:population":10808,
+    "eurostat:population_year":2020,
     "geom:area":0.013569,
-    "geom:area_square_m":103900105.230519,
+    "geom:area_square_m":103900105.230475,
     "geom:bbox":"18.127880264,51.685374353,18.322839987,51.804254247",
     "geom:latitude":51.739182,
     "geom:longitude":18.222488,
@@ -99,6 +111,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -111,6 +125,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301570708",
+        "eurostat:nuts_2021_id":"1002301570708",
         "gp:id":12617990,
         "qs_pg:id":116518
     },
@@ -119,7 +135,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d269611447be777723d0fe47a689fe39",
+    "wof:geomhash":"c3c231166da0bf179a98e4ad49cdf56c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,10 +146,12 @@
         }
     ],
     "wof:id":1125411293,
-    "wof:lastmodified":1582358015,
+    "wof:lastmodified":1684354335,
     "wof:name":"Gmina Opat\u00f3wek",
     "wof:parent_id":102079841,
     "wof:placetype":"localadmin",
+    "wof:population":10808,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

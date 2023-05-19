@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161310203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u0142ubczyce",
+    "eurostat:nuts_2021_id":"1003161310203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161310203",
+    "eurostat:population":22280,
+    "eurostat:population_year":2020,
     "geom:area":0.037059,
-    "geom:area_square_m":293337062.163931,
+    "geom:area_square_m":293337062.163941,
     "geom:bbox":"17.59269032,50.097157455,17.932221863,50.324431146",
     "geom:latitude":50.198359,
     "geom:longitude":17.78749,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":17.829814,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079489
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161310203",
+        "eurostat:nuts_2021_id":"1003161310203"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"ef6a935d62e89bb3d317df8246a223e2",
+    "wof:geomhash":"8a8d53a8eae2a845538cb037dfe96779",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751619,
-    "wof:lastmodified":1569999255,
+    "wof:lastmodified":1684354366,
     "wof:name":"Gmina G\u0142ubczyce",
     "wof:parent_id":102079489,
     "wof:placetype":"localadmin",
+    "wof:population":22280,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

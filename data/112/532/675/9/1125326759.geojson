@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241506801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jaworzno",
+    "eurostat:nuts_2021_id":"1001241506801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22B",
+    "eurostat:nuts_2021_level_lau":"1001241506801",
+    "eurostat:population":91115,
+    "eurostat:population_year":2020,
     "geom:area":0.019193,
-    "geom:area_square_m":151901024.699074,
+    "geom:area_square_m":151901024.699065,
     "geom:bbox":"19.160679,50.116934,19.441976,50.261896",
     "geom:latitude":50.20433,
     "geom:longitude":19.29116,
@@ -207,6 +219,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -214,11 +228,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079501,
-        85687277
+        85687277,
+        102079501
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241506801",
+        "eurostat:nuts_2021_id":"1001241506801",
         "gp:id":12618035,
         "qs_pg:id":43661
     },
@@ -231,7 +247,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"eddd57e2f3fe598dba0b4004fabe3311",
+    "wof:geomhash":"a432c10cfd1765d8f6de18d91044c2d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -242,10 +258,12 @@
         }
     ],
     "wof:id":1125326759,
-    "wof:lastmodified":1607725532,
+    "wof:lastmodified":1684354235,
     "wof:name":"Jaworzno",
     "wof:parent_id":102079501,
     "wof:placetype":"localadmin",
+    "wof:population":91115,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

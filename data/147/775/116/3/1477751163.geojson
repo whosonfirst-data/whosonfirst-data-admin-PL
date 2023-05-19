@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radomy\u015bl nad Sanem",
+    "eurostat:nuts_2021_id":"1006181361804",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361804",
+    "eurostat:population":7311,
+    "eurostat:population_year":2020,
     "geom:area":0.017045,
-    "geom:area_square_m":133451186.910621,
+    "geom:area_square_m":133451186.910634,
     "geom:bbox":"21.839989209,50.620721085,22.083049407,50.802706785",
     "geom:latitude":50.714919,
     "geom:longitude":21.947072,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":21.948893,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079669
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361804",
+        "eurostat:nuts_2021_id":"1006181361804"
+    },
     "wof:coterminous":[
         101911385
     ],
     "wof:country":"PL",
-    "wof:geomhash":"8af9f30aeee6edd26c3d2a15cfbdc519",
+    "wof:geomhash":"62fddbde2b2bd34ecf54dcb6c142f215",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751163,
-    "wof:lastmodified":1570001460,
+    "wof:lastmodified":1684354344,
     "wof:name":"Radomy\u015bl nad Sanem",
     "wof:parent_id":102079669,
     "wof:placetype":"localadmin",
+    "wof:population":7311,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

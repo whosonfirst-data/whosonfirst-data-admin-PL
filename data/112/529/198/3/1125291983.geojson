@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181340905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Narol",
+    "eurostat:nuts_2021_id":"1006181340905",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181340905",
+    "eurostat:population":7967,
+    "eurostat:population_year":2020,
     "geom:area":0.025692,
-    "geom:area_square_m":202776094.105435,
+    "geom:area_square_m":202776094.105465,
     "geom:bbox":"23.123757213,50.269653235,23.436196609,50.410541613",
     "geom:latitude":50.335757,
     "geom:longitude":23.286925,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":23.299456,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079623
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181340905",
+        "eurostat:nuts_2021_id":"1006181340905"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"1b4b464b50296bdbd8d9217746b8ead9",
+    "wof:geomhash":"4d5d753adb5a7eb99b1e6a89163c7073",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1125291983,
-    "wof:lastmodified":1569992208,
+    "wof:lastmodified":1684354179,
     "wof:name":"Gmina Narol",
     "wof:parent_id":102079623,
     "wof:placetype":"localadmin",
+    "wof:population":7967,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

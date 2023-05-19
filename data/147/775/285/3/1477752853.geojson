@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241441715",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u0119gierska G\u00f3rka",
+    "eurostat:nuts_2021_id":"1001241441715",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241441715",
+    "eurostat:population":15080,
+    "eurostat:population_year":2020,
     "geom:area":0.009511,
-    "geom:area_square_m":76250343.898628,
+    "geom:area_square_m":76250343.898623,
     "geom:bbox":"19.069875339,49.52620971,19.241893955,49.629231187",
     "geom:latitude":49.580221,
     "geom:longitude":19.155035,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":19.153728,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079411
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241441715",
+        "eurostat:nuts_2021_id":"1001241441715"
+    },
     "wof:coterminous":[
         101842291
     ],
     "wof:country":"PL",
-    "wof:geomhash":"4d6c5ed405225e627d77b84046e82a53",
+    "wof:geomhash":"47b5004056940a1bde4d92d2bb09f6de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752853,
-    "wof:lastmodified":1570003202,
+    "wof:lastmodified":1684354433,
     "wof:name":"W\u0119gierska G\u00f3rka",
     "wof:parent_id":102079411,
     "wof:placetype":"localadmin",
+    "wof:population":15080,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

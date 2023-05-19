@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021032405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Z\u0105bkowice \u015al\u0105skie",
+    "eurostat:nuts_2021_id":"1003021032405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021032405",
+    "eurostat:population":21664,
+    "eurostat:population_year":2020,
     "geom:area":0.018588,
-    "geom:area_square_m":145900721.198965,
+    "geom:area_square_m":145900721.198931,
     "geom:bbox":"16.735953091,50.527086204,16.932852075,50.670028701",
     "geom:latitude":50.596568,
     "geom:longitude":16.829942,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":16.831793,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079577
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021032405",
+        "eurostat:nuts_2021_id":"1003021032405"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"f023838ef42b564f840519a7fd3cd8cb",
+    "wof:geomhash":"221e9d64e9f0c7da41b62b576b92e226",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751259,
-    "wof:lastmodified":1570004523,
+    "wof:lastmodified":1684354349,
     "wof:name":"Gmina Z\u0105bkowice \u015al\u0105skie",
     "wof:parent_id":102079577,
     "wof:placetype":"localadmin",
+    "wof:population":21664,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301580902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Babiak",
+    "eurostat:nuts_2021_id":"1002301580902",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301580902",
+    "eurostat:population":7831,
+    "eurostat:population_year":2020,
     "geom:area":0.01764,
-    "geom:area_square_m":133245719.410277,
+    "geom:area_square_m":133245719.410289,
     "geom:bbox":"18.589912922,52.269182389,18.832177361,52.42835547",
     "geom:latitude":52.348169,
     "geom:longitude":18.691683,
@@ -81,7 +93,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -94,6 +107,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301580902",
+        "eurostat:nuts_2021_id":"1002301580902",
         "gn:id":3104022,
         "gp:id":12616988,
         "qs_pg:id":202611
@@ -106,7 +121,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"11a5e0e4342de8ed7f86c079e67ed647",
+    "wof:geomhash":"52a010fc258425401019f5725c74efcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,12 +132,12 @@
         }
     ],
     "wof:id":1125306267,
-    "wof:lastmodified":1582357874,
+    "wof:lastmodified":1684354209,
     "wof:name":"Babiak",
     "wof:parent_id":102079927,
     "wof:placetype":"localadmin",
-    "wof:population":1500,
-    "wof:population_rank":3,
+    "wof:population":7831,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

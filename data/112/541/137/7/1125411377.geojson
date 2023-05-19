@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061091501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radzy\u0144 Podlaski",
+    "eurostat:nuts_2021_id":"1006061091501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061091501",
+    "eurostat:population":15656,
+    "eurostat:population_year":2020,
     "geom:area":0.002515,
-    "geom:area_square_m":19239802.67155,
+    "geom:area_square_m":19239802.671535,
     "geom:bbox":"22.584411776,51.746608475,22.668327521,51.807067357",
     "geom:latitude":51.777098,
     "geom:longitude":22.627777,
@@ -176,7 +188,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -189,6 +202,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061091501",
+        "eurostat:nuts_2021_id":"1006061091501",
         "gn:id":760680,
         "gp:id":24548587,
         "qs_pg:id":236453
@@ -198,7 +213,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cb3808287d1b337be5f9dd4d8b03c3b9",
+    "wof:geomhash":"246ef564c3c7b7d29cb4444b42f3c934",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,11 +224,11 @@
         }
     ],
     "wof:id":1125411377,
-    "wof:lastmodified":1582358017,
+    "wof:lastmodified":1684354335,
     "wof:name":"Gmina Radzy\u0144 Podlaski",
     "wof:parent_id":102079905,
     "wof:placetype":"localadmin",
-    "wof:population":16071,
+    "wof:population":15656,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

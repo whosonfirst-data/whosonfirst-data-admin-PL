@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u00f3\u017can",
+    "eurostat:nuts_2021_id":"1007142261107",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261107",
+    "eurostat:population":4418,
+    "eurostat:population_year":2020,
     "geom:area":0.011293,
-    "geom:area_square_m":84242663.68379,
+    "geom:area_square_m":84242663.683776,
     "geom:bbox":"21.286157961,52.826738685,21.468876596,52.949281794",
     "geom:latitude":52.895986,
     "geom:longitude":21.377785,
@@ -134,7 +146,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -147,6 +160,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261107",
+        "eurostat:nuts_2021_id":"1007142261107",
         "gn:id":760255,
         "gp:id":24548329,
         "qs_pg:id":994286
@@ -156,7 +171,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"08d948f5ae7d903cdcbbaaf1313f77f6",
+    "wof:geomhash":"9c04f8b1d135311d7ead7ff4eab405c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,11 +182,11 @@
         }
     ],
     "wof:id":1125380479,
-    "wof:lastmodified":1582357931,
+    "wof:lastmodified":1684354298,
     "wof:name":"Gmina R\u00f3\u017can",
     "wof:parent_id":102080077,
     "wof:placetype":"localadmin",
-    "wof:population":2619,
+    "wof:population":4418,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081140406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowe Miasteczko",
+    "eurostat:nuts_2021_id":"1002081140406",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081140406",
+    "eurostat:population":5358,
+    "eurostat:population_year":2020,
     "geom:area":0.009991,
-    "geom:area_square_m":76588452.261045,
+    "geom:area_square_m":76588452.261047,
     "geom:bbox":"15.588034007,51.645001425,15.820023019,51.734720443",
     "geom:latitude":51.68693,
     "geom:longitude":15.709299,
@@ -136,7 +148,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -149,6 +162,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081140406",
+        "eurostat:nuts_2021_id":"1002081140406",
         "gn:id":3090616,
         "gp:id":24547882,
         "qs_pg:id":59485
@@ -158,7 +173,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"730dd39e11872863041b39c0e8313731",
+    "wof:geomhash":"0d4ef4d31dd1624c91f3e8b0e1855743",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,12 +184,12 @@
         }
     ],
     "wof:id":1125338891,
-    "wof:lastmodified":1582357680,
+    "wof:lastmodified":1684354245,
     "wof:name":"Gmina Nowe Miasteczko",
     "wof:parent_id":102079825,
     "wof:placetype":"localadmin",
-    "wof:population":2825,
-    "wof:population_rank":4,
+    "wof:population":5358,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

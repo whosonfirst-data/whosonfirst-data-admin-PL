@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041060308",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Solec Kujawski",
+    "eurostat:nuts_2021_id":"1004041060308",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL613",
+    "eurostat:nuts_2021_level_lau":"1004041060308",
+    "eurostat:population":16799,
+    "eurostat:population_year":2020,
     "geom:area":0.02345,
-    "geom:area_square_m":174360404.407128,
+    "geom:area_square_m":174360404.407133,
     "geom:bbox":"18.099222,52.970382,18.407412,53.098767",
     "geom:latitude":53.035156,
     "geom:longitude":18.252424,
@@ -65,18 +77,24 @@
     "reversegeo:longitude":18.255354,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102080085,
-        85687319
+        85687319,
+        102080085
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041060308",
+        "eurostat:nuts_2021_id":"1004041060308"
+    },
     "wof:coterminous":[
         1477865967
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e5285bf1fe0b603a77c8a30fd425d3b1",
+    "wof:geomhash":"754f8cbc0d0df2285d74507b1d8c654e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477751757,
-    "wof:lastmodified":1607726659,
+    "wof:lastmodified":1684354374,
     "wof:name":"Gmina Solec Kujawski",
     "wof:parent_id":102080085,
     "wof:placetype":"localadmin",
+    "wof:population":16799,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

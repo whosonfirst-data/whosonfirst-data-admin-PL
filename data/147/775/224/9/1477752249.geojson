@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101180907",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strzelce Wielkie",
+    "eurostat:nuts_2021_id":"1005101180907",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101180907",
+    "eurostat:population":4571,
+    "eurostat:population_year":2020,
     "geom:area":0.01002,
-    "geom:area_square_m":77746965.722519,
+    "geom:area_square_m":77746965.72253,
     "geom:bbox":"19.074273051,51.092257323,19.280656934,51.172636568",
     "geom:latitude":51.136155,
     "geom:longitude":19.174744,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":19.172768,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079705
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101180907",
+        "eurostat:nuts_2021_id":"1005101180907"
+    },
     "wof:coterminous":[
         101822555
     ],
     "wof:country":"PL",
-    "wof:geomhash":"31f804480d5673bcdd0821dceea5daa5",
+    "wof:geomhash":"c207b18b4573be9f41040040c97b9539",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752249,
-    "wof:lastmodified":1570002957,
+    "wof:lastmodified":1684354400,
     "wof:name":"Strzelce Wielkie",
     "wof:parent_id":102079705,
     "wof:placetype":"localadmin",
+    "wof:population":4571,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

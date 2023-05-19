@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lubawka",
+    "eurostat:nuts_2021_id":"1003021010703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010703",
+    "eurostat:population":10851,
+    "eurostat:population_year":2020,
     "geom:area":0.017564,
-    "geom:area_square_m":137578522.6464,
+    "geom:area_square_m":137578522.646385,
     "geom:bbox":"15.829905222,50.59861861,16.109567647,50.761096651",
     "geom:latitude":50.693329,
     "geom:longitude":15.968305,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":15.977796,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079601
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010703",
+        "eurostat:nuts_2021_id":"1003021010703"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"3871efd2216a2d316ac3959884e18eb8",
+    "wof:geomhash":"32b18a3bc6e8a4220e2f6aead50caa0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751405,
-    "wof:lastmodified":1570004674,
+    "wof:lastmodified":1684354356,
     "wof:name":"Gmina Lubawka",
     "wof:parent_id":102079601,
     "wof:placetype":"localadmin",
+    "wof:population":10851,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

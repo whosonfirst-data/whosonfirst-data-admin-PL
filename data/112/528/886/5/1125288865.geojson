@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021032403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kamieniec Z\u0105bkowicki",
+    "eurostat:nuts_2021_id":"1003021032403",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021032403",
+    "eurostat:population":8086,
+    "eurostat:population_year":2020,
     "geom:area":0.012217,
-    "geom:area_square_m":96058062.348327,
+    "geom:area_square_m":96058062.348334,
     "geom:bbox":"16.794231928,50.473026228,17.02637015,50.568999799",
     "geom:latitude":50.513627,
     "geom:longitude":16.908864,
@@ -78,6 +90,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -90,6 +104,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021032403",
+        "eurostat:nuts_2021_id":"1003021032403",
         "gp:id":12618313,
         "qs_pg:id":1334270
     },
@@ -101,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6c7f8159cee35191a927675b8d4769a1",
+    "wof:geomhash":"13a6b8aab226c3c675a1d91fd4cf4f67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,10 +128,12 @@
         }
     ],
     "wof:id":1125288865,
-    "wof:lastmodified":1582357760,
+    "wof:lastmodified":1684354166,
     "wof:name":"Kamieniec Z\u0105bkowicki",
     "wof:parent_id":102079577,
     "wof:placetype":"localadmin",
+    "wof:population":8086,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

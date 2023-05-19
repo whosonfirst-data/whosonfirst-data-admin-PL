@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221421602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miko\u0142ajki Pomorskie",
+    "eurostat:nuts_2021_id":"1004221421602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221421602",
+    "eurostat:population":3627,
+    "eurostat:population_year":2020,
     "geom:area":0.012503,
-    "geom:area_square_m":91194055.25144,
+    "geom:area_square_m":91194055.251425,
     "geom:bbox":"19.076154075,53.80556602,19.332424743,53.893284208",
     "geom:latitude":53.85304,
     "geom:longitude":19.19621,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":19.226206,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102080179
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221421602",
+        "eurostat:nuts_2021_id":"1004221421602"
+    },
     "wof:coterminous":[
         101817593
     ],
     "wof:country":"PL",
-    "wof:geomhash":"89eb91d716370abe938e3c0f36e4ab24",
+    "wof:geomhash":"f45e83fffc482a09315d8185aa086de3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751189,
-    "wof:lastmodified":1570001472,
+    "wof:lastmodified":1684354345,
     "wof:name":"Miko\u0142ajki Pomorskie",
     "wof:parent_id":102080179,
     "wof:placetype":"localadmin",
+    "wof:population":3627,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142730606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jasieniec",
+    "eurostat:nuts_2021_id":"1007142730606",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL926",
+    "eurostat:nuts_2021_level_lau":"1007142730606",
+    "eurostat:population":5376,
+    "eurostat:population_year":2020,
     "geom:area":0.014102,
-    "geom:area_square_m":107832238.457738,
+    "geom:area_square_m":107832238.457736,
     "geom:bbox":"20.885689912,51.735575647,21.098182326,51.852780883",
     "geom:latitude":51.801518,
     "geom:longitude":20.991978,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":20.972652,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079877
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142730606",
+        "eurostat:nuts_2021_id":"1007142730606"
+    },
     "wof:coterminous":[
         1125880073
     ],
     "wof:country":"PL",
-    "wof:geomhash":"47875802024eff89f3a16b99d21b741d",
+    "wof:geomhash":"5932856678da552d2d7aa9f6bf47d7f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751637,
-    "wof:lastmodified":1570002362,
+    "wof:lastmodified":1684354367,
     "wof:name":"Jasieniec",
     "wof:parent_id":102079877,
     "wof:placetype":"localadmin",
+    "wof:population":5376,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

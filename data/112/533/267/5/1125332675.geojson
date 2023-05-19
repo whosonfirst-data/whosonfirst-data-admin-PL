@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dwikozy",
+    "eurostat:nuts_2021_id":"1005261530902",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530902",
+    "eurostat:population":8709,
+    "eurostat:population_year":2020,
     "geom:area":0.010783,
-    "geom:area_square_m":84367328.153137,
+    "geom:area_square_m":84367328.153148,
     "geom:bbox":"21.705267575,50.68004612,21.846216036,50.808558504",
     "geom:latitude":50.747257,
     "geom:longitude":21.782423,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530902",
+        "eurostat:nuts_2021_id":"1005261530902",
         "gn:id":772822,
         "gp:id":12618062,
         "qs_pg:id":52070
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"08f0c78ac23c7100d73a5c3e9e69f9b2",
+    "wof:geomhash":"0126d2aae52fa29ed42b2e5341093c9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125332675,
-    "wof:lastmodified":1582357682,
+    "wof:lastmodified":1684354242,
     "wof:name":"Dwikozy",
     "wof:parent_id":102079681,
     "wof:placetype":"localadmin",
-    "wof:population":1723,
-    "wof:population_rank":3,
+    "wof:population":8709,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

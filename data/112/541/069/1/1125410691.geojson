@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bochnia",
+    "eurostat:nuts_2021_id":"1001121200101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200101",
+    "eurostat:population":29718,
+    "eurostat:population_year":2020,
     "geom:area":0.003745,
-    "geom:area_square_m":29787645.435043,
+    "geom:area_square_m":29787645.435041,
     "geom:bbox":"20.385963818,49.937733013,20.472603248,50.011730719",
     "geom:latitude":49.969498,
     "geom:longitude":20.431429,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200101",
+        "eurostat:nuts_2021_id":"1001121200101",
         "gp:id":24548650,
         "qs_pg:id":231602
     },
@@ -110,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"72a09c83dcf61c73a92d8702d9c228da",
+    "wof:geomhash":"16ea992075430ed178eba6044485e7f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":1125410691,
-    "wof:lastmodified":1582358021,
+    "wof:lastmodified":1684354333,
     "wof:name":"Gmina Bochnia",
     "wof:parent_id":102079493,
     "wof:placetype":"localadmin",
+    "wof:population":29718,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

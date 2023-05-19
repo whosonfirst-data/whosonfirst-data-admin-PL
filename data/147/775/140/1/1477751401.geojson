@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pacan\u00f3w",
+    "eurostat:nuts_2021_id":"1005261530104",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530104",
+    "eurostat:population":7322,
+    "eurostat:population_year":2020,
     "geom:area":0.015746,
-    "geom:area_square_m":124178797.657971,
+    "geom:area_square_m":124178797.657943,
     "geom:bbox":"20.934470848,50.312787424,21.148357747,50.435349587",
     "geom:latitude":50.372172,
     "geom:longitude":21.037835,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":21.046683,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079615
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530104",
+        "eurostat:nuts_2021_id":"1005261530104"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"6944936cdd51fe40e536acfd57380973",
+    "wof:geomhash":"155a2bd68cc6a170808ac37c91fb837b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751401,
-    "wof:lastmodified":1570004665,
+    "wof:lastmodified":1684354356,
     "wof:name":"Gmina Pacan\u00f3w",
     "wof:parent_id":102079615,
     "wof:placetype":"localadmin",
+    "wof:population":7322,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

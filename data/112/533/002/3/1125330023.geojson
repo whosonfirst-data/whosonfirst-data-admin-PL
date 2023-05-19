@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021030808",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"L\u0105dek-Zdr\u00f3j",
+    "eurostat:nuts_2021_id":"1003021030808",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021030808",
+    "eurostat:population":8210,
+    "eurostat:population_year":2020,
     "geom:area":0.014813,
-    "geom:area_square_m":116877505.978168,
+    "geom:area_square_m":116877505.978178,
     "geom:bbox":"16.744504388,50.289286378,16.939322161,50.409170706",
     "geom:latitude":50.348891,
     "geom:longitude":16.837327,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -162,6 +175,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021030808",
+        "eurostat:nuts_2021_id":"1003021030808",
         "gn:id":3094016,
         "gp:id":24547774,
         "qs_pg:id":145584
@@ -171,7 +186,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"78e63ac052006e7809adbc7f74def929",
+    "wof:geomhash":"53f35f8cf8fbe5cfee1484ec709feec4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,11 +197,11 @@
         }
     ],
     "wof:id":1125330023,
-    "wof:lastmodified":1582357687,
+    "wof:lastmodified":1684354241,
     "wof:name":"Gmina L\u0105dek-Zdr\u00f3j",
     "wof:parent_id":102079559,
     "wof:placetype":"localadmin",
-    "wof:population":6140,
+    "wof:population":8210,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

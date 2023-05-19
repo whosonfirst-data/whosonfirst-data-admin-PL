@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142253706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017buromin",
+    "eurostat:nuts_2021_id":"1007142253706",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142253706",
+    "eurostat:population":14304,
+    "eurostat:population_year":2020,
     "geom:area":0.017809,
-    "geom:area_square_m":132383045.718318,
+    "geom:area_square_m":132383045.71831,
     "geom:bbox":"19.734184401,52.996651297,20.077635337,53.100430954",
     "geom:latitude":53.046396,
     "geom:longitude":19.911785,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":19.911771,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102080069
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142253706",
+        "eurostat:nuts_2021_id":"1007142253706"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"52f2c4b8b08ced8d6abf7a42c656aabf",
+    "wof:geomhash":"8b5a8d6335ec4f1c025d707a427c5a49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477751741,
-    "wof:lastmodified":1570001225,
+    "wof:lastmodified":1684354373,
     "wof:name":"Gmina \u017buromin",
     "wof:parent_id":102080069,
     "wof:placetype":"localadmin",
+    "wof:population":14304,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281560104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bisztynek",
+    "eurostat:nuts_2021_id":"1004281560104",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281560104",
+    "eurostat:population":6299,
+    "eurostat:population_year":2020,
     "geom:area":0.027853,
-    "geom:area_square_m":202014258.027615,
+    "geom:area_square_m":202014258.027631,
     "geom:bbox":"20.780646146,54.022852807,21.110770621,54.168751699",
     "geom:latitude":54.086309,
     "geom:longitude":20.940261,
@@ -144,7 +156,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -157,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281560104",
+        "eurostat:nuts_2021_id":"1004281560104",
         "gn:id":775886,
         "gp:id":24547694,
         "qs_pg:id":994228
@@ -166,7 +181,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"43243a85ad3a85ab91d9d80b540a2a87",
+    "wof:geomhash":"dcb6d85562f253a0c3d30ac4b69ca08e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,12 +192,12 @@
         }
     ],
     "wof:id":1125380471,
-    "wof:lastmodified":1582357931,
+    "wof:lastmodified":1684354298,
     "wof:name":"Gmina Bisztynek",
     "wof:parent_id":102080247,
     "wof:placetype":"localadmin",
-    "wof:population":2462,
-    "wof:population_rank":4,
+    "wof:population":6299,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

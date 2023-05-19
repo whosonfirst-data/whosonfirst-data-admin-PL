@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181351503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ropczyce",
+    "eurostat:nuts_2021_id":"1006181351503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL823",
+    "eurostat:nuts_2021_level_lau":"1006181351503",
+    "eurostat:population":27487,
+    "eurostat:population_year":2020,
     "geom:area":0.01745,
-    "geom:area_square_m":138613563.781525,
+    "geom:area_square_m":138613563.781528,
     "geom:bbox":"21.4641761,49.946345332,21.679552021,50.096624815",
     "geom:latitude":50.027833,
     "geom:longitude":21.568918,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":21.576262,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079547
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181351503",
+        "eurostat:nuts_2021_id":"1006181351503"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"46139967efb8874b15424001897b8b4c",
+    "wof:geomhash":"69094fb024eae509f61bc948c4a300df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477753015,
-    "wof:lastmodified":1569999342,
+    "wof:lastmodified":1684354442,
     "wof:name":"Gmina Ropczyce",
     "wof:parent_id":102079547,
     "wof:placetype":"localadmin",
+    "wof:population":27487,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

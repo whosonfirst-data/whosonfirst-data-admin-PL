@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321660404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowogard",
+    "eurostat:nuts_2021_id":"1002321660404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321660404",
+    "eurostat:population":24634,
+    "eurostat:population_year":2020,
     "geom:area":0.046065,
-    "geom:area_square_m":337272526.836761,
+    "geom:area_square_m":337272526.836807,
     "geom:bbox":"14.932881,53.586971,15.327319,53.796538",
     "geom:latitude":53.692722,
     "geom:longitude":15.113748,
@@ -149,7 +161,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -157,11 +170,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080123,
-        85687271
+        85687271,
+        102080123
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321660404",
+        "eurostat:nuts_2021_id":"1002321660404",
         "gn:id":3090558,
         "gp:id":24547424,
         "qs_pg:id":1043157
@@ -174,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f384346ee1b079b1b39127f2be9d31df",
+    "wof:geomhash":"8c2b375018db424616d7b8f2c57fa91f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,12 +200,12 @@
         }
     ],
     "wof:id":1125402043,
-    "wof:lastmodified":1607726623,
+    "wof:lastmodified":1684354326,
     "wof:name":"Gmina Nowogard",
     "wof:parent_id":102080123,
     "wof:placetype":"localadmin",
-    "wof:population":16703,
-    "wof:population_rank":6,
+    "wof:population":24634,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

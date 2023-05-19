@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021012602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Z\u0142otoryja",
+    "eurostat:nuts_2021_id":"1003021012602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021012602",
+    "eurostat:population":15496,
+    "eurostat:population_year":2020,
     "geom:area":0.001477,
     "geom:area_square_m":11465949.117703,
     "geom:bbox":"15.886619688,51.10269416,15.950495685,51.142074008",
@@ -62,6 +74,8 @@
     "reversegeo:longitude":15.919219,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079657
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021012602",
+        "eurostat:nuts_2021_id":"1003021012602"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"c2c1c7de820096f49fd8825ff4f4612c",
+    "wof:geomhash":"610daf8ba8f75c755eaee8d62fbac877",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751309,
-    "wof:lastmodified":1570002583,
+    "wof:lastmodified":1684354351,
     "wof:name":"Gmina Z\u0142otoryja",
     "wof:parent_id":102079657,
     "wof:placetype":"localadmin",
+    "wof:population":15496,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

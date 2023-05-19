@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281560903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lidzbark Warmi\u0144ski",
+    "eurostat:nuts_2021_id":"1004281560903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281560903",
+    "eurostat:population":6692,
+    "eurostat:population_year":2020,
     "geom:area":0.051132,
-    "geom:area_square_m":370532017.884398,
+    "geom:area_square_m":370532017.884378,
     "geom:bbox":"20.304579,53.998413,20.709143,54.22871",
     "geom:latitude":54.123276,
     "geom:longitude":20.51561,
@@ -62,18 +74,24 @@
     "reversegeo:longitude":20.470377,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102080215,
-        85687305
+        85687305,
+        102080215
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281560903",
+        "eurostat:nuts_2021_id":"1004281560903"
+    },
     "wof:coterminous":[
         1477865305
     ],
     "wof:country":"PL",
-    "wof:geomhash":"18058ce6f9c5a8a55415543aafe3f49a",
+    "wof:geomhash":"91409c6b84d7392b50174118db5e66e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751723,
-    "wof:lastmodified":1607726624,
+    "wof:lastmodified":1684354372,
     "wof:name":"Gmina Lidzbark Warmi\u0144ski",
     "wof:parent_id":102080215,
     "wof:placetype":"localadmin",
+    "wof:population":6692,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

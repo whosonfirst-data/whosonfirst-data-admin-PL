@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142270705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kozienice",
+    "eurostat:nuts_2021_id":"1007142270705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142270705",
+    "eurostat:population":29421,
+    "eurostat:population_year":2020,
     "geom:area":0.031654,
-    "geom:area_square_m":243121800.628596,
+    "geom:area_square_m":243121800.628615,
     "geom:bbox":"21.363070925,51.503765779,21.698598741,51.705952304",
     "geom:latitude":51.599455,
     "geom:longitude":21.513931,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":21.516455,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079859
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142270705",
+        "eurostat:nuts_2021_id":"1007142270705"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"7651a7ba6c18f0cd9ff1fd96568c0a1f",
+    "wof:geomhash":"c2749a537599e80a89af90939ced61cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751647,
-    "wof:lastmodified":1570002315,
+    "wof:lastmodified":1684354368,
     "wof:name":"Gmina Kozienice",
     "wof:parent_id":102079859,
     "wof:placetype":"localadmin",
+    "wof:population":29421,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

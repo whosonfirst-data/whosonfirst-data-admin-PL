@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201371107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sidra",
+    "eurostat:nuts_2021_id":"1006201371107",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201371107",
+    "eurostat:population":3407,
+    "eurostat:population_year":2020,
     "geom:area":0.023595,
-    "geom:area_square_m":173377373.06363,
+    "geom:area_square_m":173377373.063623,
     "geom:bbox":"23.305035423,53.463147439,23.605746762,53.615386743",
     "geom:latitude":53.540473,
     "geom:longitude":23.457411,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":23.459638,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080189
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201371107",
+        "eurostat:nuts_2021_id":"1006201371107"
+    },
     "wof:coterminous":[
         1126016627
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a4a5912a198a3355a670d45e77a598c5",
+    "wof:geomhash":"bf6c8b322211d6e30ce628fe1457049e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751721,
-    "wof:lastmodified":1570001687,
+    "wof:lastmodified":1684354372,
     "wof:name":"Sidra",
     "wof:parent_id":102080189,
     "wof:placetype":"localadmin",
+    "wof:population":3407,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boles\u0142awiec",
+    "eurostat:nuts_2021_id":"1003021010102",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010102",
+    "eurostat:population":14699,
+    "eurostat:population_year":2020,
     "geom:area":0.03726,
-    "geom:area_square_m":288008665.249205,
+    "geom:area_square_m":288008665.249187,
     "geom:bbox":"15.435163,51.175601,15.667149,51.467389",
     "geom:latitude":51.308583,
     "geom:longitude":15.574234,
@@ -35,18 +47,24 @@
     "reversegeo:longitude":15.58454,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079707,
-        85687301
+        85687301,
+        102079707
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010102",
+        "eurostat:nuts_2021_id":"1003021010102"
+    },
     "wof:coterminous":[
         1477865369
     ],
     "wof:country":"PL",
-    "wof:geomhash":"d519ae0def7629a1f9d8eb7c986abd7c",
+    "wof:geomhash":"739612d1ed0227c7e119ef548bffdd78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752769,
-    "wof:lastmodified":1607726658,
+    "wof:lastmodified":1684354428,
     "wof:name":"Gmina Boles\u0142awiec",
     "wof:parent_id":102079707,
     "wof:placetype":"localadmin",
+    "wof:population":14699,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

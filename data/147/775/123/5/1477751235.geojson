@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trzciana",
+    "eurostat:nuts_2021_id":"1001121200108",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200108",
+    "eurostat:population":5641,
+    "eurostat:population_year":2020,
     "geom:area":0.00551,
-    "geom:area_square_m":43949060.018433,
+    "geom:area_square_m":43949060.018428,
     "geom:bbox":"20.327755913,49.777264508,20.426794972,49.882456109",
     "geom:latitude":49.834388,
     "geom:longitude":20.373139,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":20.373885,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079493
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200108",
+        "eurostat:nuts_2021_id":"1001121200108"
+    },
     "wof:coterminous":[
         1477865473
     ],
     "wof:country":"PL",
-    "wof:geomhash":"d776af3c92bf484e73a9958e7ac27420",
+    "wof:geomhash":"31a6c44128542787c6d084aa239c1d60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751235,
-    "wof:lastmodified":1570004189,
+    "wof:lastmodified":1684354347,
     "wof:name":"Trzciana",
     "wof:parent_id":102079493,
     "wof:placetype":"localadmin",
+    "wof:population":5641,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

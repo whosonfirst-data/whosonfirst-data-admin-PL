@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142250206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ojrze\u0144",
+    "eurostat:nuts_2021_id":"1007142250206",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142250206",
+    "eurostat:population":4291,
+    "eurostat:population_year":2020,
     "geom:area":0.016008,
-    "geom:area_square_m":119765752.680534,
+    "geom:area_square_m":119765752.680557,
     "geom:bbox":"20.429161873,52.70044682,20.636324497,52.83213075",
     "geom:latitude":52.767464,
     "geom:longitude":20.526644,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.528588,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080055
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142250206",
+        "eurostat:nuts_2021_id":"1007142250206"
+    },
     "wof:coterminous":[
         1477864083
     ],
     "wof:country":"PL",
-    "wof:geomhash":"4811ff7e00e1d2eefb83154d46b0c5b3",
+    "wof:geomhash":"18338a35c571b9cf571ce9b6ae91fdbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125375695,
-    "wof:lastmodified":1569992754,
+    "wof:lastmodified":1684354292,
     "wof:name":"Ojrze\u0144",
     "wof:parent_id":102080055,
     "wof:placetype":"localadmin",
+    "wof:population":4291,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

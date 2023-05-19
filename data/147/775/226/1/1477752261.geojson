@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021012501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zawid\u00f3w",
+    "eurostat:nuts_2021_id":"1003021012501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021012501",
+    "eurostat:population":4180,
+    "eurostat:population_year":2020,
     "geom:area":0.000777,
-    "geom:area_square_m":6045142.412565,
+    "geom:area_square_m":6045142.412566,
     "geom:bbox":"15.019874958,51.011642077,15.070664418,51.037366911",
     "geom:latitude":51.02469,
     "geom:longitude":15.045845,
@@ -86,6 +98,8 @@
     "reversegeo:longitude":15.04584,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -93,11 +107,15 @@
         102079695
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021012501",
+        "eurostat:nuts_2021_id":"1003021012501"
+    },
     "wof:coterminous":[
         101822853
     ],
     "wof:country":"PL",
-    "wof:geomhash":"795bfdeec87ddff9735681f23c9acbb5",
+    "wof:geomhash":"a561c0e150216998d75b3ded790fc92e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,10 +126,12 @@
         }
     ],
     "wof:id":1477752261,
-    "wof:lastmodified":1570129463,
+    "wof:lastmodified":1684354401,
     "wof:name":"Zawid\u00f3w",
     "wof:parent_id":102079695,
     "wof:placetype":"localadmin",
+    "wof:population":4180,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

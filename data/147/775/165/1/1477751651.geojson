@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borowa",
+    "eurostat:nuts_2021_id":"1006181361102",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361102",
+    "eurostat:population":5541,
+    "eurostat:population_year":2020,
     "geom:area":0.006992,
-    "geom:area_square_m":55126817.971675,
+    "geom:area_square_m":55126817.971664,
     "geom:bbox":"21.245349988,50.341030664,21.396194238,50.430544109",
     "geom:latitude":50.384138,
     "geom:longitude":21.326133,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":21.332436,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,11 +80,15 @@
         102079597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361102",
+        "eurostat:nuts_2021_id":"1006181361102"
+    },
     "wof:coterminous":[
         101823681
     ],
     "wof:country":"PL",
-    "wof:geomhash":"7afb6a8ed5ca64b33976035e2a48144b",
+    "wof:geomhash":"821521667cd69fb74a017ad40416ea0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751651,
-    "wof:lastmodified":1570002139,
+    "wof:lastmodified":1684354368,
     "wof:name":"Borowa",
     "wof:parent_id":102079597,
     "wof:placetype":"localadmin",
+    "wof:population":5541,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

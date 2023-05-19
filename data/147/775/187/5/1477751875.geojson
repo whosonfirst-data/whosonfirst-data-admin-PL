@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142270106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wy\u015bmierzyce",
+    "eurostat:nuts_2021_id":"1007142270106",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142270106",
+    "eurostat:population":2779,
+    "eurostat:population_year":2020,
     "geom:area":0.013675,
-    "geom:area_square_m":105028268.089736,
+    "geom:area_square_m":105028268.08973,
     "geom:bbox":"20.643589941,51.539368041,20.930127511,51.656784239",
     "geom:latitude":51.603163,
     "geom:longitude":20.779958,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":20.741717,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079839
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142270106",
+        "eurostat:nuts_2021_id":"1007142270106"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"c2c4ac7daf46d5d6670eb5a2e4886fc4",
+    "wof:geomhash":"0bc0e69d7720143e4fc5b596b7af1e93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477751875,
-    "wof:lastmodified":1570001310,
+    "wof:lastmodified":1684354380,
     "wof:name":"Gmina Wy\u015bmierzyce",
     "wof:parent_id":102079839,
     "wof:placetype":"localadmin",
+    "wof:population":2779,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

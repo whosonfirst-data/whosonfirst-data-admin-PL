@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201390901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sejny",
+    "eurostat:nuts_2021_id":"1006201390901",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201390901",
+    "eurostat:population":5260,
+    "eurostat:population_year":2020,
     "geom:area":0.000616,
-    "geom:area_square_m":4467468.421798,
+    "geom:area_square_m":4467468.421795,
     "geom:bbox":"23.328519,54.09581,23.367035,54.125297",
     "geom:latitude":54.109154,
     "geom:longitude":23.345882,
@@ -164,7 +176,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -172,11 +185,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080257,
-        85687283
+        85687283,
+        102080257
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201390901",
+        "eurostat:nuts_2021_id":"1006201390901",
         "gn:id":759503,
         "gp:id":24548221,
         "qs_pg:id":1078766
@@ -189,7 +204,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"33be12e309ccf317e61e64fc6b292776",
+    "wof:geomhash":"cdefb45eaf0253f6a85a4e5a1be81ab0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,11 +215,11 @@
         }
     ],
     "wof:id":1125279759,
-    "wof:lastmodified":1607724819,
+    "wof:lastmodified":1684354147,
     "wof:name":"Gmina Sejny",
     "wof:parent_id":102080257,
     "wof:placetype":"localadmin",
-    "wof:population":5872,
+    "wof:population":5260,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

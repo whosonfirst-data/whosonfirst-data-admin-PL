@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181330703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Iwonicz-Zdr\u00f3j",
+    "eurostat:nuts_2021_id":"1006181330703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181330703",
+    "eurostat:population":10886,
+    "eurostat:population_year":2020,
     "geom:area":0.005655,
-    "geom:area_square_m":45348213.31811,
+    "geom:area_square_m":45348213.318118,
     "geom:bbox":"21.732339,49.507749,21.836258,49.624936",
     "geom:latitude":49.567202,
     "geom:longitude":21.777961,
@@ -143,7 +155,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -151,11 +164,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079455,
-        85687295
+        85687295,
+        102079455
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181330703",
+        "eurostat:nuts_2021_id":"1006181330703",
         "gn:id":770759,
         "gp:id":24548528,
         "qs_pg:id":1113158
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b99db2bb8812df8c10dd0312b5defb6f",
+    "wof:geomhash":"fca64a0d46ac7af893d81f1161207bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,12 +194,12 @@
         }
     ],
     "wof:id":1125328163,
-    "wof:lastmodified":1607726744,
+    "wof:lastmodified":1684354238,
     "wof:name":"Gmina Iwonicz-Zdr\u00f3j",
     "wof:parent_id":102079455,
     "wof:placetype":"localadmin",
-    "wof:population":1860,
-    "wof:population_rank":3,
+    "wof:population":10886,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

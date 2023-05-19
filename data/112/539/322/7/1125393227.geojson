@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181341406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przeworsk",
+    "eurostat:nuts_2021_id":"1006181341406",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181341406",
+    "eurostat:population":14863,
+    "eurostat:population_year":2020,
     "geom:area":0.011398,
-    "geom:area_square_m":90474960.70682,
+    "geom:area_square_m":90474960.706787,
     "geom:bbox":"22.373663874,50.001360296,22.605883437,50.117137795",
     "geom:latitude":50.063285,
     "geom:longitude":22.485258,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181341406",
+        "eurostat:nuts_2021_id":"1006181341406",
         "gp:id":24548633,
         "qs_pg:id":1019037
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d4112fb9c85dac3771c875ec2b293de9",
+    "wof:geomhash":"c1abe7f040980f900507670c46f38c9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125393227,
-    "wof:lastmodified":1582357914,
+    "wof:lastmodified":1684354311,
     "wof:name":"Gmina Przeworsk",
     "wof:parent_id":102079589,
     "wof:placetype":"localadmin",
+    "wof:population":14863,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

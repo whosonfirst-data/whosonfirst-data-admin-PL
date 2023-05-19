@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241500105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mierz\u0119cice",
+    "eurostat:nuts_2021_id":"1001241500105",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22B",
+    "eurostat:nuts_2021_level_lau":"1001241500105",
+    "eurostat:population":7635,
+    "eurostat:population_year":2020,
     "geom:area":0.006265,
-    "geom:area_square_m":49333559.418624,
+    "geom:area_square_m":49333559.418625,
     "geom:bbox":"19.063779528,50.385818331,19.200293644,50.504691066",
     "geom:latitude":50.4431,
     "geom:longitude":19.137163,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241500105",
+        "eurostat:nuts_2021_id":"1001241500105",
         "gn:id":3091894,
         "gp:id":12617857,
         "qs_pg:id":332016
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a313f624209ac1210a82bee455e766bb",
+    "wof:geomhash":"903f2bea6231439b71a7220bc00347e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125292601,
-    "wof:lastmodified":1582357814,
+    "wof:lastmodified":1684354180,
     "wof:name":"Mierz\u0119cice",
     "wof:parent_id":102079527,
     "wof:placetype":"localadmin",
-    "wof:population":2676,
-    "wof:population_rank":4,
+    "wof:population":7635,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

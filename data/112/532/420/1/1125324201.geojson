@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161311003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lubrza",
+    "eurostat:nuts_2021_id":"1003161311003",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161311003",
+    "eurostat:population":4342,
+    "eurostat:population_year":2020,
     "geom:area":0.010491,
-    "geom:area_square_m":82822340.561327,
+    "geom:area_square_m":82822340.561313,
     "geom:bbox":"17.55547983,50.265957488,17.768945468,50.373953829",
     "geom:latitude":50.321731,
     "geom:longitude":17.648759,
@@ -67,7 +79,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -80,6 +93,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161311003",
+        "eurostat:nuts_2021_id":"1003161311003",
         "gn:id":3092817,
         "gp:id":12617277,
         "qs_pg:id":23973
@@ -92,7 +107,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bed5aa3ae9064642c6c64ba9b5edbac0",
+    "wof:geomhash":"e9f69988b7d4a2a85ce7ed5ee31350b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,12 +118,12 @@
         }
     ],
     "wof:id":1125324201,
-    "wof:lastmodified":1582357740,
+    "wof:lastmodified":1684354227,
     "wof:name":"Lubrza",
     "wof:parent_id":102079549,
     "wof:placetype":"localadmin",
-    "wof:population":988,
-    "wof:population_rank":2,
+    "wof:population":4342,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

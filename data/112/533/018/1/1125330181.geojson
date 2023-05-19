@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321661409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stara D\u0105browa",
+    "eurostat:nuts_2021_id":"1002321661409",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321661409",
+    "eurostat:population":3720,
+    "eurostat:population_year":2020,
     "geom:area":0.015223,
-    "geom:area_square_m":112125128.298791,
+    "geom:area_square_m":112125128.298792,
     "geom:bbox":"15.012040054,53.380669475,15.269953573,53.496990535",
     "geom:latitude":53.439423,
     "geom:longitude":15.134991,
@@ -71,7 +83,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -84,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321661409",
+        "eurostat:nuts_2021_id":"1002321661409",
         "gn:id":3084965,
         "gp:id":12616752,
         "qs_pg:id":49121
@@ -96,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"18e6cde370162da375a84c263a4b85e1",
+    "wof:geomhash":"26fed0c2da80d71fc997474d0a998f23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,12 +122,12 @@
         }
     ],
     "wof:id":1125330181,
-    "wof:lastmodified":1582357686,
+    "wof:lastmodified":1684354241,
     "wof:name":"Stara D\u0105browa",
     "wof:parent_id":102080083,
     "wof:placetype":"localadmin",
-    "wof:population":618,
-    "wof:population_rank":2,
+    "wof:population":3720,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

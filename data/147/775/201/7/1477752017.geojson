@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201371106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowy Dw\u00f3r",
+    "eurostat:nuts_2021_id":"1006201371106",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201371106",
+    "eurostat:population":2618,
+    "eurostat:population_year":2020,
     "geom:area":0.016461,
     "geom:area_square_m":120637536.324267,
     "geom:bbox":"23.408999992,53.592406264,23.624756929,53.710236127",
@@ -53,6 +65,8 @@
     "reversegeo:longitude":23.542461,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -60,11 +74,15 @@
         102080189
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201371106",
+        "eurostat:nuts_2021_id":"1006201371106"
+    },
     "wof:coterminous":[
         1126010747
     ],
     "wof:country":"PL",
-    "wof:geomhash":"d5878a5b1dab290b3f1c06c1ddc10991",
+    "wof:geomhash":"39d23e9264f77559c3a127c6c4f970d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477752017,
-    "wof:lastmodified":1570003813,
+    "wof:lastmodified":1684354387,
     "wof:name":"Nowy Dw\u00f3r",
     "wof:parent_id":102080189,
     "wof:placetype":"localadmin",
+    "wof:population":2618,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

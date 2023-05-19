@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paszowice",
+    "eurostat:nuts_2021_id":"1003021010505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010505",
+    "eurostat:population":3997,
+    "eurostat:population_year":2020,
     "geom:area":0.012947,
-    "geom:area_square_m":100758268.446866,
+    "geom:area_square_m":100758268.446862,
     "geom:bbox":"16.021511523,50.943981048,16.240363445,51.05231522",
     "geom:latitude":50.997254,
     "geom:longitude":16.13213,
@@ -54,6 +66,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -66,6 +80,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010505",
+        "eurostat:nuts_2021_id":"1003021010505",
         "gp:id":12617790,
         "qs_pg:id":1080831
     },
@@ -77,7 +93,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"461c827f88953e18b66b5cc9e17d443c",
+    "wof:geomhash":"3f00a387039d20df5b875a4c61235204",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,10 +104,12 @@
         }
     ],
     "wof:id":1125280459,
-    "wof:lastmodified":1582357773,
+    "wof:lastmodified":1684354147,
     "wof:name":"Paszowice",
     "wof:parent_id":102079645,
     "wof:placetype":"localadmin",
+    "wof:population":3997,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

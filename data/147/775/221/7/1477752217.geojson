@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cisek",
+    "eurostat:nuts_2021_id":"1003161320303",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320303",
+    "eurostat:population":5593,
+    "eurostat:population_year":2020,
     "geom:area":0.008959,
-    "geom:area_square_m":70840963.178497,
+    "geom:area_square_m":70840963.178543,
     "geom:bbox":"18.150277101,50.180955181,18.267448394,50.328910126",
     "geom:latitude":50.247156,
     "geom:longitude":18.202269,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":18.212852,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079523
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320303",
+        "eurostat:nuts_2021_id":"1003161320303"
+    },
     "wof:coterminous":[
         101824847
     ],
     "wof:country":"PL",
-    "wof:geomhash":"cc1d45bad3518263ccce2d0794d57bba",
+    "wof:geomhash":"b502abe79a23e7e34a50deadd0cfc4c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752217,
-    "wof:lastmodified":1570000025,
+    "wof:lastmodified":1684354399,
     "wof:name":"Cisek",
     "wof:parent_id":102079523,
     "wof:placetype":"localadmin",
+    "wof:population":5593,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

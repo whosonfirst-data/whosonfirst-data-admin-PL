@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gogolin",
+    "eurostat:nuts_2021_id":"1003161320501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320501",
+    "eurostat:population":12662,
+    "eurostat:population_year":2020,
     "geom:area":0.012736,
-    "geom:area_square_m":100157829.692703,
+    "geom:area_square_m":100157829.6927,
     "geom:bbox":"17.944954066,50.436384878,18.118009895,50.562255825",
     "geom:latitude":50.507456,
     "geom:longitude":18.035048,
@@ -143,7 +155,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -156,6 +169,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320501",
+        "eurostat:nuts_2021_id":"1003161320501",
         "gn:id":3099048,
         "gp:id":24548509,
         "qs_pg:id":1115357
@@ -165,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"23325cdd8a7f79432d2397a69c961edb",
+    "wof:geomhash":"ba660aab1e4180b7dd97c97562ad9be2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,12 +191,12 @@
         }
     ],
     "wof:id":1125330421,
-    "wof:lastmodified":1582357685,
+    "wof:lastmodified":1684354241,
     "wof:name":"Gmina Gogolin",
     "wof:parent_id":102079553,
     "wof:placetype":"localadmin",
-    "wof:population":6077,
-    "wof:population_rank":5,
+    "wof:population":12662,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

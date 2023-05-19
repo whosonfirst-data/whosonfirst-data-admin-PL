@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261611",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zar\u0119by Ko\u015bcielne",
+    "eurostat:nuts_2021_id":"1007142261611",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261611",
+    "eurostat:population":3645,
+    "eurostat:population_year":2020,
     "geom:area":0.011807,
-    "geom:area_square_m":88378753.603526,
+    "geom:area_square_m":88378753.603502,
     "geom:bbox":"22.03726023,52.691693452,22.227084622,52.799790737",
     "geom:latitude":52.746928,
     "geom:longitude":22.135632,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":22.143513,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080057
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261611",
+        "eurostat:nuts_2021_id":"1007142261611"
+    },
     "wof:coterminous":[
         1125927863
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a7b8152c702221c020f99ed3c2dee3ec",
+    "wof:geomhash":"556429ed1a1637d5e6ca65563a59770f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751495,
-    "wof:lastmodified":1570004751,
+    "wof:lastmodified":1684354360,
     "wof:name":"Zar\u0119by Ko\u015bcielne",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",
+    "wof:population":3645,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

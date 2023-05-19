@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161321105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strzelce Opolskie",
+    "eurostat:nuts_2021_id":"1003161321105",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161321105",
+    "eurostat:population":30515,
+    "eurostat:population_year":2020,
     "geom:area":0.025679,
-    "geom:area_square_m":201824097.90852,
+    "geom:area_square_m":201824097.908516,
     "geom:bbox":"18.094816838,50.458275515,18.485992684,50.64244805",
     "geom:latitude":50.533825,
     "geom:longitude":18.283713,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":18.270442,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079587
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161321105",
+        "eurostat:nuts_2021_id":"1003161321105"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"9c63527b86b178de0436af59310a29b7",
+    "wof:geomhash":"aa3c5b7c11674eb758ebe1dd0ab6222a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752175,
-    "wof:lastmodified":1570000185,
+    "wof:lastmodified":1684354397,
     "wof:name":"Gmina Strzelce Opolskie",
     "wof:parent_id":102079587,
     "wof:placetype":"localadmin",
+    "wof:population":30515,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

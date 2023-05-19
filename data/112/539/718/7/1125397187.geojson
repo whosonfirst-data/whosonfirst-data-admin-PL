@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241451305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krupski M\u0142yn",
+    "eurostat:nuts_2021_id":"1001241451305",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL228",
+    "eurostat:nuts_2021_level_lau":"1001241451305",
+    "eurostat:population":3185,
+    "eurostat:population_year":2020,
     "geom:area":0.004965,
-    "geom:area_square_m":38994847.521147,
+    "geom:area_square_m":38994847.521144,
     "geom:bbox":"18.590800349,50.53509887,18.714761821,50.604453041",
     "geom:latitude":50.570954,
     "geom:longitude":18.649464,
@@ -72,7 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -85,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241451305",
+        "eurostat:nuts_2021_id":"1001241451305",
         "gn:id":3094597,
         "gp:id":12618008,
         "qs_pg:id":1023400
@@ -97,7 +112,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3935c1f67e320e7035e2880b93d44d0f",
+    "wof:geomhash":"9bbeea4dacb102845e7722eb707eab33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1125397187,
-    "wof:lastmodified":1582357923,
+    "wof:lastmodified":1684354319,
     "wof:name":"Krupski M\u0142yn",
     "wof:parent_id":102079581,
     "wof:placetype":"localadmin",
-    "wof:population":2598,
+    "wof:population":3185,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241441706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lipowa",
+    "eurostat:nuts_2021_id":"1001241441706",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241441706",
+    "eurostat:population":10846,
+    "eurostat:population_year":2020,
     "geom:area":0.007313,
-    "geom:area_square_m":58522971.731412,
+    "geom:area_square_m":58522971.73142,
     "geom:bbox":"19.001090731,49.628157881,19.159092908,49.707134896",
     "geom:latitude":49.670302,
     "geom:longitude":19.0712,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":19.065786,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079411
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241441706",
+        "eurostat:nuts_2021_id":"1001241441706"
+    },
     "wof:coterminous":[
         1125962709
     ],
     "wof:country":"PL",
-    "wof:geomhash":"065671ce9c6290925a0c0f1e5602ca53",
+    "wof:geomhash":"e9a8b5db266e3f3789fafd183077284b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752347,
-    "wof:lastmodified":1570001195,
+    "wof:lastmodified":1684354405,
     "wof:name":"Lipowa",
     "wof:parent_id":102079411,
     "wof:placetype":"localadmin",
+    "wof:population":10846,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

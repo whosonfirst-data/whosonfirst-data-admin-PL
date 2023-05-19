@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142700402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gostynin",
+    "eurostat:nuts_2021_id":"1007142700402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL923",
+    "eurostat:nuts_2021_level_lau":"1007142700402",
+    "eurostat:population":12005,
+    "eurostat:population_year":2020,
     "geom:area":0.035721,
-    "geom:area_square_m":269319457.105547,
+    "geom:area_square_m":269319457.105595,
     "geom:bbox":"19.259214,52.333259,19.569259,52.526071",
     "geom:latitude":52.429184,
     "geom:longitude":19.426674,
@@ -62,18 +74,24 @@
     "reversegeo:longitude":19.366938,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079959,
-        85687257
+        85687257,
+        102079959
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142700402",
+        "eurostat:nuts_2021_id":"1007142700402"
+    },
     "wof:coterminous":[
         1477865821
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f0c3181163c7a493f908b58ec0f606b9",
+    "wof:geomhash":"26560817ef7762582cbc77371b4ca7e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752569,
-    "wof:lastmodified":1607726734,
+    "wof:lastmodified":1684354416,
     "wof:name":"Gmina Gostynin",
     "wof:parent_id":102079959,
     "wof:placetype":"localadmin",
+    "wof:population":12005,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

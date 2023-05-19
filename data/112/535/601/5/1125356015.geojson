@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321630807",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ustronie Morskie",
+    "eurostat:nuts_2021_id":"1002321630807",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321630807",
+    "eurostat:population":3685,
+    "eurostat:population_year":2020,
     "geom:area":0.007841,
-    "geom:area_square_m":56737034.836455,
+    "geom:area_square_m":56737034.83646,
     "geom:bbox":"15.637066021,54.145285077,15.846010612,54.227224416",
     "geom:latitude":54.185278,
     "geom:longitude":15.748785,
@@ -72,6 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321630807",
+        "eurostat:nuts_2021_id":"1002321630807",
         "gp:id":12616785,
         "qs_pg:id":1153814
     },
@@ -95,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1e267c96b6424629e0c9d12ce1a3fb39",
+    "wof:geomhash":"dc9603c61927d81bb5b9885357256b6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":1125356015,
-    "wof:lastmodified":1582357716,
+    "wof:lastmodified":1684354261,
     "wof:name":"Ustronie Morskie",
     "wof:parent_id":102080177,
     "wof:placetype":"localadmin",
+    "wof:population":3685,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

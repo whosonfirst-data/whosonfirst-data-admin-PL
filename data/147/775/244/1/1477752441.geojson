@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301572006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pleszew",
+    "eurostat:nuts_2021_id":"1002301572006",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301572006",
+    "eurostat:population":29807,
+    "eurostat:population_year":2020,
     "geom:area":0.023535,
-    "geom:area_square_m":179640516.755173,
+    "geom:area_square_m":179640516.755184,
     "geom:bbox":"17.667073344,51.788922239,17.945393604,51.965900555",
     "geom:latitude":51.880793,
     "geom:longitude":17.803226,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":17.780172,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079847
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301572006",
+        "eurostat:nuts_2021_id":"1002301572006"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"4dc005ca9f8619505008e23e15cfdfe4",
+    "wof:geomhash":"3a4e83877d1e235fa33311b4d84e8c11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752441,
-    "wof:lastmodified":1570000315,
+    "wof:lastmodified":1684354410,
     "wof:name":"Gmina Pleszew",
     "wof:parent_id":102079847,
     "wof:placetype":"localadmin",
+    "wof:population":29807,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

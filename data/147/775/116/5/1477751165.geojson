@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pi\u0144cz\u00f3w",
+    "eurostat:nuts_2021_id":"1005261530804",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530804",
+    "eurostat:population":20626,
+    "eurostat:population_year":2020,
     "geom:area":0.02696,
-    "geom:area_square_m":212105646.899743,
+    "geom:area_square_m":212105646.899699,
     "geom:bbox":"20.400202653,50.388777128,20.684447433,50.574236875",
     "geom:latitude":50.486107,
     "geom:longitude":20.54774,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":20.569088,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079619
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530804",
+        "eurostat:nuts_2021_id":"1005261530804"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"f93f5b0216cdccccb7980c2a9bf486f7",
+    "wof:geomhash":"fb8fb370abf43069a08c2fcf8e690880",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751165,
-    "wof:lastmodified":1570001465,
+    "wof:lastmodified":1684354344,
     "wof:name":"Gmina Pi\u0144cz\u00f3w",
     "wof:parent_id":102079619,
     "wof:placetype":"localadmin",
+    "wof:population":20626,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

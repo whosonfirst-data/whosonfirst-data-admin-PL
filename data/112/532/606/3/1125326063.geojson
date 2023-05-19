@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301592202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jutrosin",
+    "eurostat:nuts_2021_id":"1002301592202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301592202",
+    "eurostat:population":7053,
+    "eurostat:population_year":2020,
     "geom:area":0.014911,
-    "geom:area_square_m":114438604.707308,
+    "geom:area_square_m":114438604.707316,
     "geom:bbox":"17.078317722,51.565317639,17.260429492,51.705189205",
     "geom:latitude":51.635147,
     "geom:longitude":17.158195,
@@ -131,7 +143,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -144,6 +157,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301592202",
+        "eurostat:nuts_2021_id":"1002301592202",
         "gn:id":3096999,
         "gp:id":24547969,
         "qs_pg:id":502793
@@ -153,7 +168,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2e0697729da06f46181e0bdfd0454eef",
+    "wof:geomhash":"63388c81a132aa0a60130520da15b738",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,12 +179,12 @@
         }
     ],
     "wof:id":1125326063,
-    "wof:lastmodified":1582357744,
+    "wof:lastmodified":1684354234,
     "wof:name":"Gmina Jutrosin",
     "wof:parent_id":102079767,
     "wof:placetype":"localadmin",
-    "wof:population":1908,
-    "wof:population_rank":3,
+    "wof:population":7053,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

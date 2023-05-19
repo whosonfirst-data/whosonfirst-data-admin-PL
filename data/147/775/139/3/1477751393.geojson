@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u0105dro\u017ce Wielkie",
+    "eurostat:nuts_2021_id":"1003021010506",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010506",
+    "eurostat:population":3912,
+    "eurostat:population_year":2020,
     "geom:area":0.011427,
-    "geom:area_square_m":88724332.629257,
+    "geom:area_square_m":88724332.629253,
     "geom:bbox":"16.254908631,51.057922377,16.480376107,51.149530992",
     "geom:latitude":51.101324,
     "geom:longitude":16.369144,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":16.348685,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079645
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010506",
+        "eurostat:nuts_2021_id":"1003021010506"
+    },
     "wof:coterminous":[
         1125844969
     ],
     "wof:country":"PL",
-    "wof:geomhash":"443af5e1aafc0efb68f638b1997f984e",
+    "wof:geomhash":"9590b98d6da3eebc730a8441ba15b120",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751393,
-    "wof:lastmodified":1570002551,
+    "wof:lastmodified":1684354355,
     "wof:name":"W\u0105dro\u017ce Wielkie",
     "wof:parent_id":102079645,
     "wof:placetype":"localadmin",
+    "wof:population":3912,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

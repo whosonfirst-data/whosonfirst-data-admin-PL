@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061106401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zamo\u015b\u0107",
+    "eurostat:nuts_2021_id":"1006061106401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061106401",
+    "eurostat:population":63437,
+    "eurostat:population_year":2020,
     "geom:area":0.003861,
-    "geom:area_square_m":30229171.151117,
+    "geom:area_square_m":30229171.151114,
     "geom:bbox":"23.190239173,50.692415889,23.306795457,50.750379845",
     "geom:latitude":50.720809,
     "geom:longitude":23.258628,
@@ -242,6 +254,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -254,6 +268,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061106401",
+        "eurostat:nuts_2021_id":"1006061106401",
         "gn:id":7532192,
         "gp:id":12618796,
         "qs_pg:id":24296
@@ -263,7 +279,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"04956baf7953347c2c382c3df5bdd15b",
+    "wof:geomhash":"357b68d2d735e033f089de4ad5bb430f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -274,10 +290,12 @@
         }
     ],
     "wof:id":1125289385,
-    "wof:lastmodified":1582357754,
+    "wof:lastmodified":1684354172,
     "wof:name":"Gmina Zamo\u015b\u0107",
     "wof:parent_id":102079687,
     "wof:placetype":"localadmin",
+    "wof:population":63437,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

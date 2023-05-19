@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grabica",
+    "eurostat:nuts_2021_id":"1005101171004",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171004",
+    "eurostat:population":6053,
+    "eurostat:population_year":2020,
     "geom:area":0.016506,
-    "geom:area_square_m":127126262.305088,
+    "geom:area_square_m":127126262.305106,
     "geom:bbox":"19.411750849,51.413014483,19.668673631,51.543887045",
     "geom:latitude":51.475685,
     "geom:longitude":19.538179,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":19.525605,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079783
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171004",
+        "eurostat:nuts_2021_id":"1005101171004"
+    },
     "wof:coterminous":[
         1477864955
     ],
     "wof:country":"PL",
-    "wof:geomhash":"14db98050d4066cd52936656ba7d8456",
+    "wof:geomhash":"df7c555dda09417c5377b40f17f5c32a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125354173,
-    "wof:lastmodified":1569988765,
+    "wof:lastmodified":1684354260,
     "wof:name":"Grabica",
     "wof:parent_id":102079783,
     "wof:placetype":"localadmin",
+    "wof:population":6053,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

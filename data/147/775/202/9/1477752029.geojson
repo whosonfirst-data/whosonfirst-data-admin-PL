@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021021103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rudna",
+    "eurostat:nuts_2021_id":"1003021021103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021021103",
+    "eurostat:population":7806,
+    "eurostat:population_year":2020,
     "geom:area":0.028051,
-    "geom:area_square_m":215836236.337877,
+    "geom:area_square_m":215836236.337891,
     "geom:bbox":"16.177917162,51.432436946,16.482214564,51.612858155",
     "geom:latitude":51.519012,
     "geom:longitude":16.329449,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":16.365101,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079735
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021021103",
+        "eurostat:nuts_2021_id":"1003021021103"
+    },
     "wof:coterminous":[
         1477865705
     ],
     "wof:country":"PL",
-    "wof:geomhash":"9919593520b0b4b015af4071cfa63f4c",
+    "wof:geomhash":"729d04d76500fdfd11f6b012a9c26b8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752029,
-    "wof:lastmodified":1570001076,
+    "wof:lastmodified":1684354388,
     "wof:name":"Rudna",
     "wof:parent_id":102079735,
     "wof:placetype":"localadmin",
+    "wof:population":7806,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

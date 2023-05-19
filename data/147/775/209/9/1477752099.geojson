@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061091908",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wyryki",
+    "eurostat:nuts_2021_id":"1006061091908",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061091908",
+    "eurostat:population":2566,
+    "eurostat:population_year":2020,
     "geom:area":0.028533,
-    "geom:area_square_m":219319653.915963,
+    "geom:area_square_m":219319653.915967,
     "geom:bbox":"23.17129839,51.474415031,23.497175842,51.65938799",
     "geom:latitude":51.565462,
     "geom:longitude":23.346871,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":23.346869,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079889
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061091908",
+        "eurostat:nuts_2021_id":"1006061091908"
+    },
     "wof:coterminous":[
         1125837043
     ],
     "wof:country":"PL",
-    "wof:geomhash":"7c45e94237a886838f398a57be72a6b4",
+    "wof:geomhash":"5ff4f89419b09dade2486878631eddc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752099,
-    "wof:lastmodified":1570003384,
+    "wof:lastmodified":1684354392,
     "wof:name":"Wyryki",
     "wof:parent_id":102079889,
     "wof:placetype":"localadmin",
+    "wof:population":2566,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

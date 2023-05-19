@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121201905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wieliczka",
+    "eurostat:nuts_2021_id":"1001121201905",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121201905",
+    "eurostat:population":60481,
+    "eurostat:population_year":2020,
     "geom:area":0.012492,
-    "geom:area_square_m":99345639.583241,
+    "geom:area_square_m":99345639.583223,
     "geom:bbox":"19.962879,49.905967,20.156902,50.04595",
     "geom:latitude":49.972771,
     "geom:longitude":20.064028,
@@ -183,6 +195,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -190,11 +204,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079479,
-        85687291
+        85687291,
+        102079479
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121201905",
+        "eurostat:nuts_2021_id":"1001121201905",
         "gp:id":24548588,
         "qs_pg:id":954596
     },
@@ -206,7 +222,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b70edd2cfda793e2f3d8b8e7e3edd11c",
+    "wof:geomhash":"3d28a37fb23ef3d1e8d5668944ad1f19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -217,10 +233,12 @@
         }
     ],
     "wof:id":1125388531,
-    "wof:lastmodified":1607726524,
+    "wof:lastmodified":1684354307,
     "wof:name":"Gmina Wieliczka",
     "wof:parent_id":102079479,
     "wof:placetype":"localadmin",
+    "wof:population":60481,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

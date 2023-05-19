@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121220508",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ropa",
+    "eurostat:nuts_2021_id":"1001121220508",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121220508",
+    "eurostat:population":5507,
+    "eurostat:population_year":2020,
     "geom:area":0.006104,
-    "geom:area_square_m":48941547.431634,
+    "geom:area_square_m":48941547.431642,
     "geom:bbox":"20.999386067,49.527161135,21.126106545,49.62109376",
     "geom:latitude":49.576799,
     "geom:longitude":21.063895,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":21.063903,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079429
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121220508",
+        "eurostat:nuts_2021_id":"1001121220508"
+    },
     "wof:coterminous":[
         101863213
     ],
     "wof:country":"PL",
-    "wof:geomhash":"25256a9410772e259179e2fa5acf73f3",
+    "wof:geomhash":"9ab06a597d40d5ba4ce4e64f1624851f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125396401,
-    "wof:lastmodified":1569995780,
+    "wof:lastmodified":1684354317,
     "wof:name":"Ropa",
     "wof:parent_id":102079429,
     "wof:placetype":"localadmin",
+    "wof:population":5507,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

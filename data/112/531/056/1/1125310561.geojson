@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221401501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reda",
+    "eurostat:nuts_2021_id":"1004221401501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221401501",
+    "eurostat:population":26307,
+    "eurostat:population_year":2020,
     "geom:area":0.004652,
-    "geom:area_square_m":33310866.359385,
+    "geom:area_square_m":33310866.359389,
     "geom:bbox":"18.256454538,54.58658965,18.412583139,54.655384755",
     "geom:latitude":54.617286,
     "geom:longitude":18.339542,
@@ -104,7 +116,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -117,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221401501",
+        "eurostat:nuts_2021_id":"1004221401501",
         "gn:id":3087281,
         "gp:id":12617455,
         "qs_pg:id":1251929
@@ -129,7 +144,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6aa3ef422e47c4c8927f351f0fb20524",
+    "wof:geomhash":"056a1deae5bc622f481b109f4e94d8b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,12 +155,12 @@
         }
     ],
     "wof:id":1125310561,
-    "wof:lastmodified":1582357959,
+    "wof:lastmodified":1684354212,
     "wof:name":"Reda",
     "wof:parent_id":102080267,
     "wof:placetype":"localadmin",
-    "wof:population":18116,
-    "wof:population_rank":6,
+    "wof:population":26307,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

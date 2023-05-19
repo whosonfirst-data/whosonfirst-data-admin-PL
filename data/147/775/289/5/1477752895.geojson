@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261531304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radk\u00f3w",
+    "eurostat:nuts_2021_id":"1005261531304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261531304",
+    "eurostat:population":2499,
+    "eurostat:population_year":2020,
     "geom:area":0.011217,
-    "geom:area_square_m":87834172.966653,
+    "geom:area_square_m":87834172.966667,
     "geom:bbox":"19.847347074,50.661923254,20.101594677,50.752649327",
     "geom:latitude":50.708809,
     "geom:longitude":19.988255,
@@ -77,6 +89,8 @@
     "reversegeo:longitude":19.990131,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -84,11 +98,15 @@
         102079679
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005261531304",
+        "eurostat:nuts_2021_id":"1005261531304"
+    },
     "wof:coterminous":[
         1477865243
     ],
     "wof:country":"PL",
-    "wof:geomhash":"81152b64341aa8b4796afbe727c15dc9",
+    "wof:geomhash":"b3594bad0bb7b4ff863b127eeebeeeb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +117,12 @@
         }
     ],
     "wof:id":1477752895,
-    "wof:lastmodified":1569999996,
+    "wof:lastmodified":1684354435,
     "wof:name":"Radk\u00f3w",
     "wof:parent_id":102079679,
     "wof:placetype":"localadmin",
+    "wof:population":2499,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

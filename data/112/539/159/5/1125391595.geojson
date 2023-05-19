@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowogr\u00f3d",
+    "eurostat:nuts_2021_id":"1006201380704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380704",
+    "eurostat:population":4028,
+    "eurostat:population_year":2020,
     "geom:area":0.013614,
-    "geom:area_square_m":100798575.484282,
+    "geom:area_square_m":100798575.484274,
     "geom:bbox":"21.7835636,53.158458714,22.003331106,53.281048776",
     "geom:latitude":53.216112,
     "geom:longitude":21.893997,
@@ -126,6 +138,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -138,6 +152,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380704",
+        "eurostat:nuts_2021_id":"1006201380704",
         "gp:id":24548280,
         "qs_pg:id":1018049
     },
@@ -146,7 +162,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"aedca89574616b9ec1f3fcc10627cb97",
+    "wof:geomhash":"009f4e1174297a748ecb96ebcdec0276",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,10 +173,12 @@
         }
     ],
     "wof:id":1125391595,
-    "wof:lastmodified":1582357902,
+    "wof:lastmodified":1684354309,
     "wof:name":"Gmina Nowogr\u00f3d",
     "wof:parent_id":102080143,
     "wof:placetype":"localadmin",
+    "wof:population":4028,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

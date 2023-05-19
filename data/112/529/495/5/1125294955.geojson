@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241510804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ornontowice",
+    "eurostat:nuts_2021_id":"1001241510804",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22C",
+    "eurostat:nuts_2021_level_lau":"1001241510804",
+    "eurostat:population":6176,
+    "eurostat:population_year":2020,
     "geom:area":0.001913,
-    "geom:area_square_m":15143418.512438,
+    "geom:area_square_m":15143418.51243,
     "geom:bbox":"18.719745298,50.157060249,18.783055985,50.207297794",
     "geom:latitude":50.183367,
     "geom:longitude":18.754731,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241510804",
+        "eurostat:nuts_2021_id":"1001241510804",
         "gn:id":3089987,
         "gp:id":12618606,
         "qs_pg:id":1099648
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b2e3e58f5df8de6f8e69029af4ff7616",
+    "wof:geomhash":"5918cec52a462f55c45228ec29c43a02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,11 +125,11 @@
         }
     ],
     "wof:id":1125294955,
-    "wof:lastmodified":1582357826,
+    "wof:lastmodified":1684354184,
     "wof:name":"Ornontowice",
     "wof:parent_id":102079487,
     "wof:placetype":"localadmin",
-    "wof:population":5291,
+    "wof:population":6176,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

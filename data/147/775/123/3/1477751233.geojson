@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Obrzycko",
+    "eurostat:nuts_2021_id":"1002301612404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612404",
+    "eurostat:population":4467,
+    "eurostat:population_year":2020,
     "geom:area":0.014732,
-    "geom:area_square_m":110400615.651715,
+    "geom:area_square_m":110400615.651717,
     "geom:bbox":"16.434883828,52.629196005,16.650729388,52.759569685",
     "geom:latitude":52.695533,
     "geom:longitude":16.524766,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":16.524874,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079963
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612404",
+        "eurostat:nuts_2021_id":"1002301612404"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"a37c2b323c5058a02df2c7a3bb3e084d",
+    "wof:geomhash":"ac37c9a79fd6970aea7eec92cf3da9f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751233,
-    "wof:lastmodified":1570004187,
+    "wof:lastmodified":1684354347,
     "wof:name":"Gmina Obrzycko",
     "wof:parent_id":102079963,
     "wof:placetype":"localadmin",
+    "wof:population":4467,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

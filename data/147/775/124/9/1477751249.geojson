@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181341306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Medyka",
+    "eurostat:nuts_2021_id":"1006181341306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181341306",
+    "eurostat:population":6542,
+    "eurostat:population_year":2020,
     "geom:area":0.007572,
-    "geom:area_square_m":60422423.947047,
+    "geom:area_square_m":60422423.947024,
     "geom:bbox":"22.834233212,49.736393851,22.987731818,49.867464463",
     "geom:latitude":49.807522,
     "geom:longitude":22.912716,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":22.939375,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079513
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181341306",
+        "eurostat:nuts_2021_id":"1006181341306"
+    },
     "wof:coterminous":[
         101841599
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f38248864ba9aae4290a7c44410d7b9c",
+    "wof:geomhash":"e7ff91a3602af01dbe4dde8d082d68a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751249,
-    "wof:lastmodified":1570004193,
+    "wof:lastmodified":1684354348,
     "wof:name":"Medyka",
     "wof:parent_id":102079513,
     "wof:placetype":"localadmin",
+    "wof:population":6542,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

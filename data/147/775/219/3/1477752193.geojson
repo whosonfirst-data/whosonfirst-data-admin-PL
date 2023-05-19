@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121220505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lipinki",
+    "eurostat:nuts_2021_id":"1001121220505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121220505",
+    "eurostat:population":6792,
+    "eurostat:population_year":2020,
     "geom:area":0.008278,
-    "geom:area_square_m":66257597.705814,
+    "geom:area_square_m":66257597.705803,
     "geom:bbox":"21.230796739,49.600601198,21.362803301,49.717217946",
     "geom:latitude":49.661281,
     "geom:longitude":21.302855,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":21.30734,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079429
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121220505",
+        "eurostat:nuts_2021_id":"1001121220505"
+    },
     "wof:coterminous":[
         1125928119
     ],
     "wof:country":"PL",
-    "wof:geomhash":"25c29e4f0a1fdfea78a60950a716e416",
+    "wof:geomhash":"d41dad3c566f9e6fb16339acf374755d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752193,
-    "wof:lastmodified":1570000092,
+    "wof:lastmodified":1684354398,
     "wof:name":"Lipinki",
     "wof:parent_id":102079429,
     "wof:placetype":"localadmin",
+    "wof:population":6792,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

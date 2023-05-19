@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320908",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ozimek",
+    "eurostat:nuts_2021_id":"1003161320908",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320908",
+    "eurostat:population":19543,
+    "eurostat:population_year":2020,
     "geom:area":0.015986,
-    "geom:area_square_m":125220404.324118,
+    "geom:area_square_m":125220404.324098,
     "geom:bbox":"18.098765915,50.627158735,18.354364535,50.761532507",
     "geom:latitude":50.691916,
     "geom:longitude":18.22119,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":18.233725,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079627
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320908",
+        "eurostat:nuts_2021_id":"1003161320908"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"e631cf2b1da525d168092fae31aa75bd",
+    "wof:geomhash":"634f38d6b1817412bde4140a462e23af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751681,
-    "wof:lastmodified":1569999031,
+    "wof:lastmodified":1684354370,
     "wof:name":"Gmina Ozimek",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",
+    "wof:population":19543,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201376101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bia\u0142ystok",
+    "eurostat:nuts_2021_id":"1006201376101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL841",
+    "eurostat:nuts_2021_level_lau":"1006201376101",
+    "eurostat:population":297554,
+    "eurostat:population_year":2020,
     "geom:area":0.013711,
-    "geom:area_square_m":101715117.670823,
+    "geom:area_square_m":101715117.670788,
     "geom:bbox":"23.065791,53.066597,23.247193,53.188599",
     "geom:latitude":53.13222,
     "geom:longitude":23.158815,
@@ -293,6 +305,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -305,6 +319,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201376101",
+        "eurostat:nuts_2021_id":"1006201376101",
         "gn:id":7531591,
         "gp:id":12616921,
         "qs_pg:id":1163028
@@ -318,7 +334,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"af74fef59761b69df54bd897a37e360a",
+    "wof:geomhash":"c8ec74367ff64aa13baede711da753aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -329,10 +345,12 @@
         }
     ],
     "wof:id":1125359809,
-    "wof:lastmodified":1617131383,
+    "wof:lastmodified":1684354265,
     "wof:name":"Bia\u0142ystok",
     "wof:parent_id":102080121,
     "wof:placetype":"localadmin",
+    "wof:population":297554,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

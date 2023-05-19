@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101191306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sadkowice",
+    "eurostat:nuts_2021_id":"1005101191306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL715",
+    "eurostat:nuts_2021_level_lau":"1005101191306",
+    "eurostat:population":5412,
+    "eurostat:population_year":2020,
     "geom:area":0.015753,
-    "geom:area_square_m":120701400.263423,
+    "geom:area_square_m":120701400.263422,
     "geom:bbox":"20.436320562,51.657166928,20.659258254,51.761207023",
     "geom:latitude":51.710527,
     "geom:longitude":20.55232,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.550212,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079849
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101191306",
+        "eurostat:nuts_2021_id":"1005101191306"
+    },
     "wof:coterminous":[
         1477865459
     ],
     "wof:country":"PL",
-    "wof:geomhash":"0d2fd44f105c7b1f0ad0a15c43f502d3",
+    "wof:geomhash":"daba5c164bc9824aa0c8b58770edda5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125324323,
-    "wof:lastmodified":1569989797,
+    "wof:lastmodified":1684354229,
     "wof:name":"Sadkowice",
     "wof:parent_id":102079849,
     "wof:placetype":"localadmin",
+    "wof:population":5412,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

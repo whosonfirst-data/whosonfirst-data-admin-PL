@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301580302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czerniejewo",
+    "eurostat:nuts_2021_id":"1002301580302",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301580302",
+    "eurostat:population":7405,
+    "eurostat:population_year":2020,
     "geom:area":0.014794,
-    "geom:area_square_m":111508018.323852,
+    "geom:area_square_m":111508018.32385,
     "geom:bbox":"17.38177005,52.379080149,17.606186865,52.497766191",
     "geom:latitude":52.440597,
     "geom:longitude":17.505535,
@@ -131,7 +143,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -144,6 +157,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301580302",
+        "eurostat:nuts_2021_id":"1002301580302",
         "gn:id":3101006,
         "gp:id":24548095,
         "qs_pg:id":1026078
@@ -153,7 +168,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"68a04a726e05d153a5a8753f62f8cb56",
+    "wof:geomhash":"5393b4587d1c9ded78c365e3a23d3bca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,12 +179,12 @@
         }
     ],
     "wof:id":1125400867,
-    "wof:lastmodified":1582357999,
+    "wof:lastmodified":1684354324,
     "wof:name":"Gmina Czerniejewo",
     "wof:parent_id":102079967,
     "wof:placetype":"localadmin",
-    "wof:population":2612,
-    "wof:population_rank":4,
+    "wof:population":7405,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

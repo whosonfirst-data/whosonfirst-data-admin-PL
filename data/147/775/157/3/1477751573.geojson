@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bor\u00f3w",
+    "eurostat:nuts_2021_id":"1003021041701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041701",
+    "eurostat:population":5272,
+    "eurostat:population_year":2020,
     "geom:area":0.012589,
-    "geom:area_square_m":98247918.725839,
+    "geom:area_square_m":98247918.725848,
     "geom:bbox":"16.901518223,50.793894727,17.111668555,50.920431588",
     "geom:latitude":50.86471,
     "geom:longitude":17.006727,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":16.999555,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079609
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041701",
+        "eurostat:nuts_2021_id":"1003021041701"
+    },
     "wof:coterminous":[
         1125966097
     ],
     "wof:country":"PL",
-    "wof:geomhash":"0f12569255c168ed4e56cd734635a5be",
+    "wof:geomhash":"0e00356f57cd567712e1fb6bf7ddb338",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751573,
-    "wof:lastmodified":1569999069,
+    "wof:lastmodified":1684354364,
     "wof:name":"Bor\u00f3w",
     "wof:parent_id":102079609,
     "wof:placetype":"localadmin",
+    "wof:population":5272,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

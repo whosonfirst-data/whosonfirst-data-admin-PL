@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081130107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Witnica",
+    "eurostat:nuts_2021_id":"1002081130107",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL431",
+    "eurostat:nuts_2021_level_lau":"1002081130107",
+    "eurostat:population":12869,
+    "eurostat:population_year":2020,
     "geom:area":0.037027,
-    "geom:area_square_m":277582659.198139,
+    "geom:area_square_m":277582659.19816,
     "geom:bbox":"14.666920579,52.5941543,15.052697372,52.784660864",
     "geom:latitude":52.679546,
     "geom:longitude":14.876504,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081130107",
+        "eurostat:nuts_2021_id":"1002081130107",
         "gp:id":24548066,
         "qs_pg:id":1190823
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"23263bae4776b523bcd6fb530aeb141e",
+    "wof:geomhash":"ced19673a3025bcb86d35552485f7f8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125297473,
-    "wof:lastmodified":1582357816,
+    "wof:lastmodified":1684354189,
     "wof:name":"Gmina Witnica",
     "wof:parent_id":102079975,
     "wof:placetype":"localadmin",
+    "wof:population":12869,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

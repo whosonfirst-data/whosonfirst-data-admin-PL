@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strzelin",
+    "eurostat:nuts_2021_id":"1003021041704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041704",
+    "eurostat:population":22167,
+    "eurostat:population_year":2020,
     "geom:area":0.02183,
-    "geom:area_square_m":170716499.101955,
+    "geom:area_square_m":170716499.101956,
     "geom:bbox":"16.951096994,50.685010104,17.199227371,50.854508802",
     "geom:latitude":50.768855,
     "geom:longitude":17.070973,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041704",
+        "eurostat:nuts_2021_id":"1003021041704",
         "gp:id":24548103,
         "qs_pg:id":1137225
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a5c6b8d4390fc8a6f6ca88b3dcd1f4a9",
+    "wof:geomhash":"df10310ea085cc67db86ac977c0088a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125341987,
-    "wof:lastmodified":1582357692,
+    "wof:lastmodified":1684354250,
     "wof:name":"Gmina Strzelin",
     "wof:parent_id":102079609,
     "wof:placetype":"localadmin",
+    "wof:population":22167,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

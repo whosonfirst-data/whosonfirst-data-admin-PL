@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141293402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marki",
+    "eurostat:nuts_2021_id":"1007141293402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL912",
+    "eurostat:nuts_2021_level_lau":"1007141293402",
+    "eurostat:population":35461,
+    "eurostat:population_year":2020,
     "geom:area":0.003447,
-    "geom:area_square_m":26045293.749798,
+    "geom:area_square_m":26045293.749802,
     "geom:bbox":"21.077782496,52.303247431,21.162151779,52.370761084",
     "geom:latitude":52.335787,
     "geom:longitude":21.12106,
@@ -129,7 +141,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -138,6 +151,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141293402",
+        "eurostat:nuts_2021_id":"1007141293402",
         "gn:id":7532950,
         "gp:id":12618514,
         "qs_pg:id":1048314
@@ -154,7 +169,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b702c182ccbcb792427b62efbe21bc82",
+    "wof:geomhash":"6a3e2433844be25a8bd61b7f230efa83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,11 +180,11 @@
         }
     ],
     "wof:id":1125395529,
-    "wof:lastmodified":1582357916,
+    "wof:lastmodified":1684354316,
     "wof:name":"Marki",
     "wof:parent_id":102079995,
     "wof:placetype":"localadmin",
-    "wof:population":23177,
+    "wof:population":35461,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

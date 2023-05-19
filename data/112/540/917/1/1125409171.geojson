@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301571704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ostr\u00f3w Wielkopolski",
+    "eurostat:nuts_2021_id":"1002301571704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301571704",
+    "eurostat:population":19147,
+    "eurostat:population_year":2020,
     "geom:area":0.027008,
-    "geom:area_square_m":207059650.390566,
+    "geom:area_square_m":207059650.39055,
     "geom:bbox":"17.54766801,51.591521925,17.933155194,51.796224551",
     "geom:latitude":51.683497,
     "geom:longitude":17.786046,
@@ -188,6 +200,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -196,6 +210,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301571704",
+        "eurostat:nuts_2021_id":"1002301571704",
         "gn:id":7531493,
         "qs_pg:id":1154811
     },
@@ -204,7 +220,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4fe746e26e3383fcd399165b7751f84f",
+    "wof:geomhash":"15680e170bd255df3f01a4ad5158d186",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -215,10 +231,12 @@
         }
     ],
     "wof:id":1125409171,
-    "wof:lastmodified":1582358005,
+    "wof:lastmodified":1684354329,
     "wof:name":"Gmina Ostr\u00f3w Wielkopolski",
     "wof:parent_id":102079789,
     "wof:placetype":"localadmin",
+    "wof:population":19147,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

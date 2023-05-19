@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021012603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pielgrzymka",
+    "eurostat:nuts_2021_id":"1003021012603",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021012603",
+    "eurostat:population":4551,
+    "eurostat:population_year":2020,
     "geom:area":0.013459,
-    "geom:area_square_m":104478397.449791,
+    "geom:area_square_m":104478397.449795,
     "geom:bbox":"15.696455069,51.036748278,15.88248443,51.173586057",
     "geom:latitude":51.112381,
     "geom:longitude":15.787,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":15.788427,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079657
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021012603",
+        "eurostat:nuts_2021_id":"1003021012603"
+    },
     "wof:coterminous":[
         1126006219
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2cdeaae59f22c32d998554bbd6b2e818",
+    "wof:geomhash":"26126082725ec06975e158927f6b3e49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752529,
-    "wof:lastmodified":1570004061,
+    "wof:lastmodified":1684354414,
     "wof:name":"Pielgrzymka",
     "wof:parent_id":102079657,
     "wof:placetype":"localadmin",
+    "wof:population":4551,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

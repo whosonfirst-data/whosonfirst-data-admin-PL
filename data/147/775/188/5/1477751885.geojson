@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460413",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poczesna",
+    "eurostat:nuts_2021_id":"1001241460413",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460413",
+    "eurostat:population":12707,
+    "eurostat:population_year":2020,
     "geom:area":0.007629,
-    "geom:area_square_m":59716567.569071,
+    "geom:area_square_m":59716567.569084,
     "geom:bbox":"19.048360654,50.690958272,19.223023197,50.758367862",
     "geom:latitude":50.723343,
     "geom:longitude":19.132867,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":19.139946,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079663
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460413",
+        "eurostat:nuts_2021_id":"1001241460413"
+    },
     "wof:coterminous":[
         1125772649
     ],
     "wof:country":"PL",
-    "wof:geomhash":"ccd8ec3927f578a0493119e08cd24352",
+    "wof:geomhash":"8272d1f6c8f58eb33241e86b3dc3f31e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477751885,
-    "wof:lastmodified":1570001639,
+    "wof:lastmodified":1684354381,
     "wof:name":"Poczesna",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",
+    "wof:population":12707,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

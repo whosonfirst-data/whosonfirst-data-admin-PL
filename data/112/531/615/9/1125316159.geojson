@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dywity",
+    "eurostat:nuts_2021_id":"1004281561404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561404",
+    "eurostat:population":12004,
+    "eurostat:population_year":2020,
     "geom:area":0.022014,
-    "geom:area_square_m":160475050.095801,
+    "geom:area_square_m":160475050.095826,
     "geom:bbox":"20.329223095,53.806539105,20.62422542,53.944758389",
     "geom:latitude":53.875633,
     "geom:longitude":20.492764,
@@ -98,7 +110,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -107,6 +120,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561404",
+        "eurostat:nuts_2021_id":"1004281561404",
         "gn:id":6619360,
         "qs_pg:id":643221
     },
@@ -118,7 +133,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7d7d5809ca3de35244d6d2d349237b4b",
+    "wof:geomhash":"d8a937b135569c7236eb10541884a195",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,12 +144,12 @@
         }
     ],
     "wof:id":1125316159,
-    "wof:lastmodified":1582357957,
+    "wof:lastmodified":1684354220,
     "wof:name":"Dywity",
     "wof:parent_id":102080207,
     "wof:placetype":"localadmin",
-    "wof:population":8689,
-    "wof:population_rank":5,
+    "wof:population":12004,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

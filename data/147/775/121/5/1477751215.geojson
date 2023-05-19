@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Drwinia",
+    "eurostat:nuts_2021_id":"1001121200103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200103",
+    "eurostat:population":6534,
+    "eurostat:population_year":2020,
     "geom:area":0.013632,
-    "geom:area_square_m":108159577.054458,
+    "geom:area_square_m":108159577.054453,
     "geom:bbox":"20.339904964,50.000461008,20.512189214,50.143512164",
     "geom:latitude":50.083542,
     "geom:longitude":20.427628,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":20.428946,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079493
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200103",
+        "eurostat:nuts_2021_id":"1001121200103"
+    },
     "wof:coterminous":[
         1125913607
     ],
     "wof:country":"PL",
-    "wof:geomhash":"1abab14f35c4d6bb4f5ef693fb41ce09",
+    "wof:geomhash":"4965b1d95a234ed1460f00b8bc7d8773",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751215,
-    "wof:lastmodified":1570001865,
+    "wof:lastmodified":1684354346,
     "wof:name":"Drwinia",
     "wof:parent_id":102079493,
     "wof:placetype":"localadmin",
+    "wof:population":6534,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

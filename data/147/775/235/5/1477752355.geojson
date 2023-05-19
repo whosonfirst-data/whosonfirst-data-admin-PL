@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021020306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u017bukowice",
+    "eurostat:nuts_2021_id":"1003021020306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021020306",
+    "eurostat:population":3461,
+    "eurostat:population_year":2020,
     "geom:area":0.008866,
-    "geom:area_square_m":67989938.307521,
+    "geom:area_square_m":67989938.307541,
     "geom:bbox":"15.834258895,51.609588513,16.037984277,51.730642882",
     "geom:latitude":51.670243,
     "geom:longitude":15.942096,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":15.968911,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079769
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021020306",
+        "eurostat:nuts_2021_id":"1003021020306"
+    },
     "wof:coterminous":[
         1125980519
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f80b8a0d3c95eb78dee98d7775ee6c81",
+    "wof:geomhash":"0a484a5ce9d0b48e3444b41270ac287d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752355,
-    "wof:lastmodified":1570000705,
+    "wof:lastmodified":1684354406,
     "wof:name":"\u017bukowice",
     "wof:parent_id":102079769,
     "wof:placetype":"localadmin",
+    "wof:population":3461,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

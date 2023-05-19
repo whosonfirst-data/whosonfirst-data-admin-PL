@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121691501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jordan\u00f3w",
+    "eurostat:nuts_2021_id":"1001121691501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL219",
+    "eurostat:nuts_2021_level_lau":"1001121691501",
+    "eurostat:population":5366,
+    "eurostat:population_year":2020,
     "geom:area":0.002619,
-    "geom:area_square_m":20963657.222075,
+    "geom:area_square_m":20963657.222072,
     "geom:bbox":"19.797724842,49.619215656,19.876436682,49.678544352",
     "geom:latitude":49.652367,
     "geom:longitude":19.835619,
@@ -146,7 +158,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Ma\u0142opolskie",
@@ -159,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001121691501",
+        "eurostat:nuts_2021_id":"1001121691501",
         "gn:id":3097107,
         "gp:id":24548649,
         "qs_pg:id":59628
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2b1d404cbf2e8f6937530917181cf5f9",
+    "wof:geomhash":"04d6df6d534f24b24940f9a2b655d900",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,11 +194,11 @@
         }
     ],
     "wof:id":1125410577,
-    "wof:lastmodified":1582358020,
+    "wof:lastmodified":1684354333,
     "wof:name":"Gmina Jordan\u00f3w",
     "wof:parent_id":102079419,
     "wof:placetype":"localadmin",
-    "wof:population":5194,
+    "wof:population":5366,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

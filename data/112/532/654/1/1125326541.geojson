@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221410805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wicko",
+    "eurostat:nuts_2021_id":"1004221410805",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL636",
+    "eurostat:nuts_2021_level_lau":"1004221410805",
+    "eurostat:population":6019,
+    "eurostat:population_year":2020,
     "geom:area":0.029959,
-    "geom:area_square_m":214028808.926036,
+    "geom:area_square_m":214028808.926031,
     "geom:bbox":"17.416745976,54.634485863,17.788499283,54.777678919",
     "geom:latitude":54.707067,
     "geom:longitude":17.631592,
@@ -66,6 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -78,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221410805",
+        "eurostat:nuts_2021_id":"1004221410805",
         "gp:id":12617228,
         "qs_pg:id":43560
     },
@@ -89,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f20b30bd339fd7383c7d8467fcb731a3",
+    "wof:geomhash":"d3c9c54af2f983659242d9281dc08c9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,10 +116,12 @@
         }
     ],
     "wof:id":1125326541,
-    "wof:lastmodified":1582357746,
+    "wof:lastmodified":1684354234,
     "wof:name":"Wicko",
     "wof:parent_id":102080263,
     "wof:placetype":"localadmin",
+    "wof:population":6019,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

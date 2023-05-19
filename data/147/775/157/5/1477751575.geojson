@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201381306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kulesze Ko\u015bcielne",
+    "eurostat:nuts_2021_id":"1006201381306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201381306",
+    "eurostat:population":3072,
+    "eurostat:population_year":2020,
     "geom:area":0.015431,
-    "geom:area_square_m":114811982.446293,
+    "geom:area_square_m":114811982.446311,
     "geom:bbox":"22.398096329,52.953565283,22.64465438,53.063279739",
     "geom:latitude":53.005983,
     "geom:longitude":22.517918,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":22.528154,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080095
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201381306",
+        "eurostat:nuts_2021_id":"1006201381306"
+    },
     "wof:coterminous":[
         1477863479
     ],
     "wof:country":"PL",
-    "wof:geomhash":"af2ed25358c5061fb469c21bd6223af4",
+    "wof:geomhash":"07242650c7cb2d42f9850ec673822c04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751575,
-    "wof:lastmodified":1569999077,
+    "wof:lastmodified":1684354364,
     "wof:name":"Kulesze Ko\u015bcielne",
     "wof:parent_id":102080095,
     "wof:placetype":"localadmin",
+    "wof:population":3072,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

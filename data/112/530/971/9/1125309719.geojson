@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201391201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baka\u0142arzewo",
+    "eurostat:nuts_2021_id":"1006201391201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL843",
+    "eurostat:nuts_2021_level_lau":"1006201391201",
+    "eurostat:population":3104,
+    "eurostat:population_year":2020,
     "geom:area":0.016825,
-    "geom:area_square_m":122026692.00813,
+    "geom:area_square_m":122026692.008111,
     "geom:bbox":"22.595064208,54.029306768,22.8114086,54.14999891",
     "geom:latitude":54.089084,
     "geom:longitude":22.700607,
@@ -75,6 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podlaskie",
@@ -87,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006201391201",
+        "eurostat:nuts_2021_id":"1006201391201",
         "gp:id":12617116,
         "qs_pg:id":1107007
     },
@@ -98,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"81c98ecb511164d940915d9b92c2fc2b",
+    "wof:geomhash":"8c8a330a8bbdf2ca47767a817cf291ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,10 +125,12 @@
         }
     ],
     "wof:id":1125309719,
-    "wof:lastmodified":1582357885,
+    "wof:lastmodified":1684354212,
     "wof:name":"Baka\u0142arzewo",
     "wof:parent_id":102080265,
     "wof:placetype":"localadmin",
+    "wof:population":3104,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

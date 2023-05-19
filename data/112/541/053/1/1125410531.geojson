@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301590406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pogorzela",
+    "eurostat:nuts_2021_id":"1002301590406",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301590406",
+    "eurostat:population":4937,
+    "eurostat:population_year":2020,
     "geom:area":0.01258,
-    "geom:area_square_m":96169857.172127,
+    "geom:area_square_m":96169857.172122,
     "geom:bbox":"17.15829544,51.751119737,17.34055944,51.863852735",
     "geom:latitude":51.812598,
     "geom:longitude":17.254334,
@@ -124,7 +136,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -137,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301590406",
+        "eurostat:nuts_2021_id":"1002301590406",
         "gn:id":3088548,
         "gp:id":24548035,
         "qs_pg:id":59509
@@ -146,7 +161,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"92785e464e472a5ca90cfa6285a1c98a",
+    "wof:geomhash":"4243594d8584e848c3e2baca265a6de5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,11 +172,11 @@
         }
     ],
     "wof:id":1125410531,
-    "wof:lastmodified":1582358013,
+    "wof:lastmodified":1684354331,
     "wof:name":"Gmina Pogorzela",
     "wof:parent_id":102079829,
     "wof:placetype":"localadmin",
-    "wof:population":2015,
+    "wof:population":4937,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

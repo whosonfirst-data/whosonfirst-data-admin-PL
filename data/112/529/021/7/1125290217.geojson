@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041081105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piotrk\u00f3w Kujawski",
+    "eurostat:nuts_2021_id":"1004041081105",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041081105",
+    "eurostat:population":9234,
+    "eurostat:population_year":2020,
     "geom:area":0.018366,
-    "geom:area_square_m":138176581.412476,
+    "geom:area_square_m":138176581.412479,
     "geom:bbox":"18.375880858,52.461560233,18.642308467,52.599679769",
     "geom:latitude":52.523032,
     "geom:longitude":18.495001,
@@ -152,7 +164,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -165,6 +178,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041081105",
+        "eurostat:nuts_2021_id":"1004041081105",
         "gn:id":3088977,
         "gp:id":24547600,
         "qs_pg:id":1200402
@@ -174,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2968ea0aa6783a4f2c959e4d2f5a9d14",
+    "wof:geomhash":"ee198430a71ce5a46ede4a4caf8feb1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,11 +200,11 @@
         }
     ],
     "wof:id":1125290217,
-    "wof:lastmodified":1582357823,
+    "wof:lastmodified":1684354175,
     "wof:name":"Gmina Piotrk\u00f3w Kujawski",
     "wof:parent_id":102079977,
     "wof:placetype":"localadmin",
-    "wof:population":5030,
+    "wof:population":9234,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

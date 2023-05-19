@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181340410",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ro\u017awienica",
+    "eurostat:nuts_2021_id":"1006181340410",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181340410",
+    "eurostat:population":6235,
+    "eurostat:population_year":2020,
     "geom:area":0.008605,
-    "geom:area_square_m":68508068.86803,
+    "geom:area_square_m":68508068.86802,
     "geom:bbox":"22.514952727,49.838556705,22.645994572,49.982900129",
     "geom:latitude":49.921497,
     "geom:longitude":22.57471,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":22.597532,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079573
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181340410",
+        "eurostat:nuts_2021_id":"1006181340410"
+    },
     "wof:coterminous":[
         1126006433
     ],
     "wof:country":"PL",
-    "wof:geomhash":"260695273bd3984044cbf446b59d3261",
+    "wof:geomhash":"44cbdc45cebe4bab9002f4bfc1f6757a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477751999,
-    "wof:lastmodified":1570002442,
+    "wof:lastmodified":1684354386,
     "wof:name":"Ro\u017awienica",
     "wof:parent_id":102079573,
     "wof:placetype":"localadmin",
+    "wof:population":6235,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

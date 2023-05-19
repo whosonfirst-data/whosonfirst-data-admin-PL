@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olsztynek",
+    "eurostat:nuts_2021_id":"1004281561409",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561409",
+    "eurostat:population":13701,
+    "eurostat:population_year":2020,
     "geom:area":0.050389,
-    "geom:area_square_m":370004404.079978,
+    "geom:area_square_m":370004404.079943,
     "geom:bbox":"20.111703561,53.453730314,20.604705937,53.694106504",
     "geom:latitude":53.570317,
     "geom:longitude":20.308937,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561409",
+        "eurostat:nuts_2021_id":"1004281561409",
         "gp:id":24547459,
         "qs_pg:id":232429
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a9156207c78fdda31a9f5c3f61c9e715",
+    "wof:geomhash":"9c14bc8d7e46b79e8a078a141b7a077d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125300855,
-    "wof:lastmodified":1582357878,
+    "wof:lastmodified":1684354193,
     "wof:name":"Gmina Olsztynek",
     "wof:parent_id":102080207,
     "wof:placetype":"localadmin",
+    "wof:population":13701,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

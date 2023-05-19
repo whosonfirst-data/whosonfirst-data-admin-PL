@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142272307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rusin\u00f3w",
+    "eurostat:nuts_2021_id":"1007142272307",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142272307",
+    "eurostat:population":4274,
+    "eurostat:population_year":2020,
     "geom:area":0.010702,
-    "geom:area_square_m":82480602.480739,
+    "geom:area_square_m":82480602.48073,
     "geom:bbox":"20.515733641,51.393729316,20.675894906,51.492859301",
     "geom:latitude":51.443724,
     "geom:longitude":20.596154,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":20.58664,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079797
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142272307",
+        "eurostat:nuts_2021_id":"1007142272307"
+    },
     "wof:coterminous":[
         1276691631
     ],
     "wof:country":"PL",
-    "wof:geomhash":"7f36e8380b609942815b8b51e3d37406",
+    "wof:geomhash":"4665aa6ccf22f626e4235f3ba88b2638",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751639,
-    "wof:lastmodified":1570002354,
+    "wof:lastmodified":1684354368,
     "wof:name":"Rusin\u00f3w",
     "wof:parent_id":102079797,
     "wof:placetype":"localadmin",
+    "wof:population":4274,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

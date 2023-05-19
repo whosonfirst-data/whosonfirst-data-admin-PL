@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241511001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gocza\u0142kowice-Zdr\u00f3j",
+    "eurostat:nuts_2021_id":"1001241511001",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22C",
+    "eurostat:nuts_2021_level_lau":"1001241511001",
+    "eurostat:population":6755,
+    "eurostat:population_year":2020,
     "geom:area":0.005955,
-    "geom:area_square_m":47400390.405743,
+    "geom:area_square_m":47400390.405744,
     "geom:bbox":"18.77107074,49.892554484,19.001691523,49.962312669",
     "geom:latitude":49.932486,
     "geom:longitude":18.894081,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":18.873206,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079457
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241511001",
+        "eurostat:nuts_2021_id":"1001241511001"
+    },
     "wof:coterminous":[
         101826195
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2204c6f6fbd47cb2f930a196c6d0e497",
+    "wof:geomhash":"862522ccfa228a092ae6571700d313b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752487,
-    "wof:lastmodified":1570002648,
+    "wof:lastmodified":1684354412,
     "wof:name":"Gocza\u0142kowice-Zdr\u00f3j",
     "wof:parent_id":102079457,
     "wof:placetype":"localadmin",
+    "wof:population":6755,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

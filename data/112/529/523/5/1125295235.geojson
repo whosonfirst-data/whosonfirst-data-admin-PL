@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181341301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bircza",
+    "eurostat:nuts_2021_id":"1006181341301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL822",
+    "eurostat:nuts_2021_level_lau":"1006181341301",
+    "eurostat:population":6539,
+    "eurostat:population_year":2020,
     "geom:area":0.031651,
-    "geom:area_square_m":253198925.783067,
+    "geom:area_square_m":253198925.783143,
     "geom:bbox":"22.253621888,49.58833196,22.585022239,49.772290669",
     "geom:latitude":49.688349,
     "geom:longitude":22.434516,
@@ -80,7 +92,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -93,6 +106,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181341301",
+        "eurostat:nuts_2021_id":"1006181341301",
         "gn:id":775908,
         "gp:id":12617697,
         "qs_pg:id":288833
@@ -105,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"89b3800d35678f59514827b5104fba2e",
+    "wof:geomhash":"8bb5ea453e1ad7f37dbdd42023a9bf92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,12 +131,12 @@
         }
     ],
     "wof:id":1125295235,
-    "wof:lastmodified":1582357829,
+    "wof:lastmodified":1684354185,
     "wof:name":"Bircza",
     "wof:parent_id":102079513,
     "wof:placetype":"localadmin",
-    "wof:population":1000,
-    "wof:population_rank":3,
+    "wof:population":6539,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

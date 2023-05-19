@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miastkowo",
+    "eurostat:nuts_2021_id":"1006201380703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380703",
+    "eurostat:population":4218,
+    "eurostat:population_year":2020,
     "geom:area":0.015423,
-    "geom:area_square_m":114391486.559608,
+    "geom:area_square_m":114391486.559594,
     "geom:bbox":"21.693066999,53.071672148,21.925354843,53.20539564",
     "geom:latitude":53.142698,
     "geom:longitude":21.807142,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":21.799239,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080143
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380703",
+        "eurostat:nuts_2021_id":"1006201380703"
+    },
     "wof:coterminous":[
         1125792701
     ],
     "wof:country":"PL",
-    "wof:geomhash":"28e2a4a03b93435a709d0a01f810b468",
+    "wof:geomhash":"f65f72b8651699a00cfab3efb014be33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477751667,
-    "wof:lastmodified":1569999162,
+    "wof:lastmodified":1684354369,
     "wof:name":"Miastkowo",
     "wof:parent_id":102080143,
     "wof:placetype":"localadmin",
+    "wof:population":4218,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

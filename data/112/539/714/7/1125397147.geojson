@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041081803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boniewo",
+    "eurostat:nuts_2021_id":"1004041081803",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041081803",
+    "eurostat:population":3366,
+    "eurostat:population_year":2020,
     "geom:area":0.010266,
-    "geom:area_square_m":77344735.779528,
+    "geom:area_square_m":77344735.779538,
     "geom:bbox":"18.802861428,52.396751446,18.961070065,52.520099181",
     "geom:latitude":52.460472,
     "geom:longitude":18.8899,
@@ -66,7 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -79,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041081803",
+        "eurostat:nuts_2021_id":"1004041081803",
         "gn:id":3102956,
         "gp:id":12616849,
         "qs_pg:id":1023396
@@ -91,7 +106,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"061b862f007b9626e20bbcb5094852ac",
+    "wof:geomhash":"b4bc5b10af763d8fba70ab8bfb4d29b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,12 +117,12 @@
         }
     ],
     "wof:id":1125397147,
-    "wof:lastmodified":1582357911,
+    "wof:lastmodified":1684354318,
     "wof:name":"Boniewo",
     "wof:parent_id":102079997,
     "wof:placetype":"localadmin",
-    "wof:population":700,
-    "wof:population_rank":2,
+    "wof:population":3366,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301591304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rydzyna",
+    "eurostat:nuts_2021_id":"1002301591304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301591304",
+    "eurostat:population":9636,
+    "eurostat:population_year":2020,
     "geom:area":0.017664,
-    "geom:area_square_m":135114805.379827,
+    "geom:area_square_m":135114805.379861,
     "geom:bbox":"16.565116369,51.70486608,16.790447133,51.8508516",
     "geom:latitude":51.784831,
     "geom:longitude":16.673037,
@@ -128,7 +140,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -141,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301591304",
+        "eurostat:nuts_2021_id":"1002301591304",
         "gn:id":3086527,
         "gp:id":24547714,
         "qs_pg:id":1059794
@@ -150,7 +165,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"15671c3c12b93b48e5b9849250aabadd",
+    "wof:geomhash":"81eeb56ec0f981808a3eeffa099b2865",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,12 +176,12 @@
         }
     ],
     "wof:id":1125273507,
-    "wof:lastmodified":1582357797,
+    "wof:lastmodified":1684354141,
     "wof:name":"Gmina Rydzyna",
     "wof:parent_id":102079821,
     "wof:placetype":"localadmin",
-    "wof:population":2696,
-    "wof:population_rank":4,
+    "wof:population":9636,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

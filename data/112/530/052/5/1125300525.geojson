@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061120703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dzierzkowice",
+    "eurostat:nuts_2021_id":"1006061120703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061120703",
+    "eurostat:population":5274,
+    "eurostat:population_year":2020,
     "geom:area":0.011166,
-    "geom:area_square_m":86982588.30997,
+    "geom:area_square_m":86982588.309966,
     "geom:bbox":"21.960742612,50.915150962,22.19585491,51.001520462",
     "geom:latitude":50.952445,
     "geom:longitude":22.071763,
@@ -56,6 +68,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -68,6 +82,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061120703",
+        "eurostat:nuts_2021_id":"1006061120703",
         "gn:id":772680,
         "gp:id":12618683,
         "qs_pg:id":487653
@@ -80,7 +96,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0d5255129ddd4d1efb8dc59cff0d4ad8",
+    "wof:geomhash":"3aba7db4b71dae1ee7fb1f5cb1b30633",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +107,12 @@
         }
     ],
     "wof:id":1125300525,
-    "wof:lastmodified":1582357883,
+    "wof:lastmodified":1684354192,
     "wof:name":"Dzierzkowice",
     "wof:parent_id":102079721,
     "wof:placetype":"localadmin",
+    "wof:population":5274,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

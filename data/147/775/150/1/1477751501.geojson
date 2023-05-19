@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141291703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Celestyn\u00f3w",
+    "eurostat:nuts_2021_id":"1007141291703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL912",
+    "eurostat:nuts_2021_level_lau":"1007141291703",
+    "eurostat:population":11732,
+    "eurostat:population_year":2020,
     "geom:area":0.011648,
-    "geom:area_square_m":88581489.695812,
+    "geom:area_square_m":88581489.695778,
     "geom:bbox":"21.311439364,51.969968731,21.483286726,52.111812963",
     "geom:latitude":52.046094,
     "geom:longitude":21.381767,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":21.368835,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079931
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007141291703",
+        "eurostat:nuts_2021_id":"1007141291703"
+    },
     "wof:coterminous":[
         1125779007
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5faed9bb8ec1354d61b5a789312e948b",
+    "wof:geomhash":"3ab1caf848d02a0fd38e057144d46966",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751501,
-    "wof:lastmodified":1570129463,
+    "wof:lastmodified":1684354361,
     "wof:name":"Celestyn\u00f3w",
     "wof:parent_id":102079931,
     "wof:placetype":"localadmin",
+    "wof:population":11732,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021032103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szczawno-Zdr\u00f3j",
+    "eurostat:nuts_2021_id":"1003021032103",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021032103",
+    "eurostat:population":5569,
+    "eurostat:population_year":2020,
     "geom:area":0.001888,
-    "geom:area_square_m":14758684.737549,
+    "geom:area_square_m":14758684.737546,
     "geom:bbox":"16.189995666,50.766881704,16.28063001,50.823479393",
     "geom:latitude":50.796641,
     "geom:longitude":16.236598,
@@ -120,6 +132,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -132,6 +146,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021032103",
+        "eurostat:nuts_2021_id":"1003021032103",
         "gp:id":12617074,
         "qs_pg:id":1081224
     },
@@ -143,7 +159,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4c87e40cc9e7b9bb6174777408202a85",
+    "wof:geomhash":"e3b4df22b4f369192df94d0b5fdc5e39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,10 +170,12 @@
         }
     ],
     "wof:id":1125280545,
-    "wof:lastmodified":1582357762,
+    "wof:lastmodified":1684354148,
     "wof:name":"Szczawno-Zdr\u00f3j",
     "wof:parent_id":102079595,
     "wof:placetype":"localadmin",
+    "wof:population":5569,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

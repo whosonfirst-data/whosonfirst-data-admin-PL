@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281550501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"E\u0142k",
+    "eurostat:nuts_2021_id":"1004281550501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL623",
+    "eurostat:nuts_2021_level_lau":"1004281550501",
+    "eurostat:population":62109,
+    "eurostat:population_year":2020,
     "geom:area":0.002872,
-    "geom:area_square_m":20962071.112059,
+    "geom:area_square_m":20962071.112061,
     "geom:bbox":"22.312955467,53.790144733,22.407001943,53.857713816",
     "geom:latitude":53.821347,
     "geom:longitude":22.361202,
@@ -192,6 +204,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Warminsko-Mazurskie",
@@ -204,6 +218,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004281550501",
+        "eurostat:nuts_2021_id":"1004281550501",
         "gp:id":24547401,
         "qs_pg:id":993066
     },
@@ -212,7 +228,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4326cb25256a43e31ea36948f4ffc6b2",
+    "wof:geomhash":"58fc0c472c40ec7d7fbd321996da7ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -223,10 +239,12 @@
         }
     ],
     "wof:id":1125374421,
-    "wof:lastmodified":1582357860,
+    "wof:lastmodified":1684354289,
     "wof:name":"Gmina E\u0142k",
     "wof:parent_id":102080209,
     "wof:placetype":"localadmin",
+    "wof:population":62109,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

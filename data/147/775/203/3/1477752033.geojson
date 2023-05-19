@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100315",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rejowiec",
+    "eurostat:nuts_2021_id":"1006061100315",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100315",
+    "eurostat:population":6372,
+    "eurostat:population_year":2020,
     "geom:area":0.01363,
-    "geom:area_square_m":105826310.222615,
+    "geom:area_square_m":105826310.222624,
     "geom:bbox":"23.146213835,51.045141467,23.399567272,51.164156504",
     "geom:latitude":51.102408,
     "geom:longitude":23.294312,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":23.315401,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079813
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100315",
+        "eurostat:nuts_2021_id":"1006061100315"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"b647a3ec68607fd2f60e214c5e803eb4",
+    "wof:geomhash":"674dea92f3409dafdd4394769d63bd07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752033,
-    "wof:lastmodified":1570000769,
+    "wof:lastmodified":1684354388,
     "wof:name":"Gmina Rejowiec",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",
+    "wof:population":6372,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

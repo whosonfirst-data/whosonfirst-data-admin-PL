@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121241602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gromnik",
+    "eurostat:nuts_2021_id":"1001121241602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL217",
+    "eurostat:nuts_2021_level_lau":"1001121241602",
+    "eurostat:population":8922,
+    "eurostat:population_year":2020,
     "geom:area":0.008716,
-    "geom:area_square_m":69503981.879982,
+    "geom:area_square_m":69503981.879986,
     "geom:bbox":"20.848330225,49.806559028,21.043948931,49.883918408",
     "geom:latitude":49.842224,
     "geom:longitude":20.938006,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.936556,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079535
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121241602",
+        "eurostat:nuts_2021_id":"1001121241602"
+    },
     "wof:coterminous":[
         101826271
     ],
     "wof:country":"PL",
-    "wof:geomhash":"6c409655dacdb8b70b19f561b6f270af",
+    "wof:geomhash":"a7f3f1d74591cd6412b0ed43c2cb7047",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125317037,
-    "wof:lastmodified":1569996898,
+    "wof:lastmodified":1684354221,
     "wof:name":"Gromnik",
     "wof:parent_id":102079535,
     "wof:placetype":"localadmin",
+    "wof:population":8922,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

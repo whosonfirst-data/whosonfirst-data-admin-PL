@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"St\u0119szew",
+    "eurostat:nuts_2021_id":"1002301612114",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612114",
+    "eurostat:population":15126,
+    "eurostat:population_year":2020,
     "geom:area":0.023041,
-    "geom:area_square_m":174372866.092847,
+    "geom:area_square_m":174372866.092858,
     "geom:bbox":"16.541730793,52.170027445,16.811449097,52.352826814",
     "geom:latitude":52.263306,
     "geom:longitude":16.668212,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":16.65494,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079955
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612114",
+        "eurostat:nuts_2021_id":"1002301612114"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"f52699b50fb534eb598a283ce6046b20",
+    "wof:geomhash":"9a5c3d6550b96af682937a155fddad7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752809,
-    "wof:lastmodified":1569999723,
+    "wof:lastmodified":1684354430,
     "wof:name":"Gmina St\u0119szew",
     "wof:parent_id":102079955,
     "wof:placetype":"localadmin",
+    "wof:population":15126,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

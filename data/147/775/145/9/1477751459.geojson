@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041681403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Drzycim",
+    "eurostat:nuts_2021_id":"1004041681403",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL618",
+    "eurostat:nuts_2021_level_lau":"1004041681403",
+    "eurostat:population":4897,
+    "eurostat:population_year":2020,
     "geom:area":0.014686,
-    "geom:area_square_m":107989254.667812,
+    "geom:area_square_m":107989254.667819,
     "geom:bbox":"18.236095155,53.438270731,18.413798753,53.584839538",
     "geom:latitude":53.509952,
     "geom:longitude":18.328301,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":18.326942,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102080137
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041681403",
+        "eurostat:nuts_2021_id":"1004041681403"
+    },
     "wof:coterminous":[
         101848111
     ],
     "wof:country":"PL",
-    "wof:geomhash":"075c2e3d61c9cffe71115a352ec95e35",
+    "wof:geomhash":"bd666a8d2af1acffe18814c39586fcaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751459,
-    "wof:lastmodified":1570001349,
+    "wof:lastmodified":1684354358,
     "wof:name":"Drzycim",
     "wof:parent_id":102080137,
     "wof:placetype":"localadmin",
+    "wof:population":4897,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141301804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Piaseczno",
+    "eurostat:nuts_2021_id":"1007141301804",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141301804",
+    "eurostat:population":85226,
+    "eurostat:population_year":2020,
     "geom:area":0.016797,
-    "geom:area_square_m":127761816.05432,
+    "geom:area_square_m":127761816.054329,
     "geom:bbox":"20.867942225,51.985702833,21.130499501,52.112903346",
     "geom:latitude":52.038096,
     "geom:longitude":20.997501,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141301804",
+        "eurostat:nuts_2021_id":"1007141301804",
         "gp:id":24548169,
         "qs_pg:id":1316005
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"df421e4665a27156930207be37c47034",
+    "wof:geomhash":"5c9c8f0f8f861ae59c1c97583b13425b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125342079,
-    "wof:lastmodified":1582357696,
+    "wof:lastmodified":1684354251,
     "wof:name":"Gmina Piaseczno",
     "wof:parent_id":102079911,
     "wof:placetype":"localadmin",
+    "wof:population":85226,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

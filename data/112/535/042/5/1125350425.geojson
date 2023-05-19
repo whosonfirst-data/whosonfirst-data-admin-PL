@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261520706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wa\u015bni\u00f3w",
+    "eurostat:nuts_2021_id":"1005261520706",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL721",
+    "eurostat:nuts_2021_level_lau":"1005261520706",
+    "eurostat:population":6781,
+    "eurostat:population_year":2020,
     "geom:area":0.014256,
-    "geom:area_square_m":111231478.449956,
+    "geom:area_square_m":111231478.449991,
     "geom:bbox":"21.127624238,50.819296123,21.319000226,50.960754628",
     "geom:latitude":50.877115,
     "geom:longitude":21.208934,
@@ -69,7 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -82,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261520706",
+        "eurostat:nuts_2021_id":"1005261520706",
         "gn:id":756109,
         "gp:id":12617904,
         "qs_pg:id":1148873
@@ -94,7 +109,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a01788aa1342d1b4551f8cc12098b684",
+    "wof:geomhash":"f277bd3f4fd1c6a6a5f8f60ed9b70f29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,12 +120,12 @@
         }
     ],
     "wof:id":1125350425,
-    "wof:lastmodified":1582357712,
+    "wof:lastmodified":1684354256,
     "wof:name":"Wa\u015bni\u00f3w",
     "wof:parent_id":102079703,
     "wof:placetype":"localadmin",
-    "wof:population":460,
-    "wof:population_rank":2,
+    "wof:population":6781,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

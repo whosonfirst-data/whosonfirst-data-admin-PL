@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301571702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowe Skalmierzyce",
+    "eurostat:nuts_2021_id":"1002301571702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301571702",
+    "eurostat:population":15563,
+    "eurostat:population_year":2020,
     "geom:area":0.016307,
-    "geom:area_square_m":124932209.922781,
+    "geom:area_square_m":124932209.922787,
     "geom:bbox":"17.882100765,51.651308095,18.122392137,51.786126963",
     "geom:latitude":51.714557,
     "geom:longitude":17.979925,
@@ -129,7 +141,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -142,6 +155,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301571702",
+        "eurostat:nuts_2021_id":"1002301571702",
         "gn:id":3090597,
         "gp:id":24548129,
         "qs_pg:id":206278
@@ -151,7 +166,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4d6a8a309b13e7c439f443189922c05f",
+    "wof:geomhash":"b871c85db5f24a7ba0942748b83f1583",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,12 +177,12 @@
         }
     ],
     "wof:id":1125298551,
-    "wof:lastmodified":1582357827,
+    "wof:lastmodified":1684354190,
     "wof:name":"Gmina Nowe Skalmierzyce",
     "wof:parent_id":102079789,
     "wof:placetype":"localadmin",
-    "wof:population":4961,
-    "wof:population_rank":4,
+    "wof:population":15563,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

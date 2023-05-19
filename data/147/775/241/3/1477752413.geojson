@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281540408",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rychliki",
+    "eurostat:nuts_2021_id":"1004281540408",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281540408",
+    "eurostat:population":3753,
+    "eurostat:population_year":2020,
     "geom:area":0.018044,
-    "geom:area_square_m":131202818.553376,
+    "geom:area_square_m":131202818.553367,
     "geom:bbox":"19.365784636,53.926284572,19.618878767,54.050811744",
     "geom:latitude":53.981813,
     "geom:longitude":19.501156,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":19.501148,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102080231
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281540408",
+        "eurostat:nuts_2021_id":"1004281540408"
+    },
     "wof:coterminous":[
         1125776611
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b7f3dc1b1c7c832741c22723402531f3",
+    "wof:geomhash":"fe3bf1a2365d1667ae7cec0b6b1c8175",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752413,
-    "wof:lastmodified":1570002744,
+    "wof:lastmodified":1684354409,
     "wof:name":"Rychliki",
     "wof:parent_id":102080231,
     "wof:placetype":"localadmin",
+    "wof:population":3753,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

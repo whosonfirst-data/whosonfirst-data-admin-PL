@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041070201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brodnica",
+    "eurostat:nuts_2021_id":"1004041070201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL616",
+    "eurostat:nuts_2021_level_lau":"1004041070201",
+    "eurostat:population":28880,
+    "eurostat:population_year":2020,
     "geom:area":0.003116,
     "geom:area_square_m":23051222.543051,
     "geom:bbox":"19.356844991,53.222121588,19.456109397,53.29380114",
@@ -32,6 +44,8 @@
     "reversegeo:longitude":19.397205,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,8 +53,12 @@
         102080099
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041070201",
+        "eurostat:nuts_2021_id":"1004041070201"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"6b66389399ea26b306890f4c54a901d8",
+    "wof:geomhash":"16f9c2bbba3ae748e1ca624795a224c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,10 +69,12 @@
         }
     ],
     "wof:id":1477751533,
-    "wof:lastmodified":1570002053,
+    "wof:lastmodified":1684354362,
     "wof:name":"Gmina Brodnica",
     "wof:parent_id":102080099,
     "wof:placetype":"localadmin",
+    "wof:population":28880,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

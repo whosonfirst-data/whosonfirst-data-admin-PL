@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021041805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Udanin",
+    "eurostat:nuts_2021_id":"1003021041805",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL518",
+    "eurostat:nuts_2021_level_lau":"1003021041805",
+    "eurostat:population":5088,
+    "eurostat:population_year":2020,
     "geom:area":0.014216,
-    "geom:area_square_m":110503303.89403,
+    "geom:area_square_m":110503303.894041,
     "geom:bbox":"16.331656051,50.997716036,16.555328671,51.117939343",
     "geom:latitude":51.049375,
     "geom:longitude":16.453157,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":16.460806,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102079675
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021041805",
+        "eurostat:nuts_2021_id":"1003021041805"
+    },
     "wof:coterminous":[
         1242810335
     ],
     "wof:country":"PL",
-    "wof:geomhash":"69c3cd0e1034bd75fd9509573ce62458",
+    "wof:geomhash":"7b545950289a32a1e40b9ce3725fc49c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477752185,
-    "wof:lastmodified":1569999706,
+    "wof:lastmodified":1684354397,
     "wof:name":"Udanin",
     "wof:parent_id":102079675,
     "wof:placetype":"localadmin",
+    "wof:population":5088,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

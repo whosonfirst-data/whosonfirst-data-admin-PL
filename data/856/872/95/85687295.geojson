@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Podkarpackie",
+    "eurostat:name_local":"Podkarpackie",
+    "eurostat:nuts_2021_id":"PL82",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:population":2067289,
+    "eurostat:population_year":2022,
     "geom:area":2.235693,
-    "geom:area_square_m":17786429282.845669,
+    "geom:area_square_m":17786428983.546143,
     "geom:bbox":"21.142112,49.002047,23.547883,50.820548",
     "geom:latitude":49.953674,
     "geom:longitude":22.169116,
@@ -309,8 +319,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-21",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"17,846",
     "statoids:area_mi":"6,890",
     "statoids:as_of_date":"2011-03-21",
@@ -332,6 +342,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14362,
+        "eurostat:nuts_2021_id":"PL82",
         "fips:code":"PL80",
         "hasc:id":"PL.PK",
         "iso:id":"PL-PK",
@@ -343,7 +354,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e988731c1dc21efed5470952b1fe7cce",
+    "wof:geomhash":"4789eea468421afc8717eb0ccaad97f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -361,12 +372,12 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1614895724,
+    "wof:lastmodified":1684351466,
     "wof:name":"Podkarpackie",
     "wof:parent_id":85633723,
     "wof:placetype":"region",
     "wof:placetype_local":"voivodship",
-    "wof:population":2127285,
+    "wof:population":2067289,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:shortcode":"PK",

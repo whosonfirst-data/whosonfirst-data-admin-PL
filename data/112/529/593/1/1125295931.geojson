@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301612408",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wronki",
+    "eurostat:nuts_2021_id":"1002301612408",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL418",
+    "eurostat:nuts_2021_level_lau":"1002301612408",
+    "eurostat:population":19074,
+    "eurostat:population_year":2020,
     "geom:area":0.040128,
-    "geom:area_square_m":300531945.759591,
+    "geom:area_square_m":300531945.759589,
     "geom:bbox":"16.013770434,52.639398449,16.455378263,52.794057282",
     "geom:latitude":52.722033,
     "geom:longitude":16.262728,
@@ -146,7 +158,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -159,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301612408",
+        "eurostat:nuts_2021_id":"1002301612408",
         "gn:id":3081350,
         "gp:id":24547529,
         "qs_pg:id":145550
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"214a8e0015a430593922e96658df287a",
+    "wof:geomhash":"abd5722194f0e826d5981f34ad2701b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,11 +194,11 @@
         }
     ],
     "wof:id":1125295931,
-    "wof:lastmodified":1582357804,
+    "wof:lastmodified":1684354186,
     "wof:name":"Gmina Wronki",
     "wof:parent_id":102079963,
     "wof:placetype":"localadmin",
-    "wof:population":11462,
+    "wof:population":19074,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

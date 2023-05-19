@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161321102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jemielnica",
+    "eurostat:nuts_2021_id":"1003161321102",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161321102",
+    "eurostat:population":7236,
+    "eurostat:population_year":2020,
     "geom:area":0.014397,
-    "geom:area_square_m":113064919.534849,
+    "geom:area_square_m":113064919.534837,
     "geom:bbox":"18.311240187,50.496863998,18.482539103,50.639756296",
     "geom:latitude":50.572193,
     "geom:longitude":18.393533,
@@ -69,7 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -82,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161321102",
+        "eurostat:nuts_2021_id":"1003161321102",
         "gn:id":3097233,
         "gp:id":24548348,
         "qs_pg:id":1013108
@@ -94,7 +109,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bec4b495b74c61e77494b3fc7b2fde2a",
+    "wof:geomhash":"0ed1d34bc13e838373c387d33f56a044",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,12 +120,12 @@
         }
     ],
     "wof:id":1125383115,
-    "wof:lastmodified":1582357940,
+    "wof:lastmodified":1684354300,
     "wof:name":"Jemielnica",
     "wof:parent_id":102079587,
     "wof:placetype":"localadmin",
-    "wof:population":3500,
-    "wof:population_rank":4,
+    "wof:population":7236,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142711006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stara Kornica",
+    "eurostat:nuts_2021_id":"1007142711006",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142711006",
+    "eurostat:population":4737,
+    "eurostat:population_year":2020,
     "geom:area":0.015618,
-    "geom:area_square_m":118387652.146098,
+    "geom:area_square_m":118387652.146092,
     "geom:bbox":"22.83562428,52.117127081,23.072456669,52.25074113",
     "geom:latitude":52.191927,
     "geom:longitude":22.930984,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":22.921127,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079981
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142711006",
+        "eurostat:nuts_2021_id":"1007142711006"
+    },
     "wof:coterminous":[
         101821753
     ],
     "wof:country":"PL",
-    "wof:geomhash":"330da327925c4471327122486c56f604",
+    "wof:geomhash":"d22dd445f39ced16435b4305a5bbf59e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752913,
-    "wof:lastmodified":1570003707,
+    "wof:lastmodified":1684354436,
     "wof:name":"Stara Kornica",
     "wof:parent_id":102079981,
     "wof:placetype":"localadmin",
+    "wof:population":4737,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061121111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wola Mys\u0142owska",
+    "eurostat:nuts_2021_id":"1006061121111",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061121111",
+    "eurostat:population":4649,
+    "eurostat:population_year":2020,
     "geom:area":0.015796,
-    "geom:area_square_m":120640683.699387,
+    "geom:area_square_m":120640683.699413,
     "geom:bbox":"21.844799518,51.781493211,22.118516044,51.918993497",
     "geom:latitude":51.855273,
     "geom:longitude":21.979551,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":21.977484,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079925
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061121111",
+        "eurostat:nuts_2021_id":"1006061121111"
+    },
     "wof:coterminous":[
         1126004667
     ],
     "wof:country":"PL",
-    "wof:geomhash":"547e416200e3a69b5c52fe91d661ab8b",
+    "wof:geomhash":"71a01c2bd8efea086eb1bbea7dcb0735",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752801,
-    "wof:lastmodified":1569999745,
+    "wof:lastmodified":1684354430,
     "wof:name":"Wola Mys\u0142owska",
     "wof:parent_id":102079925,
     "wof:placetype":"localadmin",
+    "wof:population":4649,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

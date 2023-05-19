@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przytu\u0142y",
+    "eurostat:nuts_2021_id":"1006201380706",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380706",
+    "eurostat:population":2073,
+    "eurostat:population_year":2020,
     "geom:area":0.009606,
-    "geom:area_square_m":70868724.182904,
+    "geom:area_square_m":70868724.182896,
     "geom:bbox":"22.235330657,53.331054186,22.406372235,53.437848325",
     "geom:latitude":53.372134,
     "geom:longitude":22.310475,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":22.303348,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102080143
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380706",
+        "eurostat:nuts_2021_id":"1006201380706"
+    },
     "wof:coterminous":[
         1126014747
     ],
     "wof:country":"PL",
-    "wof:geomhash":"02c30190af259bc909209a85e2c2b30a",
+    "wof:geomhash":"bc2ac2e9f4c4ee3484d45845b8182e49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752733,
-    "wof:lastmodified":1569999857,
+    "wof:lastmodified":1684354425,
     "wof:name":"Przytu\u0142y",
     "wof:parent_id":102080143,
     "wof:placetype":"localadmin",
+    "wof:population":2073,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

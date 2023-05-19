@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002081140806",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zb\u0105szynek",
+    "eurostat:nuts_2021_id":"1002081140806",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL43",
+    "eurostat:nuts_2021_level_3":"PL432",
+    "eurostat:nuts_2021_level_lau":"1002081140806",
+    "eurostat:population":8353,
+    "eurostat:population_year":2020,
     "geom:area":0.012382,
-    "geom:area_square_m":93713119.558371,
+    "geom:area_square_m":93713119.558344,
     "geom:bbox":"15.711051819,52.191808448,15.881414444,52.320481879",
     "geom:latitude":52.260238,
     "geom:longitude":15.797155,
@@ -130,7 +142,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubuskie",
@@ -143,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002081140806",
+        "eurostat:nuts_2021_id":"1002081140806",
         "gn:id":3080494,
         "gp:id":24547807,
         "qs_pg:id":206267
@@ -152,7 +167,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"aa30fbcb463f3b287ae88436a34fbef0",
+    "wof:geomhash":"b84aa3d68194599fbad804c3025450d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,11 +178,11 @@
         }
     ],
     "wof:id":1125311339,
-    "wof:lastmodified":1582357945,
+    "wof:lastmodified":1684354215,
     "wof:name":"Gmina Zb\u0105szynek",
     "wof:parent_id":102079887,
     "wof:placetype":"localadmin",
-    "wof:population":5073,
+    "wof:population":8353,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

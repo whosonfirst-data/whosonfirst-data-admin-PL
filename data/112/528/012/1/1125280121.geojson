@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041081801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kowal",
+    "eurostat:nuts_2021_id":"1004041081801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041081801",
+    "eurostat:population":3505,
+    "eurostat:population_year":2020,
     "geom:area":0.00062,
-    "geom:area_square_m":4666536.154483,
+    "geom:area_square_m":4666536.154482,
     "geom:bbox":"19.128072,52.516878,19.162058,52.547914",
     "geom:latitude":52.53268,
     "geom:longitude":19.145036,
@@ -123,7 +135,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -131,11 +144,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079997,
-        85687319
+        85687319,
+        102079997
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041081801",
+        "eurostat:nuts_2021_id":"1004041081801",
         "gn:id":3094981,
         "gp:id":24547522,
         "qs_pg:id":1043174
@@ -148,7 +163,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f477f95cf19e36007a94d4e9f0cc6b77",
+    "wof:geomhash":"f64a7eb3c25b2f9222cd96d1b8e8e79a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,11 +174,11 @@
         }
     ],
     "wof:id":1125280121,
-    "wof:lastmodified":1607724697,
+    "wof:lastmodified":1684354147,
     "wof:name":"Gmina Kowal",
     "wof:parent_id":102079997,
     "wof:placetype":"localadmin",
-    "wof:population":3490,
+    "wof:population":3505,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

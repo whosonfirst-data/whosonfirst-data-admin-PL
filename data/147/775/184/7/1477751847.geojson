@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041670702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u0105browa Biskupia",
+    "eurostat:nuts_2021_id":"1004041670702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL617",
+    "eurostat:nuts_2021_level_lau":"1004041670702",
+    "eurostat:population":5104,
+    "eurostat:population_year":2020,
     "geom:area":0.019601,
-    "geom:area_square_m":146610056.502813,
+    "geom:area_square_m":146610056.502845,
     "geom:bbox":"18.355879263,52.709265335,18.625374213,52.842242123",
     "geom:latitude":52.779041,
     "geom:longitude":18.4886,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":18.4549,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080013
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041670702",
+        "eurostat:nuts_2021_id":"1004041670702"
+    },
     "wof:coterminous":[
         1126004865
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b211d0dfb908579b53f52f0b1d4d7ae5",
+    "wof:geomhash":"6262d025c5e545aa4a71ac298fde761f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751847,
-    "wof:lastmodified":1570004230,
+    "wof:lastmodified":1684354379,
     "wof:name":"D\u0105browa Biskupia",
     "wof:parent_id":102080013,
     "wof:placetype":"localadmin",
+    "wof:population":5104,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

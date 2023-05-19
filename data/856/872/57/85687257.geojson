@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Mazowiecki regionalny",
+    "eurostat:name_local":"Mazowiecki regionalny",
+    "eurostat:nuts_2021_id":"PL92",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:population":2289267,
+    "eurostat:population_year":2022,
     "geom:area":4.689476,
-    "geom:area_square_m":35421830031.762665,
+    "geom:area_square_m":35421830417.200134,
     "geom:bbox":"19.259214,51.013112,23.128409,53.481806",
     "geom:latitude":52.345758,
     "geom:longitude":21.096445,
@@ -302,8 +312,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-21",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"35,558",
     "statoids:area_mi":"13,729",
     "statoids:as_of_date":"2011-03-21",
@@ -325,6 +335,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14344,
+        "eurostat:nuts_2021_id":"PL92",
         "fips:code":"PL78",
         "hasc:id":"PL.MZ",
         "iso:id":"PL-MZ",
@@ -336,7 +347,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"804875d82e96075f9e9b2291122d718a",
+    "wof:geomhash":"464ba2042eefc6ce85b838b04ecd18bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -354,13 +365,13 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1617129859,
+    "wof:lastmodified":1684351457,
     "wof:name":"Mazowieckie",
     "wof:parent_id":85633723,
     "wof:placetype":"region",
     "wof:placetype_local":"voivodship",
-    "wof:population":5268660,
-    "wof:population_rank":13,
+    "wof:population":2289267,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:shortcode":"MZ",
     "wof:subdivision":"PL-MZ",

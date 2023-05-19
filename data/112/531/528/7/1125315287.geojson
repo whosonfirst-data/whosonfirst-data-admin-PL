@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321630901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"B\u0119dzino",
+    "eurostat:nuts_2021_id":"1002321630901",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL426",
+    "eurostat:nuts_2021_level_lau":"1002321630901",
+    "eurostat:population":8659,
+    "eurostat:population_year":2020,
     "geom:area":0.022877,
-    "geom:area_square_m":165478798.358031,
+    "geom:area_square_m":165478798.358027,
     "geom:bbox":"15.791972523,54.134741215,16.136812219,54.258684467",
     "geom:latitude":54.19845,
     "geom:longitude":15.949406,
@@ -69,6 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321630901",
+        "eurostat:nuts_2021_id":"1002321630901",
         "gp:id":12616783,
         "qs_pg:id":493071
     },
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5e47bdf478a3146103b6b77bba185cfc",
+    "wof:geomhash":"73a1a7a8d2ed05a307727be7c20b2bfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":1125315287,
-    "wof:lastmodified":1582357949,
+    "wof:lastmodified":1684354219,
     "wof:name":"B\u0119dzino",
     "wof:parent_id":102080199,
     "wof:placetype":"localadmin",
+    "wof:population":8659,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

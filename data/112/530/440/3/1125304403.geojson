@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241491104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krzy\u017canowice",
+    "eurostat:nuts_2021_id":"1001241491104",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL227",
+    "eurostat:nuts_2021_level_lau":"1001241491104",
+    "eurostat:population":11274,
+    "eurostat:population_year":2020,
     "geom:area":0.0087,
-    "geom:area_square_m":69161275.608012,
+    "geom:area_square_m":69161275.608016,
     "geom:bbox":"18.174045909,49.915669011,18.351736571,50.052162184",
     "geom:latitude":49.989465,
     "geom:longitude":18.256081,
@@ -68,7 +80,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -81,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241491104",
+        "eurostat:nuts_2021_id":"1001241491104",
         "gn:id":3094400,
         "gp:id":12617647,
         "qs_pg:id":1190560
@@ -93,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c7a8e3affa6f6a6304b06fc7884cf506",
+    "wof:geomhash":"d02cbfd319981228f23ca7eb956cb75b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,12 +119,12 @@
         }
     ],
     "wof:id":1125304403,
-    "wof:lastmodified":1582357871,
+    "wof:lastmodified":1684354200,
     "wof:name":"Krzy\u017canowice",
     "wof:parent_id":102079477,
     "wof:placetype":"localadmin",
-    "wof:population":2005,
-    "wof:population_rank":4,
+    "wof:population":11274,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

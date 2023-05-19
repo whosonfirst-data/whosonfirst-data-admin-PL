@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281561703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jedwabno",
+    "eurostat:nuts_2021_id":"1004281561703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL622",
+    "eurostat:nuts_2021_level_lau":"1004281561703",
+    "eurostat:population":3631,
+    "eurostat:population_year":2020,
     "geom:area":0.04225,
-    "geom:area_square_m":310606181.123825,
+    "geom:area_square_m":310606181.123833,
     "geom:bbox":"20.588969745,53.414020383,20.917050916,53.620227537",
     "geom:latitude":53.520068,
     "geom:longitude":20.742378,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.745443,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080167
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281561703",
+        "eurostat:nuts_2021_id":"1004281561703"
+    },
     "wof:coterminous":[
         1125953399
     ],
     "wof:country":"PL",
-    "wof:geomhash":"c55772011f1d59488fb5e317e14a2769",
+    "wof:geomhash":"1f2ea3df5b67c9720b786bc7e2b6472d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125343243,
-    "wof:lastmodified":1569988091,
+    "wof:lastmodified":1684354252,
     "wof:name":"Jedwabno",
     "wof:parent_id":102080167,
     "wof:placetype":"localadmin",
+    "wof:population":3631,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

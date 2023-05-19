@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221421309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Skarszewy",
+    "eurostat:nuts_2021_id":"1004221421309",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221421309",
+    "eurostat:population":14924,
+    "eurostat:population_year":2020,
     "geom:area":0.023291,
-    "geom:area_square_m":168995183.981191,
+    "geom:area_square_m":168995183.981214,
     "geom:bbox":"18.278068449,53.992394373,18.592971357,54.143190511",
     "geom:latitude":54.070541,
     "geom:longitude":18.425666,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":18.425669,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102080183
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221421309",
+        "eurostat:nuts_2021_id":"1004221421309"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"906c9fb5421f9178dfc6750fc2dd8150",
+    "wof:geomhash":"2c6c9cafeaaa9e15f15473c574a8c803",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751957,
-    "wof:lastmodified":1569999232,
+    "wof:lastmodified":1684354384,
     "wof:name":"Gmina Skarszewy",
     "wof:parent_id":102080183,
     "wof:placetype":"localadmin",
+    "wof:population":14924,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

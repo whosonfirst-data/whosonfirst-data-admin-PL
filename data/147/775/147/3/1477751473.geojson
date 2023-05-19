@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142261503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czerwin",
+    "eurostat:nuts_2021_id":"1007142261503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142261503",
+    "eurostat:population":5098,
+    "eurostat:population_year":2020,
     "geom:area":0.022763,
-    "geom:area_square_m":169568772.999168,
+    "geom:area_square_m":169568772.999195,
     "geom:bbox":"21.617097408,52.895836197,21.960602573,53.00897648",
     "geom:latitude":52.95506,
     "geom:longitude":21.767315,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":21.769897,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080139
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142261503",
+        "eurostat:nuts_2021_id":"1007142261503"
+    },
     "wof:coterminous":[
         1293319205
     ],
     "wof:country":"PL",
-    "wof:geomhash":"3c6eaed1263f4c8ec6f6a6799837a08e",
+    "wof:geomhash":"d8ce13cbdee6bcc1de9a4ac8619762c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751473,
-    "wof:lastmodified":1570004637,
+    "wof:lastmodified":1684354359,
     "wof:name":"Czerwin",
     "wof:parent_id":102080139,
     "wof:placetype":"localadmin",
+    "wof:population":5098,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

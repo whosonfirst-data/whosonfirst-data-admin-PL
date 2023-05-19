@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021012503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bogatynia",
+    "eurostat:nuts_2021_id":"1003021012503",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021012503",
+    "eurostat:population":22940,
+    "eurostat:population_year":2020,
     "geom:area":0.017404,
-    "geom:area_square_m":135634319.972471,
+    "geom:area_square_m":135634319.972465,
     "geom:bbox":"14.817378594,50.861928692,15.021708791,51.033657517",
     "geom:latitude":50.930149,
     "geom:longitude":14.936759,
@@ -56,6 +68,8 @@
     "reversegeo:longitude":14.943727,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -63,8 +77,12 @@
         102079695
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021012503",
+        "eurostat:nuts_2021_id":"1003021012503"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"422c43152dfee9d43172fe5f27e4fb4c",
+    "wof:geomhash":"a7b22747c93f7958546f23133194a7ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477752715,
-    "wof:lastmodified":1570003225,
+    "wof:lastmodified":1684354424,
     "wof:name":"Gmina Bogatynia",
     "wof:parent_id":102079695,
     "wof:placetype":"localadmin",
+    "wof:population":22940,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

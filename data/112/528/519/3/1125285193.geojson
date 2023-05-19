@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061091307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sosnowica",
+    "eurostat:nuts_2021_id":"1006061091307",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL811",
+    "eurostat:nuts_2021_level_lau":"1006061091307",
+    "eurostat:population":2579,
+    "eurostat:population_year":2020,
     "geom:area":0.02221,
-    "geom:area_square_m":170966693.511358,
+    "geom:area_square_m":170966693.511366,
     "geom:bbox":"22.972193925,51.408944419,23.216270457,51.585255115",
     "geom:latitude":51.498138,
     "geom:longitude":23.092834,
@@ -68,7 +80,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -81,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061091307",
+        "eurostat:nuts_2021_id":"1006061091307",
         "gn:id":758548,
         "gp:id":12617883,
         "qs_pg:id":1093977
@@ -93,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"22c1ec0fcd9eea72e0a0282ccc929536",
+    "wof:geomhash":"6655ed369c2e42f12c68c75a1a120125",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,12 +119,12 @@
         }
     ],
     "wof:id":1125285193,
-    "wof:lastmodified":1582357767,
+    "wof:lastmodified":1684354157,
     "wof:name":"Sosnowica",
     "wof:parent_id":102079885,
     "wof:placetype":"localadmin",
-    "wof:population":678,
-    "wof:population_rank":2,
+    "wof:population":2579,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

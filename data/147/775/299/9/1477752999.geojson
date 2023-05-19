@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101190401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u0141\u0119czyca",
+    "eurostat:nuts_2021_id":"1005101190401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL715",
+    "eurostat:nuts_2021_level_lau":"1005101190401",
+    "eurostat:population":13971,
+    "eurostat:population_year":2020,
     "geom:area":0.001173,
-    "geom:area_square_m":8917506.261913,
+    "geom:area_square_m":8917506.261916,
     "geom:bbox":"19.173714614,52.037631899,19.224505643,52.071150329",
     "geom:latitude":52.055331,
     "geom:longitude":19.197692,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":19.197211,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079891
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101190401",
+        "eurostat:nuts_2021_id":"1005101190401"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"0946ee4816c93d87683134bf32b17268",
+    "wof:geomhash":"a0b4730d8f8f07a33918454ace05f1d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752999,
-    "wof:lastmodified":1570004080,
+    "wof:lastmodified":1684354441,
     "wof:name":"Gmina \u0141\u0119czyca",
     "wof:parent_id":102079891,
     "wof:placetype":"localadmin",
+    "wof:population":13971,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

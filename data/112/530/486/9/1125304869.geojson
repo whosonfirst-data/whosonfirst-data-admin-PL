@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142716401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Siedlce",
+    "eurostat:nuts_2021_id":"1007142716401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142716401",
+    "eurostat:population":78185,
+    "eurostat:population_year":2020,
     "geom:area":0.004184,
-    "geom:area_square_m":31737859.044438,
+    "geom:area_square_m":31737859.044436,
     "geom:bbox":"22.220546296,52.127549921,22.330957029,52.195947163",
     "geom:latitude":52.165063,
     "geom:longitude":22.271233,
@@ -206,6 +218,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -218,6 +232,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142716401",
+        "eurostat:nuts_2021_id":"1007142716401",
         "gn:id":7532815,
         "gp:id":12618870,
         "qs_pg:id":201446
@@ -227,7 +243,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b55bc4bfe0a24c0489344b944fe98db9",
+    "wof:geomhash":"96b59f63def107149934314747e032b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -238,10 +254,12 @@
         }
     ],
     "wof:id":1125304869,
-    "wof:lastmodified":1582357892,
+    "wof:lastmodified":1684354206,
     "wof:name":"Gmina Siedlce",
     "wof:parent_id":102079939,
     "wof:placetype":"localadmin",
+    "wof:population":78185,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

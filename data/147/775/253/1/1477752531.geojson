@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dubienka",
+    "eurostat:nuts_2021_id":"1006061100305",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100305",
+    "eurostat:population":2315,
+    "eurostat:population_year":2020,
     "geom:area":0.012317,
-    "geom:area_square_m":95778279.272347,
+    "geom:area_square_m":95778279.272321,
     "geom:bbox":"23.754404332,50.971951347,23.943972135,51.100625084",
     "geom:latitude":51.034697,
     "geom:longitude":23.856904,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":23.842627,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079813
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100305",
+        "eurostat:nuts_2021_id":"1006061100305"
+    },
     "wof:coterminous":[
         101822685
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f34aeaec0ca170dfdd073a150c21b633",
+    "wof:geomhash":"8384d49e9e97ad77cd967767218856b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752531,
-    "wof:lastmodified":1570003549,
+    "wof:lastmodified":1684354414,
     "wof:name":"Dubienka",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",
+    "wof:population":2315,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

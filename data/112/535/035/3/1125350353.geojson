@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061120506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Modliborzyce",
+    "eurostat:nuts_2021_id":"1006061120506",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061120506",
+    "eurostat:population":6957,
+    "eurostat:population_year":2020,
     "geom:area":0.019439,
-    "geom:area_square_m":152084095.839456,
+    "geom:area_square_m":152084095.839491,
     "geom:bbox":"22.213929082,50.652659046,22.460912301,50.839704807",
     "geom:latitude":50.750149,
     "geom:longitude":22.326799,
@@ -103,7 +115,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -116,6 +129,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061120506",
+        "eurostat:nuts_2021_id":"1006061120506",
         "gn:id":764531,
         "gp:id":12616881,
         "qs_pg:id":1148856
@@ -125,7 +140,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"61e64a5d22dab3ecc598bd1eeb5fd910",
+    "wof:geomhash":"785b2c6b511025685b6cdeb5069b15f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,12 +151,12 @@
         }
     ],
     "wof:id":1125350353,
-    "wof:lastmodified":1582357715,
+    "wof:lastmodified":1684354255,
     "wof:name":"Gmina Modliborzyce",
     "wof:parent_id":102079697,
     "wof:placetype":"localadmin",
-    "wof:population":1904,
-    "wof:population_rank":3,
+    "wof:population":6957,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

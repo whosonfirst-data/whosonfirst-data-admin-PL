@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161311002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u0142og\u00f3wek",
+    "eurostat:nuts_2021_id":"1003161311002",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161311002",
+    "eurostat:population":13221,
+    "eurostat:population_year":2020,
     "geom:area":0.021452,
-    "geom:area_square_m":169290984.099503,
+    "geom:area_square_m":169290984.099469,
     "geom:bbox":"17.718155736,50.265089306,18.032260633,50.426594021",
     "geom:latitude":50.341579,
     "geom:longitude":17.86574,
@@ -143,7 +155,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -156,6 +169,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161311002",
+        "eurostat:nuts_2021_id":"1003161311002",
         "gn:id":3099209,
         "gp:id":24548554,
         "qs_pg:id":1019767
@@ -165,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"26f9af6826bcb15a13dc9dce1a731ccb",
+    "wof:geomhash":"6c5fb99178e708a522bbf51884913604",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,12 +191,12 @@
         }
     ],
     "wof:id":1125395135,
-    "wof:lastmodified":1582357922,
+    "wof:lastmodified":1684354316,
     "wof:name":"Gmina G\u0142og\u00f3wek",
     "wof:parent_id":102079549,
     "wof:placetype":"localadmin",
-    "wof:population":5755,
-    "wof:population_rank":5,
+    "wof:population":13221,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005261530106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stopnica",
+    "eurostat:nuts_2021_id":"1005261530106",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL72",
+    "eurostat:nuts_2021_level_3":"PL722",
+    "eurostat:nuts_2021_level_lau":"1005261530106",
+    "eurostat:population":7589,
+    "eurostat:population_year":2020,
     "geom:area":0.015945,
-    "geom:area_square_m":125518533.697204,
+    "geom:area_square_m":125518533.697219,
     "geom:bbox":"20.810240517,50.400655954,21.035684843,50.552467594",
     "geom:latitude":50.459313,
     "geom:longitude":20.925299,
@@ -111,7 +123,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Swi\u0119tokrzyskie",
@@ -124,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005261530106",
+        "eurostat:nuts_2021_id":"1005261530106",
         "gn:id":758116,
         "gp:id":12617492,
         "qs_pg:id":269658
@@ -133,7 +148,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"aa146fa4d3b321f25160ca7aa8d1974c",
+    "wof:geomhash":"26b0f7f24ffdeacd3300f6040744a103",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,12 +159,12 @@
         }
     ],
     "wof:id":1125298549,
-    "wof:lastmodified":1582357825,
+    "wof:lastmodified":1684354190,
     "wof:name":"Gmina Stopnica",
     "wof:parent_id":102079615,
     "wof:placetype":"localadmin",
-    "wof:population":1545,
-    "wof:population_rank":3,
+    "wof:population":7589,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

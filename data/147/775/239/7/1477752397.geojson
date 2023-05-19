@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004281540705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lubawa",
+    "eurostat:nuts_2021_id":"1004281540705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL62",
+    "eurostat:nuts_2021_level_3":"PL621",
+    "eurostat:nuts_2021_level_lau":"1004281540705",
+    "eurostat:population":10689,
+    "eurostat:population_year":2020,
     "geom:area":0.032029,
-    "geom:area_square_m":235502472.399857,
+    "geom:area_square_m":235502472.399873,
     "geom:bbox":"19.603833,53.432863,19.948071,53.617252",
     "geom:latitude":53.51285,
     "geom:longitude":19.781616,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":19.767974,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,11 +83,15 @@
         102080171
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004281540705",
+        "eurostat:nuts_2021_id":"1004281540705"
+    },
     "wof:coterminous":[
         1477865681
     ],
     "wof:country":"PL",
-    "wof:geomhash":"1847235a85b48faeabf880cc0ccc854b",
+    "wof:geomhash":"9488ff5d663265742497d8cd76b9d4f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752397,
-    "wof:lastmodified":1617130721,
+    "wof:lastmodified":1684354408,
     "wof:name":"Gmina Lubawa",
     "wof:parent_id":102080171,
     "wof:placetype":"localadmin",
+    "wof:population":10689,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

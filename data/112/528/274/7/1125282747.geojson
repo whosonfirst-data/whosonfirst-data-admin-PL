@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121200605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kocmyrz\u00f3w-Luborzyca",
+    "eurostat:nuts_2021_id":"1001121200605",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL214",
+    "eurostat:nuts_2021_level_lau":"1001121200605",
+    "eurostat:population":15776,
+    "eurostat:population_year":2020,
     "geom:area":0.010431,
-    "geom:area_square_m":82642165.441503,
+    "geom:area_square_m":82642165.441506,
     "geom:bbox":"20.026910454,50.106467833,20.204483484,50.206407654",
     "geom:latitude":50.153413,
     "geom:longitude":20.112854,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":20.111183,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079541
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121200605",
+        "eurostat:nuts_2021_id":"1001121200605"
+    },
     "wof:coterminous":[
         1477864055
     ],
     "wof:country":"PL",
-    "wof:geomhash":"a54dedd809c47d31f30a273c50cffc76",
+    "wof:geomhash":"8915cd6fdbe04727d2df4f1fffa364d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125282747,
-    "wof:lastmodified":1569990096,
+    "wof:lastmodified":1684354152,
     "wof:name":"Kocmyrz\u00f3w-Luborzyca",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",
+    "wof:population":15776,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

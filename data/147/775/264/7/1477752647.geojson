@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bi\u0142goraj",
+    "eurostat:nuts_2021_id":"1006061100201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100201",
+    "eurostat:population":26329,
+    "eurostat:population_year":2020,
     "geom:area":0.002675,
-    "geom:area_square_m":21024599.088824,
+    "geom:area_square_m":21024599.088828,
     "geom:bbox":"22.674649031,50.513117394,22.748740405,50.564905344",
     "geom:latitude":50.538533,
     "geom:longitude":22.711242,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":22.711935,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079699
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100201",
+        "eurostat:nuts_2021_id":"1006061100201"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"76a05eb9fcf72ac8228928fa5c53e159",
+    "wof:geomhash":"5d6a57cd5ae2a1842090534f5626258e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752647,
-    "wof:lastmodified":1570003955,
+    "wof:lastmodified":1684354421,
     "wof:name":"Gmina Bi\u0142goraj",
     "wof:parent_id":102079699,
     "wof:placetype":"localadmin",
+    "wof:population":26329,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

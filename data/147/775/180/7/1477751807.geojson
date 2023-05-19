@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241491205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u015awierklany",
+    "eurostat:nuts_2021_id":"1001241491205",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL227",
+    "eurostat:nuts_2021_level_lau":"1001241491205",
+    "eurostat:population":12486,
+    "eurostat:population_year":2020,
     "geom:area":0.003037,
-    "geom:area_square_m":24122276.252663,
+    "geom:area_square_m":24122276.252661,
     "geom:bbox":"18.523194961,49.996529077,18.615632327,50.061203312",
     "geom:latitude":50.029123,
     "geom:longitude":18.573947,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":18.573937,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079459
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241491205",
+        "eurostat:nuts_2021_id":"1001241491205"
+    },
     "wof:coterminous":[
         1125898013
     ],
     "wof:country":"PL",
-    "wof:geomhash":"17acfe85709dfe9b5b4b7165688bd7db",
+    "wof:geomhash":"e540b8409c357b9b108f2187ab656881",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1477751807,
-    "wof:lastmodified":1570001260,
+    "wof:lastmodified":1684354376,
     "wof:name":"\u015awierklany",
     "wof:parent_id":102079459,
     "wof:placetype":"localadmin",
+    "wof:population":12486,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

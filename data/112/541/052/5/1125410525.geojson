@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301591505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Opalenica",
+    "eurostat:nuts_2021_id":"1002301591505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301591505",
+    "eurostat:population":16397,
+    "eurostat:population_year":2020,
     "geom:area":0.01935,
-    "geom:area_square_m":146277326.321539,
+    "geom:area_square_m":146277326.321537,
     "geom:bbox":"16.274659922,52.248429308,16.51266424,52.387351514",
     "geom:latitude":52.311739,
     "geom:longitude":16.406735,
@@ -124,7 +136,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -137,6 +150,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301591505",
+        "eurostat:nuts_2021_id":"1002301591505",
         "gn:id":3090076,
         "gp:id":24548025,
         "qs_pg:id":59505
@@ -146,7 +161,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2514692d8d3ba7a0bb1b0269b3bc277f",
+    "wof:geomhash":"772fcb85f2ff87a31e7e71f28ff1779c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,12 +172,12 @@
         }
     ],
     "wof:id":1125410525,
-    "wof:lastmodified":1582358014,
+    "wof:lastmodified":1684354331,
     "wof:name":"Gmina Opalenica",
     "wof:parent_id":102079915,
     "wof:placetype":"localadmin",
-    "wof:population":8991,
-    "wof:population_rank":5,
+    "wof:population":16397,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

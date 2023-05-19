@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061120501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Batorz",
+    "eurostat:nuts_2021_id":"1006061120501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061120501",
+    "eurostat:population":3264,
+    "eurostat:population_year":2020,
     "geom:area":0.009045,
-    "geom:area_square_m":70590047.657976,
+    "geom:area_square_m":70590047.657949,
     "geom:bbox":"22.397154766,50.811829841,22.547762265,50.915657027",
     "geom:latitude":50.863017,
     "geom:longitude":22.478825,
@@ -71,7 +83,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -84,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061120501",
+        "eurostat:nuts_2021_id":"1006061120501",
         "gn:id":776310,
         "gp:id":12616709,
         "qs_pg:id":396903
@@ -96,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a46dbbb663d19e5881a2f29c7e06976e",
+    "wof:geomhash":"f571f5e20858cf4900a2aba3ac315a92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,12 +122,12 @@
         }
     ],
     "wof:id":1125399469,
-    "wof:lastmodified":1582357910,
+    "wof:lastmodified":1684354321,
     "wof:name":"Batorz",
     "wof:parent_id":102079697,
     "wof:placetype":"localadmin",
-    "wof:population":982,
-    "wof:population_rank":2,
+    "wof:population":3264,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

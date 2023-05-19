@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221720307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rzeczenica",
+    "eurostat:nuts_2021_id":"1004221720307",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL637",
+    "eurostat:nuts_2021_level_lau":"1004221720307",
+    "eurostat:population":3607,
+    "eurostat:population_year":2020,
     "geom:area":0.037445,
-    "geom:area_square_m":273602796.90831,
+    "geom:area_square_m":273602796.908315,
     "geom:bbox":"16.857653462,53.673734241,17.216760954,53.884190225",
     "geom:latitude":53.77746,
     "geom:longitude":17.025119,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":17.012953,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102080157
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221720307",
+        "eurostat:nuts_2021_id":"1004221720307"
+    },
     "wof:coterminous":[
         1125783473
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b99b10a719b6a5e039b0e905caf530af",
+    "wof:geomhash":"36864893767c178f33b76716ae5c7d16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752653,
-    "wof:lastmodified":1570003732,
+    "wof:lastmodified":1684354421,
     "wof:name":"Rzeczenica",
     "wof:parent_id":102080157,
     "wof:placetype":"localadmin",
+    "wof:population":3607,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

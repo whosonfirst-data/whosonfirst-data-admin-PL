@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142702704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ro\u015bciszewo",
+    "eurostat:nuts_2021_id":"1007142702704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL923",
+    "eurostat:nuts_2021_level_lau":"1007142702704",
+    "eurostat:population":4139,
+    "eurostat:population_year":2020,
     "geom:area":0.015331,
-    "geom:area_square_m":114329072.328791,
+    "geom:area_square_m":114329072.328776,
     "geom:bbox":"19.649999348,52.847259384,19.885369011,52.973845764",
     "geom:latitude":52.909341,
     "geom:longitude":19.762168,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":19.763948,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102080035
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142702704",
+        "eurostat:nuts_2021_id":"1007142702704"
+    },
     "wof:coterminous":[
         1477863401
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e490495937da0985686a9cef1dfb36b9",
+    "wof:geomhash":"8ab50397f0639d1ac85e14b0e027d0bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125289113,
-    "wof:lastmodified":1569991078,
+    "wof:lastmodified":1684354169,
     "wof:name":"Ro\u015bciszewo",
     "wof:parent_id":102080035,
     "wof:placetype":"localadmin",
+    "wof:population":4139,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

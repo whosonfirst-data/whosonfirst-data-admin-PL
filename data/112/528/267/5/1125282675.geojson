@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021020901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chojn\u00f3w",
+    "eurostat:nuts_2021_id":"1003021020901",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021020901",
+    "eurostat:population":13266,
+    "eurostat:population_year":2020,
     "geom:area":0.000686,
     "geom:area_square_m":5304528.907396,
     "geom:bbox":"15.91096,51.260537,15.960494,51.283891",
@@ -177,7 +189,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -185,11 +198,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079691,
-        85687301
+        85687301,
+        102079691
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021020901",
+        "eurostat:nuts_2021_id":"1003021020901",
         "gn:id":3101660,
         "gp:id":24547505,
         "qs_pg:id":1200360
@@ -202,7 +217,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"00990a3481132771d4b51ef8ca12772c",
+    "wof:geomhash":"509b8607a970f34d2b3a964030065b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -213,11 +228,11 @@
         }
     ],
     "wof:id":1125282675,
-    "wof:lastmodified":1607725349,
+    "wof:lastmodified":1684354152,
     "wof:name":"Gmina Chojn\u00f3w",
     "wof:parent_id":102079691,
     "wof:placetype":"localadmin",
-    "wof:population":14209,
+    "wof:population":13266,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

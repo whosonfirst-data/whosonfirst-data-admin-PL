@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142262207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przasnysz",
+    "eurostat:nuts_2021_id":"1007142262207",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL924",
+    "eurostat:nuts_2021_level_lau":"1007142262207",
+    "eurostat:population":7228,
+    "eurostat:population_year":2020,
     "geom:area":0.024661,
-    "geom:area_square_m":183402218.728885,
+    "geom:area_square_m":183402218.728899,
     "geom:bbox":"20.800526176,52.936485365,21.038516573,53.114600781",
     "geom:latitude":53.026369,
     "geom:longitude":20.928212,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":20.94624,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102080117
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142262207",
+        "eurostat:nuts_2021_id":"1007142262207"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"2a1ee2a9ca2931b0765957e40cf49a1c",
+    "wof:geomhash":"64198a8183fedda8acc880975d90ca59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752587,
-    "wof:lastmodified":1570000952,
+    "wof:lastmodified":1684354417,
     "wof:name":"Gmina Przasnysz",
     "wof:parent_id":102080117,
     "wof:placetype":"localadmin",
+    "wof:population":7228,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

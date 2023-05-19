@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061120505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jan\u00f3w Lubelski",
+    "eurostat:nuts_2021_id":"1006061120505",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061120505",
+    "eurostat:population":15874,
+    "eurostat:population_year":2020,
     "geom:area":0.022718,
-    "geom:area_square_m":178087369.738481,
+    "geom:area_square_m":178087369.738456,
     "geom:bbox":"22.232499554,50.575289469,22.552234564,50.747957594",
     "geom:latitude":50.65689,
     "geom:longitude":22.383514,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -99,6 +113,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061120505",
+        "eurostat:nuts_2021_id":"1006061120505",
         "gp:id":24548596,
         "qs_pg:id":908581
     },
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a98434de34a82dcbdedf8ab4b6142f0a",
+    "wof:geomhash":"babe50ed32b6cd61ccf7aeca38fc87bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,10 +134,12 @@
         }
     ],
     "wof:id":1125379137,
-    "wof:lastmodified":1582357850,
+    "wof:lastmodified":1684354297,
     "wof:name":"Gmina Jan\u00f3w Lubelski",
     "wof:parent_id":102079697,
     "wof:placetype":"localadmin",
+    "wof:population":15874,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221400403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kolbudy",
+    "eurostat:nuts_2021_id":"1004221400403",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221400403",
+    "eurostat:population":17839,
+    "eurostat:population_year":2020,
     "geom:area":0.011392,
-    "geom:area_square_m":82251436.620169,
+    "geom:area_square_m":82251436.620204,
     "geom:bbox":"18.388021181,54.213326383,18.589622022,54.336521879",
     "geom:latitude":54.273525,
     "geom:longitude":18.485263,
@@ -69,6 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221400403",
+        "eurostat:nuts_2021_id":"1004221400403",
         "gp:id":12617131,
         "qs_pg:id":432822
     },
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"abfb0dba6fa678d5e33b9f6822d096f6",
+    "wof:geomhash":"e4f35bbb4de209e4c565727e9afe6ee3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":1125294125,
-    "wof:lastmodified":1582357812,
+    "wof:lastmodified":1684354181,
     "wof:name":"Kolbudy",
     "wof:parent_id":102080213,
     "wof:placetype":"localadmin",
+    "wof:population":17839,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

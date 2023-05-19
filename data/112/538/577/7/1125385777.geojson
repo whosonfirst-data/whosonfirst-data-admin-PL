@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041081802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baruchowo",
+    "eurostat:nuts_2021_id":"1004041081802",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041081802",
+    "eurostat:population":3436,
+    "eurostat:population_year":2020,
     "geom:area":0.014112,
-    "geom:area_square_m":106223713.415003,
+    "geom:area_square_m":106223713.415002,
     "geom:bbox":"19.199403516,52.438463359,19.395674136,52.574963209",
     "geom:latitude":52.502989,
     "geom:longitude":19.28832,
@@ -74,7 +86,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -87,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041081802",
+        "eurostat:nuts_2021_id":"1004041081802",
         "gn:id":3103785,
         "gp:id":12617278,
         "qs_pg:id":1015822
@@ -99,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"354ea849abc520ee541a0368db836e74",
+    "wof:geomhash":"caf61848225f19850bcf7c4aa9650b75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,12 +125,12 @@
         }
     ],
     "wof:id":1125385777,
-    "wof:lastmodified":1582357941,
+    "wof:lastmodified":1684354305,
     "wof:name":"Baruchowo",
     "wof:parent_id":102079997,
     "wof:placetype":"localadmin",
-    "wof:population":434,
-    "wof:population_rank":2,
+    "wof:population":3436,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

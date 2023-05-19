@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241511006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Suszec",
+    "eurostat:nuts_2021_id":"1001241511006",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22C",
+    "eurostat:nuts_2021_level_lau":"1001241511006",
+    "eurostat:population":12347,
+    "eurostat:population_year":2020,
     "geom:area":0.009417,
-    "geom:area_square_m":74806252.984107,
+    "geom:area_square_m":74806252.984114,
     "geom:bbox":"18.7491829,49.975664099,18.89862076,50.06856657",
     "geom:latitude":50.024584,
     "geom:longitude":18.82384,
@@ -68,7 +80,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -81,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241511006",
+        "eurostat:nuts_2021_id":"1001241511006",
         "gn:id":3084142,
         "gp:id":12617978,
         "qs_pg:id":1291757
@@ -93,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d7f0cd748d169cb9bce788d47c622f2c",
+    "wof:geomhash":"575d4208dba7cf27e5b1e924fae2d379",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,12 +119,12 @@
         }
     ],
     "wof:id":1125327813,
-    "wof:lastmodified":1582357747,
+    "wof:lastmodified":1684354237,
     "wof:name":"Suszec",
     "wof:parent_id":102079457,
     "wof:placetype":"localadmin",
-    "wof:population":4183,
-    "wof:population_rank":4,
+    "wof:population":12347,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

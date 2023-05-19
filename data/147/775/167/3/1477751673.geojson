@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221401507",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luzino",
+    "eurostat:nuts_2021_id":"1004221401507",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221401507",
+    "eurostat:population":16539,
+    "eurostat:population_year":2020,
     "geom:area":0.015473,
-    "geom:area_square_m":110959646.688685,
+    "geom:area_square_m":110959646.688684,
     "geom:bbox":"17.998675828,54.479961746,18.196033295,54.642416603",
     "geom:latitude":54.551772,
     "geom:longitude":18.093705,
@@ -44,6 +56,8 @@
     "reversegeo:longitude":18.119779,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -51,11 +65,15 @@
         102080267
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221401507",
+        "eurostat:nuts_2021_id":"1004221401507"
+    },
     "wof:coterminous":[
         101819515
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2f286f99a8eaa43cafbe916082a1cf1c",
+    "wof:geomhash":"a16d804b817258aaee8f493a27df3c21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,10 +84,12 @@
         }
     ],
     "wof:id":1477751673,
-    "wof:lastmodified":1569999483,
+    "wof:lastmodified":1684354370,
     "wof:name":"Luzino",
     "wof:parent_id":102080267,
     "wof:placetype":"localadmin",
+    "wof:population":16539,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

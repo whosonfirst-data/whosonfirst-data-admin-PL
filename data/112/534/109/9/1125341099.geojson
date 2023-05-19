@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241440307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Golesz\u00f3w",
+    "eurostat:nuts_2021_id":"1001241440307",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241440307",
+    "eurostat:population":13142,
+    "eurostat:population_year":2020,
     "geom:area":0.008216,
-    "geom:area_square_m":65670604.442646,
+    "geom:area_square_m":65670604.442628,
     "geom:bbox":"18.632155471,49.676419087,18.791649592,49.781659443",
     "geom:latitude":49.726505,
     "geom:longitude":18.730167,
@@ -72,6 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -84,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241440307",
+        "eurostat:nuts_2021_id":"1001241440307",
         "gp:id":12617307,
         "qs_pg:id":881697
     },
@@ -95,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"924a7882ac75bcaf180cbe4e8263af46",
+    "wof:geomhash":"3f4c3f48bd8cd921255de8d8d8ce90df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,10 +122,12 @@
         }
     ],
     "wof:id":1125341099,
-    "wof:lastmodified":1582357693,
+    "wof:lastmodified":1684354249,
     "wof:name":"Golesz\u00f3w",
     "wof:parent_id":102079421,
     "wof:placetype":"localadmin",
+    "wof:population":13142,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

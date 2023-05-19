@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181361110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wadowice G\u00f3rne",
+    "eurostat:nuts_2021_id":"1006181361110",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181361110",
+    "eurostat:population":7723,
+    "eurostat:population_year":2020,
     "geom:area":0.010957,
-    "geom:area_square_m":86605319.754618,
+    "geom:area_square_m":86605319.754628,
     "geom:bbox":"21.145726763,50.223853369,21.375801854,50.310866012",
     "geom:latitude":50.268121,
     "geom:longitude":21.25207,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":21.244269,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102079597
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181361110",
+        "eurostat:nuts_2021_id":"1006181361110"
+    },
     "wof:coterminous":[
         101825085
     ],
     "wof:country":"PL",
-    "wof:geomhash":"e7358c410fc82b560489feaa7f543039",
+    "wof:geomhash":"4e5b7ae590575daea4e570e06c2870c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477751203,
-    "wof:lastmodified":1570001556,
+    "wof:lastmodified":1684354346,
     "wof:name":"Wadowice G\u00f3rne",
     "wof:parent_id":102079597,
     "wof:placetype":"localadmin",
+    "wof:population":7723,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101150602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Andrespol",
+    "eurostat:nuts_2021_id":"1005101150602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL712",
+    "eurostat:nuts_2021_level_lau":"1005101150602",
+    "eurostat:population":14205,
+    "eurostat:population_year":2020,
     "geom:area":0.003348,
-    "geom:area_square_m":25644925.379225,
+    "geom:area_square_m":25644925.379224,
     "geom:bbox":"19.597663826,51.685881957,19.710809286,51.757083929",
     "geom:latitude":51.719172,
     "geom:longitude":19.650232,
@@ -98,7 +110,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -107,6 +120,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101150602",
+        "eurostat:nuts_2021_id":"1005101150602",
         "gn:id":6697535,
         "qs_pg:id":644088
     },
@@ -118,7 +133,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d81296705b56edc694e9db655f201f90",
+    "wof:geomhash":"f7a5ff5d43ab7df680b5fbd3204ff05e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,12 +144,12 @@
         }
     ],
     "wof:id":1125372363,
-    "wof:lastmodified":1582357860,
+    "wof:lastmodified":1684354285,
     "wof:name":"Andrespol",
     "wof:parent_id":102079837,
     "wof:placetype":"localadmin",
-    "wof:population":3000,
-    "wof:population_rank":4,
+    "wof:population":14205,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021010105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osiecznica",
+    "eurostat:nuts_2021_id":"1003021010105",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021010105",
+    "eurostat:population":7349,
+    "eurostat:population_year":2020,
     "geom:area":0.056439,
-    "geom:area_square_m":435475634.004047,
+    "geom:area_square_m":435475634.004083,
     "geom:bbox":"15.248632819,51.258337026,15.595943488,51.531045822",
     "geom:latitude":51.391106,
     "geom:longitude":15.416243,
@@ -60,6 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -72,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021010105",
+        "eurostat:nuts_2021_id":"1003021010105",
         "gp:id":12618128,
         "qs_pg:id":1015323
     },
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"02a405b4112b9217cb0341b004098aa4",
+    "wof:geomhash":"247177b06be9cc142c7f29f145451b4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,10 +110,12 @@
         }
     ],
     "wof:id":1125384893,
-    "wof:lastmodified":1582357937,
+    "wof:lastmodified":1684354302,
     "wof:name":"Osiecznica",
     "wof:parent_id":102079707,
     "wof:placetype":"localadmin",
+    "wof:population":7349,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241507501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sosnowiec",
+    "eurostat:nuts_2021_id":"1001241507501",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22B",
+    "eurostat:nuts_2021_level_lau":"1001241507501",
+    "eurostat:population":199974,
+    "eurostat:population_year":2020,
     "geom:area":0.011498,
-    "geom:area_square_m":90863958.761709,
+    "geom:area_square_m":90863958.761707,
     "geom:bbox":"19.071312004,50.225522102,19.317952385,50.316944728",
     "geom:latitude":50.276173,
     "geom:longitude":19.192865,
@@ -219,6 +231,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -231,6 +245,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241507501",
+        "eurostat:nuts_2021_id":"1001241507501",
         "gp:id":12618573,
         "qs_pg:id":1293346
     },
@@ -242,7 +258,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"49b108610b3342e2917e47f0b4f26572",
+    "wof:geomhash":"a205097b9790879f2bd1e7d24d550038",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -253,10 +269,12 @@
         }
     ],
     "wof:id":1125411145,
-    "wof:lastmodified":1582358023,
+    "wof:lastmodified":1684354333,
     "wof:name":"Sosnowiec",
     "wof:parent_id":102079511,
     "wof:placetype":"localadmin",
+    "wof:population":199974,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

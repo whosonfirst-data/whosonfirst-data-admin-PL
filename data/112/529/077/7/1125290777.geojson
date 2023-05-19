@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241440310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Skocz\u00f3w",
+    "eurostat:nuts_2021_id":"1001241440310",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241440310",
+    "eurostat:population":26910,
+    "eurostat:population_year":2020,
     "geom:area":0.00794,
-    "geom:area_square_m":63347223.766589,
+    "geom:area_square_m":63347223.766567,
     "geom:bbox":"18.718872911,49.750963899,18.855817665,49.865124496",
     "geom:latitude":49.81866,
     "geom:longitude":18.793838,
@@ -143,7 +155,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -156,6 +169,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241440310",
+        "eurostat:nuts_2021_id":"1001241440310",
         "gn:id":3085786,
         "gp:id":24548529,
         "qs_pg:id":1200785
@@ -165,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9c9d84b79e968266f4f2cbdbc1a80f6c",
+    "wof:geomhash":"f5e2a1dd41d425962b28881dfb528ca8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,12 +191,12 @@
         }
     ],
     "wof:id":1125290777,
-    "wof:lastmodified":1582357809,
+    "wof:lastmodified":1684354176,
     "wof:name":"Gmina Skocz\u00f3w",
     "wof:parent_id":102079421,
     "wof:placetype":"localadmin",
-    "wof:population":14810,
-    "wof:population_rank":6,
+    "wof:population":26910,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

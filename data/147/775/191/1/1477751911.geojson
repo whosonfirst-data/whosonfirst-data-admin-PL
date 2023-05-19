@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021032402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciep\u0142owody",
+    "eurostat:nuts_2021_id":"1003021032402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021032402",
+    "eurostat:population":2989,
+    "eurostat:population_year":2020,
     "geom:area":0.0098,
     "geom:area_square_m":76806618.520777,
     "geom:bbox":"16.821611981,50.627408937,17.00993221,50.716043116",
@@ -41,6 +53,8 @@
     "reversegeo:longitude":16.916117,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079577
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021032402",
+        "eurostat:nuts_2021_id":"1003021032402"
+    },
     "wof:coterminous":[
         101823569
     ],
     "wof:country":"PL",
-    "wof:geomhash":"cc80c7269a37543cc94a5ebddc118f70",
+    "wof:geomhash":"eac10c7eb82688ae230374648503b5bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751911,
-    "wof:lastmodified":1570002180,
+    "wof:lastmodified":1684354382,
     "wof:name":"Ciep\u0142owody",
     "wof:parent_id":102079577,
     "wof:placetype":"localadmin",
+    "wof:population":2989,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

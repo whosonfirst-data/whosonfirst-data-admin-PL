@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krzepice",
+    "eurostat:nuts_2021_id":"1001241460602",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460602",
+    "eurostat:population":9111,
+    "eurostat:population_year":2020,
     "geom:area":0.010105,
-    "geom:area_square_m":78695145.513908,
+    "geom:area_square_m":78695145.513898,
     "geom:bbox":"18.612385641,50.915939149,18.790226228,51.019793175",
     "geom:latitude":50.965685,
     "geom:longitude":18.701314,
@@ -130,7 +142,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -143,6 +156,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460602",
+        "eurostat:nuts_2021_id":"1001241460602",
         "gn:id":3094513,
         "gp:id":24548751,
         "qs_pg:id":310174
@@ -152,7 +167,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"26fa71ea13cc4905d45f10f49ce888c0",
+    "wof:geomhash":"b5c83bd43c37bc9fd63755f55a0cc667",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,12 +178,12 @@
         }
     ],
     "wof:id":1125365371,
-    "wof:lastmodified":1582357972,
+    "wof:lastmodified":1684354273,
     "wof:name":"Gmina Krzepice",
     "wof:parent_id":102079667,
     "wof:placetype":"localadmin",
-    "wof:population":4479,
-    "wof:population_rank":4,
+    "wof:population":9111,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

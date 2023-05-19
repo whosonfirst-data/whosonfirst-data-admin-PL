@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021012506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"W\u0119gliniec",
+    "eurostat:nuts_2021_id":"1003021012506",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021012506",
+    "eurostat:population":8287,
+    "eurostat:population_year":2020,
     "geom:area":0.043746,
-    "geom:area_square_m":337876756.285617,
+    "geom:area_square_m":337876756.285635,
     "geom:bbox":"14.990541876,51.220226791,15.339915329,51.464033493",
     "geom:latitude":51.345535,
     "geom:longitude":15.165368,
@@ -140,7 +152,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -153,6 +166,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021012506",
+        "eurostat:nuts_2021_id":"1003021012506",
         "gn:id":3082500,
         "gp:id":24547931,
         "qs_pg:id":59489
@@ -162,7 +177,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"773ca6bc5d87aba39f456e4daf901a41",
+    "wof:geomhash":"2bdc0eab6e81d17ff19cd73e32161f08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,12 +188,12 @@
         }
     ],
     "wof:id":1125338921,
-    "wof:lastmodified":1582357681,
+    "wof:lastmodified":1684354245,
     "wof:name":"Gmina W\u0119gliniec",
     "wof:parent_id":102079695,
     "wof:placetype":"localadmin",
-    "wof:population":2992,
-    "wof:population_rank":4,
+    "wof:population":8287,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

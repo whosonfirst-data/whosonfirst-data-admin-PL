@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221420704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prabuty",
+    "eurostat:nuts_2021_id":"1004221420704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221420704",
+    "eurostat:population":13091,
+    "eurostat:population_year":2020,
     "geom:area":0.026852,
-    "geom:area_square_m":196289085.744384,
+    "geom:area_square_m":196289085.74443,
     "geom:bbox":"19.07945015,53.634980932,19.322978065,53.841540807",
     "geom:latitude":53.759377,
     "geom:longitude":19.197329,
@@ -152,7 +164,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -165,6 +178,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221420704",
+        "eurostat:nuts_2021_id":"1004221420704",
         "gn:id":3088161,
         "gp:id":24547715,
         "qs_pg:id":246668
@@ -174,7 +189,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4d2e361af77e6cd71282f4017ecb46a3",
+    "wof:geomhash":"da9e0f41f1d0729bc6f289ccfa9703bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,12 +200,12 @@
         }
     ],
     "wof:id":1125414391,
-    "wof:lastmodified":1582358011,
+    "wof:lastmodified":1684354337,
     "wof:name":"Gmina Prabuty",
     "wof:parent_id":102080159,
     "wof:placetype":"localadmin",
-    "wof:population":8488,
-    "wof:population_rank":5,
+    "wof:population":13091,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

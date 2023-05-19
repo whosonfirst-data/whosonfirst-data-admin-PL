@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101152007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parz\u0119czew",
+    "eurostat:nuts_2021_id":"1005101152007",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL712",
+    "eurostat:nuts_2021_level_lau":"1005101152007",
+    "eurostat:population":5112,
+    "eurostat:population_year":2020,
     "geom:area":0.013577,
-    "geom:area_square_m":103496422.568618,
+    "geom:area_square_m":103496422.568633,
     "geom:bbox":"19.120445187,51.877376102,19.311273537,52.012487495",
     "geom:latitude":51.940379,
     "geom:longitude":19.20839,
@@ -23,6 +35,8 @@
     "reversegeo:longitude":19.217759,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -30,11 +44,15 @@
         102079873
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101152007",
+        "eurostat:nuts_2021_id":"1005101152007"
+    },
     "wof:coterminous":[
         1477864767
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b39ebbd384497b656a899bafa656132c",
+    "wof:geomhash":"3657a2d4623cd4b36b33f826217658a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,10 +63,12 @@
         }
     ],
     "wof:id":1125379951,
-    "wof:lastmodified":1569993299,
+    "wof:lastmodified":1684354297,
     "wof:name":"Parz\u0119czew",
     "wof:parent_id":102079873,
     "wof:placetype":"localadmin",
+    "wof:population":5112,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

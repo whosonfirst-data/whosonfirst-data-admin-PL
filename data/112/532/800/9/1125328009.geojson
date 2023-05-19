@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241500101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"B\u0119dzin",
+    "eurostat:nuts_2021_id":"1001241500101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL22B",
+    "eurostat:nuts_2021_level_lau":"1001241500101",
+    "eurostat:population":56354,
+    "eurostat:population_year":2020,
     "geom:area":0.004722,
-    "geom:area_square_m":37264077.413906,
+    "geom:area_square_m":37264077.413901,
     "geom:bbox":"19.05842033,50.301192637,19.18961784,50.370317701",
     "geom:latitude":50.338528,
     "geom:longitude":19.120896,
@@ -168,6 +180,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -180,6 +194,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241500101",
+        "eurostat:nuts_2021_id":"1001241500101",
         "gp:id":12617346,
         "qs_pg:id":512898
     },
@@ -191,7 +207,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f7c303c0c656d05ee57ce91af839bba2",
+    "wof:geomhash":"9aabd58a90ea818c4ab4759404c57769",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -202,10 +218,12 @@
         }
     ],
     "wof:id":1125328009,
-    "wof:lastmodified":1582357742,
+    "wof:lastmodified":1684354238,
     "wof:name":"B\u0119dzin",
     "wof:parent_id":102079527,
     "wof:placetype":"localadmin",
+    "wof:population":56354,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

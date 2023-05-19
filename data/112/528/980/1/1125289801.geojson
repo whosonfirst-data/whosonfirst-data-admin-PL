@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021032406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zi\u0119bice",
+    "eurostat:nuts_2021_id":"1003021032406",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021032406",
+    "eurostat:population":16949,
+    "eurostat:population_year":2020,
     "geom:area":0.028271,
-    "geom:area_square_m":221906660.818678,
+    "geom:area_square_m":221906660.818702,
     "geom:bbox":"16.910828401,50.463187921,17.164926985,50.700906389",
     "geom:latitude":50.595797,
     "geom:longitude":17.03375,
@@ -158,7 +170,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -171,6 +184,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021032406",
+        "eurostat:nuts_2021_id":"1003021032406",
         "gn:id":3080226,
         "gp:id":24548064,
         "qs_pg:id":145538
@@ -180,7 +195,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2daf78ca2ecb7840bd329d49a9dea673",
+    "wof:geomhash":"d5a0ec0225fa0ae95c7eea78151d45bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,12 +206,12 @@
         }
     ],
     "wof:id":1125289801,
-    "wof:lastmodified":1582357785,
+    "wof:lastmodified":1684354173,
     "wof:name":"Gmina Zi\u0119bice",
     "wof:parent_id":102079577,
     "wof:placetype":"localadmin",
-    "wof:population":9328,
-    "wof:population_rank":5,
+    "wof:population":16949,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

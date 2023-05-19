@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041060306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Osielsko",
+    "eurostat:nuts_2021_id":"1004041060306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL613",
+    "eurostat:nuts_2021_level_lau":"1004041060306",
+    "eurostat:population":14771,
+    "eurostat:population_year":2020,
     "geom:area":0.013678,
-    "geom:area_square_m":101287998.240608,
+    "geom:area_square_m":101287998.240601,
     "geom:bbox":"17.930646356,53.162132228,18.179870854,53.270679023",
     "geom:latitude":53.210956,
     "geom:longitude":18.047165,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":18.038664,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102080085
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041060306",
+        "eurostat:nuts_2021_id":"1004041060306"
+    },
     "wof:coterminous":[
         101819163
     ],
     "wof:country":"PL",
-    "wof:geomhash":"432cda27924bf55af150dc71831ddcd6",
+    "wof:geomhash":"5a05ef66ea22b6ad5edb74547612e7ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751583,
-    "wof:lastmodified":1569999438,
+    "wof:lastmodified":1684354365,
     "wof:name":"Osielsko",
     "wof:parent_id":102080085,
     "wof:placetype":"localadmin",
+    "wof:population":14771,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

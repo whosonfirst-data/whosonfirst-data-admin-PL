@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241441704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jele\u015bnia",
+    "eurostat:nuts_2021_id":"1001241441704",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241441704",
+    "eurostat:population":13275,
+    "eurostat:population_year":2020,
     "geom:area":0.021256,
-    "geom:area_square_m":170343390.600049,
+    "geom:area_square_m":170343390.599999,
     "geom:bbox":"19.213931102,49.531083333,19.480764855,49.694926091",
     "geom:latitude":49.601865,
     "geom:longitude":19.331615,
@@ -63,6 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241441704",
+        "eurostat:nuts_2021_id":"1001241441704",
         "gp:id":12618805,
         "qs_pg:id":1153836
     },
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"bbd3032a9339f281668f7d16476208cf",
+    "wof:geomhash":"bd4995cc47490b3e9925cc9479ebd655",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":1125356069,
-    "wof:lastmodified":1582357716,
+    "wof:lastmodified":1684354262,
     "wof:name":"Jele\u015bnia",
     "wof:parent_id":102079411,
     "wof:placetype":"localadmin",
+    "wof:population":13275,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

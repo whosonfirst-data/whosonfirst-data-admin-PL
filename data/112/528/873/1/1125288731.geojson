@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161310708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pakos\u0142awice",
+    "eurostat:nuts_2021_id":"1003161310708",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL523",
+    "eurostat:nuts_2021_level_lau":"1003161310708",
+    "eurostat:population":3500,
+    "eurostat:population_year":2020,
     "geom:area":0.009393,
-    "geom:area_square_m":73800768.519875,
+    "geom:area_square_m":73800768.519881,
     "geom:bbox":"17.213579414,50.508190065,17.441039215,50.58582208",
     "geom:latitude":50.547161,
     "geom:longitude":17.316083,
@@ -63,7 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Opolskie",
@@ -76,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003161310708",
+        "eurostat:nuts_2021_id":"1003161310708",
         "gn:id":3089541,
         "gp:id":12617316,
         "qs_pg:id":23981
@@ -88,7 +103,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"67df98e23f83b26a9525bf952b3394bc",
+    "wof:geomhash":"00ac1c3a087693066b46583d058fc856",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,12 +114,12 @@
         }
     ],
     "wof:id":1125288731,
-    "wof:lastmodified":1582357758,
+    "wof:lastmodified":1684354162,
     "wof:name":"Pakos\u0142awice",
     "wof:parent_id":102079569,
     "wof:placetype":"localadmin",
-    "wof:population":500,
-    "wof:population_rank":2,
+    "wof:population":3500,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

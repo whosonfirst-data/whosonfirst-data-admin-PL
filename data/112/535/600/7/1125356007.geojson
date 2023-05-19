@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321660407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stepnica",
+    "eurostat:nuts_2021_id":"1002321660407",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL428",
+    "eurostat:nuts_2021_level_lau":"1002321660407",
+    "eurostat:population":4883,
+    "eurostat:population_year":2020,
     "geom:area":0.039876,
-    "geom:area_square_m":291921150.613414,
+    "geom:area_square_m":291921150.613401,
     "geom:bbox":"14.381415861,53.597232025,14.834774897,53.796681039",
     "geom:latitude":53.69809,
     "geom:longitude":14.612168,
@@ -116,7 +128,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -129,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321660407",
+        "eurostat:nuts_2021_id":"1002321660407",
         "gn:id":3084660,
         "gp:id":12618259,
         "qs_pg:id":288838
@@ -138,7 +153,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2f68526cf96bcbc8e86ab3dd68381503",
+    "wof:geomhash":"bb89b9073c68cd2aec42f0fbdbae98f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,11 +164,11 @@
         }
     ],
     "wof:id":1125356007,
-    "wof:lastmodified":1582357718,
+    "wof:lastmodified":1684354261,
     "wof:name":"Gmina Stepnica",
     "wof:parent_id":102080123,
     "wof:placetype":"localadmin",
-    "wof:population":2067,
+    "wof:population":4883,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141291702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Otwock",
+    "eurostat:nuts_2021_id":"1007141291702",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL912",
+    "eurostat:nuts_2021_level_lau":"1007141291702",
+    "eurostat:population":44635,
+    "eurostat:population_year":2020,
     "geom:area":0.006207,
-    "geom:area_square_m":47130132.870974,
+    "geom:area_square_m":47130132.870969,
     "geom:bbox":"21.210346933,52.083406292,21.36834996,52.148759772",
     "geom:latitude":52.115361,
     "geom:longitude":21.291663,
@@ -143,7 +155,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -156,6 +169,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141291702",
+        "eurostat:nuts_2021_id":"1007141291702",
         "gn:id":762788,
         "gp:id":12617476,
         "qs_pg:id":248461
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8207e7fa29a308d545d9e512e5990536",
+    "wof:geomhash":"5471ad6bf25ede71264de32bb27f5c15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,11 +194,11 @@
         }
     ],
     "wof:id":1125415493,
-    "wof:lastmodified":1582358023,
+    "wof:lastmodified":1684354339,
     "wof:name":"Otwock",
     "wof:parent_id":102079931,
     "wof:placetype":"localadmin",
-    "wof:population":43388,
+    "wof:population":44635,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301580907",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ko\u0142o",
+    "eurostat:nuts_2021_id":"1002301580907",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL414",
+    "eurostat:nuts_2021_level_lau":"1002301580907",
+    "eurostat:population":7795,
+    "eurostat:population_year":2020,
     "geom:area":0.013491,
-    "geom:area_square_m":102182589.429947,
+    "geom:area_square_m":102182589.429928,
     "geom:bbox":"18.48417958,52.152625887,18.759135268,52.298290186",
     "geom:latitude":52.228373,
     "geom:longitude":18.662215,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":18.688662,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079927
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301580907",
+        "eurostat:nuts_2021_id":"1002301580907"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"8bf385759bece610c54b525f3ab81696",
+    "wof:geomhash":"d1b56450901b39583bc061283492649e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752335,
-    "wof:lastmodified":1570001189,
+    "wof:lastmodified":1684354404,
     "wof:name":"Gmina Ko\u0142o",
     "wof:parent_id":102079927,
     "wof:placetype":"localadmin",
+    "wof:population":7795,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

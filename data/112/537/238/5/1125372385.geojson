@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041671005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szubin",
+    "eurostat:nuts_2021_id":"1004041671005",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL617",
+    "eurostat:nuts_2021_level_lau":"1004041671005",
+    "eurostat:population":24797,
+    "eurostat:population_year":2020,
     "geom:area":0.044487,
-    "geom:area_square_m":330959632.522787,
+    "geom:area_square_m":330959632.522797,
     "geom:bbox":"17.563325057,52.910653001,17.878377425,53.114005459",
     "geom:latitude":53.011977,
     "geom:longitude":17.717354,
@@ -144,7 +156,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -157,6 +170,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041671005",
+        "eurostat:nuts_2021_id":"1004041671005",
         "gn:id":3083611,
         "gp:id":24547559,
         "qs_pg:id":980141
@@ -166,7 +181,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"b2e69f854aa9dd31326a8df468c29b1b",
+    "wof:geomhash":"413d48d04d556047d2196ba7e4edb097",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,12 +192,12 @@
         }
     ],
     "wof:id":1125372385,
-    "wof:lastmodified":1582357861,
+    "wof:lastmodified":1684354286,
     "wof:name":"Gmina Szubin",
     "wof:parent_id":102080053,
     "wof:placetype":"localadmin",
-    "wof:population":9206,
-    "wof:population_rank":5,
+    "wof:population":24797,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

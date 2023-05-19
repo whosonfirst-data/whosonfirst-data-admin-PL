@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142701909",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nowy Dunin\u00f3w",
+    "eurostat:nuts_2021_id":"1007142701909",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL923",
+    "eurostat:nuts_2021_level_lau":"1007142701909",
+    "eurostat:population":3977,
+    "eurostat:population_year":2020,
     "geom:area":0.01937,
-    "geom:area_square_m":145653518.573403,
+    "geom:area_square_m":145653518.573405,
     "geom:bbox":"19.319567735,52.490384194,19.667399265,52.611446484",
     "geom:latitude":52.54668,
     "geom:longitude":19.492446,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":19.446428,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102080003
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142701909",
+        "eurostat:nuts_2021_id":"1007142701909"
+    },
     "wof:coterminous":[
         1125865749
     ],
     "wof:country":"PL",
-    "wof:geomhash":"b4a2b492fe12eb22bcfaedd5eeae5b73",
+    "wof:geomhash":"5f50503485ed3cb9d0ffca13f8389cd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751329,
-    "wof:lastmodified":1569998983,
+    "wof:lastmodified":1684354352,
     "wof:name":"Nowy Dunin\u00f3w",
     "wof:parent_id":102080003,
     "wof:placetype":"localadmin",
+    "wof:population":3977,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

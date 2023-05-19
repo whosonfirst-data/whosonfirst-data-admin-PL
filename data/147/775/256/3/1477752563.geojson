@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041070405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Papowo Biskupie",
+    "eurostat:nuts_2021_id":"1004041070405",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL616",
+    "eurostat:nuts_2021_level_lau":"1004041070405",
+    "eurostat:population":4343,
+    "eurostat:population_year":2020,
     "geom:area":0.009487,
-    "geom:area_square_m":70173405.741076,
+    "geom:area_square_m":70173405.741058,
     "geom:bbox":"18.471400128,53.216390061,18.676093575,53.297153436",
     "geom:latitude":53.257401,
     "geom:longitude":18.566264,
@@ -68,6 +80,8 @@
     "reversegeo:longitude":18.550852,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -75,11 +89,15 @@
         102080093
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041070405",
+        "eurostat:nuts_2021_id":"1004041070405"
+    },
     "wof:coterminous":[
         1125881011
     ],
     "wof:country":"PL",
-    "wof:geomhash":"89fc60da7278a26e21de29d915b35613",
+    "wof:geomhash":"d9689a4828b783b4f5b1a2aac2fe182c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,10 +108,12 @@
         }
     ],
     "wof:id":1477752563,
-    "wof:lastmodified":1570001049,
+    "wof:lastmodified":1684354416,
     "wof:name":"Papowo Biskupie",
     "wof:parent_id":102080093,
     "wof:placetype":"localadmin",
+    "wof:population":4343,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

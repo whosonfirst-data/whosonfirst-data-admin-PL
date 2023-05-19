@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142270703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gniewosz\u00f3w",
+    "eurostat:nuts_2021_id":"1007142270703",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142270703",
+    "eurostat:population":3878,
+    "eurostat:population_year":2020,
     "geom:area":0.010879,
-    "geom:area_square_m":83790077.29436,
+    "geom:area_square_m":83790077.29437,
     "geom:bbox":"21.715597274,51.417192264,21.873987148,51.536122995",
     "geom:latitude":51.47216,
     "geom:longitude":21.801382,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":21.802596,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079859
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142270703",
+        "eurostat:nuts_2021_id":"1007142270703"
+    },
     "wof:coterminous":[
         1126005511
     ],
     "wof:country":"PL",
-    "wof:geomhash":"c8a742fa31fae165e95f8536a93ef493",
+    "wof:geomhash":"1bc668cf3713c0d973ee474a0fc82106",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477751423,
-    "wof:lastmodified":1570001394,
+    "wof:lastmodified":1684354357,
     "wof:name":"Gniewosz\u00f3w",
     "wof:parent_id":102079859,
     "wof:placetype":"localadmin",
+    "wof:population":3878,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

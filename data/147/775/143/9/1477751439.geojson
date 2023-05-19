@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221401506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Linia",
+    "eurostat:nuts_2021_id":"1004221401506",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221401506",
+    "eurostat:population":6432,
+    "eurostat:population_year":2020,
     "geom:area":0.0166,
-    "geom:area_square_m":119318319.526164,
+    "geom:area_square_m":119318319.526191,
     "geom:bbox":"17.845791998,54.40995533,18.12586409,54.501475537",
     "geom:latitude":54.458153,
     "geom:longitude":17.979204,
@@ -53,6 +65,8 @@
     "reversegeo:longitude":17.979266,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -60,11 +74,15 @@
         102080267
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221401506",
+        "eurostat:nuts_2021_id":"1004221401506"
+    },
     "wof:coterminous":[
         101819509
     ],
     "wof:country":"PL",
-    "wof:geomhash":"ddc20dd5755f15e19055539f2a90de82",
+    "wof:geomhash":"8f5f21aa7d2d34c5d774173f0912dec7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477751439,
-    "wof:lastmodified":1570001560,
+    "wof:lastmodified":1684354357,
     "wof:name":"Linia",
     "wof:parent_id":102080267,
     "wof:placetype":"localadmin",
+    "wof:population":6432,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

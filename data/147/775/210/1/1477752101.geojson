@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241440202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bestwina",
+    "eurostat:nuts_2021_id":"1001241440202",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241440202",
+    "eurostat:population":11909,
+    "eurostat:population_year":2020,
     "geom:area":0.004719,
-    "geom:area_square_m":37575972.205502,
+    "geom:area_square_m":37575972.205499,
     "geom:bbox":"19.014291076,49.868069938,19.113112852,49.956434301",
     "geom:latitude":49.912336,
     "geom:longitude":19.062022,
@@ -47,6 +59,8 @@
     "reversegeo:longitude":19.061271,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -54,11 +68,15 @@
         102079427
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241440202",
+        "eurostat:nuts_2021_id":"1001241440202"
+    },
     "wof:coterminous":[
         101827301
     ],
     "wof:country":"PL",
-    "wof:geomhash":"93270578eafc8183eaa4df8d89dcf2ed",
+    "wof:geomhash":"ff800fd1c7bb8cb8c00e3d02cfa14903",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,10 +87,12 @@
         }
     ],
     "wof:id":1477752101,
-    "wof:lastmodified":1570000128,
+    "wof:lastmodified":1684354392,
     "wof:name":"Bestwina",
     "wof:parent_id":102079427,
     "wof:placetype":"localadmin",
+    "wof:population":11909,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

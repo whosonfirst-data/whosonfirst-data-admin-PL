@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221420701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kwidzyn",
+    "eurostat:nuts_2021_id":"1004221420701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221420701",
+    "eurostat:population":38418,
+    "eurostat:population_year":2020,
     "geom:area":0.002931,
-    "geom:area_square_m":21447096.027486,
+    "geom:area_square_m":21447096.027485,
     "geom:bbox":"18.901515,53.684791,18.989053,53.75614",
     "geom:latitude":53.716942,
     "geom:longitude":18.937414,
@@ -176,7 +188,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -184,11 +197,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080159,
-        85687267
+        85687267,
+        102080159
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221420701",
+        "eurostat:nuts_2021_id":"1004221420701",
         "gn:id":3094086,
         "gp:id":24547393,
         "qs_pg:id":488019
@@ -201,7 +216,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"727d7c36644093758e1964f3bcdb1af0",
+    "wof:geomhash":"423b533c9223df93e7c0f7d0f8fd5bce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -212,11 +227,11 @@
         }
     ],
     "wof:id":1125306017,
-    "wof:lastmodified":1607725039,
+    "wof:lastmodified":1684354207,
     "wof:name":"Gmina Kwidzyn",
     "wof:parent_id":102080159,
     "wof:placetype":"localadmin",
-    "wof:population":37601,
+    "wof:population":38418,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

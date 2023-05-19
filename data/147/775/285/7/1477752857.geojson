@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141303206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"O\u017car\u00f3w Mazowiecki",
+    "eurostat:nuts_2021_id":"1007141303206",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141303206",
+    "eurostat:population":25440,
+    "eurostat:population_year":2020,
     "geom:area":0.009369,
-    "geom:area_square_m":70974870.839666,
+    "geom:area_square_m":70974870.839674,
     "geom:bbox":"20.661877348,52.182183204,20.875277987,52.247411561",
     "geom:latitude":52.217342,
     "geom:longitude":20.763465,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":20.784778,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102079949
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007141303206",
+        "eurostat:nuts_2021_id":"1007141303206"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"28ab70cbc4b779fd51d328e23bf2c367",
+    "wof:geomhash":"6d5b6f8e0e63d9c6b1a6982b72569c12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752857,
-    "wof:lastmodified":1570003197,
+    "wof:lastmodified":1684354433,
     "wof:name":"Gmina O\u017car\u00f3w Mazowiecki",
     "wof:parent_id":102079949,
     "wof:placetype":"localadmin",
+    "wof:population":25440,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

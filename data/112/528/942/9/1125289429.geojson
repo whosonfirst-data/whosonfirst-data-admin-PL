@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021030201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bielawa",
+    "eurostat:nuts_2021_id":"1003021030201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021030201",
+    "eurostat:population":29872,
+    "eurostat:population_year":2020,
     "geom:area":0.004604,
-    "geom:area_square_m":36079561.773512,
+    "geom:area_square_m":36079561.773511,
     "geom:bbox":"16.53664226,50.636389189,16.669009904,50.714553565",
     "geom:latitude":50.675727,
     "geom:longitude":16.603415,
@@ -141,6 +153,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -153,6 +167,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021030201",
+        "eurostat:nuts_2021_id":"1003021030201",
         "gp:id":12617582,
         "qs_pg:id":282899
     },
@@ -164,7 +180,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a7e716077bc855bf6e263cd351d955b3",
+    "wof:geomhash":"8d6a17ff5ceaab92c282d88db6bcb1cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,10 +191,12 @@
         }
     ],
     "wof:id":1125289429,
-    "wof:lastmodified":1582357785,
+    "wof:lastmodified":1684354173,
     "wof:name":"Bielawa",
     "wof:parent_id":102079591,
     "wof:placetype":"localadmin",
+    "wof:population":29872,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

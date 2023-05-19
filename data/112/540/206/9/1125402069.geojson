@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301600101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chodzie\u017c",
+    "eurostat:nuts_2021_id":"1002301600101",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301600101",
+    "eurostat:population":18480,
+    "eurostat:population_year":2020,
     "geom:area":0.001708,
     "geom:area_square_m":12716081.624619,
     "geom:bbox":"16.88513,52.964959,16.946304,53.024986",
@@ -167,7 +179,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -175,11 +188,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080021,
-        85687323
+        85687323,
+        102080021
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301600101",
+        "eurostat:nuts_2021_id":"1002301600101",
         "gn:id":3101680,
         "gp:id":24547421,
         "qs_pg:id":1043209
@@ -192,7 +207,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2f0559f8bf6946104e2e8a81163d0e2e",
+    "wof:geomhash":"a6cfb8928f3f86fb634621e613999f8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -203,11 +218,11 @@
         }
     ],
     "wof:id":1125402069,
-    "wof:lastmodified":1607724968,
+    "wof:lastmodified":1684354326,
     "wof:name":"Gmina Chodzie\u017c",
     "wof:parent_id":102080021,
     "wof:placetype":"localadmin",
-    "wof:population":19776,
+    "wof:population":18480,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

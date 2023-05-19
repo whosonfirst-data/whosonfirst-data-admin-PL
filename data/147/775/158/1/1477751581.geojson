@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241440209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wilamowice",
+    "eurostat:nuts_2021_id":"1001241440209",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241440209",
+    "eurostat:population":17695,
+    "eurostat:population_year":2020,
     "geom:area":0.007108,
-    "geom:area_square_m":56601527.316262,
+    "geom:area_square_m":56601527.316268,
     "geom:bbox":"19.073164879,49.863216285,19.196778064,49.958915545",
     "geom:latitude":49.910067,
     "geom:longitude":19.13888,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":19.137724,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079427
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241440209",
+        "eurostat:nuts_2021_id":"1001241440209"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"e6fe973d732feec6986545aef5f25364",
+    "wof:geomhash":"cb3a4bd765a59e363c6707664b365a31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751581,
-    "wof:lastmodified":1569999429,
+    "wof:lastmodified":1684354365,
     "wof:name":"Gmina Wilamowice",
     "wof:parent_id":102079427,
     "wof:placetype":"localadmin",
+    "wof:population":17695,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

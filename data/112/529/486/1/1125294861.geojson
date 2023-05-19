@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101181806",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sokolniki",
+    "eurostat:nuts_2021_id":"1005101181806",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101181806",
+    "eurostat:population":5035,
+    "eurostat:population_year":2020,
     "geom:area":0.010328,
-    "geom:area_square_m":79821162.240058,
+    "geom:area_square_m":79821162.240029,
     "geom:bbox":"18.228723604,51.266349843,18.452133847,51.369470445",
     "geom:latitude":51.315956,
     "geom:longitude":18.345098,
@@ -104,7 +116,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"\u0141\u00f3dzkie",
@@ -117,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1005101181806",
+        "eurostat:nuts_2021_id":"1005101181806",
         "gn:id":3085219,
         "gp:id":12617969,
         "qs_pg:id":1099630
@@ -129,7 +144,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9a6c71603c480ec25e5786155db419c9",
+    "wof:geomhash":"a67fec2d540fb8f4dc4c9178ccc56f31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,12 +155,12 @@
         }
     ],
     "wof:id":1125294861,
-    "wof:lastmodified":1582357822,
+    "wof:lastmodified":1684354183,
     "wof:name":"Sokolniki",
     "wof:parent_id":102079731,
     "wof:placetype":"localadmin",
-    "wof:population":1200,
-    "wof:population_rank":3,
+    "wof:population":5035,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061100404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hrubiesz\u00f3w",
+    "eurostat:nuts_2021_id":"1006061100404",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061100404",
+    "eurostat:population":9980,
+    "eurostat:population_year":2020,
     "geom:area":0.033062,
-    "geom:area_square_m":258298907.202981,
+    "geom:area_square_m":258298907.202912,
     "geom:bbox":"23.781904449,50.688348023,24.073174125,50.94189742",
     "geom:latitude":50.815257,
     "geom:longitude":23.903729,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":23.853637,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079743
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061100404",
+        "eurostat:nuts_2021_id":"1006061100404"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"10ae6f5002caa444ab59b53d7d0e11a1",
+    "wof:geomhash":"5e40c81785f1c35152a9eca3a0f902eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752239,
-    "wof:lastmodified":1570002921,
+    "wof:lastmodified":1684354399,
     "wof:name":"Gmina Hrubiesz\u00f3w",
     "wof:parent_id":102079743,
     "wof:placetype":"localadmin",
+    "wof:population":9980,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

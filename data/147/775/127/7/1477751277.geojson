@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142712904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jab\u0142onna Lacka",
+    "eurostat:nuts_2021_id":"1007142712904",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL925",
+    "eurostat:nuts_2021_level_lau":"1007142712904",
+    "eurostat:population":4417,
+    "eurostat:population_year":2020,
     "geom:area":0.019749,
-    "geom:area_square_m":148708688.727956,
+    "geom:area_square_m":148708688.727961,
     "geom:bbox":"22.331771161,52.415578205,22.554234131,52.58684636",
     "geom:latitude":52.484631,
     "geom:longitude":22.45041,
@@ -53,6 +65,8 @@
     "reversegeo:longitude":22.452077,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -60,11 +74,15 @@
         102080023
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142712904",
+        "eurostat:nuts_2021_id":"1007142712904"
+    },
     "wof:coterminous":[
         1125905137
     ],
     "wof:country":"PL",
-    "wof:geomhash":"35baea86f1ad32cfd74ecea67139c6c1",
+    "wof:geomhash":"998ce9a06518fb73d3d62c281761a37d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477751277,
-    "wof:lastmodified":1570001517,
+    "wof:lastmodified":1684354350,
     "wof:name":"Jab\u0142onna Lacka",
     "wof:parent_id":102080023,
     "wof:placetype":"localadmin",
+    "wof:population":4417,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301600207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trzcianka",
+    "eurostat:nuts_2021_id":"1002301600207",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL411",
+    "eurostat:nuts_2021_level_lau":"1002301600207",
+    "eurostat:population":24318,
+    "eurostat:population_year":2020,
     "geom:area":0.050111,
-    "geom:area_square_m":372532702.600764,
+    "geom:area_square_m":372532702.60078,
     "geom:bbox":"16.241356224,52.934919304,16.719703839,53.131922419",
     "geom:latitude":53.042825,
     "geom:longitude":16.457474,
@@ -148,7 +160,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -161,6 +174,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301600207",
+        "eurostat:nuts_2021_id":"1002301600207",
         "gn:id":3083185,
         "gp:id":24548117,
         "qs_pg:id":206279
@@ -170,7 +185,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"15e6ea3d3fa3f7b4b77d08bee2eac196",
+    "wof:geomhash":"e1bf1c2253a036bf7b5ae9c7e62c06bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,12 +196,12 @@
         }
     ],
     "wof:id":1125298561,
-    "wof:lastmodified":1582357814,
+    "wof:lastmodified":1684354191,
     "wof:name":"Gmina Trzcianka",
     "wof:parent_id":102080029,
     "wof:placetype":"localadmin",
-    "wof:population":16914,
-    "wof:population_rank":6,
+    "wof:population":24318,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

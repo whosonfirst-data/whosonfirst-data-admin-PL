@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021031903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dobromierz",
+    "eurostat:nuts_2021_id":"1003021031903",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021031903",
+    "eurostat:population":5206,
+    "eurostat:population_year":2020,
     "geom:area":0.011023,
-    "geom:area_square_m":85893906.700088,
+    "geom:area_square_m":85893906.70009,
     "geom:bbox":"16.159402853,50.871604209,16.307028594,51.018601765",
     "geom:latitude":50.938791,
     "geom:longitude":16.232218,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":16.227196,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102079625
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021031903",
+        "eurostat:nuts_2021_id":"1003021031903"
+    },
     "wof:coterminous":[
         1125939739
     ],
     "wof:country":"PL",
-    "wof:geomhash":"5b193ba22b775613fefcf5285f880dbe",
+    "wof:geomhash":"1212eb09fbf3e4ee660ec05970a77555",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477752389,
-    "wof:lastmodified":1570003476,
+    "wof:lastmodified":1684354407,
     "wof:name":"Dobromierz",
     "wof:parent_id":102079625,
     "wof:placetype":"localadmin",
+    "wof:population":5206,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

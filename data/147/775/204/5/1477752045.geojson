@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021011006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Plater\u00f3wka",
+    "eurostat:nuts_2021_id":"1003021011006",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021011006",
+    "eurostat:population":1630,
+    "eurostat:population_year":2020,
     "geom:area":0.006142,
-    "geom:area_square_m":47730867.116375,
+    "geom:area_square_m":47730867.11637,
     "geom:bbox":"15.12110587,51.018518275,15.265265551,51.101859747",
     "geom:latitude":51.063876,
     "geom:longitude":15.183061,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":15.177111,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079643
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021011006",
+        "eurostat:nuts_2021_id":"1003021011006"
+    },
     "wof:coterminous":[
         1125858655
     ],
     "wof:country":"PL",
-    "wof:geomhash":"16541d820f6df83af058da14343fc788",
+    "wof:geomhash":"0d4a07d9ec423045ba2986b51e1ae7b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752045,
-    "wof:lastmodified":1570000760,
+    "wof:lastmodified":1684354389,
     "wof:name":"Plater\u00f3wka",
     "wof:parent_id":102079643,
     "wof:placetype":"localadmin",
+    "wof:population":1630,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321641002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boleszkowice",
+    "eurostat:nuts_2021_id":"1002321641002",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321641002",
+    "eurostat:population":2849,
+    "eurostat:population_year":2020,
     "geom:area":0.017342,
-    "geom:area_square_m":129967708.709183,
+    "geom:area_square_m":129967708.70919,
     "geom:bbox":"14.43643782,52.624689325,14.675156516,52.771609467",
     "geom:latitude":52.6922,
     "geom:longitude":14.55735,
@@ -60,7 +72,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Zachodniopomorskie",
@@ -73,6 +86,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002321641002",
+        "eurostat:nuts_2021_id":"1002321641002",
         "gn:id":3102975,
         "gp:id":12617917,
         "qs_pg:id":1025473
@@ -85,7 +100,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5baacdffe2ffb3accdbe4b2f1bb9bb70",
+    "wof:geomhash":"bf90d63bd4e24369ecfa2ed401a52d49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,12 +111,12 @@
         }
     ],
     "wof:id":1125400177,
-    "wof:lastmodified":1582357999,
+    "wof:lastmodified":1684354324,
     "wof:name":"Boleszkowice",
     "wof:parent_id":102080005,
     "wof:placetype":"localadmin",
-    "wof:population":1316,
-    "wof:population_rank":3,
+    "wof:population":2849,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

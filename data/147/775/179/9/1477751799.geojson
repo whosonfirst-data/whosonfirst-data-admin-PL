@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003161320302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bierawa",
+    "eurostat:nuts_2021_id":"1003161320302",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL52",
+    "eurostat:nuts_2021_level_3":"PL524",
+    "eurostat:nuts_2021_level_lau":"1003161320302",
+    "eurostat:population":7912,
+    "eurostat:population_year":2020,
     "geom:area":0.014952,
-    "geom:area_square_m":118133051.96839,
+    "geom:area_square_m":118133051.968399,
     "geom:bbox":"18.17539121,50.220358816,18.427862755,50.340289701",
     "geom:latitude":50.285044,
     "geom:longitude":18.316589,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":18.325189,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079523
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003161320302",
+        "eurostat:nuts_2021_id":"1003161320302"
+    },
     "wof:coterminous":[
         1125847483
     ],
     "wof:country":"PL",
-    "wof:geomhash":"c3c90a4828c069a12e8e26a5d4ed6af5",
+    "wof:geomhash":"239789195acc2dd10a5b3ef88cb4765a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751799,
-    "wof:lastmodified":1570004483,
+    "wof:lastmodified":1684354376,
     "wof:name":"Bierawa",
     "wof:parent_id":102079523,
     "wof:placetype":"localadmin",
+    "wof:population":7912,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

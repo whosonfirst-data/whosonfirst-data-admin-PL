@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460414",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przyr\u00f3w",
+    "eurostat:nuts_2021_id":"1001241460414",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460414",
+    "eurostat:population":3752,
+    "eurostat:population_year":2020,
     "geom:area":0.010289,
-    "geom:area_square_m":80437209.154833,
+    "geom:area_square_m":80437209.154854,
     "geom:bbox":"19.422238646,50.72473996,19.598295668,50.838090775",
     "geom:latitude":50.786544,
     "geom:longitude":19.505755,
@@ -69,6 +81,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -81,6 +95,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460414",
+        "eurostat:nuts_2021_id":"1001241460414",
         "gp:id":12617915,
         "qs_pg:id":1324408
     },
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8243ec5850ede240e7058da79fef1c9d",
+    "wof:geomhash":"3ff3231b52ff4c90651a9977f1bf7056",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,10 +119,12 @@
         }
     ],
     "wof:id":1125367329,
-    "wof:lastmodified":1582357973,
+    "wof:lastmodified":1684354277,
     "wof:name":"Przyr\u00f3w",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",
+    "wof:population":3752,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

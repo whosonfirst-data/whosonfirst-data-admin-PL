@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142252005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dzierz\u0105\u017cnia",
+    "eurostat:nuts_2021_id":"1007142252005",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL922",
+    "eurostat:nuts_2021_level_lau":"1007142252005",
+    "eurostat:population":3632,
+    "eurostat:population_year":2020,
     "geom:area":0.013595,
-    "geom:area_square_m":102096025.799564,
+    "geom:area_square_m":102096025.799568,
     "geom:bbox":"20.147552331,52.532968139,20.318042977,52.67291516",
     "geom:latitude":52.60425,
     "geom:longitude":20.221126,
@@ -75,7 +87,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -88,6 +101,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007142252005",
+        "eurostat:nuts_2021_id":"1007142252005",
         "gn:id":772698,
         "gp:id":12617419,
         "qs_pg:id":998967
@@ -100,7 +115,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"55e392dc030a6b5c244f3c4d8c7ce9a3",
+    "wof:geomhash":"0ac895dd5db2a5c5aa0caffcddc43a8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,12 +126,12 @@
         }
     ],
     "wof:id":1125375575,
-    "wof:lastmodified":1582357839,
+    "wof:lastmodified":1684354291,
     "wof:name":"Dzierz\u0105\u017cnia",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",
-    "wof:population":442,
-    "wof:population_rank":2,
+    "wof:population":3632,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

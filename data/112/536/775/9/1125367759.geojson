@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301590402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gosty\u0144",
+    "eurostat:nuts_2021_id":"1002301590402",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301590402",
+    "eurostat:population":28192,
+    "eurostat:population_year":2020,
     "geom:area":0.017922,
-    "geom:area_square_m":136755573.456978,
+    "geom:area_square_m":136755573.456982,
     "geom:bbox":"16.86006531,51.818974538,17.072930399,51.980203053",
     "geom:latitude":51.894569,
     "geom:longitude":16.975282,
@@ -161,7 +173,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -174,6 +187,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301590402",
+        "eurostat:nuts_2021_id":"1002301590402",
         "gn:id":3098625,
         "gp:id":24547392,
         "qs_pg:id":962337
@@ -183,7 +198,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"680dae6330a038db7e95ab6fb0e50fc0",
+    "wof:geomhash":"a7f2eda917beeaebf3bc243625118bef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,11 +209,11 @@
         }
     ],
     "wof:id":1125367759,
-    "wof:lastmodified":1582357981,
+    "wof:lastmodified":1684354277,
     "wof:name":"Gmina Gosty\u0144",
     "wof:parent_id":102079829,
     "wof:placetype":"localadmin",
-    "wof:population":20771,
+    "wof:population":28192,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

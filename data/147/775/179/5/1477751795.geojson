@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241450701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lubliniec",
+    "eurostat:nuts_2021_id":"1001241450701",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL228",
+    "eurostat:nuts_2021_level_lau":"1001241450701",
+    "eurostat:population":23757,
+    "eurostat:population_year":2020,
     "geom:area":0.011355,
-    "geom:area_square_m":89055694.274247,
+    "geom:area_square_m":89055694.274245,
     "geom:bbox":"18.620083886,50.585908824,18.797230211,50.700579214",
     "geom:latitude":50.634063,
     "geom:longitude":18.697645,
@@ -101,6 +113,8 @@
     "reversegeo:longitude":18.696333,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -108,11 +122,15 @@
         102079621
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241450701",
+        "eurostat:nuts_2021_id":"1001241450701"
+    },
     "wof:coterminous":[
         101823773
     ],
     "wof:country":"PL",
-    "wof:geomhash":"bf62c56de91d2dd005df6d3aa4fb665e",
+    "wof:geomhash":"a735d244bda1c2b2ef5142a30c44afce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +141,12 @@
         }
     ],
     "wof:id":1477751795,
-    "wof:lastmodified":1570004511,
+    "wof:lastmodified":1684354376,
     "wof:name":"Lubliniec",
     "wof:parent_id":102079621,
     "wof:placetype":"localadmin",
+    "wof:population":23757,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041080801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lipno",
+    "eurostat:nuts_2021_id":"1004041080801",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL619",
+    "eurostat:nuts_2021_level_lau":"1004041080801",
+    "eurostat:population":14371,
+    "eurostat:population_year":2020,
     "geom:area":0.001467,
-    "geom:area_square_m":10955920.256269,
+    "geom:area_square_m":10955920.256271,
     "geom:bbox":"19.131251,52.827827,19.219735,52.857142",
     "geom:latitude":52.844433,
     "geom:longitude":19.178639,
@@ -110,7 +122,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -118,11 +131,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102080033,
-        85687319
+        85687319,
+        102080033
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041080801",
+        "eurostat:nuts_2021_id":"1004041080801",
         "gn:id":3093268,
         "gp:id":24547447,
         "qs_pg:id":962370
@@ -135,7 +150,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1d3d7246d3b21ffe9f8fa8525cb64a99",
+    "wof:geomhash":"a445ef82119495791eb929cdcf4831a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,11 +161,11 @@
         }
     ],
     "wof:id":1125367793,
-    "wof:lastmodified":1607724928,
+    "wof:lastmodified":1684354277,
     "wof:name":"Gmina Lipno",
     "wof:parent_id":102080033,
     "wof:placetype":"localadmin",
-    "wof:population":14821,
+    "wof:population":14371,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

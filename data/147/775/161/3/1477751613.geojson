@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221421310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sk\u00f3rcz",
+    "eurostat:nuts_2021_id":"1004221421310",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL638",
+    "eurostat:nuts_2021_level_lau":"1004221421310",
+    "eurostat:population":4592,
+    "eurostat:population_year":2020,
     "geom:area":0.013211,
-    "geom:area_square_m":96459025.295266,
+    "geom:area_square_m":96459025.295253,
     "geom:bbox":"18.421201208,53.743938454,18.636751441,53.866738515",
     "geom:latitude":53.80736,
     "geom:longitude":18.533501,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":18.496178,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102080183
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221421310",
+        "eurostat:nuts_2021_id":"1004221421310"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"56a67574503420633be87aed86f437af",
+    "wof:geomhash":"ab43a2f4085908f62cab2f15978b309b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751613,
-    "wof:lastmodified":1569999272,
+    "wof:lastmodified":1684354366,
     "wof:name":"Gmina Sk\u00f3rcz",
     "wof:parent_id":102080183,
     "wof:placetype":"localadmin",
+    "wof:population":4592,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

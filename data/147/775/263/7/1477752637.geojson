@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001121220504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gorlice",
+    "eurostat:nuts_2021_id":"1001121220504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL21",
+    "eurostat:nuts_2021_level_3":"PL218",
+    "eurostat:nuts_2021_level_lau":"1001121220504",
+    "eurostat:population":17278,
+    "eurostat:population_year":2020,
     "geom:area":0.012808,
-    "geom:area_square_m":102535899.968457,
+    "geom:area_square_m":102535899.968454,
     "geom:bbox":"21.046724391,49.576985871,21.255519708,49.737439559",
     "geom:latitude":49.650885,
     "geom:longitude":21.138318,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":21.10516,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079429
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001121220504",
+        "eurostat:nuts_2021_id":"1001121220504"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"6e80001c3ae992fec769f92752857f27",
+    "wof:geomhash":"9f14bf68b4d37a2e3e0eb6949e5a294b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752637,
-    "wof:lastmodified":1570004020,
+    "wof:lastmodified":1684354420,
     "wof:name":"Gmina Gorlice",
     "wof:parent_id":102079429,
     "wof:placetype":"localadmin",
+    "wof:population":17278,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

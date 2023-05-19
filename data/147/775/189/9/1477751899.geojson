@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101171203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gidle",
+    "eurostat:nuts_2021_id":"1005101171203",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL713",
+    "eurostat:nuts_2021_level_lau":"1005101171203",
+    "eurostat:population":6062,
+    "eurostat:population_year":2020,
     "geom:area":0.014841,
-    "geom:area_square_m":115602691.712654,
+    "geom:area_square_m":115602691.712647,
     "geom:bbox":"19.378715719,50.878930636,19.584779563,51.014039769",
     "geom:latitude":50.95348,
     "geom:longitude":19.495846,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":19.504398,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079711
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101171203",
+        "eurostat:nuts_2021_id":"1005101171203"
+    },
     "wof:coterminous":[
         101841793
     ],
     "wof:country":"PL",
-    "wof:geomhash":"01edf91eadf7224865a956bea4a4c397",
+    "wof:geomhash":"84d371d3a9e281569bca1340e195a946",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751899,
-    "wof:lastmodified":1570001410,
+    "wof:lastmodified":1684354382,
     "wof:name":"Gidle",
     "wof:parent_id":102079711,
     "wof:placetype":"localadmin",
+    "wof:population":6062,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

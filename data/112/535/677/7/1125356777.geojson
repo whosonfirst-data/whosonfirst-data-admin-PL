@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061102015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zwierzyniec",
+    "eurostat:nuts_2021_id":"1006061102015",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL812",
+    "eurostat:nuts_2021_level_lau":"1006061102015",
+    "eurostat:population":6694,
+    "eurostat:population_year":2020,
     "geom:area":0.0195,
-    "geom:area_square_m":153008001.607966,
+    "geom:area_square_m":153008001.607945,
     "geom:bbox":"22.873158876,50.519165115,23.110462018,50.669796326",
     "geom:latitude":50.612122,
     "geom:longitude":22.998844,
@@ -84,6 +96,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -96,6 +110,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061102015",
+        "eurostat:nuts_2021_id":"1006061102015",
         "gp:id":24548659,
         "qs_pg:id":1154601
     },
@@ -104,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"83e317d0a248427715df4896892628e3",
+    "wof:geomhash":"4ddebf68abb5e26df17bdcc99ae880d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,10 +131,12 @@
         }
     ],
     "wof:id":1125356777,
-    "wof:lastmodified":1582357715,
+    "wof:lastmodified":1684354264,
     "wof:name":"Gmina Zwierzyniec",
     "wof:parent_id":102079715,
     "wof:placetype":"localadmin",
+    "wof:population":6694,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

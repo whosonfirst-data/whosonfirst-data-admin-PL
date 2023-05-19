@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061121108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stoczek \u0141ukowski",
+    "eurostat:nuts_2021_id":"1006061121108",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061121108",
+    "eurostat:population":7793,
+    "eurostat:population_year":2020,
     "geom:area":0.022676,
-    "geom:area_square_m":172810263.89763,
+    "geom:area_square_m":172810263.897615,
     "geom:bbox":"21.86638,51.887624,22.166442,52.022095",
     "geom:latitude":51.953113,
     "geom:longitude":22.015265,
@@ -62,18 +74,24 @@
     "reversegeo:longitude":22.047558,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079925,
-        85687309
+        85687309,
+        102079925
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006061121108",
+        "eurostat:nuts_2021_id":"1006061121108"
+    },
     "wof:coterminous":[
         1477865427
     ],
     "wof:country":"PL",
-    "wof:geomhash":"4a07210f109e3e5901a3ed779515558f",
+    "wof:geomhash":"4d6ee794cdeccb3da5829bf9e8bf51f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477751267,
-    "wof:lastmodified":1607726611,
+    "wof:lastmodified":1684354349,
     "wof:name":"Gmina Stoczek \u0141ukowski",
     "wof:parent_id":102079925,
     "wof:placetype":"localadmin",
+    "wof:population":7793,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

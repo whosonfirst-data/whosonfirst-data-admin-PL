@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241440302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ustro\u0144",
+    "eurostat:nuts_2021_id":"1001241440302",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241440302",
+    "eurostat:population":16067,
+    "eurostat:population_year":2020,
     "geom:area":0.00736,
-    "geom:area_square_m":58846116.726348,
+    "geom:area_square_m":58846116.726341,
     "geom:bbox":"18.760267944,49.661658077,18.902390118,49.775555941",
     "geom:latitude":49.71529,
     "geom:longitude":18.827209,
@@ -128,7 +140,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -141,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241440302",
+        "eurostat:nuts_2021_id":"1001241440302",
         "gn:id":3082751,
         "gp:id":12618774,
         "qs_pg:id":241620
@@ -153,7 +168,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"301323283fad51b9421095d0abe70b88",
+    "wof:geomhash":"24990f5d81d9b534c2f15e399183beef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,11 +179,11 @@
         }
     ],
     "wof:id":1125412239,
-    "wof:lastmodified":1582358018,
+    "wof:lastmodified":1684354336,
     "wof:name":"Ustro\u0144",
     "wof:parent_id":102079421,
     "wof:placetype":"localadmin",
-    "wof:population":15637,
+    "wof:population":16067,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],

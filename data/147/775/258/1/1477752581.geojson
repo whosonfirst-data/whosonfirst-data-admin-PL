@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321641506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Szczecinek",
+    "eurostat:nuts_2021_id":"1002321641506",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321641506",
+    "eurostat:population":9215,
+    "eurostat:population_year":2020,
     "geom:area":0.067941,
-    "geom:area_square_m":496810616.173398,
+    "geom:area_square_m":496810616.173403,
     "geom:bbox":"16.500678021,53.561509971,16.892247638,53.909270686",
     "geom:latitude":53.745808,
     "geom:longitude":16.691223,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":16.656132,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102080155
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321641506",
+        "eurostat:nuts_2021_id":"1002321641506"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"1fde3d86e9a8e8c39b197faff09af34f",
+    "wof:geomhash":"733c14c1f75fa7082ffb183ff16fbcbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752581,
-    "wof:lastmodified":1570000967,
+    "wof:lastmodified":1684354417,
     "wof:name":"Gmina Szczecinek",
     "wof:parent_id":102080155,
     "wof:placetype":"localadmin",
+    "wof:population":9215,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

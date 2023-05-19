@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002321641604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"R\u0105bino",
+    "eurostat:nuts_2021_id":"1002321641604",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL42",
+    "eurostat:nuts_2021_level_3":"PL427",
+    "eurostat:nuts_2021_level_lau":"1002321641604",
+    "eurostat:population":3560,
+    "eurostat:population_year":2020,
     "geom:area":0.024534,
-    "geom:area_square_m":178927069.173485,
+    "geom:area_square_m":178927069.173492,
     "geom:bbox":"15.773728677,53.78603802,16.08086683,53.922640482",
     "geom:latitude":53.856154,
     "geom:longitude":15.930556,
@@ -35,6 +47,8 @@
     "reversegeo:longitude":15.920153,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102080147
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002321641604",
+        "eurostat:nuts_2021_id":"1002321641604"
+    },
     "wof:coterminous":[
         101820629
     ],
     "wof:country":"PL",
-    "wof:geomhash":"77e1e5fc6b17af19ebd1cbe94afcdeb9",
+    "wof:geomhash":"a988da7195cb795e4157ddccc40b1389",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1477752431,
-    "wof:lastmodified":1570000295,
+    "wof:lastmodified":1684354409,
     "wof:name":"R\u0105bino",
     "wof:parent_id":102080147,
     "wof:placetype":"localadmin",
+    "wof:population":3560,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

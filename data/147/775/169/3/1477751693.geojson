@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021020907",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prochowice",
+    "eurostat:nuts_2021_id":"1003021020907",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL516",
+    "eurostat:nuts_2021_level_lau":"1003021020907",
+    "eurostat:population":7406,
+    "eurostat:population_year":2020,
     "geom:area":0.013203,
-    "geom:area_square_m":102162142.876106,
+    "geom:area_square_m":102162142.87611,
     "geom:bbox":"16.303511127,51.207543932,16.473116464,51.332435782",
     "geom:latitude":51.261518,
     "geom:longitude":16.38066,
@@ -59,6 +71,8 @@
     "reversegeo:longitude":16.373832,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -66,8 +80,12 @@
         102079691
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021020907",
+        "eurostat:nuts_2021_id":"1003021020907"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"d6491f16ce25c7887e9714eeeb4b1e67",
+    "wof:geomhash":"e5f2802415b4bcca887b9efa367107d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,10 +96,12 @@
         }
     ],
     "wof:id":1477751693,
-    "wof:lastmodified":1569999548,
+    "wof:lastmodified":1684354371,
     "wof:name":"Gmina Prochowice",
     "wof:parent_id":102079691,
     "wof:placetype":"localadmin",
+    "wof:population":7406,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

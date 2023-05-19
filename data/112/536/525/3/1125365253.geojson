@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021030812",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radk\u00f3w",
+    "eurostat:nuts_2021_id":"1003021030812",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL517",
+    "eurostat:nuts_2021_level_lau":"1003021030812",
+    "eurostat:population":9052,
+    "eurostat:population_year":2020,
     "geom:area":0.017735,
-    "geom:area_square_m":139471593.2269,
+    "geom:area_square_m":139471593.226926,
     "geom:bbox":"16.294097984,50.446544281,16.567112595,50.579565739",
     "geom:latitude":50.504993,
     "geom:longitude":16.441652,
@@ -111,6 +123,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Dolnosl\u0105skie",
@@ -123,6 +137,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1003021030812",
+        "eurostat:nuts_2021_id":"1003021030812",
         "gp:id":24547819,
         "qs_pg:id":501917
     },
@@ -131,7 +147,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"c5bc914989080b985025f066b50c0d24",
+    "wof:geomhash":"d6946a41b888fe9776d96e88c2409637",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,10 +158,12 @@
         }
     ],
     "wof:id":1125365253,
-    "wof:lastmodified":1582357982,
+    "wof:lastmodified":1684354273,
     "wof:name":"Gmina Radk\u00f3w",
     "wof:parent_id":102079559,
     "wof:placetype":"localadmin",
+    "wof:population":9052,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

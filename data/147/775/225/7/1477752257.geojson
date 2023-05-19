@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006201380504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Czy\u017ce",
+    "eurostat:nuts_2021_id":"1006201380504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL84",
+    "eurostat:nuts_2021_level_3":"PL842",
+    "eurostat:nuts_2021_level_lau":"1006201380504",
+    "eurostat:population":1960,
+    "eurostat:population_year":2020,
     "geom:area":0.017921,
-    "geom:area_square_m":133970239.021086,
+    "geom:area_square_m":133970239.02108,
     "geom:bbox":"23.325850093,52.685077939,23.533810569,52.888157661",
     "geom:latitude":52.801205,
     "geom:longitude":23.427228,
@@ -50,6 +62,8 @@
     "reversegeo:longitude":23.418579,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -57,11 +71,15 @@
         102080091
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006201380504",
+        "eurostat:nuts_2021_id":"1006201380504"
+    },
     "wof:coterminous":[
         1126004839
     ],
     "wof:country":"PL",
-    "wof:geomhash":"7d9e3dd2d048448321560ac5c4ba5a9e",
+    "wof:geomhash":"27dbad7b2790d90c3586d604641bd5a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,10 +90,12 @@
         }
     ],
     "wof:id":1477752257,
-    "wof:lastmodified":1570003233,
+    "wof:lastmodified":1684354400,
     "wof:name":"Czy\u017ce",
     "wof:parent_id":102080091,
     "wof:placetype":"localadmin",
+    "wof:population":1960,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

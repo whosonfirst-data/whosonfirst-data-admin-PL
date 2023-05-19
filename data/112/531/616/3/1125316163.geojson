@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041670904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Strzelno",
+    "eurostat:nuts_2021_id":"1004041670904",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL617",
+    "eurostat:nuts_2021_level_lau":"1004041670904",
+    "eurostat:population":11585,
+    "eurostat:population_year":2020,
     "geom:area":0.02454,
-    "geom:area_square_m":184187190.892525,
+    "geom:area_square_m":184187190.892533,
     "geom:bbox":"18.058404941,52.528634272,18.290855608,52.732581098",
     "geom:latitude":52.627155,
     "geom:longitude":18.174855,
@@ -146,7 +158,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Kujawsko-Pomorskie",
@@ -159,6 +172,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004041670904",
+        "eurostat:nuts_2021_id":"1004041670904",
         "gn:id":3084396,
         "gp:id":24547543,
         "qs_pg:id":905108
@@ -168,7 +183,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1691bb24ac5fe8e2b83c8271c860f657",
+    "wof:geomhash":"d0821589771bdf197a6f278fd1007f13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,12 +194,12 @@
         }
     ],
     "wof:id":1125316163,
-    "wof:lastmodified":1582357948,
+    "wof:lastmodified":1684354220,
     "wof:name":"Gmina Strzelno",
     "wof:parent_id":102079993,
     "wof:placetype":"localadmin",
-    "wof:population":5951,
-    "wof:population_rank":5,
+    "wof:population":11585,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

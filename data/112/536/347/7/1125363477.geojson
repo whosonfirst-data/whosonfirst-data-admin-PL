@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061121201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chodel",
+    "eurostat:nuts_2021_id":"1006061121201",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL815",
+    "eurostat:nuts_2021_level_lau":"1006061121201",
+    "eurostat:population":6565,
+    "eurostat:population_year":2020,
     "geom:area":0.013906,
-    "geom:area_square_m":107990383.047564,
+    "geom:area_square_m":107990383.04755,
     "geom:bbox":"22.052660002,51.043519397,22.235632303,51.157312357",
     "geom:latitude":51.094792,
     "geom:longitude":22.150855,
@@ -72,7 +84,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -85,6 +98,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061121201",
+        "eurostat:nuts_2021_id":"1006061121201",
         "gn:id":774472,
         "gp:id":12616634,
         "qs_pg:id":954924
@@ -97,7 +112,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"de8a6291e869b3216d44d8f6e8b965df",
+    "wof:geomhash":"18f7e8d78ceb178e8e91083a3c10adde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,12 +123,12 @@
         }
     ],
     "wof:id":1125363477,
-    "wof:lastmodified":1582357971,
+    "wof:lastmodified":1684354269,
     "wof:name":"Chodel",
     "wof:parent_id":102079761,
     "wof:placetype":"localadmin",
-    "wof:population":1500,
-    "wof:population_rank":3,
+    "wof:population":6565,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

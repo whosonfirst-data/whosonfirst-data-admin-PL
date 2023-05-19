@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141293409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Radzymin",
+    "eurostat:nuts_2021_id":"1007141293409",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL912",
+    "eurostat:nuts_2021_level_lau":"1007141293409",
+    "eurostat:population":27504,
+    "eurostat:population_year":2020,
     "geom:area":0.017114,
-    "geom:area_square_m":129026726.246825,
+    "geom:area_square_m":129026726.246824,
     "geom:bbox":"21.064564621,52.349164858,21.289039217,52.518755406",
     "geom:latitude":52.431285,
     "geom:longitude":21.161582,
@@ -81,6 +93,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -93,6 +107,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141293409",
+        "eurostat:nuts_2021_id":"1007141293409",
         "gp:id":24548198,
         "qs_pg:id":1003266
     },
@@ -101,7 +117,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2a34cc866f681266fcc9095183369611",
+    "wof:geomhash":"689193875e5583eb23f2748f384aec78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,10 +128,12 @@
         }
     ],
     "wof:id":1125379601,
-    "wof:lastmodified":1582357853,
+    "wof:lastmodified":1684354297,
     "wof:name":"Gmina Radzymin",
     "wof:parent_id":102079995,
     "wof:placetype":"localadmin",
+    "wof:population":27504,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

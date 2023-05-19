@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221400504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sierakowice",
+    "eurostat:nuts_2021_id":"1004221400504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL634",
+    "eurostat:nuts_2021_level_lau":"1004221400504",
+    "eurostat:population":20054,
+    "eurostat:population_year":2020,
     "geom:area":0.025177,
-    "geom:area_square_m":181469711.329659,
+    "geom:area_square_m":181469711.329636,
     "geom:bbox":"17.707900456,54.28201736,18.014904036,54.419729051",
     "geom:latitude":54.345267,
     "geom:longitude":17.870805,
@@ -32,6 +44,8 @@
     "reversegeo:longitude":17.870836,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -39,11 +53,15 @@
         102080233
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004221400504",
+        "eurostat:nuts_2021_id":"1004221400504"
+    },
     "wof:coterminous":[
         101819447
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f1dd3af984ec954c029ee30a1bc08f0e",
+    "wof:geomhash":"d673d5b5c3b350bbb4e54df148b67f18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +72,12 @@
         }
     ],
     "wof:id":1477752359,
-    "wof:lastmodified":1570000680,
+    "wof:lastmodified":1684354406,
     "wof:name":"Sierakowice",
     "wof:parent_id":102080233,
     "wof:placetype":"localadmin",
+    "wof:population":20054,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

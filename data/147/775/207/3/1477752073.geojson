@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101190502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bielawy",
+    "eurostat:nuts_2021_id":"1005101190502",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL715",
+    "eurostat:nuts_2021_level_lau":"1005101190502",
+    "eurostat:population":5325,
+    "eurostat:population_year":2020,
     "geom:area":0.021487,
-    "geom:area_square_m":163284100.411155,
+    "geom:area_square_m":163284100.411145,
     "geom:bbox":"19.512742124,52.019215503,19.769983873,52.144938805",
     "geom:latitude":52.07941,
     "geom:longitude":19.648254,
@@ -38,6 +50,8 @@
     "reversegeo:longitude":19.661048,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -45,11 +59,15 @@
         102079923
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101190502",
+        "eurostat:nuts_2021_id":"1005101190502"
+    },
     "wof:coterminous":[
         1125822853
     ],
     "wof:country":"PL",
-    "wof:geomhash":"cab25e1cc2b1b95d2551c3d9de78b3d0",
+    "wof:geomhash":"7b94ce30d9938c1a4efc13680764960c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,10 +78,12 @@
         }
     ],
     "wof:id":1477752073,
-    "wof:lastmodified":1570003537,
+    "wof:lastmodified":1684354391,
     "wof:name":"Bielawy",
     "wof:parent_id":102079923,
     "wof:placetype":"localadmin",
+    "wof:population":5325,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

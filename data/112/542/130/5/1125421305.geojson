@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006061110802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abram\u00f3w",
+    "eurostat:nuts_2021_id":"1006061110802",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL81",
+    "eurostat:nuts_2021_level_3":"PL814",
+    "eurostat:nuts_2021_level_lau":"1006061110802",
+    "eurostat:population":4039,
+    "eurostat:population_year":2020,
     "geom:area":0.010929,
-    "geom:area_square_m":84188064.286742,
+    "geom:area_square_m":84188064.286745,
     "geom:bbox":"22.189831416,51.425912664,22.3896773,51.517358379",
     "geom:latitude":51.467366,
     "geom:longitude":22.285284,
@@ -66,7 +78,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Lubelskie",
@@ -79,6 +92,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006061110802",
+        "eurostat:nuts_2021_id":"1006061110802",
         "gn:id":776808,
         "gp:id":12616567,
         "qs_pg:id":259241
@@ -91,7 +106,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"50f6c6799f045dc0f3b32d51b0b9ba35",
+    "wof:geomhash":"903a85bdee433ca9a5fa21512f097cad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,12 +117,12 @@
         }
     ],
     "wof:id":1125421305,
-    "wof:lastmodified":1582357833,
+    "wof:lastmodified":1684354342,
     "wof:name":"Abram\u00f3w",
     "wof:parent_id":102079855,
     "wof:placetype":"localadmin",
-    "wof:population":713,
-    "wof:population_rank":2,
+    "wof:population":4039,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

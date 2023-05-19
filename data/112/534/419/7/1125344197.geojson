@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007141301802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Konstancin-Jeziorna",
+    "eurostat:nuts_2021_id":"1007141301802",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL91",
+    "eurostat:nuts_2021_level_3":"PL913",
+    "eurostat:nuts_2021_level_lau":"1007141301802",
+    "eurostat:population":24726,
+    "eurostat:population_year":2020,
     "geom:area":0.010302,
-    "geom:area_square_m":78281018.222936,
+    "geom:area_square_m":78281018.222934,
     "geom:bbox":"21.04361719,52.032955473,21.216738126,52.144728397",
     "geom:latitude":52.084462,
     "geom:longitude":21.147785,
@@ -122,7 +134,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Mazowieckie",
@@ -135,6 +148,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1007141301802",
+        "eurostat:nuts_2021_id":"1007141301802",
         "gn:id":768216,
         "gp:id":24548235,
         "qs_pg:id":1316332
@@ -144,7 +159,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"7e1c39fcba208429a2b0e50ecfd70e25",
+    "wof:geomhash":"5ae9a7d8826901c74cc5016b83185bb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,12 +170,12 @@
         }
     ],
     "wof:id":1125344197,
-    "wof:lastmodified":1582357694,
+    "wof:lastmodified":1684354253,
     "wof:name":"Gmina Konstancin-Jeziorna",
     "wof:parent_id":102079911,
     "wof:placetype":"localadmin",
-    "wof:population":16548,
-    "wof:population_rank":6,
+    "wof:population":24726,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[

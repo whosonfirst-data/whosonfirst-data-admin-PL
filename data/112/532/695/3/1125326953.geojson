@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241440207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kozy",
+    "eurostat:nuts_2021_id":"1001241440207",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL225",
+    "eurostat:nuts_2021_level_lau":"1001241440207",
+    "eurostat:population":13024,
+    "eurostat:population_year":2020,
     "geom:area":0.003333,
-    "geom:area_square_m":26582946.341995,
+    "geom:area_square_m":26582946.341989,
     "geom:bbox":"19.099730349,49.790373203,19.179374693,49.868042193",
     "geom:latitude":49.834142,
     "geom:longitude":19.140313,
@@ -63,6 +75,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Sl\u0105skie",
@@ -75,6 +89,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1001241440207",
+        "eurostat:nuts_2021_id":"1001241440207",
         "gp:id":12618838,
         "qs_pg:id":43788
     },
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"30251305c4b5887cff1f2a7af9020e33",
+    "wof:geomhash":"aa96deb8f1f37b10fc34914c8b2c0fa2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,10 +113,12 @@
         }
     ],
     "wof:id":1125326953,
-    "wof:lastmodified":1582357734,
+    "wof:lastmodified":1684354236,
     "wof:name":"Kozy",
     "wof:parent_id":102079427,
     "wof:placetype":"localadmin",
+    "wof:population":13024,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

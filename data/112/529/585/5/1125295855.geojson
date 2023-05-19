@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301570603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kotlin",
+    "eurostat:nuts_2021_id":"1002301570603",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL416",
+    "eurostat:nuts_2021_level_lau":"1002301570603",
+    "eurostat:population":7442,
+    "eurostat:population_year":2020,
     "geom:area":0.010968,
-    "geom:area_square_m":83601787.620062,
+    "geom:area_square_m":83601787.620065,
     "geom:bbox":"17.559997909,51.881410706,17.718267498,51.989972283",
     "geom:latitude":51.941831,
     "geom:longitude":17.640057,
@@ -78,7 +90,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Wielkopolskie",
@@ -91,6 +104,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1002301570603",
+        "eurostat:nuts_2021_id":"1002301570603",
         "gn:id":3095013,
         "gp:id":12618836,
         "qs_pg:id":342031
@@ -103,7 +118,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"897a2ff8a329f870ba109e8d9497ebbf",
+    "wof:geomhash":"9fac179947f5e863c8adb447a6935acf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,12 +129,12 @@
         }
     ],
     "wof:id":1125295855,
-    "wof:lastmodified":1582357828,
+    "wof:lastmodified":1684354186,
     "wof:name":"Kotlin",
     "wof:parent_id":102079857,
     "wof:placetype":"localadmin",
-    "wof:population":3416,
-    "wof:population_rank":4,
+    "wof:population":7442,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

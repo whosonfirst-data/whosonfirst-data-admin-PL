@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041070504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kowalewo Pomorskie",
+    "eurostat:nuts_2021_id":"1004041070504",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL616",
+    "eurostat:nuts_2021_level_lau":"1004041070504",
+    "eurostat:population":11453,
+    "eurostat:population_year":2020,
     "geom:area":0.018962,
-    "geom:area_square_m":140624178.471414,
+    "geom:area_square_m":140624178.471411,
     "geom:bbox":"18.727403603,53.080865625,19.014036739,53.210733139",
     "geom:latitude":53.148079,
     "geom:longitude":18.87328,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":18.86354,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,8 +86,12 @@
         102080067
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041070504",
+        "eurostat:nuts_2021_id":"1004041070504"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"38bd57a80489c28998f9dc633906529f",
+    "wof:geomhash":"11e4e575c80515358fe17728075f5ad2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +102,12 @@
         }
     ],
     "wof:id":1477752235,
-    "wof:lastmodified":1570002943,
+    "wof:lastmodified":1684354399,
     "wof:name":"Gmina Kowalewo Pomorskie",
     "wof:parent_id":102080067,
     "wof:placetype":"localadmin",
+    "wof:population":11453,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

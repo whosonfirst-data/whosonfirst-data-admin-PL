@@ -4,8 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:level_code":"2",
+    "eurostat:name_latin":"Kujawsko-pomorskie",
+    "eurostat:name_local":"Kujawsko-pomorskie",
+    "eurostat:nuts_2021_id":"PL61",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:population":2027014,
+    "eurostat:population_year":2022,
     "geom:area":2.409414,
-    "geom:area_square_m":17899284074.4967,
+    "geom:area_square_m":17899283859.268581,
     "geom:bbox":"17.247273,52.330636,19.761595,53.781075",
     "geom:latitude":53.072704,
     "geom:longitude":18.488217,
@@ -390,8 +400,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2011-03-21",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"17,971",
     "statoids:area_mi":"6,939",
     "statoids:as_of_date":"2011-03-21",
@@ -413,6 +423,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":14347,
+        "eurostat:nuts_2021_id":"PL61",
         "fips:code":"PL73",
         "gn:id":3337500,
         "gp:id":12577936,
@@ -426,7 +437,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d9cb6a9c69098ef7253fb27197ff0226",
+    "wof:geomhash":"5f058300e87d65e3ff7e0e3c4de03486",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -444,12 +455,12 @@
         "deu",
         "lit"
     ],
-    "wof:lastmodified":1617129876,
+    "wof:lastmodified":1684351471,
     "wof:name":"Kujawsko-Pomorskie",
     "wof:parent_id":85633723,
     "wof:placetype":"region",
     "wof:placetype_local":"voivodship",
-    "wof:population":2097634,
+    "wof:population":2027014,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:shortcode":"KP",

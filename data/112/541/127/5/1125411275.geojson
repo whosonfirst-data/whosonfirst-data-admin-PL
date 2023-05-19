@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004221410105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lipnica",
+    "eurostat:nuts_2021_id":"1004221410105",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL63",
+    "eurostat:nuts_2021_level_3":"PL636",
+    "eurostat:nuts_2021_level_lau":"1004221410105",
+    "eurostat:population":5216,
+    "eurostat:population_year":2020,
     "geom:area":0.042321,
-    "geom:area_square_m":307666457.449539,
+    "geom:area_square_m":307666457.449513,
     "geom:bbox":"17.176729935,53.871126511,17.559143064,54.084173623",
     "geom:latitude":53.990255,
     "geom:longitude":17.367591,
@@ -96,7 +108,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Pomorskie",
@@ -109,6 +122,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1004221410105",
+        "eurostat:nuts_2021_id":"1004221410105",
         "gn:id":3093285,
         "gp:id":12618025,
         "qs_pg:id":234884
@@ -121,7 +136,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"630c9da898f947cfc336339158263175",
+    "wof:geomhash":"ecfefb7e0aecf1f78b1d33624efe0340",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,12 +147,12 @@
         }
     ],
     "wof:id":1125411275,
-    "wof:lastmodified":1582358015,
+    "wof:lastmodified":1684354334,
     "wof:name":"Lipnica",
     "wof:parent_id":102080217,
     "wof:placetype":"localadmin",
-    "wof:population":747,
-    "wof:population_rank":2,
+    "wof:population":5216,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

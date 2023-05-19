@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241450708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wo\u017aniki",
+    "eurostat:nuts_2021_id":"1001241450708",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL228",
+    "eurostat:nuts_2021_level_lau":"1001241450708",
+    "eurostat:population":9619,
+    "eurostat:population_year":2020,
     "geom:area":0.016201,
-    "geom:area_square_m":127166049.588833,
+    "geom:area_square_m":127166049.588815,
     "geom:bbox":"18.931288199,50.493283487,19.109318218,50.668340531",
     "geom:latitude":50.596981,
     "geom:longitude":19.026364,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":19.033758,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079621
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241450708",
+        "eurostat:nuts_2021_id":"1001241450708"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"b06b25233ebd51ae88b6b43c6fd12283",
+    "wof:geomhash":"138e14ee61f9670a1778a11de4b4d643",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477751513,
-    "wof:lastmodified":1569999524,
+    "wof:lastmodified":1684354361,
     "wof:name":"Gmina Wo\u017aniki",
     "wof:parent_id":102079621,
     "wof:placetype":"localadmin",
+    "wof:population":9619,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

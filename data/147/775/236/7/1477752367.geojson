@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1003021012507",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zgorzelec",
+    "eurostat:nuts_2021_id":"1003021012507",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL5",
+    "eurostat:nuts_2021_level_2":"PL51",
+    "eurostat:nuts_2021_level_3":"PL515",
+    "eurostat:nuts_2021_level_lau":"1003021012507",
+    "eurostat:population":8516,
+    "eurostat:population_year":2020,
     "geom:area":0.01761,
-    "geom:area_square_m":136633955.10015,
+    "geom:area_square_m":136633955.100029,
     "geom:bbox":"14.948116,51.009214,15.212501,51.216244",
     "geom:latitude":51.136165,
     "geom:longitude":15.069962,
@@ -65,18 +77,24 @@
     "reversegeo:longitude":15.069982,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
-        102079695,
-        85687301
+        85687301,
+        102079695
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1003021012507",
+        "eurostat:nuts_2021_id":"1003021012507"
+    },
     "wof:coterminous":[
         1477866021
     ],
     "wof:country":"PL",
-    "wof:geomhash":"2d7a9aeb0916f193153db25de784073e",
+    "wof:geomhash":"96373134cc48572f8dd1a3fbb6e43863",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477752367,
-    "wof:lastmodified":1607726532,
+    "wof:lastmodified":1684354406,
     "wof:name":"Gmina Zgorzelec",
     "wof:parent_id":102079695,
     "wof:placetype":"localadmin",
+    "wof:population":8516,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

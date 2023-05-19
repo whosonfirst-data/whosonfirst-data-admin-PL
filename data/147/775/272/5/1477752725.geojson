@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1007142272306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Przysucha",
+    "eurostat:nuts_2021_id":"1007142272306",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL9",
+    "eurostat:nuts_2021_level_2":"PL92",
+    "eurostat:nuts_2021_level_3":"PL921",
+    "eurostat:nuts_2021_level_lau":"1007142272306",
+    "eurostat:population":11783,
+    "eurostat:population_year":2020,
     "geom:area":0.023411,
-    "geom:area_square_m":180833186.389176,
+    "geom:area_square_m":180833186.389133,
     "geom:bbox":"20.492627439,51.230240741,20.770376787,51.442822056",
     "geom:latitude":51.340575,
     "geom:longitude":20.610841,
@@ -62,6 +74,8 @@
     "reversegeo:longitude":20.562582,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -69,8 +83,12 @@
         102079797
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1007142272306",
+        "eurostat:nuts_2021_id":"1007142272306"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"36af57381732ec58e041a3c3a3c011fe",
+    "wof:geomhash":"0dea8df5deeaca54cb53075f99d8ad24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1477752725,
-    "wof:lastmodified":1570000399,
+    "wof:lastmodified":1684354424,
     "wof:name":"Gmina Przysucha",
     "wof:parent_id":102079797,
     "wof:placetype":"localadmin",
+    "wof:population":11783,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

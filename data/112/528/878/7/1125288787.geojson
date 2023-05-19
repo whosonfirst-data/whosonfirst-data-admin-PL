@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1002301591301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Krzemieniewo",
+    "eurostat:nuts_2021_id":"1002301591301",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL4",
+    "eurostat:nuts_2021_level_2":"PL41",
+    "eurostat:nuts_2021_level_3":"PL417",
+    "eurostat:nuts_2021_level_lau":"1002301591301",
+    "eurostat:population":8301,
+    "eurostat:population_year":2020,
     "geom:area":0.014763,
     "geom:area_square_m":112746506.982652,
     "geom:bbox":"16.71261868,51.787512095,16.904280393,51.93048142",
@@ -35,6 +47,8 @@
     "reversegeo:longitude":16.804316,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -42,11 +56,15 @@
         102079821
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1002301591301",
+        "eurostat:nuts_2021_id":"1002301591301"
+    },
     "wof:coterminous":[
         101821549
     ],
     "wof:country":"PL",
-    "wof:geomhash":"0e0570f87eeba685c6739779c74f7555",
+    "wof:geomhash":"0d0bfd05ae874e0e7e2f329f967b1062",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,10 +75,12 @@
         }
     ],
     "wof:id":1125288787,
-    "wof:lastmodified":1569990809,
+    "wof:lastmodified":1684354164,
     "wof:name":"Krzemieniewo",
     "wof:parent_id":102079821,
     "wof:placetype":"localadmin",
+    "wof:population":8301,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

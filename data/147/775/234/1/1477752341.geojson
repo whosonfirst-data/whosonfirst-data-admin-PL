@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181360304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"D\u0119bica",
+    "eurostat:nuts_2021_id":"1006181360304",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL824",
+    "eurostat:nuts_2021_level_lau":"1006181360304",
+    "eurostat:population":25849,
+    "eurostat:population_year":2020,
     "geom:area":0.017313,
-    "geom:area_square_m":137449161.006762,
+    "geom:area_square_m":137449161.006736,
     "geom:bbox":"21.325508,49.948348,21.567961,50.168626",
     "geom:latitude":50.054943,
     "geom:longitude":21.464415,
@@ -65,6 +77,8 @@
     "reversegeo:longitude":21.514832,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -72,11 +86,15 @@
         102079533
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1006181360304",
+        "eurostat:nuts_2021_id":"1006181360304"
+    },
     "wof:coterminous":[
         1477863889
     ],
     "wof:country":"PL",
-    "wof:geomhash":"f74c6966c8c93baaa69fdf630d50e3ba",
+    "wof:geomhash":"a5747c74f8b87e0b0eb03a90ae596157",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +105,12 @@
         }
     ],
     "wof:id":1477752341,
-    "wof:lastmodified":1617130164,
+    "wof:lastmodified":1684354405,
     "wof:name":"Gmina D\u0119bica",
     "wof:parent_id":102079533,
     "wof:placetype":"localadmin",
+    "wof:population":25849,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

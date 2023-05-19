@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1004041060303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dobrcz",
+    "eurostat:nuts_2021_id":"1004041060303",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL6",
+    "eurostat:nuts_2021_level_2":"PL61",
+    "eurostat:nuts_2021_level_3":"PL613",
+    "eurostat:nuts_2021_level_lau":"1004041060303",
+    "eurostat:population":11802,
+    "eurostat:population_year":2020,
     "geom:area":0.017518,
-    "geom:area_square_m":129557863.177194,
+    "geom:area_square_m":129557863.177186,
     "geom:bbox":"18.046701588,53.194369417,18.279668292,53.346224301",
     "geom:latitude":53.266148,
     "geom:longitude":18.144113,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":18.142309,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102080085
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1004041060303",
+        "eurostat:nuts_2021_id":"1004041060303"
+    },
     "wof:coterminous":[
         1126005647
     ],
     "wof:country":"PL",
-    "wof:geomhash":"39cd0c3fd8994b0573e37ea8f423629f",
+    "wof:geomhash":"a4035749af5aed1255ff844a46de7b3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477751341,
-    "wof:lastmodified":1569999362,
+    "wof:lastmodified":1684354353,
     "wof:name":"Dobrcz",
     "wof:parent_id":102080085,
     "wof:placetype":"localadmin",
+    "wof:population":11802,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

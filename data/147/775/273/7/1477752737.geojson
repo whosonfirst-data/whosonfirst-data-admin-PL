@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1001241460401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Blachownia",
+    "eurostat:nuts_2021_id":"1001241460401",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL2",
+    "eurostat:nuts_2021_level_2":"PL22",
+    "eurostat:nuts_2021_level_3":"PL224",
+    "eurostat:nuts_2021_level_lau":"1001241460401",
+    "eurostat:population":12930,
+    "eurostat:population_year":2020,
     "geom:area":0.008492,
-    "geom:area_square_m":66379974.21577,
+    "geom:area_square_m":66379974.215767,
     "geom:bbox":"18.848291811,50.757958527,19.034735386,50.835743874",
     "geom:latitude":50.791094,
     "geom:longitude":18.943039,
@@ -56,6 +68,8 @@
     "reversegeo:longitude":18.936724,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -63,8 +77,12 @@
         102079663
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1001241460401",
+        "eurostat:nuts_2021_id":"1001241460401"
+    },
     "wof:country":"PL",
-    "wof:geomhash":"0a7d8798043413c99b62d9fd57daa687",
+    "wof:geomhash":"47041219f5eca52cf32411085f0500e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +93,12 @@
         }
     ],
     "wof:id":1477752737,
-    "wof:lastmodified":1569999844,
+    "wof:lastmodified":1684354426,
     "wof:name":"Gmina Blachownia",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",
+    "wof:population":12930,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

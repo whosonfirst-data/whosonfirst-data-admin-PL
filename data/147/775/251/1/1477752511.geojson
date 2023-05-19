@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1005101181708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Skomlin",
+    "eurostat:nuts_2021_id":"1005101181708",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL7",
+    "eurostat:nuts_2021_level_2":"PL71",
+    "eurostat:nuts_2021_level_3":"PL714",
+    "eurostat:nuts_2021_level_lau":"1005101181708",
+    "eurostat:population":3319,
+    "eurostat:population_year":2020,
     "geom:area":0.007098,
-    "geom:area_square_m":55028155.365343,
+    "geom:area_square_m":55028155.365379,
     "geom:bbox":"18.347485822,51.114055139,18.450461858,51.22450056",
     "geom:latitude":51.170425,
     "geom:longitude":18.396849,
@@ -41,6 +53,8 @@
     "reversegeo:longitude":18.390735,
     "src:geom":"pl-gugik",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633723,
@@ -48,11 +62,15 @@
         102079729
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "eg:gisco_id":"PL_1005101181708",
+        "eurostat:nuts_2021_id":"1005101181708"
+    },
     "wof:coterminous":[
         101822905
     ],
     "wof:country":"PL",
-    "wof:geomhash":"133baac88357d89ceebf2500d66d78c1",
+    "wof:geomhash":"927d3086f59cd6d79d2ebeaede512e46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,10 +81,12 @@
         }
     ],
     "wof:id":1477752511,
-    "wof:lastmodified":1570001002,
+    "wof:lastmodified":1684354413,
     "wof:name":"Skomlin",
     "wof:parent_id":102079729,
     "wof:placetype":"localadmin",
+    "wof:population":3319,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],

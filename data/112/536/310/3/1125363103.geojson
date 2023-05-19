@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PL",
+    "eurostat:gisco_id":"PL_1006181331705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sanok",
+    "eurostat:nuts_2021_id":"1006181331705",
+    "eurostat:nuts_2021_level_0":"PL",
+    "eurostat:nuts_2021_level_1":"PL8",
+    "eurostat:nuts_2021_level_2":"PL82",
+    "eurostat:nuts_2021_level_3":"PL821",
+    "eurostat:nuts_2021_level_lau":"1006181331705",
+    "eurostat:population":18086,
+    "eurostat:population_year":2020,
     "geom:area":0.028783,
-    "geom:area_square_m":230734021.5394,
+    "geom:area_square_m":230734021.539294,
     "geom:bbox":"22.05749,49.474907,22.363793,49.685733",
     "geom:latitude":49.586322,
     "geom:longitude":22.201905,
@@ -87,6 +99,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "woe:adm0_id":23424923,
     "woe:name_adm0":"Polska",
     "woe:name_adm1":"Podkarpackie",
@@ -94,11 +108,13 @@
     "wof:belongsto":[
         102191581,
         85633723,
-        102079437,
-        85687295
+        85687295,
+        102079437
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PL_1006181331705",
+        "eurostat:nuts_2021_id":"1006181331705",
         "gp:id":24548614,
         "qs_pg:id":54045
     },
@@ -110,7 +126,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a135381306552d82864447c943308c6d",
+    "wof:geomhash":"6f99edd62a56b85794996767e96460a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,10 +137,12 @@
         }
     ],
     "wof:id":1125363103,
-    "wof:lastmodified":1607726762,
+    "wof:lastmodified":1684354269,
     "wof:name":"Gmina Sanok",
     "wof:parent_id":102079437,
     "wof:placetype":"localadmin",
+    "wof:population":18086,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
     "wof:supersedes":[],
