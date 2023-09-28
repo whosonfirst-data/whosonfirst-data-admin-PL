@@ -22,6 +22,15 @@
     "geom:latitude":51.070633,
     "geom:longitude":17.70186,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.051027,
     "lbl:longitude":17.714355,
     "mps:latitude":51.051027,
@@ -94,8 +103,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161310602",
-        "eurostat:nuts_2021_id":"1003161310602"
+        "eurostat:nuts_2021_id":"1003161310602",
+        "pol-gus:code":"1003161310602"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"5f0ecf7d893e62c61746a6ddcb7cbe4b",
     "wof:hierarchy":[
@@ -108,7 +119,7 @@
         }
     ],
     "wof:id":1477752577,
-    "wof:lastmodified":1684354417,
+    "wof:lastmodified":1695879363,
     "wof:name":"Gmina Namys\u0142\u00f3w",
     "wof:parent_id":102079673,
     "wof:placetype":"localadmin",

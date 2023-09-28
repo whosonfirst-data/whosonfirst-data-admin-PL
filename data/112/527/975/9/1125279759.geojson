@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":5872,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.10802,
     "lbl:longitude":23.34698,
     "lbl:max_zoom":15.0,
@@ -194,8 +203,10 @@
         "eurostat:nuts_2021_id":"1006201390901",
         "gn:id":759503,
         "gp:id":24548221,
+        "pol-gus:code":"1006201390901",
         "qs_pg:id":1078766
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101817787
     ],
@@ -215,7 +226,7 @@
         }
     ],
     "wof:id":1125279759,
-    "wof:lastmodified":1684354147,
+    "wof:lastmodified":1695878965,
     "wof:name":"Gmina Sejny",
     "wof:parent_id":102080257,
     "wof:placetype":"localadmin",

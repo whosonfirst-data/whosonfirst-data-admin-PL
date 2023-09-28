@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4217,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.37057,
     "lbl:longitude":18.17714,
     "lbl:max_zoom":15.0,
@@ -173,8 +182,10 @@
         "eurostat:nuts_2021_id":"1002301581004",
         "gn:id":3096160,
         "gp:id":24547750,
+        "pol-gus:code":"1002301581004",
         "qs_pg:id":1096995
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042958,
     "wof:geom_alt":[
@@ -191,7 +202,7 @@
         }
     ],
     "wof:id":1125291823,
-    "wof:lastmodified":1684354177,
+    "wof:lastmodified":1695878996,
     "wof:name":"Gmina Kleczew",
     "wof:parent_id":102079943,
     "wof:placetype":"localadmin",

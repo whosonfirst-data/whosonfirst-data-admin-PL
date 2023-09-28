@@ -22,6 +22,15 @@
     "geom:latitude":52.275549,
     "geom:longitude":20.605302,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.282157,
     "lbl:longitude":20.592371,
     "mps:latitude":52.282157,
@@ -169,8 +178,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007141303204",
-        "eurostat:nuts_2021_id":"1007141303204"
+        "eurostat:nuts_2021_id":"1007141303204",
+        "pol-gus:code":"1007141303204"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1260006141
     ],
@@ -186,7 +197,7 @@
         }
     ],
     "wof:id":1477752351,
-    "wof:lastmodified":1684354405,
+    "wof:lastmodified":1695879351,
     "wof:name":"Leszno",
     "wof:parent_id":102079949,
     "wof:placetype":"localadmin",

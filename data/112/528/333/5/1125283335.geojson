@@ -23,6 +23,15 @@
     "geom:longitude":21.680094,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.471805,
     "lbl:longitude":21.60221,
     "lbl:max_zoom":18.0,
@@ -119,8 +128,10 @@
         "eg:gisco_id":"PL_1006181330702",
         "eurostat:nuts_2021_id":"1006181330702",
         "gp:id":24548458,
+        "pol-gus:code":"1006181330702",
         "qs_pg:id":772352
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865175
     ],
@@ -140,7 +151,7 @@
         }
     ],
     "wof:id":1125283335,
-    "wof:lastmodified":1684354154,
+    "wof:lastmodified":1695878972,
     "wof:name":"Gmina Dukla",
     "wof:parent_id":102079455,
     "wof:placetype":"localadmin",

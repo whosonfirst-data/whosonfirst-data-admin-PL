@@ -22,6 +22,15 @@
     "geom:latitude":50.365585,
     "geom:longitude":19.036101,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.361163,
     "lbl:longitude":19.035396,
     "mps:latitude":50.361163,
@@ -115,8 +124,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241500103",
-        "eurostat:nuts_2021_id":"1001241500103"
+        "eurostat:nuts_2021_id":"1001241500103",
+        "pol-gus:code":"1001241500103"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101758649
     ],
@@ -132,7 +143,7 @@
         }
     ],
     "wof:id":1477751365,
-    "wof:lastmodified":1684354354,
+    "wof:lastmodified":1695879296,
     "wof:name":"Wojkowice",
     "wof:parent_id":102079527,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":49.180719,
     "geom:longitude":22.392179,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.19876,
     "lbl:longitude":22.408442,
     "mps:latitude":49.19876,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181332102",
-        "eurostat:nuts_2021_id":"1006181332102"
+        "eurostat:nuts_2021_id":"1006181332102",
+        "pol-gus:code":"1006181332102"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101910847
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477751789,
-    "wof:lastmodified":1684354375,
+    "wof:lastmodified":1695879319,
     "wof:name":"Cisna",
     "wof:parent_id":102079415,
     "wof:placetype":"localadmin",

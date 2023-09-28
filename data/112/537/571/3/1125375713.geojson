@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2100,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.37322,
     "lbl:longitude":18.00427,
     "lbl:max_zoom":15.0,
@@ -96,8 +105,10 @@
         "eurostat:nuts_2021_id":"1003161320504",
         "gn:id":3082705,
         "gp:id":12618130,
+        "pol-gus:code":"1003161320504",
         "qs_pg:id":998981
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824943
     ],
@@ -117,7 +128,7 @@
         }
     ],
     "wof:id":1125375713,
-    "wof:lastmodified":1684354293,
+    "wof:lastmodified":1695879231,
     "wof:name":"Walce",
     "wof:parent_id":102079553,
     "wof:placetype":"localadmin",

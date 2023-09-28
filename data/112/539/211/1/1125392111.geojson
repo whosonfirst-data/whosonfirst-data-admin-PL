@@ -22,6 +22,15 @@
     "geom:latitude":50.820313,
     "geom:longitude":20.519367,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.812552,
     "lbl:longitude":20.533496,
     "mps:latitude":50.812552,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005261520417",
-        "eurostat:nuts_2021_id":"1005261520417"
+        "eurostat:nuts_2021_id":"1005261520417",
+        "pol-gus:code":"1005261520417"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865217
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125392111,
-    "wof:lastmodified":1684354310,
+    "wof:lastmodified":1695879250,
     "wof:name":"Sitk\u00f3wka-Nowiny",
     "wof:parent_id":102079693,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":53.527232,
     "geom:longitude":15.833136,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.567852,
     "lbl:longitude":15.845418,
     "mps:latitude":53.567852,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321640302",
-        "eurostat:nuts_2021_id":"1002321640302"
+        "eurostat:nuts_2021_id":"1002321640302",
+        "pol-gus:code":"1002321640302"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"55abedb540f5e08bf41047c9e5e67276",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477752063,
-    "wof:lastmodified":1684354390,
+    "wof:lastmodified":1695879334,
     "wof:name":"Gmina Drawsko Pomorskie",
     "wof:parent_id":102080113,
     "wof:placetype":"localadmin",

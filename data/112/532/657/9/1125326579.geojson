@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2110,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.36942,
     "lbl:longitude":19.93881,
     "lbl:max_zoom":15.0,
@@ -218,8 +227,10 @@
         "eurostat:nuts_2021_id":"1007142701911",
         "gn:id":3085494,
         "gp:id":12618182,
+        "pol-gus:code":"1007142701911",
         "qs_pg:id":272364
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865507
     ],
@@ -239,7 +250,7 @@
         }
     ],
     "wof:id":1125326579,
-    "wof:lastmodified":1684354234,
+    "wof:lastmodified":1695879124,
     "wof:name":"S\u0142ubice",
     "wof:parent_id":102080003,
     "wof:placetype":"localadmin",

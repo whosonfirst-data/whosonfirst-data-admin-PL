@@ -22,6 +22,15 @@
     "geom:latitude":49.970772,
     "geom:longitude":18.380286,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.966741,
     "lbl:longitude":18.387518,
     "mps:latitude":49.966741,
@@ -73,8 +82,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241491506",
-        "eurostat:nuts_2021_id":"1001241491506"
+        "eurostat:nuts_2021_id":"1001241491506",
+        "pol-gus:code":"1001241491506"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1209942683
     ],
@@ -90,7 +101,7 @@
         }
     ],
     "wof:id":1477752247,
-    "wof:lastmodified":1684354400,
+    "wof:lastmodified":1695879345,
     "wof:name":"Gorzyce",
     "wof:parent_id":102079445,
     "wof:placetype":"localadmin",

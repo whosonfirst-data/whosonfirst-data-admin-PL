@@ -22,6 +22,15 @@
     "geom:latitude":51.333331,
     "geom:longitude":18.632667,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.330957,
     "lbl:longitude":18.630803,
     "mps:latitude":51.330957,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101181706",
-        "eurostat:nuts_2021_id":"1005101181706"
+        "eurostat:nuts_2021_id":"1005101181706",
+        "pol-gus:code":"1005101181706"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1259407585
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752873,
-    "wof:lastmodified":1684354434,
+    "wof:lastmodified":1695879379,
     "wof:name":"Ostr\u00f3wek",
     "wof:parent_id":102079729,
     "wof:placetype":"localadmin",

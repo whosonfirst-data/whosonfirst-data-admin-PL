@@ -22,6 +22,15 @@
     "geom:latitude":50.836476,
     "geom:longitude":16.183949,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.835146,
     "lbl:longitude":16.203478,
     "mps:latitude":50.835146,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021032107",
-        "eurostat:nuts_2021_id":"1003021032107"
+        "eurostat:nuts_2021_id":"1003021032107",
+        "pol-gus:code":"1003021032107"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823663
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477751869,
-    "wof:lastmodified":1684354380,
+    "wof:lastmodified":1695879324,
     "wof:name":"Stare Bogaczowice",
     "wof:parent_id":102079595,
     "wof:placetype":"localadmin",

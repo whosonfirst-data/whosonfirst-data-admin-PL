@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":6000,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.7487,
     "lbl:longitude":17.61688,
     "lbl:max_zoom":15.0,
@@ -177,8 +186,10 @@
         "eurostat:nuts_2021_id":"1003161310104",
         "gn:id":3093501,
         "gp:id":24548465,
+        "pol-gus:code":"1003161310104",
         "qs_pg:id":1049671
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497049011,
     "wof:geom_alt":[
@@ -195,7 +206,7 @@
         }
     ],
     "wof:id":1125395913,
-    "wof:lastmodified":1684354317,
+    "wof:lastmodified":1695879257,
     "wof:name":"Gmina Lewin Brzeski",
     "wof:parent_id":102079631,
     "wof:placetype":"localadmin",

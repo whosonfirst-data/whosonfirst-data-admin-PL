@@ -22,6 +22,15 @@
     "geom:latitude":53.193338,
     "geom:longitude":19.657725,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.196144,
     "lbl:longitude":19.666699,
     "mps:latitude":53.196144,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041070205",
-        "eurostat:nuts_2021_id":"1004041070205"
+        "eurostat:nuts_2021_id":"1004041070205",
+        "pol-gus:code":"1004041070205"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"7085de49fcd83a44028360b530e17d4a",
     "wof:hierarchy":[
@@ -72,7 +83,7 @@
         }
     ],
     "wof:id":1477752337,
-    "wof:lastmodified":1684354404,
+    "wof:lastmodified":1695879350,
     "wof:name":"Gmina G\u00f3rzno",
     "wof:parent_id":102080099,
     "wof:placetype":"localadmin",

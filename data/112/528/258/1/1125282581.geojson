@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3975,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.22909,
     "lbl:longitude":22.11968,
     "lbl:max_zoom":15.0,
@@ -179,8 +188,10 @@
         "eurostat:nuts_2021_id":"1006181351611",
         "gn:id":758633,
         "gp:id":24548757,
+        "pol-gus:code":"1006181351611",
         "qs_pg:id":994301
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042560,
     "wof:geom_alt":[
@@ -197,7 +208,7 @@
         }
     ],
     "wof:id":1125282581,
-    "wof:lastmodified":1684354151,
+    "wof:lastmodified":1695878970,
     "wof:name":"Gmina Soko\u0142\u00f3w Ma\u0142opolski",
     "wof:parent_id":102079585,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3130,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.71645,
     "lbl:longitude":17.22682,
     "lbl:max_zoom":15.0,
@@ -161,8 +170,10 @@
         "eurostat:nuts_2021_id":"1002301571202",
         "gn:id":3095931,
         "gp:id":24547879,
+        "pol-gus:code":"1002301571202",
         "qs_pg:id":272198
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043546,
     "wof:geom_alt":[
@@ -179,7 +190,7 @@
         }
     ],
     "wof:id":1125303249,
-    "wof:lastmodified":1684354195,
+    "wof:lastmodified":1695879020,
     "wof:name":"Gmina Kobylin",
     "wof:parent_id":102079811,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1000,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.94177,
     "lbl:longitude":20.42135,
     "lbl:max_zoom":16.0,
@@ -101,8 +110,10 @@
         "eurostat:nuts_2021_id":"1005261520418",
         "gn:id":758090,
         "gp:id":12616658,
+        "pol-gus:code":"1005261520418",
         "qs_pg:id":1118425
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1276386745
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125332943,
-    "wof:lastmodified":1684354243,
+    "wof:lastmodified":1695879146,
     "wof:name":"Strawczyn",
     "wof:parent_id":102079693,
     "wof:placetype":"localadmin",

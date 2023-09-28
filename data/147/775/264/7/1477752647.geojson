@@ -22,6 +22,15 @@
     "geom:latitude":50.538533,
     "geom:longitude":22.711242,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.536459,
     "lbl:longitude":22.711935,
     "mps:latitude":50.536459,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061100201",
-        "eurostat:nuts_2021_id":"1006061100201"
+        "eurostat:nuts_2021_id":"1006061100201",
+        "pol-gus:code":"1006061100201"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"5d6a57cd5ae2a1842090534f5626258e",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752647,
-    "wof:lastmodified":1684354421,
+    "wof:lastmodified":1695879367,
     "wof:name":"Gmina Bi\u0142goraj",
     "wof:parent_id":102079699,
     "wof:placetype":"localadmin",

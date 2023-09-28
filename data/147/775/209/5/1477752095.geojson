@@ -22,6 +22,15 @@
     "geom:latitude":53.369874,
     "geom:longitude":14.851923,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.375528,
     "lbl:longitude":14.839333,
     "mps:latitude":53.375528,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321661406",
-        "eurostat:nuts_2021_id":"1002321661406"
+        "eurostat:nuts_2021_id":"1002321661406",
+        "pol-gus:code":"1002321661406"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1293715245
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752095,
-    "wof:lastmodified":1684354392,
+    "wof:lastmodified":1695879336,
     "wof:name":"Kobylanka",
     "wof:parent_id":102080083,
     "wof:placetype":"localadmin",

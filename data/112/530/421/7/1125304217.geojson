@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2150,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.36063,
     "lbl:longitude":15.76452,
     "lbl:max_zoom":15.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1003021010103",
         "gn:id":3098267,
         "gp:id":12616947,
+        "pol-gus:code":"1003021010103",
         "qs_pg:id":1190423
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822873
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125304217,
-    "wof:lastmodified":1684354198,
+    "wof:lastmodified":1695879023,
     "wof:name":"Gromadka",
     "wof:parent_id":102079707,
     "wof:placetype":"localadmin",

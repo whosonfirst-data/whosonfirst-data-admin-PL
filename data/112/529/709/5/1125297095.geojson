@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":12465,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.65806,
     "lbl:longitude":17.95578,
     "lbl:max_zoom":15.0,
@@ -179,8 +188,10 @@
         "eurostat:nuts_2021_id":"1004041670903",
         "gn:id":3091523,
         "gp:id":24548075,
+        "pol-gus:code":"1004041670903",
         "qs_pg:id":192564
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043207,
     "wof:geom_alt":[
@@ -197,7 +208,7 @@
         }
     ],
     "wof:id":1125297095,
-    "wof:lastmodified":1684354189,
+    "wof:lastmodified":1695879010,
     "wof:name":"Gmina Mogilno",
     "wof:parent_id":102079993,
     "wof:placetype":"localadmin",

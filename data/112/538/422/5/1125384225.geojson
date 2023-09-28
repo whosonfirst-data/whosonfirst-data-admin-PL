@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3900,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.91769,
     "lbl:longitude":22.18131,
     "lbl:max_zoom":15.0,
@@ -95,8 +104,10 @@
         "eurostat:nuts_2021_id":"1006181351607",
         "gn:id":770833,
         "gp:id":12618627,
+        "pol-gus:code":"1006181351607",
         "qs_pg:id":1015016
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101863491
     ],
@@ -116,7 +127,7 @@
         }
     ],
     "wof:id":1125384225,
-    "wof:lastmodified":1684354302,
+    "wof:lastmodified":1695879241,
     "wof:name":"Hy\u017cne",
     "wof:parent_id":102079585,
     "wof:placetype":"localadmin",

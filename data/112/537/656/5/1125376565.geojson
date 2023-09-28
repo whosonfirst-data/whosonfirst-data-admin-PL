@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":900,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.57744,
     "lbl:longitude":22.36988,
     "lbl:max_zoom":17.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1006181331706",
         "gn:id":756456,
         "gp:id":12617394,
+        "pol-gus:code":"1006181331706",
         "qs_pg:id":1001447
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863695
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125376565,
-    "wof:lastmodified":1684354294,
+    "wof:lastmodified":1695879233,
     "wof:name":"Tyrawa Wo\u0142oska",
     "wof:parent_id":102079437,
     "wof:placetype":"localadmin",

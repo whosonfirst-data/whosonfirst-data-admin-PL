@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3351,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.36496,
     "lbl:longitude":17.41329,
     "lbl:max_zoom":15.0,
@@ -158,8 +167,10 @@
         "eurostat:nuts_2021_id":"1002301583003",
         "gn:id":3091089,
         "gp:id":24547608,
+        "pol-gus:code":"1002301583003",
         "qs_pg:id":1083375
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042514,
     "wof:geom_alt":[
@@ -176,7 +187,7 @@
         }
     ],
     "wof:id":1125281423,
-    "wof:lastmodified":1684354148,
+    "wof:lastmodified":1695878966,
     "wof:name":"Gmina Nekla",
     "wof:parent_id":102079907,
     "wof:placetype":"localadmin",

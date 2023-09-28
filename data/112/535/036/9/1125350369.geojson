@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1044,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.62878,
     "lbl:longitude":23.49375,
     "lbl:max_zoom":16.0,
@@ -102,8 +111,10 @@
         "eurostat:nuts_2021_id":"1006061102003",
         "gn:id":768341,
         "gp:id":12616918,
+        "pol-gus:code":"1006061102003",
         "qs_pg:id":1148861
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1326956281
     ],
@@ -123,7 +134,7 @@
         }
     ],
     "wof:id":1125350369,
-    "wof:lastmodified":1684354255,
+    "wof:lastmodified":1695879176,
     "wof:name":"Komar\u00f3w-Osada",
     "wof:parent_id":102079715,
     "wof:placetype":"localadmin",

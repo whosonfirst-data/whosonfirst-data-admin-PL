@@ -22,6 +22,15 @@
     "geom:latitude":51.49443,
     "geom:longitude":23.272543,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.49548,
     "lbl:longitude":23.272508,
     "mps:latitude":51.49548,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061091904",
-        "eurostat:nuts_2021_id":"1006061091904"
+        "eurostat:nuts_2021_id":"1006061091904",
+        "pol-gus:code":"1006061091904"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125917349
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752937,
-    "wof:lastmodified":1684354438,
+    "wof:lastmodified":1695879383,
     "wof:name":"Stary Brus",
     "wof:parent_id":102079889,
     "wof:placetype":"localadmin",

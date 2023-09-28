@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":484,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.30318,
     "lbl:longitude":19.19217,
     "lbl:max_zoom":17.0,
@@ -85,8 +94,10 @@
         "eurostat:nuts_2021_id":"1005101190208",
         "gn:id":7576143,
         "gp:id":12618335,
+        "pol-gus:code":"1005101190208",
         "qs_pg:id":24187
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865765
     ],
@@ -106,7 +117,7 @@
         }
     ],
     "wof:id":1125289219,
-    "wof:lastmodified":1684354171,
+    "wof:lastmodified":1695878988,
     "wof:name":"Nowe Ostrowy",
     "wof:parent_id":102079929,
     "wof:placetype":"localadmin",

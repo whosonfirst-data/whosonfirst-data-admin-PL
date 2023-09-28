@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1599,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.19339,
     "lbl:longitude":21.48007,
     "lbl:max_zoom":16.0,
@@ -143,8 +152,10 @@
         "eurostat:nuts_2021_id":"1006181361107",
         "gn:id":761210,
         "gp:id":12617529,
+        "pol-gus:code":"1006181361107",
         "qs_pg:id":24022
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044694,
     "wof:geom_alt":[
@@ -161,7 +172,7 @@
         }
     ],
     "wof:id":1125324213,
-    "wof:lastmodified":1684354227,
+    "wof:lastmodified":1695879093,
     "wof:name":"Gmina Przec\u0142aw",
     "wof:parent_id":102079597,
     "wof:placetype":"localadmin",

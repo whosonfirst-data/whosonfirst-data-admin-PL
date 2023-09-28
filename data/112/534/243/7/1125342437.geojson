@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2341,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.53332,
     "lbl:longitude":23.72562,
     "lbl:max_zoom":15.0,
@@ -148,8 +157,10 @@
         "eurostat:nuts_2021_id":"1006061101806",
         "gn:id":766692,
         "gp:id":12618535,
+        "pol-gus:code":"1006061101806",
         "qs_pg:id":24233
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045739,
     "wof:geom_alt":[
@@ -166,7 +177,7 @@
         }
     ],
     "wof:id":1125342437,
-    "wof:lastmodified":1684354252,
+    "wof:lastmodified":1695879161,
     "wof:name":"Gmina \u0141aszcz\u00f3w",
     "wof:parent_id":102079689,
     "wof:placetype":"localadmin",

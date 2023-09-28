@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3419,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.92103,
     "lbl:longitude":18.76637,
     "lbl:max_zoom":15.0,
@@ -161,8 +170,10 @@
         "eurostat:nuts_2021_id":"1001241440311",
         "gn:id":3084483,
         "gp:id":24548664,
+        "pol-gus:code":"1001241440311",
         "qs_pg:id":1205696
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044189,
     "wof:geom_alt":[
@@ -179,7 +190,7 @@
         }
     ],
     "wof:id":1125314297,
-    "wof:lastmodified":1684354218,
+    "wof:lastmodified":1695879069,
     "wof:name":"Gmina Strumie\u0144",
     "wof:parent_id":102079421,
     "wof:placetype":"localadmin",

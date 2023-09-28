@@ -22,6 +22,15 @@
     "geom:latitude":51.837433,
     "geom:longitude":17.42145,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.833021,
     "lbl:longitude":17.423999,
     "mps:latitude":51.833021,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301571203",
-        "eurostat:nuts_2021_id":"1002301571203"
+        "eurostat:nuts_2021_id":"1002301571203",
+        "pol-gus:code":"1002301571203"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"1be7efa353a169c8ebeb74eafb9dea19",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477751261,
-    "wof:lastmodified":1684354349,
+    "wof:lastmodified":1695879291,
     "wof:name":"Gmina Ko\u017amin Wielkopolski",
     "wof:parent_id":102079811,
     "wof:placetype":"localadmin",

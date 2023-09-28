@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2100,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.75144,
     "lbl:longitude":21.94176,
     "lbl:max_zoom":15.0,
@@ -111,8 +120,10 @@
         "eurostat:nuts_2021_id":"1006181330205",
         "gn:id":770346,
         "gp:id":12617760,
+        "pol-gus:code":"1006181330205",
         "qs_pg:id":959344
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101826201
     ],
@@ -132,7 +143,7 @@
         }
     ],
     "wof:id":1125365935,
-    "wof:lastmodified":1684354274,
+    "wof:lastmodified":1695879208,
     "wof:name":"Jasienica Rosielna",
     "wof:parent_id":102079461,
     "wof:placetype":"localadmin",

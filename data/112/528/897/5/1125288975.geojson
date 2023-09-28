@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.2562,
     "lbl:longitude":18.2621,
     "lbl:max_zoom":18.0,
@@ -206,8 +215,10 @@
         "eurostat:nuts_2021_id":"1002301586201",
         "gn:id":7532374,
         "gp:id":12618510,
+        "pol-gus:code":"1002301586201",
         "qs_pg:id":24234
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101752221,
         102079903
@@ -228,7 +239,7 @@
         }
     ],
     "wof:id":1125288975,
-    "wof:lastmodified":1684354167,
+    "wof:lastmodified":1695878985,
     "wof:name":"Konin",
     "wof:parent_id":102079903,
     "wof:placetype":"localadmin",

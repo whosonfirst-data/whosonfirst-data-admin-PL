@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1100,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.97584,
     "lbl:longitude":21.68006,
     "lbl:max_zoom":16.0,
@@ -109,8 +118,10 @@
         "eurostat:nuts_2021_id":"1007142710309",
         "gn:id":762619,
         "gp:id":12618409,
+        "pol-gus:code":"1007142710309",
         "qs_pg:id":24211
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821683
     ],
@@ -130,7 +141,7 @@
         }
     ],
     "wof:id":1125324381,
-    "wof:lastmodified":1684354230,
+    "wof:lastmodified":1695879112,
     "wof:name":"Parys\u00f3w",
     "wof:parent_id":102079901,
     "wof:placetype":"localadmin",

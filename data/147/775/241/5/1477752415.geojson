@@ -22,6 +22,15 @@
     "geom:latitude":54.201214,
     "geom:longitude":19.556241,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.214347,
     "lbl:longitude":19.539792,
     "mps:latitude":54.214347,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281540405",
-        "eurostat:nuts_2021_id":"1004281540405"
+        "eurostat:nuts_2021_id":"1004281540405",
+        "pol-gus:code":"1004281540405"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126005997
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752415,
-    "wof:lastmodified":1684354409,
+    "wof:lastmodified":1695879354,
     "wof:name":"Milejewo",
     "wof:parent_id":102080231,
     "wof:placetype":"localadmin",

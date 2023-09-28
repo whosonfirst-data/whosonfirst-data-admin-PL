@@ -22,6 +22,15 @@
     "geom:latitude":50.027833,
     "geom:longitude":21.568918,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.037036,
     "lbl:longitude":21.576262,
     "mps:latitude":50.037036,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181351503",
-        "eurostat:nuts_2021_id":"1006181351503"
+        "eurostat:nuts_2021_id":"1006181351503",
+        "pol-gus:code":"1006181351503"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"69094fb024eae509f61bc948c4a300df",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477753015,
-    "wof:lastmodified":1684354442,
+    "wof:lastmodified":1695879387,
     "wof:name":"Gmina Ropczyce",
     "wof:parent_id":102079547,
     "wof:placetype":"localadmin",

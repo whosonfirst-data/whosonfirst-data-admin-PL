@@ -23,6 +23,15 @@
     "geom:longitude":19.331615,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.541474,
     "lbl:longitude":19.325466,
     "lbl:max_zoom":18.0,
@@ -92,8 +101,10 @@
         "eg:gisco_id":"PL_1001241441704",
         "eurostat:nuts_2021_id":"1001241441704",
         "gp:id":12618805,
+        "pol-gus:code":"1001241441704",
         "qs_pg:id":1153836
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125987169
     ],
@@ -113,7 +124,7 @@
         }
     ],
     "wof:id":1125356069,
-    "wof:lastmodified":1684354262,
+    "wof:lastmodified":1695879190,
     "wof:name":"Jele\u015bnia",
     "wof:parent_id":102079411,
     "wof:placetype":"localadmin",

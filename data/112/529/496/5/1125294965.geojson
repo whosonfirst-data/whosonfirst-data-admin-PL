@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2539,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.65069,
     "lbl:longitude":20.79188,
     "lbl:max_zoom":15.0,
@@ -167,8 +176,10 @@
         "eurostat:nuts_2021_id":"1004281561704",
         "gn:id":762588,
         "gp:id":12618624,
+        "pol-gus:code":"1004281561704",
         "qs_pg:id":1099649
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043097,
     "wof:geom_alt":[
@@ -185,7 +196,7 @@
         }
     ],
     "wof:id":1125294965,
-    "wof:lastmodified":1684354184,
+    "wof:lastmodified":1695879005,
     "wof:name":"Gmina Pasym",
     "wof:parent_id":102080167,
     "wof:placetype":"localadmin",

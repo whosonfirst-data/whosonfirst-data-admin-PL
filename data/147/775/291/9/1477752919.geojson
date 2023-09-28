@@ -22,6 +22,15 @@
     "geom:latitude":53.544535,
     "geom:longitude":21.033926,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.527349,
     "lbl:longitude":21.079518,
     "mps:latitude":53.527349,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281561706",
-        "eurostat:nuts_2021_id":"1004281561706"
+        "eurostat:nuts_2021_id":"1004281561706",
+        "pol-gus:code":"1004281561706"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"7e8a195888e9b8d9aedb17304b4428bf",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477752919,
-    "wof:lastmodified":1684354436,
+    "wof:lastmodified":1695879382,
     "wof:name":"Gmina Szczytno",
     "wof:parent_id":102080167,
     "wof:placetype":"localadmin",

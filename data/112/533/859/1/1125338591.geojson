@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3169,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.65573,
     "lbl:longitude":16.95826,
     "lbl:max_zoom":15.0,
@@ -157,8 +166,10 @@
         "eurostat:nuts_2021_id":"1002301592203",
         "gn:id":3091957,
         "gp:id":24547428,
+        "pol-gus:code":"1002301592203",
         "qs_pg:id":59393
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045537,
     "wof:geom_alt":[
@@ -175,7 +186,7 @@
         }
     ],
     "wof:id":1125338591,
-    "wof:lastmodified":1684354244,
+    "wof:lastmodified":1695879148,
     "wof:name":"Gmina Miejska G\u00f3rka",
     "wof:parent_id":102079767,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.959844,
     "geom:longitude":19.917161,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.964229,
     "lbl:longitude":19.907459,
     "mps:latitude":50.964229,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005261531301",
-        "eurostat:nuts_2021_id":"1005261531301"
+        "eurostat:nuts_2021_id":"1005261531301",
+        "pol-gus:code":"1005261531301"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126006745
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477751177,
-    "wof:lastmodified":1684354345,
+    "wof:lastmodified":1695879286,
     "wof:name":"Kluczewsko",
     "wof:parent_id":102079679,
     "wof:placetype":"localadmin",

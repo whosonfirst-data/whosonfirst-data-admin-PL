@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":6090,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.65134,
     "lbl:longitude":16.08047,
     "lbl:max_zoom":15.0,
@@ -164,8 +173,10 @@
         "eurostat:nuts_2021_id":"1002301591404",
         "gn:id":3085974,
         "gp:id":24547721,
+        "pol-gus:code":"1002301591404",
         "qs_pg:id":246666
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497051017,
     "wof:geom_alt":[
@@ -182,7 +193,7 @@
         }
     ],
     "wof:id":1125414395,
-    "wof:lastmodified":1684354338,
+    "wof:lastmodified":1695879279,
     "wof:name":"Gmina Sierak\u00f3w",
     "wof:parent_id":102079961,
     "wof:placetype":"localadmin",

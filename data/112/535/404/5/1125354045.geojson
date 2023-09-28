@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":900,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.17425,
     "lbl:longitude":18.57067,
     "lbl:max_zoom":17.0,
@@ -120,8 +129,10 @@
         "eurostat:nuts_2021_id":"1002301580908",
         "gn:id":3095145,
         "gp:id":12617487,
+        "pol-gus:code":"1002301580908",
         "qs_pg:id":1321332
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864317
     ],
@@ -141,7 +152,7 @@
         }
     ],
     "wof:id":1125354045,
-    "wof:lastmodified":1684354260,
+    "wof:lastmodified":1695879186,
     "wof:name":"Ko\u015bcielec",
     "wof:parent_id":102079927,
     "wof:placetype":"localadmin",

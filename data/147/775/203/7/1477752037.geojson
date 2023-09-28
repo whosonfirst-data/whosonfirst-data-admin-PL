@@ -22,6 +22,15 @@
     "geom:latitude":49.612318,
     "geom:longitude":20.94654,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.56668,
     "lbl:longitude":20.969114,
     "mps:latitude":49.56668,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121221004",
-        "eurostat:nuts_2021_id":"1001121221004"
+        "eurostat:nuts_2021_id":"1001121221004",
+        "pol-gus:code":"1001121221004"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"b115d600f40987435d66dea44209cad3",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752037,
-    "wof:lastmodified":1684354388,
+    "wof:lastmodified":1695879333,
     "wof:name":"Gmina Gryb\u00f3w",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",

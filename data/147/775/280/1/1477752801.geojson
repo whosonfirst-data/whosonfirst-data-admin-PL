@@ -22,6 +22,15 @@
     "geom:latitude":51.855273,
     "geom:longitude":21.979551,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.857188,
     "lbl:longitude":21.977484,
     "mps:latitude":51.857188,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061121111",
-        "eurostat:nuts_2021_id":"1006061121111"
+        "eurostat:nuts_2021_id":"1006061121111",
+        "pol-gus:code":"1006061121111"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126004667
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752801,
-    "wof:lastmodified":1684354430,
+    "wof:lastmodified":1695879376,
     "wof:name":"Wola Mys\u0142owska",
     "wof:parent_id":102079925,
     "wof:placetype":"localadmin",

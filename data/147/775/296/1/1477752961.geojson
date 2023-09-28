@@ -22,6 +22,15 @@
     "geom:latitude":50.504262,
     "geom:longitude":18.95106,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.502773,
     "lbl:longitude":18.940449,
     "mps:latitude":50.502773,
@@ -106,8 +115,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241451302",
-        "eurostat:nuts_2021_id":"1001241451302"
+        "eurostat:nuts_2021_id":"1001241451302",
+        "pol-gus:code":"1001241451302"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823581
     ],
@@ -123,7 +134,7 @@
         }
     ],
     "wof:id":1477752961,
-    "wof:lastmodified":1684354439,
+    "wof:lastmodified":1695879385,
     "wof:name":"Miasteczko \u015al\u0105skie",
     "wof:parent_id":102079581,
     "wof:placetype":"localadmin",

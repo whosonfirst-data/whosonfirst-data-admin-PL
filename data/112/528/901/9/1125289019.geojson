@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":380,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.44026,
     "lbl:longitude":18.51085,
     "lbl:max_zoom":17.0,
@@ -92,8 +101,10 @@
         "eurostat:nuts_2021_id":"1002301581013",
         "gn:id":3082153,
         "gp:id":12617876,
+        "pol-gus:code":"1002301581013",
         "qs_pg:id":24076
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864551
     ],
@@ -113,7 +124,7 @@
         }
     ],
     "wof:id":1125289019,
-    "wof:lastmodified":1684354168,
+    "wof:lastmodified":1695878985,
     "wof:name":"Wierzbinek",
     "wof:parent_id":102079943,
     "wof:placetype":"localadmin",

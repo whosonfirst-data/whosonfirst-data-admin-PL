@@ -22,6 +22,15 @@
     "geom:latitude":52.740895,
     "geom:longitude":22.848831,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.700588,
     "lbl:longitude":22.848839,
     "mps:latitude":52.700588,
@@ -91,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201380305",
-        "eurostat:nuts_2021_id":"1006201380305"
+        "eurostat:nuts_2021_id":"1006201380305",
+        "pol-gus:code":"1006201380305"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864171
     ],
@@ -108,7 +119,7 @@
         }
     ],
     "wof:id":1477751811,
-    "wof:lastmodified":1684354377,
+    "wof:lastmodified":1695879320,
     "wof:name":"Gmina Bra\u0144sk",
     "wof:parent_id":102080071,
     "wof:placetype":"localadmin",

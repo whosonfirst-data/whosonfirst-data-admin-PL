@@ -22,6 +22,15 @@
     "geom:latitude":50.62839,
     "geom:longitude":17.809593,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.624925,
     "lbl:longitude":17.809612,
     "mps:latitude":50.624925,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161320904",
-        "eurostat:nuts_2021_id":"1003161320904"
+        "eurostat:nuts_2021_id":"1003161320904",
+        "pol-gus:code":"1003161320904"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101841753
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477751629,
-    "wof:lastmodified":1684354367,
+    "wof:lastmodified":1695879310,
     "wof:name":"Komprachcice",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",

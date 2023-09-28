@@ -22,6 +22,15 @@
     "geom:latitude":51.817679,
     "geom:longitude":16.29099,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.824246,
     "lbl:longitude":16.288598,
     "mps:latitude":51.824246,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002081141203",
-        "eurostat:nuts_2021_id":"1002081141203"
+        "eurostat:nuts_2021_id":"1002081141203",
+        "pol-gus:code":"1002081141203"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"37ba62fedd47bfa871c9b663f9c75372",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752989,
-    "wof:lastmodified":1684354440,
+    "wof:lastmodified":1695879386,
     "wof:name":"Gmina Wschowa",
     "wof:parent_id":102079817,
     "wof:placetype":"localadmin",

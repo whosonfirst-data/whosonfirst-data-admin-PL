@@ -23,6 +23,15 @@
     "geom:longitude":17.218863,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.258369,
     "lbl:longitude":17.193431,
     "lbl:max_zoom":18.0,
@@ -89,8 +98,10 @@
         "eg:gisco_id":"PL_1003021042005",
         "eurostat:nuts_2021_id":"1003021042005",
         "gp:id":12618476,
+        "pol-gus:code":"1003021042005",
         "qs_pg:id":1160701
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125850593
     ],
@@ -110,7 +121,7 @@
         }
     ],
     "wof:id":1125358943,
-    "wof:lastmodified":1684354265,
+    "wof:lastmodified":1695879195,
     "wof:name":"Zawonia",
     "wof:parent_id":102079733,
     "wof:placetype":"localadmin",

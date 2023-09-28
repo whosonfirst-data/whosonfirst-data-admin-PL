@@ -22,6 +22,15 @@
     "geom:latitude":52.648774,
     "geom:longitude":19.506617,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.645459,
     "lbl:longitude":19.49714,
     "mps:latitude":52.645459,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142701903",
-        "eurostat:nuts_2021_id":"1007142701903"
+        "eurostat:nuts_2021_id":"1007142701903",
+        "pol-gus:code":"1007142701903"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125899169
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752661,
-    "wof:lastmodified":1684354421,
+    "wof:lastmodified":1695879367,
     "wof:name":"Brudze\u0144 Du\u017cy",
     "wof:parent_id":102080003,
     "wof:placetype":"localadmin",

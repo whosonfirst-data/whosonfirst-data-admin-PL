@@ -22,6 +22,15 @@
     "geom:latitude":52.076813,
     "geom:longitude":16.677573,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.035835,
     "lbl:longitude":16.735554,
     "mps:latitude":52.035835,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301591103",
-        "eurostat:nuts_2021_id":"1002301591103"
+        "eurostat:nuts_2021_id":"1002301591103",
+        "pol-gus:code":"1002301591103"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"190ab04f8f9f52c2febddf246ef401e5",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752735,
-    "wof:lastmodified":1684354426,
+    "wof:lastmodified":1695879372,
     "wof:name":"Gmina Ko\u015bcian",
     "wof:parent_id":102079871,
     "wof:placetype":"localadmin",

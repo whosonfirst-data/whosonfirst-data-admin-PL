@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":750,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.16212,
     "lbl:longitude":16.61171,
     "lbl:max_zoom":17.0,
@@ -107,8 +116,10 @@
         "eurostat:nuts_2021_id":"1002301601906",
         "gn:id":3083576,
         "gp:id":12617959,
+        "pol-gus:code":"1002301601906",
         "qs_pg:id":396947
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864565
     ],
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1125399547,
-    "wof:lastmodified":1684354322,
+    "wof:lastmodified":1695879263,
     "wof:name":"Szyd\u0142owo",
     "wof:parent_id":102080065,
     "wof:placetype":"localadmin",

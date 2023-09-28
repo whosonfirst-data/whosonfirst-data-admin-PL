@@ -22,6 +22,15 @@
     "geom:latitude":51.60994,
     "geom:longitude":15.736478,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.599369,
     "lbl:longitude":15.726544,
     "mps:latitude":51.599369,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002081141006",
-        "eurostat:nuts_2021_id":"1002081141006"
+        "eurostat:nuts_2021_id":"1002081141006",
+        "pol-gus:code":"1002081141006"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126004503
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477752629,
-    "wof:lastmodified":1684354420,
+    "wof:lastmodified":1695879366,
     "wof:name":"Niegos\u0142awice",
     "wof:parent_id":102079759,
     "wof:placetype":"localadmin",

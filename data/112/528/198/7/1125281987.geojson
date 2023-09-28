@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":15784,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.11879,
     "lbl:longitude":20.67155,
     "lbl:max_zoom":15.0,
@@ -167,8 +176,10 @@
         "eurostat:nuts_2021_id":"1007141300501",
         "gn:id":764749,
         "gp:id":12618864,
+        "pol-gus:code":"1007141300501",
         "qs_pg:id":129302
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101841845
     ],
@@ -188,7 +199,7 @@
         }
     ],
     "wof:id":1125281987,
-    "wof:lastmodified":1684354149,
+    "wof:lastmodified":1695878967,
     "wof:name":"Milan\u00f3wek",
     "wof:parent_id":102079909,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.731779,
     "geom:longitude":22.398281,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.737744,
     "lbl:longitude":22.39954,
     "mps:latitude":52.737744,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142261603",
-        "eurostat:nuts_2021_id":"1007142261603"
+        "eurostat:nuts_2021_id":"1007142261603",
+        "pol-gus:code":"1007142261603"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125954417
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752621,
-    "wof:lastmodified":1684354419,
+    "wof:lastmodified":1695879365,
     "wof:name":"Boguty-Pianki",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",

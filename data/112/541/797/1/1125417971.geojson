@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4363,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.62518,
     "lbl:longitude":19.36357,
     "lbl:max_zoom":15.0,
@@ -167,8 +176,10 @@
         "eurostat:nuts_2021_id":"1001241460905",
         "gn:id":3080674,
         "gp:id":24548713,
+        "pol-gus:code":"1001241460905",
         "qs_pg:id":1189942
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497051680,
     "wof:geom_alt":[
@@ -185,7 +196,7 @@
         }
     ],
     "wof:id":1125417971,
-    "wof:lastmodified":1684354340,
+    "wof:lastmodified":1695879282,
     "wof:name":"Gmina \u017barki",
     "wof:parent_id":102079605,
     "wof:placetype":"localadmin",

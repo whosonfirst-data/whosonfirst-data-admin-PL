@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3500,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.54573,
     "lbl:longitude":18.37807,
     "lbl:max_zoom":15.0,
@@ -99,8 +108,10 @@
         "eurostat:nuts_2021_id":"1003161321102",
         "gn:id":3097233,
         "gp:id":24548348,
+        "pol-gus:code":"1003161321102",
         "qs_pg:id":1013108
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823629
     ],
@@ -120,7 +131,7 @@
         }
     ],
     "wof:id":1125383115,
-    "wof:lastmodified":1684354300,
+    "wof:lastmodified":1695879239,
     "wof:name":"Jemielnica",
     "wof:parent_id":102079587,
     "wof:placetype":"localadmin",

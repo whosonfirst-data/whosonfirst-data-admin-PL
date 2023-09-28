@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":678,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.52065,
     "lbl:longitude":23.09215,
     "lbl:max_zoom":17.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1006061091307",
         "gn:id":758548,
         "gp:id":12617883,
+        "pol-gus:code":"1006061091307",
         "qs_pg:id":1093977
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865739
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125285193,
-    "wof:lastmodified":1684354157,
+    "wof:lastmodified":1695878975,
     "wof:name":"Sosnowica",
     "wof:parent_id":102079885,
     "wof:placetype":"localadmin",

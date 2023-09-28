@@ -22,6 +22,15 @@
     "geom:latitude":51.857987,
     "geom:longitude":16.810871,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.854488,
     "lbl:longitude":16.804316,
     "mps:latitude":51.854488,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301591301",
-        "eurostat:nuts_2021_id":"1002301591301"
+        "eurostat:nuts_2021_id":"1002301591301",
+        "pol-gus:code":"1002301591301"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821549
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1125288787,
-    "wof:lastmodified":1684354164,
+    "wof:lastmodified":1695878982,
     "wof:name":"Krzemieniewo",
     "wof:parent_id":102079821,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":15315,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.33413,
     "lbl:longitude":20.88602,
     "lbl:max_zoom":15.0,
@@ -167,8 +176,10 @@
         "eurostat:nuts_2021_id":"1007141303205",
         "gn:id":766042,
         "gp:id":24548330,
+        "pol-gus:code":"1007141303205",
         "qs_pg:id":129317
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047857,
     "wof:geom_alt":[
@@ -185,7 +196,7 @@
         }
     ],
     "wof:id":1125377749,
-    "wof:lastmodified":1684354296,
+    "wof:lastmodified":1695879235,
     "wof:name":"Gmina \u0141omianki",
     "wof:parent_id":102079949,
     "wof:placetype":"localadmin",

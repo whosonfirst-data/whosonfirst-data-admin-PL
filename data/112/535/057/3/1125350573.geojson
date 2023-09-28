@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":921,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.89694,
     "lbl:longitude":20.03589,
     "lbl:max_zoom":17.0,
@@ -99,8 +108,10 @@
         "eurostat:nuts_2021_id":"1005101191503",
         "gn:id":771993,
         "gp:id":12618212,
+        "pol-gus:code":"1005101191503",
         "qs_pg:id":1148913
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865783
     ],
@@ -120,7 +131,7 @@
         }
     ],
     "wof:id":1125350573,
-    "wof:lastmodified":1684354257,
+    "wof:lastmodified":1695879180,
     "wof:name":"Godzian\u00f3w",
     "wof:parent_id":102079895,
     "wof:placetype":"localadmin",

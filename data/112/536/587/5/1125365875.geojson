@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.2331,
     "lbl:longitude":21.0614,
     "lbl:max_zoom":18.0,
@@ -95,8 +104,10 @@
         "eurostat:nuts_2021_id":"1007141286501",
         "gn:id":7531926,
         "gp:id":24548810,
+        "pol-gus:code":"1007141286501",
         "qs_pg:id":1175844
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101752777
     ],
@@ -116,7 +127,7 @@
         }
     ],
     "wof:id":1125365875,
-    "wof:lastmodified":1684354274,
+    "wof:lastmodified":1695879208,
     "wof:name":"Gmina Warszawa",
     "wof:parent_id":1477743805,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4702,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.06089,
     "lbl:longitude":18.93468,
     "lbl:max_zoom":15.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1001241511002",
         "gn:id":3095958,
         "gp:id":12618824,
+        "pol-gus:code":"1001241511002",
         "qs_pg:id":1180722
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101826183
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125366873,
-    "wof:lastmodified":1684354277,
+    "wof:lastmodified":1695879212,
     "wof:name":"Kobi\u00f3r",
     "wof:parent_id":102079457,
     "wof:placetype":"localadmin",

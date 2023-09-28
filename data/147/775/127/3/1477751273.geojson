@@ -22,6 +22,15 @@
     "geom:latitude":50.497001,
     "geom:longitude":19.842948,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.496642,
     "lbl:longitude":19.841151,
     "mps:latitude":50.496642,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241501610",
-        "eurostat:nuts_2021_id":"1001241501610"
+        "eurostat:nuts_2021_id":"1001241501610",
+        "pol-gus:code":"1001241501610"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126020929
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477751273,
-    "wof:lastmodified":1684354350,
+    "wof:lastmodified":1695879291,
     "wof:name":"\u017barnowiec",
     "wof:parent_id":102079613,
     "wof:placetype":"localadmin",

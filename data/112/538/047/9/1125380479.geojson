@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2619,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.88757,
     "lbl:longitude":21.39105,
     "lbl:max_zoom":15.0,
@@ -164,8 +173,10 @@
         "eurostat:nuts_2021_id":"1007142261107",
         "gn:id":760255,
         "gp:id":24548329,
+        "pol-gus:code":"1007142261107",
         "qs_pg:id":994286
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497048016,
     "wof:geom_alt":[
@@ -182,7 +193,7 @@
         }
     ],
     "wof:id":1125380479,
-    "wof:lastmodified":1684354298,
+    "wof:lastmodified":1695879238,
     "wof:name":"Gmina R\u00f3\u017can",
     "wof:parent_id":102080077,
     "wof:placetype":"localadmin",

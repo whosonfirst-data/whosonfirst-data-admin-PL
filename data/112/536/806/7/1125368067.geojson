@@ -23,6 +23,15 @@
     "geom:longitude":18.324895,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.316699,
     "lbl:longitude":18.35545,
     "lbl:max_zoom":18.0,
@@ -116,8 +125,10 @@
         "eg:gisco_id":"PL_1002301581012",
         "eurostat:nuts_2021_id":"1002301581012",
         "gp:id":24547909,
+        "pol-gus:code":"1002301581012",
         "qs_pg:id":1181948
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047207,
     "wof:geom_alt":[
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1125368067,
-    "wof:lastmodified":1684354278,
+    "wof:lastmodified":1695879213,
     "wof:name":"Gmina \u015alesin",
     "wof:parent_id":102079943,
     "wof:placetype":"localadmin",

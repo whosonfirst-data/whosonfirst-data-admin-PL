@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2100,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.44691,
     "lbl:longitude":16.40602,
     "lbl:max_zoom":15.0,
@@ -113,8 +122,10 @@
         "eurostat:nuts_2021_id":"1002301612402",
         "gn:id":3099993,
         "gp:id":12618206,
+        "pol-gus:code":"1002301612402",
         "qs_pg:id":332085
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820387
     ],
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1125371013,
-    "wof:lastmodified":1684354282,
+    "wof:lastmodified":1695879219,
     "wof:name":"Duszniki",
     "wof:parent_id":102079963,
     "wof:placetype":"localadmin",

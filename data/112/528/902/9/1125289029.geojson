@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":747,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.12142,
     "lbl:longitude":23.29514,
     "lbl:max_zoom":17.0,
@@ -103,8 +112,10 @@
         "eurostat:nuts_2021_id":"1006061090112",
         "gn:id":760395,
         "gp:id":12617885,
+        "pol-gus:code":"1006061090112",
         "qs_pg:id":24077
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864645
     ],
@@ -124,7 +135,7 @@
         }
     ],
     "wof:id":1125289029,
-    "wof:lastmodified":1684354168,
+    "wof:lastmodified":1695878986,
     "wof:name":"Rokitno",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",

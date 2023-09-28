@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2671,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.88035,
     "lbl:longitude":20.46418,
     "lbl:max_zoom":15.0,
@@ -101,8 +110,10 @@
         "eurostat:nuts_2021_id":"1005261520414",
         "gn:id":762331,
         "gp:id":12618157,
+        "pol-gus:code":"1005261520414",
         "qs_pg:id":974834
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824069
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125371299,
-    "wof:lastmodified":1684354284,
+    "wof:lastmodified":1695879221,
     "wof:name":"Piekosz\u00f3w",
     "wof:parent_id":102079693,
     "wof:placetype":"localadmin",

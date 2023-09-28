@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1300,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.2466,
     "lbl:longitude":18.04865,
     "lbl:max_zoom":16.0,
@@ -118,8 +127,10 @@
         "eurostat:nuts_2021_id":"1003161320304",
         "gn:id":3089332,
         "gp:id":12618437,
+        "pol-gus:code":"1003161320304",
         "qs_pg:id":24214
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824851
     ],
@@ -139,7 +150,7 @@
         }
     ],
     "wof:id":1125324403,
-    "wof:lastmodified":1684354230,
+    "wof:lastmodified":1695879115,
     "wof:name":"Paw\u0142owiczki",
     "wof:parent_id":102079523,
     "wof:placetype":"localadmin",

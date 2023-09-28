@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":16014,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.98688,
     "lbl:longitude":20.39131,
     "lbl:max_zoom":15.0,
@@ -127,11 +136,13 @@
         "eurostat:nuts_2021_id":"1004281561403",
         "gn:id":6619359,
         "gp:id":24547915,
+        "pol-gus:code":"1004281561403",
         "qs_pg:id":643220
     },
     "wof:concordances_alt":{
         "qs_pg:id":395304
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044284,
     "wof:geom_alt":[
@@ -148,7 +159,7 @@
         }
     ],
     "wof:id":1125316151,
-    "wof:lastmodified":1684354220,
+    "wof:lastmodified":1695879072,
     "wof:name":"Gmina Dobre Miasto",
     "wof:parent_id":102080207,
     "wof:placetype":"localadmin",

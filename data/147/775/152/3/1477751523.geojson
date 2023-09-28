@@ -22,6 +22,15 @@
     "geom:latitude":49.684827,
     "geom:longitude":22.194309,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.691568,
     "lbl:longitude":22.19238,
     "mps:latitude":49.691568,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181330203",
-        "eurostat:nuts_2021_id":"1006181330203"
+        "eurostat:nuts_2021_id":"1006181330203",
+        "pol-gus:code":"1006181330203"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101848013
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751523,
-    "wof:lastmodified":1684354362,
+    "wof:lastmodified":1695879304,
     "wof:name":"Dydnia",
     "wof:parent_id":102079461,
     "wof:placetype":"localadmin",

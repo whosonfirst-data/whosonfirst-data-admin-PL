@@ -22,6 +22,15 @@
     "geom:latitude":52.341707,
     "geom:longitude":20.325632,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.338489,
     "lbl:longitude":20.325579,
     "mps:latitude":52.338489,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142732802",
-        "eurostat:nuts_2021_id":"1007142732802"
+        "eurostat:nuts_2021_id":"1007142732802",
+        "pol-gus:code":"1007142732802"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864321
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125302089,
-    "wof:lastmodified":1684354194,
+    "wof:lastmodified":1695879018,
     "wof:name":"Broch\u00f3w",
     "wof:parent_id":102079945,
     "wof:placetype":"localadmin",

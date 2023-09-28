@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4278,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.95945,
     "lbl:longitude":21.53089,
     "lbl:max_zoom":15.0,
@@ -161,8 +170,10 @@
         "eurostat:nuts_2021_id":"1007142710310",
         "gn:id":762223,
         "gp:id":24548325,
+        "pol-gus:code":"1007142710310",
         "qs_pg:id":1059805
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042227,
     "wof:geom_alt":[
@@ -179,7 +190,7 @@
         }
     ],
     "wof:id":1125273547,
-    "wof:lastmodified":1684354142,
+    "wof:lastmodified":1695878959,
     "wof:name":"Gmina Pilawa",
     "wof:parent_id":102079901,
     "wof:placetype":"localadmin",

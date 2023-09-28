@@ -22,6 +22,15 @@
     "geom:latitude":54.1339,
     "geom:longitude":16.022559,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.138218,
     "lbl:longitude":16.030297,
     "mps:latitude":54.138218,
@@ -73,8 +82,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321630902",
-        "eurostat:nuts_2021_id":"1002321630902"
+        "eurostat:nuts_2021_id":"1002321630902",
+        "pol-gus:code":"1002321630902"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125791057
     ],
@@ -90,7 +101,7 @@
         }
     ],
     "wof:id":1477751289,
-    "wof:lastmodified":1684354350,
+    "wof:lastmodified":1695879292,
     "wof:name":"Biesiekierz",
     "wof:parent_id":102080199,
     "wof:placetype":"localadmin",

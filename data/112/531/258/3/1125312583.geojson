@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":697,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.34128,
     "lbl:longitude":22.75354,
     "lbl:max_zoom":17.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1006061111006",
         "gn:id":758517,
         "gp:id":12618367,
+        "pol-gus:code":"1006061111006",
         "qs_pg:id":264430
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865423
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125312583,
-    "wof:lastmodified":1684354217,
+    "wof:lastmodified":1695879067,
     "wof:name":"Spiczyn",
     "wof:parent_id":102079815,
     "wof:placetype":"localadmin",

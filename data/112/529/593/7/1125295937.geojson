@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":5860,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.71724,
     "lbl:longitude":19.03183,
     "lbl:max_zoom":15.0,
@@ -167,12 +176,14 @@
         "eurostat:nuts_2021_id":"1001241440201",
         "gn:id":3083752,
         "gp:id":12618501,
+        "pol-gus:code":"1001241440201",
         "qs_pg:id":145555
     },
     "wof:concordances_alt":{
         "gn:id":7532564,
         "qs_pg:id":1063778
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101826155
     ],
@@ -192,7 +203,7 @@
         }
     ],
     "wof:id":1125295937,
-    "wof:lastmodified":1684354186,
+    "wof:lastmodified":1695879008,
     "wof:name":"Szczyrk",
     "wof:parent_id":102079427,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4038,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.87623,
     "lbl:longitude":16.07205,
     "lbl:max_zoom":15.0,
@@ -158,8 +167,10 @@
         "eurostat:nuts_2021_id":"1002081141201",
         "gn:id":3085637,
         "gp:id":24547415,
+        "pol-gus:code":"1002081141201",
         "qs_pg:id":962335
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042551,
     "wof:geom_alt":[
@@ -176,7 +187,7 @@
         }
     ],
     "wof:id":1125282343,
-    "wof:lastmodified":1684354150,
+    "wof:lastmodified":1695878968,
     "wof:name":"Gmina S\u0142awa",
     "wof:parent_id":102079817,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":600,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.85261,
     "lbl:longitude":21.36884,
     "lbl:max_zoom":17.0,
@@ -108,8 +117,10 @@
         "eurostat:nuts_2021_id":"1005261530606",
         "gn:id":759680,
         "gp:id":12617704,
+        "pol-gus:code":"1005261530606",
         "qs_pg:id":1166285
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863745
     ],
@@ -129,7 +140,7 @@
         }
     ],
     "wof:id":1125362963,
-    "wof:lastmodified":1684354268,
+    "wof:lastmodified":1695879199,
     "wof:name":"Sadowie",
     "wof:parent_id":102079709,
     "wof:placetype":"localadmin",

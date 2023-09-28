@@ -22,6 +22,15 @@
     "geom:latitude":53.440462,
     "geom:longitude":16.163166,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.438893,
     "lbl:longitude":16.16609,
     "mps:latitude":53.438893,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321640305",
-        "eurostat:nuts_2021_id":"1002321640305"
+        "eurostat:nuts_2021_id":"1002321640305",
+        "pol-gus:code":"1002321640305"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820587
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477751689,
-    "wof:lastmodified":1684354370,
+    "wof:lastmodified":1695879314,
     "wof:name":"Wierzchowo",
     "wof:parent_id":102080113,
     "wof:placetype":"localadmin",

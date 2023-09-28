@@ -22,6 +22,15 @@
     "geom:latitude":53.000323,
     "geom:longitude":19.770772,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.998101,
     "lbl:longitude":19.772363,
     "mps:latitude":52.998101,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142253704",
-        "eurostat:nuts_2021_id":"1007142253704"
+        "eurostat:nuts_2021_id":"1007142253704",
+        "pol-gus:code":"1007142253704"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126027663
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477753013,
-    "wof:lastmodified":1684354441,
+    "wof:lastmodified":1695879387,
     "wof:name":"Lutocin",
     "wof:parent_id":102080069,
     "wof:placetype":"localadmin",

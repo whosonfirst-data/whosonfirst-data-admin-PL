@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":5140,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.30701,
     "lbl:longitude":17.81811,
     "lbl:max_zoom":15.0,
@@ -93,8 +102,10 @@
         "eurostat:nuts_2021_id":"1002301582307",
         "gn:id":3084449,
         "gp:id":12617012,
+        "pol-gus:code":"1002301582307",
         "qs_pg:id":202612
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820283
     ],
@@ -114,7 +125,7 @@
         }
     ],
     "wof:id":1125306275,
-    "wof:lastmodified":1684354209,
+    "wof:lastmodified":1695879037,
     "wof:name":"Strza\u0142kowo",
     "wof:parent_id":102079941,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.581573,
     "geom:longitude":21.205531,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.588103,
     "lbl:longitude":21.142356,
     "mps:latitude":50.588103,
@@ -91,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005261531207",
-        "eurostat:nuts_2021_id":"1005261531207"
+        "eurostat:nuts_2021_id":"1005261531207",
+        "pol-gus:code":"1005261531207"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"02fb0154a01139f088150c759eea0b42",
     "wof:hierarchy":[
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477752287,
-    "wof:lastmodified":1684354402,
+    "wof:lastmodified":1695879347,
     "wof:name":"Gmina Stasz\u00f3w",
     "wof:parent_id":102079635,
     "wof:placetype":"localadmin",

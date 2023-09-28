@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3300,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.33319,
     "lbl:longitude":19.10977,
     "lbl:max_zoom":15.0,
@@ -113,8 +122,10 @@
         "eurostat:nuts_2021_id":"1005101170107",
         "gn:id":3083788,
         "gp:id":12617329,
+        "pol-gus:code":"1005101170107",
         "qs_pg:id":145556
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125798703
     ],
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1125278569,
-    "wof:lastmodified":1684354146,
+    "wof:lastmodified":1695878964,
     "wof:name":"Szczerc\u00f3w",
     "wof:parent_id":102079763,
     "wof:placetype":"localadmin",

@@ -23,6 +23,15 @@
     "geom:longitude":16.06546,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.015466,
     "lbl:longitude":16.101013,
     "lbl:max_zoom":18.0,
@@ -92,8 +101,10 @@
         "eg:gisco_id":"PL_1003021010503",
         "eurostat:nuts_2021_id":"1003021010503",
         "gp:id":12618083,
+        "pol-gus:code":"1003021010503",
         "qs_pg:id":1019225
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126009633
     ],
@@ -113,7 +124,7 @@
         }
     ],
     "wof:id":1125383215,
-    "wof:lastmodified":1684354300,
+    "wof:lastmodified":1695879239,
     "wof:name":"M\u0119cinka",
     "wof:parent_id":102079645,
     "wof:placetype":"localadmin",

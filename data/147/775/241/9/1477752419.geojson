@@ -22,6 +22,15 @@
     "geom:latitude":53.827163,
     "geom:longitude":18.370405,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.825154,
     "lbl:longitude":18.37233,
     "mps:latitude":53.825154,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221421306",
-        "eurostat:nuts_2021_id":"1004221421306"
+        "eurostat:nuts_2021_id":"1004221421306",
+        "pol-gus:code":"1004221421306"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101817611
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752419,
-    "wof:lastmodified":1684354409,
+    "wof:lastmodified":1695879354,
     "wof:name":"Lubichowo",
     "wof:parent_id":102080183,
     "wof:placetype":"localadmin",

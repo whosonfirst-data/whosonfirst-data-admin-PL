@@ -23,6 +23,15 @@
     "geom:longitude":19.955063,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.694978,
     "lbl:longitude":19.991555,
     "lbl:max_zoom":18.0,
@@ -194,8 +203,10 @@
         "eg:gisco_id":"PL_1004281541509",
         "eurostat:nuts_2021_id":"1004281541509",
         "gp:id":24547687,
+        "pol-gus:code":"1004281541509",
         "qs_pg:id":32528
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497049257,
     "wof:geom_alt":[
@@ -212,7 +223,7 @@
         }
     ],
     "wof:id":1125399955,
-    "wof:lastmodified":1684354323,
+    "wof:lastmodified":1695879264,
     "wof:name":"Gmina Ostr\u00f3da",
     "wof:parent_id":102080197,
     "wof:placetype":"localadmin",

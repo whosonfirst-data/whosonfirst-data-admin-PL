@@ -23,6 +23,15 @@
     "geom:longitude":16.434369,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.454443,
     "lbl:longitude":16.413059,
     "lbl:max_zoom":18.0,
@@ -113,8 +122,10 @@
         "eg:gisco_id":"PL_1003021030814",
         "eurostat:nuts_2021_id":"1003021030814",
         "gp:id":24547390,
+        "pol-gus:code":"1003021030814",
         "qs_pg:id":1311233
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045390,
     "wof:geom_alt":[
@@ -131,7 +142,7 @@
         }
     ],
     "wof:id":1125335593,
-    "wof:lastmodified":1684354244,
+    "wof:lastmodified":1695879147,
     "wof:name":"Gmina Szczytna",
     "wof:parent_id":102079559,
     "wof:placetype":"localadmin",

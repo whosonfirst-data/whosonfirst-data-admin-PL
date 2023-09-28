@@ -22,6 +22,15 @@
     "geom:latitude":50.591877,
     "geom:longitude":17.699805,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.60426,
     "lbl:longitude":17.724593,
     "mps:latitude":50.60426,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161320912",
-        "eurostat:nuts_2021_id":"1003161320912"
+        "eurostat:nuts_2021_id":"1003161320912",
+        "pol-gus:code":"1003161320912"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"975b8df1db70776f7e30cf5ef9e75349",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1125290593,
-    "wof:lastmodified":1684354176,
+    "wof:lastmodified":1695878993,
     "wof:name":"Gmina Tu\u0142owice",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",

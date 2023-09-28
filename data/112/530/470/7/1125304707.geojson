@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":357,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.05713,
     "lbl:longitude":19.31997,
     "lbl:max_zoom":17.0,
@@ -99,8 +108,10 @@
         "eurostat:nuts_2021_id":"1005101190403",
         "gn:id":3098871,
         "gp:id":12617150,
+        "pol-gus:code":"1005101190403",
         "qs_pg:id":201366
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865447
     ],
@@ -120,7 +131,7 @@
         }
     ],
     "wof:id":1125304707,
-    "wof:lastmodified":1684354204,
+    "wof:lastmodified":1695879030,
     "wof:name":"G\u00f3ra \u015awi\u0119tej Ma\u0142gorzaty",
     "wof:parent_id":102079891,
     "wof:placetype":"localadmin",

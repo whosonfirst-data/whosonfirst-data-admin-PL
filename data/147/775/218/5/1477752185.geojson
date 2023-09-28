@@ -22,6 +22,15 @@
     "geom:latitude":51.049375,
     "geom:longitude":16.453157,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.044507,
     "lbl:longitude":16.460806,
     "mps:latitude":51.044507,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021041805",
-        "eurostat:nuts_2021_id":"1003021041805"
+        "eurostat:nuts_2021_id":"1003021041805",
+        "pol-gus:code":"1003021041805"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1242810335
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752185,
-    "wof:lastmodified":1684354397,
+    "wof:lastmodified":1695879342,
     "wof:name":"Udanin",
     "wof:parent_id":102079675,
     "wof:placetype":"localadmin",

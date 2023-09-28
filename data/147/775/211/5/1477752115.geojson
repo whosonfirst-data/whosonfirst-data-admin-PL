@@ -22,6 +22,15 @@
     "geom:latitude":50.642485,
     "geom:longitude":23.910827,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.637084,
     "lbl:longitude":23.894025,
     "mps:latitude":50.637084,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061100405",
-        "eurostat:nuts_2021_id":"1006061100405"
+        "eurostat:nuts_2021_id":"1006061100405",
+        "pol-gus:code":"1006061100405"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824025
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752115,
-    "wof:lastmodified":1684354393,
+    "wof:lastmodified":1695879337,
     "wof:name":"Mircze",
     "wof:parent_id":102079743,
     "wof:placetype":"localadmin",

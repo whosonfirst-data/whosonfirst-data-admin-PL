@@ -22,6 +22,15 @@
     "geom:latitude":51.992321,
     "geom:longitude":17.086293,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.995349,
     "lbl:longitude":17.094874,
     "mps:latitude":51.995349,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301612602",
-        "eurostat:nuts_2021_id":"1002301612602"
+        "eurostat:nuts_2021_id":"1002301612602",
+        "pol-gus:code":"1002301612602"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"24c57eed85fae51fa0c02a6c43789f74",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477752445,
-    "wof:lastmodified":1684354410,
+    "wof:lastmodified":1695879356,
     "wof:name":"Gmina Dolsk",
     "wof:parent_id":102079865,
     "wof:placetype":"localadmin",

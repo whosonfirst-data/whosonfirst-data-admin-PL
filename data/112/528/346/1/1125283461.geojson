@@ -23,6 +23,15 @@
     "geom:longitude":15.561893,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.89724,
     "lbl:longitude":15.665296,
     "lbl:max_zoom":18.0,
@@ -98,8 +107,10 @@
         "eg:gisco_id":"PL_1003021010609",
         "eurostat:nuts_2021_id":"1003021010609",
         "gp:id":12617209,
+        "pol-gus:code":"1003021010609",
         "qs_pg:id":774673
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823753
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125283461,
-    "wof:lastmodified":1684354154,
+    "wof:lastmodified":1695878972,
     "wof:name":"Stara Kamienica",
     "wof:parent_id":102079617,
     "wof:placetype":"localadmin",

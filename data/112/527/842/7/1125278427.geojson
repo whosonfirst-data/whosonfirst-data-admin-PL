@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3926,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.6144,
     "lbl:longitude":20.75206,
     "lbl:max_zoom":15.0,
@@ -146,8 +155,10 @@
         "eurostat:nuts_2021_id":"1005261520404",
         "gn:id":774504,
         "gp:id":24548339,
+        "pol-gus:code":"1005261520404",
         "qs_pg:id":129350
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042411,
     "wof:geom_alt":[
@@ -164,7 +175,7 @@
         }
     ],
     "wof:id":1125278427,
-    "wof:lastmodified":1684354145,
+    "wof:lastmodified":1695878963,
     "wof:name":"Gmina Chmielnik",
     "wof:parent_id":102079693,
     "wof:placetype":"localadmin",

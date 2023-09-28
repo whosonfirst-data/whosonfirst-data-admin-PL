@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2700,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.26444,
     "lbl:longitude":23.77304,
     "lbl:max_zoom":15.0,
@@ -179,8 +188,10 @@
         "eurostat:nuts_2021_id":"1006201371104",
         "gn:id":767357,
         "gp:id":12617507,
+        "pol-gus:code":"1006201371104",
         "qs_pg:id":225669
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497049117,
     "wof:geom_alt":[
@@ -197,7 +208,7 @@
         }
     ],
     "wof:id":1125397715,
-    "wof:lastmodified":1684354319,
+    "wof:lastmodified":1695879260,
     "wof:name":"Gmina Krynki",
     "wof:parent_id":102080189,
     "wof:placetype":"localadmin",

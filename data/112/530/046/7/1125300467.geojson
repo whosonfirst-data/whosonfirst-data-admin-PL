@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.48233,
     "lbl:longitude":18.75538,
     "lbl:max_zoom":18.0,
@@ -248,8 +257,10 @@
         "eurostat:nuts_2021_id":"1004041076201",
         "gn:id":7532955,
         "gp:id":12617532,
+        "pol-gus:code":"1004041076201",
         "qs_pg:id":487629
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043392,
     "wof:geom_alt":[
@@ -266,7 +277,7 @@
         }
     ],
     "wof:id":1125300467,
-    "wof:lastmodified":1684354191,
+    "wof:lastmodified":1695879015,
     "wof:name":"Gmina Grudzi\u0105dz",
     "wof:parent_id":102080105,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":49.812979,
     "geom:longitude":19.038902,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.811582,
     "lbl:longitude":19.045244,
     "mps:latitude":49.811582,
@@ -217,8 +226,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241446101",
-        "eurostat:nuts_2021_id":"1001241446101"
+        "eurostat:nuts_2021_id":"1001241446101",
+        "pol-gus:code":"1001241446101"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101752105,
         102079417
@@ -235,7 +246,7 @@
         }
     ],
     "wof:id":1477752645,
-    "wof:lastmodified":1684354420,
+    "wof:lastmodified":1695879367,
     "wof:name":"Bielsko-Bia\u0142a",
     "wof:parent_id":102079417,
     "wof:placetype":"localadmin",

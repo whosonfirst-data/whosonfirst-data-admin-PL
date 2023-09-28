@@ -22,6 +22,15 @@
     "geom:latitude":52.453152,
     "geom:longitude":20.094831,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.465262,
     "lbl:longitude":20.114457,
     "mps:latitude":52.465262,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142701908",
-        "eurostat:nuts_2021_id":"1007142701908"
+        "eurostat:nuts_2021_id":"1007142701908",
+        "pol-gus:code":"1007142701908"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125790351
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752211,
-    "wof:lastmodified":1684354398,
+    "wof:lastmodified":1695879343,
     "wof:name":"Ma\u0142a Wie\u015b",
     "wof:parent_id":102080003,
     "wof:placetype":"localadmin",

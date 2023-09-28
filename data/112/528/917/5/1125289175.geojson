@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":774,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.27625,
     "lbl:longitude":17.8097,
     "lbl:max_zoom":17.0,
@@ -100,8 +109,10 @@
         "eurostat:nuts_2021_id":"1002301570805",
         "gn:id":3089267,
         "gp:id":12618173,
+        "pol-gus:code":"1002301570805",
         "qs_pg:id":24139
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863583
     ],
@@ -121,7 +132,7 @@
         }
     ],
     "wof:id":1125289175,
-    "wof:lastmodified":1684354170,
+    "wof:lastmodified":1695878987,
     "wof:name":"Perz\u00f3w",
     "wof:parent_id":102079713,
     "wof:placetype":"localadmin",

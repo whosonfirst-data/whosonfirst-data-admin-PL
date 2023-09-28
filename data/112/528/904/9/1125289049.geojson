@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":630,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.0404,
     "lbl:longitude":21.95575,
     "lbl:max_zoom":17.0,
@@ -106,8 +115,10 @@
         "eurostat:nuts_2021_id":"1007142712612",
         "gn:id":755442,
         "gp:id":12617964,
+        "pol-gus:code":"1007142712612",
         "qs_pg:id":24090
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863383
     ],
@@ -127,7 +138,7 @@
         }
     ],
     "wof:id":1125289049,
-    "wof:lastmodified":1684354168,
+    "wof:lastmodified":1695878986,
     "wof:name":"Wodynie",
     "wof:parent_id":102079979,
     "wof:placetype":"localadmin",

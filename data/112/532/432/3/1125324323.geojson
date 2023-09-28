@@ -22,6 +22,15 @@
     "geom:latitude":51.710527,
     "geom:longitude":20.55232,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.706434,
     "lbl:longitude":20.550212,
     "mps:latitude":51.706434,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101191306",
-        "eurostat:nuts_2021_id":"1005101191306"
+        "eurostat:nuts_2021_id":"1005101191306",
+        "pol-gus:code":"1005101191306"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865459
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125324323,
-    "wof:lastmodified":1684354229,
+    "wof:lastmodified":1695879106,
     "wof:name":"Sadkowice",
     "wof:parent_id":102079849,
     "wof:placetype":"localadmin",

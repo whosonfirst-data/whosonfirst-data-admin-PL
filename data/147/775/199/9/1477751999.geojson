@@ -22,6 +22,15 @@
     "geom:latitude":49.921497,
     "geom:longitude":22.57471,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.954462,
     "lbl:longitude":22.597532,
     "mps:latitude":49.954462,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181340410",
-        "eurostat:nuts_2021_id":"1006181340410"
+        "eurostat:nuts_2021_id":"1006181340410",
+        "pol-gus:code":"1006181340410"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126006433
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477751999,
-    "wof:lastmodified":1684354386,
+    "wof:lastmodified":1695879331,
     "wof:name":"Ro\u017awienica",
     "wof:parent_id":102079573,
     "wof:placetype":"localadmin",

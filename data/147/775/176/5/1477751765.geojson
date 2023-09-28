@@ -22,6 +22,15 @@
     "geom:latitude":50.906952,
     "geom:longitude":17.147829,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.907696,
     "lbl:longitude":17.149046,
     "mps:latitude":50.907696,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021041502",
-        "eurostat:nuts_2021_id":"1003021041502"
+        "eurostat:nuts_2021_id":"1003021041502",
+        "pol-gus:code":"1003021041502"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125939949
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477751765,
-    "wof:lastmodified":1684354374,
+    "wof:lastmodified":1695879318,
     "wof:name":"Domani\u00f3w",
     "wof:parent_id":102079651,
     "wof:placetype":"localadmin",

@@ -23,6 +23,15 @@
     "geom:longitude":17.101821,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.307655,
     "lbl:longitude":17.058709,
     "lbl:max_zoom":18.0,
@@ -173,8 +182,10 @@
         "eg:gisco_id":"PL_1003021042003",
         "eurostat:nuts_2021_id":"1003021042003",
         "gp:id":24547813,
+        "pol-gus:code":"1003021042003",
         "qs_pg:id":1263371
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044789,
     "wof:geom_alt":[
@@ -191,7 +202,7 @@
         }
     ],
     "wof:id":1125325551,
-    "wof:lastmodified":1684354233,
+    "wof:lastmodified":1695879122,
     "wof:name":"Gmina Trzebnica",
     "wof:parent_id":102079733,
     "wof:placetype":"localadmin",

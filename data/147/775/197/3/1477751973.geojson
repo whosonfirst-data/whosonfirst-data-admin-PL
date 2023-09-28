@@ -22,6 +22,15 @@
     "geom:latitude":53.77928,
     "geom:longitude":15.749086,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.777476,
     "lbl:longitude":15.677397,
     "mps:latitude":53.777476,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321641606",
-        "eurostat:nuts_2021_id":"1002321641606"
+        "eurostat:nuts_2021_id":"1002321641606",
+        "pol-gus:code":"1002321641606"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864651
     ],
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751973,
-    "wof:lastmodified":1684354385,
+    "wof:lastmodified":1695879329,
     "wof:name":"Gmina \u015awidwin",
     "wof:parent_id":102080147,
     "wof:placetype":"localadmin",

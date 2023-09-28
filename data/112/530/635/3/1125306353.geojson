@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":23290,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.18435,
     "lbl:longitude":20.83952,
     "lbl:max_zoom":14.0,
@@ -156,8 +165,10 @@
         "eurostat:nuts_2021_id":"1007141302101",
         "gn:id":762381,
         "gp:id":12618880,
+        "pol-gus:code":"1007141302101",
         "qs_pg:id":202671
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101756645
     ],
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":1125306353,
-    "wof:lastmodified":1684354209,
+    "wof:lastmodified":1695879038,
     "wof:name":"Piast\u00f3w",
     "wof:parent_id":102079919,
     "wof:placetype":"localadmin",

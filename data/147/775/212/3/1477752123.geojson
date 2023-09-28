@@ -22,6 +22,15 @@
     "geom:latitude":50.192653,
     "geom:longitude":21.26706,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.191963,
     "lbl:longitude":21.294649,
     "mps:latitude":50.191963,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181361108",
-        "eurostat:nuts_2021_id":"1006181361108"
+        "eurostat:nuts_2021_id":"1006181361108",
+        "pol-gus:code":"1006181361108"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"2dab8c405a73fbb52dcabaac7f04a53d",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752123,
-    "wof:lastmodified":1684354393,
+    "wof:lastmodified":1695879338,
     "wof:name":"Gmina Radomy\u015bl Wielki",
     "wof:parent_id":102079597,
     "wof:placetype":"localadmin",

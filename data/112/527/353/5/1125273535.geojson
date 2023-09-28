@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":9440,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.19909,
     "lbl:longitude":23.20776,
     "lbl:max_zoom":15.0,
@@ -176,8 +185,10 @@
         "eurostat:nuts_2021_id":"1006201370213",
         "gn:id":756120,
         "gp:id":24548166,
+        "pol-gus:code":"1006201370213",
         "qs_pg:id":1059801
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042227,
     "wof:geom_alt":[
@@ -194,7 +205,7 @@
         }
     ],
     "wof:id":1125273535,
-    "wof:lastmodified":1684354142,
+    "wof:lastmodified":1695878959,
     "wof:name":"Gmina Wasilk\u00f3w",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",

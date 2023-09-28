@@ -22,6 +22,15 @@
     "geom:latitude":53.509132,
     "geom:longitude":18.1972,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.503817,
     "lbl:longitude":18.19857,
     "mps:latitude":53.503817,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041681405",
-        "eurostat:nuts_2021_id":"1004041681405"
+        "eurostat:nuts_2021_id":"1004041681405",
+        "pol-gus:code":"1004041681405"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819279
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752461,
-    "wof:lastmodified":1684354411,
+    "wof:lastmodified":1695879356,
     "wof:name":"Lniano",
     "wof:parent_id":102080137,
     "wof:placetype":"localadmin",

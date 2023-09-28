@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3231,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.80779,
     "lbl:longitude":20.47259,
     "lbl:max_zoom":15.0,
@@ -190,8 +199,10 @@
         "eurostat:nuts_2021_id":"1005101191302",
         "gn:id":776172,
         "gp:id":24548740,
+        "pol-gus:code":"1005101191302",
         "qs_pg:id":206300
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044007,
     "wof:geom_alt":[
@@ -208,7 +219,7 @@
         }
     ],
     "wof:id":1125311411,
-    "wof:lastmodified":1684354216,
+    "wof:lastmodified":1695879065,
     "wof:name":"Gmina Bia\u0142a Rawska",
     "wof:parent_id":102079849,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":51.171845,
     "geom:longitude":16.397811,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.170348,
     "lbl:longitude":16.39933,
     "mps:latitude":51.170348,
@@ -52,8 +61,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021020908",
-        "eurostat:nuts_2021_id":"1003021020908"
+        "eurostat:nuts_2021_id":"1003021020908",
+        "pol-gus:code":"1003021020908"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125892479
     ],
@@ -69,7 +80,7 @@
         }
     ],
     "wof:id":1477751451,
-    "wof:lastmodified":1684354358,
+    "wof:lastmodified":1695879300,
     "wof:name":"Ruja",
     "wof:parent_id":102079691,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.3069,
     "lbl:longitude":21.95,
     "lbl:max_zoom":18.0,
@@ -194,8 +203,10 @@
         "eurostat:nuts_2021_id":"1006061121404",
         "gn:id":7533442,
         "gp:id":24548405,
+        "pol-gus:code":"1006061121404",
         "qs_pg:id":59576
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045559,
     "wof:geom_alt":[
@@ -212,7 +223,7 @@
         }
     ],
     "wof:id":1125339125,
-    "wof:lastmodified":1684354246,
+    "wof:lastmodified":1695879153,
     "wof:name":"Gmina Kazimierz Dolny",
     "wof:parent_id":102079833,
     "wof:placetype":"localadmin",

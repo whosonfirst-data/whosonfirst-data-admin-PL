@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":816,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.09262,
     "lbl:longitude":17.57581,
     "lbl:max_zoom":17.0,
@@ -119,8 +128,10 @@
         "eurostat:nuts_2021_id":"1004221410108",
         "gn:id":3084334,
         "gp:id":12618822,
+        "pol-gus:code":"1004221410108",
         "qs_pg:id":223616
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864401
     ],
@@ -140,7 +151,7 @@
         }
     ],
     "wof:id":1125389319,
-    "wof:lastmodified":1684354308,
+    "wof:lastmodified":1695879248,
     "wof:name":"Studzienice",
     "wof:parent_id":102080217,
     "wof:placetype":"localadmin",

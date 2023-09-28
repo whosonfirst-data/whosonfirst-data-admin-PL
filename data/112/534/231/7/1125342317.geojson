@@ -23,6 +23,15 @@
     "geom:longitude":18.328822,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.197307,
     "lbl:longitude":18.325023,
     "lbl:max_zoom":18.0,
@@ -89,8 +98,10 @@
         "eg:gisco_id":"PL_1004221400405",
         "eurostat:nuts_2021_id":"1004221400405",
         "gp:id":12616799,
+        "pol-gus:code":"1004221400405",
         "qs_pg:id":1316400
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101817709
     ],
@@ -110,7 +121,7 @@
         }
     ],
     "wof:id":1125342317,
-    "wof:lastmodified":1684354251,
+    "wof:lastmodified":1695879160,
     "wof:name":"Przywidz",
     "wof:parent_id":102080213,
     "wof:placetype":"localadmin",

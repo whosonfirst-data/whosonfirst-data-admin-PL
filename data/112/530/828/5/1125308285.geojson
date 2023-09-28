@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":880,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.33922,
     "lbl:longitude":22.06166,
     "lbl:max_zoom":17.0,
@@ -107,8 +116,10 @@
         "eurostat:nuts_2021_id":"1006181331704",
         "gn:id":768344,
         "gp:id":12617151,
+        "pol-gus:code":"1006181331704",
         "qs_pg:id":1106386
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865651
     ],
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1125308285,
-    "wof:lastmodified":1684354211,
+    "wof:lastmodified":1695879046,
     "wof:name":"Koma\u0144cza",
     "wof:parent_id":102079437,
     "wof:placetype":"localadmin",

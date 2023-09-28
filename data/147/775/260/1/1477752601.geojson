@@ -22,6 +22,15 @@
     "geom:latitude":51.583383,
     "geom:longitude":15.591581,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.581212,
     "lbl:longitude":15.573632,
     "mps:latitude":51.581212,
@@ -79,8 +88,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002081141007",
-        "eurostat:nuts_2021_id":"1002081141007"
+        "eurostat:nuts_2021_id":"1002081141007",
+        "pol-gus:code":"1002081141007"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"565db4cb1d63f1669c1018272b7cf2fc",
     "wof:hierarchy":[
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1477752601,
-    "wof:lastmodified":1684354418,
+    "wof:lastmodified":1695879364,
     "wof:name":"Gmina Szprotawa",
     "wof:parent_id":102079759,
     "wof:placetype":"localadmin",

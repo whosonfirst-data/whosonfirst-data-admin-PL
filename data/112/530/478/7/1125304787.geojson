@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":460,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.99619,
     "lbl:longitude":18.50973,
     "lbl:max_zoom":17.0,
@@ -107,8 +116,10 @@
         "eurostat:nuts_2021_id":"1004041061508",
         "gn:id":3082287,
         "gp:id":12618207,
+        "pol-gus:code":"1004041061508",
         "qs_pg:id":201412
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864445
     ],
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1125304787,
-    "wof:lastmodified":1684354205,
+    "wof:lastmodified":1695879032,
     "wof:name":"Wielka Nieszawka",
     "wof:parent_id":102080063,
     "wof:placetype":"localadmin",

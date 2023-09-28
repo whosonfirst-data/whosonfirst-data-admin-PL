@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.99799,
     "lbl:longitude":20.68392,
     "lbl:max_zoom":18.0,
@@ -81,8 +90,10 @@
         "eg:gisco_id":"PL_1007141300506",
         "eurostat:nuts_2021_id":"1007141300506",
         "gn:id":7531544,
+        "pol-gus:code":"1007141300506",
         "qs_pg:id":1154813
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126016269
     ],
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1125382183,
-    "wof:lastmodified":1684354299,
+    "wof:lastmodified":1695879239,
     "wof:name":"\u017babia Wola",
     "wof:parent_id":102079909,
     "wof:placetype":"localadmin",

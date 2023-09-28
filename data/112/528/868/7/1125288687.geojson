@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1400,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.27845,
     "lbl:longitude":20.43835,
     "lbl:max_zoom":16.0,
@@ -100,8 +109,10 @@
         "eurostat:nuts_2021_id":"1005261520502",
         "gn:id":771687,
         "gp:id":12617313,
+        "pol-gus:code":"1005261520502",
         "qs_pg:id":23977
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822615
     ],
@@ -121,7 +132,7 @@
         }
     ],
     "wof:id":1125288687,
-    "wof:lastmodified":1684354162,
+    "wof:lastmodified":1695878980,
     "wof:name":"Gowarcz\u00f3w",
     "wof:parent_id":102079739,
     "wof:placetype":"localadmin",

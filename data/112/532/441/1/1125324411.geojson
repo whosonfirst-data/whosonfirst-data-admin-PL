@@ -22,6 +22,15 @@
     "geom:latitude":51.65684,
     "geom:longitude":19.799394,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.657935,
     "lbl:longitude":19.797843,
     "mps:latitude":51.657935,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101171607",
-        "eurostat:nuts_2021_id":"1005101171607"
+        "eurostat:nuts_2021_id":"1005101171607",
+        "pol-gus:code":"1005101171607"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864985
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125324411,
-    "wof:lastmodified":1684354230,
+    "wof:lastmodified":1695879115,
     "wof:name":"Rokiciny",
     "wof:parent_id":102079831,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":49.737178,
     "geom:longitude":20.62942,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.734759,
     "lbl:longitude":20.622776,
     "mps:latitude":49.734759,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121221010",
-        "eurostat:nuts_2021_id":"1001121221010"
+        "eurostat:nuts_2021_id":"1001121221010",
+        "pol-gus:code":"1001121221010"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126004477
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477752527,
-    "wof:lastmodified":1684354414,
+    "wof:lastmodified":1695879360,
     "wof:name":"\u0141ososina Dolna",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",

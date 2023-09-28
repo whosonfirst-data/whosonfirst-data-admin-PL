@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":5030,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.55111,
     "lbl:longitude":18.49905,
     "lbl:max_zoom":15.0,
@@ -182,8 +191,10 @@
         "eurostat:nuts_2021_id":"1004041081105",
         "gn:id":3088977,
         "gp:id":24547600,
+        "pol-gus:code":"1004041081105",
         "qs_pg:id":1200402
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042885,
     "wof:geom_alt":[
@@ -200,7 +211,7 @@
         }
     ],
     "wof:id":1125290217,
-    "wof:lastmodified":1684354175,
+    "wof:lastmodified":1695878992,
     "wof:name":"Gmina Piotrk\u00f3w Kujawski",
     "wof:parent_id":102079977,
     "wof:placetype":"localadmin",

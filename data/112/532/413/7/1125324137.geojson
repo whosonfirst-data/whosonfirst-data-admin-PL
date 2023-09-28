@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":790,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.90991,
     "lbl:longitude":22.83465,
     "lbl:max_zoom":17.0,
@@ -85,8 +94,10 @@
         "eurostat:nuts_2021_id":"1006061100611",
         "gn:id":753140,
         "gp:id":12616615,
+        "pol-gus:code":"1006061100611",
         "qs_pg:id":23870
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865639
     ],
@@ -106,7 +117,7 @@
         }
     ],
     "wof:id":1125324137,
-    "wof:lastmodified":1684354226,
+    "wof:lastmodified":1695879082,
     "wof:name":"\u017b\u00f3\u0142kiewka",
     "wof:parent_id":102079745,
     "wof:placetype":"localadmin",

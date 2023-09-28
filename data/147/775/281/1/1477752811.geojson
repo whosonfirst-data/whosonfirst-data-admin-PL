@@ -22,6 +22,15 @@
     "geom:latitude":51.357705,
     "geom:longitude":18.815987,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.358685,
     "lbl:longitude":18.814442,
     "mps:latitude":51.358685,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101181703",
-        "eurostat:nuts_2021_id":"1005101181703"
+        "eurostat:nuts_2021_id":"1005101181703",
+        "pol-gus:code":"1005101181703"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125891311
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752811,
-    "wof:lastmodified":1684354430,
+    "wof:lastmodified":1695879376,
     "wof:name":"Konopnica",
     "wof:parent_id":102079729,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":916,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.12729,
     "lbl:longitude":18.18598,
     "lbl:max_zoom":17.0,
@@ -157,8 +166,10 @@
         "eurostat:nuts_2021_id":"1001241491108",
         "gn:id":3086759,
         "gp:id":12617807,
+        "pol-gus:code":"1001241491108",
         "qs_pg:id":24051
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865893
     ],
@@ -178,7 +189,7 @@
         }
     ],
     "wof:id":1125288901,
-    "wof:lastmodified":1684354166,
+    "wof:lastmodified":1695878984,
     "wof:name":"Rudnik",
     "wof:parent_id":102079477,
     "wof:placetype":"localadmin",

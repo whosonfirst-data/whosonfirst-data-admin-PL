@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3822,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.7444,
     "lbl:longitude":22.83774,
     "lbl:max_zoom":15.0,
@@ -194,8 +203,10 @@
         "eurostat:nuts_2021_id":"1006201380302",
         "gn:id":775359,
         "gp:id":24548254,
+        "pol-gus:code":"1006201380302",
         "qs_pg:id":44799
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819141
     ],
@@ -215,7 +226,7 @@
         }
     ],
     "wof:id":1125347705,
-    "wof:lastmodified":1684354253,
+    "wof:lastmodified":1695879173,
     "wof:name":"Gmina Bra\u0144sk",
     "wof:parent_id":102080071,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.691916,
     "geom:longitude":18.22119,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.690959,
     "lbl:longitude":18.233725,
     "mps:latitude":50.690959,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161320908",
-        "eurostat:nuts_2021_id":"1003161320908"
+        "eurostat:nuts_2021_id":"1003161320908",
+        "pol-gus:code":"1003161320908"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"634f38d6b1817412bde4140a462e23af",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751681,
-    "wof:lastmodified":1684354370,
+    "wof:lastmodified":1695879313,
     "wof:name":"Gmina Ozimek",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",

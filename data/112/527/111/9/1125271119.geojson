@@ -23,6 +23,15 @@
     "geom:longitude":18.671998,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.496416,
     "lbl:longitude":18.750444,
     "lbl:max_zoom":18.0,
@@ -92,8 +101,10 @@
         "eg:gisco_id":"PL_1004041681402",
         "eurostat:nuts_2021_id":"1004041681402",
         "gp:id":12618078,
+        "pol-gus:code":"1004041681402",
         "qs_pg:id":267822
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125981053
     ],
@@ -113,7 +124,7 @@
         }
     ],
     "wof:id":1125271119,
-    "wof:lastmodified":1684354141,
+    "wof:lastmodified":1695878958,
     "wof:name":"Dragacz",
     "wof:parent_id":102080137,
     "wof:placetype":"localadmin",

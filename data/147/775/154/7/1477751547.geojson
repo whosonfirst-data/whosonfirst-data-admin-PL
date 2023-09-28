@@ -22,6 +22,15 @@
     "geom:latitude":53.938407,
     "geom:longitude":14.808726,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.944573,
     "lbl:longitude":14.797264,
     "mps:latitude":53.944573,
@@ -79,8 +88,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321660703",
-        "eurostat:nuts_2021_id":"1002321660703"
+        "eurostat:nuts_2021_id":"1002321660703",
+        "pol-gus:code":"1002321660703"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"3b5f493c808d61f9340c55f85f439365",
     "wof:hierarchy":[
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1477751547,
-    "wof:lastmodified":1684354363,
+    "wof:lastmodified":1695879306,
     "wof:name":"Gmina Kamie\u0144 Pomorski",
     "wof:parent_id":102080153,
     "wof:placetype":"localadmin",

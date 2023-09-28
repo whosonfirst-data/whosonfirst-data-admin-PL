@@ -22,6 +22,15 @@
     "geom:latitude":52.808519,
     "geom:longitude":17.202339,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.809946,
     "lbl:longitude":17.210944,
     "mps:latitude":52.809946,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301602801",
-        "eurostat:nuts_2021_id":"1002301602801"
+        "eurostat:nuts_2021_id":"1002301602801",
+        "pol-gus:code":"1002301602801"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"7d74af32b86135db2d390b6d43d2d848",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751937,
-    "wof:lastmodified":1684354383,
+    "wof:lastmodified":1695879327,
     "wof:name":"Gmina W\u0105growiec",
     "wof:parent_id":102080019,
     "wof:placetype":"localadmin",

@@ -23,6 +23,15 @@
     "geom:longitude":18.120609,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.33194,
     "lbl:longitude":18.197994,
     "lbl:max_zoom":18.0,
@@ -194,8 +203,10 @@
         "eg:gisco_id":"PL_1004221400502",
         "eurostat:nuts_2021_id":"1004221400502",
         "gp:id":12617049,
+        "pol-gus:code":"1004221400502",
         "qs_pg:id":221874
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864725
     ],
@@ -215,7 +226,7 @@
         }
     ],
     "wof:id":1125324051,
-    "wof:lastmodified":1684354225,
+    "wof:lastmodified":1695879078,
     "wof:name":"Gmina Kartuzy",
     "wof:parent_id":102080233,
     "wof:placetype":"localadmin",

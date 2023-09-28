@@ -22,6 +22,15 @@
     "geom:latitude":51.886066,
     "geom:longitude":20.249484,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.89155,
     "lbl:longitude":20.247639,
     "mps:latitude":51.89155,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101191507",
-        "eurostat:nuts_2021_id":"1005101191507"
+        "eurostat:nuts_2021_id":"1005101191507",
+        "pol-gus:code":"1005101191507"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864983
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752655,
-    "wof:lastmodified":1684354421,
+    "wof:lastmodified":1695879367,
     "wof:name":"Nowy Kaw\u0119czyn",
     "wof:parent_id":102079895,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1455,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.74955,
     "lbl:longitude":21.33665,
     "lbl:max_zoom":16.0,
@@ -85,8 +94,10 @@
         "eurostat:nuts_2021_id":"1006181330509",
         "gn:id":759092,
         "gp:id":24548639,
+        "pol-gus:code":"1006181330509",
         "qs_pg:id":59611
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824747
     ],
@@ -106,7 +117,7 @@
         }
     ],
     "wof:id":1125339275,
-    "wof:lastmodified":1684354247,
+    "wof:lastmodified":1695879154,
     "wof:name":"Sko\u0142yszyn",
     "wof:parent_id":102079453,
     "wof:placetype":"localadmin",

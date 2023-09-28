@@ -22,6 +22,15 @@
     "geom:latitude":52.723216,
     "geom:longitude":22.71232,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.716628,
     "lbl:longitude":22.721744,
     "mps:latitude":52.716628,
@@ -76,8 +85,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201380307",
-        "eurostat:nuts_2021_id":"1006201380307"
+        "eurostat:nuts_2021_id":"1006201380307",
+        "pol-gus:code":"1006201380307"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820545
     ],
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1477752703,
-    "wof:lastmodified":1684354424,
+    "wof:lastmodified":1695879370,
     "wof:name":"Rudka",
     "wof:parent_id":102080071,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.461269,
     "geom:longitude":17.837606,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.470231,
     "lbl:longitude":17.839044,
     "mps:latitude":50.470231,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161320503",
-        "eurostat:nuts_2021_id":"1003161320503"
+        "eurostat:nuts_2021_id":"1003161320503",
+        "pol-gus:code":"1003161320503"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823499
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752685,
-    "wof:lastmodified":1684354422,
+    "wof:lastmodified":1695879369,
     "wof:name":"Strzeleczki",
     "wof:parent_id":102079553,
     "wof:placetype":"localadmin",

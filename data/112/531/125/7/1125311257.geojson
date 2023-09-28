@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":5813,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.249,
     "lbl:longitude":15.04685,
     "lbl:max_zoom":15.0,
@@ -178,8 +187,10 @@
         "eurostat:nuts_2021_id":"1003021012504",
         "gn:id":3089098,
         "gp:id":24547618,
+        "pol-gus:code":"1003021012504",
         "qs_pg:id":206245
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044000,
     "wof:geom_alt":[
@@ -196,7 +207,7 @@
         }
     ],
     "wof:id":1125311257,
-    "wof:lastmodified":1684354214,
+    "wof:lastmodified":1695879057,
     "wof:name":"Gmina Pie\u0144sk",
     "wof:parent_id":102079695,
     "wof:placetype":"localadmin",

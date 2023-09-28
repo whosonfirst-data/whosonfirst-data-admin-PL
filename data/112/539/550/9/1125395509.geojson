@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.60172,
     "lbl:longitude":18.7384,
     "lbl:max_zoom":18.0,
@@ -192,8 +201,10 @@
         "eg:gisco_id":"PL_1005101181401",
         "eurostat:nuts_2021_id":"1005101181401",
         "gn:id":7531129,
+        "pol-gus:code":"1005101181401",
         "qs_pg:id":1048289
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497048991,
     "wof:geom_alt":[
@@ -210,7 +221,7 @@
         }
     ],
     "wof:id":1125395509,
-    "wof:lastmodified":1684354316,
+    "wof:lastmodified":1695879257,
     "wof:name":"Gmina Sieradz",
     "wof:parent_id":102079819,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":51.199435,
     "geom:longitude":23.164466,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.201434,
     "lbl:longitude":23.153122,
     "mps:latitude":51.201434,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061100311",
-        "eurostat:nuts_2021_id":"1006061100311"
+        "eurostat:nuts_2021_id":"1006061100311",
+        "pol-gus:code":"1006061100311"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"c7c24a9af4f94b035edceadb21a8c16f",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752015,
-    "wof:lastmodified":1684354387,
+    "wof:lastmodified":1695879332,
     "wof:name":"Gmina Siedliszcze",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",

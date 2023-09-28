@@ -22,6 +22,15 @@
     "geom:latitude":51.11644,
     "geom:longitude":18.850407,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.118588,
     "lbl:longitude":18.837196,
     "mps:latitude":51.118588,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101180901",
-        "eurostat:nuts_2021_id":"1005101180901"
+        "eurostat:nuts_2021_id":"1005101180901",
+        "pol-gus:code":"1005101180901"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"60883274a5a0a4a196ac1338a3ce3737",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752573,
-    "wof:lastmodified":1684354416,
+    "wof:lastmodified":1695879362,
     "wof:name":"Gmina Dzia\u0142oszyn",
     "wof:parent_id":102079705,
     "wof:placetype":"localadmin",

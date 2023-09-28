@@ -22,6 +22,15 @@
     "geom:latitude":51.810669,
     "geom:longitude":20.810883,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.819739,
     "lbl:longitude":20.803262,
     "mps:latitude":51.819739,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142730601",
-        "eurostat:nuts_2021_id":"1007142730601"
+        "eurostat:nuts_2021_id":"1007142730601",
+        "pol-gus:code":"1007142730601"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1360313425
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477751929,
-    "wof:lastmodified":1684354383,
+    "wof:lastmodified":1695879327,
     "wof:name":"Belsk Du\u017cy",
     "wof:parent_id":102079877,
     "wof:placetype":"localadmin",

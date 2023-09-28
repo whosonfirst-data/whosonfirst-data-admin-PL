@@ -22,6 +22,15 @@
     "geom:latitude":53.665805,
     "geom:longitude":17.362522,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.667369,
     "lbl:longitude":17.36182,
     "mps:latitude":53.667369,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221720301",
-        "eurostat:nuts_2021_id":"1004221720301"
+        "eurostat:nuts_2021_id":"1004221720301",
+        "pol-gus:code":"1004221720301"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"59d3c373f203a8eae9a6ec8e946e706b",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751943,
-    "wof:lastmodified":1684354384,
+    "wof:lastmodified":1695879328,
     "wof:name":"Gmina Cz\u0142uch\u00f3w",
     "wof:parent_id":102080157,
     "wof:placetype":"localadmin",

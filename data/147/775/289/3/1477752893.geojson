@@ -22,6 +22,15 @@
     "geom:latitude":53.910759,
     "geom:longitude":22.18144,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.909251,
     "lbl:longitude":22.203852,
     "mps:latitude":53.909251,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281550505",
-        "eurostat:nuts_2021_id":"1004281550505"
+        "eurostat:nuts_2021_id":"1004281550505",
+        "pol-gus:code":"1004281550505"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819441
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752893,
-    "wof:lastmodified":1684354435,
+    "wof:lastmodified":1695879381,
     "wof:name":"Stare Juchy",
     "wof:parent_id":102080209,
     "wof:placetype":"localadmin",

@@ -23,6 +23,15 @@
     "geom:longitude":18.330747,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.686507,
     "lbl:longitude":18.464713,
     "lbl:max_zoom":18.0,
@@ -122,8 +131,10 @@
         "eg:gisco_id":"PL_1004221401107",
         "eurostat:nuts_2021_id":"1004221401107",
         "gp:id":24547998,
+        "pol-gus:code":"1004221401107",
         "qs_pg:id":1103248
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865643
     ],
@@ -143,7 +154,7 @@
         }
     ],
     "wof:id":1125304211,
-    "wof:lastmodified":1684354198,
+    "wof:lastmodified":1695879023,
     "wof:name":"Gmina Puck",
     "wof:parent_id":102080269,
     "wof:placetype":"localadmin",

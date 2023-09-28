@@ -22,6 +22,15 @@
     "geom:latitude":53.502676,
     "geom:longitude":23.611253,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.506951,
     "lbl:longitude":23.609756,
     "mps:latitude":53.506951,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201371105",
-        "eurostat:nuts_2021_id":"1006201371105"
+        "eurostat:nuts_2021_id":"1006201371105",
+        "pol-gus:code":"1006201371105"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819409
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751717,
-    "wof:lastmodified":1684354372,
+    "wof:lastmodified":1695879315,
     "wof:name":"Ku\u017anica",
     "wof:parent_id":102080189,
     "wof:placetype":"localadmin",

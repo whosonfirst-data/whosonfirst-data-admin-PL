@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2700,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.19152,
     "lbl:longitude":23.36277,
     "lbl:max_zoom":15.0,
@@ -101,8 +110,10 @@
         "eurostat:nuts_2021_id":"1006181340903",
         "gn:id":770986,
         "gp:id":12618153,
+        "pol-gus:code":"1006181340903",
         "qs_pg:id":52071
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125846663
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125332683,
-    "wof:lastmodified":1684354242,
+    "wof:lastmodified":1695879145,
     "wof:name":"Horyniec-Zdr\u00f3j",
     "wof:parent_id":102079623,
     "wof:placetype":"localadmin",

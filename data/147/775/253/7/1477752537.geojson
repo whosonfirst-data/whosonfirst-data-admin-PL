@@ -22,6 +22,15 @@
     "geom:latitude":53.491737,
     "geom:longitude":14.389383,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.492195,
     "lbl:longitude":14.390755,
     "mps:latitude":53.492195,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321661101",
-        "eurostat:nuts_2021_id":"1002321661101"
+        "eurostat:nuts_2021_id":"1002321661101",
+        "pol-gus:code":"1002321661101"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125899153
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477752537,
-    "wof:lastmodified":1684354414,
+    "wof:lastmodified":1695879360,
     "wof:name":"Dobra (Szczeci\u0144ska)",
     "wof:parent_id":102080119,
     "wof:placetype":"localadmin",

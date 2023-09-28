@@ -22,6 +22,15 @@
     "geom:latitude":51.172553,
     "geom:longitude":18.720153,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.171141,
     "lbl:longitude":18.720167,
     "mps:latitude":51.171141,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101181710",
-        "eurostat:nuts_2021_id":"1005101181710"
+        "eurostat:nuts_2021_id":"1005101181710",
+        "pol-gus:code":"1005101181710"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125802617
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477752513,
-    "wof:lastmodified":1684354413,
+    "wof:lastmodified":1695879359,
     "wof:name":"Wierzchlas",
     "wof:parent_id":102079729,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1800,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.04756,
     "lbl:longitude":21.62069,
     "lbl:max_zoom":16.0,
@@ -108,8 +117,10 @@
         "eurostat:nuts_2021_id":"1007142261510",
         "gn:id":759757,
         "gp:id":12618592,
+        "pol-gus:code":"1007142261510",
         "qs_pg:id":234890
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820611
     ],
@@ -129,7 +140,7 @@
         }
     ],
     "wof:id":1125296533,
-    "wof:lastmodified":1684354187,
+    "wof:lastmodified":1695879009,
     "wof:name":"Rzeku\u0144",
     "wof:parent_id":102080139,
     "wof:placetype":"localadmin",

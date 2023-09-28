@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":5432,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.46459,
     "lbl:longitude":16.98169,
     "lbl:max_zoom":15.0,
@@ -107,8 +116,10 @@
         "eurostat:nuts_2021_id":"1002301612104",
         "gn:id":3100971,
         "gp:id":12617907,
+        "pol-gus:code":"1002301612104",
         "qs_pg:id":332034
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101756661
     ],
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1125370977,
-    "wof:lastmodified":1684354282,
+    "wof:lastmodified":1695879218,
     "wof:name":"Czerwonak",
     "wof:parent_id":102079955,
     "wof:placetype":"localadmin",

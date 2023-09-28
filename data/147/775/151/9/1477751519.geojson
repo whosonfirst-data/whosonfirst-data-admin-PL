@@ -22,6 +22,15 @@
     "geom:latitude":52.746805,
     "geom:longitude":15.438912,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.77313,
     "lbl:longitude":15.395194,
     "mps:latitude":52.77313,
@@ -76,8 +85,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002081130106",
-        "eurostat:nuts_2021_id":"1002081130106"
+        "eurostat:nuts_2021_id":"1002081130106",
+        "pol-gus:code":"1002081130106"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125899113
     ],
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1477751519,
-    "wof:lastmodified":1684354362,
+    "wof:lastmodified":1695879304,
     "wof:name":"Santok",
     "wof:parent_id":102079975,
     "wof:placetype":"localadmin",

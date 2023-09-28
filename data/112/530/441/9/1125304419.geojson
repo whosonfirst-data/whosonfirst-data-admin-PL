@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3000,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.07179,
     "lbl:longitude":21.89798,
     "lbl:max_zoom":15.0,
@@ -92,8 +101,10 @@
         "eurostat:nuts_2021_id":"1006181351612",
         "gn:id":757585,
         "gp:id":12617748,
+        "pol-gus:code":"1006181351612",
         "qs_pg:id":1190562
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865323
     ],
@@ -113,7 +124,7 @@
         }
     ],
     "wof:id":1125304419,
-    "wof:lastmodified":1684354201,
+    "wof:lastmodified":1695879027,
     "wof:name":"\u015awilcza",
     "wof:parent_id":102079585,
     "wof:placetype":"localadmin",

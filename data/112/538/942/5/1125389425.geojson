@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4349,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.57661,
     "lbl:longitude":16.53395,
     "lbl:max_zoom":15.0,
@@ -144,8 +153,10 @@
         "eurostat:nuts_2021_id":"1002321641504",
         "gn:id":3084213,
         "gp:id":24547978,
+        "pol-gus:code":"1002321641504",
         "qs_pg:id":1016987
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497048616,
     "wof:geom_alt":[
@@ -162,7 +173,7 @@
         }
     ],
     "wof:id":1125389425,
-    "wof:lastmodified":1684354308,
+    "wof:lastmodified":1695879248,
     "wof:name":"Gmina Borne Sulinowo",
     "wof:parent_id":102080155,
     "wof:placetype":"localadmin",

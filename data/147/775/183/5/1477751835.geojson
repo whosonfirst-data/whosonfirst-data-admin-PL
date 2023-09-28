@@ -22,6 +22,15 @@
     "geom:latitude":51.783316,
     "geom:longitude":20.234226,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.813249,
     "lbl:longitude":20.233917,
     "mps:latitude":51.813249,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101191304",
-        "eurostat:nuts_2021_id":"1005101191304"
+        "eurostat:nuts_2021_id":"1005101191304",
+        "pol-gus:code":"1005101191304"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864735
     ],
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751835,
-    "wof:lastmodified":1684354378,
+    "wof:lastmodified":1695879322,
     "wof:name":"Gmina Rawa Mazowiecka",
     "wof:parent_id":102079849,
     "wof:placetype":"localadmin",

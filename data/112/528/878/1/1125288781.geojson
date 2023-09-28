@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2100,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.84496,
     "lbl:longitude":19.71578,
     "lbl:max_zoom":15.0,
@@ -113,8 +122,10 @@
         "eurostat:nuts_2021_id":"1001121231804",
         "gn:id":3093935,
         "gp:id":12618787,
+        "pol-gus:code":"1001121231804",
         "qs_pg:id":1316656
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101827345
     ],
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1125288781,
-    "wof:lastmodified":1684354164,
+    "wof:lastmodified":1695878981,
     "wof:name":"Lanckorona",
     "wof:parent_id":102079451,
     "wof:placetype":"localadmin",

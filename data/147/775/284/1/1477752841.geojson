@@ -22,6 +22,15 @@
     "geom:latitude":49.812225,
     "geom:longitude":18.649595,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.812729,
     "lbl:longitude":18.650795,
     "mps:latitude":49.812729,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241440308",
-        "eurostat:nuts_2021_id":"1001241440308"
+        "eurostat:nuts_2021_id":"1001241440308",
+        "pol-gus:code":"1001241440308"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101863163
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752841,
-    "wof:lastmodified":1684354432,
+    "wof:lastmodified":1695879378,
     "wof:name":"Ha\u017clach",
     "wof:parent_id":102079421,
     "wof:placetype":"localadmin",

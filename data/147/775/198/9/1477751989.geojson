@@ -22,6 +22,15 @@
     "geom:latitude":54.566918,
     "geom:longitude":18.383125,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.566607,
     "lbl:longitude":18.382229,
     "mps:latitude":54.566607,
@@ -130,8 +139,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221401502",
-        "eurostat:nuts_2021_id":"1004221401502"
+        "eurostat:nuts_2021_id":"1004221401502",
+        "pol-gus:code":"1004221401502"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101756679
     ],
@@ -147,7 +158,7 @@
         }
     ],
     "wof:id":1477751989,
-    "wof:lastmodified":1684354386,
+    "wof:lastmodified":1695879330,
     "wof:name":"Rumia",
     "wof:parent_id":102080267,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.818617,
     "geom:longitude":16.497019,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.812418,
     "lbl:longitude":16.495046,
     "mps:latitude":52.812418,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301600205",
-        "eurostat:nuts_2021_id":"1002301600205"
+        "eurostat:nuts_2021_id":"1002301600205",
+        "pol-gus:code":"1002301600205"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820507
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125364413,
-    "wof:lastmodified":1684354271,
+    "wof:lastmodified":1695879203,
     "wof:name":"Lubasz",
     "wof:parent_id":102080029,
     "wof:placetype":"localadmin",

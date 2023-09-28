@@ -22,6 +22,15 @@
     "geom:latitude":53.16697,
     "geom:longitude":22.570607,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.166361,
     "lbl:longitude":22.570588,
     "mps:latitude":53.166361,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201370215",
-        "eurostat:nuts_2021_id":"1006201370215"
+        "eurostat:nuts_2021_id":"1006201370215",
+        "pol-gus:code":"1006201370215"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125840165
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752125,
-    "wof:lastmodified":1684354393,
+    "wof:lastmodified":1695879338,
     "wof:name":"Zawady",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",

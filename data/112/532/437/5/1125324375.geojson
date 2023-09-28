@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":876,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.42438,
     "lbl:longitude":23.58576,
     "lbl:max_zoom":17.0,
@@ -97,8 +106,10 @@
         "eurostat:nuts_2021_id":"1006061101803",
         "gn:id":770395,
         "gp:id":12618408,
+        "pol-gus:code":"1006061101803",
         "qs_pg:id":24210
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864441
     ],
@@ -118,7 +129,7 @@
         }
     ],
     "wof:id":1125324375,
-    "wof:lastmodified":1684354229,
+    "wof:lastmodified":1695879111,
     "wof:name":"Jarcz\u00f3w",
     "wof:parent_id":102079689,
     "wof:placetype":"localadmin",

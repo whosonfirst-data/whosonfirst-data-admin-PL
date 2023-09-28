@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":471,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.37581,
     "lbl:longitude":15.95876,
     "lbl:max_zoom":17.0,
@@ -101,8 +110,10 @@
         "eurostat:nuts_2021_id":"1002301591503",
         "gn:id":3092000,
         "gp:id":12617735,
+        "pol-gus:code":"1002301591503",
         "qs_pg:id":24048
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863817
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125324285,
-    "wof:lastmodified":1684354228,
+    "wof:lastmodified":1695879102,
     "wof:name":"Miedzichowo",
     "wof:parent_id":102079915,
     "wof:placetype":"localadmin",

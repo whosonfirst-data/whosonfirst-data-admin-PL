@@ -22,6 +22,15 @@
     "geom:latitude":50.930149,
     "geom:longitude":14.936759,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.932475,
     "lbl:longitude":14.943727,
     "mps:latitude":50.932475,
@@ -79,8 +88,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021012503",
-        "eurostat:nuts_2021_id":"1003021012503"
+        "eurostat:nuts_2021_id":"1003021012503",
+        "pol-gus:code":"1003021012503"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"a7b22747c93f7958546f23133194a7ed",
     "wof:hierarchy":[
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1477752715,
-    "wof:lastmodified":1684354424,
+    "wof:lastmodified":1695879370,
     "wof:name":"Gmina Bogatynia",
     "wof:parent_id":102079695,
     "wof:placetype":"localadmin",

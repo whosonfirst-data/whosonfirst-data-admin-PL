@@ -22,6 +22,15 @@
     "geom:latitude":51.409839,
     "geom:longitude":18.092818,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.413463,
     "lbl:longitude":18.083598,
     "mps:latitude":51.413463,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301571802",
-        "eurostat:nuts_2021_id":"1002301571802"
+        "eurostat:nuts_2021_id":"1002301571802",
+        "pol-gus:code":"1002301571802"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821351
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752439,
-    "wof:lastmodified":1684354410,
+    "wof:lastmodified":1695879355,
     "wof:name":"Doruch\u00f3w",
     "wof:parent_id":102079747,
     "wof:placetype":"localadmin",

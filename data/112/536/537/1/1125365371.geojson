@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4479,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.97059,
     "lbl:longitude":18.72886,
     "lbl:max_zoom":15.0,
@@ -160,8 +169,10 @@
         "eurostat:nuts_2021_id":"1001241460602",
         "gn:id":3094513,
         "gp:id":24548751,
+        "pol-gus:code":"1001241460602",
         "qs_pg:id":310174
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047048,
     "wof:geom_alt":[
@@ -178,7 +189,7 @@
         }
     ],
     "wof:id":1125365371,
-    "wof:lastmodified":1684354273,
+    "wof:lastmodified":1695879206,
     "wof:name":"Gmina Krzepice",
     "wof:parent_id":102079667,
     "wof:placetype":"localadmin",

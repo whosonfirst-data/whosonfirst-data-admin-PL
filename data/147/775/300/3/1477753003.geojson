@@ -22,6 +22,15 @@
     "geom:latitude":52.661357,
     "geom:longitude":21.601147,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.666182,
     "lbl:longitude":21.603845,
     "mps:latitude":52.666182,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142263501",
-        "eurostat:nuts_2021_id":"1007142263501"
+        "eurostat:nuts_2021_id":"1007142263501",
+        "pol-gus:code":"1007142263501"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125930169
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477753003,
-    "wof:lastmodified":1684354441,
+    "wof:lastmodified":1695879387,
     "wof:name":"Bra\u0144szczyk",
     "wof:parent_id":102080045,
     "wof:placetype":"localadmin",

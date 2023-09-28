@@ -22,6 +22,15 @@
     "geom:latitude":50.847534,
     "geom:longitude":17.734738,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.847499,
     "lbl:longitude":17.734697,
     "mps:latitude":50.847499,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161320909",
-        "eurostat:nuts_2021_id":"1003161320909"
+        "eurostat:nuts_2021_id":"1003161320909",
+        "pol-gus:code":"1003161320909"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822743
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477752617,
-    "wof:lastmodified":1684354419,
+    "wof:lastmodified":1695879365,
     "wof:name":"Popiel\u00f3w",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",

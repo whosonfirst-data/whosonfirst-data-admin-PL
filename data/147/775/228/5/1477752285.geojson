@@ -22,6 +22,15 @@
     "geom:latitude":54.099409,
     "geom:longitude":19.301452,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.096355,
     "lbl:longitude":19.303018,
     "mps:latitude":54.096355,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281540403",
-        "eurostat:nuts_2021_id":"1004281540403"
+        "eurostat:nuts_2021_id":"1004281540403",
+        "pol-gus:code":"1004281540403"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125766095
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752285,
-    "wof:lastmodified":1684354402,
+    "wof:lastmodified":1695879347,
     "wof:name":"Gronowo Elbl\u0105skie",
     "wof:parent_id":102080231,
     "wof:placetype":"localadmin",

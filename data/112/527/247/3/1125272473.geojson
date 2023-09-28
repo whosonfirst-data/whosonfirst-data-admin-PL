@@ -23,6 +23,15 @@
     "geom:longitude":18.658874,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.731653,
     "lbl:longitude":18.507499,
     "lbl:max_zoom":18.0,
@@ -116,8 +125,10 @@
         "eg:gisco_id":"PL_1005101181409",
         "eurostat:nuts_2021_id":"1005101181409",
         "gp:id":24548385,
+        "pol-gus:code":"1005101181409",
         "qs_pg:id":1085952
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042182,
     "wof:geom_alt":[
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1125272473,
-    "wof:lastmodified":1684354141,
+    "wof:lastmodified":1695878958,
     "wof:name":"Gmina Warta",
     "wof:parent_id":102079819,
     "wof:placetype":"localadmin",

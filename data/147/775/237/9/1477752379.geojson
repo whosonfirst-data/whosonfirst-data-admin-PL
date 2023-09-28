@@ -22,6 +22,15 @@
     "geom:latitude":49.535412,
     "geom:longitude":20.748227,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.539904,
     "lbl:longitude":20.749285,
     "mps:latitude":49.539904,
@@ -49,8 +58,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121221012",
-        "eurostat:nuts_2021_id":"1001121221012"
+        "eurostat:nuts_2021_id":"1001121221012",
+        "pol-gus:code":"1001121221012"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101848001
     ],
@@ -66,7 +77,7 @@
         }
     ],
     "wof:id":1477752379,
-    "wof:lastmodified":1684354407,
+    "wof:lastmodified":1695879352,
     "wof:name":"Nawojowa",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",

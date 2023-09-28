@@ -23,6 +23,15 @@
     "geom:longitude":19.140313,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.83156,
     "lbl:longitude":19.150199,
     "lbl:max_zoom":18.0,
@@ -92,8 +101,10 @@
         "eg:gisco_id":"PL_1001241440207",
         "eurostat:nuts_2021_id":"1001241440207",
         "gp:id":12618838,
+        "pol-gus:code":"1001241440207",
         "qs_pg:id":43788
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1175613133
     ],
@@ -113,7 +124,7 @@
         }
     ],
     "wof:id":1125326953,
-    "wof:lastmodified":1684354236,
+    "wof:lastmodified":1695879133,
     "wof:name":"Kozy",
     "wof:parent_id":102079427,
     "wof:placetype":"localadmin",

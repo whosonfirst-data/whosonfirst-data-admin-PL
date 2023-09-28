@@ -22,6 +22,15 @@
     "geom:latitude":49.42393,
     "geom:longitude":21.849027,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.424382,
     "lbl:longitude":21.875365,
     "mps:latitude":49.424382,
@@ -76,8 +85,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181330710",
-        "eurostat:nuts_2021_id":"1006181330710"
+        "eurostat:nuts_2021_id":"1006181330710",
+        "pol-gus:code":"1006181330710"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125840309
     ],
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1477751389,
-    "wof:lastmodified":1684354355,
+    "wof:lastmodified":1695879297,
     "wof:name":"Ja\u015bliska",
     "wof:parent_id":102079455,
     "wof:placetype":"localadmin",

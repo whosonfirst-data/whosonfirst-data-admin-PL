@@ -22,6 +22,15 @@
     "geom:latitude":50.14766,
     "geom:longitude":17.977485,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.140903,
     "lbl:longitude":17.98684,
     "mps:latitude":50.140903,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161310201",
-        "eurostat:nuts_2021_id":"1003161310201"
+        "eurostat:nuts_2021_id":"1003161310201",
+        "pol-gus:code":"1003161310201"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"6e884abc2ccf3f56583aa92b2fbd44d5",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752087,
-    "wof:lastmodified":1684354391,
+    "wof:lastmodified":1695879336,
     "wof:name":"Gmina Babor\u00f3w",
     "wof:parent_id":102079489,
     "wof:placetype":"localadmin",

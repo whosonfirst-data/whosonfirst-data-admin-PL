@@ -22,6 +22,15 @@
     "geom:latitude":54.03024,
     "geom:longitude":19.037488,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.028132,
     "lbl:longitude":19.038208,
     "mps:latitude":54.028132,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221420901",
-        "eurostat:nuts_2021_id":"1004221420901"
+        "eurostat:nuts_2021_id":"1004221420901",
+        "pol-gus:code":"1004221420901"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"e0e3fcf6bd32d60408410df0e5a919bc",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752871,
-    "wof:lastmodified":1684354434,
+    "wof:lastmodified":1695879379,
     "wof:name":"Gmina Malbork",
     "wof:parent_id":102080201,
     "wof:placetype":"localadmin",

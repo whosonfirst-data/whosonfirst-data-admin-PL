@@ -22,6 +22,15 @@
     "geom:latitude":50.822594,
     "geom:longitude":23.727358,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.816514,
     "lbl:longitude":23.710044,
     "mps:latitude":50.816514,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061100406",
-        "eurostat:nuts_2021_id":"1006061100406"
+        "eurostat:nuts_2021_id":"1006061100406",
+        "pol-gus:code":"1006061100406"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125951931
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752241,
-    "wof:lastmodified":1684354400,
+    "wof:lastmodified":1695879345,
     "wof:name":"Trzeszczany",
     "wof:parent_id":102079743,
     "wof:placetype":"localadmin",

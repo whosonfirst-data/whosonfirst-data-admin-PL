@@ -23,6 +23,15 @@
     "geom:longitude":18.222488,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.757215,
     "lbl:longitude":18.125724,
     "lbl:max_zoom":18.0,
@@ -128,8 +137,10 @@
         "eg:gisco_id":"PL_1002301570708",
         "eurostat:nuts_2021_id":"1002301570708",
         "gp:id":12617990,
+        "pol-gus:code":"1002301570708",
         "qs_pg:id":116518
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497050245,
     "wof:geom_alt":[
@@ -146,7 +157,7 @@
         }
     ],
     "wof:id":1125411293,
-    "wof:lastmodified":1684354335,
+    "wof:lastmodified":1695879276,
     "wof:name":"Gmina Opat\u00f3wek",
     "wof:parent_id":102079841,
     "wof:placetype":"localadmin",

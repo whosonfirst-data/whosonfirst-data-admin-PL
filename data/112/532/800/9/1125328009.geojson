@@ -23,6 +23,15 @@
     "geom:longitude":19.120896,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.328354,
     "lbl:longitude":19.108729,
     "lbl:max_zoom":18.0,
@@ -197,8 +206,10 @@
         "eg:gisco_id":"PL_1001241500101",
         "eurostat:nuts_2021_id":"1001241500101",
         "gp:id":12617346,
+        "pol-gus:code":"1001241500101",
         "qs_pg:id":512898
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101752153
     ],
@@ -218,7 +229,7 @@
         }
     ],
     "wof:id":1125328009,
-    "wof:lastmodified":1684354238,
+    "wof:lastmodified":1695879137,
     "wof:name":"B\u0119dzin",
     "wof:parent_id":102079527,
     "wof:placetype":"localadmin",

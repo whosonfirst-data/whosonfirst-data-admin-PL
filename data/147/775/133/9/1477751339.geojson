@@ -22,6 +22,15 @@
     "geom:latitude":51.21914,
     "geom:longitude":22.685412,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.219196,
     "lbl:longitude":22.682265,
     "mps:latitude":51.219196,
@@ -124,8 +133,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061111701",
-        "eurostat:nuts_2021_id":"1006061111701"
+        "eurostat:nuts_2021_id":"1006061111701",
+        "pol-gus:code":"1006061111701"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821411
     ],
@@ -141,7 +152,7 @@
         }
     ],
     "wof:id":1477751339,
-    "wof:lastmodified":1684354353,
+    "wof:lastmodified":1695879295,
     "wof:name":"\u015awidnik",
     "wof:parent_id":102079777,
     "wof:placetype":"localadmin",

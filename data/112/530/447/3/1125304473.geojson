@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2846,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.14782,
     "lbl:longitude":21.73739,
     "lbl:max_zoom":15.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1007141291204",
         "gn:id":774649,
         "gp:id":12618340,
+        "pol-gus:code":"1007141291204",
         "qs_pg:id":1190590
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820389
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125304473,
-    "wof:lastmodified":1684354201,
+    "wof:lastmodified":1695879027,
     "wof:name":"Ceg\u0142\u00f3w",
     "wof:parent_id":102079965,
     "wof:placetype":"localadmin",

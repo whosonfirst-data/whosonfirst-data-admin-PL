@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1150,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.494,
     "lbl:longitude":18.62234,
     "lbl:max_zoom":16.0,
@@ -101,8 +110,10 @@
         "eurostat:nuts_2021_id":"1005101181404",
         "gn:id":3102362,
         "gp:id":12617212,
+        "pol-gus:code":"1005101181404",
         "qs_pg:id":1016279
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865461
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125386713,
-    "wof:lastmodified":1684354306,
+    "wof:lastmodified":1695879246,
     "wof:name":"Brze\u017anio",
     "wof:parent_id":102079819,
     "wof:placetype":"localadmin",

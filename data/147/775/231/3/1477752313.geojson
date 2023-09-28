@@ -22,6 +22,15 @@
     "geom:latitude":52.582241,
     "geom:longitude":16.564509,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.596336,
     "lbl:longitude":16.583022,
     "mps:latitude":52.596336,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301612407",
-        "eurostat:nuts_2021_id":"1002301612407"
+        "eurostat:nuts_2021_id":"1002301612407",
+        "pol-gus:code":"1002301612407"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"3ca7fdd15f4362fb8becbfa9a7325080",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752313,
-    "wof:lastmodified":1684354403,
+    "wof:lastmodified":1695879348,
     "wof:name":"Gmina Szamotu\u0142y",
     "wof:parent_id":102079963,
     "wof:placetype":"localadmin",

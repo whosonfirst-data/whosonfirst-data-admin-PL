@@ -23,6 +23,15 @@
     "geom:longitude":21.844813,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.985468,
     "lbl:longitude":21.768297,
     "lbl:max_zoom":18.0,
@@ -98,8 +107,10 @@
         "eg:gisco_id":"PL_1004281550606",
         "eurostat:nuts_2021_id":"1004281550606",
         "gp:id":12617632,
+        "pol-gus:code":"1004281550606",
         "qs_pg:id":471375
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125794885
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125304755,
-    "wof:lastmodified":1684354204,
+    "wof:lastmodified":1695879031,
     "wof:name":"Mi\u0142ki",
     "wof:parent_id":102080235,
     "wof:placetype":"localadmin",

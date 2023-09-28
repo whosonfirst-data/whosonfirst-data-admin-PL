@@ -22,6 +22,15 @@
     "geom:latitude":53.85304,
     "geom:longitude":19.19621,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.862425,
     "lbl:longitude":19.226206,
     "mps:latitude":53.862425,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221421602",
-        "eurostat:nuts_2021_id":"1004221421602"
+        "eurostat:nuts_2021_id":"1004221421602",
+        "pol-gus:code":"1004221421602"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101817593
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751189,
-    "wof:lastmodified":1684354345,
+    "wof:lastmodified":1695879287,
     "wof:name":"Miko\u0142ajki Pomorskie",
     "wof:parent_id":102080179,
     "wof:placetype":"localadmin",

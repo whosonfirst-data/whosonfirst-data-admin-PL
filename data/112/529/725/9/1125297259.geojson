@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":28740,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.15007,
     "lbl:longitude":18.67762,
     "lbl:max_zoom":14.0,
@@ -140,8 +149,10 @@
         "eurostat:nuts_2021_id":"1001241491201",
         "gn:id":3100974,
         "gp:id":24548637,
+        "pol-gus:code":"1001241491201",
         "qs_pg:id":1218784
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043215,
     "wof:geom_alt":[
@@ -158,7 +169,7 @@
         }
     ],
     "wof:id":1125297259,
-    "wof:lastmodified":1684354189,
+    "wof:lastmodified":1695879011,
     "wof:name":"Gmina Czerwionka-Leszczyny",
     "wof:parent_id":102079459,
     "wof:placetype":"localadmin",

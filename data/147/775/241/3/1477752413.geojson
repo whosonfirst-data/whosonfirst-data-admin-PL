@@ -22,6 +22,15 @@
     "geom:latitude":53.981813,
     "geom:longitude":19.501156,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.98154,
     "lbl:longitude":19.501148,
     "mps:latitude":53.98154,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281540408",
-        "eurostat:nuts_2021_id":"1004281540408"
+        "eurostat:nuts_2021_id":"1004281540408",
+        "pol-gus:code":"1004281540408"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125776611
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752413,
-    "wof:lastmodified":1684354409,
+    "wof:lastmodified":1695879354,
     "wof:name":"Rychliki",
     "wof:parent_id":102080231,
     "wof:placetype":"localadmin",

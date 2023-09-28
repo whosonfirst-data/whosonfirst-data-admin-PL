@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2900,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.77517,
     "lbl:longitude":19.6012,
     "lbl:max_zoom":15.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1001121691509",
         "gn:id":3080291,
         "gp:id":12616584,
+        "pol-gus:code":"1001121691509",
         "qs_pg:id":396895
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101827255
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125399441,
-    "wof:lastmodified":1684354321,
+    "wof:lastmodified":1695879261,
     "wof:name":"Zembrzyce",
     "wof:parent_id":102079419,
     "wof:placetype":"localadmin",

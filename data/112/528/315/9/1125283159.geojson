@@ -23,6 +23,15 @@
     "geom:longitude":20.086414,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.880145,
     "lbl:longitude":20.117425,
     "lbl:max_zoom":18.0,
@@ -122,8 +131,10 @@
         "eg:gisco_id":"PL_1001121200901",
         "eurostat:nuts_2021_id":"1001121200901",
         "gp:id":24548366,
+        "pol-gus:code":"1001121200901",
         "qs_pg:id":1092346
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865801
     ],
@@ -143,7 +154,7 @@
         }
     ],
     "wof:id":1125283159,
-    "wof:lastmodified":1684354153,
+    "wof:lastmodified":1695878971,
     "wof:name":"Gmina Dobczyce",
     "wof:parent_id":102079441,
     "wof:placetype":"localadmin",

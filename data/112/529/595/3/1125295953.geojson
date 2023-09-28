@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":10051,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.59914,
     "lbl:longitude":15.50652,
     "lbl:max_zoom":15.0,
@@ -167,8 +176,10 @@
         "eurostat:nuts_2021_id":"1002081130305",
         "gn:id":3085656,
         "gp:id":24548816,
+        "pol-gus:code":"1002081130305",
         "qs_pg:id":145569
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043146,
     "wof:geom_alt":[
@@ -185,7 +196,7 @@
         }
     ],
     "wof:id":1125295953,
-    "wof:lastmodified":1684354186,
+    "wof:lastmodified":1695879008,
     "wof:name":"Gmina Skwierzyna",
     "wof:parent_id":102079947,
     "wof:placetype":"localadmin",

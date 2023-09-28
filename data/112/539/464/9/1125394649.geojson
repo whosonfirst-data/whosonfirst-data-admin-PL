@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":954,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.96653,
     "lbl:longitude":21.41913,
     "lbl:max_zoom":17.0,
@@ -107,8 +116,10 @@
         "eurostat:nuts_2021_id":"1007141291706",
         "gn:id":763014,
         "gp:id":12616961,
+        "pol-gus:code":"1007141291706",
         "qs_pg:id":1019637
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865073
     ],
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1125394649,
-    "wof:lastmodified":1684354314,
+    "wof:lastmodified":1695879255,
     "wof:name":"Osieck",
     "wof:parent_id":102079931,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":49.842224,
     "geom:longitude":20.938006,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.843686,
     "lbl:longitude":20.936556,
     "mps:latitude":49.843686,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121241602",
-        "eurostat:nuts_2021_id":"1001121241602"
+        "eurostat:nuts_2021_id":"1001121241602",
+        "pol-gus:code":"1001121241602"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101826271
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125317037,
-    "wof:lastmodified":1684354221,
+    "wof:lastmodified":1695879072,
     "wof:name":"Gromnik",
     "wof:parent_id":102079535,
     "wof:placetype":"localadmin",

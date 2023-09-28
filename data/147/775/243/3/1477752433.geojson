@@ -22,6 +22,15 @@
     "geom:latitude":54.576827,
     "geom:longitude":17.920677,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.55497,
     "lbl:longitude":17.931186,
     "mps:latitude":54.55497,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221401508",
-        "eurostat:nuts_2021_id":"1004221401508"
+        "eurostat:nuts_2021_id":"1004221401508",
+        "pol-gus:code":"1004221401508"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819507
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477752433,
-    "wof:lastmodified":1684354409,
+    "wof:lastmodified":1695879355,
     "wof:name":"\u0141\u0119czyce",
     "wof:parent_id":102080267,
     "wof:placetype":"localadmin",

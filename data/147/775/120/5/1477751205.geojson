@@ -22,6 +22,15 @@
     "geom:latitude":50.48111,
     "geom:longitude":22.14118,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.490392,
     "lbl:longitude":22.1257,
     "mps:latitude":50.490392,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181361205",
-        "eurostat:nuts_2021_id":"1006181361205"
+        "eurostat:nuts_2021_id":"1006181361205",
+        "pol-gus:code":"1006181361205"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"39e88f85580daa1d2bc87e1a5955d164",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751205,
-    "wof:lastmodified":1684354346,
+    "wof:lastmodified":1695879288,
     "wof:name":"Gmina Nisko",
     "wof:parent_id":102079639,
     "wof:placetype":"localadmin",

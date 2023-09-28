@@ -22,6 +22,15 @@
     "geom:latitude":51.555258,
     "geom:longitude":20.997184,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.551256,
     "lbl:longitude":20.995503,
     "mps:latitude":51.551256,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142270104",
-        "eurostat:nuts_2021_id":"1007142270104"
+        "eurostat:nuts_2021_id":"1007142270104",
+        "pol-gus:code":"1007142270104"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125840333
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477751871,
-    "wof:lastmodified":1684354380,
+    "wof:lastmodified":1695879324,
     "wof:name":"Stara B\u0142otnica",
     "wof:parent_id":102079839,
     "wof:placetype":"localadmin",

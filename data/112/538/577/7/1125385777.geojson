@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":434,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.49412,
     "lbl:longitude":19.26496,
     "lbl:max_zoom":17.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1004041081802",
         "gn:id":3103785,
         "gp:id":12617278,
+        "pol-gus:code":"1004041081802",
         "qs_pg:id":1015822
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863903
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125385777,
-    "wof:lastmodified":1684354305,
+    "wof:lastmodified":1695879245,
     "wof:name":"Baruchowo",
     "wof:parent_id":102079997,
     "wof:placetype":"localadmin",

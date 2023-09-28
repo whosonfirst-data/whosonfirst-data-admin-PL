@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1674,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.29976,
     "lbl:longitude":22.46601,
     "lbl:max_zoom":16.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1006181360803",
         "gn:id":766962,
         "gp:id":24548508,
+        "pol-gus:code":"1006181360803",
         "qs_pg:id":907753
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823683
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125374821,
-    "wof:lastmodified":1684354290,
+    "wof:lastmodified":1695879228,
     "wof:name":"Kury\u0142\u00f3wka",
     "wof:parent_id":102079599,
     "wof:placetype":"localadmin",

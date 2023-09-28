@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2747,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.07391,
     "lbl:longitude":21.01243,
     "lbl:max_zoom":15.0,
@@ -173,8 +182,10 @@
         "eurostat:nuts_2021_id":"1005261521105",
         "gn:id":756258,
         "gp:id":24548817,
+        "pol-gus:code":"1005261521105",
         "qs_pg:id":427156
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043050,
     "wof:geom_alt":[
@@ -191,7 +202,7 @@
         }
     ],
     "wof:id":1125293871,
-    "wof:lastmodified":1684354181,
+    "wof:lastmodified":1695879000,
     "wof:name":"Gmina W\u0105chock",
     "wof:parent_id":102079727,
     "wof:placetype":"localadmin",

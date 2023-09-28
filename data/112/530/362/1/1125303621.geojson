@@ -23,6 +23,15 @@
     "geom:longitude":14.80438,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.559893,
     "lbl:longitude":14.837449,
     "lbl:max_zoom":18.0,
@@ -200,8 +209,10 @@
         "eg:gisco_id":"PL_1002321660402",
         "eurostat:nuts_2021_id":"1002321660402",
         "gp:id":24547951,
+        "pol-gus:code":"1002321660402",
         "qs_pg:id":483123
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477866039
     ],
@@ -221,7 +232,7 @@
         }
     ],
     "wof:id":1125303621,
-    "wof:lastmodified":1684354196,
+    "wof:lastmodified":1695879020,
     "wof:name":"Gmina Goleni\u00f3w",
     "wof:parent_id":102080123,
     "wof:placetype":"localadmin",

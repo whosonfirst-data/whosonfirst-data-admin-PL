@@ -22,6 +22,15 @@
     "geom:latitude":52.036303,
     "geom:longitude":23.112026,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.084199,
     "lbl:longitude":23.174085,
     "mps:latitude":52.084199,
@@ -91,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061090103",
-        "eurostat:nuts_2021_id":"1006061090103"
+        "eurostat:nuts_2021_id":"1006061090103",
+        "pol-gus:code":"1006061090103"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"545a5460075a4bf5b12ba5fe31c81510",
     "wof:hierarchy":[
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477751485,
-    "wof:lastmodified":1684354360,
+    "wof:lastmodified":1695879302,
     "wof:name":"Gmina Bia\u0142a Podlaska",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",

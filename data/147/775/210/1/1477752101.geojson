@@ -22,6 +22,15 @@
     "geom:latitude":49.912336,
     "geom:longitude":19.062022,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.909825,
     "lbl:longitude":19.061271,
     "mps:latitude":49.909825,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241440202",
-        "eurostat:nuts_2021_id":"1001241440202"
+        "eurostat:nuts_2021_id":"1001241440202",
+        "pol-gus:code":"1001241440202"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101827301
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752101,
-    "wof:lastmodified":1684354392,
+    "wof:lastmodified":1695879337,
     "wof:name":"Bestwina",
     "wof:parent_id":102079427,
     "wof:placetype":"localadmin",

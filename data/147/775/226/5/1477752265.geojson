@@ -22,6 +22,15 @@
     "geom:latitude":53.640108,
     "geom:longitude":22.455058,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.639791,
     "lbl:longitude":22.455762,
     "mps:latitude":53.639791,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201390401",
-        "eurostat:nuts_2021_id":"1006201390401"
+        "eurostat:nuts_2021_id":"1006201390401",
+        "pol-gus:code":"1006201390401"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"f6f5c5bc10fb08771624b262dfe15910",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752265,
-    "wof:lastmodified":1684354401,
+    "wof:lastmodified":1695879346,
     "wof:name":"Gmina Grajewo",
     "wof:parent_id":102080181,
     "wof:placetype":"localadmin",

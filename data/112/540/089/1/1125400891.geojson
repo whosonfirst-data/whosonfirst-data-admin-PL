@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1843,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.2116,
     "lbl:longitude":22.51725,
     "lbl:max_zoom":16.0,
@@ -182,8 +191,10 @@
         "eurostat:nuts_2021_id":"1007142712605",
         "gn:id":764407,
         "gp:id":24548327,
+        "pol-gus:code":"1007142712605",
         "qs_pg:id":1026084
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497049315,
     "wof:geom_alt":[
@@ -200,7 +211,7 @@
         }
     ],
     "wof:id":1125400891,
-    "wof:lastmodified":1684354324,
+    "wof:lastmodified":1695879266,
     "wof:name":"Gmina Mordy",
     "wof:parent_id":102079979,
     "wof:placetype":"localadmin",

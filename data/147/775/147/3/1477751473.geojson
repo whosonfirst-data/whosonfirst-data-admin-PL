@@ -22,6 +22,15 @@
     "geom:latitude":52.95506,
     "geom:longitude":21.767315,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.944225,
     "lbl:longitude":21.769897,
     "mps:latitude":52.944225,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142261503",
-        "eurostat:nuts_2021_id":"1007142261503"
+        "eurostat:nuts_2021_id":"1007142261503",
+        "pol-gus:code":"1007142261503"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1293319205
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477751473,
-    "wof:lastmodified":1684354359,
+    "wof:lastmodified":1695879301,
     "wof:name":"Czerwin",
     "wof:parent_id":102080139,
     "wof:placetype":"localadmin",

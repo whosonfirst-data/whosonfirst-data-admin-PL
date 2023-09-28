@@ -22,6 +22,15 @@
     "geom:latitude":50.678488,
     "geom:longitude":18.916114,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.676243,
     "lbl:longitude":18.910747,
     "mps:latitude":50.676243,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241450702",
-        "eurostat:nuts_2021_id":"1001241450702"
+        "eurostat:nuts_2021_id":"1001241450702",
+        "pol-gus:code":"1001241450702"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126049849
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751979,
-    "wof:lastmodified":1684354385,
+    "wof:lastmodified":1695879330,
     "wof:name":"Boron\u00f3w",
     "wof:parent_id":102079621,
     "wof:placetype":"localadmin",

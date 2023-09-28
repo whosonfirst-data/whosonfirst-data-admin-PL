@@ -22,6 +22,15 @@
     "geom:latitude":53.760121,
     "geom:longitude":16.087182,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.760558,
     "lbl:longitude":16.114636,
     "mps:latitude":53.760558,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321641603",
-        "eurostat:nuts_2021_id":"1002321641603"
+        "eurostat:nuts_2021_id":"1002321641603",
+        "pol-gus:code":"1002321641603"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"6793aa2db8a3837bf9a729a22378a694",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477752591,
-    "wof:lastmodified":1684354417,
+    "wof:lastmodified":1695879363,
     "wof:name":"Gmina Po\u0142czyn-Zdr\u00f3j",
     "wof:parent_id":102080147,
     "wof:placetype":"localadmin",

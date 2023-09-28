@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2481,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.60035,
     "lbl:longitude":19.16299,
     "lbl:max_zoom":15.0,
@@ -142,8 +151,10 @@
         "eurostat:nuts_2021_id":"1001241460902",
         "gn:id":3094898,
         "gp:id":24548569,
+        "pol-gus:code":"1001241460902",
         "qs_pg:id":59595
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045563,
     "wof:geom_alt":[
@@ -160,7 +171,7 @@
         }
     ],
     "wof:id":1125339241,
-    "wof:lastmodified":1684354247,
+    "wof:lastmodified":1695879154,
     "wof:name":"Gmina Kozieg\u0142owy",
     "wof:parent_id":102079605,
     "wof:placetype":"localadmin",

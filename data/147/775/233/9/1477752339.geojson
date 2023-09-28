@@ -22,6 +22,15 @@
     "geom:latitude":51.18932,
     "geom:longitude":21.014138,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.189575,
     "lbl:longitude":21.022054,
     "mps:latitude":51.189575,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142273003",
-        "eurostat:nuts_2021_id":"1007142273003"
+        "eurostat:nuts_2021_id":"1007142273003",
+        "pol-gus:code":"1007142273003"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1276261879
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752339,
-    "wof:lastmodified":1684354405,
+    "wof:lastmodified":1695879350,
     "wof:name":"Mir\u00f3w",
     "wof:parent_id":102079751,
     "wof:placetype":"localadmin",

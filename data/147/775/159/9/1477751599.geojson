@@ -22,6 +22,15 @@
     "geom:latitude":53.34574,
     "geom:longitude":15.045364,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.399663,
     "lbl:longitude":14.979452,
     "mps:latitude":53.399663,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321661410",
-        "eurostat:nuts_2021_id":"1002321661410"
+        "eurostat:nuts_2021_id":"1002321661410",
+        "pol-gus:code":"1002321661410"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"9674bc7d9bc3a51f17b87dc8bac84b35",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751599,
-    "wof:lastmodified":1684354365,
+    "wof:lastmodified":1695879308,
     "wof:name":"Gmina Stargard",
     "wof:parent_id":102080083,
     "wof:placetype":"localadmin",

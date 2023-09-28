@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.268855,
     "lbl:longitude":18.657531,
     "lbl:max_zoom":18.0,
@@ -185,11 +194,13 @@
         "eurostat:nuts_2021_id":"1004221400401",
         "gn:id":7531785,
         "gp:id":24547685,
+        "pol-gus:code":"1004221400401",
         "qs_pg:id":1015440
     },
     "wof:concordances_alt":{
         "qs_pg:id":380890
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497048317,
     "wof:geom_alt":[
@@ -206,7 +217,7 @@
         }
     ],
     "wof:id":1125385123,
-    "wof:lastmodified":1684354302,
+    "wof:lastmodified":1695879242,
     "wof:name":"Gmina Pruszcz Gda\u0144ski",
     "wof:parent_id":102080213,
     "wof:placetype":"localadmin",

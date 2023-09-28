@@ -22,6 +22,15 @@
     "geom:latitude":51.628265,
     "geom:longitude":18.919743,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.639699,
     "lbl:longitude":18.889647,
     "mps:latitude":51.639699,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101181904",
-        "eurostat:nuts_2021_id":"1005101181904"
+        "eurostat:nuts_2021_id":"1005101181904",
+        "pol-gus:code":"1005101181904"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"92d04374cd0d886a3510fedef1f87a6b",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751837,
-    "wof:lastmodified":1684354378,
+    "wof:lastmodified":1695879322,
     "wof:name":"Gmina Zdu\u0144ska Wola",
     "wof:parent_id":102079803,
     "wof:placetype":"localadmin",

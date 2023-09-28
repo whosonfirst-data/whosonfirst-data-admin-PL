@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":480,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.03197,
     "lbl:longitude":20.71944,
     "lbl:max_zoom":17.0,
@@ -108,8 +117,10 @@
         "eurostat:nuts_2021_id":"1007142262203",
         "gn:id":773780,
         "gp:id":12617986,
+        "pol-gus:code":"1007142262203",
         "qs_pg:id":998974
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863587
     ],
@@ -129,7 +140,7 @@
         }
     ],
     "wof:id":1125375663,
-    "wof:lastmodified":1684354292,
+    "wof:lastmodified":1695879230,
     "wof:name":"Czernice Borowe",
     "wof:parent_id":102080117,
     "wof:placetype":"localadmin",

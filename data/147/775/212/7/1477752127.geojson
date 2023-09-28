@@ -22,6 +22,15 @@
     "geom:latitude":49.720059,
     "geom:longitude":19.480852,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.717661,
     "lbl:longitude":19.490857,
     "mps:latitude":49.717661,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121691507",
-        "eurostat:nuts_2021_id":"1001121691507"
+        "eurostat:nuts_2021_id":"1001121691507",
+        "pol-gus:code":"1001121691507"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101863155
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752127,
-    "wof:lastmodified":1684354394,
+    "wof:lastmodified":1695879338,
     "wof:name":"Stryszawa",
     "wof:parent_id":102079419,
     "wof:placetype":"localadmin",

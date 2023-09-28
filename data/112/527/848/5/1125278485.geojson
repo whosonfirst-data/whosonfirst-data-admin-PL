@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2992,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.25989,
     "lbl:longitude":15.54713,
     "lbl:max_zoom":15.0,
@@ -174,8 +183,10 @@
         "eurostat:nuts_2021_id":"1002321640206",
         "gn:id":3087287,
         "gp:id":24547987,
+        "pol-gus:code":"1002321640206",
         "qs_pg:id":1073120
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042413,
     "wof:geom_alt":[
@@ -192,7 +203,7 @@
         }
     ],
     "wof:id":1125278485,
-    "wof:lastmodified":1684354146,
+    "wof:lastmodified":1695878963,
     "wof:name":"Gmina Recz",
     "wof:parent_id":102080049,
     "wof:placetype":"localadmin",

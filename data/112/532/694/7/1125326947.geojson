@@ -23,6 +23,15 @@
     "geom:longitude":16.244567,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.203455,
     "lbl:longitude":16.214704,
     "lbl:max_zoom":18.0,
@@ -101,8 +110,10 @@
         "eg:gisco_id":"PL_1003021020905",
         "eurostat:nuts_2021_id":"1003021020905",
         "gp:id":12618834,
+        "pol-gus:code":"1003021020905",
         "qs_pg:id":43787
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822839
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125326947,
-    "wof:lastmodified":1684354236,
+    "wof:lastmodified":1695879133,
     "wof:name":"Legnickie Pole",
     "wof:parent_id":102079691,
     "wof:placetype":"localadmin",

@@ -23,6 +23,15 @@
     "geom:longitude":17.849799,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.699722,
     "lbl:longitude":17.923099,
     "lbl:max_zoom":18.0,
@@ -98,8 +107,10 @@
         "eg:gisco_id":"PL_1003161320903",
         "eurostat:nuts_2021_id":"1003161320903",
         "gp:id":12616814,
+        "pol-gus:code":"1003161320903",
         "qs_pg:id":1211337
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823819
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125296229,
-    "wof:lastmodified":1684354187,
+    "wof:lastmodified":1695879008,
     "wof:name":"Dobrze\u0144 Wielki",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",

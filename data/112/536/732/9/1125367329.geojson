@@ -23,6 +23,15 @@
     "geom:longitude":19.505755,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.844619,
     "lbl:longitude":19.454984,
     "lbl:max_zoom":18.0,
@@ -98,8 +107,10 @@
         "eg:gisco_id":"PL_1001241460414",
         "eurostat:nuts_2021_id":"1001241460414",
         "gp:id":12617915,
+        "pol-gus:code":"1001241460414",
         "qs_pg:id":1324408
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823889
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125367329,
-    "wof:lastmodified":1684354277,
+    "wof:lastmodified":1695879212,
     "wof:name":"Przyr\u00f3w",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":51.739755,
     "geom:longitude":16.04206,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.739129,
     "lbl:longitude":16.042071,
     "mps:latitude":51.739129,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021020304",
-        "eurostat:nuts_2021_id":"1003021020304"
+        "eurostat:nuts_2021_id":"1003021020304",
+        "pol-gus:code":"1003021020304"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821405
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477752067,
-    "wof:lastmodified":1684354390,
+    "wof:lastmodified":1695879335,
     "wof:name":"Kotla",
     "wof:parent_id":102079769,
     "wof:placetype":"localadmin",

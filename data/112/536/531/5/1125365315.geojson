@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2849,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.76343,
     "lbl:longitude":16.80867,
     "lbl:max_zoom":15.0,
@@ -165,8 +174,10 @@
         "eurostat:nuts_2021_id":"1002301590407",
         "gn:id":3088345,
         "gp:id":24548052,
+        "pol-gus:code":"1002301590407",
         "qs_pg:id":956340
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047044,
     "wof:geom_alt":[
@@ -183,7 +194,7 @@
         }
     ],
     "wof:id":1125365315,
-    "wof:lastmodified":1684354273,
+    "wof:lastmodified":1695879206,
     "wof:name":"Gmina Poniec",
     "wof:parent_id":102079829,
     "wof:placetype":"localadmin",

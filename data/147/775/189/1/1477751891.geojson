@@ -22,6 +22,15 @@
     "geom:latitude":54.090594,
     "geom:longitude":16.183325,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.090132,
     "lbl:longitude":16.172952,
     "mps:latitude":54.090132,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321630908",
-        "eurostat:nuts_2021_id":"1002321630908"
+        "eurostat:nuts_2021_id":"1002321630908",
+        "pol-gus:code":"1002321630908"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125802159
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477751891,
-    "wof:lastmodified":1684354381,
+    "wof:lastmodified":1695879325,
     "wof:name":"\u015awieszyno",
     "wof:parent_id":102080199,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":51.02469,
     "geom:longitude":15.045845,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.024084,
     "lbl:longitude":15.04584,
     "mps:latitude":51.024084,
@@ -109,8 +118,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021012501",
-        "eurostat:nuts_2021_id":"1003021012501"
+        "eurostat:nuts_2021_id":"1003021012501",
+        "pol-gus:code":"1003021012501"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822853
     ],
@@ -126,7 +137,7 @@
         }
     ],
     "wof:id":1477752261,
-    "wof:lastmodified":1684354401,
+    "wof:lastmodified":1695879346,
     "wof:name":"Zawid\u00f3w",
     "wof:parent_id":102079695,
     "wof:placetype":"localadmin",

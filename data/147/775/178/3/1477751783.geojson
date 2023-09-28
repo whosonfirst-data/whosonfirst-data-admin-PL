@@ -22,6 +22,15 @@
     "geom:latitude":52.036564,
     "geom:longitude":18.035735,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.033997,
     "lbl:longitude":18.033855,
     "mps:latitude":52.033997,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301581002",
-        "eurostat:nuts_2021_id":"1002301581002"
+        "eurostat:nuts_2021_id":"1002301581002",
+        "pol-gus:code":"1002301581002"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820291
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751783,
-    "wof:lastmodified":1684354375,
+    "wof:lastmodified":1695879319,
     "wof:name":"Grodziec",
     "wof:parent_id":102079943,
     "wof:placetype":"localadmin",

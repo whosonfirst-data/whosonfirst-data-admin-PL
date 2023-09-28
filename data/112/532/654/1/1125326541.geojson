@@ -23,6 +23,15 @@
     "geom:longitude":17.631592,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.751675,
     "lbl:longitude":17.435646,
     "lbl:max_zoom":18.0,
@@ -95,8 +104,10 @@
         "eg:gisco_id":"PL_1004221410805",
         "eurostat:nuts_2021_id":"1004221410805",
         "gp:id":12617228,
+        "pol-gus:code":"1004221410805",
         "qs_pg:id":43560
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126019201
     ],
@@ -116,7 +127,7 @@
         }
     ],
     "wof:id":1125326541,
-    "wof:lastmodified":1684354234,
+    "wof:lastmodified":1695879124,
     "wof:name":"Wicko",
     "wof:parent_id":102080263,
     "wof:placetype":"localadmin",

@@ -23,6 +23,15 @@
     "geom:longitude":22.58202,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.377231,
     "lbl:longitude":22.531585,
     "lbl:max_zoom":18.0,
@@ -128,8 +137,10 @@
         "eg:gisco_id":"PL_1006181330108",
         "eurostat:nuts_2021_id":"1006181330108",
         "gp:id":24548410,
+        "pol-gus:code":"1006181330108",
         "qs_pg:id":32595
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497049260,
     "wof:geom_alt":[
@@ -146,7 +157,7 @@
         }
     ],
     "wof:id":1125400001,
-    "wof:lastmodified":1684354323,
+    "wof:lastmodified":1695879264,
     "wof:name":"Gmina Ustrzyki Dolne",
     "wof:parent_id":102079439,
     "wof:placetype":"localadmin",

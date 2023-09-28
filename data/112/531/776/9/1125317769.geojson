@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":447,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.93171,
     "lbl:longitude":23.34929,
     "lbl:max_zoom":17.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1006061100606",
         "gn:id":767627,
         "gp:id":12616858,
+        "pol-gus:code":"1006061100606",
         "qs_pg:id":909869
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865969
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125317769,
-    "wof:lastmodified":1684354221,
+    "wof:lastmodified":1695879073,
     "wof:name":"Kra\u015bniczyn",
     "wof:parent_id":102079745,
     "wof:placetype":"localadmin",

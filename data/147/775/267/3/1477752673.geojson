@@ -22,6 +22,15 @@
     "geom:latitude":51.882455,
     "geom:longitude":22.192558,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.888171,
     "lbl:longitude":22.182996,
     "mps:latitude":51.888171,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061121107",
-        "eurostat:nuts_2021_id":"1006061121107"
+        "eurostat:nuts_2021_id":"1006061121107",
+        "pol-gus:code":"1006061121107"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126017485
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752673,
-    "wof:lastmodified":1684354422,
+    "wof:lastmodified":1695879368,
     "wof:name":"Stanin",
     "wof:parent_id":102079925,
     "wof:placetype":"localadmin",

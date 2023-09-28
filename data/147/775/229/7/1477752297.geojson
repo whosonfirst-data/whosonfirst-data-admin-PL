@@ -22,6 +22,15 @@
     "geom:latitude":53.867291,
     "geom:longitude":21.302889,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.862675,
     "lbl:longitude":21.303418,
     "mps:latitude":53.862675,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281561001",
-        "eurostat:nuts_2021_id":"1004281561001"
+        "eurostat:nuts_2021_id":"1004281561001",
+        "pol-gus:code":"1004281561001"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"b40ddd26a87e6165b05ee656d0297905",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752297,
-    "wof:lastmodified":1684354403,
+    "wof:lastmodified":1695879348,
     "wof:name":"Gmina Mr\u0105gowo",
     "wof:parent_id":102080203,
     "wof:placetype":"localadmin",

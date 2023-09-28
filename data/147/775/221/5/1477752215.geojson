@@ -22,6 +22,15 @@
     "geom:latitude":51.523698,
     "geom:longitude":20.020271,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.531868,
     "lbl:longitude":20.019344,
     "mps:latitude":51.531868,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101171601",
-        "eurostat:nuts_2021_id":"1005101171601"
+        "eurostat:nuts_2021_id":"1005101171601",
+        "pol-gus:code":"1005101171601"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"6f9bed8139b4ffd34023d2d159e2a88f",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752215,
-    "wof:lastmodified":1684354399,
+    "wof:lastmodified":1695879344,
     "wof:name":"Gmina Tomasz\u00f3w Mazowiecki",
     "wof:parent_id":102079831,
     "wof:placetype":"localadmin",

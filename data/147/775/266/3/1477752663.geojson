@@ -22,6 +22,15 @@
     "geom:latitude":52.799385,
     "geom:longitude":18.854954,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.801275,
     "lbl:longitude":18.848426,
     "mps:latitude":52.801275,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041080108",
-        "eurostat:nuts_2021_id":"1004041080108"
+        "eurostat:nuts_2021_id":"1004041080108",
+        "pol-gus:code":"1004041080108"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125908803
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752663,
-    "wof:lastmodified":1684354421,
+    "wof:lastmodified":1695879367,
     "wof:name":"Waganiec",
     "wof:parent_id":102080009,
     "wof:placetype":"localadmin",

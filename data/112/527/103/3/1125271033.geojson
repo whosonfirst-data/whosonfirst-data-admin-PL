@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2090,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.59541,
     "lbl:longitude":22.14707,
     "lbl:max_zoom":15.0,
@@ -178,8 +187,10 @@
         "eurostat:nuts_2021_id":"1007142712905",
         "gn:id":768002,
         "gp:id":24548173,
+        "pol-gus:code":"1007142712905",
         "qs_pg:id":1056833
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042128,
     "wof:geom_alt":[
@@ -196,7 +207,7 @@
         }
     ],
     "wof:id":1125271033,
-    "wof:lastmodified":1684354140,
+    "wof:lastmodified":1695878957,
     "wof:name":"Gmina Kos\u00f3w Lacki",
     "wof:parent_id":102080023,
     "wof:placetype":"localadmin",

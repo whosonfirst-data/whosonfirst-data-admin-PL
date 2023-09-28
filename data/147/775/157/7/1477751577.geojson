@@ -22,6 +22,15 @@
     "geom:latitude":49.838014,
     "geom:longitude":18.906416,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.833465,
     "lbl:longitude":18.900009,
     "mps:latitude":49.833465,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241440205",
-        "eurostat:nuts_2021_id":"1001241440205"
+        "eurostat:nuts_2021_id":"1001241440205",
+        "pol-gus:code":"1001241440205"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101756567
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477751577,
-    "wof:lastmodified":1684354364,
+    "wof:lastmodified":1695879307,
     "wof:name":"Jasienica",
     "wof:parent_id":102079427,
     "wof:placetype":"localadmin",

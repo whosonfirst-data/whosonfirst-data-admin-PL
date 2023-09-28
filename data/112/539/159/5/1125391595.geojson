@@ -23,6 +23,15 @@
     "geom:longitude":21.893997,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.227036,
     "lbl:longitude":21.871762,
     "lbl:max_zoom":18.0,
@@ -155,8 +164,10 @@
         "eg:gisco_id":"PL_1006201380704",
         "eurostat:nuts_2021_id":"1006201380704",
         "gp:id":24548280,
+        "pol-gus:code":"1006201380704",
         "qs_pg:id":1018049
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497048741,
     "wof:geom_alt":[
@@ -173,7 +184,7 @@
         }
     ],
     "wof:id":1125391595,
-    "wof:lastmodified":1684354309,
+    "wof:lastmodified":1695879249,
     "wof:name":"Gmina Nowogr\u00f3d",
     "wof:parent_id":102080143,
     "wof:placetype":"localadmin",

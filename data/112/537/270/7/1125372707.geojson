@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1048,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.72184,
     "lbl:longitude":22.66651,
     "lbl:max_zoom":16.0,
@@ -99,8 +108,10 @@
         "eurostat:nuts_2021_id":"1006061100206",
         "gn:id":771876,
         "gp:id":12616566,
+        "pol-gus:code":"1006061100206",
         "qs_pg:id":987526
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824003
     ],
@@ -120,7 +131,7 @@
         }
     ],
     "wof:id":1125372707,
-    "wof:lastmodified":1684354286,
+    "wof:lastmodified":1695879224,
     "wof:name":"Goraj",
     "wof:parent_id":102079699,
     "wof:placetype":"localadmin",

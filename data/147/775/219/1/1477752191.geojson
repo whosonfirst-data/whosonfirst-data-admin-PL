@@ -22,6 +22,15 @@
     "geom:latitude":49.664609,
     "geom:longitude":21.168799,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.658306,
     "lbl:longitude":21.164897,
     "mps:latitude":49.658306,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121220501",
-        "eurostat:nuts_2021_id":"1001121220501"
+        "eurostat:nuts_2021_id":"1001121220501",
+        "pol-gus:code":"1001121220501"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"e91ead7dfe9d475b7831c4b215ffde93",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752191,
-    "wof:lastmodified":1684354397,
+    "wof:lastmodified":1695879342,
     "wof:name":"Gmina Gorlice",
     "wof:parent_id":102079429,
     "wof:placetype":"localadmin",

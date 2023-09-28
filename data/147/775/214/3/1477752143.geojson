@@ -22,6 +22,15 @@
     "geom:latitude":52.63788,
     "geom:longitude":23.476932,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.646158,
     "lbl:longitude":23.478934,
     "mps:latitude":52.646158,
@@ -73,8 +82,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201380505",
-        "eurostat:nuts_2021_id":"1006201380505"
+        "eurostat:nuts_2021_id":"1006201380505",
+        "pol-gus:code":"1006201380505"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125938733
     ],
@@ -90,7 +101,7 @@
         }
     ],
     "wof:id":1477752143,
-    "wof:lastmodified":1684354395,
+    "wof:lastmodified":1695879339,
     "wof:name":"Dubicze Cerkiewne",
     "wof:parent_id":102080091,
     "wof:placetype":"localadmin",

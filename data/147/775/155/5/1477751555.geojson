@@ -22,6 +22,15 @@
     "geom:latitude":51.661504,
     "geom:longitude":19.502039,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.665201,
     "lbl:longitude":19.493113,
     "mps:latitude":51.665201,
@@ -55,8 +64,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101150610",
-        "eurostat:nuts_2021_id":"1005101150610"
+        "eurostat:nuts_2021_id":"1005101150610",
+        "pol-gus:code":"1005101150610"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"16797d6068d929518a73e3f045479e0c",
     "wof:hierarchy":[
@@ -69,7 +80,7 @@
         }
     ],
     "wof:id":1477751555,
-    "wof:lastmodified":1684354363,
+    "wof:lastmodified":1695879306,
     "wof:name":"Gmina Rzg\u00f3w",
     "wof:parent_id":102079837,
     "wof:placetype":"localadmin",

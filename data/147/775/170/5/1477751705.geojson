@@ -22,6 +22,15 @@
     "geom:latitude":49.736192,
     "geom:longitude":21.219374,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.742834,
     "lbl:longitude":21.217629,
     "mps:latitude":49.742834,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121220502",
-        "eurostat:nuts_2021_id":"1001121220502"
+        "eurostat:nuts_2021_id":"1001121220502",
+        "pol-gus:code":"1001121220502"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"79204004427719e73583bee2c9f4caf3",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751705,
-    "wof:lastmodified":1684354371,
+    "wof:lastmodified":1695879315,
     "wof:name":"Gmina Biecz",
     "wof:parent_id":102079429,
     "wof:placetype":"localadmin",

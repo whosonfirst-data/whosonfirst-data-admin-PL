@@ -22,6 +22,15 @@
     "geom:latitude":50.243869,
     "geom:longitude":22.917457,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.249833,
     "lbl:longitude":22.925636,
     "mps:latitude":50.249833,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181340907",
-        "eurostat:nuts_2021_id":"1006181340907"
+        "eurostat:nuts_2021_id":"1006181340907",
+        "pol-gus:code":"1006181340907"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125768281
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752405,
-    "wof:lastmodified":1684354408,
+    "wof:lastmodified":1695879353,
     "wof:name":"Stary Dzik\u00f3w",
     "wof:parent_id":102079623,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":54.164236,
     "geom:longitude":17.4888,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.172655,
     "lbl:longitude":17.486873,
     "mps:latitude":54.172655,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221410102",
-        "eurostat:nuts_2021_id":"1004221410102"
+        "eurostat:nuts_2021_id":"1004221410102",
+        "pol-gus:code":"1004221410102"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"c4c9e08b9fd637ce8c40b46469cf44b9",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751475,
-    "wof:lastmodified":1684354359,
+    "wof:lastmodified":1695879302,
     "wof:name":"Gmina Byt\u00f3w",
     "wof:parent_id":102080217,
     "wof:placetype":"localadmin",

@@ -23,6 +23,15 @@
     "geom:longitude":20.332936,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.682902,
     "lbl:longitude":20.342388,
     "lbl:max_zoom":18.0,
@@ -95,8 +104,10 @@
         "eg:gisco_id":"PL_1001121220711",
         "eurostat:nuts_2021_id":"1001121220711",
         "gp:id":12618891,
+        "pol-gus:code":"1001121220711",
         "qs_pg:id":493142
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101863175
     ],
@@ -116,7 +127,7 @@
         }
     ],
     "wof:id":1125315497,
-    "wof:lastmodified":1684354220,
+    "wof:lastmodified":1695879071,
     "wof:name":"S\u0142opnice",
     "wof:parent_id":102079423,
     "wof:placetype":"localadmin",

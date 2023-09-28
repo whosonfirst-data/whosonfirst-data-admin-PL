@@ -22,6 +22,15 @@
     "geom:latitude":54.346827,
     "geom:longitude":20.196306,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.343427,
     "lbl:longitude":20.193534,
     "mps:latitude":54.343427,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281540204",
-        "eurostat:nuts_2021_id":"1004281540204"
+        "eurostat:nuts_2021_id":"1004281540204",
+        "pol-gus:code":"1004281540204"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1343789945
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477751195,
-    "wof:lastmodified":1684354345,
+    "wof:lastmodified":1695879287,
     "wof:name":"Lelkowo",
     "wof:parent_id":102080237,
     "wof:placetype":"localadmin",

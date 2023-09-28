@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1163,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.09784,
     "lbl:longitude":17.00478,
     "lbl:max_zoom":16.0,
@@ -103,8 +112,10 @@
         "eurostat:nuts_2021_id":"1002301601905",
         "gn:id":3092083,
         "gp:id":12616934,
+        "pol-gus:code":"1002301601905",
         "qs_pg:id":23911
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820541
     ],
@@ -124,7 +135,7 @@
         }
     ],
     "wof:id":1125375529,
-    "wof:lastmodified":1684354291,
+    "wof:lastmodified":1695879229,
     "wof:name":"Miasteczko Kraje\u0144skie",
     "wof:parent_id":102080065,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.589877,
     "geom:longitude":15.910015,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.591233,
     "lbl:longitude":15.908067,
     "mps:latitude":52.591233,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301591403",
-        "eurostat:nuts_2021_id":"1002301591403"
+        "eurostat:nuts_2021_id":"1002301591403",
+        "pol-gus:code":"1002301591403"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"e13b41c46fbbeaf85bb0b507096581a8",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752935,
-    "wof:lastmodified":1684354437,
+    "wof:lastmodified":1695879383,
     "wof:name":"Gmina Mi\u0119dzych\u00f3d",
     "wof:parent_id":102079961,
     "wof:placetype":"localadmin",

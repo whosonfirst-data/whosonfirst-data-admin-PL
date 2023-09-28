@@ -22,6 +22,15 @@
     "geom:latitude":49.94541,
     "geom:longitude":19.894578,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.948728,
     "lbl:longitude":19.898545,
     "mps:latitude":49.948728,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121200609",
-        "eurostat:nuts_2021_id":"1001121200609"
+        "eurostat:nuts_2021_id":"1001121200609",
+        "pol-gus:code":"1001121200609"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125910361
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477751287,
-    "wof:lastmodified":1684354350,
+    "wof:lastmodified":1695879292,
     "wof:name":"Mogilany",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",

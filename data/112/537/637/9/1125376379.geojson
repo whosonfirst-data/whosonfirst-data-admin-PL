@@ -23,6 +23,15 @@
     "geom:longitude":18.264591,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.4159,
     "lbl:longitude":18.357811,
     "lbl:max_zoom":18.0,
@@ -98,8 +107,10 @@
         "eg:gisco_id":"PL_1004221400503",
         "eurostat:nuts_2021_id":"1004221400503",
         "gp:id":12617281,
+        "pol-gus:code":"1004221400503",
         "qs_pg:id":1001233
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125880711
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125376379,
-    "wof:lastmodified":1684354294,
+    "wof:lastmodified":1695879233,
     "wof:name":"Przodkowo",
     "wof:parent_id":102080233,
     "wof:placetype":"localadmin",

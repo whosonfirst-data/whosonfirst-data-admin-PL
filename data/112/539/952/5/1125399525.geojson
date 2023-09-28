@@ -22,6 +22,15 @@
     "geom:latitude":51.241809,
     "geom:longitude":22.002636,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.227466,
     "lbl:longitude":22.002601,
     "mps:latitude":51.227466,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061121203",
-        "eurostat:nuts_2021_id":"1006061121203"
+        "eurostat:nuts_2021_id":"1006061121203",
+        "pol-gus:code":"1006061121203"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864681
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125399525,
-    "wof:lastmodified":1684354322,
+    "wof:lastmodified":1695879262,
     "wof:name":"Karczmiska",
     "wof:parent_id":102079761,
     "wof:placetype":"localadmin",

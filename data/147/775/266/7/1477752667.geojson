@@ -22,6 +22,15 @@
     "geom:latitude":52.997454,
     "geom:longitude":23.152404,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.986719,
     "lbl:longitude":23.150701,
     "mps:latitude":52.986719,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201370205",
-        "eurostat:nuts_2021_id":"1006201370205"
+        "eurostat:nuts_2021_id":"1006201370205",
+        "pol-gus:code":"1006201370205"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126033169
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752667,
-    "wof:lastmodified":1684354421,
+    "wof:lastmodified":1695879368,
     "wof:name":"Juchnowiec Ko\u015bcielny",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",

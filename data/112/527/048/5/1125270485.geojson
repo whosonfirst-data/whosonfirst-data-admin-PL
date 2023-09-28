@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":789,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.95008,
     "lbl:longitude":17.74957,
     "lbl:max_zoom":17.0,
@@ -112,8 +121,10 @@
         "eurostat:nuts_2021_id":"1002301572002",
         "gn:id":3101038,
         "gp:id":12618121,
+        "pol-gus:code":"1002301572002",
         "qs_pg:id":904703
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864343
     ],
@@ -133,7 +144,7 @@
         }
     ],
     "wof:id":1125270485,
-    "wof:lastmodified":1684354140,
+    "wof:lastmodified":1695878957,
     "wof:name":"Czermin",
     "wof:parent_id":102079847,
     "wof:placetype":"localadmin",

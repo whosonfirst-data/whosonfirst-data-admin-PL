@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":13343,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.73872,
     "lbl:longitude":19.81994,
     "lbl:max_zoom":15.0,
@@ -183,8 +192,10 @@
         "eurostat:nuts_2021_id":"1005101150607",
         "gn:id":3095413,
         "gp:id":24548480,
+        "pol-gus:code":"1005101150607",
         "qs_pg:id":1113157
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497049631,
     "wof:geom_alt":[
@@ -201,7 +212,7 @@
         }
     ],
     "wof:id":1125405789,
-    "wof:lastmodified":1684354327,
+    "wof:lastmodified":1695879269,
     "wof:name":"Gmina Koluszki",
     "wof:parent_id":102079837,
     "wof:placetype":"localadmin",

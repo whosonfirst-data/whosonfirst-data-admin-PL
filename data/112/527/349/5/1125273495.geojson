@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":7206,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.24772,
     "lbl:longitude":17.08949,
     "lbl:max_zoom":15.0,
@@ -164,8 +173,10 @@
         "eurostat:nuts_2021_id":"1002301612109",
         "gn:id":3095194,
         "gp:id":24547565,
+        "pol-gus:code":"1002301612109",
         "qs_pg:id":1059793
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042226,
     "wof:geom_alt":[
@@ -182,7 +193,7 @@
         }
     ],
     "wof:id":1125273495,
-    "wof:lastmodified":1684354141,
+    "wof:lastmodified":1695878958,
     "wof:name":"Gmina K\u00f3rnik",
     "wof:parent_id":102079955,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.172371,
     "geom:longitude":20.566015,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.170637,
     "lbl:longitude":20.550381,
     "mps:latitude":50.170637,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121201402",
-        "eurostat:nuts_2021_id":"1001121201402"
+        "eurostat:nuts_2021_id":"1001121201402",
+        "pol-gus:code":"1001121201402"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"c19af9166279913bc30668a851edf7fd",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752383,
-    "wof:lastmodified":1684354407,
+    "wof:lastmodified":1695879352,
     "wof:name":"Gmina Koszyce",
     "wof:parent_id":102079545,
     "wof:placetype":"localadmin",

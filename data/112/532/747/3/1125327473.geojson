@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":723,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.26837,
     "lbl:longitude":20.46307,
     "lbl:max_zoom":17.0,
@@ -110,8 +119,10 @@
         "eurostat:nuts_2021_id":"1007141303203",
         "gn:id":769600,
         "gp:id":12617620,
+        "pol-gus:code":"1007141303203",
         "qs_pg:id":1290363
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865521
     ],
@@ -131,7 +142,7 @@
         }
     ],
     "wof:id":1125327473,
-    "wof:lastmodified":1684354237,
+    "wof:lastmodified":1695879135,
     "wof:name":"Kampinos",
     "wof:parent_id":102079949,
     "wof:placetype":"localadmin",

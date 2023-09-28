@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4522,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.60532,
     "lbl:longitude":18.90173,
     "lbl:max_zoom":15.0,
@@ -188,8 +197,10 @@
         "eurostat:nuts_2021_id":"1004041081804",
         "gn:id":3102447,
         "gp:id":24547840,
+        "pol-gus:code":"1004041081804",
         "qs_pg:id":1097005
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042960,
     "wof:geom_alt":[
@@ -206,7 +217,7 @@
         }
     ],
     "wof:id":1125291877,
-    "wof:lastmodified":1684354178,
+    "wof:lastmodified":1695878996,
     "wof:name":"Gmina Brze\u015b\u0107 Kujawski",
     "wof:parent_id":102079997,
     "wof:placetype":"localadmin",

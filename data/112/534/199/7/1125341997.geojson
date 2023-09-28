@@ -23,6 +23,15 @@
     "geom:longitude":19.512762,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.866667,
     "lbl:longitude":19.533333,
     "lbl:max_zoom":18.0,
@@ -113,8 +122,10 @@
         "eg:gisco_id":"PL_1001121231809",
         "eurostat:nuts_2021_id":"1001121231809",
         "gp:id":24548594,
+        "pol-gus:code":"1001121231809",
         "qs_pg:id":1137236
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045711,
     "wof:geom_alt":[
@@ -131,7 +142,7 @@
         }
     ],
     "wof:id":1125341997,
-    "wof:lastmodified":1684354250,
+    "wof:lastmodified":1695879158,
     "wof:name":"Gmina Wadowice",
     "wof:parent_id":102079451,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":49.498487,
     "geom:longitude":20.869666,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.498701,
     "lbl:longitude":20.86965,
     "mps:latitude":49.498701,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121221008",
-        "eurostat:nuts_2021_id":"1001121221008"
+        "eurostat:nuts_2021_id":"1001121221008",
+        "pol-gus:code":"1001121221008"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101826149
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477752031,
-    "wof:lastmodified":1684354388,
+    "wof:lastmodified":1695879332,
     "wof:name":"\u0141abowa",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3700,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.58757,
     "lbl:longitude":21.95292,
     "lbl:max_zoom":15.0,
@@ -101,8 +110,10 @@
         "eurostat:nuts_2021_id":"1006181331702",
         "gn:id":776214,
         "gp:id":12617413,
+        "pol-gus:code":"1006181331702",
         "qs_pg:id":24001
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101827327
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125288833,
-    "wof:lastmodified":1684354165,
+    "wof:lastmodified":1695878982,
     "wof:name":"Besko",
     "wof:parent_id":102079437,
     "wof:placetype":"localadmin",

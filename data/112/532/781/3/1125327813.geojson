@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4183,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.02958,
     "lbl:longitude":18.7916,
     "lbl:max_zoom":15.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1001241511006",
         "gn:id":3084142,
         "gp:id":12617978,
+        "pol-gus:code":"1001241511006",
         "qs_pg:id":1291757
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824755
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125327813,
-    "wof:lastmodified":1684354237,
+    "wof:lastmodified":1695879137,
     "wof:name":"Suszec",
     "wof:parent_id":102079457,
     "wof:placetype":"localadmin",

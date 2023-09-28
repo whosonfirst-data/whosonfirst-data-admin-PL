@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":304,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.03739,
     "lbl:longitude":22.17642,
     "lbl:max_zoom":17.0,
@@ -97,8 +106,10 @@
         "eurostat:nuts_2021_id":"1007142712601",
         "gn:id":773050,
         "gp:id":12618502,
+        "pol-gus:code":"1007142712601",
         "qs_pg:id":24227
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865091
     ],
@@ -118,7 +129,7 @@
         }
     ],
     "wof:id":1125289283,
-    "wof:lastmodified":1684354172,
+    "wof:lastmodified":1695878989,
     "wof:name":"Domanice",
     "wof:parent_id":102079979,
     "wof:placetype":"localadmin",

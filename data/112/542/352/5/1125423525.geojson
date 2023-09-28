@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.582,
     "lbl:longitude":22.5304,
     "lbl:max_zoom":18.0,
@@ -180,8 +189,10 @@
         "eg:gisco_id":"PL_1006201390402",
         "eurostat:nuts_2021_id":"1006201390402",
         "gn:id":7531944,
+        "pol-gus:code":"1006201390402",
         "qs_pg:id":904242
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497052709,
     "wof:geom_alt":[
@@ -198,7 +209,7 @@
         }
     ],
     "wof:id":1125423525,
-    "wof:lastmodified":1684354342,
+    "wof:lastmodified":1695879284,
     "wof:name":"Gmina Grajewo",
     "wof:parent_id":102080181,
     "wof:placetype":"localadmin",

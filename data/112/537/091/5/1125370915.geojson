@@ -23,6 +23,15 @@
     "geom:longitude":20.307505,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.64412,
     "lbl:longitude":20.284109,
     "lbl:max_zoom":18.0,
@@ -173,8 +182,10 @@
         "eg:gisco_id":"PL_1005261530202",
         "eurostat:nuts_2021_id":"1005261530202",
         "gp:id":24548372,
+        "pol-gus:code":"1005261530202",
         "qs_pg:id":1184521
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047386,
     "wof:geom_alt":[
@@ -191,7 +202,7 @@
         }
     ],
     "wof:id":1125370915,
-    "wof:lastmodified":1684354281,
+    "wof:lastmodified":1695879217,
     "wof:name":"Gmina J\u0119drzej\u00f3w",
     "wof:parent_id":102079641,
     "wof:placetype":"localadmin",

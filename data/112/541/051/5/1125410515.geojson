@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3756,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.24111,
     "lbl:longitude":16.88968,
     "lbl:max_zoom":15.0,
@@ -177,8 +186,10 @@
         "eurostat:nuts_2021_id":"1004221411205",
         "gn:id":3096353,
         "gp:id":24547581,
+        "pol-gus:code":"1004221411205",
         "qs_pg:id":59427
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865173
     ],
@@ -198,7 +209,7 @@
         }
     ],
     "wof:id":1125410515,
-    "wof:lastmodified":1684354331,
+    "wof:lastmodified":1695879272,
     "wof:name":"Gmina K\u0119pice",
     "wof:parent_id":102080255,
     "wof:placetype":"localadmin",

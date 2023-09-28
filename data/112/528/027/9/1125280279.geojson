@@ -23,6 +23,15 @@
     "geom:longitude":18.241183,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.33875,
     "lbl:longitude":18.206191,
     "lbl:max_zoom":18.0,
@@ -179,8 +188,10 @@
         "eg:gisco_id":"PL_1003161320301",
         "eurostat:nuts_2021_id":"1003161320301",
         "gp:id":12617732,
+        "pol-gus:code":"1003161320301",
         "qs_pg:id":1080557
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101913155
     ],
@@ -200,7 +211,7 @@
         }
     ],
     "wof:id":1125280279,
-    "wof:lastmodified":1684354147,
+    "wof:lastmodified":1695878965,
     "wof:name":"K\u0119dzierzyn-Ko\u017ale",
     "wof:parent_id":102079523,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.877445,
     "geom:longitude":19.224759,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.879724,
     "lbl:longitude":19.223708,
     "mps:latitude":50.879724,
@@ -55,8 +64,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241460415",
-        "eurostat:nuts_2021_id":"1001241460415"
+        "eurostat:nuts_2021_id":"1001241460415",
+        "pol-gus:code":"1001241460415"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101756593
     ],
@@ -72,7 +83,7 @@
         }
     ],
     "wof:id":1477752169,
-    "wof:lastmodified":1684354396,
+    "wof:lastmodified":1695879341,
     "wof:name":"R\u0119dziny",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",

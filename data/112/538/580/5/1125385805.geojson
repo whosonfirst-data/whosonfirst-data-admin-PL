@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1316,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.80743,
     "lbl:longitude":21.43407,
     "lbl:max_zoom":16.0,
@@ -155,8 +164,10 @@
         "eurostat:nuts_2021_id":"1006181330505",
         "gn:id":768827,
         "gp:id":12617681,
+        "pol-gus:code":"1006181330505",
         "qs_pg:id":1015826
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863455
     ],
@@ -176,7 +187,7 @@
         }
     ],
     "wof:id":1125385805,
-    "wof:lastmodified":1684354305,
+    "wof:lastmodified":1695879245,
     "wof:name":"Gmina Ko\u0142aczyce",
     "wof:parent_id":102079453,
     "wof:placetype":"localadmin",

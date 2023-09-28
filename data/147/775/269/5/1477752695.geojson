@@ -22,6 +22,15 @@
     "geom:latitude":49.844663,
     "geom:longitude":21.570376,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.842357,
     "lbl:longitude":21.587087,
     "mps:latitude":49.842357,
@@ -73,8 +82,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181351902",
-        "eurostat:nuts_2021_id":"1006181351902"
+        "eurostat:nuts_2021_id":"1006181351902",
+        "pol-gus:code":"1006181351902"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125879521
     ],
@@ -90,7 +101,7 @@
         }
     ],
     "wof:id":1477752695,
-    "wof:lastmodified":1684354423,
+    "wof:lastmodified":1695879369,
     "wof:name":"Frysztak",
     "wof:parent_id":102079483,
     "wof:placetype":"localadmin",

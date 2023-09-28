@@ -22,6 +22,15 @@
     "geom:latitude":54.123276,
     "geom:longitude":20.51561,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.130836,
     "lbl:longitude":20.470377,
     "mps:latitude":54.130836,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281560903",
-        "eurostat:nuts_2021_id":"1004281560903"
+        "eurostat:nuts_2021_id":"1004281560903",
+        "pol-gus:code":"1004281560903"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865305
     ],
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751723,
-    "wof:lastmodified":1684354372,
+    "wof:lastmodified":1695879316,
     "wof:name":"Gmina Lidzbark Warmi\u0144ski",
     "wof:parent_id":102080215,
     "wof:placetype":"localadmin",

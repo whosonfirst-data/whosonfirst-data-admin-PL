@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":417,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.90923,
     "lbl:longitude":18.53102,
     "lbl:max_zoom":17.0,
@@ -109,8 +118,10 @@
         "eurostat:nuts_2021_id":"1002301582704",
         "gn:id":3096437,
         "gp:id":12617338,
+        "pol-gus:code":"1002301582704",
         "qs_pg:id":23980
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864581
     ],
@@ -130,7 +141,7 @@
         }
     ],
     "wof:id":1125288719,
-    "wof:lastmodified":1684354162,
+    "wof:lastmodified":1695878980,
     "wof:name":"Kaw\u0119czyn",
     "wof:parent_id":102079883,
     "wof:placetype":"localadmin",

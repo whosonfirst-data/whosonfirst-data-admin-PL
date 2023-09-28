@@ -22,6 +22,15 @@
     "geom:latitude":50.69803,
     "geom:longitude":19.646327,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.701197,
     "lbl:longitude":19.637381,
     "mps:latitude":50.701197,
@@ -73,8 +82,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241460409",
-        "eurostat:nuts_2021_id":"1001241460409"
+        "eurostat:nuts_2021_id":"1001241460409",
+        "pol-gus:code":"1001241460409"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125780397
     ],
@@ -90,7 +101,7 @@
         }
     ],
     "wof:id":1477752743,
-    "wof:lastmodified":1684354426,
+    "wof:lastmodified":1695879372,
     "wof:name":"Lel\u00f3w",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",

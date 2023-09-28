@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2825,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.69097,
     "lbl:longitude":15.73174,
     "lbl:max_zoom":15.0,
@@ -166,8 +175,10 @@
         "eurostat:nuts_2021_id":"1002081140406",
         "gn:id":3090616,
         "gp:id":24547882,
+        "pol-gus:code":"1002081140406",
         "qs_pg:id":59485
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045550,
     "wof:geom_alt":[
@@ -184,7 +195,7 @@
         }
     ],
     "wof:id":1125338891,
-    "wof:lastmodified":1684354245,
+    "wof:lastmodified":1695879151,
     "wof:name":"Gmina Nowe Miasteczko",
     "wof:parent_id":102079825,
     "wof:placetype":"localadmin",

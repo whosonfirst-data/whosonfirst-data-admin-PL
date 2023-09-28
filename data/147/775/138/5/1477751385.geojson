@@ -22,6 +22,15 @@
     "geom:latitude":49.985845,
     "geom:longitude":19.517912,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.990319,
     "lbl:longitude":19.516744,
     "mps:latitude":49.990319,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121231806",
-        "eurostat:nuts_2021_id":"1001121231806"
+        "eurostat:nuts_2021_id":"1001121231806",
+        "pol-gus:code":"1001121231806"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824741
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477751385,
-    "wof:lastmodified":1684354355,
+    "wof:lastmodified":1695879297,
     "wof:name":"Spytkowice",
     "wof:parent_id":102079451,
     "wof:placetype":"localadmin",

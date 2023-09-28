@@ -22,6 +22,15 @@
     "geom:latitude":54.302106,
     "geom:longitude":20.472222,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.31547,
     "lbl:longitude":20.398178,
     "mps:latitude":54.31547,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281560105",
-        "eurostat:nuts_2021_id":"1004281560105"
+        "eurostat:nuts_2021_id":"1004281560105",
+        "pol-gus:code":"1004281560105"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"7260c68907b649278e8ec3b5e67563de",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752751,
-    "wof:lastmodified":1684354427,
+    "wof:lastmodified":1695879373,
     "wof:name":"Gmina G\u00f3rowo I\u0142aweckie",
     "wof:parent_id":102080247,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":51.141088,
     "geom:longitude":23.447158,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.087065,
     "lbl:longitude":23.412844,
     "mps:latitude":51.087065,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061100303",
-        "eurostat:nuts_2021_id":"1006061100303"
+        "eurostat:nuts_2021_id":"1006061100303",
+        "pol-gus:code":"1006061100303"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"65371f4d25d46bb470720befca692bf5",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477752105,
-    "wof:lastmodified":1684354392,
+    "wof:lastmodified":1695879337,
     "wof:name":"Gmina Che\u0142m",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",

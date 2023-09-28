@@ -22,6 +22,15 @@
     "geom:latitude":50.894976,
     "geom:longitude":23.691233,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.894456,
     "lbl:longitude":23.682025,
     "mps:latitude":50.894456,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061100407",
-        "eurostat:nuts_2021_id":"1006061100407"
+        "eurostat:nuts_2021_id":"1006061100407",
+        "pol-gus:code":"1006061100407"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125929985
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752567,
-    "wof:lastmodified":1684354416,
+    "wof:lastmodified":1695879362,
     "wof:name":"Uchanie",
     "wof:parent_id":102079743,
     "wof:placetype":"localadmin",

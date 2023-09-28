@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1780,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.3344,
     "lbl:longitude":18.89915,
     "lbl:max_zoom":16.0,
@@ -167,8 +176,10 @@
         "eurostat:nuts_2021_id":"1002301580911",
         "gn:id":3087992,
         "gp:id":24547866,
+        "pol-gus:code":"1002301580911",
         "qs_pg:id":1097006
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042961,
     "wof:geom_alt":[
@@ -185,7 +196,7 @@
         }
     ],
     "wof:id":1125291885,
-    "wof:lastmodified":1684354178,
+    "wof:lastmodified":1695878997,
     "wof:name":"Gmina Przedecz",
     "wof:parent_id":102079927,
     "wof:placetype":"localadmin",

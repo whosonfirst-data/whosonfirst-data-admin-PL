@@ -22,6 +22,15 @@
     "geom:latitude":50.763653,
     "geom:longitude":16.937297,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.760729,
     "lbl:longitude":16.931055,
     "mps:latitude":50.760729,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021041702",
-        "eurostat:nuts_2021_id":"1003021041702"
+        "eurostat:nuts_2021_id":"1003021041702",
+        "pol-gus:code":"1003021041702"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126006897
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477751351,
-    "wof:lastmodified":1684354353,
+    "wof:lastmodified":1695879295,
     "wof:name":"Kondratowice",
     "wof:parent_id":102079609,
     "wof:placetype":"localadmin",

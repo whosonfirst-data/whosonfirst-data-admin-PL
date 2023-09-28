@@ -22,6 +22,15 @@
     "geom:latitude":51.360414,
     "geom:longitude":19.366401,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.360947,
     "lbl:longitude":19.366382,
     "mps:latitude":51.360947,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101170101",
-        "eurostat:nuts_2021_id":"1005101170101"
+        "eurostat:nuts_2021_id":"1005101170101",
+        "pol-gus:code":"1005101170101"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"6bf42604d91b7cbfb28d5da0052a43ca",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752971,
-    "wof:lastmodified":1684354439,
+    "wof:lastmodified":1695879385,
     "wof:name":"Gmina Be\u0142chat\u00f3w",
     "wof:parent_id":102079763,
     "wof:placetype":"localadmin",

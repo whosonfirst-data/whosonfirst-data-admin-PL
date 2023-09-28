@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1646,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.30266,
     "lbl:longitude":19.6457,
     "lbl:max_zoom":16.0,
@@ -107,8 +116,10 @@
         "eurostat:nuts_2021_id":"1005101171008",
         "gn:id":3086861,
         "gp:id":12617099,
+        "pol-gus:code":"1005101171008",
         "qs_pg:id":497829
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821433
     ],
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1125324715,
-    "wof:lastmodified":1684354231,
+    "wof:lastmodified":1695879118,
     "wof:name":"Rozprza",
     "wof:parent_id":102079783,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.909341,
     "geom:longitude":19.762168,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.910594,
     "lbl:longitude":19.763948,
     "mps:latitude":52.910594,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142702704",
-        "eurostat:nuts_2021_id":"1007142702704"
+        "eurostat:nuts_2021_id":"1007142702704",
+        "pol-gus:code":"1007142702704"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863401
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125289113,
-    "wof:lastmodified":1684354169,
+    "wof:lastmodified":1695878987,
     "wof:name":"Ro\u015bciszewo",
     "wof:parent_id":102080035,
     "wof:placetype":"localadmin",

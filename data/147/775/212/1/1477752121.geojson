@@ -22,6 +22,15 @@
     "geom:latitude":50.410234,
     "geom:longitude":21.397664,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.415323,
     "lbl:longitude":21.384082,
     "mps:latitude":50.415323,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181361104",
-        "eurostat:nuts_2021_id":"1006181361104"
+        "eurostat:nuts_2021_id":"1006181361104",
+        "pol-gus:code":"1006181361104"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125919721
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752121,
-    "wof:lastmodified":1684354393,
+    "wof:lastmodified":1695879338,
     "wof:name":"Gaw\u0142uszowice",
     "wof:parent_id":102079597,
     "wof:placetype":"localadmin",

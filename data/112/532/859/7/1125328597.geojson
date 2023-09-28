@@ -22,6 +22,15 @@
     "geom:latitude":50.186667,
     "geom:longitude":20.737305,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.179493,
     "lbl:longitude":20.732876,
     "mps:latitude":50.179493,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121241612",
-        "eurostat:nuts_2021_id":"1001121241612"
+        "eurostat:nuts_2021_id":"1001121241612",
+        "pol-gus:code":"1001121241612"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863547
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125328597,
-    "wof:lastmodified":1684354239,
+    "wof:lastmodified":1695879140,
     "wof:name":"Wietrzychowice",
     "wof:parent_id":102079535,
     "wof:placetype":"localadmin",

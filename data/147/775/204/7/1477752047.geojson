@@ -22,6 +22,15 @@
     "geom:latitude":51.058716,
     "geom:longitude":20.2734,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.06328,
     "lbl:longitude":20.275163,
     "mps:latitude":51.06328,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005261520504",
-        "eurostat:nuts_2021_id":"1005261520504"
+        "eurostat:nuts_2021_id":"1005261520504",
+        "pol-gus:code":"1005261520504"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"2782847f739a93a2dc712c395d3c3f87",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752047,
-    "wof:lastmodified":1684354389,
+    "wof:lastmodified":1695879333,
     "wof:name":"Gmina Radoszyce",
     "wof:parent_id":102079739,
     "wof:placetype":"localadmin",

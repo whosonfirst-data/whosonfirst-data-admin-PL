@@ -23,6 +23,15 @@
     "geom:longitude":16.6799,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.252364,
     "lbl:longitude":16.782817,
     "lbl:max_zoom":18.0,
@@ -113,8 +122,10 @@
         "eg:gisco_id":"PL_1003021030810",
         "eurostat:nuts_2021_id":"1003021030810",
         "gp:id":24547606,
+        "pol-gus:code":"1003021030810",
         "qs_pg:id":1319428
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045783,
     "wof:geom_alt":[
@@ -131,7 +142,7 @@
         }
     ],
     "wof:id":1125343267,
-    "wof:lastmodified":1684354252,
+    "wof:lastmodified":1695879163,
     "wof:name":"Gmina Mi\u0119dzylesie",
     "wof:parent_id":102079559,
     "wof:placetype":"localadmin",

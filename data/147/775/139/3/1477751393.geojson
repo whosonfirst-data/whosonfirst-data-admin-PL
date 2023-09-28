@@ -22,6 +22,15 @@
     "geom:latitude":51.101324,
     "geom:longitude":16.369144,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.108003,
     "lbl:longitude":16.348685,
     "mps:latitude":51.108003,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021010506",
-        "eurostat:nuts_2021_id":"1003021010506"
+        "eurostat:nuts_2021_id":"1003021010506",
+        "pol-gus:code":"1003021010506"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125844969
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751393,
-    "wof:lastmodified":1684354355,
+    "wof:lastmodified":1695879297,
     "wof:name":"W\u0105dro\u017ce Wielkie",
     "wof:parent_id":102079645,
     "wof:placetype":"localadmin",

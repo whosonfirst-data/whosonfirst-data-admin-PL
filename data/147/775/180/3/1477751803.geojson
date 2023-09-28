@@ -22,6 +22,15 @@
     "geom:latitude":50.412128,
     "geom:longitude":16.300681,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.413507,
     "lbl:longitude":16.30068,
     "mps:latitude":50.413507,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021030809",
-        "eurostat:nuts_2021_id":"1003021030809"
+        "eurostat:nuts_2021_id":"1003021030809",
+        "pol-gus:code":"1003021030809"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125783329
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477751803,
-    "wof:lastmodified":1684354376,
+    "wof:lastmodified":1695879320,
     "wof:name":"Lewin K\u0142odzki",
     "wof:parent_id":102079559,
     "wof:placetype":"localadmin",

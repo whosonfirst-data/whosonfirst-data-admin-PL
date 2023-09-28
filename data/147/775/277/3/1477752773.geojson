@@ -22,6 +22,15 @@
     "geom:latitude":53.971131,
     "geom:longitude":22.60022,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.956306,
     "lbl:longitude":22.588787,
     "mps:latitude":53.956306,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281551306",
-        "eurostat:nuts_2021_id":"1004281551306"
+        "eurostat:nuts_2021_id":"1004281551306",
+        "pol-gus:code":"1004281551306"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126019301
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752773,
-    "wof:lastmodified":1684354428,
+    "wof:lastmodified":1695879374,
     "wof:name":"Wieliczki",
     "wof:parent_id":102080243,
     "wof:placetype":"localadmin",

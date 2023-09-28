@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":22157,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.74328,
     "lbl:longitude":23.58122,
     "lbl:max_zoom":14.0,
@@ -236,8 +245,10 @@
         "eurostat:nuts_2021_id":"1006201380501",
         "gn:id":771158,
         "gp:id":24548319,
+        "pol-gus:code":"1006201380501",
         "qs_pg:id":129324
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819181
     ],
@@ -257,7 +268,7 @@
         }
     ],
     "wof:id":1125377759,
-    "wof:lastmodified":1684354296,
+    "wof:lastmodified":1695879235,
     "wof:name":"Gmina Hajn\u00f3wka",
     "wof:parent_id":102080091,
     "wof:placetype":"localadmin",

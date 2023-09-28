@@ -22,6 +22,15 @@
     "geom:latitude":49.697855,
     "geom:longitude":20.220218,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.696479,
     "lbl:longitude":20.227034,
     "mps:latitude":49.696479,
@@ -121,8 +130,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121220703",
-        "eurostat:nuts_2021_id":"1001121220703"
+        "eurostat:nuts_2021_id":"1001121220703",
+        "pol-gus:code":"1001121220703"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101847997
     ],
@@ -138,7 +149,7 @@
         }
     ],
     "wof:id":1477751565,
-    "wof:lastmodified":1684354364,
+    "wof:lastmodified":1695879306,
     "wof:name":"Dobra",
     "wof:parent_id":102079423,
     "wof:placetype":"localadmin",

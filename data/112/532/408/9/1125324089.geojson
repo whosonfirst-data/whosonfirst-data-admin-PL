@@ -23,6 +23,15 @@
     "geom:longitude":19.750003,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.046011,
     "lbl:longitude":19.801418,
     "lbl:max_zoom":18.0,
@@ -89,8 +98,10 @@
         "eg:gisco_id":"PL_1001121200607",
         "eurostat:nuts_2021_id":"1001121200607",
         "gp:id":12617574,
+        "pol-gus:code":"1001121200607",
         "qs_pg:id":222002
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125883261
     ],
@@ -110,7 +121,7 @@
         }
     ],
     "wof:id":1125324089,
-    "wof:lastmodified":1684354225,
+    "wof:lastmodified":1695879079,
     "wof:name":"Liszki",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",

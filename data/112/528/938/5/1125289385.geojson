@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.7213,
     "lbl:longitude":23.2485,
     "lbl:max_zoom":18.0,
@@ -272,8 +281,10 @@
         "eurostat:nuts_2021_id":"1006061106401",
         "gn:id":7532192,
         "gp:id":12618796,
+        "pol-gus:code":"1006061106401",
         "qs_pg:id":24296
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042853,
     "wof:geom_alt":[
@@ -290,7 +301,7 @@
         }
     ],
     "wof:id":1125289385,
-    "wof:lastmodified":1684354172,
+    "wof:lastmodified":1695878990,
     "wof:name":"Gmina Zamo\u015b\u0107",
     "wof:parent_id":102079687,
     "wof:placetype":"localadmin",

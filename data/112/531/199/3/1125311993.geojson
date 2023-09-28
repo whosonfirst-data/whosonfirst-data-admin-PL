@@ -23,6 +23,15 @@
     "geom:longitude":16.34748,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.965562,
     "lbl:longitude":16.337871,
     "lbl:max_zoom":18.0,
@@ -155,8 +164,10 @@
         "eg:gisco_id":"PL_1003021031906",
         "eurostat:nuts_2021_id":"1003021031906",
         "gp:id":24547445,
+        "pol-gus:code":"1003021031906",
         "qs_pg:id":1197186
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044046,
     "wof:geom_alt":[
@@ -173,7 +184,7 @@
         }
     ],
     "wof:id":1125311993,
-    "wof:lastmodified":1684354216,
+    "wof:lastmodified":1695879066,
     "wof:name":"Gmina Strzegom",
     "wof:parent_id":102079625,
     "wof:placetype":"localadmin",

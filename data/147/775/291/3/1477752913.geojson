@@ -22,6 +22,15 @@
     "geom:latitude":52.191927,
     "geom:longitude":22.930984,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.188949,
     "lbl:longitude":22.921127,
     "mps:latitude":52.188949,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142711006",
-        "eurostat:nuts_2021_id":"1007142711006"
+        "eurostat:nuts_2021_id":"1007142711006",
+        "pol-gus:code":"1007142711006"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821753
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752913,
-    "wof:lastmodified":1684354436,
+    "wof:lastmodified":1695879382,
     "wof:name":"Stara Kornica",
     "wof:parent_id":102079981,
     "wof:placetype":"localadmin",

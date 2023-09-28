@@ -23,6 +23,15 @@
     "geom:longitude":22.229391,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.855078,
     "lbl:longitude":22.288062,
     "lbl:max_zoom":18.0,
@@ -116,8 +125,10 @@
         "eg:gisco_id":"PL_1006181351605",
         "eurostat:nuts_2021_id":"1006181351605",
         "gp:id":24548415,
+        "pol-gus:code":"1006181351605",
         "qs_pg:id":32596
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497049261,
     "wof:geom_alt":[
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1125400009,
-    "wof:lastmodified":1684354323,
+    "wof:lastmodified":1695879264,
     "wof:name":"Gmina Dyn\u00f3w",
     "wof:parent_id":102079585,
     "wof:placetype":"localadmin",

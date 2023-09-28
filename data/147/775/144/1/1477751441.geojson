@@ -22,6 +22,15 @@
     "geom:latitude":50.171159,
     "geom:longitude":21.022711,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.170479,
     "lbl:longitude":21.024067,
     "mps:latitude":50.170479,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121240402",
-        "eurostat:nuts_2021_id":"1001121240402"
+        "eurostat:nuts_2021_id":"1001121240402",
+        "pol-gus:code":"1001121240402"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"3559e1818bdcb317d24cb9035601c24e",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751441,
-    "wof:lastmodified":1684354358,
+    "wof:lastmodified":1695879300,
     "wof:name":"Gmina D\u0105browa Tarnowska",
     "wof:parent_id":102079567,
     "wof:placetype":"localadmin",

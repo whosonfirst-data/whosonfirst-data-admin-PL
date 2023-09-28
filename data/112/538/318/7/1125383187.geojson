@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2861,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.10858,
     "lbl:longitude":18.43042,
     "lbl:max_zoom":15.0,
@@ -96,8 +105,10 @@
         "eurostat:nuts_2021_id":"1001241491202",
         "gn:id":3099452,
         "gp:id":12618448,
+        "pol-gus:code":"1001241491202",
         "qs_pg:id":1013346
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1175613143
     ],
@@ -117,7 +128,7 @@
         }
     ],
     "wof:id":1125383187,
-    "wof:lastmodified":1684354300,
+    "wof:lastmodified":1695879239,
     "wof:name":"Gaszowice",
     "wof:parent_id":102079459,
     "wof:placetype":"localadmin",

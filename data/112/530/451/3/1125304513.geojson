@@ -22,6 +22,15 @@
     "geom:latitude":52.208166,
     "geom:longitude":21.459145,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.206907,
     "lbl:longitude":21.459144,
     "mps:latitude":52.206907,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007141291205",
-        "eurostat:nuts_2021_id":"1007141291205"
+        "eurostat:nuts_2021_id":"1007141291205",
+        "pol-gus:code":"1007141291205"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821723
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125304513,
-    "wof:lastmodified":1684354202,
+    "wof:lastmodified":1695879028,
     "wof:name":"D\u0119be Wielkie",
     "wof:parent_id":102079965,
     "wof:placetype":"localadmin",

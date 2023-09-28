@@ -22,6 +22,15 @@
     "geom:latitude":51.212719,
     "geom:longitude":17.436632,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.251364,
     "lbl:longitude":17.48389,
     "mps:latitude":51.251364,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021041406",
-        "eurostat:nuts_2021_id":"1003021041406"
+        "eurostat:nuts_2021_id":"1003021041406",
+        "pol-gus:code":"1003021041406"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864069
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477752515,
-    "wof:lastmodified":1684354413,
+    "wof:lastmodified":1695879359,
     "wof:name":"Gmina Ole\u015bnica",
     "wof:parent_id":102079717,
     "wof:placetype":"localadmin",

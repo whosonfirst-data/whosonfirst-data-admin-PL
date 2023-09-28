@@ -23,6 +23,15 @@
     "geom:longitude":22.613844,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.296579,
     "lbl:longitude":22.656007,
     "lbl:max_zoom":18.0,
@@ -98,8 +107,10 @@
         "eg:gisco_id":"PL_1004281551802",
         "eurostat:nuts_2021_id":"1004281551802",
         "gp:id":12616945,
+        "pol-gus:code":"1004281551802",
         "qs_pg:id":1153815
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126044335
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125356023,
-    "wof:lastmodified":1684354261,
+    "wof:lastmodified":1695879189,
     "wof:name":"Dubeninki",
     "wof:parent_id":102080261,
     "wof:placetype":"localadmin",

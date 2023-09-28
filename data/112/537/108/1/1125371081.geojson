@@ -23,6 +23,15 @@
     "geom:longitude":17.579835,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.602606,
     "lbl:longitude":17.552182,
     "lbl:max_zoom":18.0,
@@ -158,8 +167,10 @@
         "eg:gisco_id":"PL_1003161320907",
         "eurostat:nuts_2021_id":"1003161320907",
         "gp:id":24548657,
+        "pol-gus:code":"1003161320907",
         "qs_pg:id":974302
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047397,
     "wof:geom_alt":[
@@ -176,7 +187,7 @@
         }
     ],
     "wof:id":1125371081,
-    "wof:lastmodified":1684354283,
+    "wof:lastmodified":1695879220,
     "wof:name":"Gmina Niemodlin",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",

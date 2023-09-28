@@ -22,6 +22,15 @@
     "geom:latitude":50.003757,
     "geom:longitude":22.617669,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.01166,
     "lbl:longitude":22.606542,
     "mps:latitude":50.01166,
@@ -52,8 +61,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181340406",
-        "eurostat:nuts_2021_id":"1006181340406"
+        "eurostat:nuts_2021_id":"1006181340406",
+        "pol-gus:code":"1006181340406"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101841665
     ],
@@ -69,7 +80,7 @@
         }
     ],
     "wof:id":1477751977,
-    "wof:lastmodified":1684354385,
+    "wof:lastmodified":1695879329,
     "wof:name":"Paw\u0142osi\u00f3w",
     "wof:parent_id":102079573,
     "wof:placetype":"localadmin",

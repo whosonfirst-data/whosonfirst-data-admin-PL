@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4398,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.75142,
     "lbl:longitude":15.01419,
     "lbl:max_zoom":15.0,
@@ -137,8 +146,10 @@
         "eurostat:nuts_2021_id":"1002081141104",
         "gn:id":3097480,
         "gp:id":24547406,
+        "pol-gus:code":"1002081141104",
         "qs_pg:id":1002838
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047946,
     "wof:geom_alt":[
@@ -155,7 +166,7 @@
         }
     ],
     "wof:id":1125379239,
-    "wof:lastmodified":1684354297,
+    "wof:lastmodified":1695879236,
     "wof:name":"Gmina Jasie\u0144",
     "wof:parent_id":102079779,
     "wof:placetype":"localadmin",

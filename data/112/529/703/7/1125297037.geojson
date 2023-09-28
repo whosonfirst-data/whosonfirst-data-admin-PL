@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":15733,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.16905,
     "lbl:longitude":15.42054,
     "lbl:max_zoom":15.0,
@@ -179,8 +188,10 @@
         "eurostat:nuts_2021_id":"1002321640202",
         "gn:id":3101613,
         "gp:id":24547430,
+        "pol-gus:code":"1002321640202",
         "qs_pg:id":192511
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043203,
     "wof:geom_alt":[
@@ -197,7 +208,7 @@
         }
     ],
     "wof:id":1125297037,
-    "wof:lastmodified":1684354187,
+    "wof:lastmodified":1695879009,
     "wof:name":"Gmina Choszczno",
     "wof:parent_id":102080049,
     "wof:placetype":"localadmin",

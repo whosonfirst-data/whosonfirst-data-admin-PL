@@ -22,6 +22,15 @@
     "geom:latitude":52.837374,
     "geom:longitude":18.886684,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.837643,
     "lbl:longitude":18.887117,
     "mps:latitude":52.837643,
@@ -112,8 +121,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041080103",
-        "eurostat:nuts_2021_id":"1004041080103"
+        "eurostat:nuts_2021_id":"1004041080103",
+        "pol-gus:code":"1004041080103"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101818995
     ],
@@ -129,7 +140,7 @@
         }
     ],
     "wof:id":1477752311,
-    "wof:lastmodified":1684354403,
+    "wof:lastmodified":1695879348,
     "wof:name":"Nieszawa",
     "wof:parent_id":102080009,
     "wof:placetype":"localadmin",

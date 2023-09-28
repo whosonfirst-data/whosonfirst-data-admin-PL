@@ -22,6 +22,15 @@
     "geom:latitude":53.846596,
     "geom:longitude":18.146392,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.847275,
     "lbl:longitude":18.141372,
     "mps:latitude":53.847275,
@@ -49,8 +58,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221421301",
-        "eurostat:nuts_2021_id":"1004221421301"
+        "eurostat:nuts_2021_id":"1004221421301",
+        "pol-gus:code":"1004221421301"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"d189b2f6e79ea537697bc273d935aaf5",
     "wof:hierarchy":[
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477752865,
-    "wof:lastmodified":1684354433,
+    "wof:lastmodified":1695879379,
     "wof:name":"Gmina Czarna Woda",
     "wof:parent_id":102080183,
     "wof:placetype":"localadmin",

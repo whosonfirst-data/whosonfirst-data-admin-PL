@@ -22,6 +22,15 @@
     "geom:latitude":52.190905,
     "geom:longitude":20.393057,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.179212,
     "lbl:longitude":20.36796,
     "mps:latitude":52.179212,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142732808",
-        "eurostat:nuts_2021_id":"1007142732808"
+        "eurostat:nuts_2021_id":"1007142732808",
+        "pol-gus:code":"1007142732808"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820307
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751749,
-    "wof:lastmodified":1684354374,
+    "wof:lastmodified":1695879317,
     "wof:name":"Teresin",
     "wof:parent_id":102079945,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.63937,
     "geom:longitude":19.799159,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.616037,
     "lbl:longitude":19.792103,
     "mps:latitude":50.616037,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241501608",
-        "eurostat:nuts_2021_id":"1001241501608"
+        "eurostat:nuts_2021_id":"1001241501608",
+        "pol-gus:code":"1001241501608"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"0ec99a4783a8c3213404f10ecc8fdfb9",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752497,
-    "wof:lastmodified":1684354412,
+    "wof:lastmodified":1695879358,
     "wof:name":"Gmina Szczekociny",
     "wof:parent_id":102079613,
     "wof:placetype":"localadmin",

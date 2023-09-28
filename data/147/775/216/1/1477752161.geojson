@@ -22,6 +22,15 @@
     "geom:latitude":49.775173,
     "geom:longitude":22.741665,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.733652,
     "lbl:longitude":22.804381,
     "mps:latitude":49.733652,
@@ -202,8 +211,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181341308",
-        "eurostat:nuts_2021_id":"1006181341308"
+        "eurostat:nuts_2021_id":"1006181341308",
+        "pol-gus:code":"1006181341308"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863303
     ],
@@ -219,7 +230,7 @@
         }
     ],
     "wof:id":1477752161,
-    "wof:lastmodified":1684354396,
+    "wof:lastmodified":1695879341,
     "wof:name":"Przemy\u015bl",
     "wof:parent_id":102079513,
     "wof:placetype":"localadmin",

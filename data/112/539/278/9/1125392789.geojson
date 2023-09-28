@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":19966,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.47604,
     "lbl:longitude":21.44995,
     "lbl:max_zoom":15.0,
@@ -182,8 +191,10 @@
         "eurostat:nuts_2021_id":"1007142272501",
         "gn:id":762199,
         "gp:id":24548183,
+        "pol-gus:code":"1007142272501",
         "qs_pg:id":1311720
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497048809,
     "wof:geom_alt":[
@@ -200,7 +211,7 @@
         }
     ],
     "wof:id":1125392789,
-    "wof:lastmodified":1684354311,
+    "wof:lastmodified":1695879251,
     "wof:name":"Gmina Pionki",
     "wof:parent_id":102079805,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":51.416937,
     "geom:longitude":21.316638,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.423075,
     "lbl:longitude":21.31842,
     "mps:latitude":51.423075,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142272506",
-        "eurostat:nuts_2021_id":"1007142272506"
+        "eurostat:nuts_2021_id":"1007142272506",
+        "pol-gus:code":"1007142272506"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101913131
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752281,
-    "wof:lastmodified":1684354402,
+    "wof:lastmodified":1695879347,
     "wof:name":"Jedlnia-Letnisko",
     "wof:parent_id":102079805,
     "wof:placetype":"localadmin",

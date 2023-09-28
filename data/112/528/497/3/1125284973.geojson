@@ -23,6 +23,15 @@
     "geom:longitude":23.101355,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.330939,
     "lbl:longitude":23.0425,
     "lbl:max_zoom":18.0,
@@ -98,8 +107,10 @@
         "eg:gisco_id":"PL_1006201381005",
         "eurostat:nuts_2021_id":"1006201381005",
         "gp:id":12618721,
+        "pol-gus:code":"1006201381005",
         "qs_pg:id":1171892
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125977495
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125284973,
-    "wof:lastmodified":1684354155,
+    "wof:lastmodified":1695878974,
     "wof:name":"Mielnik",
     "wof:parent_id":102080037,
     "wof:placetype":"localadmin",

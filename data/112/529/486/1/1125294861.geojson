@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1200,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.30738,
     "lbl:longitude":18.33275,
     "lbl:max_zoom":16.0,
@@ -134,8 +143,10 @@
         "eurostat:nuts_2021_id":"1005101181806",
         "gn:id":3085219,
         "gp:id":12617969,
+        "pol-gus:code":"1005101181806",
         "qs_pg:id":1099630
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821301
     ],
@@ -155,7 +166,7 @@
         }
     ],
     "wof:id":1125294861,
-    "wof:lastmodified":1684354183,
+    "wof:lastmodified":1695879003,
     "wof:name":"Sokolniki",
     "wof:parent_id":102079731,
     "wof:placetype":"localadmin",

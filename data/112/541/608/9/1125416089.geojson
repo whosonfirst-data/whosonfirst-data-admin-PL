@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2604,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.37426,
     "lbl:longitude":22.94349,
     "lbl:max_zoom":15.0,
@@ -99,8 +108,10 @@
         "eurostat:nuts_2021_id":"1006061100209",
         "gn:id":765745,
         "gp:id":12617775,
+        "pol-gus:code":"1006061100209",
         "qs_pg:id":249384
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823997
     ],
@@ -120,7 +131,7 @@
         }
     ],
     "wof:id":1125416089,
-    "wof:lastmodified":1684354340,
+    "wof:lastmodified":1695879281,
     "wof:name":"\u0141ukowa",
     "wof:parent_id":102079699,
     "wof:placetype":"localadmin",

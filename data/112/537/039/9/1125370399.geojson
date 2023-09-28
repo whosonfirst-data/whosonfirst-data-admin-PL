@@ -23,6 +23,15 @@
     "geom:longitude":21.420617,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.054838,
     "lbl:longitude":21.411366,
     "lbl:max_zoom":18.0,
@@ -185,8 +194,10 @@
         "eg:gisco_id":"PL_1006181360301",
         "eurostat:nuts_2021_id":"1006181360301",
         "gp:id":24548365,
+        "pol-gus:code":"1006181360301",
         "qs_pg:id":970546
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047351,
     "wof:geom_alt":[
@@ -203,7 +214,7 @@
         }
     ],
     "wof:id":1125370399,
-    "wof:lastmodified":1684354279,
+    "wof:lastmodified":1695879215,
     "wof:name":"Gmina D\u0119bica",
     "wof:parent_id":102079533,
     "wof:placetype":"localadmin",

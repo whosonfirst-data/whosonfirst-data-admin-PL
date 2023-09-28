@@ -23,6 +23,15 @@
     "geom:longitude":20.536895,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.421061,
     "lbl:longitude":20.480575,
     "lbl:max_zoom":18.0,
@@ -173,8 +182,10 @@
         "eg:gisco_id":"PL_1001121691102",
         "eurostat:nuts_2021_id":"1001121691102",
         "gp:id":12618515,
+        "pol-gus:code":"1001121691102",
         "qs_pg:id":1160714
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497046655,
     "wof:geom_alt":[
@@ -191,7 +202,7 @@
         }
     ],
     "wof:id":1125358955,
-    "wof:lastmodified":1684354265,
+    "wof:lastmodified":1695879195,
     "wof:name":"Gmina Szczawnica",
     "wof:parent_id":102079407,
     "wof:placetype":"localadmin",

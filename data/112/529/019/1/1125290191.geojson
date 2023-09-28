@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":7185,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.2509,
     "lbl:longitude":15.9252,
     "lbl:max_zoom":15.0,
@@ -158,8 +167,10 @@
         "eurostat:nuts_2021_id":"1002301591506",
         "gn:id":3080495,
         "gp:id":24547476,
+        "pol-gus:code":"1002301591506",
         "qs_pg:id":1200371
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042883,
     "wof:geom_alt":[
@@ -176,7 +187,7 @@
         }
     ],
     "wof:id":1125290191,
-    "wof:lastmodified":1684354174,
+    "wof:lastmodified":1695878992,
     "wof:name":"Gmina Zb\u0105szy\u0144",
     "wof:parent_id":102079915,
     "wof:placetype":"localadmin",

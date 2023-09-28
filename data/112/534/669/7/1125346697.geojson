@@ -23,6 +23,15 @@
     "geom:longitude":20.036716,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.474147,
     "lbl:longitude":20.030876,
     "lbl:max_zoom":18.0,
@@ -233,8 +242,10 @@
         "eg:gisco_id":"PL_1001121691101",
         "eurostat:nuts_2021_id":"1001121691101",
         "gp:id":24548542,
+        "pol-gus:code":"1001121691101",
         "qs_pg:id":893620
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045957,
     "wof:geom_alt":[
@@ -251,7 +262,7 @@
         }
     ],
     "wof:id":1125346697,
-    "wof:lastmodified":1684354253,
+    "wof:lastmodified":1695879171,
     "wof:name":"Gmina Nowy Targ",
     "wof:parent_id":102079407,
     "wof:placetype":"localadmin",

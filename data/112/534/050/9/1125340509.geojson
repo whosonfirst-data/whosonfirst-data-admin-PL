@@ -22,6 +22,15 @@
     "geom:latitude":51.176299,
     "geom:longitude":18.294108,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.175381,
     "lbl:longitude":18.295621,
     "mps:latitude":51.175381,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101181805",
-        "eurostat:nuts_2021_id":"1005101181805"
+        "eurostat:nuts_2021_id":"1005101181805",
+        "pol-gus:code":"1005101181805"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822911
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125340509,
-    "wof:lastmodified":1684354249,
+    "wof:lastmodified":1695879156,
     "wof:name":"\u0141ubnice",
     "wof:parent_id":102079731,
     "wof:placetype":"localadmin",

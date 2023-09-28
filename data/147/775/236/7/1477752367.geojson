@@ -22,6 +22,15 @@
     "geom:latitude":51.136165,
     "geom:longitude":15.069962,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.157231,
     "lbl:longitude":15.069982,
     "mps:latitude":51.157231,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021012507",
-        "eurostat:nuts_2021_id":"1003021012507"
+        "eurostat:nuts_2021_id":"1003021012507",
+        "pol-gus:code":"1003021012507"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477866021
     ],
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477752367,
-    "wof:lastmodified":1684354406,
+    "wof:lastmodified":1695879351,
     "wof:name":"Gmina Zgorzelec",
     "wof:parent_id":102079695,
     "wof:placetype":"localadmin",

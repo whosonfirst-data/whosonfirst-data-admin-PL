@@ -22,6 +22,15 @@
     "geom:latitude":50.987073,
     "geom:longitude":23.166697,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.98656,
     "lbl:longitude":23.174045,
     "mps:latitude":50.98656,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061100601",
-        "eurostat:nuts_2021_id":"1006061100601"
+        "eurostat:nuts_2021_id":"1006061100601",
+        "pol-gus:code":"1006061100601"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"37d66fd59fc36e81f5f8a6082f2786a7",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752243,
-    "wof:lastmodified":1684354400,
+    "wof:lastmodified":1695879345,
     "wof:name":"Gmina Krasnystaw",
     "wof:parent_id":102079745,
     "wof:placetype":"localadmin",

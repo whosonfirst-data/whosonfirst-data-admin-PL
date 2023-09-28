@@ -22,6 +22,15 @@
     "geom:latitude":50.573448,
     "geom:longitude":17.874955,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.588897,
     "lbl:longitude":17.91043,
     "mps:latitude":50.588897,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161320910",
-        "eurostat:nuts_2021_id":"1003161320910"
+        "eurostat:nuts_2021_id":"1003161320910",
+        "pol-gus:code":"1003161320910"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"dd8a69ac2a417dc20feaf27e95361854",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752721,
-    "wof:lastmodified":1684354424,
+    "wof:lastmodified":1695879371,
     "wof:name":"Gmina Pr\u00f3szk\u00f3w",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",

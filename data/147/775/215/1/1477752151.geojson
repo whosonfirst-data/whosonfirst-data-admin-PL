@@ -22,6 +22,15 @@
     "geom:latitude":53.074552,
     "geom:longitude":21.425889,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.068689,
     "lbl:longitude":21.428449,
     "mps:latitude":53.068689,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142261509",
-        "eurostat:nuts_2021_id":"1007142261509"
+        "eurostat:nuts_2021_id":"1007142261509",
+        "pol-gus:code":"1007142261509"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126046539
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752151,
-    "wof:lastmodified":1684354395,
+    "wof:lastmodified":1695879340,
     "wof:name":"Olszewo-Borki",
     "wof:parent_id":102080139,
     "wof:placetype":"localadmin",

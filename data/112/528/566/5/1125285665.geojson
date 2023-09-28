@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3220,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.37831,
     "lbl:longitude":17.16116,
     "lbl:max_zoom":15.0,
@@ -107,8 +116,10 @@
         "eurostat:nuts_2021_id":"1004221411203",
         "gn:id":3100553,
         "gp:id":12618044,
+        "pol-gus:code":"1004221411203",
         "qs_pg:id":1265074
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819487
     ],
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1125285665,
-    "wof:lastmodified":1684354159,
+    "wof:lastmodified":1695878977,
     "wof:name":"D\u0119bnica Kaszubska",
     "wof:parent_id":102080255,
     "wof:placetype":"localadmin",

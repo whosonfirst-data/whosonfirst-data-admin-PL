@@ -22,6 +22,15 @@
     "geom:latitude":49.578339,
     "geom:longitude":20.830716,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.58639,
     "lbl:longitude":20.807421,
     "mps:latitude":49.58639,
@@ -49,8 +58,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121221005",
-        "eurostat:nuts_2021_id":"1001121221005"
+        "eurostat:nuts_2021_id":"1001121221005",
+        "pol-gus:code":"1001121221005"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101826147
     ],
@@ -66,7 +77,7 @@
         }
     ],
     "wof:id":1477752521,
-    "wof:lastmodified":1684354414,
+    "wof:lastmodified":1695879360,
     "wof:name":"Kamionka Wielka",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",

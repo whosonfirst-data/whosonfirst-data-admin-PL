@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1589,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.98633,
     "lbl:longitude":22.53716,
     "lbl:max_zoom":16.0,
@@ -101,8 +110,10 @@
         "eurostat:nuts_2021_id":"1006181341409",
         "gn:id":753762,
         "gp:id":12618846,
+        "pol-gus:code":"1006181341409",
         "qs_pg:id":1027499
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865359
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125384497,
-    "wof:lastmodified":1684354302,
+    "wof:lastmodified":1695879242,
     "wof:name":"Zarzecze",
     "wof:parent_id":102079589,
     "wof:placetype":"localadmin",

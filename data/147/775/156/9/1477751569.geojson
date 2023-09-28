@@ -22,6 +22,15 @@
     "geom:latitude":51.521192,
     "geom:longitude":15.82122,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.533544,
     "lbl:longitude":15.819424,
     "mps:latitude":51.533544,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021021605",
-        "eurostat:nuts_2021_id":"1003021021605"
+        "eurostat:nuts_2021_id":"1003021021605",
+        "pol-gus:code":"1003021021605"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"7ad5e9c8eb8272c19080fc2e4f50c298",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751569,
-    "wof:lastmodified":1684354364,
+    "wof:lastmodified":1695879307,
     "wof:name":"Gmina Przemk\u00f3w",
     "wof:parent_id":102079741,
     "wof:placetype":"localadmin",

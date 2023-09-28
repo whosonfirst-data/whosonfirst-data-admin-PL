@@ -22,6 +22,15 @@
     "geom:latitude":50.533825,
     "geom:longitude":18.283713,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.547137,
     "lbl:longitude":18.270442,
     "mps:latitude":50.547137,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161321105",
-        "eurostat:nuts_2021_id":"1003161321105"
+        "eurostat:nuts_2021_id":"1003161321105",
+        "pol-gus:code":"1003161321105"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"aa3c5b7c11674eb758ebe1dd0ab6222a",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752175,
-    "wof:lastmodified":1684354397,
+    "wof:lastmodified":1695879341,
     "wof:name":"Gmina Strzelce Opolskie",
     "wof:parent_id":102079587,
     "wof:placetype":"localadmin",

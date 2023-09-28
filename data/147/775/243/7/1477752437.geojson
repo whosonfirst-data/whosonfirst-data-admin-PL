@@ -22,6 +22,15 @@
     "geom:latitude":53.952604,
     "geom:longitude":19.176314,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.94227,
     "lbl:longitude":19.188913,
     "mps:latitude":53.94227,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221421604",
-        "eurostat:nuts_2021_id":"1004221421604"
+        "eurostat:nuts_2021_id":"1004221421604",
+        "pol-gus:code":"1004221421604"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101817597
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752437,
-    "wof:lastmodified":1684354410,
+    "wof:lastmodified":1695879355,
     "wof:name":"Stary Targ",
     "wof:parent_id":102080179,
     "wof:placetype":"localadmin",

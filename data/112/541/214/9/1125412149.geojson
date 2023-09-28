@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.78345,
     "lbl:longitude":22.78424,
     "lbl:max_zoom":18.0,
@@ -239,8 +248,10 @@
         "eurostat:nuts_2021_id":"1006181346201",
         "gn:id":7531300,
         "gp:id":12617373,
+        "pol-gus:code":"1006181346201",
         "qs_pg:id":240777
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101752111,
         102079469
@@ -261,7 +272,7 @@
         }
     ],
     "wof:id":1125412149,
-    "wof:lastmodified":1684354336,
+    "wof:lastmodified":1695879277,
     "wof:name":"Przemy\u015bl",
     "wof:parent_id":102079469,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.596568,
     "geom:longitude":16.829942,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.591565,
     "lbl:longitude":16.831793,
     "mps:latitude":50.591565,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021032405",
-        "eurostat:nuts_2021_id":"1003021032405"
+        "eurostat:nuts_2021_id":"1003021032405",
+        "pol-gus:code":"1003021032405"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"221e9d64e9f0c7da41b62b576b92e226",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751259,
-    "wof:lastmodified":1684354349,
+    "wof:lastmodified":1695879291,
     "wof:name":"Gmina Z\u0105bkowice \u015al\u0105skie",
     "wof:parent_id":102079577,
     "wof:placetype":"localadmin",

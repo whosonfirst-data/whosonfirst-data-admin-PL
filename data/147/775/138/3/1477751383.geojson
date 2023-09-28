@@ -22,6 +22,15 @@
     "geom:latitude":50.966331,
     "geom:longitude":17.764558,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.955952,
     "lbl:longitude":17.723003,
     "mps:latitude":50.955952,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161310604",
-        "eurostat:nuts_2021_id":"1003161310604"
+        "eurostat:nuts_2021_id":"1003161310604",
+        "pol-gus:code":"1003161310604"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1209842313
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477751383,
-    "wof:lastmodified":1684354355,
+    "wof:lastmodified":1695879297,
     "wof:name":"\u015awiercz\u00f3w",
     "wof:parent_id":102079673,
     "wof:placetype":"localadmin",

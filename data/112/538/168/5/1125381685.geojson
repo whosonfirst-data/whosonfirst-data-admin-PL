@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":958,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.15207,
     "lbl:longitude":19.55463,
     "lbl:max_zoom":17.0,
@@ -96,8 +105,10 @@
         "eurostat:nuts_2021_id":"1004041070209",
         "gn:id":3084061,
         "gp:id":12617625,
+        "pol-gus:code":"1004041070209",
         "qs_pg:id":1009097
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863869
     ],
@@ -117,7 +128,7 @@
         }
     ],
     "wof:id":1125381685,
-    "wof:lastmodified":1684354299,
+    "wof:lastmodified":1695879238,
     "wof:name":"\u015awiedziebnia",
     "wof:parent_id":102080099,
     "wof:placetype":"localadmin",

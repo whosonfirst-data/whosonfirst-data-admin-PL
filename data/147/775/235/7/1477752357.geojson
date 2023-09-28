@@ -22,6 +22,15 @@
     "geom:latitude":54.118515,
     "geom:longitude":15.747608,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.119014,
     "lbl:longitude":15.747574,
     "mps:latitude":54.119014,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321630802",
-        "eurostat:nuts_2021_id":"1002321630802"
+        "eurostat:nuts_2021_id":"1002321630802",
+        "pol-gus:code":"1002321630802"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819399
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752357,
-    "wof:lastmodified":1684354406,
+    "wof:lastmodified":1695879351,
     "wof:name":"Dygowo",
     "wof:parent_id":102080177,
     "wof:placetype":"localadmin",

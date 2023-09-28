@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":9494,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.67562,
     "lbl:longitude":18.33131,
     "lbl:max_zoom":15.0,
@@ -173,8 +182,10 @@
         "eurostat:nuts_2021_id":"1004041670706",
         "gn:id":3094585,
         "gp:id":24547569,
+        "pol-gus:code":"1004041670706",
         "qs_pg:id":972954
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047387,
     "wof:geom_alt":[
@@ -191,7 +202,7 @@
         }
     ],
     "wof:id":1125370931,
-    "wof:lastmodified":1684354281,
+    "wof:lastmodified":1695879218,
     "wof:name":"Gmina Kruszwica",
     "wof:parent_id":102080013,
     "wof:placetype":"localadmin",

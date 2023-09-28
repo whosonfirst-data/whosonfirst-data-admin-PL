@@ -22,6 +22,15 @@
     "geom:latitude":53.148079,
     "geom:longitude":18.87328,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.133646,
     "lbl:longitude":18.86354,
     "mps:latitude":53.133646,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041070504",
-        "eurostat:nuts_2021_id":"1004041070504"
+        "eurostat:nuts_2021_id":"1004041070504",
+        "pol-gus:code":"1004041070504"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"11e4e575c80515358fe17728075f5ad2",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752235,
-    "wof:lastmodified":1684354399,
+    "wof:lastmodified":1695879344,
     "wof:name":"Gmina Kowalewo Pomorskie",
     "wof:parent_id":102080067,
     "wof:placetype":"localadmin",

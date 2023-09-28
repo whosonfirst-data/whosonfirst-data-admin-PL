@@ -22,6 +22,15 @@
     "geom:latitude":53.337342,
     "geom:longitude":20.293465,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.29094,
     "lbl:longitude":20.333701,
     "mps:latitude":53.29094,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281561103",
-        "eurostat:nuts_2021_id":"1004281561103"
+        "eurostat:nuts_2021_id":"1004281561103",
+        "pol-gus:code":"1004281561103"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819257
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752301,
-    "wof:lastmodified":1684354403,
+    "wof:lastmodified":1695879348,
     "wof:name":"Koz\u0142owo",
     "wof:parent_id":102080129,
     "wof:placetype":"localadmin",

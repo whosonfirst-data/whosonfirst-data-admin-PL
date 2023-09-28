@@ -22,6 +22,15 @@
     "geom:latitude":49.976124,
     "geom:longitude":20.612539,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.978382,
     "lbl:longitude":20.619321,
     "mps:latitude":49.978382,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121240202",
-        "eurostat:nuts_2021_id":"1001121240202"
+        "eurostat:nuts_2021_id":"1001121240202",
+        "pol-gus:code":"1001121240202"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"8f2db120dab99f4e18ea5252f6d24626",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752729,
-    "wof:lastmodified":1684354425,
+    "wof:lastmodified":1695879371,
     "wof:name":"Gmina Brzesko",
     "wof:parent_id":102079517,
     "wof:placetype":"localadmin",

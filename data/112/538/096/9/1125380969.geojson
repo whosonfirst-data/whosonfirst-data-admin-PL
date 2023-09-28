@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.4655,
     "lbl:longitude":18.842,
     "lbl:max_zoom":18.0,
@@ -210,8 +219,10 @@
         "eg:gisco_id":"PL_1001241451304",
         "eurostat:nuts_2021_id":"1001241451304",
         "gn:id":7531827,
+        "pol-gus:code":"1001241451304",
         "qs_pg:id":380891
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101752157
     ],
@@ -231,7 +242,7 @@
         }
     ],
     "wof:id":1125380969,
-    "wof:lastmodified":1684354299,
+    "wof:lastmodified":1695879238,
     "wof:name":"Tarnowskie G\u00f3ry",
     "wof:parent_id":102079581,
     "wof:placetype":"localadmin",

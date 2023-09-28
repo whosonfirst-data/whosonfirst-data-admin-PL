@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":460,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.06896,
     "lbl:longitude":14.90553,
     "lbl:max_zoom":17.0,
@@ -140,8 +149,10 @@
         "eurostat:nuts_2021_id":"1002081140207",
         "gn:id":3092199,
         "gp:id":12618330,
+        "pol-gus:code":"1002081140207",
         "qs_pg:id":497914
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864933
     ],
@@ -161,7 +172,7 @@
         }
     ],
     "wof:id":1125324739,
-    "wof:lastmodified":1684354232,
+    "wof:lastmodified":1695879119,
     "wof:name":"Maszewo",
     "wof:parent_id":102079843,
     "wof:placetype":"localadmin",

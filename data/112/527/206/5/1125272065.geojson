@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2463,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.73312,
     "lbl:longitude":23.40225,
     "lbl:max_zoom":15.0,
@@ -176,8 +185,10 @@
         "eurostat:nuts_2021_id":"1006201390104",
         "gn:id":766142,
         "gp:id":24548209,
+        "pol-gus:code":"1006201390104",
         "qs_pg:id":52442
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042166,
     "wof:geom_alt":[
@@ -194,7 +205,7 @@
         }
     ],
     "wof:id":1125272065,
-    "wof:lastmodified":1684354141,
+    "wof:lastmodified":1695878958,
     "wof:name":"Gmina Lipsk",
     "wof:parent_id":102080221,
     "wof:placetype":"localadmin",

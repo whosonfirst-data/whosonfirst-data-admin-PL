@@ -22,6 +22,15 @@
     "geom:latitude":50.797237,
     "geom:longitude":17.225651,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.805466,
     "lbl:longitude":17.217734,
     "mps:latitude":50.805466,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021041705",
-        "eurostat:nuts_2021_id":"1003021041705"
+        "eurostat:nuts_2021_id":"1003021041705",
+        "pol-gus:code":"1003021041705"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"7511e934139115c16816654efe8c4677",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752225,
-    "wof:lastmodified":1684354399,
+    "wof:lastmodified":1695879344,
     "wof:name":"Gmina Wi\u0105z\u00f3w",
     "wof:parent_id":102079609,
     "wof:placetype":"localadmin",

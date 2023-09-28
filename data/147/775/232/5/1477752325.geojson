@@ -22,6 +22,15 @@
     "geom:latitude":52.18234,
     "geom:longitude":18.36664,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.178887,
     "lbl:longitude":18.364891,
     "mps:latitude":52.178887,
@@ -55,8 +64,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301581006",
-        "eurostat:nuts_2021_id":"1002301581006"
+        "eurostat:nuts_2021_id":"1002301581006",
+        "pol-gus:code":"1002301581006"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1293416475
     ],
@@ -72,7 +83,7 @@
         }
     ],
     "wof:id":1477752325,
-    "wof:lastmodified":1684354404,
+    "wof:lastmodified":1695879349,
     "wof:name":"Krzym\u00f3w",
     "wof:parent_id":102079943,
     "wof:placetype":"localadmin",

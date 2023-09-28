@@ -22,6 +22,15 @@
     "geom:latitude":53.300784,
     "geom:longitude":18.66052,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.307893,
     "lbl:longitude":18.666796,
     "mps:latitude":53.307893,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041070404",
-        "eurostat:nuts_2021_id":"1004041070404"
+        "eurostat:nuts_2021_id":"1004041070404",
+        "pol-gus:code":"1004041070404"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819183
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477752229,
-    "wof:lastmodified":1684354399,
+    "wof:lastmodified":1695879344,
     "wof:name":"Lisewo",
     "wof:parent_id":102080093,
     "wof:placetype":"localadmin",

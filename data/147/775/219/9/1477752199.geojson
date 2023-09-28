@@ -22,6 +22,15 @@
     "geom:latitude":52.530689,
     "geom:longitude":19.166733,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.540791,
     "lbl:longitude":19.196202,
     "mps:latitude":52.540791,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041081809",
-        "eurostat:nuts_2021_id":"1004041081809"
+        "eurostat:nuts_2021_id":"1004041081809",
+        "pol-gus:code":"1004041081809"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"93aa47f1b19891f47bb58fbc6339a3a2",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752199,
-    "wof:lastmodified":1684354398,
+    "wof:lastmodified":1695879343,
     "wof:name":"Gmina Kowal",
     "wof:parent_id":102079997,
     "wof:placetype":"localadmin",

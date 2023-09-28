@@ -22,6 +22,15 @@
     "geom:latitude":49.633469,
     "geom:longitude":21.778882,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.631882,
     "lbl:longitude":21.755944,
     "mps:latitude":49.631882,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181330707",
-        "eurostat:nuts_2021_id":"1006181330707"
+        "eurostat:nuts_2021_id":"1006181330707",
+        "pol-gus:code":"1006181330707"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101827361
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477752023,
-    "wof:lastmodified":1684354388,
+    "wof:lastmodified":1695879332,
     "wof:name":"Miejsce Piastowe",
     "wof:parent_id":102079455,
     "wof:placetype":"localadmin",

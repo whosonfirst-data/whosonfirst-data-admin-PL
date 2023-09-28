@@ -23,6 +23,15 @@
     "geom:longitude":20.997501,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.031467,
     "lbl:longitude":21.036662,
     "lbl:max_zoom":18.0,
@@ -116,8 +125,10 @@
         "eg:gisco_id":"PL_1007141301804",
         "eurostat:nuts_2021_id":"1007141301804",
         "gp:id":24548169,
+        "pol-gus:code":"1007141301804",
         "qs_pg:id":1316005
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045717,
     "wof:geom_alt":[
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1125342079,
-    "wof:lastmodified":1684354251,
+    "wof:lastmodified":1695879159,
     "wof:name":"Gmina Piaseczno",
     "wof:parent_id":102079911,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1624,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.01607,
     "lbl:longitude":19.62364,
     "lbl:max_zoom":16.0,
@@ -106,8 +115,10 @@
         "eurostat:nuts_2021_id":"1004041071205",
         "gn:id":3085709,
         "gp:id":12616982,
+        "pol-gus:code":"1004041071205",
         "qs_pg:id":23914
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819107
     ],
@@ -127,7 +138,7 @@
         }
     ],
     "wof:id":1125288591,
-    "wof:lastmodified":1684354161,
+    "wof:lastmodified":1695878979,
     "wof:name":"Skrwilno",
     "wof:parent_id":102080059,
     "wof:placetype":"localadmin",

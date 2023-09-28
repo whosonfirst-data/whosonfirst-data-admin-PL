@@ -23,6 +23,15 @@
     "geom:longitude":17.985597,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.223761,
     "lbl:longitude":18.067036,
     "lbl:max_zoom":18.0,
@@ -92,8 +101,10 @@
         "eg:gisco_id":"PL_1004221400506",
         "eurostat:nuts_2021_id":"1004221400506",
         "gp:id":12618014,
+        "pol-gus:code":"1004221400506",
         "qs_pg:id":43662
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819449
     ],
@@ -113,7 +124,7 @@
         }
     ],
     "wof:id":1125326771,
-    "wof:lastmodified":1684354235,
+    "wof:lastmodified":1695879132,
     "wof:name":"St\u0119\u017cyca",
     "wof:parent_id":102080233,
     "wof:placetype":"localadmin",

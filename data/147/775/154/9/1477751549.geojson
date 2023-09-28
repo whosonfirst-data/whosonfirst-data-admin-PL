@@ -22,6 +22,15 @@
     "geom:latitude":54.259935,
     "geom:longitude":18.854275,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.254307,
     "lbl:longitude":18.877653,
     "mps:latitude":54.254307,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221400402",
-        "eurostat:nuts_2021_id":"1004221400402"
+        "eurostat:nuts_2021_id":"1004221400402",
+        "pol-gus:code":"1004221400402"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125888527
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477751549,
-    "wof:lastmodified":1684354363,
+    "wof:lastmodified":1695879306,
     "wof:name":"Cedry Wielkie",
     "wof:parent_id":102080213,
     "wof:placetype":"localadmin",

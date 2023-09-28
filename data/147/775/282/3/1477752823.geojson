@@ -22,6 +22,15 @@
     "geom:latitude":49.784678,
     "geom:longitude":20.235582,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.788569,
     "lbl:longitude":20.244237,
     "mps:latitude":49.788569,
@@ -52,8 +61,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121220704",
-        "eurostat:nuts_2021_id":"1001121220704"
+        "eurostat:nuts_2021_id":"1001121220704",
+        "pol-gus:code":"1001121220704"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126006435
     ],
@@ -69,7 +80,7 @@
         }
     ],
     "wof:id":1477752823,
-    "wof:lastmodified":1684354431,
+    "wof:lastmodified":1695879377,
     "wof:name":"Jod\u0142ownik",
     "wof:parent_id":102079423,
     "wof:placetype":"localadmin",

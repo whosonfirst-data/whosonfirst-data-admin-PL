@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":25971,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.27787,
     "lbl:longitude":16.47122,
     "lbl:max_zoom":14.0,
@@ -195,8 +204,10 @@
         "eurostat:nuts_2021_id":"1002321641701",
         "gn:id":3082704,
         "gp:id":24548085,
+        "pol-gus:code":"1002321641701",
         "qs_pg:id":246097
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497050968,
     "wof:geom_alt":[
@@ -213,7 +224,7 @@
         }
     ],
     "wof:id":1125414213,
-    "wof:lastmodified":1684354337,
+    "wof:lastmodified":1695879278,
     "wof:name":"Gmina Wa\u0142cz",
     "wof:parent_id":102080075,
     "wof:placetype":"localadmin",

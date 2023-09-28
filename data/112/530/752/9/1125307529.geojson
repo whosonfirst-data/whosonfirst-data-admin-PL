@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1945,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.68715,
     "lbl:longitude":20.47259,
     "lbl:max_zoom":16.0,
@@ -113,8 +122,10 @@
         "eurostat:nuts_2021_id":"1007142252011",
         "gn:id":758681,
         "gp:id":12617601,
+        "pol-gus:code":"1007142252011",
         "qs_pg:id":272336
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819039
     ],
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1125307529,
-    "wof:lastmodified":1684354210,
+    "wof:lastmodified":1695879040,
     "wof:name":"Sochocin",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1401,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.02636,
     "lbl:longitude":21.80829,
     "lbl:max_zoom":16.0,
@@ -113,8 +122,10 @@
         "eurostat:nuts_2021_id":"1007141291210",
         "gn:id":766675,
         "gp:id":12618007,
+        "pol-gus:code":"1007141291210",
         "qs_pg:id":69762
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821727
     ],
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1125410775,
-    "wof:lastmodified":1684354333,
+    "wof:lastmodified":1695879274,
     "wof:name":"Latowicz",
     "wof:parent_id":102079965,
     "wof:placetype":"localadmin",

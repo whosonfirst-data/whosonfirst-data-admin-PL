@@ -22,6 +22,15 @@
     "geom:latitude":53.2891,
     "geom:longitude":16.432569,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.363091,
     "lbl:longitude":16.39222,
     "mps:latitude":53.363091,
@@ -91,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321641705",
-        "eurostat:nuts_2021_id":"1002321641705"
+        "eurostat:nuts_2021_id":"1002321641705",
+        "pol-gus:code":"1002321641705"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"b459dbdc266fdd44e827c32f8e4d2ded",
     "wof:hierarchy":[
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477752005,
-    "wof:lastmodified":1684354387,
+    "wof:lastmodified":1695879331,
     "wof:name":"Gmina Wa\u0142cz",
     "wof:parent_id":102080075,
     "wof:placetype":"localadmin",

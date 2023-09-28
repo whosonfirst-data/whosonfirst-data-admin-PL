@@ -23,6 +23,15 @@
     "geom:longitude":22.964378,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.284332,
     "lbl:longitude":23.052062,
     "lbl:max_zoom":18.0,
@@ -104,8 +113,10 @@
         "eg:gisco_id":"PL_1007142711005",
         "eurostat:nuts_2021_id":"1007142711005",
         "gp:id":12617689,
+        "pol-gus:code":"1007142711005",
         "qs_pg:id":1112230
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125951567
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125322197,
-    "wof:lastmodified":1684354224,
+    "wof:lastmodified":1695879078,
     "wof:name":"Sarnaki",
     "wof:parent_id":102079981,
     "wof:placetype":"localadmin",

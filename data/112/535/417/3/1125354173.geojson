@@ -22,6 +22,15 @@
     "geom:latitude":51.475685,
     "geom:longitude":19.538179,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.471821,
     "lbl:longitude":19.525605,
     "mps:latitude":51.471821,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101171004",
-        "eurostat:nuts_2021_id":"1005101171004"
+        "eurostat:nuts_2021_id":"1005101171004",
+        "pol-gus:code":"1005101171004"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864955
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125354173,
-    "wof:lastmodified":1684354260,
+    "wof:lastmodified":1695879187,
     "wof:name":"Grabica",
     "wof:parent_id":102079783,
     "wof:placetype":"localadmin",

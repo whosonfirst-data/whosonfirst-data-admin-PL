@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":563,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.0408,
     "lbl:longitude":23.01833,
     "lbl:max_zoom":17.0,
@@ -100,8 +109,10 @@
         "eurostat:nuts_2021_id":"1006061100607",
         "gn:id":765995,
         "gp:id":12618009,
+        "pol-gus:code":"1006061100607",
         "qs_pg:id":24104
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865641
     ],
@@ -121,7 +132,7 @@
         }
     ],
     "wof:id":1125289083,
-    "wof:lastmodified":1684354169,
+    "wof:lastmodified":1695878986,
     "wof:name":"\u0141opiennik G\u00f3rny",
     "wof:parent_id":102079745,
     "wof:placetype":"localadmin",

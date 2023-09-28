@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":442,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.62811,
     "lbl:longitude":20.23364,
     "lbl:max_zoom":17.0,
@@ -105,8 +114,10 @@
         "eurostat:nuts_2021_id":"1007142252005",
         "gn:id":772698,
         "gp:id":12617419,
+        "pol-gus:code":"1007142252005",
         "qs_pg:id":998967
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863379
     ],
@@ -126,7 +137,7 @@
         }
     ],
     "wof:id":1125375575,
-    "wof:lastmodified":1684354291,
+    "wof:lastmodified":1695879229,
     "wof:name":"Dzierz\u0105\u017cnia",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":53.225144,
     "geom:longitude":14.984047,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.22122,
     "lbl:longitude":15.000021,
     "mps:latitude":53.22122,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321641206",
-        "eurostat:nuts_2021_id":"1002321641206"
+        "eurostat:nuts_2021_id":"1002321641206",
+        "pol-gus:code":"1002321641206"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865957
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125374555,
-    "wof:lastmodified":1684354289,
+    "wof:lastmodified":1695879227,
     "wof:name":"Warnice",
     "wof:parent_id":102080041,
     "wof:placetype":"localadmin",

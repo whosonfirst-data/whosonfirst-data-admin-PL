@@ -22,6 +22,15 @@
     "geom:latitude":50.905924,
     "geom:longitude":18.992087,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.910394,
     "lbl:longitude":19.015384,
     "mps:latitude":50.910394,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241460601",
-        "eurostat:nuts_2021_id":"1001241460601"
+        "eurostat:nuts_2021_id":"1001241460601",
+        "pol-gus:code":"1001241460601"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"d603cc6e5c38329189d49c6e4e381b6d",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751257,
-    "wof:lastmodified":1684354349,
+    "wof:lastmodified":1695879290,
     "wof:name":"Gmina K\u0142obuck",
     "wof:parent_id":102079667,
     "wof:placetype":"localadmin",

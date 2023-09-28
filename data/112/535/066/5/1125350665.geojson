@@ -22,6 +22,15 @@
     "geom:latitude":52.265186,
     "geom:longitude":19.523152,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.268363,
     "lbl:longitude":19.523161,
     "mps:latitude":52.268363,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101190209",
-        "eurostat:nuts_2021_id":"1005101190209"
+        "eurostat:nuts_2021_id":"1005101190209",
+        "pol-gus:code":"1005101190209"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864463
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125350665,
-    "wof:lastmodified":1684354258,
+    "wof:lastmodified":1695879183,
     "wof:name":"Opor\u00f3w",
     "wof:parent_id":102079929,
     "wof:placetype":"localadmin",

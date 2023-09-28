@@ -22,6 +22,15 @@
     "geom:latitude":51.508785,
     "geom:longitude":15.203338,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.509385,
     "lbl:longitude":15.205056,
     "mps:latitude":51.509385,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002081141004",
-        "eurostat:nuts_2021_id":"1002081141004"
+        "eurostat:nuts_2021_id":"1002081141004",
+        "pol-gus:code":"1002081141004"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"32a007d8514ddf2a47de4677bc80c7aa",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477752187,
-    "wof:lastmodified":1684354397,
+    "wof:lastmodified":1695879342,
     "wof:name":"Gmina I\u0142owa",
     "wof:parent_id":102079759,
     "wof:placetype":"localadmin",

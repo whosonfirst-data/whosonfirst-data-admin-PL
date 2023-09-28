@@ -22,6 +22,15 @@
     "geom:latitude":54.458153,
     "geom:longitude":17.979204,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.463359,
     "lbl:longitude":17.979266,
     "mps:latitude":54.463359,
@@ -76,8 +85,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221401506",
-        "eurostat:nuts_2021_id":"1004221401506"
+        "eurostat:nuts_2021_id":"1004221401506",
+        "pol-gus:code":"1004221401506"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819509
     ],
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1477751439,
-    "wof:lastmodified":1684354357,
+    "wof:lastmodified":1695879300,
     "wof:name":"Linia",
     "wof:parent_id":102080267,
     "wof:placetype":"localadmin",

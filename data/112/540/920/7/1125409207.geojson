@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.74922,
     "lbl:longitude":18.63178,
     "lbl:max_zoom":18.0,
@@ -204,8 +213,10 @@
         "eg:gisco_id":"PL_1001241440301",
         "eurostat:nuts_2021_id":"1001241440301",
         "gn:id":7532301,
+        "pol-gus:code":"1001241440301",
         "qs_pg:id":1154829
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101842315
     ],
@@ -225,7 +236,7 @@
         }
     ],
     "wof:id":1125409207,
-    "wof:lastmodified":1684354330,
+    "wof:lastmodified":1695879271,
     "wof:name":"Cieszyn",
     "wof:parent_id":102079421,
     "wof:placetype":"localadmin",

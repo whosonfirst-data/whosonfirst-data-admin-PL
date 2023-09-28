@@ -22,6 +22,15 @@
     "geom:latitude":53.434614,
     "geom:longitude":23.124303,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.451101,
     "lbl:longitude":23.118442,
     "mps:latitude":53.451101,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201371103",
-        "eurostat:nuts_2021_id":"1006201371103"
+        "eurostat:nuts_2021_id":"1006201371103",
+        "pol-gus:code":"1006201371103"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125949459
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752307,
-    "wof:lastmodified":1684354403,
+    "wof:lastmodified":1695879348,
     "wof:name":"Korycin",
     "wof:parent_id":102080189,
     "wof:placetype":"localadmin",

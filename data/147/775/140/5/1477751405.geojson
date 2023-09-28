@@ -22,6 +22,15 @@
     "geom:latitude":50.693329,
     "geom:longitude":15.968305,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.720227,
     "lbl:longitude":15.977796,
     "mps:latitude":50.720227,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021010703",
-        "eurostat:nuts_2021_id":"1003021010703"
+        "eurostat:nuts_2021_id":"1003021010703",
+        "pol-gus:code":"1003021010703"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"32b18a3bc6e8a4220e2f6aead50caa0b",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751405,
-    "wof:lastmodified":1684354356,
+    "wof:lastmodified":1695879298,
     "wof:name":"Gmina Lubawka",
     "wof:parent_id":102079601,
     "wof:placetype":"localadmin",

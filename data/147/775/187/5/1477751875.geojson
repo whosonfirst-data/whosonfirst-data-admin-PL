@@ -22,6 +22,15 @@
     "geom:latitude":51.603163,
     "geom:longitude":20.779958,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.587662,
     "lbl:longitude":20.741717,
     "mps:latitude":51.587662,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142270106",
-        "eurostat:nuts_2021_id":"1007142270106"
+        "eurostat:nuts_2021_id":"1007142270106",
+        "pol-gus:code":"1007142270106"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"0bc0e69d7720143e4fc5b596b7af1e93",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477751875,
-    "wof:lastmodified":1684354380,
+    "wof:lastmodified":1695879324,
     "wof:name":"Gmina Wy\u015bmierzyce",
     "wof:parent_id":102079839,
     "wof:placetype":"localadmin",

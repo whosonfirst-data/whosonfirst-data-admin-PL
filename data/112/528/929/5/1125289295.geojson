@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":184,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.30071,
     "lbl:longitude":22.46756,
     "lbl:max_zoom":18.0,
@@ -102,8 +111,10 @@
         "eurostat:nuts_2021_id":"1007142712606",
         "gn:id":762663,
         "gp:id":12618521,
+        "pol-gus:code":"1007142712606",
         "qs_pg:id":24228
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864843
     ],
@@ -123,7 +134,7 @@
         }
     ],
     "wof:id":1125289295,
-    "wof:lastmodified":1684354172,
+    "wof:lastmodified":1695878989,
     "wof:name":"Paprotnia",
     "wof:parent_id":102079979,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":14880,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.86252,
     "lbl:longitude":20.86757,
     "lbl:max_zoom":15.0,
@@ -185,8 +194,10 @@
         "eurostat:nuts_2021_id":"1007142730605",
         "gn:id":771384,
         "gp:id":24548279,
+        "pol-gus:code":"1007142730605",
         "qs_pg:id":1254104
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043957,
     "wof:geom_alt":[
@@ -203,7 +214,7 @@
         }
     ],
     "wof:id":1125310573,
-    "wof:lastmodified":1684354212,
+    "wof:lastmodified":1695879055,
     "wof:name":"Gmina Gr\u00f3jec",
     "wof:parent_id":102079877,
     "wof:placetype":"localadmin",

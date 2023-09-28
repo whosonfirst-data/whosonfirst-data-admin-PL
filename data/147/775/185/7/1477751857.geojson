@@ -22,6 +22,15 @@
     "geom:latitude":51.190538,
     "geom:longitude":19.872329,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.190109,
     "lbl:longitude":19.878725,
     "mps:latitude":51.190109,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101171007",
-        "eurostat:nuts_2021_id":"1005101171007"
+        "eurostat:nuts_2021_id":"1005101171007",
+        "pol-gus:code":"1005101171007"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1327264473
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477751857,
-    "wof:lastmodified":1684354379,
+    "wof:lastmodified":1695879323,
     "wof:name":"R\u0119czno",
     "wof:parent_id":102079783,
     "wof:placetype":"localadmin",

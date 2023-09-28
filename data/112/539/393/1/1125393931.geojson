@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.3703,
     "lbl:longitude":16.3818,
     "lbl:max_zoom":15.0,
@@ -161,12 +170,14 @@
         "eurostat:nuts_2021_id":"1003021030801",
         "gn:id":7531678,
         "gp:id":12617073,
+        "pol-gus:code":"1003021030801",
         "qs_pg:id":1041758
     },
     "wof:concordances_alt":{
         "gn:id":3099992,
         "qs_pg:id":953873
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1175613127
     ],
@@ -186,7 +197,7 @@
         }
     ],
     "wof:id":1125393931,
-    "wof:lastmodified":1684354314,
+    "wof:lastmodified":1695879254,
     "wof:name":"Duszniki-Zdr\u00f3j",
     "wof:parent_id":102079559,
     "wof:placetype":"localadmin",

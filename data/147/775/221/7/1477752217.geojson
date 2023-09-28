@@ -22,6 +22,15 @@
     "geom:latitude":50.247156,
     "geom:longitude":18.202269,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.242454,
     "lbl:longitude":18.212852,
     "mps:latitude":50.242454,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161320303",
-        "eurostat:nuts_2021_id":"1003161320303"
+        "eurostat:nuts_2021_id":"1003161320303",
+        "pol-gus:code":"1003161320303"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824847
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752217,
-    "wof:lastmodified":1684354399,
+    "wof:lastmodified":1695879344,
     "wof:name":"Cisek",
     "wof:parent_id":102079523,
     "wof:placetype":"localadmin",

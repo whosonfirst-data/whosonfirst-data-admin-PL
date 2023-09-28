@@ -22,6 +22,15 @@
     "geom:latitude":53.286673,
     "geom:longitude":20.142559,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.33368,
     "lbl:longitude":20.130816,
     "mps:latitude":53.33368,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281540302",
-        "eurostat:nuts_2021_id":"1004281540302"
+        "eurostat:nuts_2021_id":"1004281540302",
+        "pol-gus:code":"1004281540302"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"dab88ce35e9ef82c45bdeaf57f4361f7",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752931,
-    "wof:lastmodified":1684354437,
+    "wof:lastmodified":1695879383,
     "wof:name":"Gmina Dzia\u0142dowo",
     "wof:parent_id":102080111,
     "wof:placetype":"localadmin",

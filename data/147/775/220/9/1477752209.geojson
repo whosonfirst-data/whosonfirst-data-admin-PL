@@ -22,6 +22,15 @@
     "geom:latitude":51.271832,
     "geom:longitude":23.302883,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.27807,
     "lbl:longitude":23.296216,
     "mps:latitude":51.27807,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061100312",
-        "eurostat:nuts_2021_id":"1006061100312"
+        "eurostat:nuts_2021_id":"1006061100312",
+        "pol-gus:code":"1006061100312"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125968021
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752209,
-    "wof:lastmodified":1684354398,
+    "wof:lastmodified":1695879343,
     "wof:name":"Wierzbica",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",

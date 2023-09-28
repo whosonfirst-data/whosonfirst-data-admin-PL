@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.844,
     "lbl:longitude":16.5759,
     "lbl:max_zoom":18.0,
@@ -212,8 +221,10 @@
         "eurostat:nuts_2021_id":"1002301596301",
         "gn:id":7532770,
         "gp:id":12618760,
+        "pol-gus:code":"1002301596301",
         "qs_pg:id":1163049
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101913689
     ],
@@ -233,7 +244,7 @@
         }
     ],
     "wof:id":1125359837,
-    "wof:lastmodified":1684354266,
+    "wof:lastmodified":1695879197,
     "wof:name":"Leszno",
     "wof:parent_id":102079787,
     "wof:placetype":"localadmin",

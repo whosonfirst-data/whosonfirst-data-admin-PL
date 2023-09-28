@@ -22,6 +22,15 @@
     "geom:latitude":53.645069,
     "geom:longitude":19.035469,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.641626,
     "lbl:longitude":19.022143,
     "mps:latitude":53.641626,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221420702",
-        "eurostat:nuts_2021_id":"1004221420702"
+        "eurostat:nuts_2021_id":"1004221420702",
+        "pol-gus:code":"1004221420702"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819557
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752519,
-    "wof:lastmodified":1684354414,
+    "wof:lastmodified":1695879359,
     "wof:name":"Gardeja",
     "wof:parent_id":102080159,
     "wof:placetype":"localadmin",

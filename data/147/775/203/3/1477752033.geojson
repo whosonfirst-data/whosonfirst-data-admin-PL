@@ -22,6 +22,15 @@
     "geom:latitude":51.102408,
     "geom:longitude":23.294312,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.091951,
     "lbl:longitude":23.315401,
     "mps:latitude":51.091951,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061100315",
-        "eurostat:nuts_2021_id":"1006061100315"
+        "eurostat:nuts_2021_id":"1006061100315",
+        "pol-gus:code":"1006061100315"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"674dea92f3409dafdd4394769d63bd07",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752033,
-    "wof:lastmodified":1684354388,
+    "wof:lastmodified":1695879332,
     "wof:name":"Gmina Rejowiec",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",

@@ -23,6 +23,15 @@
     "geom:longitude":23.553976,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.137728,
     "lbl:longitude":23.512201,
     "lbl:max_zoom":18.0,
@@ -122,8 +131,10 @@
         "eg:gisco_id":"PL_1006061090116",
         "eurostat:nuts_2021_id":"1006061090116",
         "gp:id":24548715,
+        "pol-gus:code":"1006061090116",
         "qs_pg:id":32630
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863915
     ],
@@ -143,7 +154,7 @@
         }
     ],
     "wof:id":1125400083,
-    "wof:lastmodified":1684354324,
+    "wof:lastmodified":1695879265,
     "wof:name":"Gmina Terespol",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",

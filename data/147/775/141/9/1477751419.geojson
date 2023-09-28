@@ -22,6 +22,15 @@
     "geom:latitude":52.177683,
     "geom:longitude":21.560241,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.184265,
     "lbl:longitude":21.559525,
     "mps:latitude":52.184265,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007141291201",
-        "eurostat:nuts_2021_id":"1007141291201"
+        "eurostat:nuts_2021_id":"1007141291201",
+        "pol-gus:code":"1007141291201"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"38eb5520c671079047411663e48a8536",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751419,
-    "wof:lastmodified":1684354356,
+    "wof:lastmodified":1695879299,
     "wof:name":"Gmina Mi\u0144sk Mazowiecki",
     "wof:parent_id":102079965,
     "wof:placetype":"localadmin",

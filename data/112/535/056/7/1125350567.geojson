@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":382,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.43716,
     "lbl:longitude":22.65853,
     "lbl:max_zoom":17.0,
@@ -99,8 +108,10 @@
         "eurostat:nuts_2021_id":"1006061110812",
         "gn:id":759472,
         "gp:id":12618204,
+        "pol-gus:code":"1006061110812",
         "qs_pg:id":1148912
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865733
     ],
@@ -120,7 +131,7 @@
         }
     ],
     "wof:id":1125350567,
-    "wof:lastmodified":1684354257,
+    "wof:lastmodified":1695879180,
     "wof:name":"Serniki",
     "wof:parent_id":102079855,
     "wof:placetype":"localadmin",

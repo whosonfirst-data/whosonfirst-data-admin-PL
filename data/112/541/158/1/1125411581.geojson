@@ -23,6 +23,15 @@
     "geom:longitude":18.254374,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.147156,
     "lbl:longitude":18.208036,
     "lbl:max_zoom":18.0,
@@ -98,8 +107,10 @@
         "eg:gisco_id":"PL_1004041060302",
         "eurostat:nuts_2021_id":"1004041060302",
         "gp:id":12617925,
+        "pol-gus:code":"1004041060302",
         "qs_pg:id":238787
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819165
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125411581,
-    "wof:lastmodified":1684354335,
+    "wof:lastmodified":1695879276,
     "wof:name":"D\u0105browa Che\u0142mi\u0144ska",
     "wof:parent_id":102080085,
     "wof:placetype":"localadmin",

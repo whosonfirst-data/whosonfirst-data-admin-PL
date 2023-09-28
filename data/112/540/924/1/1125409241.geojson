@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.1264,
     "lbl:longitude":19.0083,
     "lbl:max_zoom":14.0,
@@ -265,12 +274,14 @@
         "eurostat:nuts_2021_id":"1001241517701",
         "gn:id":7532522,
         "gp:id":12618477,
+        "pol-gus:code":"1001241517701",
         "qs_pg:id":1154846
     },
     "wof:concordances_alt":{
         "gn:id":3082914,
         "qs_pg:id":1150167
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101752113,
         102079471
@@ -291,7 +302,7 @@
         }
     ],
     "wof:id":1125409241,
-    "wof:lastmodified":1684354331,
+    "wof:lastmodified":1695879272,
     "wof:name":"Tychy",
     "wof:parent_id":102079471,
     "wof:placetype":"localadmin",

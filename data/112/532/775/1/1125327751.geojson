@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":6731,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.14449,
     "lbl:longitude":18.99612,
     "lbl:max_zoom":15.0,
@@ -172,8 +181,10 @@
         "eurostat:nuts_2021_id":"1005101180904",
         "gn:id":3089553,
         "gp:id":24548370,
+        "pol-gus:code":"1005101180904",
         "qs_pg:id":507430
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044919,
     "wof:geom_alt":[
@@ -190,7 +201,7 @@
         }
     ],
     "wof:id":1125327751,
-    "wof:lastmodified":1684354237,
+    "wof:lastmodified":1695879137,
     "wof:name":"Gmina Paj\u0119czno",
     "wof:parent_id":102079705,
     "wof:placetype":"localadmin",

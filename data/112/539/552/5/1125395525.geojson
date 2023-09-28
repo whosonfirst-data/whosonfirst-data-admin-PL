@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.4492,
     "lbl:longitude":16.6792,
     "lbl:max_zoom":18.0,
@@ -114,8 +123,10 @@
         "eg:gisco_id":"PL_1002301612117",
         "eurostat:nuts_2021_id":"1002301612117",
         "gn:id":7532917,
+        "pol-gus:code":"1002301612117",
         "qs_pg:id":1048313
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101911377
     ],
@@ -135,7 +146,7 @@
         }
     ],
     "wof:id":1125395525,
-    "wof:lastmodified":1684354316,
+    "wof:lastmodified":1695879257,
     "wof:name":"Tarnowo Podg\u00f3rne",
     "wof:parent_id":102079955,
     "wof:placetype":"localadmin",

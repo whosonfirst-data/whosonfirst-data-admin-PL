@@ -22,6 +22,15 @@
     "geom:latitude":50.229193,
     "geom:longitude":19.972066,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.22909,
     "lbl:longitude":19.972972,
     "mps:latitude":50.22909,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121200603",
-        "eurostat:nuts_2021_id":"1001121200603"
+        "eurostat:nuts_2021_id":"1001121200603",
+        "pol-gus:code":"1001121200603"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125979301
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477752765,
-    "wof:lastmodified":1684354427,
+    "wof:lastmodified":1695879374,
     "wof:name":"Iwanowice",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",

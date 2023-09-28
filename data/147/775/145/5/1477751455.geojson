@@ -22,6 +22,15 @@
     "geom:latitude":53.988831,
     "geom:longitude":20.989435,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.98552,
     "lbl:longitude":21.002379,
     "mps:latitude":53.98552,
@@ -121,8 +130,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281561408",
-        "eurostat:nuts_2021_id":"1004281561408"
+        "eurostat:nuts_2021_id":"1004281561408",
+        "pol-gus:code":"1004281561408"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125967835
     ],
@@ -138,7 +149,7 @@
         }
     ],
     "wof:id":1477751455,
-    "wof:lastmodified":1684354358,
+    "wof:lastmodified":1695879301,
     "wof:name":"Kolno",
     "wof:parent_id":102080207,
     "wof:placetype":"localadmin",

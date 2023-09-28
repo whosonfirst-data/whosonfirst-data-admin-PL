@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1000,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.69173,
     "lbl:longitude":22.47854,
     "lbl:max_zoom":16.0,
@@ -110,8 +119,10 @@
         "eurostat:nuts_2021_id":"1006181341301",
         "gn:id":775908,
         "gp:id":12617697,
+        "pol-gus:code":"1006181341301",
         "qs_pg:id":288833
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864785
     ],
@@ -131,7 +142,7 @@
         }
     ],
     "wof:id":1125295235,
-    "wof:lastmodified":1684354185,
+    "wof:lastmodified":1695879006,
     "wof:name":"Bircza",
     "wof:parent_id":102079513,
     "wof:placetype":"localadmin",

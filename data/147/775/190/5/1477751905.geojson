@@ -22,6 +22,15 @@
     "geom:latitude":51.078068,
     "geom:longitude":17.251361,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.072513,
     "lbl:longitude":17.240225,
     "mps:latitude":51.072513,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021042301",
-        "eurostat:nuts_2021_id":"1003021042301"
+        "eurostat:nuts_2021_id":"1003021042301",
+        "pol-gus:code":"1003021042301"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1327166543
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477751905,
-    "wof:lastmodified":1684354382,
+    "wof:lastmodified":1695879326,
     "wof:name":"Czernica",
     "wof:parent_id":102079685,
     "wof:placetype":"localadmin",

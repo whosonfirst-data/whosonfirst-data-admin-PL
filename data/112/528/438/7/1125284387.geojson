@@ -23,6 +23,15 @@
     "geom:longitude":20.30295,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.51744,
     "lbl:longitude":20.248734,
     "lbl:max_zoom":18.0,
@@ -92,8 +101,10 @@
         "eg:gisco_id":"PL_1001121691110",
         "eurostat:nuts_2021_id":"1001121691110",
         "gp:id":12618163,
+        "pol-gus:code":"1001121691110",
         "qs_pg:id":1093288
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101860141
     ],
@@ -113,7 +124,7 @@
         }
     ],
     "wof:id":1125284387,
-    "wof:lastmodified":1684354155,
+    "wof:lastmodified":1695878973,
     "wof:name":"Ochotnica Dolna",
     "wof:parent_id":102079407,
     "wof:placetype":"localadmin",

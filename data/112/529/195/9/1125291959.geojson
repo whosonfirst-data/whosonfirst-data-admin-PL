@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":8670,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.5627,
     "lbl:longitude":18.8926,
     "lbl:max_zoom":15.0,
@@ -152,8 +161,10 @@
         "eurostat:nuts_2021_id":"1001241451301",
         "gn:id":3096911,
         "gp:id":12618804,
+        "pol-gus:code":"1001241451301",
         "qs_pg:id":1043193
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823577
     ],
@@ -173,7 +184,7 @@
         }
     ],
     "wof:id":1125291959,
-    "wof:lastmodified":1684354178,
+    "wof:lastmodified":1695878997,
     "wof:name":"Kalety",
     "wof:parent_id":102079581,
     "wof:placetype":"localadmin",

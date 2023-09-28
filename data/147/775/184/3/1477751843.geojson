@@ -22,6 +22,15 @@
     "geom:latitude":52.625386,
     "geom:longitude":20.364035,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.625781,
     "lbl:longitude":20.364488,
     "mps:latitude":52.625781,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142252001",
-        "eurostat:nuts_2021_id":"1007142252001"
+        "eurostat:nuts_2021_id":"1007142252001",
+        "pol-gus:code":"1007142252001"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"113caeeda454dd064d26df7b980971be",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751843,
-    "wof:lastmodified":1684354378,
+    "wof:lastmodified":1695879322,
     "wof:name":"Gmina P\u0142o\u0144sk",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",

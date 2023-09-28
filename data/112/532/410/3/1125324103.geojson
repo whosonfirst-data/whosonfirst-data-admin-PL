@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":870,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.24607,
     "lbl:longitude":20.17476,
     "lbl:max_zoom":17.0,
@@ -109,8 +118,10 @@
         "eurostat:nuts_2021_id":"1005101170708",
         "gn:id":753787,
         "gp:id":12616600,
+        "pol-gus:code":"1005101170708",
         "qs_pg:id":23860
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864011
     ],
@@ -130,7 +141,7 @@
         }
     ],
     "wof:id":1125324103,
-    "wof:lastmodified":1684354225,
+    "wof:lastmodified":1695879079,
     "wof:name":"\u017barn\u00f3w",
     "wof:parent_id":102079785,
     "wof:placetype":"localadmin",

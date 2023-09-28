@@ -22,6 +22,15 @@
     "geom:latitude":52.767464,
     "geom:longitude":20.526644,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.766156,
     "lbl:longitude":20.528588,
     "mps:latitude":52.766156,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142250206",
-        "eurostat:nuts_2021_id":"1007142250206"
+        "eurostat:nuts_2021_id":"1007142250206",
+        "pol-gus:code":"1007142250206"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864083
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125375695,
-    "wof:lastmodified":1684354292,
+    "wof:lastmodified":1695879231,
     "wof:name":"Ojrze\u0144",
     "wof:parent_id":102080055,
     "wof:placetype":"localadmin",

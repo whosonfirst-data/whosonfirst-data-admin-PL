@@ -22,6 +22,15 @@
     "geom:latitude":51.331295,
     "geom:longitude":21.75745,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.330383,
     "lbl:longitude":21.748303,
     "mps:latitude":51.330383,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142273603",
-        "eurostat:nuts_2021_id":"1007142273603"
+        "eurostat:nuts_2021_id":"1007142273603",
+        "pol-gus:code":"1007142273603"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126025407
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751199,
-    "wof:lastmodified":1684354346,
+    "wof:lastmodified":1695879287,
     "wof:name":"Przy\u0142\u0119k",
     "wof:parent_id":102079799,
     "wof:placetype":"localadmin",

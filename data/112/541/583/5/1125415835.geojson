@@ -23,6 +23,15 @@
     "geom:longitude":19.299615,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.341555,
     "lbl:longitude":19.211483,
     "lbl:max_zoom":18.0,
@@ -218,8 +227,10 @@
         "eg:gisco_id":"PL_1001241506501",
         "eurostat:nuts_2021_id":"1001241506501",
         "gp:id":24548402,
+        "pol-gus:code":"1001241506501",
         "qs_pg:id":248863
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1175613159,
         102079551
@@ -240,7 +251,7 @@
         }
     ],
     "wof:id":1125415835,
-    "wof:lastmodified":1684354339,
+    "wof:lastmodified":1695879280,
     "wof:name":"D\u0105browa G\u00f3rnicza",
     "wof:parent_id":102079551,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":11462,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.71051,
     "lbl:longitude":16.38044,
     "lbl:max_zoom":15.0,
@@ -176,8 +185,10 @@
         "eurostat:nuts_2021_id":"1002301612408",
         "gn:id":3081350,
         "gp:id":24547529,
+        "pol-gus:code":"1002301612408",
         "qs_pg:id":145550
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043144,
     "wof:geom_alt":[
@@ -194,7 +205,7 @@
         }
     ],
     "wof:id":1125295931,
-    "wof:lastmodified":1684354186,
+    "wof:lastmodified":1695879008,
     "wof:name":"Gmina Wronki",
     "wof:parent_id":102079963,
     "wof:placetype":"localadmin",

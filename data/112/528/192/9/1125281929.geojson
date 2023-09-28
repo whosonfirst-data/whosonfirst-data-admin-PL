@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.27006,
     "lbl:longitude":18.87424,
     "lbl:max_zoom":18.0,
@@ -232,11 +241,13 @@
         "eurostat:nuts_2021_id":"1001241487201",
         "gn:id":7531588,
         "gp:id":12617637,
+        "pol-gus:code":"1001241487201",
         "qs_pg:id":380881
     },
     "wof:concordances_alt":{
         "qs_pg:id":1080536
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101752131,
         102079509
@@ -257,7 +268,7 @@
         }
     ],
     "wof:id":1125281929,
-    "wof:lastmodified":1684354149,
+    "wof:lastmodified":1695878967,
     "wof:name":"Ruda \u015al\u0105ska",
     "wof:parent_id":102079509,
     "wof:placetype":"localadmin",

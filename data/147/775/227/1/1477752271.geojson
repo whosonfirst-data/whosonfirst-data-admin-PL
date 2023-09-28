@@ -22,6 +22,15 @@
     "geom:latitude":51.350182,
     "geom:longitude":19.826066,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.344614,
     "lbl:longitude":19.816719,
     "mps:latitude":51.344614,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101171009",
-        "eurostat:nuts_2021_id":"1005101171009"
+        "eurostat:nuts_2021_id":"1005101171009",
+        "pol-gus:code":"1005101171009"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"9086f4a68874cf538212f346a1e23868",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477752271,
-    "wof:lastmodified":1684354401,
+    "wof:lastmodified":1695879346,
     "wof:name":"Gmina Sulej\u00f3w",
     "wof:parent_id":102079783,
     "wof:placetype":"localadmin",

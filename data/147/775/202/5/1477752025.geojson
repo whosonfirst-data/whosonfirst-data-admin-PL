@@ -22,6 +22,15 @@
     "geom:latitude":49.910384,
     "geom:longitude":19.381269,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.92143,
     "lbl:longitude":19.395124,
     "mps:latitude":49.92143,
@@ -112,8 +121,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121231810",
-        "eurostat:nuts_2021_id":"1001121231810"
+        "eurostat:nuts_2021_id":"1001121231810",
+        "pol-gus:code":"1001121231810"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101841501
     ],
@@ -129,7 +140,7 @@
         }
     ],
     "wof:id":1477752025,
-    "wof:lastmodified":1684354388,
+    "wof:lastmodified":1695879332,
     "wof:name":"Wieprz",
     "wof:parent_id":102079451,
     "wof:placetype":"localadmin",

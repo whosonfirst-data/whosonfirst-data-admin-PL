@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4182,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.16488,
     "lbl:longitude":15.82769,
     "lbl:max_zoom":15.0,
@@ -170,8 +179,10 @@
         "eurostat:nuts_2021_id":"1002081140901",
         "gn:id":3104002,
         "gp:id":24548021,
+        "pol-gus:code":"1002081140901",
         "qs_pg:id":1059798
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042227,
     "wof:geom_alt":[
@@ -188,7 +199,7 @@
         }
     ],
     "wof:id":1125273521,
-    "wof:lastmodified":1684354142,
+    "wof:lastmodified":1695878959,
     "wof:name":"Gmina Babimost",
     "wof:parent_id":102079851,
     "wof:placetype":"localadmin",

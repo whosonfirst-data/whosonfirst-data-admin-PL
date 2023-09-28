@@ -22,6 +22,15 @@
     "geom:latitude":51.81181,
     "geom:longitude":19.628283,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.803071,
     "lbl:longitude":19.643914,
     "mps:latitude":51.803071,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101150608",
-        "eurostat:nuts_2021_id":"1005101150608"
+        "eurostat:nuts_2021_id":"1005101150608",
+        "pol-gus:code":"1005101150608"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477866137
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477752657,
-    "wof:lastmodified":1684354421,
+    "wof:lastmodified":1695879367,
     "wof:name":"Nowosolna",
     "wof:parent_id":102079837,
     "wof:placetype":"localadmin",

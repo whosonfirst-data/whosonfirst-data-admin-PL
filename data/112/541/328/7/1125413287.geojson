@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":9009,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.24404,
     "lbl:longitude":19.62613,
     "lbl:max_zoom":15.0,
@@ -172,8 +181,10 @@
         "eurostat:nuts_2021_id":"1005101190211",
         "gn:id":3079897,
         "gp:id":24548400,
+        "pol-gus:code":"1005101190211",
         "qs_pg:id":244919
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497050806,
     "wof:geom_alt":[
@@ -190,7 +201,7 @@
         }
     ],
     "wof:id":1125413287,
-    "wof:lastmodified":1684354337,
+    "wof:lastmodified":1695879278,
     "wof:name":"Gmina \u017bychlin",
     "wof:parent_id":102079929,
     "wof:placetype":"localadmin",

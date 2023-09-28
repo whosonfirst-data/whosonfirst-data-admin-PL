@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":840,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.02876,
     "lbl:longitude":22.85053,
     "lbl:max_zoom":17.0,
@@ -101,8 +110,10 @@
         "eurostat:nuts_2021_id":"1006061111704",
         "gn:id":759922,
         "gp:id":12618410,
+        "pol-gus:code":"1006061111704",
         "qs_pg:id":1018207
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477866119
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125391677,
-    "wof:lastmodified":1684354309,
+    "wof:lastmodified":1695879249,
     "wof:name":"Rybczewice",
     "wof:parent_id":102079777,
     "wof:placetype":"localadmin",

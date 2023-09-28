@@ -22,6 +22,15 @@
     "geom:latitude":51.210223,
     "geom:longitude":18.871396,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.207609,
     "lbl:longitude":18.878212,
     "mps:latitude":51.207609,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101180906",
-        "eurostat:nuts_2021_id":"1005101180906"
+        "eurostat:nuts_2021_id":"1005101180906",
+        "pol-gus:code":"1005101180906"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822869
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752251,
-    "wof:lastmodified":1684354400,
+    "wof:lastmodified":1695879345,
     "wof:name":"Siemkowice",
     "wof:parent_id":102079705,
     "wof:placetype":"localadmin",

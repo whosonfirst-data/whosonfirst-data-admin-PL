@@ -22,6 +22,15 @@
     "geom:latitude":51.214773,
     "geom:longitude":18.214073,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.222334,
     "lbl:longitude":18.213101,
     "mps:latitude":51.222334,
@@ -148,8 +157,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101181801",
-        "eurostat:nuts_2021_id":"1005101181801"
+        "eurostat:nuts_2021_id":"1005101181801",
+        "pol-gus:code":"1005101181801"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477874087
     ],
@@ -165,7 +176,7 @@
         }
     ],
     "wof:id":1477752987,
-    "wof:lastmodified":1684354440,
+    "wof:lastmodified":1695879386,
     "wof:name":"Boles\u0142awiec",
     "wof:parent_id":102079731,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":53.360506,
     "geom:longitude":17.040701,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.357106,
     "lbl:longitude":17.043946,
     "mps:latitude":53.357106,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301603101",
-        "eurostat:nuts_2021_id":"1002301603101"
+        "eurostat:nuts_2021_id":"1002301603101",
+        "pol-gus:code":"1002301603101"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"5b2d3c66ac9f394d1a9d40a6000c8823",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752323,
-    "wof:lastmodified":1684354404,
+    "wof:lastmodified":1695879349,
     "wof:name":"Gmina Z\u0142ot\u00f3w",
     "wof:parent_id":102080109,
     "wof:placetype":"localadmin",

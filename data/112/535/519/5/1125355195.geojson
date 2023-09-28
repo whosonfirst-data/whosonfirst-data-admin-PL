@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":402,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.51152,
     "lbl:longitude":20.52864,
     "lbl:max_zoom":17.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1007142252012",
         "gn:id":753910,
         "gp:id":12618811,
+        "pol-gus:code":"1007142252012",
         "qs_pg:id":287762
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863577
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125355195,
-    "wof:lastmodified":1684354261,
+    "wof:lastmodified":1695879188,
     "wof:name":"Za\u0142uski",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",

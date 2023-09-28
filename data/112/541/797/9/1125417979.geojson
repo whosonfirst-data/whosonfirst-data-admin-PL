@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":546,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.00834,
     "lbl:longitude":20.5477,
     "lbl:max_zoom":17.0,
@@ -107,8 +116,10 @@
         "eurostat:nuts_2021_id":"1007142733804",
         "gn:id":760711,
         "gp:id":12616589,
+        "pol-gus:code":"1007142733804",
         "qs_pg:id":1190413
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865869
     ],
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1125417979,
-    "wof:lastmodified":1684354340,
+    "wof:lastmodified":1695879282,
     "wof:name":"Radziejowice",
     "wof:parent_id":102079897,
     "wof:placetype":"localadmin",

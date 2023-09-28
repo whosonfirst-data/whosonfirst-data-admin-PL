@@ -22,6 +22,15 @@
     "geom:latitude":49.759139,
     "geom:longitude":20.499267,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.759471,
     "lbl:longitude":20.500729,
     "mps:latitude":49.759471,
@@ -55,8 +64,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121220706",
-        "eurostat:nuts_2021_id":"1001121220706"
+        "eurostat:nuts_2021_id":"1001121220706",
+        "pol-gus:code":"1001121220706"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101827281
     ],
@@ -72,7 +83,7 @@
         }
     ],
     "wof:id":1477751981,
-    "wof:lastmodified":1684354385,
+    "wof:lastmodified":1695879330,
     "wof:name":"Laskowa",
     "wof:parent_id":102079423,
     "wof:placetype":"localadmin",

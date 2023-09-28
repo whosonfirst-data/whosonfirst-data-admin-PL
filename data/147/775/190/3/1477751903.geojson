@@ -22,6 +22,15 @@
     "geom:latitude":54.106374,
     "geom:longitude":20.719938,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.12031,
     "lbl:longitude":20.734423,
     "mps:latitude":54.12031,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281560902",
-        "eurostat:nuts_2021_id":"1004281560902"
+        "eurostat:nuts_2021_id":"1004281560902",
+        "pol-gus:code":"1004281560902"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126016743
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477751903,
-    "wof:lastmodified":1684354382,
+    "wof:lastmodified":1695879326,
     "wof:name":"Kiwity",
     "wof:parent_id":102080215,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":30168,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.10614,
     "lbl:longitude":19.94465,
     "lbl:max_zoom":14.0,
@@ -109,8 +118,10 @@
         "eg:gisco_id":"PL_1005101190501",
         "eurostat:nuts_2021_id":"1005101190501",
         "gn:id":6941022,
+        "pol-gus:code":"1005101190501",
         "qs_pg:id":653101
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497049554,
     "wof:geom_alt":[
@@ -127,7 +138,7 @@
         }
     ],
     "wof:id":1125404623,
-    "wof:lastmodified":1684354327,
+    "wof:lastmodified":1695879268,
     "wof:name":"Gmina \u0141owicz",
     "wof:parent_id":102079923,
     "wof:placetype":"localadmin",

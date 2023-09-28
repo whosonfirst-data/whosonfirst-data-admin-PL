@@ -22,6 +22,15 @@
     "geom:latitude":52.977257,
     "geom:longitude":22.245688,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.977217,
     "lbl:longitude":22.234957,
     "mps:latitude":52.977217,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201381401",
-        "eurostat:nuts_2021_id":"1006201381401"
+        "eurostat:nuts_2021_id":"1006201381401",
+        "pol-gus:code":"1006201381401"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"3c4c92ee3ea82d9f0bea3788f761aa7b",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752701,
-    "wof:lastmodified":1684354423,
+    "wof:lastmodified":1695879370,
     "wof:name":"Gmina Zambr\u00f3w",
     "wof:parent_id":102080103,
     "wof:placetype":"localadmin",
