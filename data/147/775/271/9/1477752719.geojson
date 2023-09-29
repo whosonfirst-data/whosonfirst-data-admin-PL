@@ -22,6 +22,15 @@
     "geom:latitude":51.955123,
     "geom:longitude":17.340308,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.946196,
     "lbl:longitude":17.349049,
     "mps:latitude":51.946196,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301570601",
-        "eurostat:nuts_2021_id":"1002301570601"
+        "eurostat:nuts_2021_id":"1002301570601",
+        "pol-gus:code":"1002301570601"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"e4eb0723611c1b81ae9f659bde2028e9",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752719,
-    "wof:lastmodified":1684354424,
+    "wof:lastmodified":1695879370,
     "wof:name":"Gmina Jaraczewo",
     "wof:parent_id":102079857,
     "wof:placetype":"localadmin",

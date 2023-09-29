@@ -23,6 +23,15 @@
     "geom:longitude":18.750509,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.22471,
     "lbl:longitude":18.773488,
     "lbl:max_zoom":18.0,
@@ -92,8 +101,10 @@
         "eg:gisco_id":"PL_1001241470503",
         "eurostat:nuts_2021_id":"1001241470503",
         "gp:id":12617353,
+        "pol-gus:code":"1001241470503",
         "qs_pg:id":43581
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101841639
     ],
@@ -113,7 +124,7 @@
         }
     ],
     "wof:id":1125326573,
-    "wof:lastmodified":1684354234,
+    "wof:lastmodified":1695879124,
     "wof:name":"Giera\u0142towice",
     "wof:parent_id":102079563,
     "wof:placetype":"localadmin",

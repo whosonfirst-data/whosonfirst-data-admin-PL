@@ -22,6 +22,15 @@
     "geom:latitude":49.68923,
     "geom:longitude":22.033452,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.696609,
     "lbl:longitude":22.032089,
     "mps:latitude":49.696609,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181330201",
-        "eurostat:nuts_2021_id":"1006181330201"
+        "eurostat:nuts_2021_id":"1006181330201",
+        "pol-gus:code":"1006181330201"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864149
     ],
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477752203,
-    "wof:lastmodified":1684354398,
+    "wof:lastmodified":1695879343,
     "wof:name":"Gmina Brzoz\u00f3w",
     "wof:parent_id":102079461,
     "wof:placetype":"localadmin",

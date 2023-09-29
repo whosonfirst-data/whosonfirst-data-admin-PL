@@ -23,6 +23,15 @@
     "geom:longitude":20.735441,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.44081,
     "lbl:longitude":20.42624,
     "lbl:max_zoom":18.0,
@@ -89,8 +98,10 @@
         "eg:gisco_id":"PL_1001121221003",
         "eurostat:nuts_2021_id":"1001121221003",
         "gp:id":12617255,
+        "pol-gus:code":"1001121221003",
         "qs_pg:id":1001232
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125920419
     ],
@@ -110,7 +121,7 @@
         }
     ],
     "wof:id":1125376369,
-    "wof:lastmodified":1684354294,
+    "wof:lastmodified":1695879233,
     "wof:name":"Gr\u00f3dek nad Dunajcem",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":53.700847,
     "geom:longitude":15.800223,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.704298,
     "lbl:longitude":15.780293,
     "mps:latitude":53.704298,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321641602",
-        "eurostat:nuts_2021_id":"1002321641602"
+        "eurostat:nuts_2021_id":"1002321641602",
+        "pol-gus:code":"1002321641602"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126004309
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752953,
-    "wof:lastmodified":1684354438,
+    "wof:lastmodified":1695879384,
     "wof:name":"Brze\u017cno",
     "wof:parent_id":102080147,
     "wof:placetype":"localadmin",

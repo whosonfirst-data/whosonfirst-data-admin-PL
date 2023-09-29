@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":658,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.32025,
     "lbl:longitude":20.68339,
     "lbl:max_zoom":17.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1007142272301",
         "gn:id":775533,
         "gp:id":24548248,
+        "pol-gus:code":"1007142272301",
         "qs_pg:id":1095668
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865519
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125290141,
-    "wof:lastmodified":1684354174,
+    "wof:lastmodified":1695878992,
     "wof:name":"Borkowice",
     "wof:parent_id":102079797,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.781283,
     "geom:longitude":18.621492,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.78072,
     "lbl:longitude":18.619525,
     "mps:latitude":50.78072,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241450703",
-        "eurostat:nuts_2021_id":"1001241450703"
+        "eurostat:nuts_2021_id":"1001241450703",
+        "pol-gus:code":"1001241450703"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823775
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477751797,
-    "wof:lastmodified":1684354376,
+    "wof:lastmodified":1695879320,
     "wof:name":"Ciasna",
     "wof:parent_id":102079621,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.921892,
     "geom:longitude":19.690915,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.910587,
     "lbl:longitude":19.70263,
     "mps:latitude":50.910587,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101171214",
-        "eurostat:nuts_2021_id":"1005101171214"
+        "eurostat:nuts_2021_id":"1005101171214",
+        "pol-gus:code":"1005101171214"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126021607
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477751479,
-    "wof:lastmodified":1684354359,
+    "wof:lastmodified":1695879302,
     "wof:name":"\u017bytno",
     "wof:parent_id":102079711,
     "wof:placetype":"localadmin",

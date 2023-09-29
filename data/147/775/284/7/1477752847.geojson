@@ -22,6 +22,15 @@
     "geom:latitude":50.447121,
     "geom:longitude":18.508795,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.45186,
     "lbl:longitude":18.528141,
     "mps:latitude":50.45186,
@@ -91,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241470507",
-        "eurostat:nuts_2021_id":"1001241470507"
+        "eurostat:nuts_2021_id":"1001241470507",
+        "pol-gus:code":"1001241470507"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"18dca07d4dab687427717f9aad966e65",
     "wof:hierarchy":[
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477752847,
-    "wof:lastmodified":1684354432,
+    "wof:lastmodified":1695879378,
     "wof:name":"Gmina Toszek",
     "wof:parent_id":102079563,
     "wof:placetype":"localadmin",

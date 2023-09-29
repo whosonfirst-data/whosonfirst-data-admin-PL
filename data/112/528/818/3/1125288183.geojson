@@ -22,6 +22,15 @@
     "geom:latitude":51.54099,
     "geom:longitude":22.16994,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.541502,
     "lbl:longitude":22.169986,
     "mps:latitude":51.541502,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061121402",
-        "eurostat:nuts_2021_id":"1006061121402"
+        "eurostat:nuts_2021_id":"1006061121402",
+        "pol-gus:code":"1006061121402"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821587
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125288183,
-    "wof:lastmodified":1684354160,
+    "wof:lastmodified":1695878978,
     "wof:name":"Baran\u00f3w",
     "wof:parent_id":102079833,
     "wof:placetype":"localadmin",

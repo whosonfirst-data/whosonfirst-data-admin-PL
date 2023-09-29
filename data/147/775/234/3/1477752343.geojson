@@ -22,6 +22,15 @@
     "geom:latitude":49.898198,
     "geom:longitude":22.490744,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.896402,
     "lbl:longitude":22.490733,
     "mps:latitude":49.896402,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181340407",
-        "eurostat:nuts_2021_id":"1006181340407"
+        "eurostat:nuts_2021_id":"1006181340407",
+        "pol-gus:code":"1006181340407"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"fda28880d3e4237bcb35a22fec82e9e7",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752343,
-    "wof:lastmodified":1684354405,
+    "wof:lastmodified":1695879350,
     "wof:name":"Gmina Pruchnik",
     "wof:parent_id":102079573,
     "wof:placetype":"localadmin",

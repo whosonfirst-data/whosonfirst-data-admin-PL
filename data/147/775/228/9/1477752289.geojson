@@ -22,6 +22,15 @@
     "geom:latitude":53.852446,
     "geom:longitude":22.642666,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.844173,
     "lbl:longitude":22.645555,
     "mps:latitude":53.844173,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281550503",
-        "eurostat:nuts_2021_id":"1004281550503"
+        "eurostat:nuts_2021_id":"1004281550503",
+        "pol-gus:code":"1004281550503"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126005763
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752289,
-    "wof:lastmodified":1684354402,
+    "wof:lastmodified":1695879347,
     "wof:name":"Kalinowo",
     "wof:parent_id":102080209,
     "wof:placetype":"localadmin",

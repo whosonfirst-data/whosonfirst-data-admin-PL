@@ -22,6 +22,15 @@
     "geom:latitude":50.899067,
     "geom:longitude":20.107926,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.899181,
     "lbl:longitude":20.094898,
     "mps:latitude":50.899181,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005261531302",
-        "eurostat:nuts_2021_id":"1005261531302"
+        "eurostat:nuts_2021_id":"1005261531302",
+        "pol-gus:code":"1005261531302"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125950937
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477751879,
-    "wof:lastmodified":1684354380,
+    "wof:lastmodified":1695879324,
     "wof:name":"Krasocin",
     "wof:parent_id":102079679,
     "wof:placetype":"localadmin",

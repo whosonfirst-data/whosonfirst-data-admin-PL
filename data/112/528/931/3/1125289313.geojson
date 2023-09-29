@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1400,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.95124,
     "lbl:longitude":22.38138,
     "lbl:max_zoom":16.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1006061120710",
         "gn:id":754027,
         "gp:id":12618487,
+        "pol-gus:code":"1006061120710",
         "qs_pg:id":24232
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864141
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125289313,
-    "wof:lastmodified":1684354172,
+    "wof:lastmodified":1695878989,
     "wof:name":"Zakrz\u00f3wek",
     "wof:parent_id":102079721,
     "wof:placetype":"localadmin",

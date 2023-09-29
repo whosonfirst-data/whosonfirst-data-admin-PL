@@ -22,6 +22,15 @@
     "geom:latitude":53.773992,
     "geom:longitude":15.444808,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.773256,
     "lbl:longitude":15.441672,
     "mps:latitude":53.773256,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321641804",
-        "eurostat:nuts_2021_id":"1002321641804"
+        "eurostat:nuts_2021_id":"1002321641804",
+        "pol-gus:code":"1002321641804"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"82b96c04608acb621b3c07b9a9a1ec73",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751227,
-    "wof:lastmodified":1684354347,
+    "wof:lastmodified":1695879289,
     "wof:name":"Gmina Resko",
     "wof:parent_id":102080131,
     "wof:placetype":"localadmin",

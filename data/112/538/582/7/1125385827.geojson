@@ -22,6 +22,15 @@
     "geom:latitude":51.505839,
     "geom:longitude":19.029251,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.504028,
     "lbl:longitude":19.02778,
     "mps:latitude":51.504028,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101180303",
-        "eurostat:nuts_2021_id":"1005101180303"
+        "eurostat:nuts_2021_id":"1005101180303",
+        "pol-gus:code":"1005101180303"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864733
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125385827,
-    "wof:lastmodified":1684354305,
+    "wof:lastmodified":1695879246,
     "wof:name":"S\u0119dziejowice",
     "wof:parent_id":102079807,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":9169,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.75328,
     "lbl:longitude":18.11328,
     "lbl:max_zoom":15.0,
@@ -179,8 +188,10 @@
         "eurostat:nuts_2021_id":"1004041670705",
         "gn:id":3097688,
         "gp:id":24547942,
+        "pol-gus:code":"1004041670705",
         "qs_pg:id":1123144
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045403,
     "wof:geom_alt":[
@@ -197,7 +208,7 @@
         }
     ],
     "wof:id":1125335753,
-    "wof:lastmodified":1684354244,
+    "wof:lastmodified":1695879147,
     "wof:name":"Gmina Janikowo",
     "wof:parent_id":102080013,
     "wof:placetype":"localadmin",

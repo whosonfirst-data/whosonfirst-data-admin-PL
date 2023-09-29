@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.1348,
     "lbl:longitude":16.7601,
     "lbl:max_zoom":18.0,
@@ -186,8 +195,10 @@
         "eg:gisco_id":"PL_1002301601901",
         "eurostat:nuts_2021_id":"1002301601901",
         "gn:id":7531697,
+        "pol-gus:code":"1002301601901",
         "qs_pg:id":1041768
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101752247
     ],
@@ -207,7 +218,7 @@
         }
     ],
     "wof:id":1125393947,
-    "wof:lastmodified":1684354314,
+    "wof:lastmodified":1695879254,
     "wof:name":"Pi\u0142a",
     "wof:parent_id":102080065,
     "wof:placetype":"localadmin",

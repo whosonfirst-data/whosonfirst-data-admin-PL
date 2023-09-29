@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":993,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.94908,
     "lbl:longitude":22.95653,
     "lbl:max_zoom":17.0,
@@ -172,8 +181,10 @@
         "eurostat:nuts_2021_id":"1006201370210",
         "gn:id":757751,
         "gp:id":24548206,
+        "pol-gus:code":"1006201370210",
         "qs_pg:id":59533
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045556,
     "wof:geom_alt":[
@@ -190,7 +201,7 @@
         }
     ],
     "wof:id":1125339033,
-    "wof:lastmodified":1684354246,
+    "wof:lastmodified":1695879151,
     "wof:name":"Gmina Sura\u017c",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":49.950971,
     "geom:longitude":19.623879,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.953319,
     "lbl:longitude":19.617178,
     "mps:latitude":49.953319,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121231802",
-        "eurostat:nuts_2021_id":"1001121231802"
+        "eurostat:nuts_2021_id":"1001121231802",
+        "pol-gus:code":"1001121231802"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126005531
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752977,
-    "wof:lastmodified":1684354440,
+    "wof:lastmodified":1695879386,
     "wof:name":"Brze\u017anica",
     "wof:parent_id":102079451,
     "wof:placetype":"localadmin",

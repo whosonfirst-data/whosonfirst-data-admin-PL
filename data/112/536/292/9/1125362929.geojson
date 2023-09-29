@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2000,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.51953,
     "lbl:longitude":20.55559,
     "lbl:max_zoom":15.0,
@@ -90,8 +99,10 @@
         "eurostat:nuts_2021_id":"1007142272304",
         "gn:id":763399,
         "gp:id":12618355,
+        "pol-gus:code":"1007142272304",
         "qs_pg:id":1166313
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821483
     ],
@@ -111,7 +122,7 @@
         }
     ],
     "wof:id":1125362929,
-    "wof:lastmodified":1684354267,
+    "wof:lastmodified":1695879198,
     "wof:name":"Odrzyw\u00f3\u0142",
     "wof:parent_id":102079797,
     "wof:placetype":"localadmin",

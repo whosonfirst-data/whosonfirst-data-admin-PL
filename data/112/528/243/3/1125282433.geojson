@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2132,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.65163,
     "lbl:longitude":18.43472,
     "lbl:max_zoom":15.0,
@@ -189,8 +198,10 @@
         "eurostat:nuts_2021_id":"1005101181402",
         "gn:id":3103261,
         "gp:id":24548381,
+        "pol-gus:code":"1005101181402",
         "qs_pg:id":993388
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042555,
     "wof:geom_alt":[
@@ -207,7 +218,7 @@
         }
     ],
     "wof:id":1125282433,
-    "wof:lastmodified":1684354150,
+    "wof:lastmodified":1695878968,
     "wof:name":"Gmina B\u0142aszki",
     "wof:parent_id":102079819,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1291,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.31993,
     "lbl:longitude":20.39929,
     "lbl:max_zoom":16.0,
@@ -167,8 +176,10 @@
         "eurostat:nuts_2021_id":"1005261530305",
         "gn:id":759172,
         "gp:id":24548472,
+        "pol-gus:code":"1005261530305",
         "qs_pg:id":1018227
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497048750,
     "wof:geom_alt":[
@@ -185,7 +196,7 @@
         }
     ],
     "wof:id":1125391765,
-    "wof:lastmodified":1684354309,
+    "wof:lastmodified":1695879249,
     "wof:name":"Gmina Skalbmierz",
     "wof:parent_id":102079561,
     "wof:placetype":"localadmin",

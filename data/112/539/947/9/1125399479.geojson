@@ -22,6 +22,15 @@
     "geom:latitude":50.57712,
     "geom:longitude":23.405952,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.575487,
     "lbl:longitude":23.405931,
     "mps:latitude":50.575487,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061101804",
-        "eurostat:nuts_2021_id":"1006061101804"
+        "eurostat:nuts_2021_id":"1006061101804",
+        "pol-gus:code":"1006061101804"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864689
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125399479,
-    "wof:lastmodified":1684354321,
+    "wof:lastmodified":1695879262,
     "wof:name":"Krynice",
     "wof:parent_id":102079689,
     "wof:placetype":"localadmin",

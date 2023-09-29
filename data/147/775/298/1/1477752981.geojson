@@ -22,6 +22,15 @@
     "geom:latitude":51.364103,
     "geom:longitude":16.194223,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.338281,
     "lbl:longitude":16.255387,
     "mps:latitude":51.338281,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021021102",
-        "eurostat:nuts_2021_id":"1003021021102"
+        "eurostat:nuts_2021_id":"1003021021102",
+        "pol-gus:code":"1003021021102"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863339
     ],
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752981,
-    "wof:lastmodified":1684354440,
+    "wof:lastmodified":1695879386,
     "wof:name":"Gmina Lubin",
     "wof:parent_id":102079735,
     "wof:placetype":"localadmin",

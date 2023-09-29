@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4250,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.13334,
     "lbl:longitude":20.88615,
     "lbl:max_zoom":15.0,
@@ -194,8 +203,10 @@
         "eurostat:nuts_2021_id":"1001121241615",
         "gn:id":754329,
         "gp:id":24548431,
+        "pol-gus:code":"1001121241615",
         "qs_pg:id":1205695
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043084,
     "wof:geom_alt":[
@@ -212,7 +223,7 @@
         }
     ],
     "wof:id":1125294637,
-    "wof:lastmodified":1684354182,
+    "wof:lastmodified":1695879001,
     "wof:name":"Gmina \u017babno",
     "wof:parent_id":102079535,
     "wof:placetype":"localadmin",

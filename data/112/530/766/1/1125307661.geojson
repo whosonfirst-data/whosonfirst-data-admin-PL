@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2360,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.35914,
     "lbl:longitude":15.42886,
     "lbl:max_zoom":15.0,
@@ -165,8 +174,10 @@
         "eurostat:nuts_2021_id":"1002321661403",
         "gn:id":3100297,
         "gp:id":24547699,
+        "pol-gus:code":"1002321661403",
         "qs_pg:id":203297
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043791,
     "wof:geom_alt":[
@@ -183,7 +194,7 @@
         }
     ],
     "wof:id":1125307661,
-    "wof:lastmodified":1684354210,
+    "wof:lastmodified":1695879041,
     "wof:name":"Gmina Dobrzany",
     "wof:parent_id":102080083,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":10859,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.75226,
     "lbl:longitude":16.99049,
     "lbl:max_zoom":15.0,
@@ -170,8 +179,10 @@
         "eurostat:nuts_2021_id":"1002301611602",
         "gn:id":3087072,
         "gp:id":24547706,
+        "pol-gus:code":"1002301611602",
         "qs_pg:id":246667
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497051017,
     "wof:geom_alt":[
@@ -188,7 +199,7 @@
         }
     ],
     "wof:id":1125414397,
-    "wof:lastmodified":1684354338,
+    "wof:lastmodified":1695879279,
     "wof:name":"Gmina Rogo\u017ano",
     "wof:parent_id":102079987,
     "wof:placetype":"localadmin",

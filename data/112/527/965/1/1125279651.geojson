@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2700,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.32038,
     "lbl:longitude":19.52695,
     "lbl:max_zoom":15.0,
@@ -167,8 +176,10 @@
         "eurostat:nuts_2021_id":"1004281540409",
         "gn:id":3083334,
         "gp:id":12617698,
+        "pol-gus:code":"1004281540409",
         "qs_pg:id":1192026
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042457,
     "wof:geom_alt":[
@@ -185,7 +196,7 @@
         }
     ],
     "wof:id":1125279651,
-    "wof:lastmodified":1684354147,
+    "wof:lastmodified":1695878965,
     "wof:name":"Gmina Tolkmicko",
     "wof:parent_id":102080231,
     "wof:placetype":"localadmin",

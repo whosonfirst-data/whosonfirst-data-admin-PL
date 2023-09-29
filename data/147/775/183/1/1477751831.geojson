@@ -22,6 +22,15 @@
     "geom:latitude":49.661418,
     "geom:longitude":19.278678,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.656252,
     "lbl:longitude":19.273152,
     "mps:latitude":49.656252,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241441713",
-        "eurostat:nuts_2021_id":"1001241441713"
+        "eurostat:nuts_2021_id":"1001241441713",
+        "pol-gus:code":"1001241441713"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125776633
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477751831,
-    "wof:lastmodified":1684354378,
+    "wof:lastmodified":1695879321,
     "wof:name":"\u015awinna",
     "wof:parent_id":102079411,
     "wof:placetype":"localadmin",

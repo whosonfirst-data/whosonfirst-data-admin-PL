@@ -23,6 +23,15 @@
     "geom:longitude":18.96666,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.374118,
     "lbl:longitude":18.937339,
     "lbl:max_zoom":18.0,
@@ -200,8 +209,10 @@
         "eg:gisco_id":"PL_1001241457101",
         "eurostat:nuts_2021_id":"1001241457101",
         "gp:id":12618807,
+        "pol-gus:code":"1001241457101",
         "qs_pg:id":1153839
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101752151,
         102079543
@@ -222,7 +233,7 @@
         }
     ],
     "wof:id":1125356081,
-    "wof:lastmodified":1684354262,
+    "wof:lastmodified":1695879191,
     "wof:name":"Piekary \u015al\u0105skie",
     "wof:parent_id":102079543,
     "wof:placetype":"localadmin",

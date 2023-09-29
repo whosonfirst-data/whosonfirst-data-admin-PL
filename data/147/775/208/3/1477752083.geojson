@@ -22,6 +22,15 @@
     "geom:latitude":49.996412,
     "geom:longitude":19.371785,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.006746,
     "lbl:longitude":19.374607,
     "mps:latitude":50.006746,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121231308",
-        "eurostat:nuts_2021_id":"1001121231308"
+        "eurostat:nuts_2021_id":"1001121231308",
+        "pol-gus:code":"1001121231308"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125945591
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477752083,
-    "wof:lastmodified":1684354391,
+    "wof:lastmodified":1695879336,
     "wof:name":"Przecisz\u00f3w",
     "wof:parent_id":102079465,
     "wof:placetype":"localadmin",

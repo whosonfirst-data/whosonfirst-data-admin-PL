@@ -22,6 +22,15 @@
     "geom:latitude":52.162266,
     "geom:longitude":20.191984,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.154594,
     "lbl:longitude":20.2101,
     "mps:latitude":52.154594,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142732805",
-        "eurostat:nuts_2021_id":"1007142732805"
+        "eurostat:nuts_2021_id":"1007142732805",
+        "pol-gus:code":"1007142732805"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864867
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477751969,
-    "wof:lastmodified":1684354385,
+    "wof:lastmodified":1695879329,
     "wof:name":"Nowa Sucha",
     "wof:parent_id":102079945,
     "wof:placetype":"localadmin",

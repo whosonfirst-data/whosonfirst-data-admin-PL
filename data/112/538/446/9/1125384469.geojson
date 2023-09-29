@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":450,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.91149,
     "lbl:longitude":15.02947,
     "lbl:max_zoom":17.0,
@@ -95,8 +104,10 @@
         "eurostat:nuts_2021_id":"1002321641005",
         "gn:id":3090552,
         "gp:id":12618818,
+        "pol-gus:code":"1002321641005",
         "qs_pg:id":1027368
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864595
     ],
@@ -116,7 +127,7 @@
         }
     ],
     "wof:id":1125384469,
-    "wof:lastmodified":1684354302,
+    "wof:lastmodified":1695879242,
     "wof:name":"Nowogr\u00f3dek Pomorski",
     "wof:parent_id":102080005,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":5193,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.1675,
     "lbl:longitude":23.03481,
     "lbl:max_zoom":15.0,
@@ -173,8 +182,10 @@
         "eurostat:nuts_2021_id":"1006181340906",
         "gn:id":763260,
         "gp:id":24548445,
+        "pol-gus:code":"1006181340906",
         "qs_pg:id":242329
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043489,
     "wof:geom_alt":[
@@ -191,7 +202,7 @@
         }
     ],
     "wof:id":1125302181,
-    "wof:lastmodified":1684354194,
+    "wof:lastmodified":1695879018,
     "wof:name":"Gmina Oleszyce",
     "wof:parent_id":102079623,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":53.553386,
     "geom:longitude":16.258656,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.553306,
     "lbl:longitude":16.24493,
     "mps:latitude":53.553306,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321640301",
-        "eurostat:nuts_2021_id":"1002321640301"
+        "eurostat:nuts_2021_id":"1002321640301",
+        "pol-gus:code":"1002321640301"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"8eb1e05666492c2dd78455d1eec28d4d",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752315,
-    "wof:lastmodified":1684354403,
+    "wof:lastmodified":1695879349,
     "wof:name":"Gmina Czaplinek",
     "wof:parent_id":102080113,
     "wof:placetype":"localadmin",

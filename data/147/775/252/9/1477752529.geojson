@@ -22,6 +22,15 @@
     "geom:latitude":51.112381,
     "geom:longitude":15.787,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.109225,
     "lbl:longitude":15.788427,
     "mps:latitude":51.109225,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021012603",
-        "eurostat:nuts_2021_id":"1003021012603"
+        "eurostat:nuts_2021_id":"1003021012603",
+        "pol-gus:code":"1003021012603"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126006219
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477752529,
-    "wof:lastmodified":1684354414,
+    "wof:lastmodified":1695879360,
     "wof:name":"Pielgrzymka",
     "wof:parent_id":102079657,
     "wof:placetype":"localadmin",

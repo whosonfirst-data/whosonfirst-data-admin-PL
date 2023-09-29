@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3371,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.07658,
     "lbl:longitude":18.29549,
     "lbl:max_zoom":15.0,
@@ -167,8 +176,10 @@
         "eurostat:nuts_2021_id":"1002301582707",
         "gn:id":3083017,
         "gp:id":24547773,
+        "pol-gus:code":"1002301582707",
         "qs_pg:id":59467
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045548,
     "wof:geom_alt":[
@@ -185,7 +196,7 @@
         }
     ],
     "wof:id":1125338833,
-    "wof:lastmodified":1684354245,
+    "wof:lastmodified":1695879150,
     "wof:name":"Gmina Tuliszk\u00f3w",
     "wof:parent_id":102079883,
     "wof:placetype":"localadmin",

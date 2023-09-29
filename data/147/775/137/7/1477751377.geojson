@@ -22,6 +22,15 @@
     "geom:latitude":54.462983,
     "geom:longitude":17.459812,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.461681,
     "lbl:longitude":17.457318,
     "mps:latitude":54.461681,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221411207",
-        "eurostat:nuts_2021_id":"1004221411207"
+        "eurostat:nuts_2021_id":"1004221411207",
+        "pol-gus:code":"1004221411207"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1243486925
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477751377,
-    "wof:lastmodified":1684354354,
+    "wof:lastmodified":1695879297,
     "wof:name":"Pot\u0119gowo",
     "wof:parent_id":102080255,
     "wof:placetype":"localadmin",

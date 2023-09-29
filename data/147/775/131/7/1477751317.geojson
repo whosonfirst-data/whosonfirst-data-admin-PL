@@ -22,6 +22,15 @@
     "geom:latitude":51.265368,
     "geom:longitude":18.430002,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.277964,
     "lbl:longitude":18.441971,
     "mps:latitude":51.277964,
@@ -79,8 +88,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101181701",
-        "eurostat:nuts_2021_id":"1005101181701"
+        "eurostat:nuts_2021_id":"1005101181701",
+        "pol-gus:code":"1005101181701"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1243580575
     ],
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477751317,
-    "wof:lastmodified":1684354352,
+    "wof:lastmodified":1695879294,
     "wof:name":"Bia\u0142a",
     "wof:parent_id":102079729,
     "wof:placetype":"localadmin",

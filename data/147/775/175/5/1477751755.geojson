@@ -22,6 +22,15 @@
     "geom:latitude":52.15052,
     "geom:longitude":16.892143,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.154218,
     "lbl:longitude":16.894111,
     "mps:latitude":52.154218,
@@ -145,8 +154,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301612601",
-        "eurostat:nuts_2021_id":"1002301612601"
+        "eurostat:nuts_2021_id":"1002301612601",
+        "pol-gus:code":"1002301612601"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1310231555
     ],
@@ -162,7 +173,7 @@
         }
     ],
     "wof:id":1477751755,
-    "wof:lastmodified":1684354374,
+    "wof:lastmodified":1695879317,
     "wof:name":"Brodnica",
     "wof:parent_id":102079865,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.674717,
     "geom:longitude":19.139863,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.671111,
     "lbl:longitude":19.134767,
     "mps:latitude":50.671111,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241460404",
-        "eurostat:nuts_2021_id":"1001241460404"
+        "eurostat:nuts_2021_id":"1001241460404",
+        "pol-gus:code":"1001241460404"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823899
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751655,
-    "wof:lastmodified":1684354369,
+    "wof:lastmodified":1695879312,
     "wof:name":"Kamienica Polska",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",

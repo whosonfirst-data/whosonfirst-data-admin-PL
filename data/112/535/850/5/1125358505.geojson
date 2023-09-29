@@ -22,6 +22,15 @@
     "geom:latitude":50.119089,
     "geom:longitude":19.763056,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.120725,
     "lbl:longitude":19.781143,
     "mps:latitude":50.120725,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121200616",
-        "eurostat:nuts_2021_id":"1001121200616"
+        "eurostat:nuts_2021_id":"1001121200616",
+        "pol-gus:code":"1001121200616"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101841613
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125358505,
-    "wof:lastmodified":1684354264,
+    "wof:lastmodified":1695879194,
     "wof:name":"Zabierz\u00f3w",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",

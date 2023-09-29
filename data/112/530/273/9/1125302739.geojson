@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":17775,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.55912,
     "lbl:longitude":21.84829,
     "lbl:max_zoom":15.0,
@@ -167,8 +176,10 @@
         "eurostat:nuts_2021_id":"1006061121601",
         "gn:id":773357,
         "gp:id":12617995,
+        "pol-gus:code":"1006061121601",
         "qs_pg:id":1207104
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101817563
     ],
@@ -188,7 +199,7 @@
         }
     ],
     "wof:id":1125302739,
-    "wof:lastmodified":1684354195,
+    "wof:lastmodified":1695879019,
     "wof:name":"D\u0119blin",
     "wof:parent_id":102079869,
     "wof:placetype":"localadmin",

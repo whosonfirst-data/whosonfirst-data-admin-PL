@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":449,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.05458,
     "lbl:longitude":19.26195,
     "lbl:max_zoom":17.0,
@@ -96,8 +105,10 @@
         "eurostat:nuts_2021_id":"1004041071202",
         "gn:id":3102283,
         "gp:id":12618225,
+        "pol-gus:code":"1004041071202",
         "qs_pg:id":1148914
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477866081
     ],
@@ -117,7 +128,7 @@
         }
     ],
     "wof:id":1125350585,
-    "wof:lastmodified":1684354257,
+    "wof:lastmodified":1695879180,
     "wof:name":"Brzuze",
     "wof:parent_id":102080059,
     "wof:placetype":"localadmin",

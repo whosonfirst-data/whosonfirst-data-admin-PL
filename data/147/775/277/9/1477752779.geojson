@@ -22,6 +22,15 @@
     "geom:latitude":52.848149,
     "geom:longitude":18.81414,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.849005,
     "lbl:longitude":18.820628,
     "mps:latitude":52.849005,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041080107",
-        "eurostat:nuts_2021_id":"1004041080107"
+        "eurostat:nuts_2021_id":"1004041080107",
+        "pol-gus:code":"1004041080107"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125908265
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752779,
-    "wof:lastmodified":1684354428,
+    "wof:lastmodified":1695879374,
     "wof:name":"Raci\u0105\u017cek",
     "wof:parent_id":102080009,
     "wof:placetype":"localadmin",

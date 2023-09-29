@@ -22,6 +22,15 @@
     "geom:latitude":51.302204,
     "geom:longitude":17.649553,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.305315,
     "lbl:longitude":17.651706,
     "mps:latitude":51.305315,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021041407",
-        "eurostat:nuts_2021_id":"1003021041407"
+        "eurostat:nuts_2021_id":"1003021041407",
+        "pol-gus:code":"1003021041407"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"3fbfd2ef987f7010e4d63392f39adbf8",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752517,
-    "wof:lastmodified":1684354414,
+    "wof:lastmodified":1695879359,
     "wof:name":"Gmina Syc\u00f3w",
     "wof:parent_id":102079717,
     "wof:placetype":"localadmin",

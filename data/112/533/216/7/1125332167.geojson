@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.7305,
     "lbl:longitude":15.2171,
     "lbl:max_zoom":18.0,
@@ -266,8 +275,10 @@
         "eurostat:nuts_2021_id":"1002081136101",
         "gn:id":7532087,
         "gp:id":12618134,
+        "pol-gus:code":"1002081136101",
         "qs_pg:id":1116991
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101752231,
         102079957
@@ -288,7 +299,7 @@
         }
     ],
     "wof:id":1125332167,
-    "wof:lastmodified":1684354241,
+    "wof:lastmodified":1695879143,
     "wof:name":"Gorz\u00f3w Wielkopolski",
     "wof:parent_id":102079957,
     "wof:placetype":"localadmin",

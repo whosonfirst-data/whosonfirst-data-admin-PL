@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1101,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.74668,
     "lbl:longitude":17.94342,
     "lbl:max_zoom":16.0,
@@ -110,8 +119,10 @@
         "eurostat:nuts_2021_id":"1004041670901",
         "gn:id":3100820,
         "gp:id":12617470,
+        "pol-gus:code":"1004041670901",
         "qs_pg:id":1251935
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863893
     ],
@@ -131,7 +142,7 @@
         }
     ],
     "wof:id":1125323693,
-    "wof:lastmodified":1684354224,
+    "wof:lastmodified":1695879078,
     "wof:name":"D\u0105browa",
     "wof:parent_id":102079993,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":54.171382,
     "geom:longitude":19.856219,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.178336,
     "lbl:longitude":19.869046,
     "mps:latitude":54.178336,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281540207",
-        "eurostat:nuts_2021_id":"1004281540207"
+        "eurostat:nuts_2021_id":"1004281540207",
+        "pol-gus:code":"1004281540207"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125908845
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752797,
-    "wof:lastmodified":1684354429,
+    "wof:lastmodified":1695879375,
     "wof:name":"Wilcz\u0119ta",
     "wof:parent_id":102080237,
     "wof:placetype":"localadmin",

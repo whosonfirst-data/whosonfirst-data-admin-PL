@@ -22,6 +22,15 @@
     "geom:latitude":50.238891,
     "geom:longitude":22.413409,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.228551,
     "lbl:longitude":22.332624,
     "mps:latitude":50.228551,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181360804",
-        "eurostat:nuts_2021_id":"1006181360804"
+        "eurostat:nuts_2021_id":"1006181360804",
+        "pol-gus:code":"1006181360804"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"3a623e0a9254e665aec002d9e0176bca",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752547,
-    "wof:lastmodified":1684354415,
+    "wof:lastmodified":1695879361,
     "wof:name":"Gmina Le\u017cajsk",
     "wof:parent_id":102079599,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.029123,
     "geom:longitude":18.573947,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.024515,
     "lbl:longitude":18.573937,
     "mps:latitude":50.024515,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241491205",
-        "eurostat:nuts_2021_id":"1001241491205"
+        "eurostat:nuts_2021_id":"1001241491205",
+        "pol-gus:code":"1001241491205"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125898013
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477751807,
-    "wof:lastmodified":1684354376,
+    "wof:lastmodified":1695879320,
     "wof:name":"\u015awierklany",
     "wof:parent_id":102079459,
     "wof:placetype":"localadmin",

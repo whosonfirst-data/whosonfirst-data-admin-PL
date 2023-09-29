@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.337,
     "lbl:longitude":21.1199,
     "lbl:max_zoom":14.0,
@@ -155,12 +164,14 @@
         "eurostat:nuts_2021_id":"1007141293402",
         "gn:id":7532950,
         "gp:id":12618514,
+        "pol-gus:code":"1007141293402",
         "qs_pg:id":1048314
     },
     "wof:concordances_alt":{
         "gn:id":765191,
         "qs_pg:id":450677
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101756111
     ],
@@ -180,7 +191,7 @@
         }
     ],
     "wof:id":1125395529,
-    "wof:lastmodified":1684354316,
+    "wof:lastmodified":1695879257,
     "wof:name":"Marki",
     "wof:parent_id":102079995,
     "wof:placetype":"localadmin",

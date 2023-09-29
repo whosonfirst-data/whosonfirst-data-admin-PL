@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3000,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.75769,
     "lbl:longitude":22.10226,
     "lbl:max_zoom":15.0,
@@ -147,8 +156,10 @@
         "eurostat:nuts_2021_id":"1006181361805",
         "gn:id":754090,
         "gp:id":12617161,
+        "pol-gus:code":"1006181361805",
         "qs_pg:id":1000171
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047740,
     "wof:geom_alt":[
@@ -165,7 +176,7 @@
         }
     ],
     "wof:id":1125375929,
-    "wof:lastmodified":1684354293,
+    "wof:lastmodified":1695879232,
     "wof:name":"Gmina Zaklik\u00f3w",
     "wof:parent_id":102079669,
     "wof:placetype":"localadmin",

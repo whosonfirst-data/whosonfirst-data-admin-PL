@@ -22,6 +22,15 @@
     "geom:latitude":52.379223,
     "geom:longitude":22.431768,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.368538,
     "lbl:longitude":22.43419,
     "mps:latitude":52.368538,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142712906",
-        "eurostat:nuts_2021_id":"1007142712906"
+        "eurostat:nuts_2021_id":"1007142712906",
+        "pol-gus:code":"1007142712906"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864875
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125288609,
-    "wof:lastmodified":1684354161,
+    "wof:lastmodified":1695878979,
     "wof:name":"Repki",
     "wof:parent_id":102080023,
     "wof:placetype":"localadmin",

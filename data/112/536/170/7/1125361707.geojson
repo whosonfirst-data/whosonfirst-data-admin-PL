@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4474,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.11414,
     "lbl:longitude":23.24724,
     "lbl:max_zoom":15.0,
@@ -174,8 +183,10 @@
         "eurostat:nuts_2021_id":"1006061100301",
         "gn:id":760516,
         "gp:id":24548672,
+        "pol-gus:code":"1006061100301",
         "qs_pg:id":1163682
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822681
     ],
@@ -195,7 +206,7 @@
         }
     ],
     "wof:id":1125361707,
-    "wof:lastmodified":1684354266,
+    "wof:lastmodified":1695879197,
     "wof:name":"Rejowiec Fabryczny",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",

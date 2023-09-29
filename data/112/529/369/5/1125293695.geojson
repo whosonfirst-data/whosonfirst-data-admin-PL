@@ -23,6 +23,15 @@
     "geom:longitude":21.621999,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.887232,
     "lbl:longitude":21.614999,
     "lbl:max_zoom":18.0,
@@ -176,8 +185,10 @@
         "eg:gisco_id":"PL_1007142710301",
         "eurostat:nuts_2021_id":"1007142710301",
         "gp:id":24548306,
+        "pol-gus:code":"1007142710301",
         "qs_pg:id":113941
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043044,
     "wof:geom_alt":[
@@ -194,7 +205,7 @@
         }
     ],
     "wof:id":1125293695,
-    "wof:lastmodified":1684354181,
+    "wof:lastmodified":1695879000,
     "wof:name":"Gmina Garwolin",
     "wof:parent_id":102079901,
     "wof:placetype":"localadmin",

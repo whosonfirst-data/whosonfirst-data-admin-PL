@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2395,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.78575,
     "lbl:longitude":20.97324,
     "lbl:max_zoom":15.0,
@@ -172,8 +181,10 @@
         "eurostat:nuts_2021_id":"1001121241601",
         "gn:id":774116,
         "gp:id":24548719,
+        "pol-gus:code":"1001121241601",
         "qs_pg:id":1209067
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044241,
     "wof:geom_alt":[
@@ -190,7 +201,7 @@
         }
     ],
     "wof:id":1125315151,
-    "wof:lastmodified":1684354219,
+    "wof:lastmodified":1695879070,
     "wof:name":"Gmina Ci\u0119\u017ckowice",
     "wof:parent_id":102079535,
     "wof:placetype":"localadmin",

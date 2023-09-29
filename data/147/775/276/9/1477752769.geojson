@@ -22,6 +22,15 @@
     "geom:latitude":51.308583,
     "geom:longitude":15.574234,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.347061,
     "lbl:longitude":15.58454,
     "mps:latitude":51.347061,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021010102",
-        "eurostat:nuts_2021_id":"1003021010102"
+        "eurostat:nuts_2021_id":"1003021010102",
+        "pol-gus:code":"1003021010102"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865369
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477752769,
-    "wof:lastmodified":1684354428,
+    "wof:lastmodified":1695879374,
     "wof:name":"Gmina Boles\u0142awiec",
     "wof:parent_id":102079707,
     "wof:placetype":"localadmin",

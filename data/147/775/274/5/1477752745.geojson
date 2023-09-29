@@ -22,6 +22,15 @@
     "geom:latitude":52.807978,
     "geom:longitude":21.871751,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.799059,
     "lbl:longitude":21.799521,
     "mps:latitude":52.799059,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142261607",
-        "eurostat:nuts_2021_id":"1007142261607"
+        "eurostat:nuts_2021_id":"1007142261607",
+        "pol-gus:code":"1007142261607"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864541
     ],
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477752745,
-    "wof:lastmodified":1684354426,
+    "wof:lastmodified":1695879372,
     "wof:name":"Gmina Ostr\u00f3w Mazowiecka",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",

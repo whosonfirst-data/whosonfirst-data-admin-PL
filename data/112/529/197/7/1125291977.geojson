@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":6362,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.84053,
     "lbl:longitude":19.80097,
     "lbl:max_zoom":15.0,
@@ -164,8 +173,10 @@
         "eurostat:nuts_2021_id":"1001121200907",
         "gn:id":3084194,
         "gp:id":24548459,
+        "pol-gus:code":"1001121200907",
         "qs_pg:id":1097032
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042965,
     "wof:geom_alt":[
@@ -182,7 +193,7 @@
         }
     ],
     "wof:id":1125291977,
-    "wof:lastmodified":1684354179,
+    "wof:lastmodified":1695878997,
     "wof:name":"Gmina Su\u0142kowice",
     "wof:parent_id":102079441,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":53.964314,
     "geom:longitude":14.954975,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.957586,
     "lbl:longitude":14.95671,
     "mps:latitude":53.957586,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321660705",
-        "eurostat:nuts_2021_id":"1002321660705"
+        "eurostat:nuts_2021_id":"1002321660705",
+        "pol-gus:code":"1002321660705"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125850619
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751763,
-    "wof:lastmodified":1684354374,
+    "wof:lastmodified":1695879318,
     "wof:name":"\u015awierzno",
     "wof:parent_id":102080153,
     "wof:placetype":"localadmin",

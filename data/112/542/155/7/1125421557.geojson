@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3856,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.61812,
     "lbl:longitude":20.57619,
     "lbl:max_zoom":15.0,
@@ -132,8 +141,10 @@
         "eurostat:nuts_2021_id":"1007142730608",
         "gn:id":763659,
         "gp:id":24548165,
+        "pol-gus:code":"1007142730608",
         "qs_pg:id":259737
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497052345,
     "wof:geom_alt":[
@@ -150,7 +161,7 @@
         }
     ],
     "wof:id":1125421557,
-    "wof:lastmodified":1684354342,
+    "wof:lastmodified":1695879283,
     "wof:name":"Gmina Nowe Miasto nad Pilic\u0105",
     "wof:parent_id":102079877,
     "wof:placetype":"localadmin",

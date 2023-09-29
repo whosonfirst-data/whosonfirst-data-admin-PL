@@ -22,6 +22,15 @@
     "geom:latitude":49.618692,
     "geom:longitude":19.720396,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.611229,
     "lbl:longitude":19.713806,
     "mps:latitude":49.611229,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121691504",
-        "eurostat:nuts_2021_id":"1001121691504"
+        "eurostat:nuts_2021_id":"1001121691504",
+        "pol-gus:code":"1001121691504"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863321
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477751151,
-    "wof:lastmodified":1684354343,
+    "wof:lastmodified":1695879285,
     "wof:name":"Bystra-Sidzina",
     "wof:parent_id":102079419,
     "wof:placetype":"localadmin",

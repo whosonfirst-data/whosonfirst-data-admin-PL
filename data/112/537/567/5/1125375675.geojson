@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2000,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.81324,
     "lbl:longitude":16.83114,
     "lbl:max_zoom":15.0,
@@ -114,8 +123,10 @@
         "eurostat:nuts_2021_id":"1002301611603",
         "gn:id":3086533,
         "gp:id":12618029,
+        "pol-gus:code":"1002301611603",
         "qs_pg:id":998976
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820441
     ],
@@ -135,7 +146,7 @@
         }
     ],
     "wof:id":1125375675,
-    "wof:lastmodified":1684354292,
+    "wof:lastmodified":1695879230,
     "wof:name":"Ryczyw\u00f3\u0142",
     "wof:parent_id":102079987,
     "wof:placetype":"localadmin",

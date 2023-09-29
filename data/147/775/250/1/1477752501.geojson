@@ -22,6 +22,15 @@
     "geom:latitude":52.521872,
     "geom:longitude":15.397074,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.52666,
     "lbl:longitude":15.387002,
     "mps:latitude":52.52666,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002081130301",
-        "eurostat:nuts_2021_id":"1002081130301"
+        "eurostat:nuts_2021_id":"1002081130301",
+        "pol-gus:code":"1002081130301"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101816525
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752501,
-    "wof:lastmodified":1684354413,
+    "wof:lastmodified":1695879359,
     "wof:name":"Bledzew",
     "wof:parent_id":102079947,
     "wof:placetype":"localadmin",

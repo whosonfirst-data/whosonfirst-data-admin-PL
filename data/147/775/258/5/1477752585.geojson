@@ -22,6 +22,15 @@
     "geom:latitude":54.002892,
     "geom:longitude":18.764202,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.003253,
     "lbl:longitude":18.800615,
     "mps:latitude":54.003253,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221421405",
-        "eurostat:nuts_2021_id":"1004221421405"
+        "eurostat:nuts_2021_id":"1004221421405",
+        "pol-gus:code":"1004221421405"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101817631
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752585,
-    "wof:lastmodified":1684354417,
+    "wof:lastmodified":1695879363,
     "wof:name":"Subkowy",
     "wof:parent_id":102080191,
     "wof:placetype":"localadmin",

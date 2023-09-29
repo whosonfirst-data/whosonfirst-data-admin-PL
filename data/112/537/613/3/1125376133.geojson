@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3382,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.97578,
     "lbl:longitude":20.74639,
     "lbl:max_zoom":15.0,
@@ -174,8 +183,10 @@
         "eurostat:nuts_2021_id":"1004281561406",
         "gn:id":770078,
         "gp:id":24547478,
+        "pol-gus:code":"1004281561406",
         "qs_pg:id":962381
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047753,
     "wof:geom_alt":[
@@ -192,7 +203,7 @@
         }
     ],
     "wof:id":1125376133,
-    "wof:lastmodified":1684354294,
+    "wof:lastmodified":1695879232,
     "wof:name":"Gmina Jeziorany",
     "wof:parent_id":102080207,
     "wof:placetype":"localadmin",

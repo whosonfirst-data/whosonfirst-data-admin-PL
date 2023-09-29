@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3665,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.11387,
     "lbl:longitude":18.21413,
     "lbl:max_zoom":15.0,
@@ -172,8 +181,10 @@
         "eurostat:nuts_2021_id":"1003161320401",
         "gn:id":3102019,
         "gp:id":24548644,
+        "pol-gus:code":"1003161320401",
         "qs_pg:id":905203
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042564,
     "wof:geom_alt":[
@@ -190,7 +201,7 @@
         }
     ],
     "wof:id":1125282673,
-    "wof:lastmodified":1684354152,
+    "wof:lastmodified":1695878970,
     "wof:name":"Gmina Byczyna",
     "wof:parent_id":102079677,
     "wof:placetype":"localadmin",

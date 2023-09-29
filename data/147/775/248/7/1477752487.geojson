@@ -22,6 +22,15 @@
     "geom:latitude":49.932486,
     "geom:longitude":18.894081,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.928244,
     "lbl:longitude":18.873206,
     "mps:latitude":49.928244,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241511001",
-        "eurostat:nuts_2021_id":"1001241511001"
+        "eurostat:nuts_2021_id":"1001241511001",
+        "pol-gus:code":"1001241511001"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101826195
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752487,
-    "wof:lastmodified":1684354412,
+    "wof:lastmodified":1695879358,
     "wof:name":"Gocza\u0142kowice-Zdr\u00f3j",
     "wof:parent_id":102079457,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.597136,
     "geom:longitude":21.575586,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.592799,
     "lbl:longitude":21.59378,
     "mps:latitude":50.592799,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005261530904",
-        "eurostat:nuts_2021_id":"1005261530904"
+        "eurostat:nuts_2021_id":"1005261530904",
+        "pol-gus:code":"1005261530904"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"ab19a5d208adf652c51f98ef528df3b2",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751431,
-    "wof:lastmodified":1684354357,
+    "wof:lastmodified":1695879299,
     "wof:name":"Gmina Koprzywnica",
     "wof:parent_id":102079681,
     "wof:placetype":"localadmin",

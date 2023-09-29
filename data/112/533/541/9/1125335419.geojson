@@ -23,6 +23,15 @@
     "geom:longitude":20.750109,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.459047,
     "lbl:longitude":20.718498,
     "lbl:max_zoom":18.0,
@@ -194,8 +203,10 @@
         "eg:gisco_id":"PL_1005261530101",
         "eurostat:nuts_2021_id":"1005261530101",
         "gp:id":24548524,
+        "pol-gus:code":"1005261530101",
         "qs_pg:id":1121224
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045377,
     "wof:geom_alt":[
@@ -212,7 +223,7 @@
         }
     ],
     "wof:id":1125335419,
-    "wof:lastmodified":1684354243,
+    "wof:lastmodified":1695879146,
     "wof:name":"Gmina Busko-Zdr\u00f3j",
     "wof:parent_id":102079615,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.5952,
     "lbl:longitude":18.9647,
     "lbl:max_zoom":18.0,
@@ -193,11 +202,13 @@
         "eurostat:nuts_2021_id":"1005101181901",
         "gn:id":7531684,
         "gp:id":24548808,
+        "pol-gus:code":"1005101181901",
         "qs_pg:id":1041767
     },
     "wof:concordances_alt":{
         "qs_pg:id":1018959
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497048887,
     "wof:geom_alt":[
@@ -214,7 +225,7 @@
         }
     ],
     "wof:id":1125393937,
-    "wof:lastmodified":1684354314,
+    "wof:lastmodified":1695879254,
     "wof:name":"Gmina Zdu\u0144ska Wola",
     "wof:parent_id":102079803,
     "wof:placetype":"localadmin",

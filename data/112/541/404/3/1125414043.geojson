@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2746,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.55506,
     "lbl:longitude":16.08562,
     "lbl:max_zoom":15.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1002301591402",
         "gn:id":3094072,
         "gp:id":12618447,
+        "pol-gus:code":"1002301591402",
         "qs_pg:id":245529
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865071
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125414043,
-    "wof:lastmodified":1684354337,
+    "wof:lastmodified":1695879278,
     "wof:name":"Kwilcz",
     "wof:parent_id":102079961,
     "wof:placetype":"localadmin",

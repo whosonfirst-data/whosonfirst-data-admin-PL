@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1400,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.46778,
     "lbl:longitude":22.08947,
     "lbl:max_zoom":16.0,
@@ -116,8 +125,10 @@
         "eurostat:nuts_2021_id":"1007142713306",
         "gn:id":764876,
         "gp:id":12618861,
+        "pol-gus:code":"1007142713306",
         "qs_pg:id":1019273
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820679
     ],
@@ -137,7 +148,7 @@
         }
     ],
     "wof:id":1125393647,
-    "wof:lastmodified":1684354313,
+    "wof:lastmodified":1695879253,
     "wof:name":"Miedzna",
     "wof:parent_id":102080015,
     "wof:placetype":"localadmin",

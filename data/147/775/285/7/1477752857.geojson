@@ -22,6 +22,15 @@
     "geom:latitude":52.217342,
     "geom:longitude":20.763465,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.218627,
     "lbl:longitude":20.784778,
     "mps:latitude":52.218627,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007141303206",
-        "eurostat:nuts_2021_id":"1007141303206"
+        "eurostat:nuts_2021_id":"1007141303206",
+        "pol-gus:code":"1007141303206"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"6d5b6f8e0e63d9c6b1a6982b72569c12",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752857,
-    "wof:lastmodified":1684354433,
+    "wof:lastmodified":1695879379,
     "wof:name":"Gmina O\u017car\u00f3w Mazowiecki",
     "wof:parent_id":102079949,
     "wof:placetype":"localadmin",

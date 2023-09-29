@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":673,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.12804,
     "lbl:longitude":21.44008,
     "lbl:max_zoom":17.0,
@@ -103,8 +112,10 @@
         "eurostat:nuts_2021_id":"1007142270904",
         "gn:id":759786,
         "gp:id":12616699,
+        "pol-gus:code":"1007142270904",
         "qs_pg:id":23875
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865831
     ],
@@ -124,7 +135,7 @@
         }
     ],
     "wof:id":1125324155,
-    "wof:lastmodified":1684354226,
+    "wof:lastmodified":1695879083,
     "wof:name":"Rzeczni\u00f3w",
     "wof:parent_id":102079757,
     "wof:placetype":"localadmin",

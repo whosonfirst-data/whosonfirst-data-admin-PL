@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4526,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.20526,
     "lbl:longitude":23.33934,
     "lbl:max_zoom":15.0,
@@ -180,8 +189,10 @@
         "eurostat:nuts_2021_id":"1006201370209",
         "gn:id":757758,
         "gp:id":24548175,
+        "pol-gus:code":"1006201370209",
         "qs_pg:id":192565
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043207,
     "wof:geom_alt":[
@@ -198,7 +209,7 @@
         }
     ],
     "wof:id":1125297107,
-    "wof:lastmodified":1684354189,
+    "wof:lastmodified":1695879011,
     "wof:name":"Gmina Supra\u015bl",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",

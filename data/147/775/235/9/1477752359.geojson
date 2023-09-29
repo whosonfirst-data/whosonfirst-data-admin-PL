@@ -22,6 +22,15 @@
     "geom:latitude":54.345267,
     "geom:longitude":17.870805,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.34936,
     "lbl:longitude":17.870836,
     "mps:latitude":54.34936,
@@ -55,8 +64,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221400504",
-        "eurostat:nuts_2021_id":"1004221400504"
+        "eurostat:nuts_2021_id":"1004221400504",
+        "pol-gus:code":"1004221400504"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819447
     ],
@@ -72,7 +83,7 @@
         }
     ],
     "wof:id":1477752359,
-    "wof:lastmodified":1684354406,
+    "wof:lastmodified":1695879351,
     "wof:name":"Sierakowice",
     "wof:parent_id":102080233,
     "wof:placetype":"localadmin",

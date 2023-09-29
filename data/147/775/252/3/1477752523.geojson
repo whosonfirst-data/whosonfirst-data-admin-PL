@@ -22,6 +22,15 @@
     "geom:latitude":53.847962,
     "geom:longitude":18.973837,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.863252,
     "lbl:longitude":18.939926,
     "mps:latitude":53.863252,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221420705",
-        "eurostat:nuts_2021_id":"1004221420705"
+        "eurostat:nuts_2021_id":"1004221420705",
+        "pol-gus:code":"1004221420705"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125789825
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752523,
-    "wof:lastmodified":1684354414,
+    "wof:lastmodified":1695879360,
     "wof:name":"Ryjewo",
     "wof:parent_id":102080159,
     "wof:placetype":"localadmin",

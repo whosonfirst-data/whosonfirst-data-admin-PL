@@ -22,6 +22,15 @@
     "geom:latitude":50.054664,
     "geom:longitude":22.499564,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.05517,
     "lbl:longitude":22.498928,
     "mps:latitude":50.05517,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181341401",
-        "eurostat:nuts_2021_id":"1006181341401"
+        "eurostat:nuts_2021_id":"1006181341401",
+        "pol-gus:code":"1006181341401"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"baff279afaa113f5c02823bdcb47ee7d",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751703,
-    "wof:lastmodified":1684354371,
+    "wof:lastmodified":1695879315,
     "wof:name":"Gmina Przeworsk",
     "wof:parent_id":102079589,
     "wof:placetype":"localadmin",

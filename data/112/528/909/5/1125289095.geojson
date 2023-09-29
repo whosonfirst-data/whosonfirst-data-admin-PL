@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3398,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.4363,
     "lbl:longitude":15.09856,
     "lbl:max_zoom":15.0,
@@ -151,8 +160,10 @@
         "eurostat:nuts_2021_id":"1002081141001",
         "gn:id":3098583,
         "gp:id":12618011,
+        "pol-gus:code":"1002081141001",
         "qs_pg:id":24105
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822921
     ],
@@ -172,7 +183,7 @@
         }
     ],
     "wof:id":1125289095,
-    "wof:lastmodified":1684354169,
+    "wof:lastmodified":1695878986,
     "wof:name":"Gozdnica",
     "wof:parent_id":102079759,
     "wof:placetype":"localadmin",

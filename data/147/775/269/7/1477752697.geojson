@@ -22,6 +22,15 @@
     "geom:latitude":49.939286,
     "geom:longitude":21.805892,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.942065,
     "lbl:longitude":21.803727,
     "mps:latitude":49.942065,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181351901",
-        "eurostat:nuts_2021_id":"1006181351901"
+        "eurostat:nuts_2021_id":"1006181351901",
+        "pol-gus:code":"1006181351901"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125985315
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752697,
-    "wof:lastmodified":1684354423,
+    "wof:lastmodified":1695879369,
     "wof:name":"Czudec",
     "wof:parent_id":102079483,
     "wof:placetype":"localadmin",

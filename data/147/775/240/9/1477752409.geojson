@@ -22,6 +22,15 @@
     "geom:latitude":50.200305,
     "geom:longitude":20.342907,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.200099,
     "lbl:longitude":20.309029,
     "mps:latitude":50.200099,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121201405",
-        "eurostat:nuts_2021_id":"1001121201405"
+        "eurostat:nuts_2021_id":"1001121201405",
+        "pol-gus:code":"1001121201405"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"ed8fc08ac62508bc2ad41a375412db5a",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477752409,
-    "wof:lastmodified":1684354408,
+    "wof:lastmodified":1695879354,
     "wof:name":"Gmina Proszowice",
     "wof:parent_id":102079545,
     "wof:placetype":"localadmin",

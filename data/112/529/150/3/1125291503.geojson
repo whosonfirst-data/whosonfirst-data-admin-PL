@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2000,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.65691,
     "lbl:longitude":20.62838,
     "lbl:max_zoom":15.0,
@@ -111,8 +120,10 @@
         "eurostat:nuts_2021_id":"1007142252008",
         "gn:id":763661,
         "gp:id":12618468,
+        "pol-gus:code":"1007142252008",
         "qs_pg:id":48922
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819045
     ],
@@ -132,7 +143,7 @@
         }
     ],
     "wof:id":1125291503,
-    "wof:lastmodified":1684354177,
+    "wof:lastmodified":1695878995,
     "wof:name":"Nowe Miasto",
     "wof:parent_id":102080031,
     "wof:placetype":"localadmin",

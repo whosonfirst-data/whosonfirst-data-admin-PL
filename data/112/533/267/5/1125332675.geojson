@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1723,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.73613,
     "lbl:longitude":21.78864,
     "lbl:max_zoom":16.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1005261530902",
         "gn:id":772822,
         "gp:id":12618062,
+        "pol-gus:code":"1005261530902",
         "qs_pg:id":52070
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822817
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125332675,
-    "wof:lastmodified":1684354242,
+    "wof:lastmodified":1695879145,
     "wof:name":"Dwikozy",
     "wof:parent_id":102079681,
     "wof:placetype":"localadmin",

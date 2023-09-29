@@ -22,6 +22,15 @@
     "geom:latitude":54.260953,
     "geom:longitude":19.915441,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.264026,
     "lbl:longitude":19.95366,
     "mps:latitude":54.264026,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281540206",
-        "eurostat:nuts_2021_id":"1004281540206"
+        "eurostat:nuts_2021_id":"1004281540206",
+        "pol-gus:code":"1004281540206"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125924621
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752427,
-    "wof:lastmodified":1684354409,
+    "wof:lastmodified":1695879355,
     "wof:name":"P\u0142oskinia",
     "wof:parent_id":102080237,
     "wof:placetype":"localadmin",

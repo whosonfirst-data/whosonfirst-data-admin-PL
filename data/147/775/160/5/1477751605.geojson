@@ -22,6 +22,15 @@
     "geom:latitude":54.490886,
     "geom:longitude":16.664571,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.5031,
     "lbl:longitude":16.667349,
     "mps:latitude":54.5031,
@@ -55,8 +64,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321631305",
-        "eurostat:nuts_2021_id":"1002321631305"
+        "eurostat:nuts_2021_id":"1002321631305",
+        "pol-gus:code":"1002321631305"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125776605
     ],
@@ -72,7 +83,7 @@
         }
     ],
     "wof:id":1477751605,
-    "wof:lastmodified":1684354366,
+    "wof:lastmodified":1695879309,
     "wof:name":"Postomino",
     "wof:parent_id":102080227,
     "wof:placetype":"localadmin",

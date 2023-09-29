@@ -22,6 +22,15 @@
     "geom:latitude":52.219463,
     "geom:longitude":22.737513,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.217881,
     "lbl:longitude":22.748012,
     "mps:latitude":52.217881,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142711002",
-        "eurostat:nuts_2021_id":"1007142711002"
+        "eurostat:nuts_2021_id":"1007142711002",
+        "pol-gus:code":"1007142711002"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"defbeea54d46525e42d214f1b176d054",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751381,
-    "wof:lastmodified":1684354355,
+    "wof:lastmodified":1695879297,
     "wof:name":"Gmina \u0141osice",
     "wof:parent_id":102079981,
     "wof:placetype":"localadmin",

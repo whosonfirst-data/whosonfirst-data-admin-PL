@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3211,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.26244,
     "lbl:longitude":17.25574,
     "lbl:max_zoom":15.0,
@@ -172,8 +181,10 @@
         "eurostat:nuts_2021_id":"1002301601904",
         "gn:id":3093150,
         "gp:id":24547730,
+        "pol-gus:code":"1002301601904",
         "qs_pg:id":59451
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045546,
     "wof:geom_alt":[
@@ -190,7 +201,7 @@
         }
     ],
     "wof:id":1125338793,
-    "wof:lastmodified":1684354245,
+    "wof:lastmodified":1695879149,
     "wof:name":"Gmina \u0141ob\u017cenica",
     "wof:parent_id":102080065,
     "wof:placetype":"localadmin",

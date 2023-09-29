@@ -23,6 +23,15 @@
     "geom:longitude":16.603415,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.688573,
     "lbl:longitude":16.625018,
     "lbl:max_zoom":18.0,
@@ -170,8 +179,10 @@
         "eg:gisco_id":"PL_1003021030201",
         "eurostat:nuts_2021_id":"1003021030201",
         "gp:id":12617582,
+        "pol-gus:code":"1003021030201",
         "qs_pg:id":282899
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823649
     ],
@@ -191,7 +202,7 @@
         }
     ],
     "wof:id":1125289429,
-    "wof:lastmodified":1684354173,
+    "wof:lastmodified":1695878990,
     "wof:name":"Bielawa",
     "wof:parent_id":102079591,
     "wof:placetype":"localadmin",

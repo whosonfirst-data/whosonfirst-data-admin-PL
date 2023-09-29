@@ -22,6 +22,15 @@
     "geom:latitude":50.464749,
     "geom:longitude":17.941559,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.466016,
     "lbl:longitude":17.961418,
     "mps:latitude":50.466016,
@@ -91,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161320502",
-        "eurostat:nuts_2021_id":"1003161320502"
+        "eurostat:nuts_2021_id":"1003161320502",
+        "pol-gus:code":"1003161320502"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"5a2897ec8661b49060aef88d84bf7c82",
     "wof:hierarchy":[
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477751801,
-    "wof:lastmodified":1684354376,
+    "wof:lastmodified":1695879320,
     "wof:name":"Gmina Krapkowice",
     "wof:parent_id":102079553,
     "wof:placetype":"localadmin",

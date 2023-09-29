@@ -22,6 +22,15 @@
     "geom:latitude":53.51285,
     "geom:longitude":19.781616,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.565004,
     "lbl:longitude":19.767974,
     "mps:latitude":53.565004,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281540705",
-        "eurostat:nuts_2021_id":"1004281540705"
+        "eurostat:nuts_2021_id":"1004281540705",
+        "pol-gus:code":"1004281540705"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865681
     ],
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752397,
-    "wof:lastmodified":1684354408,
+    "wof:lastmodified":1695879353,
     "wof:name":"Gmina Lubawa",
     "wof:parent_id":102080171,
     "wof:placetype":"localadmin",

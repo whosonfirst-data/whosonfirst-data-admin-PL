@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3730,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.4536,
     "lbl:longitude":14.87549,
     "lbl:max_zoom":15.0,
@@ -163,8 +172,10 @@
         "eurostat:nuts_2021_id":"1002081130503",
         "gn:id":3089832,
         "gp:id":24547680,
+        "pol-gus:code":"1002081130503",
         "qs_pg:id":145579
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043146,
     "wof:geom_alt":[
@@ -181,7 +192,7 @@
         }
     ],
     "wof:id":1125295959,
-    "wof:lastmodified":1684354186,
+    "wof:lastmodified":1695879008,
     "wof:name":"Gmina O\u015bno Lubuskie",
     "wof:parent_id":102079913,
     "wof:placetype":"localadmin",

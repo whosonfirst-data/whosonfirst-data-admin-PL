@@ -22,6 +22,15 @@
     "geom:latitude":50.671655,
     "geom:longitude":18.572259,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.668405,
     "lbl:longitude":18.573708,
     "mps:latitude":50.668405,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241450707",
-        "eurostat:nuts_2021_id":"1001241450707"
+        "eurostat:nuts_2021_id":"1001241450707",
+        "pol-gus:code":"1001241450707"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101825117
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477751791,
-    "wof:lastmodified":1684354376,
+    "wof:lastmodified":1695879319,
     "wof:name":"Pawonk\u00f3w",
     "wof:parent_id":102079621,
     "wof:placetype":"localadmin",

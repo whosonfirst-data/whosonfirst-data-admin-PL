@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1746,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.52573,
     "lbl:longitude":22.31435,
     "lbl:max_zoom":16.0,
@@ -97,8 +106,10 @@
         "eurostat:nuts_2021_id":"1006061110808",
         "gn:id":764926,
         "gp:id":12616613,
+        "pol-gus:code":"1006061110808",
         "qs_pg:id":23869
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821633
     ],
@@ -118,7 +129,7 @@
         }
     ],
     "wof:id":1125324127,
-    "wof:lastmodified":1684354226,
+    "wof:lastmodified":1695879080,
     "wof:name":"Mich\u00f3w",
     "wof:parent_id":102079855,
     "wof:placetype":"localadmin",

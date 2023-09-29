@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2654,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.88551,
     "lbl:longitude":21.85678,
     "lbl:max_zoom":15.0,
@@ -191,8 +200,10 @@
         "eurostat:nuts_2021_id":"1006061120702",
         "gn:id":776677,
         "gp:id":24548630,
+        "pol-gus:code":"1006061120702",
         "qs_pg:id":1014980
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497048259,
     "wof:geom_alt":[
@@ -209,7 +220,7 @@
         }
     ],
     "wof:id":1125384203,
-    "wof:lastmodified":1684354301,
+    "wof:lastmodified":1695879241,
     "wof:name":"Gmina Annopol",
     "wof:parent_id":102079721,
     "wof:placetype":"localadmin",

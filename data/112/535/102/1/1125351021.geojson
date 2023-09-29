@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":441,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.28549,
     "lbl:longitude":19.27053,
     "lbl:max_zoom":17.0,
@@ -138,8 +147,10 @@
         "eurostat:nuts_2021_id":"1004041070202",
         "gn:id":3103142,
         "gp:id":12617800,
+        "pol-gus:code":"1004041070202",
         "qs_pg:id":909876
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864769
     ],
@@ -159,7 +170,7 @@
         }
     ],
     "wof:id":1125351021,
-    "wof:lastmodified":1684354259,
+    "wof:lastmodified":1695879184,
     "wof:name":"Bobrowo",
     "wof:parent_id":102080099,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.0421,
     "lbl:longitude":20.9212,
     "lbl:max_zoom":18.0,
@@ -254,8 +263,10 @@
         "eurostat:nuts_2021_id":"1001121241609",
         "gn:id":7532241,
         "gp:id":12618460,
+        "pol-gus:code":"1001121241609",
         "qs_pg:id":1033100
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865039
     ],
@@ -275,7 +286,7 @@
         }
     ],
     "wof:id":1125387085,
-    "wof:lastmodified":1684354307,
+    "wof:lastmodified":1695879247,
     "wof:name":"Gmina Tarn\u00f3w",
     "wof:parent_id":102079535,
     "wof:placetype":"localadmin",

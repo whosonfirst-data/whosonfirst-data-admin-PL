@@ -22,6 +22,15 @@
     "geom:latitude":50.329557,
     "geom:longitude":18.094739,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.307315,
     "lbl:longitude":18.094758,
     "mps:latitude":50.307315,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161320306",
-        "eurostat:nuts_2021_id":"1003161320306"
+        "eurostat:nuts_2021_id":"1003161320306",
+        "pol-gus:code":"1003161320306"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824843
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125303091,
-    "wof:lastmodified":1684354195,
+    "wof:lastmodified":1695879020,
     "wof:name":"Re\u0144ska Wie\u015b",
     "wof:parent_id":102079523,
     "wof:placetype":"localadmin",

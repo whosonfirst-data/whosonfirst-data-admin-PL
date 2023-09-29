@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":6102,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.35532,
     "lbl:longitude":16.51958,
     "lbl:max_zoom":15.0,
@@ -164,8 +173,10 @@
         "eurostat:nuts_2021_id":"1002301612103",
         "gn:id":3102138,
         "gp:id":24548022,
+        "pol-gus:code":"1002301612103",
         "qs_pg:id":407830
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497049655,
     "wof:geom_alt":[
@@ -182,7 +193,7 @@
         }
     ],
     "wof:id":1125406247,
-    "wof:lastmodified":1684354328,
+    "wof:lastmodified":1695879269,
     "wof:name":"Gmina Buk",
     "wof:parent_id":102079955,
     "wof:placetype":"localadmin",

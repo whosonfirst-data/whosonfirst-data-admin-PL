@@ -23,6 +23,15 @@
     "geom:longitude":21.161582,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.487209,
     "lbl:longitude":21.075097,
     "lbl:max_zoom":18.0,
@@ -110,8 +119,10 @@
         "eg:gisco_id":"PL_1007141293409",
         "eurostat:nuts_2021_id":"1007141293409",
         "gp:id":24548198,
+        "pol-gus:code":"1007141293409",
         "qs_pg:id":1003266
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047963,
     "wof:geom_alt":[
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1125379601,
-    "wof:lastmodified":1684354297,
+    "wof:lastmodified":1695879236,
     "wof:name":"Gmina Radzymin",
     "wof:parent_id":102079995,
     "wof:placetype":"localadmin",

@@ -23,6 +23,15 @@
     "geom:longitude":19.567596,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.341431,
     "lbl:longitude":19.549625,
     "lbl:max_zoom":18.0,
@@ -86,8 +95,10 @@
         "eg:gisco_id":"PL_1001121231204",
         "eurostat:nuts_2021_id":"1001121231204",
         "gp:id":12617861,
+        "pol-gus:code":"1001121231204",
         "qs_pg:id":238786
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823511
     ],
@@ -107,7 +118,7 @@
         }
     ],
     "wof:id":1125411577,
-    "wof:lastmodified":1684354335,
+    "wof:lastmodified":1695879276,
     "wof:name":"Klucze",
     "wof:parent_id":102079555,
     "wof:placetype":"localadmin",

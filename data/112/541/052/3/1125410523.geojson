@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2469,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.01375,
     "lbl:longitude":15.89516,
     "lbl:max_zoom":15.0,
@@ -167,8 +176,10 @@
         "eurostat:nuts_2021_id":"1003021012604",
         "gn:id":3084024,
         "gp:id":24547622,
+        "pol-gus:code":"1003021012604",
         "qs_pg:id":59433
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497050020,
     "wof:geom_alt":[
@@ -185,7 +196,7 @@
         }
     ],
     "wof:id":1125410523,
-    "wof:lastmodified":1684354331,
+    "wof:lastmodified":1695879272,
     "wof:name":"Gmina \u015awierzawa",
     "wof:parent_id":102079657,
     "wof:placetype":"localadmin",

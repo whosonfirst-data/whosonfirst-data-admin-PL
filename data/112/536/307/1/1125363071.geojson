@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":35161,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.53921,
     "lbl:longitude":17.75012,
     "lbl:max_zoom":14.0,
@@ -185,8 +194,10 @@
         "eurostat:nuts_2021_id":"1004221410801",
         "gn:id":3093739,
         "gp:id":12618848,
+        "pol-gus:code":"1004221410801",
         "qs_pg:id":954086
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497046916,
     "wof:geom_alt":[
@@ -203,7 +214,7 @@
         }
     ],
     "wof:id":1125363071,
-    "wof:lastmodified":1684354269,
+    "wof:lastmodified":1695879200,
     "wof:name":"Gmina L\u0119bork",
     "wof:parent_id":102080263,
     "wof:placetype":"localadmin",

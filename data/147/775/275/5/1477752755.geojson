@@ -22,6 +22,15 @@
     "geom:latitude":50.249806,
     "geom:longitude":20.480606,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.249624,
     "lbl:longitude":20.489089,
     "mps:latitude":50.249624,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005261530303",
-        "eurostat:nuts_2021_id":"1005261530303"
+        "eurostat:nuts_2021_id":"1005261530303",
+        "pol-gus:code":"1005261530303"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"1eab310fe886d1f754f1fe281f50e4a4",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752755,
-    "wof:lastmodified":1684354427,
+    "wof:lastmodified":1695879373,
     "wof:name":"Gmina Kazimierza Wielka",
     "wof:parent_id":102079561,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.286919,
     "geom:longitude":21.264251,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.286412,
     "lbl:longitude":21.264228,
     "mps:latitude":52.286412,
@@ -112,8 +121,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007141293404",
-        "eurostat:nuts_2021_id":"1007141293404"
+        "eurostat:nuts_2021_id":"1007141293404",
+        "pol-gus:code":"1007141293404"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101756113
     ],
@@ -129,7 +140,7 @@
         }
     ],
     "wof:id":1477751241,
-    "wof:lastmodified":1684354348,
+    "wof:lastmodified":1695879290,
     "wof:name":"Zielonka",
     "wof:parent_id":102079995,
     "wof:placetype":"localadmin",

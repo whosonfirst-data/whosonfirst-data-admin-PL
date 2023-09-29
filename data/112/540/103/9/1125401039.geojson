@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1293,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.40574,
     "lbl:longitude":19.1644,
     "lbl:max_zoom":16.0,
@@ -182,8 +191,10 @@
         "eurostat:nuts_2021_id":"1004041081811",
         "gn:id":3092950,
         "gp:id":24547410,
+        "pol-gus:code":"1004041081811",
         "qs_pg:id":1026193
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497049326,
     "wof:geom_alt":[
@@ -200,7 +211,7 @@
         }
     ],
     "wof:id":1125401039,
-    "wof:lastmodified":1684354325,
+    "wof:lastmodified":1695879266,
     "wof:name":"Gmina Lubie\u0144 Kujawski",
     "wof:parent_id":102079997,
     "wof:placetype":"localadmin",

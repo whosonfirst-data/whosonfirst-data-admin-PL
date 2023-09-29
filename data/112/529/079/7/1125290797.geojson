@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":6255,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.32086,
     "lbl:longitude":22.34456,
     "lbl:max_zoom":15.0,
@@ -143,8 +152,10 @@
         "eurostat:nuts_2021_id":"1006181360805",
         "gn:id":763765,
         "gp:id":24548597,
+        "pol-gus:code":"1006181360805",
         "qs_pg:id":1200789
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042910,
     "wof:geom_alt":[
@@ -161,7 +172,7 @@
         }
     ],
     "wof:id":1125290797,
-    "wof:lastmodified":1684354176,
+    "wof:lastmodified":1695878994,
     "wof:name":"Gmina Nowa Sarzyna",
     "wof:parent_id":102079599,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4498,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.6458,
     "lbl:longitude":17.37694,
     "lbl:max_zoom":15.0,
@@ -136,8 +145,10 @@
         "eurostat:nuts_2021_id":"1002301571206",
         "gn:id":3080411,
         "gp:id":12617297,
+        "pol-gus:code":"1002301571206",
         "qs_pg:id":202617
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043714,
     "wof:geom_alt":[
@@ -154,7 +165,7 @@
         }
     ],
     "wof:id":1125306293,
-    "wof:lastmodified":1684354209,
+    "wof:lastmodified":1695879037,
     "wof:name":"Gmina Zduny",
     "wof:parent_id":102079811,
     "wof:placetype":"localadmin",

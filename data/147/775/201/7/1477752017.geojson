@@ -22,6 +22,15 @@
     "geom:latitude":53.653191,
     "geom:longitude":23.52091,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.656694,
     "lbl:longitude":23.542461,
     "mps:latitude":53.656694,
@@ -76,8 +85,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201371106",
-        "eurostat:nuts_2021_id":"1006201371106"
+        "eurostat:nuts_2021_id":"1006201371106",
+        "pol-gus:code":"1006201371106"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126010747
     ],
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1477752017,
-    "wof:lastmodified":1684354387,
+    "wof:lastmodified":1695879332,
     "wof:name":"Nowy Dw\u00f3r",
     "wof:parent_id":102080189,
     "wof:placetype":"localadmin",

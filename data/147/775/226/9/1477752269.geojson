@@ -22,6 +22,15 @@
     "geom:latitude":50.667258,
     "geom:longitude":19.05832,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.676275,
     "lbl:longitude":19.06252,
     "mps:latitude":50.676275,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241460416",
-        "eurostat:nuts_2021_id":"1001241460416"
+        "eurostat:nuts_2021_id":"1001241460416",
+        "pol-gus:code":"1001241460416"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823893
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752269,
-    "wof:lastmodified":1684354401,
+    "wof:lastmodified":1695879346,
     "wof:name":"Starcza",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",

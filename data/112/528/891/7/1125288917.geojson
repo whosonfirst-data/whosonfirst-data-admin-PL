@@ -22,6 +22,15 @@
     "geom:latitude":53.092643,
     "geom:longitude":19.169763,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.096135,
     "lbl:longitude":19.171043,
     "mps:latitude":53.096135,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041070505",
-        "eurostat:nuts_2021_id":"1004041070505"
+        "eurostat:nuts_2021_id":"1004041070505",
+        "pol-gus:code":"1004041070505"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101874509
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125288917,
-    "wof:lastmodified":1684354167,
+    "wof:lastmodified":1695878984,
     "wof:name":"Radomin",
     "wof:parent_id":102080067,
     "wof:placetype":"localadmin",

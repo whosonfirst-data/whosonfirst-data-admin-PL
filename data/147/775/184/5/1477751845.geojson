@@ -22,6 +22,15 @@
     "geom:latitude":54.244668,
     "geom:longitude":20.798156,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.279332,
     "lbl:longitude":20.725307,
     "mps:latitude":54.279332,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281560103",
-        "eurostat:nuts_2021_id":"1004281560103"
+        "eurostat:nuts_2021_id":"1004281560103",
+        "pol-gus:code":"1004281560103"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865351
     ],
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477751845,
-    "wof:lastmodified":1684354378,
+    "wof:lastmodified":1695879322,
     "wof:name":"Gmina Bartoszyce",
     "wof:parent_id":102080247,
     "wof:placetype":"localadmin",

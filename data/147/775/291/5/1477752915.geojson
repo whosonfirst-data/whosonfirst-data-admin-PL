@@ -22,6 +22,15 @@
     "geom:latitude":53.386984,
     "geom:longitude":19.756786,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.392389,
     "lbl:longitude":19.7753,
     "mps:latitude":53.392389,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281541203",
-        "eurostat:nuts_2021_id":"1004281541203"
+        "eurostat:nuts_2021_id":"1004281541203",
+        "pol-gus:code":"1004281541203"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125793371
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477752915,
-    "wof:lastmodified":1684354436,
+    "wof:lastmodified":1695879382,
     "wof:name":"Grodziczno",
     "wof:parent_id":102080125,
     "wof:placetype":"localadmin",

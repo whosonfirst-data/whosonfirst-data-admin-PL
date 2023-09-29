@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":7315,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.83055,
     "lbl:longitude":20.69112,
     "lbl:max_zoom":15.0,
@@ -180,8 +189,10 @@
         "eurostat:nuts_2021_id":"1004281561401",
         "gn:id":776384,
         "gp:id":24547585,
+        "pol-gus:code":"1004281561401",
         "qs_pg:id":59428
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1259810015
     ],
@@ -201,7 +212,7 @@
         }
     ],
     "wof:id":1125410519,
-    "wof:lastmodified":1684354331,
+    "wof:lastmodified":1695879272,
     "wof:name":"Gmina Barczewo",
     "wof:parent_id":102080207,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.212291,
     "geom:longitude":19.721209,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.209061,
     "lbl:longitude":19.719945,
     "mps:latitude":50.209061,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121200604",
-        "eurostat:nuts_2021_id":"1001121200604"
+        "eurostat:nuts_2021_id":"1001121200604",
+        "pol-gus:code":"1001121200604"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865791
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125372317,
-    "wof:lastmodified":1684354285,
+    "wof:lastmodified":1695879223,
     "wof:name":"Jerzmanowice-Przeginia",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",

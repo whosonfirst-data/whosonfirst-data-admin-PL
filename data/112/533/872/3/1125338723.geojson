@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2336,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.58625,
     "lbl:longitude":15.30977,
     "lbl:max_zoom":15.0,
@@ -184,8 +193,10 @@
         "eurostat:nuts_2021_id":"1002321641801",
         "gn:id":3100363,
         "gp:id":24547636,
+        "pol-gus:code":"1002321641801",
         "qs_pg:id":59440
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045543,
     "wof:geom_alt":[
@@ -202,7 +213,7 @@
         }
     ],
     "wof:id":1125338723,
-    "wof:lastmodified":1684354245,
+    "wof:lastmodified":1695879148,
     "wof:name":"Gmina Dobra",
     "wof:parent_id":102080131,
     "wof:placetype":"localadmin",

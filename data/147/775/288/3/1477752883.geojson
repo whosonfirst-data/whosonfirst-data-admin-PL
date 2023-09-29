@@ -22,6 +22,15 @@
     "geom:latitude":50.778994,
     "geom:longitude":20.803255,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.773108,
     "lbl:longitude":20.784008,
     "mps:latitude":50.773108,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005261520405",
-        "eurostat:nuts_2021_id":"1005261520405"
+        "eurostat:nuts_2021_id":"1005261520405",
+        "pol-gus:code":"1005261520405"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"b5be55f51f8fde97936957eacd6bd75a",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752883,
-    "wof:lastmodified":1684354434,
+    "wof:lastmodified":1695879380,
     "wof:name":"Gmina Daleszyce",
     "wof:parent_id":102079693,
     "wof:placetype":"localadmin",

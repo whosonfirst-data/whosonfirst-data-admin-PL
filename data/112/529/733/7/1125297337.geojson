@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":33273,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.5752,
     "lbl:longitude":19.32461,
     "lbl:max_zoom":14.0,
@@ -173,8 +182,10 @@
         "eurostat:nuts_2021_id":"1001241460901",
         "gn:id":3091217,
         "gp:id":12617335,
+        "pol-gus:code":"1001241460901",
         "qs_pg:id":466498
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823703
     ],
@@ -194,7 +205,7 @@
         }
     ],
     "wof:id":1125297337,
-    "wof:lastmodified":1684354189,
+    "wof:lastmodified":1695879011,
     "wof:name":"Myszk\u00f3w",
     "wof:parent_id":102079605,
     "wof:placetype":"localadmin",

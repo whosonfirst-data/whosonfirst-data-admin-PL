@@ -22,6 +22,15 @@
     "geom:latitude":53.681365,
     "geom:longitude":20.640581,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.69056,
     "lbl:longitude":20.637702,
     "mps:latitude":53.69056,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281561410",
-        "eurostat:nuts_2021_id":"1004281561410"
+        "eurostat:nuts_2021_id":"1004281561410",
+        "pol-gus:code":"1004281561410"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126014901
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125309701,
-    "wof:lastmodified":1684354212,
+    "wof:lastmodified":1695879054,
     "wof:name":"Purda",
     "wof:parent_id":102080207,
     "wof:placetype":"localadmin",

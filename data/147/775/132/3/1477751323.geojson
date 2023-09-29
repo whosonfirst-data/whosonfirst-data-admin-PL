@@ -22,6 +22,15 @@
     "geom:latitude":51.241657,
     "geom:longitude":20.95992,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.24594,
     "lbl:longitude":20.955525,
     "mps:latitude":51.24594,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142273002",
-        "eurostat:nuts_2021_id":"1007142273002"
+        "eurostat:nuts_2021_id":"1007142273002",
+        "pol-gus:code":"1007142273002"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1209942689
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477751323,
-    "wof:lastmodified":1684354352,
+    "wof:lastmodified":1695879294,
     "wof:name":"Jastrz\u0105b",
     "wof:parent_id":102079751,
     "wof:placetype":"localadmin",

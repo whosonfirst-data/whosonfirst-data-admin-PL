@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":800,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.78075,
     "lbl:longitude":14.94793,
     "lbl:max_zoom":17.0,
@@ -107,8 +116,10 @@
         "eurostat:nuts_2021_id":"1002081130105",
         "gn:id":3092913,
         "gp:id":12617065,
+        "pol-gus:code":"1002081130105",
         "qs_pg:id":396922
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863429
     ],
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1125399495,
-    "wof:lastmodified":1684354321,
+    "wof:lastmodified":1695879262,
     "wof:name":"Lubiszyn",
     "wof:parent_id":102079975,
     "wof:placetype":"localadmin",

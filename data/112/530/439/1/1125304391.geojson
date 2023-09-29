@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1576,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.74678,
     "lbl:longitude":20.61756,
     "lbl:max_zoom":16.0,
@@ -137,8 +146,10 @@
         "eurostat:nuts_2021_id":"1005261520412",
         "gn:id":764414,
         "gp:id":12617604,
+        "pol-gus:code":"1005261520412",
         "qs_pg:id":1190559
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043610,
     "wof:geom_alt":[
@@ -155,7 +166,7 @@
         }
     ],
     "wof:id":1125304391,
-    "wof:lastmodified":1684354200,
+    "wof:lastmodified":1695879026,
     "wof:name":"Gmina Morawica",
     "wof:parent_id":102079693,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.95965,
     "geom:longitude":19.936726,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.951951,
     "lbl:longitude":19.915008,
     "mps:latitude":52.951951,
@@ -79,8 +88,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142253701",
-        "eurostat:nuts_2021_id":"1007142253701"
+        "eurostat:nuts_2021_id":"1007142253701",
+        "pol-gus:code":"1007142253701"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"854c742403e42313b291803b18879a12",
     "wof:hierarchy":[
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1477752635,
-    "wof:lastmodified":1684354420,
+    "wof:lastmodified":1695879366,
     "wof:name":"Gmina Bie\u017cu\u0144",
     "wof:parent_id":102080069,
     "wof:placetype":"localadmin",

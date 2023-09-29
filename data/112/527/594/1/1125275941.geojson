@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2771,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.42073,
     "lbl:longitude":18.7627,
     "lbl:max_zoom":15.0,
@@ -178,8 +187,10 @@
         "eurostat:nuts_2021_id":"1004041081808",
         "gn:id":3097841,
         "gp:id":24547745,
+        "pol-gus:code":"1004041081808",
         "qs_pg:id":59453
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042310,
     "wof:geom_alt":[
@@ -196,7 +207,7 @@
         }
     ],
     "wof:id":1125275941,
-    "wof:lastmodified":1684354143,
+    "wof:lastmodified":1695878960,
     "wof:name":"Gmina Izbica Kujawska",
     "wof:parent_id":102079997,
     "wof:placetype":"localadmin",

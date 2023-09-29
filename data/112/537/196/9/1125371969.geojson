@@ -23,6 +23,15 @@
     "geom:longitude":16.365945,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.696152,
     "lbl:longitude":16.410819,
     "lbl:max_zoom":18.0,
@@ -158,8 +167,10 @@
         "eg:gisco_id":"PL_1003021032105",
         "eurostat:nuts_2021_id":"1003021032105",
         "gp:id":24547926,
+        "pol-gus:code":"1003021032105",
         "qs_pg:id":976908
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047466,
     "wof:geom_alt":[
@@ -176,7 +187,7 @@
         }
     ],
     "wof:id":1125371969,
-    "wof:lastmodified":1684354284,
+    "wof:lastmodified":1695879221,
     "wof:name":"Gmina G\u0142uszyca",
     "wof:parent_id":102079595,
     "wof:placetype":"localadmin",

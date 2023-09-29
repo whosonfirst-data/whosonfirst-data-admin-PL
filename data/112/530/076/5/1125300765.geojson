@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2000,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.22355,
     "lbl:longitude":19.30418,
     "lbl:max_zoom":15.0,
@@ -95,8 +104,10 @@
         "eurostat:nuts_2021_id":"1005101170104",
         "gn:id":3096123,
         "gp:id":12616695,
+        "pol-gus:code":"1005101170104",
         "qs_pg:id":487613
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863997
     ],
@@ -116,7 +127,7 @@
         }
     ],
     "wof:id":1125300765,
-    "wof:lastmodified":1684354192,
+    "wof:lastmodified":1695879016,
     "wof:name":"Kleszcz\u00f3w",
     "wof:parent_id":102079763,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":530,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.46369,
     "lbl:longitude":19.39404,
     "lbl:max_zoom":17.0,
@@ -100,8 +109,10 @@
         "eurostat:nuts_2021_id":"1005101170103",
         "gn:id":3100086,
         "gp:id":12618286,
+        "pol-gus:code":"1005101170103",
         "qs_pg:id":24180
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865443
     ],
@@ -121,7 +132,7 @@
         }
     ],
     "wof:id":1125324331,
-    "wof:lastmodified":1684354229,
+    "wof:lastmodified":1695879107,
     "wof:name":"Dru\u017cbice",
     "wof:parent_id":102079763,
     "wof:placetype":"localadmin",

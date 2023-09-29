@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1100,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.57163,
     "lbl:longitude":18.15585,
     "lbl:max_zoom":16.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1003161321101",
         "gn:id":3097839,
         "gp:id":12618786,
+        "pol-gus:code":"1003161321101",
         "qs_pg:id":24297
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864177
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125289399,
-    "wof:lastmodified":1684354173,
+    "wof:lastmodified":1695878990,
     "wof:name":"Izbicko",
     "wof:parent_id":102079587,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":53.528722,
     "geom:longitude":18.489124,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.52296,
     "lbl:longitude":18.490926,
     "mps:latitude":53.52296,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041681404",
-        "eurostat:nuts_2021_id":"1004041681404"
+        "eurostat:nuts_2021_id":"1004041681404",
+        "pol-gus:code":"1004041681404"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819281
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477751699,
-    "wof:lastmodified":1684354371,
+    "wof:lastmodified":1695879314,
     "wof:name":"Je\u017cewo",
     "wof:parent_id":102080137,
     "wof:placetype":"localadmin",

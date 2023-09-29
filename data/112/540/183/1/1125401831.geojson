@@ -23,6 +23,15 @@
     "geom:longitude":20.115126,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.583227,
     "lbl:longitude":20.069618,
     "lbl:max_zoom":18.0,
@@ -119,8 +128,10 @@
         "eg:gisco_id":"PL_1001121220709",
         "eurostat:nuts_2021_id":"1001121220709",
         "gp:id":24548443,
+        "pol-gus:code":"1001121220709",
         "qs_pg:id":1334617
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865471
     ],
@@ -140,7 +151,7 @@
         }
     ],
     "wof:id":1125401831,
-    "wof:lastmodified":1684354326,
+    "wof:lastmodified":1695879267,
     "wof:name":"Gmina Mszana Dolna",
     "wof:parent_id":102079423,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.780777,
     "geom:longitude":18.253341,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.784457,
     "lbl:longitude":18.252507,
     "mps:latitude":52.784457,
@@ -91,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041670701",
-        "eurostat:nuts_2021_id":"1004041670701"
+        "eurostat:nuts_2021_id":"1004041670701",
+        "pol-gus:code":"1004041670701"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"d80274f20fa4d3d5e09488fdbd8e8878",
     "wof:hierarchy":[
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477751551,
-    "wof:lastmodified":1684354363,
+    "wof:lastmodified":1695879306,
     "wof:name":"Gmina Inowroc\u0142aw",
     "wof:parent_id":102080013,
     "wof:placetype":"localadmin",

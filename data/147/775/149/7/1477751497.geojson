@@ -22,6 +22,15 @@
     "geom:latitude":52.453944,
     "geom:longitude":22.85632,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.488997,
     "lbl:longitude":22.833988,
     "mps:latitude":52.488997,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201381009",
-        "eurostat:nuts_2021_id":"1006201381009"
+        "eurostat:nuts_2021_id":"1006201381009",
+        "pol-gus:code":"1006201381009"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"dba249274a1d3323a4226c6f0c3fa686",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751497,
-    "wof:lastmodified":1684354360,
+    "wof:lastmodified":1695879303,
     "wof:name":"Gmina Siemiatycze",
     "wof:parent_id":102080037,
     "wof:placetype":"localadmin",

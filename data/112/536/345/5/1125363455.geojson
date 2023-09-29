@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1737,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.02466,
     "lbl:longitude":21.22147,
     "lbl:max_zoom":16.0,
@@ -186,8 +195,10 @@
         "eurostat:nuts_2021_id":"1005261521102",
         "gn:id":775318,
         "gp:id":12616605,
+        "pol-gus:code":"1005261521102",
         "qs_pg:id":954921
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822605
     ],
@@ -207,7 +218,7 @@
         }
     ],
     "wof:id":1125363455,
-    "wof:lastmodified":1684354269,
+    "wof:lastmodified":1695879201,
     "wof:name":"Brody",
     "wof:parent_id":102079727,
     "wof:placetype":"localadmin",

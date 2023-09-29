@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":5065,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.12443,
     "lbl:longitude":17.54607,
     "lbl:max_zoom":15.0,
@@ -170,8 +179,10 @@
         "eurostat:nuts_2021_id":"1003021041402",
         "gn:id":3103364,
         "gp:id":24547648,
+        "pol-gus:code":"1003021041402",
         "qs_pg:id":335518
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863849
     ],
@@ -191,7 +202,7 @@
         }
     ],
     "wof:id":1125372145,
-    "wof:lastmodified":1684354284,
+    "wof:lastmodified":1695879222,
     "wof:name":"Gmina Bierut\u00f3w",
     "wof:parent_id":102079717,
     "wof:placetype":"localadmin",

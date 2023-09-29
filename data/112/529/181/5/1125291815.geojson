@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2335,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.36504,
     "lbl:longitude":15.87306,
     "lbl:max_zoom":15.0,
@@ -170,8 +179,10 @@
         "eurostat:nuts_2021_id":"1002081130306",
         "gn:id":3083177,
         "gp:id":24547514,
+        "pol-gus:code":"1002081130306",
         "qs_pg:id":1096994
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042957,
     "wof:geom_alt":[
@@ -188,7 +199,7 @@
         }
     ],
     "wof:id":1125291815,
-    "wof:lastmodified":1684354177,
+    "wof:lastmodified":1695878996,
     "wof:name":"Gmina Trzciel",
     "wof:parent_id":102079947,
     "wof:placetype":"localadmin",

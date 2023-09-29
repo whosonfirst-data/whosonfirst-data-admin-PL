@@ -23,6 +23,15 @@
     "geom:longitude":15.367234,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.19543,
     "lbl:longitude":15.39854,
     "lbl:max_zoom":18.0,
@@ -161,8 +170,10 @@
         "eg:gisco_id":"PL_1003021010104",
         "eurostat:nuts_2021_id":"1003021010104",
         "gp:id":24547434,
+        "pol-gus:code":"1003021010104",
         "qs_pg:id":32501
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497048079,
     "wof:geom_alt":[
@@ -179,7 +190,7 @@
         }
     ],
     "wof:id":1125381559,
-    "wof:lastmodified":1684354299,
+    "wof:lastmodified":1695879238,
     "wof:name":"Gmina Nowogrodziec",
     "wof:parent_id":102079707,
     "wof:placetype":"localadmin",

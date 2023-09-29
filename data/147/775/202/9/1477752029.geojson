@@ -22,6 +22,15 @@
     "geom:latitude":51.519012,
     "geom:longitude":16.329449,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.540346,
     "lbl:longitude":16.365101,
     "mps:latitude":51.540346,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021021103",
-        "eurostat:nuts_2021_id":"1003021021103"
+        "eurostat:nuts_2021_id":"1003021021103",
+        "pol-gus:code":"1003021021103"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865705
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752029,
-    "wof:lastmodified":1684354388,
+    "wof:lastmodified":1695879332,
     "wof:name":"Rudna",
     "wof:parent_id":102079735,
     "wof:placetype":"localadmin",

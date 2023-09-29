@@ -22,6 +22,15 @@
     "geom:latitude":52.442739,
     "geom:longitude":23.134002,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.440056,
     "lbl:longitude":23.130539,
     "mps:latitude":52.440056,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201381007",
-        "eurostat:nuts_2021_id":"1006201381007"
+        "eurostat:nuts_2021_id":"1006201381007",
+        "pol-gus:code":"1006201381007"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1310032293
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477751453,
-    "wof:lastmodified":1684354358,
+    "wof:lastmodified":1695879300,
     "wof:name":"Nurzec-Stacja",
     "wof:parent_id":102080037,
     "wof:placetype":"localadmin",

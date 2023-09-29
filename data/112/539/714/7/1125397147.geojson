@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":700,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.46532,
     "lbl:longitude":18.89116,
     "lbl:max_zoom":17.0,
@@ -96,8 +105,10 @@
         "eurostat:nuts_2021_id":"1004041081803",
         "gn:id":3102956,
         "gp:id":12616849,
+        "pol-gus:code":"1004041081803",
         "qs_pg:id":1023396
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863677
     ],
@@ -117,7 +128,7 @@
         }
     ],
     "wof:id":1125397147,
-    "wof:lastmodified":1684354318,
+    "wof:lastmodified":1695879259,
     "wof:name":"Boniewo",
     "wof:parent_id":102079997,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":51.180507,
     "geom:longitude":20.38712,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.176587,
     "lbl:longitude":20.370712,
     "mps:latitude":51.176587,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005261520503",
-        "eurostat:nuts_2021_id":"1005261520503"
+        "eurostat:nuts_2021_id":"1005261520503",
+        "pol-gus:code":"1005261520503"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"9835c7dbc9440d3950871df0eb10649d",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751159,
-    "wof:lastmodified":1684354343,
+    "wof:lastmodified":1695879285,
     "wof:name":"Gmina Ko\u0144skie",
     "wof:parent_id":102079739,
     "wof:placetype":"localadmin",

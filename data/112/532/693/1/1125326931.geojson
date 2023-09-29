@@ -23,6 +23,15 @@
     "geom:longitude":20.171875,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.823379,
     "lbl:longitude":20.131566,
     "lbl:max_zoom":18.0,
@@ -86,8 +95,10 @@
         "eg:gisco_id":"PL_1001121200905",
         "eurostat:nuts_2021_id":"1001121200905",
         "gp:id":12617888,
+        "pol-gus:code":"1001121200905",
         "qs_pg:id":231326
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126032931
     ],
@@ -107,7 +118,7 @@
         }
     ],
     "wof:id":1125326931,
-    "wof:lastmodified":1684354236,
+    "wof:lastmodified":1695879133,
     "wof:name":"Raciechowice",
     "wof:parent_id":102079441,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.147993,
     "geom:longitude":22.662013,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.146806,
     "lbl:longitude":22.662013,
     "mps:latitude":52.146806,
@@ -76,8 +85,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142711003",
-        "eurostat:nuts_2021_id":"1007142711003"
+        "eurostat:nuts_2021_id":"1007142711003",
+        "pol-gus:code":"1007142711003"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125923929
     ],
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1477752401,
-    "wof:lastmodified":1684354408,
+    "wof:lastmodified":1695879353,
     "wof:name":"Olszanka",
     "wof:parent_id":102079981,
     "wof:placetype":"localadmin",

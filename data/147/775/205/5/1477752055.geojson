@@ -22,6 +22,15 @@
     "geom:latitude":52.58425,
     "geom:longitude":21.458152,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.587755,
     "lbl:longitude":21.446377,
     "mps:latitude":52.587755,
@@ -79,8 +88,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142263505",
-        "eurostat:nuts_2021_id":"1007142263505"
+        "eurostat:nuts_2021_id":"1007142263505",
+        "pol-gus:code":"1007142263505"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"574becbff1198a839a6cc97b2d91c170",
     "wof:hierarchy":[
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1477752055,
-    "wof:lastmodified":1684354389,
+    "wof:lastmodified":1695879334,
     "wof:name":"Gmina Wyszk\u00f3w",
     "wof:parent_id":102080045,
     "wof:placetype":"localadmin",

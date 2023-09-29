@@ -23,6 +23,15 @@
     "geom:longitude":17.302972,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.238996,
     "lbl:longitude":17.289047,
     "lbl:max_zoom":18.0,
@@ -170,8 +179,10 @@
         "eg:gisco_id":"PL_1002301612504",
         "eurostat:nuts_2021_id":"1002301612504",
         "gp:id":24547466,
+        "pol-gus:code":"1002301612504",
         "qs_pg:id":405610
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497049574,
     "wof:geom_alt":[
@@ -188,7 +199,7 @@
         }
     ],
     "wof:id":1125404913,
-    "wof:lastmodified":1684354327,
+    "wof:lastmodified":1695879268,
     "wof:name":"Gmina \u015aroda Wielkopolska",
     "wof:parent_id":102079893,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":53.019453,
     "geom:longitude":20.882593,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.019782,
     "lbl:longitude":20.882591,
     "mps:latitude":53.019782,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142262201",
-        "eurostat:nuts_2021_id":"1007142262201"
+        "eurostat:nuts_2021_id":"1007142262201",
+        "pol-gus:code":"1007142262201"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"b55ba09e087b2c5c89f2b9838cf50c11",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752575,
-    "wof:lastmodified":1684354417,
+    "wof:lastmodified":1695879362,
     "wof:name":"Gmina Przasnysz",
     "wof:parent_id":102080117,
     "wof:placetype":"localadmin",

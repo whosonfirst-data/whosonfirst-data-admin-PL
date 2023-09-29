@@ -22,6 +22,15 @@
     "geom:latitude":50.70582,
     "geom:longitude":23.206606,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.688889,
     "lbl:longitude":23.172936,
     "mps:latitude":50.688889,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061102014",
-        "eurostat:nuts_2021_id":"1006061102014"
+        "eurostat:nuts_2021_id":"1006061102014",
+        "pol-gus:code":"1006061102014"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"e7fc1a346eb65d91a96f5648154128d4",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752855,
-    "wof:lastmodified":1684354433,
+    "wof:lastmodified":1695879378,
     "wof:name":"Gmina Zamo\u015b\u0107",
     "wof:parent_id":102079715,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2200,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.25873,
     "lbl:longitude":21.97137,
     "lbl:max_zoom":15.0,
@@ -93,8 +102,10 @@
         "eurostat:nuts_2021_id":"1006181350605",
         "gn:id":760624,
         "gp:id":12617554,
+        "pol-gus:code":"1006181350605",
         "qs_pg:id":24024
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823721
     ],
@@ -114,7 +125,7 @@
         }
     ],
     "wof:id":1125324229,
-    "wof:lastmodified":1684354228,
+    "wof:lastmodified":1695879095,
     "wof:name":"Rani\u017c\u00f3w",
     "wof:parent_id":102079607,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.904313,
     "geom:longitude":22.099271,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.89494,
     "lbl:longitude":22.087451,
     "mps:latitude":52.89494,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201381404",
-        "eurostat:nuts_2021_id":"1006201381404"
+        "eurostat:nuts_2021_id":"1006201381404",
+        "pol-gus:code":"1006201381404"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820577
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477751677,
-    "wof:lastmodified":1684354370,
+    "wof:lastmodified":1695879313,
     "wof:name":"Szumowo",
     "wof:parent_id":102080103,
     "wof:placetype":"localadmin",

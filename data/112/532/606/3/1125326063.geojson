@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1908,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.65009,
     "lbl:longitude":17.16957,
     "lbl:max_zoom":16.0,
@@ -161,8 +170,10 @@
         "eurostat:nuts_2021_id":"1002301592202",
         "gn:id":3096999,
         "gp:id":24547969,
+        "pol-gus:code":"1002301592202",
         "qs_pg:id":502793
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044820,
     "wof:geom_alt":[
@@ -179,7 +190,7 @@
         }
     ],
     "wof:id":1125326063,
-    "wof:lastmodified":1684354234,
+    "wof:lastmodified":1695879123,
     "wof:name":"Gmina Jutrosin",
     "wof:parent_id":102079767,
     "wof:placetype":"localadmin",

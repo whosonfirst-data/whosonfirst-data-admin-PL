@@ -22,6 +22,15 @@
     "geom:latitude":53.707233,
     "geom:longitude":21.005743,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.707944,
     "lbl:longitude":21.005772,
     "mps:latitude":53.707944,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281561702",
-        "eurostat:nuts_2021_id":"1004281561702"
+        "eurostat:nuts_2021_id":"1004281561702",
+        "pol-gus:code":"1004281561702"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125919663
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752791,
-    "wof:lastmodified":1684354429,
+    "wof:lastmodified":1695879375,
     "wof:name":"D\u017awierzuty",
     "wof:parent_id":102080167,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":8488,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.755,
     "lbl:longitude":19.20547,
     "lbl:max_zoom":15.0,
@@ -182,8 +191,10 @@
         "eurostat:nuts_2021_id":"1004221420704",
         "gn:id":3088161,
         "gp:id":24547715,
+        "pol-gus:code":"1004221420704",
         "qs_pg:id":246668
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497051016,
     "wof:geom_alt":[
@@ -200,7 +211,7 @@
         }
     ],
     "wof:id":1125414391,
-    "wof:lastmodified":1684354337,
+    "wof:lastmodified":1695879279,
     "wof:name":"Gmina Prabuty",
     "wof:parent_id":102080159,
     "wof:placetype":"localadmin",

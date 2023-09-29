@@ -22,6 +22,15 @@
     "geom:latitude":52.002059,
     "geom:longitude":16.278213,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.983299,
     "lbl:longitude":16.260562,
     "mps:latitude":51.983299,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301592901",
-        "eurostat:nuts_2021_id":"1002301592901"
+        "eurostat:nuts_2021_id":"1002301592901",
+        "pol-gus:code":"1002301592901"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821651
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477752459,
-    "wof:lastmodified":1684354411,
+    "wof:lastmodified":1695879356,
     "wof:name":"Przem\u0119t",
     "wof:parent_id":102079867,
     "wof:placetype":"localadmin",

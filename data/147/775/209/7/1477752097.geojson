@@ -22,6 +22,15 @@
     "geom:latitude":52.762905,
     "geom:longitude":17.800669,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.755664,
     "lbl:longitude":17.800645,
     "mps:latitude":52.755664,
@@ -73,8 +82,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041671902",
-        "eurostat:nuts_2021_id":"1004041671902"
+        "eurostat:nuts_2021_id":"1004041671902",
+        "pol-gus:code":"1004041671902"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820489
     ],
@@ -90,7 +101,7 @@
         }
     ],
     "wof:id":1477752097,
-    "wof:lastmodified":1684354392,
+    "wof:lastmodified":1695879336,
     "wof:name":"G\u0105sawa",
     "wof:parent_id":102080017,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":51.406797,
     "geom:longitude":15.960954,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.399526,
     "lbl:longitude":15.960972,
     "mps:latitude":51.399526,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021021601",
-        "eurostat:nuts_2021_id":"1003021021601"
+        "eurostat:nuts_2021_id":"1003021021601",
+        "pol-gus:code":"1003021021601"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"d61ef4ef787135f5dab2a93d0566b4b7",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477752553,
-    "wof:lastmodified":1684354416,
+    "wof:lastmodified":1695879361,
     "wof:name":"Gmina Chocian\u00f3w",
     "wof:parent_id":102079741,
     "wof:placetype":"localadmin",

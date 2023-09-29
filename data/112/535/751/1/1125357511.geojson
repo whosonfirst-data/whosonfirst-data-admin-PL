@@ -23,6 +23,15 @@
     "geom:longitude":23.556957,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.920102,
     "lbl:longitude":23.548286,
     "lbl:max_zoom":18.0,
@@ -92,8 +101,10 @@
         "eg:gisco_id":"PL_1006061100313",
         "eurostat:nuts_2021_id":"1006061100313",
         "gp:id":12618520,
+        "pol-gus:code":"1006061100313",
         "qs_pg:id":1160716
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822673
     ],
@@ -113,7 +124,7 @@
         }
     ],
     "wof:id":1125357511,
-    "wof:lastmodified":1684354264,
+    "wof:lastmodified":1695879194,
     "wof:name":"Wojs\u0142awice",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",

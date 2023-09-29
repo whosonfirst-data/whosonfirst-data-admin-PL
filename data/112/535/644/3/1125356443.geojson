@@ -23,6 +23,15 @@
     "geom:longitude":19.364037,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.660923,
     "lbl:longitude":19.360957,
     "lbl:max_zoom":18.0,
@@ -221,8 +230,10 @@
         "eg:gisco_id":"PL_1005101150802",
         "eurostat:nuts_2021_id":"1005101150802",
         "gp:id":12618310,
+        "pol-gus:code":"1005101150802",
         "qs_pg:id":289321
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497046499,
     "wof:geom_alt":[
@@ -239,7 +250,7 @@
         }
     ],
     "wof:id":1125356443,
-    "wof:lastmodified":1684354263,
+    "wof:lastmodified":1695879191,
     "wof:name":"Gmina Pabianice",
     "wof:parent_id":102079823,
     "wof:placetype":"localadmin",

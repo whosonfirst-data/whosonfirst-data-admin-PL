@@ -22,6 +22,15 @@
     "geom:latitude":50.790421,
     "geom:longitude":21.418944,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.788037,
     "lbl:longitude":21.410544,
     "mps:latitude":50.788037,
@@ -55,8 +64,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005261530604",
-        "eurostat:nuts_2021_id":"1005261530604"
+        "eurostat:nuts_2021_id":"1005261530604",
+        "pol-gus:code":"1005261530604"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863541
     ],
@@ -72,7 +83,7 @@
         }
     ],
     "wof:id":1477752407,
-    "wof:lastmodified":1684354408,
+    "wof:lastmodified":1695879354,
     "wof:name":"Gmina Opat\u00f3w",
     "wof:parent_id":102079709,
     "wof:placetype":"localadmin",

@@ -23,6 +23,15 @@
     "geom:longitude":23.185537,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.600811,
     "lbl:longitude":23.256547,
     "lbl:max_zoom":18.0,
@@ -98,8 +107,10 @@
         "eg:gisco_id":"PL_1006061102001",
         "eurostat:nuts_2021_id":"1006061102001",
         "gp:id":12616607,
+        "pol-gus:code":"1006061102001",
         "qs_pg:id":1093269
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126005333
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125284343,
-    "wof:lastmodified":1684354154,
+    "wof:lastmodified":1695878973,
     "wof:name":"Adam\u00f3w",
     "wof:parent_id":102079715,
     "wof:placetype":"localadmin",

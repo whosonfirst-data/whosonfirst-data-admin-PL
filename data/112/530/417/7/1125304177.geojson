@@ -23,6 +23,15 @@
     "geom:longitude":18.781994,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.092482,
     "lbl:longitude":18.796526,
     "lbl:max_zoom":18.0,
@@ -230,8 +239,10 @@
         "eg:gisco_id":"PL_1004221421401",
         "eurostat:nuts_2021_id":"1004221421401",
         "gp:id":24547708,
+        "pol-gus:code":"1004221421401",
         "qs_pg:id":1103244
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043599,
     "wof:geom_alt":[
@@ -248,7 +259,7 @@
         }
     ],
     "wof:id":1125304177,
-    "wof:lastmodified":1684354198,
+    "wof:lastmodified":1695879023,
     "wof:name":"Gmina Tczew",
     "wof:parent_id":102080191,
     "wof:placetype":"localadmin",

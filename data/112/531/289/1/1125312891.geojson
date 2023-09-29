@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2599,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.87954,
     "lbl:longitude":21.41102,
     "lbl:max_zoom":15.0,
@@ -173,8 +182,10 @@
         "eurostat:nuts_2021_id":"1006181360302",
         "gn:id":775110,
         "gp:id":12617052,
+        "pol-gus:code":"1006181360302",
         "qs_pg:id":271059
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044108,
     "wof:geom_alt":[
@@ -191,7 +202,7 @@
         }
     ],
     "wof:id":1125312891,
-    "wof:lastmodified":1684354217,
+    "wof:lastmodified":1695879068,
     "wof:name":"Gmina Brzostek",
     "wof:parent_id":102079533,
     "wof:placetype":"localadmin",

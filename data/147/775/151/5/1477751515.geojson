@@ -22,6 +22,15 @@
     "geom:latitude":50.205437,
     "geom:longitude":18.664352,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.207659,
     "lbl:longitude":18.664356,
     "mps:latitude":50.207659,
@@ -127,8 +136,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241470501",
-        "eurostat:nuts_2021_id":"1001241470501"
+        "eurostat:nuts_2021_id":"1001241470501",
+        "pol-gus:code":"1001241470501"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101841637
     ],
@@ -144,7 +155,7 @@
         }
     ],
     "wof:id":1477751515,
-    "wof:lastmodified":1684354361,
+    "wof:lastmodified":1695879304,
     "wof:name":"Knur\u00f3w",
     "wof:parent_id":102079563,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.733006,
     "geom:longitude":19.699571,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.728791,
     "lbl:longitude":19.697725,
     "mps:latitude":52.728791,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142702702",
-        "eurostat:nuts_2021_id":"1007142702702"
+        "eurostat:nuts_2021_id":"1007142702702",
+        "pol-gus:code":"1007142702702"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863399
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125289009,
-    "wof:lastmodified":1684354168,
+    "wof:lastmodified":1695878985,
     "wof:name":"Gozdowo",
     "wof:parent_id":102080035,
     "wof:placetype":"localadmin",

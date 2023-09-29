@@ -22,6 +22,15 @@
     "geom:latitude":50.571119,
     "geom:longitude":16.521058,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.583241,
     "lbl:longitude":16.51027,
     "mps:latitude":50.583241,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021030804",
-        "eurostat:nuts_2021_id":"1003021030804"
+        "eurostat:nuts_2021_id":"1003021030804",
+        "pol-gus:code":"1003021030804"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"3249255fe34b0d19bcdd2110ecd51e3a",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751659,
-    "wof:lastmodified":1684354369,
+    "wof:lastmodified":1695879312,
     "wof:name":"Gmina Nowa Ruda",
     "wof:parent_id":102079559,
     "wof:placetype":"localadmin",

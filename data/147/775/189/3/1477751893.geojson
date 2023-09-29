@@ -22,6 +22,15 @@
     "geom:latitude":51.59484,
     "geom:longitude":15.350019,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.532562,
     "lbl:longitude":15.335975,
     "mps:latitude":51.532562,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002081141009",
-        "eurostat:nuts_2021_id":"1002081141009"
+        "eurostat:nuts_2021_id":"1002081141009",
+        "pol-gus:code":"1002081141009"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"d7ad5a456d241866c309e73d35d797c2",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477751893,
-    "wof:lastmodified":1684354381,
+    "wof:lastmodified":1695879325,
     "wof:name":"Gmina \u017baga\u0144",
     "wof:parent_id":102079759,
     "wof:placetype":"localadmin",

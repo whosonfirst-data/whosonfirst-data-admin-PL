@@ -22,6 +22,15 @@
     "geom:latitude":49.580221,
     "geom:longitude":19.155035,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.58492,
     "lbl:longitude":19.153728,
     "mps:latitude":49.58492,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241441715",
-        "eurostat:nuts_2021_id":"1001241441715"
+        "eurostat:nuts_2021_id":"1001241441715",
+        "pol-gus:code":"1001241441715"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101842291
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752853,
-    "wof:lastmodified":1684354433,
+    "wof:lastmodified":1695879378,
     "wof:name":"W\u0119gierska G\u00f3rka",
     "wof:parent_id":102079411,
     "wof:placetype":"localadmin",

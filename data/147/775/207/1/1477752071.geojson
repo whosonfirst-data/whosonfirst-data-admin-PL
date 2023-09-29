@@ -22,6 +22,15 @@
     "geom:latitude":52.916858,
     "geom:longitude":21.93305,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.913228,
     "lbl:longitude":21.931203,
     "mps:latitude":52.913228,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142261608",
-        "eurostat:nuts_2021_id":"1007142261608"
+        "eurostat:nuts_2021_id":"1007142261608",
+        "pol-gus:code":"1007142261608"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864749
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752071,
-    "wof:lastmodified":1684354391,
+    "wof:lastmodified":1695879335,
     "wof:name":"Stary Luboty\u0144",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",

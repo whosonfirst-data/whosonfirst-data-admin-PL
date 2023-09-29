@@ -22,6 +22,15 @@
     "geom:latitude":50.790478,
     "geom:longitude":18.002349,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.799042,
     "lbl:longitude":18.011047,
     "mps:latitude":50.799042,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161320905",
-        "eurostat:nuts_2021_id":"1003161320905"
+        "eurostat:nuts_2021_id":"1003161320905",
+        "pol-gus:code":"1003161320905"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126008609
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752589,
-    "wof:lastmodified":1684354417,
+    "wof:lastmodified":1695879363,
     "wof:name":"\u0141ubniany",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",

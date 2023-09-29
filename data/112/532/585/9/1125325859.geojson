@@ -23,6 +23,15 @@
     "geom:longitude":18.214653,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.975277,
     "lbl:longitude":18.212213,
     "lbl:max_zoom":18.0,
@@ -182,8 +191,10 @@
         "eg:gisco_id":"PL_1003161320402",
         "eurostat:nuts_2021_id":"1003161320402",
         "gp:id":24548652,
+        "pol-gus:code":"1003161320402",
         "qs_pg:id":501968
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044809,
     "wof:geom_alt":[
@@ -200,7 +211,7 @@
         }
     ],
     "wof:id":1125325859,
-    "wof:lastmodified":1684354234,
+    "wof:lastmodified":1695879123,
     "wof:name":"Gmina Kluczbork",
     "wof:parent_id":102079677,
     "wof:placetype":"localadmin",

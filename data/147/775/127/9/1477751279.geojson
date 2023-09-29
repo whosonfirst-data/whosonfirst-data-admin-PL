@@ -22,6 +22,15 @@
     "geom:latitude":50.331567,
     "geom:longitude":20.21946,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.325475,
     "lbl:longitude":20.217835,
     "mps:latitude":50.325475,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121200806",
-        "eurostat:nuts_2021_id":"1001121200806"
+        "eurostat:nuts_2021_id":"1001121200806",
+        "pol-gus:code":"1001121200806"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126006365
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477751279,
-    "wof:lastmodified":1684354350,
+    "wof:lastmodified":1695879292,
     "wof:name":"Rac\u0142awice",
     "wof:parent_id":102079579,
     "wof:placetype":"localadmin",

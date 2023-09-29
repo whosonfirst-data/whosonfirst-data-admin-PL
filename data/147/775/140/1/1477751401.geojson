@@ -22,6 +22,15 @@
     "geom:latitude":50.372172,
     "geom:longitude":21.037835,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.374597,
     "lbl:longitude":21.046683,
     "mps:latitude":50.374597,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005261530104",
-        "eurostat:nuts_2021_id":"1005261530104"
+        "eurostat:nuts_2021_id":"1005261530104",
+        "pol-gus:code":"1005261530104"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"155a2bd68cc6a170808ac37c91fb837b",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751401,
-    "wof:lastmodified":1684354356,
+    "wof:lastmodified":1695879298,
     "wof:name":"Gmina Pacan\u00f3w",
     "wof:parent_id":102079615,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":790,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.0016,
     "lbl:longitude":21.71474,
     "lbl:max_zoom":17.0,
@@ -108,8 +117,10 @@
         "eurostat:nuts_2021_id":"1005261530607",
         "gn:id":757050,
         "gp:id":12618120,
+        "pol-gus:code":"1005261530607",
         "qs_pg:id":487642
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864473
     ],
@@ -129,7 +140,7 @@
         }
     ],
     "wof:id":1125300507,
-    "wof:lastmodified":1684354192,
+    "wof:lastmodified":1695879016,
     "wof:name":"Tar\u0142\u00f3w",
     "wof:parent_id":102079709,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3904,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.98197,
     "lbl:longitude":20.83394,
     "lbl:max_zoom":15.0,
@@ -165,8 +174,10 @@
         "eurostat:nuts_2021_id":"1007141301806",
         "gn:id":757071,
         "gp:id":24548193,
+        "pol-gus:code":"1007141301806",
         "qs_pg:id":270658
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043440,
     "wof:geom_alt":[
@@ -183,7 +194,7 @@
         }
     ],
     "wof:id":1125301309,
-    "wof:lastmodified":1684354194,
+    "wof:lastmodified":1695879018,
     "wof:name":"Gmina Tarczyn",
     "wof:parent_id":102079911,
     "wof:placetype":"localadmin",

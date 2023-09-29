@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4264,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.03384,
     "lbl:longitude":17.14743,
     "lbl:max_zoom":15.0,
@@ -155,8 +164,10 @@
         "eurostat:nuts_2021_id":"1003021042308",
         "gn:id":3086106,
         "gp:id":12618839,
+        "pol-gus:code":"1003021042308",
         "qs_pg:id":1019077
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497048839,
     "wof:geom_alt":[
@@ -173,7 +184,7 @@
         }
     ],
     "wof:id":1125393289,
-    "wof:lastmodified":1684354312,
+    "wof:lastmodified":1695879252,
     "wof:name":"Gmina Siechnice",
     "wof:parent_id":102079685,
     "wof:placetype":"localadmin",

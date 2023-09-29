@@ -22,6 +22,15 @@
     "geom:latitude":49.713825,
     "geom:longitude":20.41384,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.705583,
     "lbl:longitude":20.424282,
     "mps:latitude":49.705583,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121220701",
-        "eurostat:nuts_2021_id":"1001121220701"
+        "eurostat:nuts_2021_id":"1001121220701",
+        "pol-gus:code":"1001121220701"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"f34aa90e50bc31b949ea11e10e548066",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751753,
-    "wof:lastmodified":1684354374,
+    "wof:lastmodified":1695879317,
     "wof:name":"Gmina Limanowa",
     "wof:parent_id":102079423,
     "wof:placetype":"localadmin",

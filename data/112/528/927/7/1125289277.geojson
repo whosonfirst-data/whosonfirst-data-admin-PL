@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":670,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.26816,
     "lbl:longitude":22.58394,
     "lbl:max_zoom":17.0,
@@ -105,8 +114,10 @@
         "eurostat:nuts_2021_id":"1007142712607",
         "gn:id":761145,
         "gp:id":12618486,
+        "pol-gus:code":"1007142712607",
         "qs_pg:id":24226
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865623
     ],
@@ -126,7 +137,7 @@
         }
     ],
     "wof:id":1125289277,
-    "wof:lastmodified":1684354171,
+    "wof:lastmodified":1695878989,
     "wof:name":"Przesmyki",
     "wof:parent_id":102079979,
     "wof:placetype":"localadmin",

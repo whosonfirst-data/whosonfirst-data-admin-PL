@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1100,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.47741,
     "lbl:longitude":22.44382,
     "lbl:max_zoom":16.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1006181332104",
         "gn:id":763244,
         "gp:id":24548368,
+        "pol-gus:code":"1006181332104",
         "qs_pg:id":238821
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865697
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125411629,
-    "wof:lastmodified":1684354335,
+    "wof:lastmodified":1695879276,
     "wof:name":"Olszanica",
     "wof:parent_id":102079415,
     "wof:placetype":"localadmin",

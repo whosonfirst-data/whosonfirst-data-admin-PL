@@ -22,6 +22,15 @@
     "geom:latitude":53.641812,
     "geom:longitude":18.689786,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.644817,
     "lbl:longitude":18.691424,
     "mps:latitude":53.644817,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041681406",
-        "eurostat:nuts_2021_id":"1004041681406"
+        "eurostat:nuts_2021_id":"1004041681406",
+        "pol-gus:code":"1004041681406"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"0a4ac9be23ddda811f83a6d8b638e4df",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751223,
-    "wof:lastmodified":1684354347,
+    "wof:lastmodified":1695879288,
     "wof:name":"Gmina Nowe",
     "wof:parent_id":102080137,
     "wof:placetype":"localadmin",

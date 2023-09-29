@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1901,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.40146,
     "lbl:longitude":22.65063,
     "lbl:max_zoom":16.0,
@@ -97,8 +106,10 @@
         "eurostat:nuts_2021_id":"1006061100204",
         "gn:id":775888,
         "gp:id":12617703,
+        "pol-gus:code":"1006061100204",
         "qs_pg:id":24038
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863919
     ],
@@ -118,7 +129,7 @@
         }
     ],
     "wof:id":1125288857,
-    "wof:lastmodified":1684354166,
+    "wof:lastmodified":1695878983,
     "wof:name":"Biszcza",
     "wof:parent_id":102079699,
     "wof:placetype":"localadmin",

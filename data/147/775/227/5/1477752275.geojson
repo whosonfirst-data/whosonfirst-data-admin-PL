@@ -22,6 +22,15 @@
     "geom:latitude":51.555819,
     "geom:longitude":15.490983,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.550259,
     "lbl:longitude":15.457737,
     "mps:latitude":51.550259,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002081141005",
-        "eurostat:nuts_2021_id":"1002081141005"
+        "eurostat:nuts_2021_id":"1002081141005",
+        "pol-gus:code":"1002081141005"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"9311d0338b91cf8f7811cd18a926ad97",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477752275,
-    "wof:lastmodified":1684354401,
+    "wof:lastmodified":1695879346,
     "wof:name":"Gmina Ma\u0142omice",
     "wof:parent_id":102079759,
     "wof:placetype":"localadmin",

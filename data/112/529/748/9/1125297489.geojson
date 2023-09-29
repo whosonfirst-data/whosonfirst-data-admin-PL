@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":29231,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.69868,
     "lbl:longitude":17.43738,
     "lbl:max_zoom":14.0,
@@ -182,8 +191,10 @@
         "eurostat:nuts_2021_id":"1002301571204",
         "gn:id":3094625,
         "gp:id":24548100,
+        "pol-gus:code":"1002301571204",
         "qs_pg:id":1200732
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043228,
     "wof:geom_alt":[
@@ -200,7 +211,7 @@
         }
     ],
     "wof:id":1125297489,
-    "wof:lastmodified":1684354190,
+    "wof:lastmodified":1695879012,
     "wof:name":"Gmina Krotoszyn",
     "wof:parent_id":102079811,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":53.785474,
     "geom:longitude":18.208469,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.792268,
     "lbl:longitude":18.210786,
     "mps:latitude":53.792268,
@@ -94,8 +103,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221421307",
-        "eurostat:nuts_2021_id":"1004221421307"
+        "eurostat:nuts_2021_id":"1004221421307",
+        "pol-gus:code":"1004221421307"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126011023
     ],
@@ -111,7 +122,7 @@
         }
     ],
     "wof:id":1477751955,
-    "wof:lastmodified":1684354384,
+    "wof:lastmodified":1695879328,
     "wof:name":"Osieczna",
     "wof:parent_id":102080183,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1736,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.11573,
     "lbl:longitude":16.3518,
     "lbl:max_zoom":16.0,
@@ -154,8 +163,10 @@
         "eurostat:nuts_2021_id":"1002301590505",
         "gn:id":3082299,
         "gp:id":24547602,
+        "pol-gus:code":"1002301590505",
         "qs_pg:id":59429
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497050020,
     "wof:geom_alt":[
@@ -172,7 +183,7 @@
         }
     ],
     "wof:id":1125410521,
-    "wof:lastmodified":1684354331,
+    "wof:lastmodified":1695879272,
     "wof:name":"Gmina Wielichowo",
     "wof:parent_id":102079879,
     "wof:placetype":"localadmin",

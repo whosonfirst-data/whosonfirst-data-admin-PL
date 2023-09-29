@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":750,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.08773,
     "lbl:longitude":21.48325,
     "lbl:max_zoom":17.0,
@@ -112,8 +121,10 @@
         "eurostat:nuts_2021_id":"1007142270905",
         "gn:id":759275,
         "gp:id":12616604,
+        "pol-gus:code":"1007142270905",
         "qs_pg:id":23868
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865495
     ],
@@ -133,7 +144,7 @@
         }
     ],
     "wof:id":1125288509,
-    "wof:lastmodified":1684354160,
+    "wof:lastmodified":1695878978,
     "wof:name":"Sienno",
     "wof:parent_id":102079757,
     "wof:placetype":"localadmin",

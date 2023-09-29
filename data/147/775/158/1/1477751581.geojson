@@ -22,6 +22,15 @@
     "geom:latitude":49.910067,
     "geom:longitude":19.13888,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.90349,
     "lbl:longitude":19.137724,
     "mps:latitude":49.90349,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241440209",
-        "eurostat:nuts_2021_id":"1001241440209"
+        "eurostat:nuts_2021_id":"1001241440209",
+        "pol-gus:code":"1001241440209"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"cb3a4bd765a59e363c6707664b365a31",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751581,
-    "wof:lastmodified":1684354365,
+    "wof:lastmodified":1695879308,
     "wof:name":"Gmina Wilamowice",
     "wof:parent_id":102079427,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1900,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.51245,
     "lbl:longitude":16.7457,
     "lbl:max_zoom":16.0,
@@ -101,8 +110,10 @@
         "eurostat:nuts_2021_id":"1002301612113",
         "gn:id":3087045,
         "gp:id":12618349,
+        "pol-gus:code":"1002301612113",
         "qs_pg:id":1078187
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1175613149
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125278781,
-    "wof:lastmodified":1684354147,
+    "wof:lastmodified":1695878964,
     "wof:name":"Rokietnica",
     "wof:parent_id":102079955,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.928959,
     "geom:longitude":17.305547,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.876063,
     "lbl:longitude":17.283005,
     "mps:latitude":50.876063,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021041504",
-        "eurostat:nuts_2021_id":"1003021041504"
+        "eurostat:nuts_2021_id":"1003021041504",
+        "pol-gus:code":"1003021041504"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"39a5b2990fa088b0894c2e1ab6bd4de3",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752091,
-    "wof:lastmodified":1684354392,
+    "wof:lastmodified":1695879336,
     "wof:name":"Gmina O\u0142awa",
     "wof:parent_id":102079651,
     "wof:placetype":"localadmin",

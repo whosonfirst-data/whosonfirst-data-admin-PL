@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1473,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.26874,
     "lbl:longitude":15.6817,
     "lbl:max_zoom":16.0,
@@ -93,8 +102,10 @@
         "eurostat:nuts_2021_id":"1002081140804",
         "gn:id":3083847,
         "gp:id":12618144,
+        "pol-gus:code":"1002081140804",
         "qs_pg:id":1148900
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820169
     ],
@@ -114,7 +125,7 @@
         }
     ],
     "wof:id":1125350503,
-    "wof:lastmodified":1684354257,
+    "wof:lastmodified":1695879179,
     "wof:name":"Szczaniec",
     "wof:parent_id":102079887,
     "wof:placetype":"localadmin",

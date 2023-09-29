@@ -22,6 +22,15 @@
     "geom:latitude":52.799173,
     "geom:longitude":15.566219,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.806966,
     "lbl:longitude":15.568049,
     "mps:latitude":52.806966,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002081130605",
-        "eurostat:nuts_2021_id":"1002081130605"
+        "eurostat:nuts_2021_id":"1002081130605",
+        "pol-gus:code":"1002081130605"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820481
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751597,
-    "wof:lastmodified":1684354365,
+    "wof:lastmodified":1695879308,
     "wof:name":"Zwierzyn",
     "wof:parent_id":102080011,
     "wof:placetype":"localadmin",

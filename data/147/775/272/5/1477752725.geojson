@@ -22,6 +22,15 @@
     "geom:latitude":51.340575,
     "geom:longitude":20.610841,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.315183,
     "lbl:longitude":20.562582,
     "mps:latitude":51.315183,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142272306",
-        "eurostat:nuts_2021_id":"1007142272306"
+        "eurostat:nuts_2021_id":"1007142272306",
+        "pol-gus:code":"1007142272306"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"0dea8df5deeaca54cb53075f99d8ad24",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752725,
-    "wof:lastmodified":1684354424,
+    "wof:lastmodified":1695879371,
     "wof:name":"Gmina Przysucha",
     "wof:parent_id":102079797,
     "wof:placetype":"localadmin",

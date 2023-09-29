@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":638,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.54128,
     "lbl:longitude":20.08867,
     "lbl:max_zoom":17.0,
@@ -110,8 +119,10 @@
         "eurostat:nuts_2021_id":"1004281561405",
         "gn:id":772220,
         "gp:id":12616628,
+        "pol-gus:code":"1004281561405",
         "qs_pg:id":396902
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126013415
     ],
@@ -131,7 +142,7 @@
         }
     ],
     "wof:id":1125399461,
-    "wof:lastmodified":1684354321,
+    "wof:lastmodified":1695879261,
     "wof:name":"Gietrzwa\u0142d",
     "wof:parent_id":102080207,
     "wof:placetype":"localadmin",

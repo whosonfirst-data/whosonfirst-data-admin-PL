@@ -22,6 +22,15 @@
     "geom:latitude":51.380865,
     "geom:longitude":20.952974,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.39012,
     "lbl:longitude":20.933916,
     "mps:latitude":51.39012,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142272512",
-        "eurostat:nuts_2021_id":"1007142272512"
+        "eurostat:nuts_2021_id":"1007142272512",
+        "pol-gus:code":"1007142272512"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125853819
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477751695,
-    "wof:lastmodified":1684354371,
+    "wof:lastmodified":1695879314,
     "wof:name":"Wolan\u00f3w",
     "wof:parent_id":102079805,
     "wof:placetype":"localadmin",

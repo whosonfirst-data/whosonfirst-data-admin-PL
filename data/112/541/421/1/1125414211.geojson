@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3347,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.43351,
     "lbl:longitude":20.61207,
     "lbl:max_zoom":15.0,
@@ -173,8 +182,10 @@
         "eurostat:nuts_2021_id":"1007141301406",
         "gn:id":754069,
         "gp:id":24548204,
+        "pol-gus:code":"1007141301406",
         "qs_pg:id":246096
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497050967,
     "wof:geom_alt":[
@@ -191,7 +202,7 @@
         }
     ],
     "wof:id":1125414211,
-    "wof:lastmodified":1684354337,
+    "wof:lastmodified":1695879278,
     "wof:name":"Gmina Zakroczym",
     "wof:parent_id":102080001,
     "wof:placetype":"localadmin",

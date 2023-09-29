@@ -22,6 +22,15 @@
     "geom:latitude":50.95348,
     "geom:longitude":19.495846,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.9478,
     "lbl:longitude":19.504398,
     "mps:latitude":50.9478,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101171203",
-        "eurostat:nuts_2021_id":"1005101171203"
+        "eurostat:nuts_2021_id":"1005101171203",
+        "pol-gus:code":"1005101171203"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101841793
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477751899,
-    "wof:lastmodified":1684354382,
+    "wof:lastmodified":1695879325,
     "wof:name":"Gidle",
     "wof:parent_id":102079711,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":15403,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.18463,
     "lbl:longitude":18.60466,
     "lbl:max_zoom":15.0,
@@ -200,8 +209,10 @@
         "eurostat:nuts_2021_id":"1004041061501",
         "gn:id":3101787,
         "gp:id":24547744,
+        "pol-gus:code":"1004041061501",
         "qs_pg:id":1255111
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819109
     ],
@@ -221,7 +232,7 @@
         }
     ],
     "wof:id":1125340863,
-    "wof:lastmodified":1684354249,
+    "wof:lastmodified":1695879157,
     "wof:name":"Gmina Che\u0142m\u017ca",
     "wof:parent_id":102080063,
     "wof:placetype":"localadmin",

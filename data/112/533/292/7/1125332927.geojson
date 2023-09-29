@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":6100,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.71555,
     "lbl:longitude":21.80941,
     "lbl:max_zoom":15.0,
@@ -92,8 +101,10 @@
         "eurostat:nuts_2021_id":"1006181330705",
         "gn:id":768136,
         "gp:id":12617502,
+        "pol-gus:code":"1006181330705",
         "qs_pg:id":1309942
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863431
     ],
@@ -113,7 +124,7 @@
         }
     ],
     "wof:id":1125332927,
-    "wof:lastmodified":1684354243,
+    "wof:lastmodified":1695879146,
     "wof:name":"Korczyna",
     "wof:parent_id":102079455,
     "wof:placetype":"localadmin",

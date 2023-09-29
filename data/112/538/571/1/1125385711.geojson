@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2000,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.65588,
     "lbl:longitude":21.45587,
     "lbl:max_zoom":15.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1005261530903",
         "gn:id":769059,
         "gp:id":12616578,
+        "pol-gus:code":"1005261530903",
         "qs_pg:id":1015814
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822819
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125385711,
-    "wof:lastmodified":1684354303,
+    "wof:lastmodified":1695879243,
     "wof:name":"Klimont\u00f3w",
     "wof:parent_id":102079681,
     "wof:placetype":"localadmin",

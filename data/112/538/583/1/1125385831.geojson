@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1000,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.71576,
     "lbl:longitude":20.34428,
     "lbl:max_zoom":16.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1005101191303",
         "gn:id":774186,
         "gp:id":12618219,
+        "pol-gus:code":"1005101191303",
         "qs_pg:id":1015830
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864531
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125385831,
-    "wof:lastmodified":1684354305,
+    "wof:lastmodified":1695879246,
     "wof:name":"Ciel\u0105dz",
     "wof:parent_id":102079849,
     "wof:placetype":"localadmin",

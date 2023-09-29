@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":6906,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.89992,
     "lbl:longitude":16.74441,
     "lbl:max_zoom":15.0,
@@ -170,8 +179,10 @@
         "eurostat:nuts_2021_id":"1003021042307",
         "gn:id":3085252,
         "gp:id":24547746,
+        "pol-gus:code":"1003021042307",
         "qs_pg:id":1200431
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042887,
     "wof:geom_alt":[
@@ -188,7 +199,7 @@
         }
     ],
     "wof:id":1125290271,
-    "wof:lastmodified":1684354175,
+    "wof:lastmodified":1695878993,
     "wof:name":"Gmina Sob\u00f3tka",
     "wof:parent_id":102079685,
     "wof:placetype":"localadmin",

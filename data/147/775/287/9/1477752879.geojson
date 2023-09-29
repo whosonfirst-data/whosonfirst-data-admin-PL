@@ -22,6 +22,15 @@
     "geom:latitude":49.653473,
     "geom:longitude":20.678584,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.648931,
     "lbl:longitude":20.63399,
     "mps:latitude":49.648931,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121221002",
-        "eurostat:nuts_2021_id":"1001121221002"
+        "eurostat:nuts_2021_id":"1001121221002",
+        "pol-gus:code":"1001121221002"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125992813
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752879,
-    "wof:lastmodified":1684354434,
+    "wof:lastmodified":1695879380,
     "wof:name":"Che\u0142miec",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",

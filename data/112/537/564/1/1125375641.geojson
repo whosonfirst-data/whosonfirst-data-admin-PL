@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4166,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.30957,
     "lbl:longitude":21.07444,
     "lbl:max_zoom":15.0,
@@ -156,8 +165,10 @@
         "eurostat:nuts_2021_id":"1001121240407",
         "gn:id":757388,
         "gp:id":12617975,
+        "pol-gus:code":"1001121240407",
         "qs_pg:id":998971
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047721,
     "wof:geom_alt":[
@@ -174,7 +185,7 @@
         }
     ],
     "wof:id":1125375641,
-    "wof:lastmodified":1684354291,
+    "wof:lastmodified":1695879230,
     "wof:name":"Gmina Szczucin",
     "wof:parent_id":102079567,
     "wof:placetype":"localadmin",

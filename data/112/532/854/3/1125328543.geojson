@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":983,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.85494,
     "lbl:longitude":22.3346,
     "lbl:max_zoom":17.0,
@@ -101,8 +110,10 @@
         "eurostat:nuts_2021_id":"1006061120706",
         "gn:id":757472,
         "gp:id":12617756,
+        "pol-gus:code":"1006061120706",
         "qs_pg:id":528100
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864135
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125328543,
-    "wof:lastmodified":1684354238,
+    "wof:lastmodified":1695879138,
     "wof:name":"Szastarka",
     "wof:parent_id":102079721,
     "wof:placetype":"localadmin",

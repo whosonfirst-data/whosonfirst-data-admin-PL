@@ -22,6 +22,15 @@
     "geom:latitude":52.909007,
     "geom:longitude":18.106696,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.895716,
     "lbl:longitude":18.115266,
     "mps:latitude":52.895716,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041670709",
-        "eurostat:nuts_2021_id":"1004041670709"
+        "eurostat:nuts_2021_id":"1004041670709",
+        "pol-gus:code":"1004041670709"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819001
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752375,
-    "wof:lastmodified":1684354406,
+    "wof:lastmodified":1695879352,
     "wof:name":"Z\u0142otniki Kujawskie",
     "wof:parent_id":102080013,
     "wof:placetype":"localadmin",

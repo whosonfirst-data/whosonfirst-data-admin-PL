@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2676,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.44504,
     "lbl:longitude":19.12934,
     "lbl:max_zoom":15.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1001241500105",
         "gn:id":3091894,
         "gp:id":12617857,
+        "pol-gus:code":"1001241500105",
         "qs_pg:id":332016
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822461
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125292601,
-    "wof:lastmodified":1684354180,
+    "wof:lastmodified":1695878999,
     "wof:name":"Mierz\u0119cice",
     "wof:parent_id":102079527,
     "wof:placetype":"localadmin",

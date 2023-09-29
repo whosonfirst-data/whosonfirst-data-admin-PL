@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":14209,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.27373,
     "lbl:longitude":15.93661,
     "lbl:max_zoom":15.0,
@@ -207,8 +216,10 @@
         "eurostat:nuts_2021_id":"1003021020901",
         "gn:id":3101660,
         "gp:id":24547505,
+        "pol-gus:code":"1003021020901",
         "qs_pg:id":1200360
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822533
     ],
@@ -228,7 +239,7 @@
         }
     ],
     "wof:id":1125282675,
-    "wof:lastmodified":1684354152,
+    "wof:lastmodified":1695878970,
     "wof:name":"Gmina Chojn\u00f3w",
     "wof:parent_id":102079691,
     "wof:placetype":"localadmin",

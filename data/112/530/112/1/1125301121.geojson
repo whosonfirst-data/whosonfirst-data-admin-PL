@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":8057,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.14534,
     "lbl:longitude":19.18599,
     "lbl:max_zoom":15.0,
@@ -159,8 +168,10 @@
         "eurostat:nuts_2021_id":"1001241511402",
         "gn:id":3097886,
         "gp:id":12618681,
+        "pol-gus:code":"1001241511402",
         "qs_pg:id":270393
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824781
     ],
@@ -180,7 +191,7 @@
         }
     ],
     "wof:id":1125301121,
-    "wof:lastmodified":1684354193,
+    "wof:lastmodified":1695879017,
     "wof:name":"Imielin",
     "wof:parent_id":102079475,
     "wof:placetype":"localadmin",

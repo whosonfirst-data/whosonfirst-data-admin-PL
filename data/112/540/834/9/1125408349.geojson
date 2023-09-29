@@ -23,6 +23,15 @@
     "geom:longitude":21.351782,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.186352,
     "lbl:longitude":21.27983,
     "lbl:max_zoom":18.0,
@@ -98,8 +107,10 @@
         "eg:gisco_id":"PL_1007141291708",
         "eurostat:nuts_2021_id":"1007141291708",
         "gp:id":12618037,
+        "pol-gus:code":"1007141291708",
         "qs_pg:id":227604
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125932487
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125408349,
-    "wof:lastmodified":1684354328,
+    "wof:lastmodified":1695879269,
     "wof:name":"Wi\u0105zowna",
     "wof:parent_id":102079931,
     "wof:placetype":"localadmin",

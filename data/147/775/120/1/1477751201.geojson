@@ -22,6 +22,15 @@
     "geom:latitude":54.379479,
     "geom:longitude":19.889775,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.374999,
     "lbl:longitude":19.90654,
     "mps:latitude":54.374999,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281540202",
-        "eurostat:nuts_2021_id":"1004281540202"
+        "eurostat:nuts_2021_id":"1004281540202",
+        "pol-gus:code":"1004281540202"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864669
     ],
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751201,
-    "wof:lastmodified":1684354346,
+    "wof:lastmodified":1695879287,
     "wof:name":"Gmina Braniewo",
     "wof:parent_id":102080237,
     "wof:placetype":"localadmin",

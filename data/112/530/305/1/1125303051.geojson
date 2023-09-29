@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1700,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.7578,
     "lbl:longitude":14.78529,
     "lbl:max_zoom":16.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1002321660406",
         "gn:id":3087905,
         "gp:id":12617009,
+        "pol-gus:code":"1002321660406",
         "qs_pg:id":497821
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820595
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125303051,
-    "wof:lastmodified":1684354195,
+    "wof:lastmodified":1695879019,
     "wof:name":"Przybiern\u00f3w",
     "wof:parent_id":102080123,
     "wof:placetype":"localadmin",

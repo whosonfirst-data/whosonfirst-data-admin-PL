@@ -22,6 +22,15 @@
     "geom:latitude":50.26335,
     "geom:longitude":20.209054,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.268547,
     "lbl:longitude":20.207899,
     "mps:latitude":50.268547,
@@ -55,8 +64,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121201406",
-        "eurostat:nuts_2021_id":"1001121201406"
+        "eurostat:nuts_2021_id":"1001121201406",
+        "pol-gus:code":"1001121201406"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126006399
     ],
@@ -72,7 +83,7 @@
         }
     ],
     "wof:id":1477752411,
-    "wof:lastmodified":1684354408,
+    "wof:lastmodified":1695879354,
     "wof:name":"Radziemice",
     "wof:parent_id":102079545,
     "wof:placetype":"localadmin",

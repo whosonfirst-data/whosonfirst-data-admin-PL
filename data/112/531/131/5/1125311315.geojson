@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2980,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.97335,
     "lbl:longitude":17.09464,
     "lbl:max_zoom":15.0,
@@ -160,8 +169,10 @@
         "eurostat:nuts_2021_id":"1002301600104",
         "gn:id":3092312,
         "gp:id":24547904,
+        "pol-gus:code":"1002301600104",
         "qs_pg:id":206260
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044003,
     "wof:geom_alt":[
@@ -178,7 +189,7 @@
         }
     ],
     "wof:id":1125311315,
-    "wof:lastmodified":1684354215,
+    "wof:lastmodified":1695879058,
     "wof:name":"Gmina Margonin",
     "wof:parent_id":102080021,
     "wof:placetype":"localadmin",

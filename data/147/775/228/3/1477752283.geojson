@@ -22,6 +22,15 @@
     "geom:latitude":50.753441,
     "geom:longitude":18.111105,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.742391,
     "lbl:longitude":18.121555,
     "mps:latitude":50.742391,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161320913",
-        "eurostat:nuts_2021_id":"1003161320913"
+        "eurostat:nuts_2021_id":"1003161320913",
+        "pol-gus:code":"1003161320913"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101825133
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752283,
-    "wof:lastmodified":1684354402,
+    "wof:lastmodified":1695879347,
     "wof:name":"Turawa",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",

@@ -23,6 +23,15 @@
     "geom:longitude":19.952069,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.71893,
     "lbl:longitude":19.978294,
     "lbl:max_zoom":18.0,
@@ -95,8 +104,10 @@
         "eg:gisco_id":"PL_1001121200902",
         "eurostat:nuts_2021_id":"1001121200902",
         "gp:id":12618843,
+        "pol-gus:code":"1001121200902",
         "qs_pg:id":43789
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101863257
     ],
@@ -116,7 +127,7 @@
         }
     ],
     "wof:id":1125326963,
-    "wof:lastmodified":1684354236,
+    "wof:lastmodified":1695879134,
     "wof:name":"Lubie\u0144",
     "wof:parent_id":102079441,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.708505,
     "geom:longitude":19.101635,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.705075,
     "lbl:longitude":19.112366,
     "mps:latitude":52.705075,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041081807",
-        "eurostat:nuts_2021_id":"1004041081807"
+        "eurostat:nuts_2021_id":"1004041081807",
+        "pol-gus:code":"1004041081807"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863689
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125408957,
-    "wof:lastmodified":1684354328,
+    "wof:lastmodified":1695879269,
     "wof:name":"Fabianki",
     "wof:parent_id":102079997,
     "wof:placetype":"localadmin",

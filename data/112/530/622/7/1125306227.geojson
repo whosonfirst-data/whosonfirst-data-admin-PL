@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1400,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.08545,
     "lbl:longitude":21.39622,
     "lbl:max_zoom":16.0,
@@ -92,8 +101,10 @@
         "eurostat:nuts_2021_id":"1006181360307",
         "gn:id":752968,
         "gp:id":12617808,
+        "pol-gus:code":"1006181360307",
         "qs_pg:id":1192032
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864895
     ],
@@ -113,7 +124,7 @@
         }
     ],
     "wof:id":1125306227,
-    "wof:lastmodified":1684354208,
+    "wof:lastmodified":1695879036,
     "wof:name":"\u017byrak\u00f3w",
     "wof:parent_id":102079533,
     "wof:placetype":"localadmin",

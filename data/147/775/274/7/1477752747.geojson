@@ -22,6 +22,15 @@
     "geom:latitude":50.932156,
     "geom:longitude":19.164566,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.940184,
     "lbl:longitude":19.15631,
     "mps:latitude":50.940184,
@@ -55,8 +64,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241460411",
-        "eurostat:nuts_2021_id":"1001241460411"
+        "eurostat:nuts_2021_id":"1001241460411",
+        "pol-gus:code":"1001241460411"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126006905
     ],
@@ -72,7 +83,7 @@
         }
     ],
     "wof:id":1477752747,
-    "wof:lastmodified":1684354426,
+    "wof:lastmodified":1695879373,
     "wof:name":"Mykan\u00f3w",
     "wof:parent_id":102079663,
     "wof:placetype":"localadmin",

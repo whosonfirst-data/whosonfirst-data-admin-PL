@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1700,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.59781,
     "lbl:longitude":19.92225,
     "lbl:max_zoom":16.0,
@@ -133,8 +142,10 @@
         "eurostat:nuts_2021_id":"1005101171610",
         "gn:id":3082854,
         "gp:id":12616880,
+        "pol-gus:code":"1005101171610",
         "qs_pg:id":23892
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821577
     ],
@@ -154,7 +165,7 @@
         }
     ],
     "wof:id":1125288547,
-    "wof:lastmodified":1684354161,
+    "wof:lastmodified":1695878979,
     "wof:name":"Ujazd",
     "wof:parent_id":102079831,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":850,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.48053,
     "lbl:longitude":14.95188,
     "lbl:max_zoom":17.0,
@@ -99,8 +108,10 @@
         "eurostat:nuts_2021_id":"1002081141107",
         "gn:id":3087917,
         "gp:id":12618229,
+        "pol-gus:code":"1002081141107",
         "qs_pg:id":1148916
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101911749
     ],
@@ -120,7 +131,7 @@
         }
     ],
     "wof:id":1125350601,
-    "wof:lastmodified":1684354257,
+    "wof:lastmodified":1695879181,
     "wof:name":"Przew\u00f3z",
     "wof:parent_id":102079779,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":49.693267,
     "geom:longitude":20.829776,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.684556,
     "lbl:longitude":20.822138,
     "mps:latitude":49.684556,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121221006",
-        "eurostat:nuts_2021_id":"1001121221006"
+        "eurostat:nuts_2021_id":"1001121221006",
+        "pol-gus:code":"1001121221006"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101827297
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752881,
-    "wof:lastmodified":1684354434,
+    "wof:lastmodified":1695879380,
     "wof:name":"Korzenna",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",

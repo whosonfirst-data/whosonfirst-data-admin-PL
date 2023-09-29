@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2714,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.82426,
     "lbl:longitude":14.97847,
     "lbl:max_zoom":15.0,
@@ -174,8 +183,10 @@
         "eurostat:nuts_2021_id":"1002321660702",
         "gn:id":3098991,
         "gp:id":24547628,
+        "pol-gus:code":"1002321660702",
         "qs_pg:id":956339
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047044,
     "wof:geom_alt":[
@@ -192,7 +203,7 @@
         }
     ],
     "wof:id":1125365309,
-    "wof:lastmodified":1684354273,
+    "wof:lastmodified":1695879206,
     "wof:name":"Gmina Golczewo",
     "wof:parent_id":102080153,
     "wof:placetype":"localadmin",

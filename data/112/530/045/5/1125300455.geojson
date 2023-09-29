@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":543,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.29672,
     "lbl:longitude":18.77692,
     "lbl:max_zoom":17.0,
@@ -94,8 +103,10 @@
         "eurostat:nuts_2021_id":"1004041071704",
         "gn:id":3088774,
         "gp:id":12617587,
+        "pol-gus:code":"1004041071704",
         "qs_pg:id":487628
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864877
     ],
@@ -115,7 +126,7 @@
         }
     ],
     "wof:id":1125300455,
-    "wof:lastmodified":1684354191,
+    "wof:lastmodified":1695879015,
     "wof:name":"P\u0142u\u017cnica",
     "wof:parent_id":102080087,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":920,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.62817,
     "lbl:longitude":16.22852,
     "lbl:max_zoom":17.0,
@@ -122,12 +131,14 @@
         "eurostat:nuts_2021_id":"1002301591401",
         "gn:id":3101513,
         "gp:id":12617485,
+        "pol-gus:code":"1002301591401",
         "qs_pg:id":1190557
     },
     "wof:concordances_alt":{
         "gn:id":7531653,
         "qs_pg:id":1041757
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865589
     ],
@@ -147,7 +158,7 @@
         }
     ],
     "wof:id":1125304383,
-    "wof:lastmodified":1684354200,
+    "wof:lastmodified":1695879026,
     "wof:name":"Chrzypsko Wielkie",
     "wof:parent_id":102079961,
     "wof:placetype":"localadmin",

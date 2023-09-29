@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":870,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.10459,
     "lbl:longitude":20.17639,
     "lbl:max_zoom":17.0,
@@ -102,8 +111,10 @@
         "eurostat:nuts_2021_id":"1007142251303",
         "gn:id":766162,
         "gp:id":12618640,
+        "pol-gus:code":"1007142251303",
         "qs_pg:id":1148938
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863357
     ],
@@ -123,7 +134,7 @@
         }
     ],
     "wof:id":1125350657,
-    "wof:lastmodified":1684354258,
+    "wof:lastmodified":1695879182,
     "wof:name":"Lipowiec Ko\u015bcielny",
     "wof:parent_id":102080089,
     "wof:placetype":"localadmin",

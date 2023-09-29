@@ -23,6 +23,15 @@
     "geom:longitude":21.27293,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.041767,
     "lbl:longitude":21.244356,
     "lbl:max_zoom":18.0,
@@ -116,8 +125,10 @@
         "eg:gisco_id":"PL_1007141291704",
         "eurostat:nuts_2021_id":"1007141291704",
         "gp:id":24548159,
+        "pol-gus:code":"1007141291704",
         "qs_pg:id":483128
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043567,
     "wof:geom_alt":[
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1125303625,
-    "wof:lastmodified":1684354196,
+    "wof:lastmodified":1695879020,
     "wof:name":"Gmina Karczew",
     "wof:parent_id":102079931,
     "wof:placetype":"localadmin",

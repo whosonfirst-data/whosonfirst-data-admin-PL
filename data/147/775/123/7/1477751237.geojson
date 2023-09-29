@@ -22,6 +22,15 @@
     "geom:latitude":49.810149,
     "geom:longitude":20.430013,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.810455,
     "lbl:longitude":20.430017,
     "mps:latitude":49.810455,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121200109",
-        "eurostat:nuts_2021_id":"1001121200109"
+        "eurostat:nuts_2021_id":"1001121200109",
+        "pol-gus:code":"1001121200109"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101826231
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751237,
-    "wof:lastmodified":1684354348,
+    "wof:lastmodified":1695879289,
     "wof:name":"\u017begocina",
     "wof:parent_id":102079493,
     "wof:placetype":"localadmin",

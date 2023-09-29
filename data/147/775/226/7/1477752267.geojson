@@ -22,6 +22,15 @@
     "geom:latitude":49.892887,
     "geom:longitude":20.617081,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.897784,
     "lbl:longitude":20.608532,
     "mps:latitude":49.897784,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121240205",
-        "eurostat:nuts_2021_id":"1001121240205"
+        "eurostat:nuts_2021_id":"1001121240205",
+        "pol-gus:code":"1001121240205"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1326656783
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477752267,
-    "wof:lastmodified":1684354401,
+    "wof:lastmodified":1695879346,
     "wof:name":"Gnojnik",
     "wof:parent_id":102079517,
     "wof:placetype":"localadmin",

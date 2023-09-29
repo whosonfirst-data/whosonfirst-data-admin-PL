@@ -23,6 +23,15 @@
     "geom:longitude":19.667079,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.864,
     "lbl:longitude":19.6354,
     "lbl:max_zoom":18.0,
@@ -167,8 +176,10 @@
         "eg:gisco_id":"PL_1007142702701",
         "eurostat:nuts_2021_id":"1007142702701",
         "gp:id":24548233,
+        "pol-gus:code":"1007142702701",
         "qs_pg:id":1236972
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044527,
     "wof:geom_alt":[
@@ -185,7 +196,7 @@
         }
     ],
     "wof:id":1125320871,
-    "wof:lastmodified":1684354224,
+    "wof:lastmodified":1695879077,
     "wof:name":"Gmina Sierpc",
     "wof:parent_id":102080035,
     "wof:placetype":"localadmin",

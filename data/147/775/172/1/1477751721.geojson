@@ -22,6 +22,15 @@
     "geom:latitude":53.540473,
     "geom:longitude":23.457411,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.529806,
     "lbl:longitude":23.459638,
     "mps:latitude":53.529806,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201371107",
-        "eurostat:nuts_2021_id":"1006201371107"
+        "eurostat:nuts_2021_id":"1006201371107",
+        "pol-gus:code":"1006201371107"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126016627
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477751721,
-    "wof:lastmodified":1684354372,
+    "wof:lastmodified":1695879316,
     "wof:name":"Sidra",
     "wof:parent_id":102080189,
     "wof:placetype":"localadmin",

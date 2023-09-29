@@ -22,6 +22,15 @@
     "geom:latitude":51.611158,
     "geom:longitude":17.326266,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.61979,
     "lbl:longitude":17.324208,
     "mps:latitude":51.61979,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021041301",
-        "eurostat:nuts_2021_id":"1003021041301"
+        "eurostat:nuts_2021_id":"1003021041301",
+        "pol-gus:code":"1003021041301"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821359
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752641,
-    "wof:lastmodified":1684354420,
+    "wof:lastmodified":1695879366,
     "wof:name":"Cieszk\u00f3w",
     "wof:parent_id":102079753,
     "wof:placetype":"localadmin",

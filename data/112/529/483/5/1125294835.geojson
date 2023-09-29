@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3956,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.2494,
     "lbl:longitude":21.08259,
     "lbl:max_zoom":15.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1007142272511",
         "gn:id":755810,
         "gp:id":12617745,
+        "pol-gus:code":"1007142272511",
         "qs_pg:id":1099622
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822665
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125294835,
-    "wof:lastmodified":1684354182,
+    "wof:lastmodified":1695879002,
     "wof:name":"Wierzbica",
     "wof:parent_id":102079805,
     "wof:placetype":"localadmin",

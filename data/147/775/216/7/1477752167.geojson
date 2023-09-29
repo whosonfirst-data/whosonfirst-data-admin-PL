@@ -22,6 +22,15 @@
     "geom:latitude":53.41723,
     "geom:longitude":18.11425,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.418468,
     "lbl:longitude":18.122784,
     "mps:latitude":53.418468,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041681410",
-        "eurostat:nuts_2021_id":"1004041681410"
+        "eurostat:nuts_2021_id":"1004041681410",
+        "pol-gus:code":"1004041681410"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126033867
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752167,
-    "wof:lastmodified":1684354396,
+    "wof:lastmodified":1695879341,
     "wof:name":"\u015awiekatowo",
     "wof:parent_id":102080137,
     "wof:placetype":"localadmin",

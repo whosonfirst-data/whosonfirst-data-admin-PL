@@ -22,6 +22,15 @@
     "geom:latitude":53.232576,
     "geom:longitude":23.014839,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.230608,
     "lbl:longitude":23.00519,
     "mps:latitude":53.230608,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201370203",
-        "eurostat:nuts_2021_id":"1006201370203"
+        "eurostat:nuts_2021_id":"1006201370203",
+        "pol-gus:code":"1006201370203"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101874523
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752089,
-    "wof:lastmodified":1684354391,
+    "wof:lastmodified":1695879336,
     "wof:name":"Dobrzyniewo Du\u017ce",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",

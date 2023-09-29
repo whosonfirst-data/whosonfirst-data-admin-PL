@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4159,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.00336,
     "lbl:longitude":14.96919,
     "lbl:max_zoom":15.0,
@@ -167,8 +176,10 @@
         "eurostat:nuts_2021_id":"1002321641203",
         "gn:id":3093350,
         "gp:id":24547615,
+        "pol-gus:code":"1002321641203",
         "qs_pg:id":1205694
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864419
     ],
@@ -188,7 +199,7 @@
         }
     ],
     "wof:id":1125294609,
-    "wof:lastmodified":1684354182,
+    "wof:lastmodified":1695879001,
     "wof:name":"Gmina Lipiany",
     "wof:parent_id":102080041,
     "wof:placetype":"localadmin",

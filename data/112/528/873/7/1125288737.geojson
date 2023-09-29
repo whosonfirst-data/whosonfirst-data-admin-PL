@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":898,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.99323,
     "lbl:longitude":22.1426,
     "lbl:max_zoom":17.0,
@@ -141,8 +150,10 @@
         "eurostat:nuts_2021_id":"1006061120708",
         "gn:id":756315,
         "gp:id":12617319,
+        "pol-gus:code":"1006061120708",
         "qs_pg:id":23982
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042821,
     "wof:geom_alt":[
@@ -159,7 +170,7 @@
         }
     ],
     "wof:id":1125288737,
-    "wof:lastmodified":1684354163,
+    "wof:lastmodified":1695878980,
     "wof:name":"Gmina Urz\u0119d\u00f3w",
     "wof:parent_id":102079721,
     "wof:placetype":"localadmin",

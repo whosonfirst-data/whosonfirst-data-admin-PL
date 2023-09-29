@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":900,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.07771,
     "lbl:longitude":20.06902,
     "lbl:max_zoom":17.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1005101190509",
         "gn:id":764033,
         "gp:id":12616935,
+        "pol-gus:code":"1005101190509",
         "qs_pg:id":1208768
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101911375
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125315035,
-    "wof:lastmodified":1684354218,
+    "wof:lastmodified":1695879070,
     "wof:name":"Niebor\u00f3w",
     "wof:parent_id":102079923,
     "wof:placetype":"localadmin",

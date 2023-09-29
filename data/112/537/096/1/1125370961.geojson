@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":732,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.72161,
     "lbl:longitude":22.52129,
     "lbl:max_zoom":17.0,
@@ -114,8 +123,10 @@
         "eurostat:nuts_2021_id":"1006061091502",
         "gn:id":775561,
         "gp:id":12617966,
+        "pol-gus:code":"1006061091502",
         "qs_pg:id":973998
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477866005
     ],
@@ -135,7 +146,7 @@
         }
     ],
     "wof:id":1125370961,
-    "wof:lastmodified":1684354282,
+    "wof:lastmodified":1695879218,
     "wof:name":"Borki",
     "wof:parent_id":102079905,
     "wof:placetype":"localadmin",

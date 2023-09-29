@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":990,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.50874,
     "lbl:longitude":20.72176,
     "lbl:max_zoom":17.0,
@@ -114,8 +123,10 @@
         "eurostat:nuts_2021_id":"1007142272305",
         "gn:id":761350,
         "gp:id":12618609,
+        "pol-gus:code":"1007142272305",
         "qs_pg:id":201437
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865859
     ],
@@ -135,7 +146,7 @@
         }
     ],
     "wof:id":1125304817,
-    "wof:lastmodified":1684354205,
+    "wof:lastmodified":1695879033,
     "wof:name":"Potwor\u00f3w",
     "wof:parent_id":102079797,
     "wof:placetype":"localadmin",

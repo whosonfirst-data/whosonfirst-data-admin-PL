@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1029,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.04183,
     "lbl:longitude":21.83018,
     "lbl:max_zoom":16.0,
@@ -144,8 +153,10 @@
         "eurostat:nuts_2021_id":"1006061121202",
         "gn:id":770001,
         "gp:id":12617294,
+        "pol-gus:code":"1006061121202",
         "qs_pg:id":1000174
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047741,
     "wof:geom_alt":[
@@ -162,7 +173,7 @@
         }
     ],
     "wof:id":1125375949,
-    "wof:lastmodified":1684354294,
+    "wof:lastmodified":1695879232,
     "wof:name":"Gmina J\u00f3zef\u00f3w nad Wis\u0142\u0105",
     "wof:parent_id":102079761,
     "wof:placetype":"localadmin",

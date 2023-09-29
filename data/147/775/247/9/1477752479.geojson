@@ -22,6 +22,15 @@
     "geom:latitude":50.038376,
     "geom:longitude":20.243155,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.041545,
     "lbl:longitude":20.245069,
     "mps:latitude":50.041545,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121201904",
-        "eurostat:nuts_2021_id":"1001121201904"
+        "eurostat:nuts_2021_id":"1001121201904",
+        "pol-gus:code":"1001121201904"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"7fd6cdcb1df6dd4260de87ae63a66cee",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477752479,
-    "wof:lastmodified":1684354412,
+    "wof:lastmodified":1695879357,
     "wof:name":"Gmina Niepo\u0142omice",
     "wof:parent_id":102079479,
     "wof:placetype":"localadmin",

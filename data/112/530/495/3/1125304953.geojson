@@ -23,6 +23,15 @@
     "geom:longitude":17.463755,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.85812,
     "lbl:longitude":17.467703,
     "lbl:max_zoom":18.0,
@@ -185,8 +194,10 @@
         "eg:gisco_id":"PL_1003161310101",
         "eurostat:nuts_2021_id":"1003161310101",
         "gp:id":24548676,
+        "pol-gus:code":"1003161310101",
         "qs_pg:id":1191085
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864351,
         101822471
@@ -207,7 +218,7 @@
         }
     ],
     "wof:id":1125304953,
-    "wof:lastmodified":1684354206,
+    "wof:lastmodified":1695879034,
     "wof:name":"Brzeg",
     "wof:parent_id":102079631,
     "wof:placetype":"localadmin",

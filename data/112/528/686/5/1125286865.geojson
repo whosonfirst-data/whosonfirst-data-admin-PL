@@ -23,6 +23,15 @@
     "geom:longitude":19.827084,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.192945,
     "lbl:longitude":19.82706,
     "lbl:max_zoom":18.0,
@@ -95,8 +104,10 @@
         "eg:gisco_id":"PL_1001121200615",
         "eurostat:nuts_2021_id":"1001121200615",
         "gp:id":12617312,
+        "pol-gus:code":"1001121200615",
         "qs_pg:id":1293308
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865805
     ],
@@ -116,7 +127,7 @@
         }
     ],
     "wof:id":1125286865,
-    "wof:lastmodified":1684354159,
+    "wof:lastmodified":1695878977,
     "wof:name":"Wielka Wie\u015b",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",

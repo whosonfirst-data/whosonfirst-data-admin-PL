@@ -22,6 +22,15 @@
     "geom:latitude":50.153413,
     "geom:longitude":20.112854,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.151809,
     "lbl:longitude":20.111183,
     "mps:latitude":50.151809,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121200605",
-        "eurostat:nuts_2021_id":"1001121200605"
+        "eurostat:nuts_2021_id":"1001121200605",
+        "pol-gus:code":"1001121200605"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864055
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125282747,
-    "wof:lastmodified":1684354152,
+    "wof:lastmodified":1695878971,
     "wof:name":"Kocmyrz\u00f3w-Luborzyca",
     "wof:parent_id":102079541,
     "wof:placetype":"localadmin",

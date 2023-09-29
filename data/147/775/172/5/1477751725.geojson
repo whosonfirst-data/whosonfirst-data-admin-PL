@@ -22,6 +22,15 @@
     "geom:latitude":53.411841,
     "geom:longitude":18.429874,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.420163,
     "lbl:longitude":18.432314,
     "mps:latitude":53.420163,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041681409",
-        "eurostat:nuts_2021_id":"1004041681409"
+        "eurostat:nuts_2021_id":"1004041681409",
+        "pol-gus:code":"1004041681409"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"d90d2f8858b9f98fb50fda4e89b30cb3",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751725,
-    "wof:lastmodified":1684354372,
+    "wof:lastmodified":1695879316,
     "wof:name":"Gmina \u015awiecie",
     "wof:parent_id":102080137,
     "wof:placetype":"localadmin",

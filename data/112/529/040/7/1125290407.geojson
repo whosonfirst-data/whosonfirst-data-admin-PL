@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4408,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.73062,
     "lbl:longitude":15.82362,
     "lbl:max_zoom":15.0,
@@ -184,8 +193,10 @@
         "eurostat:nuts_2021_id":"1002081140402",
         "gn:id":3101947,
         "gp:id":24547832,
+        "pol-gus:code":"1002081140402",
         "qs_pg:id":1200475
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042892,
     "wof:geom_alt":[
@@ -202,7 +213,7 @@
         }
     ],
     "wof:id":1125290407,
-    "wof:lastmodified":1684354175,
+    "wof:lastmodified":1695878993,
     "wof:name":"Gmina Bytom Odrza\u0144ski",
     "wof:parent_id":102079825,
     "wof:placetype":"localadmin",

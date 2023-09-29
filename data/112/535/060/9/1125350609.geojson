@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":5114,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.79856,
     "lbl:longitude":15.2352,
     "lbl:max_zoom":15.0,
@@ -162,8 +171,10 @@
         "eurostat:nuts_2021_id":"1002081140905",
         "gn:id":3090553,
         "gp:id":24547817,
+        "pol-gus:code":"1002081140905",
         "qs_pg:id":907750
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497046178,
     "wof:geom_alt":[
@@ -180,7 +191,7 @@
         }
     ],
     "wof:id":1125350609,
-    "wof:lastmodified":1684354258,
+    "wof:lastmodified":1695879181,
     "wof:name":"Gmina Nowogr\u00f3d Bobrza\u0144ski",
     "wof:parent_id":102079851,
     "wof:placetype":"localadmin",

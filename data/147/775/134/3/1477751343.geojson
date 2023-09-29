@@ -22,6 +22,15 @@
     "geom:latitude":51.99196,
     "geom:longitude":19.663623,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.994384,
     "lbl:longitude":19.6612,
     "mps:latitude":51.994384,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101152005",
-        "eurostat:nuts_2021_id":"1005101152005"
+        "eurostat:nuts_2021_id":"1005101152005",
+        "pol-gus:code":"1005101152005"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477874089
     ],
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477751343,
-    "wof:lastmodified":1684354353,
+    "wof:lastmodified":1695879295,
     "wof:name":"Gmina G\u0142owno",
     "wof:parent_id":102079873,
     "wof:placetype":"localadmin",

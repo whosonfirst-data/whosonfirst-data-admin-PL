@@ -22,6 +22,15 @@
     "geom:latitude":49.85617,
     "geom:longitude":21.784405,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.85355,
     "lbl:longitude":21.785963,
     "mps:latitude":49.85355,
@@ -91,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181351904",
-        "eurostat:nuts_2021_id":"1006181351904"
+        "eurostat:nuts_2021_id":"1006181351904",
+        "pol-gus:code":"1006181351904"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"560f5e78f39f329657fd70da61cf23d9",
     "wof:hierarchy":[
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477752549,
-    "wof:lastmodified":1684354415,
+    "wof:lastmodified":1695879361,
     "wof:name":"Gmina Strzy\u017c\u00f3w",
     "wof:parent_id":102079483,
     "wof:placetype":"localadmin",

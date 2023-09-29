@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":26493,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.76512,
     "lbl:longitude":23.18647,
     "lbl:max_zoom":14.0,
@@ -153,8 +162,10 @@
         "eurostat:nuts_2021_id":"1006201380301",
         "gn:id":775986,
         "gp:id":24548163,
+        "pol-gus:code":"1006201380301",
         "qs_pg:id":1237119
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819139
     ],
@@ -174,7 +185,7 @@
         }
     ],
     "wof:id":1125309283,
-    "wof:lastmodified":1684354211,
+    "wof:lastmodified":1695879053,
     "wof:name":"Gmina Bielsk Podlaski",
     "wof:parent_id":102080071,
     "wof:placetype":"localadmin",

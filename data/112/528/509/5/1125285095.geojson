@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1708,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.20152,
     "lbl:longitude":20.92578,
     "lbl:max_zoom":16.0,
@@ -143,8 +152,10 @@
         "eurostat:nuts_2021_id":"1001121240405",
         "gn:id":763263,
         "gp:id":12616581,
+        "pol-gus:code":"1001121240405",
         "qs_pg:id":1093962
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101825013
     ],
@@ -164,7 +175,7 @@
         }
     ],
     "wof:id":1125285095,
-    "wof:lastmodified":1684354155,
+    "wof:lastmodified":1695878974,
     "wof:name":"Olesno",
     "wof:parent_id":102079567,
     "wof:placetype":"localadmin",

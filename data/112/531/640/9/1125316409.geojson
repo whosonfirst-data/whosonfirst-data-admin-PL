@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4110,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.29908,
     "lbl:longitude":15.90631,
     "lbl:max_zoom":15.0,
@@ -134,8 +143,10 @@
         "eurostat:nuts_2021_id":"1002321640303",
         "gn:id":3096873,
         "gp:id":24547980,
+        "pol-gus:code":"1002321640303",
         "qs_pg:id":906001
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044300,
     "wof:geom_alt":[
@@ -152,7 +163,7 @@
         }
     ],
     "wof:id":1125316409,
-    "wof:lastmodified":1684354221,
+    "wof:lastmodified":1695879072,
     "wof:name":"Gmina Kalisz Pomorski",
     "wof:parent_id":102080113,
     "wof:placetype":"localadmin",

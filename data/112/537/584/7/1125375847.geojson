@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4347,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.24313,
     "lbl:longitude":17.60405,
     "lbl:max_zoom":15.0,
@@ -176,8 +185,10 @@
         "eurostat:nuts_2021_id":"1004041671002",
         "gn:id":3091351,
         "gp:id":24547772,
+        "pol-gus:code":"1004041671002",
         "qs_pg:id":999052
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047735,
     "wof:geom_alt":[
@@ -194,7 +205,7 @@
         }
     ],
     "wof:id":1125375847,
-    "wof:lastmodified":1684354293,
+    "wof:lastmodified":1695879232,
     "wof:name":"Gmina Mrocza",
     "wof:parent_id":102080053,
     "wof:placetype":"localadmin",

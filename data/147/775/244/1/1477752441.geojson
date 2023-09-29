@@ -22,6 +22,15 @@
     "geom:latitude":51.880793,
     "geom:longitude":17.803226,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.875603,
     "lbl:longitude":17.780172,
     "mps:latitude":51.875603,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301572006",
-        "eurostat:nuts_2021_id":"1002301572006"
+        "eurostat:nuts_2021_id":"1002301572006",
+        "pol-gus:code":"1002301572006"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"3a4e83877d1e235fa33311b4d84e8c11",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752441,
-    "wof:lastmodified":1684354410,
+    "wof:lastmodified":1695879355,
     "wof:name":"Gmina Pleszew",
     "wof:parent_id":102079847,
     "wof:placetype":"localadmin",

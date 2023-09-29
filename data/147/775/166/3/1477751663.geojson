@@ -22,6 +22,15 @@
     "geom:latitude":53.06343,
     "geom:longitude":19.419808,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.062955,
     "lbl:longitude":19.420345,
     "mps:latitude":53.062955,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041071201",
-        "eurostat:nuts_2021_id":"1004041071201"
+        "eurostat:nuts_2021_id":"1004041071201",
+        "pol-gus:code":"1004041071201"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"b1f528f8dabc0d2ac4e8a73c50a1c240",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751663,
-    "wof:lastmodified":1684354369,
+    "wof:lastmodified":1695879312,
     "wof:name":"Gmina Rypin",
     "wof:parent_id":102080059,
     "wof:placetype":"localadmin",

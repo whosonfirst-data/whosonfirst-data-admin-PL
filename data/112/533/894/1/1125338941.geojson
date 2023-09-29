@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2808,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.04354,
     "lbl:longitude":15.30447,
     "lbl:max_zoom":15.0,
@@ -169,8 +178,10 @@
         "eurostat:nuts_2021_id":"1002321640205",
         "gn:id":3089286,
         "gp:id":24547966,
+        "pol-gus:code":"1002321640205",
         "qs_pg:id":59491
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045552,
     "wof:geom_alt":[
@@ -187,7 +198,7 @@
         }
     ],
     "wof:id":1125338941,
-    "wof:lastmodified":1684354246,
+    "wof:lastmodified":1695879151,
     "wof:name":"Gmina Pe\u0142czyce",
     "wof:parent_id":102080049,
     "wof:placetype":"localadmin",

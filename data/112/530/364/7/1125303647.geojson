@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":940,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.02958,
     "lbl:longitude":21.75396,
     "lbl:max_zoom":17.0,
@@ -95,8 +104,10 @@
         "eurostat:nuts_2021_id":"1006181351501",
         "gn:id":770763,
         "gp:id":12617342,
+        "pol-gus:code":"1006181351501",
         "qs_pg:id":466506
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865213
     ],
@@ -116,7 +127,7 @@
         }
     ],
     "wof:id":1125303647,
-    "wof:lastmodified":1684354197,
+    "wof:lastmodified":1695879021,
     "wof:name":"Iwierzyce",
     "wof:parent_id":102079547,
     "wof:placetype":"localadmin",

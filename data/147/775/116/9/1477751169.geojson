@@ -22,6 +22,15 @@
     "geom:latitude":49.758486,
     "geom:longitude":19.07441,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.759741,
     "lbl:longitude":19.081036,
     "mps:latitude":49.759741,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241440210",
-        "eurostat:nuts_2021_id":"1001241440210"
+        "eurostat:nuts_2021_id":"1001241440210",
+        "pol-gus:code":"1001241440210"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101827313
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751169,
-    "wof:lastmodified":1684354344,
+    "wof:lastmodified":1695879286,
     "wof:name":"Wilkowice",
     "wof:parent_id":102079427,
     "wof:placetype":"localadmin",

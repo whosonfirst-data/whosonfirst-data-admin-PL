@@ -22,6 +22,15 @@
     "geom:latitude":53.468022,
     "geom:longitude":18.775915,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.409793,
     "lbl:longitude":18.781286,
     "mps:latitude":53.409793,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041070601",
-        "eurostat:nuts_2021_id":"1004041070601"
+        "eurostat:nuts_2021_id":"1004041070601",
+        "pol-gus:code":"1004041070601"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"5a5d4511e9b71adae23301daab361b80",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752499,
-    "wof:lastmodified":1684354413,
+    "wof:lastmodified":1695879358,
     "wof:name":"Gmina Grudzi\u0105dz",
     "wof:parent_id":102080127,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":520,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.15773,
     "lbl:longitude":20.78579,
     "lbl:max_zoom":17.0,
@@ -100,8 +109,10 @@
         "eurostat:nuts_2021_id":"1007142262206",
         "gn:id":767253,
         "gp:id":12618006,
+        "pol-gus:code":"1007142262206",
         "qs_pg:id":24103
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863389
     ],
@@ -121,7 +132,7 @@
         }
     ],
     "wof:id":1125289069,
-    "wof:lastmodified":1684354169,
+    "wof:lastmodified":1695878986,
     "wof:name":"Krzynow\u0142oga Ma\u0142a",
     "wof:parent_id":102080117,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1122,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.89082,
     "lbl:longitude":22.28868,
     "lbl:max_zoom":16.0,
@@ -101,8 +110,10 @@
         "eurostat:nuts_2021_id":"1006181341404",
         "gn:id":770221,
         "gp:id":12618767,
+        "pol-gus:code":"1006181341404",
         "qs_pg:id":1172340
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863701
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125364659,
-    "wof:lastmodified":1684354272,
+    "wof:lastmodified":1695879206,
     "wof:name":"Jawornik Polski",
     "wof:parent_id":102079589,
     "wof:placetype":"localadmin",

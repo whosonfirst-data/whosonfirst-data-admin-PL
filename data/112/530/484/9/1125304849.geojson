@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.6102,
     "lbl:longitude":20.7066,
     "lbl:max_zoom":18.0,
@@ -233,8 +242,10 @@
         "eurostat:nuts_2021_id":"1001121226201",
         "gn:id":7532585,
         "gp:id":12618867,
+        "pol-gus:code":"1001121226201",
         "qs_pg:id":201443
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863331
     ],
@@ -254,7 +265,7 @@
         }
     ],
     "wof:id":1125304849,
-    "wof:lastmodified":1684354206,
+    "wof:lastmodified":1695879033,
     "wof:name":"Nowy S\u0105cz",
     "wof:parent_id":102079409,
     "wof:placetype":"localadmin",

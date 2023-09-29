@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":37601,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.72495,
     "lbl:longitude":18.93114,
     "lbl:max_zoom":14.0,
@@ -206,8 +215,10 @@
         "eurostat:nuts_2021_id":"1004221420701",
         "gn:id":3094086,
         "gp:id":24547393,
+        "pol-gus:code":"1004221420701",
         "qs_pg:id":488019
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101913087
     ],
@@ -227,7 +238,7 @@
         }
     ],
     "wof:id":1125306017,
-    "wof:lastmodified":1684354207,
+    "wof:lastmodified":1695879035,
     "wof:name":"Gmina Kwidzyn",
     "wof:parent_id":102080159,
     "wof:placetype":"localadmin",

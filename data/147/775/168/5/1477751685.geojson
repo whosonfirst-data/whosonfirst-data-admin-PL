@@ -22,6 +22,15 @@
     "geom:latitude":50.652947,
     "geom:longitude":18.088883,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.655972,
     "lbl:longitude":18.079053,
     "mps:latitude":50.655972,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003161320901",
-        "eurostat:nuts_2021_id":"1003161320901"
+        "eurostat:nuts_2021_id":"1003161320901",
+        "pol-gus:code":"1003161320901"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101825143
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477751685,
-    "wof:lastmodified":1684354370,
+    "wof:lastmodified":1695879314,
     "wof:name":"Chrz\u0105stowice",
     "wof:parent_id":102079627,
     "wof:placetype":"localadmin",

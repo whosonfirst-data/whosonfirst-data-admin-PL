@@ -23,6 +23,15 @@
     "geom:longitude":18.468463,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.351485,
     "lbl:longitude":18.614852,
     "lbl:max_zoom":18.0,
@@ -101,8 +110,10 @@
         "eg:gisco_id":"PL_1001241470505",
         "eurostat:nuts_2021_id":"1001241470505",
         "gp:id":12617900,
+        "pol-gus:code":"1001241470505",
         "qs_pg:id":272262
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824995
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125304637,
-    "wof:lastmodified":1684354202,
+    "wof:lastmodified":1695879029,
     "wof:name":"Rudziniec",
     "wof:parent_id":102079563,
     "wof:placetype":"localadmin",

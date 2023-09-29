@@ -22,6 +22,15 @@
     "geom:latitude":49.84089,
     "geom:longitude":22.781943,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.828415,
     "lbl:longitude":22.852533,
     "mps:latitude":49.828415,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181341310",
-        "eurostat:nuts_2021_id":"1006181341310"
+        "eurostat:nuts_2021_id":"1006181341310",
+        "pol-gus:code":"1006181341310"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125840153
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752475,
-    "wof:lastmodified":1684354411,
+    "wof:lastmodified":1695879357,
     "wof:name":"\u017burawica",
     "wof:parent_id":102079513,
     "wof:placetype":"localadmin",

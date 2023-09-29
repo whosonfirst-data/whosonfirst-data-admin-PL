@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2400,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.93078,
     "lbl:longitude":21.92665,
     "lbl:max_zoom":15.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1006181351610",
         "gn:id":765914,
         "gp:id":12616993,
+        "pol-gus:code":"1006181351610",
         "qs_pg:id":331932
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864579
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125370849,
-    "wof:lastmodified":1684354280,
+    "wof:lastmodified":1695879216,
     "wof:name":"Lubenia",
     "wof:parent_id":102079585,
     "wof:placetype":"localadmin",

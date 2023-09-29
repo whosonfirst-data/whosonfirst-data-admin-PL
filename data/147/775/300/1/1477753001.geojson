@@ -22,6 +22,15 @@
     "geom:latitude":52.759008,
     "geom:longitude":22.243684,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.756748,
     "lbl:longitude":22.243656,
     "mps:latitude":52.756748,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142261609",
-        "eurostat:nuts_2021_id":"1007142261609"
+        "eurostat:nuts_2021_id":"1007142261609",
+        "pol-gus:code":"1007142261609"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863375
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477753001,
-    "wof:lastmodified":1684354441,
+    "wof:lastmodified":1695879387,
     "wof:name":"Szulborze Wielkie",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",

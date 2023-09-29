@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4027,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.61191,
     "lbl:longitude":22.06321,
     "lbl:max_zoom":15.0,
@@ -176,8 +185,10 @@
         "eurostat:nuts_2021_id":"1004281551601",
         "gn:id":776178,
         "gp:id":24547764,
+        "pol-gus:code":"1004281551601",
         "qs_pg:id":1097000
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042959,
     "wof:geom_alt":[
@@ -194,7 +205,7 @@
         }
     ],
     "wof:id":1125291849,
-    "wof:lastmodified":1684354178,
+    "wof:lastmodified":1695878996,
     "wof:name":"Gmina Bia\u0142a Piska",
     "wof:parent_id":102080195,
     "wof:placetype":"localadmin",

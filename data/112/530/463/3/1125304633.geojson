@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":200,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.27126,
     "lbl:longitude":19.99005,
     "lbl:max_zoom":17.0,
@@ -123,8 +132,10 @@
         "eurostat:nuts_2021_id":"1005101171001",
         "gn:id":3104146,
         "gp:id":12616694,
+        "pol-gus:code":"1005101171001",
         "qs_pg:id":201356
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865777
     ],
@@ -144,7 +155,7 @@
         }
     ],
     "wof:id":1125304633,
-    "wof:lastmodified":1684354202,
+    "wof:lastmodified":1695879029,
     "wof:name":"Aleksandr\u00f3w",
     "wof:parent_id":102079783,
     "wof:placetype":"localadmin",

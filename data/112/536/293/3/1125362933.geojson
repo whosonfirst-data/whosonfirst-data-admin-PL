@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1200,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.29928,
     "lbl:longitude":23.14124,
     "lbl:max_zoom":16.0,
@@ -105,8 +114,10 @@
         "eurostat:nuts_2021_id":"1006061111001",
         "gn:id":774030,
         "gp:id":12616570,
+        "pol-gus:code":"1006061111001",
         "qs_pg:id":1166266
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822687
     ],
@@ -126,7 +137,7 @@
         }
     ],
     "wof:id":1125362933,
-    "wof:lastmodified":1684354267,
+    "wof:lastmodified":1695879198,
     "wof:name":"Cyc\u00f3w",
     "wof:parent_id":102079815,
     "wof:placetype":"localadmin",

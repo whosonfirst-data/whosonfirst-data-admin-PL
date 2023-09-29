@@ -22,6 +22,15 @@
     "geom:latitude":52.828746,
     "geom:longitude":22.177425,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.824548,
     "lbl:longitude":22.179485,
     "mps:latitude":52.824548,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142261602",
-        "eurostat:nuts_2021_id":"1007142261602"
+        "eurostat:nuts_2021_id":"1007142261602",
+        "pol-gus:code":"1007142261602"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125884587
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752393,
-    "wof:lastmodified":1684354407,
+    "wof:lastmodified":1695879353,
     "wof:name":"Andrzejewo",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",

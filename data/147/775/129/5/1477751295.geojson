@@ -22,6 +22,15 @@
     "geom:latitude":54.341292,
     "geom:longitude":22.857663,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.346061,
     "lbl:longitude":22.850887,
     "mps:latitude":54.346061,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201391209",
-        "eurostat:nuts_2021_id":"1006201391209"
+        "eurostat:nuts_2021_id":"1006201391209",
+        "pol-gus:code":"1006201391209"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125874023
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477751295,
-    "wof:lastmodified":1684354351,
+    "wof:lastmodified":1695879293,
     "wof:name":"Wi\u017cajny",
     "wof:parent_id":102080265,
     "wof:placetype":"localadmin",

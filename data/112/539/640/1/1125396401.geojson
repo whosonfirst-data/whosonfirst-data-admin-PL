@@ -22,6 +22,15 @@
     "geom:latitude":49.576799,
     "geom:longitude":21.063895,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.576205,
     "lbl:longitude":21.063903,
     "mps:latitude":49.576205,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121220508",
-        "eurostat:nuts_2021_id":"1001121220508"
+        "eurostat:nuts_2021_id":"1001121220508",
+        "pol-gus:code":"1001121220508"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101863213
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125396401,
-    "wof:lastmodified":1684354317,
+    "wof:lastmodified":1695879258,
     "wof:name":"Ropa",
     "wof:parent_id":102079429,
     "wof:placetype":"localadmin",

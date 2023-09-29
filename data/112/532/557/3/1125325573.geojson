@@ -23,6 +23,15 @@
     "geom:longitude":20.99064,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.419452,
     "lbl:longitude":20.926423,
     "lbl:max_zoom":18.0,
@@ -182,8 +191,10 @@
         "eg:gisco_id":"PL_1001121221007",
         "eurostat:nuts_2021_id":"1001121221007",
         "gp:id":24548538,
+        "pol-gus:code":"1001121221007",
         "qs_pg:id":1263387
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044790,
     "wof:geom_alt":[
@@ -200,7 +211,7 @@
         }
     ],
     "wof:id":1125325573,
-    "wof:lastmodified":1684354233,
+    "wof:lastmodified":1695879123,
     "wof:name":"Gmina Krynica-Zdr\u00f3j",
     "wof:parent_id":102079425,
     "wof:placetype":"localadmin",

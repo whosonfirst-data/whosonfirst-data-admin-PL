@@ -22,6 +22,15 @@
     "geom:latitude":52.660158,
     "geom:longitude":22.565157,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.664243,
     "lbl:longitude":22.601477,
     "mps:latitude":52.664243,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201381302",
-        "eurostat:nuts_2021_id":"1006201381302"
+        "eurostat:nuts_2021_id":"1006201381302",
+        "pol-gus:code":"1006201381302"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"d098f0617dd1fcc316271ca2b76f8cc0",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752331,
-    "wof:lastmodified":1684354404,
+    "wof:lastmodified":1695879349,
     "wof:name":"Gmina Ciechanowiec",
     "wof:parent_id":102080095,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.350587,
     "geom:longitude":19.596816,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.347007,
     "lbl:longitude":19.586577,
     "mps:latitude":52.347007,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142700405",
-        "eurostat:nuts_2021_id":"1007142700405"
+        "eurostat:nuts_2021_id":"1007142700405",
+        "pol-gus:code":"1007142700405"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125886499
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477751617,
-    "wof:lastmodified":1684354366,
+    "wof:lastmodified":1695879309,
     "wof:name":"Szczawin Ko\u015bcielny",
     "wof:parent_id":102079959,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":51.224575,
     "geom:longitude":18.592351,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.218319,
     "lbl:longitude":18.594611,
     "mps:latitude":51.218319,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101181709",
-        "eurostat:nuts_2021_id":"1005101181709"
+        "eurostat:nuts_2021_id":"1005101181709",
+        "pol-gus:code":"1005101181709"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"586b96e7d9745d0b2b59f4511bd6f917",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752877,
-    "wof:lastmodified":1684354434,
+    "wof:lastmodified":1695879380,
     "wof:name":"Gmina Wielu\u0144",
     "wof:parent_id":102079729,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":10176,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.44297,
     "lbl:longitude":16.24397,
     "lbl:max_zoom":15.0,
@@ -183,8 +192,10 @@
         "eurostat:nuts_2021_id":"1003021030803",
         "gn:id":3094303,
         "gp:id":12618217,
+        "pol-gus:code":"1003021030803",
         "qs_pg:id":349631
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101841635
     ],
@@ -204,7 +215,7 @@
         }
     ],
     "wof:id":1125374147,
-    "wof:lastmodified":1684354288,
+    "wof:lastmodified":1695879226,
     "wof:name":"Kudowa-Zdr\u00f3j",
     "wof:parent_id":102079559,
     "wof:placetype":"localadmin",

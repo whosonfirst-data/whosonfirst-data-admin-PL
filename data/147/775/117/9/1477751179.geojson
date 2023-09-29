@@ -22,6 +22,15 @@
     "geom:latitude":53.163341,
     "geom:longitude":17.429732,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.16157,
     "lbl:longitude":17.449058,
     "mps:latitude":53.16157,
@@ -55,8 +64,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041671004",
-        "eurostat:nuts_2021_id":"1004041671004"
+        "eurostat:nuts_2021_id":"1004041671004",
+        "pol-gus:code":"1004041671004"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820527
     ],
@@ -72,7 +83,7 @@
         }
     ],
     "wof:id":1477751179,
-    "wof:lastmodified":1684354345,
+    "wof:lastmodified":1695879286,
     "wof:name":"Sadki",
     "wof:parent_id":102080053,
     "wof:placetype":"localadmin",

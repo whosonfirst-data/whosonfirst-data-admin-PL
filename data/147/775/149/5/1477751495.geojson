@@ -22,6 +22,15 @@
     "geom:latitude":52.746928,
     "geom:longitude":22.135632,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.752362,
     "lbl:longitude":22.143513,
     "mps:latitude":52.752362,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142261611",
-        "eurostat:nuts_2021_id":"1007142261611"
+        "eurostat:nuts_2021_id":"1007142261611",
+        "pol-gus:code":"1007142261611"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125927863
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477751495,
-    "wof:lastmodified":1684354360,
+    "wof:lastmodified":1695879303,
     "wof:name":"Zar\u0119by Ko\u015bcielne",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",

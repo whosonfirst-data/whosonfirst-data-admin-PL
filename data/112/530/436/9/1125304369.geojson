@@ -23,6 +23,15 @@
     "geom:longitude":15.831882,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.854048,
     "lbl:longitude":15.777568,
     "lbl:max_zoom":18.0,
@@ -95,8 +104,10 @@
         "eg:gisco_id":"PL_1003021010607",
         "eurostat:nuts_2021_id":"1003021010607",
         "gp:id":12617792,
+        "pol-gus:code":"1003021010607",
         "qs_pg:id":469048
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101848055
     ],
@@ -116,7 +127,7 @@
         }
     ],
     "wof:id":1125304369,
-    "wof:lastmodified":1684354200,
+    "wof:lastmodified":1695879026,
     "wof:name":"Mys\u0142akowice",
     "wof:parent_id":102079617,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2500,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.18844,
     "lbl:longitude":16.73595,
     "lbl:max_zoom":15.0,
@@ -110,8 +119,10 @@
         "eurostat:nuts_2021_id":"1003021041803",
         "gn:id":3091953,
         "gp:id":12617774,
+        "pol-gus:code":"1003021041803",
         "qs_pg:id":528105
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822811
     ],
@@ -131,7 +142,7 @@
         }
     ],
     "wof:id":1125328549,
-    "wof:lastmodified":1684354238,
+    "wof:lastmodified":1695879139,
     "wof:name":"Mi\u0119kinia",
     "wof:parent_id":102079675,
     "wof:placetype":"localadmin",

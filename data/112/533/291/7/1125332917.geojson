@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":750,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.25318,
     "lbl:longitude":22.69252,
     "lbl:max_zoom":17.0,
@@ -113,8 +122,10 @@
         "eurostat:nuts_2021_id":"1006181330105",
         "gn:id":765681,
         "gp:id":12617382,
+        "pol-gus:code":"1006181330105",
         "qs_pg:id":1309940
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864477
     ],
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1125332917,
-    "wof:lastmodified":1684354243,
+    "wof:lastmodified":1695879145,
     "wof:name":"Lutowiska",
     "wof:parent_id":102079439,
     "wof:placetype":"localadmin",

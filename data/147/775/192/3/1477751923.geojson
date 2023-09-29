@@ -22,6 +22,15 @@
     "geom:latitude":52.992872,
     "geom:longitude":16.889436,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.990918,
     "lbl:longitude":16.837477,
     "mps:latitude":52.990918,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301600103",
-        "eurostat:nuts_2021_id":"1002301600103"
+        "eurostat:nuts_2021_id":"1002301600103",
+        "pol-gus:code":"1002301600103"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"bf7f9a884539b50c2d9098f73f178ce2",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751923,
-    "wof:lastmodified":1684354383,
+    "wof:lastmodified":1695879327,
     "wof:name":"Gmina Chodzie\u017c",
     "wof:parent_id":102080021,
     "wof:placetype":"localadmin",

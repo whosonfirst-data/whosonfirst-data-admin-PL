@@ -22,6 +22,15 @@
     "geom:latitude":53.953943,
     "geom:longitude":15.514668,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.946974,
     "lbl:longitude":15.51645,
     "mps:latitude":53.946974,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321630805",
-        "eurostat:nuts_2021_id":"1002321630805"
+        "eurostat:nuts_2021_id":"1002321630805",
+        "pol-gus:code":"1002321630805"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126006439
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477751285,
-    "wof:lastmodified":1684354350,
+    "wof:lastmodified":1695879292,
     "wof:name":"Ryma\u0144",
     "wof:parent_id":102080177,
     "wof:placetype":"localadmin",

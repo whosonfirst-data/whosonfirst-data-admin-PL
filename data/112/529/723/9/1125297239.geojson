@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":248125,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.79646,
     "lbl:longitude":19.12409,
     "lbl:max_zoom":13.0,
@@ -294,8 +303,10 @@
         "eurostat:nuts_2021_id":"1001241466401",
         "gn:id":3100946,
         "gp:id":12618380,
+        "pol-gus:code":"1001241466401",
         "qs_pg:id":474616
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101752171,
         102079633
@@ -316,7 +327,7 @@
         }
     ],
     "wof:id":1125297239,
-    "wof:lastmodified":1684354189,
+    "wof:lastmodified":1695879011,
     "wof:name":"Cz\u0119stochowa",
     "wof:parent_id":102079633,
     "wof:placetype":"localadmin",

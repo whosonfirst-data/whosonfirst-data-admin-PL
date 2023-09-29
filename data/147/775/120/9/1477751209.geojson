@@ -22,6 +22,15 @@
     "geom:latitude":52.292508,
     "geom:longitude":15.40634,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.280016,
     "lbl:longitude":15.407813,
     "mps:latitude":52.280016,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002081140801",
-        "eurostat:nuts_2021_id":"1002081140801"
+        "eurostat:nuts_2021_id":"1002081140801",
+        "pol-gus:code":"1002081140801"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126027671
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477751209,
-    "wof:lastmodified":1684354346,
+    "wof:lastmodified":1695879288,
     "wof:name":"Lubrza",
     "wof:parent_id":102079887,
     "wof:placetype":"localadmin",

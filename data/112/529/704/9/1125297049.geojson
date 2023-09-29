@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":22245,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.12014,
     "lbl:longitude":15.28768,
     "lbl:max_zoom":14.0,
@@ -203,8 +212,10 @@
         "eurostat:nuts_2021_id":"1003021011001",
         "gn:id":3093040,
         "gp:id":24547912,
+        "pol-gus:code":"1003021011001",
         "qs_pg:id":192524
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043204,
     "wof:geom_alt":[
@@ -221,7 +232,7 @@
         }
     ],
     "wof:id":1125297049,
-    "wof:lastmodified":1684354188,
+    "wof:lastmodified":1695879009,
     "wof:name":"Gmina Luba\u0144",
     "wof:parent_id":102079643,
     "wof:placetype":"localadmin",

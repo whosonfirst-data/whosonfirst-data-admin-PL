@@ -23,6 +23,15 @@
     "geom:longitude":23.328764,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.007391,
     "lbl:longitude":23.236111,
     "lbl:max_zoom":18.0,
@@ -101,8 +110,10 @@
         "eg:gisco_id":"PL_1006201390902",
         "eurostat:nuts_2021_id":"1006201390902",
         "gp:id":12617508,
+        "pol-gus:code":"1006201390902",
         "qs_pg:id":247870
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125879515
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125414779,
-    "wof:lastmodified":1684354338,
+    "wof:lastmodified":1695879279,
     "wof:name":"Giby",
     "wof:parent_id":102080257,
     "wof:placetype":"localadmin",

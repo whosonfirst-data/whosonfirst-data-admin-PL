@@ -22,6 +22,15 @@
     "geom:latitude":54.229238,
     "geom:longitude":23.06314,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.222297,
     "lbl:longitude":23.055137,
     "mps:latitude":54.222297,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201391208",
-        "eurostat:nuts_2021_id":"1006201391208"
+        "eurostat:nuts_2021_id":"1006201391208",
+        "pol-gus:code":"1006201391208"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126006597
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752207,
-    "wof:lastmodified":1684354398,
+    "wof:lastmodified":1695879343,
     "wof:name":"Szypliszki",
     "wof:parent_id":102080265,
     "wof:placetype":"localadmin",

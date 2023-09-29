@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":185,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.88942,
     "lbl:longitude":20.41929,
     "lbl:max_zoom":18.0,
@@ -95,8 +104,10 @@
         "eurostat:nuts_2021_id":"1005101191504",
         "gn:id":767858,
         "gp:id":12616904,
+        "pol-gus:code":"1005101191504",
         "qs_pg:id":1015819
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863505
     ],
@@ -116,7 +127,7 @@
         }
     ],
     "wof:id":1125385751,
-    "wof:lastmodified":1684354304,
+    "wof:lastmodified":1695879244,
     "wof:name":"Kowiesy",
     "wof:parent_id":102079895,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":50.242074,
     "geom:longitude":21.634874,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.23563,
     "lbl:longitude":21.644721,
     "mps:latitude":50.23563,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181350604",
-        "eurostat:nuts_2021_id":"1006181350604"
+        "eurostat:nuts_2021_id":"1006181350604",
+        "pol-gus:code":"1006181350604"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126006085
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751537,
-    "wof:lastmodified":1684354362,
+    "wof:lastmodified":1695879305,
     "wof:name":"Niwiska",
     "wof:parent_id":102079607,
     "wof:placetype":"localadmin",

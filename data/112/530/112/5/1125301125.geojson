@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2200,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.7366,
     "lbl:longitude":21.66349,
     "lbl:max_zoom":15.0,
@@ -96,8 +105,10 @@
         "eurostat:nuts_2021_id":"1007142710311",
         "gn:id":758697,
         "gp:id":12618724,
+        "pol-gus:code":"1007142710311",
         "qs_pg:id":270394
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821685
     ],
@@ -117,7 +128,7 @@
         }
     ],
     "wof:id":1125301125,
-    "wof:lastmodified":1684354193,
+    "wof:lastmodified":1695879017,
     "wof:name":"Sobolew",
     "wof:parent_id":102079901,
     "wof:placetype":"localadmin",

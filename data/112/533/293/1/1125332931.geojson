@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2418,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.48119,
     "lbl:longitude":23.05404,
     "lbl:max_zoom":15.0,
@@ -170,8 +179,10 @@
         "eurostat:nuts_2021_id":"1006061100207",
         "gn:id":770005,
         "gp:id":24548495,
+        "pol-gus:code":"1006061100207",
         "qs_pg:id":52450
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045232,
     "wof:geom_alt":[
@@ -188,7 +199,7 @@
         }
     ],
     "wof:id":1125332931,
-    "wof:lastmodified":1684354243,
+    "wof:lastmodified":1695879146,
     "wof:name":"Gmina J\u00f3zef\u00f3w",
     "wof:parent_id":102079699,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.501395,
     "geom:longitude":14.699839,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.496973,
     "lbl:longitude":14.689213,
     "mps:latitude":52.496973,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002081130502",
-        "eurostat:nuts_2021_id":"1002081130502"
+        "eurostat:nuts_2021_id":"1002081130502",
+        "pol-gus:code":"1002081130502"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820221
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125287045,
-    "wof:lastmodified":1684354160,
+    "wof:lastmodified":1695878978,
     "wof:name":"G\u00f3rzyca",
     "wof:parent_id":102079913,
     "wof:placetype":"localadmin",

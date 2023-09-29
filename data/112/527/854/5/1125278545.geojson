@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2634,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.13892,
     "lbl:longitude":22.84856,
     "lbl:max_zoom":15.0,
@@ -138,8 +147,10 @@
         "eurostat:nuts_2021_id":"1006061111703",
         "gn:id":762390,
         "gp:id":24548777,
+        "pol-gus:code":"1006061111703",
         "qs_pg:id":310173
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042415,
     "wof:geom_alt":[
@@ -156,7 +167,7 @@
         }
     ],
     "wof:id":1125278545,
-    "wof:lastmodified":1684354146,
+    "wof:lastmodified":1695878963,
     "wof:name":"Gmina Piaski",
     "wof:parent_id":102079777,
     "wof:placetype":"localadmin",

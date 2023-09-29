@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4961,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.71038,
     "lbl:longitude":17.99337,
     "lbl:max_zoom":15.0,
@@ -159,8 +168,10 @@
         "eurostat:nuts_2021_id":"1002301571702",
         "gn:id":3090597,
         "gp:id":24548129,
+        "pol-gus:code":"1002301571702",
         "qs_pg:id":206278
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043292,
     "wof:geom_alt":[
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":1125298551,
-    "wof:lastmodified":1684354190,
+    "wof:lastmodified":1695879014,
     "wof:name":"Gmina Nowe Skalmierzyce",
     "wof:parent_id":102079789,
     "wof:placetype":"localadmin",

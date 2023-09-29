@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2234,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.60855,
     "lbl:longitude":19.2635,
     "lbl:max_zoom":15.0,
@@ -163,8 +172,10 @@
         "eurostat:nuts_2021_id":"1004281540704",
         "gn:id":3096208,
         "gp:id":24547496,
+        "pol-gus:code":"1004281540704",
         "qs_pg:id":59417
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045541,
     "wof:geom_alt":[
@@ -181,7 +192,7 @@
         }
     ],
     "wof:id":1125338693,
-    "wof:lastmodified":1684354244,
+    "wof:lastmodified":1695879148,
     "wof:name":"Gmina Kisielice",
     "wof:parent_id":102080171,
     "wof:placetype":"localadmin",

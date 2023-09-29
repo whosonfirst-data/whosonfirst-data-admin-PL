@@ -22,6 +22,15 @@
     "geom:latitude":52.417672,
     "geom:longitude":22.200156,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.39443,
     "lbl:longitude":22.1592,
     "mps:latitude":52.39443,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142712908",
-        "eurostat:nuts_2021_id":"1007142712908"
+        "eurostat:nuts_2021_id":"1007142712908",
+        "pol-gus:code":"1007142712908"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865863
     ],
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752793,
-    "wof:lastmodified":1684354429,
+    "wof:lastmodified":1695879375,
     "wof:name":"Gmina Soko\u0142\u00f3w Podlaski",
     "wof:parent_id":102080023,
     "wof:placetype":"localadmin",

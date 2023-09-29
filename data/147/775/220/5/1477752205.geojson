@@ -22,6 +22,15 @@
     "geom:latitude":53.291565,
     "geom:longitude":23.616622,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.266051,
     "lbl:longitude":23.586585,
     "mps:latitude":53.266051,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201371110",
-        "eurostat:nuts_2021_id":"1006201371110"
+        "eurostat:nuts_2021_id":"1006201371110",
+        "pol-gus:code":"1006201371110"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125956237
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752205,
-    "wof:lastmodified":1684354398,
+    "wof:lastmodified":1695879343,
     "wof:name":"Szudzia\u0142owo",
     "wof:parent_id":102080189,
     "wof:placetype":"localadmin",

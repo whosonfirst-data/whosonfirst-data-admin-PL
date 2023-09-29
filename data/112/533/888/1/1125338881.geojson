@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1984,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.6265,
     "lbl:longitude":16.44988,
     "lbl:max_zoom":16.0,
@@ -154,8 +163,10 @@
         "eurostat:nuts_2021_id":"1002301612405",
         "gn:id":3089767,
         "gp:id":24547839,
+        "pol-gus:code":"1002301612405",
         "qs_pg:id":59482
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101863133
     ],
@@ -175,7 +186,7 @@
         }
     ],
     "wof:id":1125338881,
-    "wof:lastmodified":1684354245,
+    "wof:lastmodified":1695879151,
     "wof:name":"Gmina Ostror\u00f3g",
     "wof:parent_id":102079963,
     "wof:placetype":"localadmin",

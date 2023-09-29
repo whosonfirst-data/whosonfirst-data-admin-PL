@@ -22,6 +22,15 @@
     "geom:latitude":52.668129,
     "geom:longitude":17.537122,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.651941,
     "lbl:longitude":17.555398,
     "mps:latitude":52.651941,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301580307",
-        "eurostat:nuts_2021_id":"1002301580307"
+        "eurostat:nuts_2021_id":"1002301580307",
+        "pol-gus:code":"1002301580307"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863779
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125324291,
-    "wof:lastmodified":1684354229,
+    "wof:lastmodified":1695879104,
     "wof:name":"Mieleszyn",
     "wof:parent_id":102079967,
     "wof:placetype":"localadmin",

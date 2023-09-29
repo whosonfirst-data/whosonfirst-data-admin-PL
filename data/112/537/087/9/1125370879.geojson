@@ -23,6 +23,15 @@
     "geom:longitude":21.266745,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.342018,
     "lbl:longitude":21.237237,
     "lbl:max_zoom":18.0,
@@ -182,8 +191,10 @@
         "eg:gisco_id":"PL_1007141293412",
         "eurostat:nuts_2021_id":"1007141293412",
         "gp:id":24548256,
+        "pol-gus:code":"1007141293412",
         "qs_pg:id":1184502
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047384,
     "wof:geom_alt":[
@@ -200,7 +211,7 @@
         }
     ],
     "wof:id":1125370879,
-    "wof:lastmodified":1684354280,
+    "wof:lastmodified":1695879217,
     "wof:name":"Gmina Wo\u0142omin",
     "wof:parent_id":102079995,
     "wof:placetype":"localadmin",

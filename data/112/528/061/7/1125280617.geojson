@@ -23,6 +23,15 @@
     "geom:longitude":15.840718,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.792833,
     "lbl:longitude":15.836877,
     "lbl:max_zoom":18.0,
@@ -152,8 +161,10 @@
         "eg:gisco_id":"PL_1003021010602",
         "eurostat:nuts_2021_id":"1003021010602",
         "gp:id":12618837,
+        "pol-gus:code":"1003021010602",
         "qs_pg:id":1081253
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823755
     ],
@@ -173,7 +184,7 @@
         }
     ],
     "wof:id":1125280617,
-    "wof:lastmodified":1684354148,
+    "wof:lastmodified":1695878966,
     "wof:name":"Kowary",
     "wof:parent_id":102079617,
     "wof:placetype":"localadmin",

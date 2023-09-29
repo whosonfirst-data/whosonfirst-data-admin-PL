@@ -23,6 +23,15 @@
     "geom:longitude":21.751167,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.681395,
     "lbl:longitude":21.749367,
     "lbl:max_zoom":18.0,
@@ -215,8 +224,10 @@
         "eg:gisco_id":"PL_1005261530901",
         "eurostat:nuts_2021_id":"1005261530901",
         "gp:id":12618452,
+        "pol-gus:code":"1005261530901",
         "qs_pg:id":1160696
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822525
     ],
@@ -236,7 +247,7 @@
         }
     ],
     "wof:id":1125358931,
-    "wof:lastmodified":1684354265,
+    "wof:lastmodified":1695879195,
     "wof:name":"Sandomierz",
     "wof:parent_id":102079681,
     "wof:placetype":"localadmin",

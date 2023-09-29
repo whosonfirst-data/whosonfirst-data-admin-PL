@@ -22,6 +22,15 @@
     "geom:latitude":53.986811,
     "geom:longitude":15.97621,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.038819,
     "lbl:longitude":16.065546,
     "mps:latitude":54.038819,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321630102",
-        "eurostat:nuts_2021_id":"1002321630102"
+        "eurostat:nuts_2021_id":"1002321630102",
+        "pol-gus:code":"1002321630102"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"74c66a073a6ccac32412592430070d9f",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751917,
-    "wof:lastmodified":1684354382,
+    "wof:lastmodified":1695879326,
     "wof:name":"Gmina Bia\u0142ogard",
     "wof:parent_id":102080173,
     "wof:placetype":"localadmin",

@@ -23,6 +23,15 @@
     "geom:longitude":22.956399,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.06926,
     "lbl:longitude":23.080579,
     "lbl:max_zoom":18.0,
@@ -122,8 +131,10 @@
         "eg:gisco_id":"PL_1006201391207",
         "eurostat:nuts_2021_id":"1006201391207",
         "gp:id":12616721,
+        "pol-gus:code":"1006201391207",
         "qs_pg:id":1314972
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045673,
     "wof:geom_alt":[
@@ -140,7 +151,7 @@
         }
     ],
     "wof:id":1125341367,
-    "wof:lastmodified":1684354249,
+    "wof:lastmodified":1695879158,
     "wof:name":"Gmina Suwa\u0142ki",
     "wof:parent_id":102080265,
     "wof:placetype":"localadmin",

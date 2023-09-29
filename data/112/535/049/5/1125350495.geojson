@@ -22,6 +22,15 @@
     "geom:latitude":51.145464,
     "geom:longitude":19.316581,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.139873,
     "lbl:longitude":19.322685,
     "mps:latitude":51.139873,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101171208",
-        "eurostat:nuts_2021_id":"1005101171208"
+        "eurostat:nuts_2021_id":"1005101171208",
+        "pol-gus:code":"1005101171208"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863697
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125350495,
-    "wof:lastmodified":1684354256,
+    "wof:lastmodified":1695879179,
     "wof:name":"Lgota Wielka",
     "wof:parent_id":102079711,
     "wof:placetype":"localadmin",

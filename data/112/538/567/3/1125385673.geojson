@@ -23,6 +23,15 @@
     "geom:longitude":20.250633,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.229402,
     "lbl:longitude":20.239455,
     "lbl:max_zoom":18.0,
@@ -194,8 +203,10 @@
         "eg:gisco_id":"PL_1007142732801",
         "eurostat:nuts_2021_id":"1007142732801",
         "gp:id":12616887,
+        "pol-gus:code":"1007142732801",
         "qs_pg:id":1030453
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497048360,
     "wof:geom_alt":[
@@ -212,7 +223,7 @@
         }
     ],
     "wof:id":1125385673,
-    "wof:lastmodified":1684354303,
+    "wof:lastmodified":1695879243,
     "wof:name":"Gmina Sochaczew",
     "wof:parent_id":102079945,
     "wof:placetype":"localadmin",

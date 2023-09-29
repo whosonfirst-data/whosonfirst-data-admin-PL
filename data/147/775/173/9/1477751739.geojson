@@ -22,6 +22,15 @@
     "geom:latitude":52.758329,
     "geom:longitude":22.540498,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.75595,
     "lbl:longitude":22.511804,
     "mps:latitude":52.75595,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201381304",
-        "eurostat:nuts_2021_id":"1006201381304"
+        "eurostat:nuts_2021_id":"1006201381304",
+        "pol-gus:code":"1006201381304"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125877407
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751739,
-    "wof:lastmodified":1684354373,
+    "wof:lastmodified":1695879317,
     "wof:name":"Klukowo",
     "wof:parent_id":102080095,
     "wof:placetype":"localadmin",

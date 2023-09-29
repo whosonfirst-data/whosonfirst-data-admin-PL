@@ -22,6 +22,15 @@
     "geom:latitude":49.709645,
     "geom:longitude":20.948093,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.704225,
     "lbl:longitude":20.948067,
     "mps:latitude":49.704225,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121220503",
-        "eurostat:nuts_2021_id":"1001121220503"
+        "eurostat:nuts_2021_id":"1001121220503",
+        "pol-gus:code":"1001121220503"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"286808f941de65177cce36fc91d93dd0",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752761,
-    "wof:lastmodified":1684354427,
+    "wof:lastmodified":1695879373,
     "wof:name":"Gmina Bobowa",
     "wof:parent_id":102079429,
     "wof:placetype":"localadmin",

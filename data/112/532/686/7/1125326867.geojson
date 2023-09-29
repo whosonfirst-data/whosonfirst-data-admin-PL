@@ -23,6 +23,15 @@
     "geom:longitude":18.910828,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.294932,
     "lbl:longitude":18.947553,
     "lbl:max_zoom":18.0,
@@ -275,8 +284,10 @@
         "eg:gisco_id":"PL_1001241487601",
         "eurostat:nuts_2021_id":"1001241487601",
         "gp:id":12618433,
+        "pol-gus:code":"1001241487601",
         "qs_pg:id":43745
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101752129,
         102079507
@@ -297,7 +308,7 @@
         }
     ],
     "wof:id":1125326867,
-    "wof:lastmodified":1684354236,
+    "wof:lastmodified":1695879133,
     "wof:name":"\u015awi\u0119toch\u0142owice",
     "wof:parent_id":102079507,
     "wof:placetype":"localadmin",

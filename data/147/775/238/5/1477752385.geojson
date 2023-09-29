@@ -22,6 +22,15 @@
     "geom:latitude":53.119894,
     "geom:longitude":19.80931,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.111892,
     "lbl:longitude":19.806662,
     "mps:latitude":53.111892,
@@ -79,8 +88,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142253703",
-        "eurostat:nuts_2021_id":"1007142253703"
+        "eurostat:nuts_2021_id":"1007142253703",
+        "pol-gus:code":"1007142253703"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"38974a9fa105e1e2a202a21e8df1b01c",
     "wof:hierarchy":[
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1477752385,
-    "wof:lastmodified":1684354407,
+    "wof:lastmodified":1695879352,
     "wof:name":"Gmina Lubowidz",
     "wof:parent_id":102080069,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.825257,
     "geom:longitude":22.351847,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.83119,
     "lbl:longitude":22.351831,
     "mps:latitude":52.83119,
@@ -94,8 +103,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201381303",
-        "eurostat:nuts_2021_id":"1006201381303"
+        "eurostat:nuts_2021_id":"1006201381303",
+        "pol-gus:code":"1006201381303"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"d5772013e2fcd8b9093e14a9c61f8dd7",
     "wof:hierarchy":[
@@ -108,7 +119,7 @@
         }
     ],
     "wof:id":1477751987,
-    "wof:lastmodified":1684354386,
+    "wof:lastmodified":1695879330,
     "wof:name":"Gmina Czy\u017cew",
     "wof:parent_id":102080095,
     "wof:placetype":"localadmin",

@@ -23,6 +23,15 @@
     "geom:longitude":19.054927,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.567949,
     "lbl:longitude":19.038619,
     "lbl:max_zoom":18.0,
@@ -89,8 +98,10 @@
         "eg:gisco_id":"PL_1001241441709",
         "eurostat:nuts_2021_id":"1001241441709",
         "gp:id":12618736,
+        "pol-gus:code":"1001241441709",
         "qs_pg:id":1153838
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101826125
     ],
@@ -110,7 +121,7 @@
         }
     ],
     "wof:id":1125356073,
-    "wof:lastmodified":1684354262,
+    "wof:lastmodified":1695879191,
     "wof:name":"Mil\u00f3wka",
     "wof:parent_id":102079411,
     "wof:placetype":"localadmin",

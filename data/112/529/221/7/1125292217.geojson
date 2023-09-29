@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":920,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.75155,
     "lbl:longitude":22.82976,
     "lbl:max_zoom":17.0,
@@ -99,8 +108,10 @@
         "eurostat:nuts_2021_id":"1006061102008",
         "gn:id":760806,
         "gp:id":12618531,
+        "pol-gus:code":"1006061102008",
         "qs_pg:id":392844
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864437
     ],
@@ -120,7 +131,7 @@
         }
     ],
     "wof:id":1125292217,
-    "wof:lastmodified":1684354179,
+    "wof:lastmodified":1695878998,
     "wof:name":"Radecznica",
     "wof:parent_id":102079715,
     "wof:placetype":"localadmin",

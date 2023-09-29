@@ -22,6 +22,15 @@
     "geom:latitude":53.210956,
     "geom:longitude":18.047165,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.217697,
     "lbl:longitude":18.038664,
     "mps:latitude":53.217697,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041060306",
-        "eurostat:nuts_2021_id":"1004041060306"
+        "eurostat:nuts_2021_id":"1004041060306",
+        "pol-gus:code":"1004041060306"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819163
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477751583,
-    "wof:lastmodified":1684354365,
+    "wof:lastmodified":1695879308,
     "wof:name":"Osielsko",
     "wof:parent_id":102080085,
     "wof:placetype":"localadmin",

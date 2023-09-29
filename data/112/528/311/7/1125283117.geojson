@@ -23,6 +23,15 @@
     "geom:longitude":16.017441,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.732761,
     "lbl:longitude":16.069221,
     "lbl:max_zoom":18.0,
@@ -116,8 +125,10 @@
         "eg:gisco_id":"PL_1003021010702",
         "eurostat:nuts_2021_id":"1003021010702",
         "gp:id":24547440,
+        "pol-gus:code":"1003021010702",
         "qs_pg:id":1092335
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042587,
     "wof:geom_alt":[
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1125283117,
-    "wof:lastmodified":1684354153,
+    "wof:lastmodified":1695878971,
     "wof:name":"Gmina Kamienna G\u00f3ra",
     "wof:parent_id":102079601,
     "wof:placetype":"localadmin",

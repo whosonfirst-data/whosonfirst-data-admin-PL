@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4893,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.78993,
     "lbl:longitude":21.59122,
     "lbl:max_zoom":15.0,
@@ -182,8 +191,10 @@
         "eurostat:nuts_2021_id":"1007142710302",
         "gn:id":766757,
         "gp:id":24548218,
+        "pol-gus:code":"1007142710302",
         "qs_pg:id":1095667
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042881,
     "wof:geom_alt":[
@@ -200,7 +211,7 @@
         }
     ],
     "wof:id":1125290131,
-    "wof:lastmodified":1684354174,
+    "wof:lastmodified":1695878992,
     "wof:name":"Gmina \u0141askarzew",
     "wof:parent_id":102079901,
     "wof:placetype":"localadmin",

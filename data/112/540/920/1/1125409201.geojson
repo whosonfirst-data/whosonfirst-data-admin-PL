@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.1885,
     "lbl:longitude":20.3044,
     "lbl:max_zoom":18.0,
@@ -108,8 +117,10 @@
         "eg:gisco_id":"PL_1004281540303",
         "eurostat:nuts_2021_id":"1004281540303",
         "gn:id":7532288,
+        "pol-gus:code":"1004281540303",
         "qs_pg:id":1154828
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819221
     ],
@@ -129,7 +140,7 @@
         }
     ],
     "wof:id":1125409201,
-    "wof:lastmodified":1684354330,
+    "wof:lastmodified":1695879271,
     "wof:name":"I\u0142owo-Osada",
     "wof:parent_id":102080111,
     "wof:placetype":"localadmin",

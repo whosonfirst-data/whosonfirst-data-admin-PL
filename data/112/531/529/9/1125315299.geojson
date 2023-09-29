@@ -23,6 +23,15 @@
     "geom:longitude":19.187974,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.030637,
     "lbl:longitude":19.172023,
     "lbl:max_zoom":18.0,
@@ -101,8 +110,10 @@
         "eg:gisco_id":"PL_1004221420908",
         "eurostat:nuts_2021_id":"1004221420908",
         "gp:id":12616793,
+        "pol-gus:code":"1004221420908",
         "qs_pg:id":493072
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101817681
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125315299,
-    "wof:lastmodified":1684354219,
+    "wof:lastmodified":1695879071,
     "wof:name":"Stare Pole",
     "wof:parent_id":102080201,
     "wof:placetype":"localadmin",

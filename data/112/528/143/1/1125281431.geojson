@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4060,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.77405,
     "lbl:longitude":16.98237,
     "lbl:max_zoom":15.0,
@@ -159,8 +168,10 @@
         "eurostat:nuts_2021_id":"1002301590403",
         "gn:id":3094690,
         "gp:id":24547621,
+        "pol-gus:code":"1002301590403",
         "qs_pg:id":1083376
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042515,
     "wof:geom_alt":[
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":1125281431,
-    "wof:lastmodified":1684354148,
+    "wof:lastmodified":1695878967,
     "wof:name":"Gmina Krobia",
     "wof:parent_id":102079829,
     "wof:placetype":"localadmin",

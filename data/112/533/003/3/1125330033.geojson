@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":24096,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.08829,
     "lbl:longitude":16.64866,
     "lbl:max_zoom":14.0,
@@ -203,8 +212,10 @@
         "eurostat:nuts_2021_id":"1002301591101",
         "gn:id":3095151,
         "gp:id":24547471,
+        "pol-gus:code":"1002301591101",
         "qs_pg:id":145585
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125970985
     ],
@@ -224,7 +235,7 @@
         }
     ],
     "wof:id":1125330033,
-    "wof:lastmodified":1684354241,
+    "wof:lastmodified":1695879142,
     "wof:name":"Gmina Ko\u015bcian",
     "wof:parent_id":102079871,
     "wof:placetype":"localadmin",

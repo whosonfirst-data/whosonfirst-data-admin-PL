@@ -22,6 +22,15 @@
     "geom:latitude":53.46431,
     "geom:longitude":19.577337,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.482067,
     "lbl:longitude":19.567743,
     "mps:latitude":53.482067,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281541205",
-        "eurostat:nuts_2021_id":"1004281541205"
+        "eurostat:nuts_2021_id":"1004281541205",
+        "pol-gus:code":"1004281541205"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864515
     ],
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752775,
-    "wof:lastmodified":1684354428,
+    "wof:lastmodified":1695879374,
     "wof:name":"Gmina Nowe Miasto Lubawskie",
     "wof:parent_id":102080125,
     "wof:placetype":"localadmin",

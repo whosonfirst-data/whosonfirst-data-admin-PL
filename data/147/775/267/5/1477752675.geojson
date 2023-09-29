@@ -22,6 +22,15 @@
     "geom:latitude":51.995996,
     "geom:longitude":22.524152,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.994887,
     "lbl:longitude":22.524157,
     "mps:latitude":51.994887,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061121109",
-        "eurostat:nuts_2021_id":"1006061121109"
+        "eurostat:nuts_2021_id":"1006061121109",
+        "pol-gus:code":"1006061121109"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125886569
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752675,
-    "wof:lastmodified":1684354422,
+    "wof:lastmodified":1695879368,
     "wof:name":"Trzebiesz\u00f3w",
     "wof:parent_id":102079925,
     "wof:placetype":"localadmin",

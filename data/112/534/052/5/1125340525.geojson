@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":770,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.10413,
     "lbl:longitude":15.07625,
     "lbl:max_zoom":17.0,
@@ -93,8 +102,10 @@
         "eurostat:nuts_2021_id":"1002321641204",
         "gn:id":3087958,
         "gp:id":12618806,
+        "pol-gus:code":"1002321641204",
         "qs_pg:id":1313613
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864599
     ],
@@ -114,7 +125,7 @@
         }
     ],
     "wof:id":1125340525,
-    "wof:lastmodified":1684354249,
+    "wof:lastmodified":1695879157,
     "wof:name":"Przelewice",
     "wof:parent_id":102080041,
     "wof:placetype":"localadmin",

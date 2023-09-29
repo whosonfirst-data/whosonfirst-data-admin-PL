@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":337,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.19534,
     "lbl:longitude":20.47637,
     "lbl:max_zoom":17.0,
@@ -107,8 +116,10 @@
         "eurostat:nuts_2021_id":"1007142251309",
         "gn:id":755919,
         "gp:id":12618397,
+        "pol-gus:code":"1007142251309",
         "qs_pg:id":1251934
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865065
     ],
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1125285071,
-    "wof:lastmodified":1684354155,
+    "wof:lastmodified":1695878974,
     "wof:name":"Wieczfnia Ko\u015bcielna",
     "wof:parent_id":102080089,
     "wof:placetype":"localadmin",

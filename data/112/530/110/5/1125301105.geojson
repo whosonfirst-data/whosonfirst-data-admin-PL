@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1500,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.90994,
     "lbl:longitude":19.12016,
     "lbl:max_zoom":16.0,
@@ -108,8 +117,10 @@
         "eurostat:nuts_2021_id":"1004041080805",
         "gn:id":3096220,
         "gp:id":12617608,
+        "pol-gus:code":"1004041080805",
         "qs_pg:id":270391
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819049
     ],
@@ -129,7 +140,7 @@
         }
     ],
     "wof:id":1125301105,
-    "wof:lastmodified":1684354193,
+    "wof:lastmodified":1695879017,
     "wof:name":"Kik\u00f3\u0142",
     "wof:parent_id":102080033,
     "wof:placetype":"localadmin",

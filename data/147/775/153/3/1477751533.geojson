@@ -22,6 +22,15 @@
     "geom:latitude":53.255074,
     "geom:longitude":19.400569,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.252564,
     "lbl:longitude":19.397205,
     "mps:latitude":53.252564,
@@ -55,8 +64,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004041070201",
-        "eurostat:nuts_2021_id":"1004041070201"
+        "eurostat:nuts_2021_id":"1004041070201",
+        "pol-gus:code":"1004041070201"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"16f9c2bbba3ae748e1ca624795a224c7",
     "wof:hierarchy":[
@@ -69,7 +80,7 @@
         }
     ],
     "wof:id":1477751533,
-    "wof:lastmodified":1684354362,
+    "wof:lastmodified":1695879305,
     "wof:name":"Gmina Brodnica",
     "wof:parent_id":102080099,
     "wof:placetype":"localadmin",

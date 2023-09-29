@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1150,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.82608,
     "lbl:longitude":22.39117,
     "lbl:max_zoom":16.0,
@@ -107,8 +116,10 @@
         "eurostat:nuts_2021_id":"1006181341302",
         "gn:id":772897,
         "gp:id":12617037,
+        "pol-gus:code":"1006181341302",
         "qs_pg:id":1172320
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126011603
     ],
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1125364589,
-    "wof:lastmodified":1684354271,
+    "wof:lastmodified":1695879204,
     "wof:name":"Dubiecko",
     "wof:parent_id":102079513,
     "wof:placetype":"localadmin",

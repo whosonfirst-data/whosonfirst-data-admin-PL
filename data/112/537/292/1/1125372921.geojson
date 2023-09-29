@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":5418,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.03098,
     "lbl:longitude":16.76767,
     "lbl:max_zoom":15.0,
@@ -170,8 +179,10 @@
         "eurostat:nuts_2021_id":"1003021042304",
         "gn:id":3096444,
         "gp:id":24547911,
+        "pol-gus:code":"1003021042304",
         "qs_pg:id":344006
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047533,
     "wof:geom_alt":[
@@ -188,7 +199,7 @@
         }
     ],
     "wof:id":1125372921,
-    "wof:lastmodified":1684354287,
+    "wof:lastmodified":1695879225,
     "wof:name":"Gmina K\u0105ty Wroc\u0142awskie",
     "wof:parent_id":102079685,
     "wof:placetype":"localadmin",

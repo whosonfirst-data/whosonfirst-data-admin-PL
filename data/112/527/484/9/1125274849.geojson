@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3506,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.77256,
     "lbl:longitude":22.60351,
     "lbl:max_zoom":15.0,
@@ -273,8 +282,10 @@
         "eurostat:nuts_2021_id":"1006061120502",
         "gn:id":774304,
         "gp:id":12618442,
+        "pol-gus:code":"1006061120502",
         "qs_pg:id":1061096
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865417
     ],
@@ -294,7 +305,7 @@
         }
     ],
     "wof:id":1125274849,
-    "wof:lastmodified":1684354143,
+    "wof:lastmodified":1695878960,
     "wof:name":"Chrzan\u00f3w",
     "wof:parent_id":102079697,
     "wof:placetype":"localadmin",

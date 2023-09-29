@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1978,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.32684,
     "lbl:longitude":19.11252,
     "lbl:max_zoom":16.0,
@@ -110,8 +119,10 @@
         "eurostat:nuts_2021_id":"1004221401004",
         "gn:id":3084673,
         "gp:id":12616787,
+        "pol-gus:code":"1004221401004",
         "qs_pg:id":1190411
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864421
     ],
@@ -131,7 +142,7 @@
         }
     ],
     "wof:id":1125304199,
-    "wof:lastmodified":1684354198,
+    "wof:lastmodified":1695879023,
     "wof:name":"Stegna",
     "wof:parent_id":102080239,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":27633,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.43022,
     "lbl:longitude":20.71652,
     "lbl:max_zoom":14.0,
@@ -176,8 +185,10 @@
         "eurostat:nuts_2021_id":"1007141301401",
         "gn:id":763556,
         "gp:id":12618845,
+        "pol-gus:code":"1007141301401",
         "qs_pg:id":129299
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820463
     ],
@@ -197,7 +208,7 @@
         }
     ],
     "wof:id":1125289393,
-    "wof:lastmodified":1684354173,
+    "wof:lastmodified":1695878990,
     "wof:name":"Nowy Dw\u00f3r Mazowiecki",
     "wof:parent_id":102080001,
     "wof:placetype":"localadmin",

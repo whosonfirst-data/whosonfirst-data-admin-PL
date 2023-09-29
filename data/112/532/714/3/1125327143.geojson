@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":21887,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.05857,
     "lbl:longitude":18.41703,
     "lbl:max_zoom":14.0,
@@ -164,8 +173,10 @@
         "eurostat:nuts_2021_id":"1001241491503",
         "gn:id":3086531,
         "gp:id":24548819,
+        "pol-gus:code":"1001241491503",
         "qs_pg:id":1286714
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101756557
     ],
@@ -185,7 +196,7 @@
         }
     ],
     "wof:id":1125327143,
-    "wof:lastmodified":1684354236,
+    "wof:lastmodified":1695879134,
     "wof:name":"Rydu\u0142towy",
     "wof:parent_id":102079445,
     "wof:placetype":"localadmin",

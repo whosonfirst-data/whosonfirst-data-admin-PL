@@ -22,6 +22,15 @@
     "geom:latitude":52.855023,
     "geom:longitude":21.699765,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.85236,
     "lbl:longitude":21.698181,
     "mps:latitude":52.85236,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142261610",
-        "eurostat:nuts_2021_id":"1007142261610"
+        "eurostat:nuts_2021_id":"1007142261610",
+        "pol-gus:code":"1007142261610"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126007201
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477752049,
-    "wof:lastmodified":1684354389,
+    "wof:lastmodified":1695879333,
     "wof:name":"W\u0105sewo",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",

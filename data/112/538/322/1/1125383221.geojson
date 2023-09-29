@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3621,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.03492,
     "lbl:longitude":23.60996,
     "lbl:max_zoom":15.0,
@@ -159,8 +168,10 @@
         "eurostat:nuts_2021_id":"1006201370207",
         "gn:id":764936,
         "gp:id":12617042,
+        "pol-gus:code":"1006201370207",
         "qs_pg:id":1013454
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497048193,
     "wof:geom_alt":[
@@ -177,7 +188,7 @@
         }
     ],
     "wof:id":1125383221,
-    "wof:lastmodified":1684354300,
+    "wof:lastmodified":1695879240,
     "wof:name":"Gmina Micha\u0142owo",
     "wof:parent_id":102080145,
     "wof:placetype":"localadmin",

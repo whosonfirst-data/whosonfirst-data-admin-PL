@@ -22,6 +22,15 @@
     "geom:latitude":50.65725,
     "geom:longitude":19.938249,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.666997,
     "lbl:longitude":19.914402,
     "mps:latitude":50.666997,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005261531303",
-        "eurostat:nuts_2021_id":"1005261531303"
+        "eurostat:nuts_2021_id":"1005261531303",
+        "pol-gus:code":"1005261531303"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125811211
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477751719,
-    "wof:lastmodified":1684354372,
+    "wof:lastmodified":1695879316,
     "wof:name":"Moskorzew",
     "wof:parent_id":102079679,
     "wof:placetype":"localadmin",

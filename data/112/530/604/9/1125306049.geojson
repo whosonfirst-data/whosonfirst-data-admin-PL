@@ -23,6 +23,15 @@
     "geom:longitude":19.6017,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.56612,
     "lbl:longitude":19.602527,
     "lbl:max_zoom":18.0,
@@ -98,8 +107,10 @@
         "eg:gisco_id":"PL_1001241501604",
         "eurostat:nuts_2021_id":"1001241501604",
         "gp:id":12617451,
+        "pol-gus:code":"1001241501604",
         "qs_pg:id":31828
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823743
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125306049,
-    "wof:lastmodified":1684354207,
+    "wof:lastmodified":1695879035,
     "wof:name":"Kroczyce",
     "wof:parent_id":102079613,
     "wof:placetype":"localadmin",

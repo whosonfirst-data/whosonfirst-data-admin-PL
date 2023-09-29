@@ -22,6 +22,15 @@
     "geom:latitude":50.486642,
     "geom:longitude":19.691076,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.498387,
     "lbl:longitude":19.708935,
     "mps:latitude":50.498387,
@@ -79,8 +88,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241501607",
-        "eurostat:nuts_2021_id":"1001241501607"
+        "eurostat:nuts_2021_id":"1001241501607",
+        "pol-gus:code":"1001241501607"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"b45251d1154d5d4c89076d717f1e6705",
     "wof:hierarchy":[
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1477752279,
-    "wof:lastmodified":1684354402,
+    "wof:lastmodified":1695879347,
     "wof:name":"Gmina Pilica",
     "wof:parent_id":102079613,
     "wof:placetype":"localadmin",

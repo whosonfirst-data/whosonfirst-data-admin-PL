@@ -22,6 +22,15 @@
     "geom:latitude":53.719909,
     "geom:longitude":23.106271,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.719202,
     "lbl:longitude":23.106226,
     "mps:latitude":53.719202,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201390107",
-        "eurostat:nuts_2021_id":"1006201390107"
+        "eurostat:nuts_2021_id":"1006201390107",
+        "pol-gus:code":"1006201390107"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126018441
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752059,
-    "wof:lastmodified":1684354390,
+    "wof:lastmodified":1695879334,
     "wof:name":"Sztabin",
     "wof:parent_id":102080221,
     "wof:placetype":"localadmin",

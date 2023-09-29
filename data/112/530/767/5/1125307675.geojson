@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4403,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.13609,
     "lbl:longitude":19.00909,
     "lbl:max_zoom":15.0,
@@ -176,8 +185,10 @@
         "eurostat:nuts_2021_id":"1004221420907",
         "gn:id":3090470,
         "gp:id":24547704,
+        "pol-gus:code":"1004221420907",
         "qs_pg:id":203300
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043791,
     "wof:geom_alt":[
@@ -194,7 +205,7 @@
         }
     ],
     "wof:id":1125307675,
-    "wof:lastmodified":1684354210,
+    "wof:lastmodified":1695879042,
     "wof:name":"Gmina Nowy Staw",
     "wof:parent_id":102080201,
     "wof:placetype":"localadmin",

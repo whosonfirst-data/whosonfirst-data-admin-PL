@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3484,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.63997,
     "lbl:longitude":22.44391,
     "lbl:max_zoom":15.0,
@@ -179,8 +188,10 @@
         "eurostat:nuts_2021_id":"1006061110806",
         "gn:id":768861,
         "gp:id":24548685,
+        "pol-gus:code":"1006061110806",
         "qs_pg:id":581416
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497046950,
     "wof:geom_alt":[
@@ -197,7 +208,7 @@
         }
     ],
     "wof:id":1125363661,
-    "wof:lastmodified":1684354270,
+    "wof:lastmodified":1695879202,
     "wof:name":"Gmina Kock",
     "wof:parent_id":102079855,
     "wof:placetype":"localadmin",

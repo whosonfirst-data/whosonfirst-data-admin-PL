@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":920,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.4065,
     "lbl:longitude":21.33176,
     "lbl:max_zoom":17.0,
@@ -105,8 +114,10 @@
         "eurostat:nuts_2021_id":"1007141293407",
         "gn:id":769106,
         "gp:id":12618563,
+        "pol-gus:code":"1007141293407",
         "qs_pg:id":1218694
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865109
     ],
@@ -126,7 +137,7 @@
         }
     ],
     "wof:id":1125318521,
-    "wof:lastmodified":1684354222,
+    "wof:lastmodified":1695879074,
     "wof:name":"Klemb\u00f3w",
     "wof:parent_id":102079995,
     "wof:placetype":"localadmin",

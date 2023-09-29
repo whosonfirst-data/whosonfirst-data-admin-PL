@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.40619,
     "lbl:longitude":16.92341,
     "lbl:max_zoom":18.0,
@@ -422,8 +431,10 @@
         "eurostat:nuts_2021_id":"1002301626401",
         "gn:id":7531836,
         "gp:id":12618604,
+        "pol-gus:code":"1002301626401",
         "qs_pg:id":1099644
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101752223
     ],
@@ -443,7 +454,7 @@
         }
     ],
     "wof:id":1125294929,
-    "wof:lastmodified":1684354184,
+    "wof:lastmodified":1695879004,
     "wof:name":"Pozna\u0144",
     "wof:parent_id":102079921,
     "wof:placetype":"localadmin",

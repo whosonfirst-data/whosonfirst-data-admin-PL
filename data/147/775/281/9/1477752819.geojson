@@ -22,6 +22,15 @@
     "geom:latitude":50.025082,
     "geom:longitude":22.916056,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.032245,
     "lbl:longitude":22.943292,
     "mps:latitude":50.032245,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181340405",
-        "eurostat:nuts_2021_id":"1006181340405"
+        "eurostat:nuts_2021_id":"1006181340405",
+        "pol-gus:code":"1006181340405"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101825033
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477752819,
-    "wof:lastmodified":1684354431,
+    "wof:lastmodified":1695879376,
     "wof:name":"Laszki",
     "wof:parent_id":102079573,
     "wof:placetype":"localadmin",

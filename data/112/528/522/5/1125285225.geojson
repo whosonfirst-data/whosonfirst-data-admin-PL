@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1157,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.58373,
     "lbl:longitude":22.8798,
     "lbl:max_zoom":16.0,
@@ -105,8 +114,10 @@
         "eurostat:nuts_2021_id":"1006061100213",
         "gn:id":756933,
         "gp:id":12618292,
+        "pol-gus:code":"1006061100213",
         "qs_pg:id":1093983
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477866097
     ],
@@ -126,7 +137,7 @@
         }
     ],
     "wof:id":1125285225,
-    "wof:lastmodified":1684354158,
+    "wof:lastmodified":1695878975,
     "wof:name":"Tereszpol",
     "wof:parent_id":102079699,
     "wof:placetype":"localadmin",

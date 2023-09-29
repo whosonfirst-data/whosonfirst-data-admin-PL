@@ -22,6 +22,15 @@
     "geom:latitude":51.940379,
     "geom:longitude":19.20839,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.938135,
     "lbl:longitude":19.217759,
     "mps:latitude":51.938135,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101152007",
-        "eurostat:nuts_2021_id":"1005101152007"
+        "eurostat:nuts_2021_id":"1005101152007",
+        "pol-gus:code":"1005101152007"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864767
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125379951,
-    "wof:lastmodified":1684354297,
+    "wof:lastmodified":1695879237,
     "wof:name":"Parz\u0119czew",
     "wof:parent_id":102079873,
     "wof:placetype":"localadmin",

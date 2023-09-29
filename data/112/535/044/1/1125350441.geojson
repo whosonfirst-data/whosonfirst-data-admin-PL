@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":700,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.808,
     "lbl:longitude":20.87325,
     "lbl:max_zoom":17.0,
@@ -111,8 +120,10 @@
         "eurostat:nuts_2021_id":"1007142250204",
         "gn:id":771901,
         "gp:id":12618040,
+        "pol-gus:code":"1007142250204",
         "qs_pg:id":1148882
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865485
     ],
@@ -132,7 +143,7 @@
         }
     ],
     "wof:id":1125350441,
-    "wof:lastmodified":1684354256,
+    "wof:lastmodified":1695879178,
     "wof:name":"Go\u0142ymin-O\u015brodek",
     "wof:parent_id":102080055,
     "wof:placetype":"localadmin",

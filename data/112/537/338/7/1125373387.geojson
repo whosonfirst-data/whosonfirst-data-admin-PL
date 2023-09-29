@@ -23,6 +23,15 @@
     "geom:longitude":18.962514,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.730477,
     "lbl:longitude":18.931445,
     "lbl:max_zoom":18.0,
@@ -116,8 +125,10 @@
         "eg:gisco_id":"PL_1004221420703",
         "eurostat:nuts_2021_id":"1004221420703",
         "gp:id":24547617,
+        "pol-gus:code":"1004221420703",
         "qs_pg:id":989419
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047564,
     "wof:geom_alt":[
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1125373387,
-    "wof:lastmodified":1684354287,
+    "wof:lastmodified":1695879225,
     "wof:name":"Gmina Kwidzyn",
     "wof:parent_id":102080159,
     "wof:placetype":"localadmin",

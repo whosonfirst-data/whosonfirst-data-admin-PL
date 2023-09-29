@@ -23,6 +23,15 @@
     "geom:longitude":16.21281,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.709938,
     "lbl:longitude":16.275665,
     "lbl:max_zoom":18.0,
@@ -113,8 +122,10 @@
         "eg:gisco_id":"PL_1003021032106",
         "eurostat:nuts_2021_id":"1003021032106",
         "gp:id":24547690,
+        "pol-gus:code":"1003021032106",
         "qs_pg:id":248354
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497051201,
     "wof:geom_alt":[
@@ -131,7 +142,7 @@
         }
     ],
     "wof:id":1125415221,
-    "wof:lastmodified":1684354339,
+    "wof:lastmodified":1695879280,
     "wof:name":"Gmina Mierosz\u00f3w",
     "wof:parent_id":102079595,
     "wof:placetype":"localadmin",

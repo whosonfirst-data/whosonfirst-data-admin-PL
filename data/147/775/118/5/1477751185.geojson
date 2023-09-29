@@ -22,6 +22,15 @@
     "geom:latitude":53.52682,
     "geom:longitude":20.117396,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.528824,
     "lbl:longitude":20.115307,
     "mps:latitude":53.528824,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281541503",
-        "eurostat:nuts_2021_id":"1004281541503"
+        "eurostat:nuts_2021_id":"1004281541503",
+        "pol-gus:code":"1004281541503"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125872129
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477751185,
-    "wof:lastmodified":1684354345,
+    "wof:lastmodified":1695879287,
     "wof:name":"Grunwald",
     "wof:parent_id":102080197,
     "wof:placetype":"localadmin",

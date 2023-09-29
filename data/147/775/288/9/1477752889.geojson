@@ -22,6 +22,15 @@
     "geom:latitude":51.830875,
     "geom:longitude":22.959833,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.839914,
     "lbl:longitude":22.980629,
     "mps:latitude":51.839914,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061091505",
-        "eurostat:nuts_2021_id":"1006061091505"
+        "eurostat:nuts_2021_id":"1006061091505",
+        "pol-gus:code":"1006061091505"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821691
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752889,
-    "wof:lastmodified":1684354435,
+    "wof:lastmodified":1695879380,
     "wof:name":"Komar\u00f3wka Podlaska",
     "wof:parent_id":102079905,
     "wof:placetype":"localadmin",

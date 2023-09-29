@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":980,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.78086,
     "lbl:longitude":18.96026,
     "lbl:max_zoom":17.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1004041080802",
         "gn:id":3103148,
         "gp:id":12617469,
+        "pol-gus:code":"1004041080802",
         "qs_pg:id":1099615
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864095
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125294803,
-    "wof:lastmodified":1684354182,
+    "wof:lastmodified":1695879002,
     "wof:name":"Bobrowniki",
     "wof:parent_id":102080033,
     "wof:placetype":"localadmin",

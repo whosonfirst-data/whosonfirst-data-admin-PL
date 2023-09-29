@@ -22,6 +22,15 @@
     "geom:latitude":51.663709,
     "geom:longitude":23.22505,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.665949,
     "lbl:longitude":23.217289,
     "mps:latitude":51.665949,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061091305",
-        "eurostat:nuts_2021_id":"1006061091305"
+        "eurostat:nuts_2021_id":"1006061091305",
+        "pol-gus:code":"1006061091305"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125837515
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477751561,
-    "wof:lastmodified":1684354364,
+    "wof:lastmodified":1695879306,
     "wof:name":"Podedw\u00f3rze",
     "wof:parent_id":102079885,
     "wof:placetype":"localadmin",

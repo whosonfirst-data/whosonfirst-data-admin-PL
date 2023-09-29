@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2067,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.65187,
     "lbl:longitude":14.62555,
     "lbl:max_zoom":15.0,
@@ -146,8 +155,10 @@
         "eurostat:nuts_2021_id":"1002321660407",
         "gn:id":3084660,
         "gp:id":12618259,
+        "pol-gus:code":"1002321660407",
         "qs_pg:id":288838
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497046475,
     "wof:geom_alt":[
@@ -164,7 +175,7 @@
         }
     ],
     "wof:id":1125356007,
-    "wof:lastmodified":1684354261,
+    "wof:lastmodified":1695879189,
     "wof:name":"Gmina Stepnica",
     "wof:parent_id":102080123,
     "wof:placetype":"localadmin",

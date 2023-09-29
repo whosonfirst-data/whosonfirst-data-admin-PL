@@ -22,6 +22,15 @@
     "geom:latitude":53.119138,
     "geom:longitude":16.896266,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.113136,
     "lbl:longitude":16.889163,
     "mps:latitude":53.113136,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301601903",
-        "eurostat:nuts_2021_id":"1002301601903"
+        "eurostat:nuts_2021_id":"1002301601903",
+        "pol-gus:code":"1002301601903"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820535
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477751217,
-    "wof:lastmodified":1684354346,
+    "wof:lastmodified":1695879288,
     "wof:name":"Kaczory",
     "wof:parent_id":102080065,
     "wof:placetype":"localadmin",

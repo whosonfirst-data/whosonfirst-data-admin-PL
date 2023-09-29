@@ -22,6 +22,15 @@
     "geom:latitude":53.046396,
     "geom:longitude":19.911785,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.048121,
     "lbl:longitude":19.911771,
     "mps:latitude":53.048121,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142253706",
-        "eurostat:nuts_2021_id":"1007142253706"
+        "eurostat:nuts_2021_id":"1007142253706",
+        "pol-gus:code":"1007142253706"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"8b5a8d6335ec4f1c025d707a427c5a49",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477751741,
-    "wof:lastmodified":1684354373,
+    "wof:lastmodified":1695879317,
     "wof:name":"Gmina \u017buromin",
     "wof:parent_id":102080069,
     "wof:placetype":"localadmin",

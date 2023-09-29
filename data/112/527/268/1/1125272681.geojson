@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":792,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.33116,
     "lbl:longitude":22.65896,
     "lbl:max_zoom":17.0,
@@ -110,8 +119,10 @@
         "eurostat:nuts_2021_id":"1006181330103",
         "gn:id":773968,
         "gp:id":12618322,
+        "pol-gus:code":"1006181330103",
         "qs_pg:id":1059458
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863453
     ],
@@ -131,7 +142,7 @@
         }
     ],
     "wof:id":1125272681,
-    "wof:lastmodified":1684354141,
+    "wof:lastmodified":1695878958,
     "wof:name":"Czarna",
     "wof:parent_id":102079439,
     "wof:placetype":"localadmin",

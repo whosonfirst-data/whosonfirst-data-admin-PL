@@ -22,6 +22,15 @@
     "geom:latitude":52.014638,
     "geom:longitude":22.762884,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.041828,
     "lbl:longitude":22.721784,
     "mps:latitude":52.041828,
@@ -91,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061090110",
-        "eurostat:nuts_2021_id":"1006061090110"
+        "eurostat:nuts_2021_id":"1006061090110",
+        "pol-gus:code":"1006061090110"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864121
     ],
@@ -108,7 +119,7 @@
         }
     ],
     "wof:id":1477752139,
-    "wof:lastmodified":1684354394,
+    "wof:lastmodified":1695879339,
     "wof:name":"Gmina Mi\u0119dzyrzec Podlaski",
     "wof:parent_id":102079973,
     "wof:placetype":"localadmin",

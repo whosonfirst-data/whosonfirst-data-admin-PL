@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":870,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.444,
     "lbl:longitude":19.10171,
     "lbl:max_zoom":17.0,
@@ -99,8 +108,10 @@
         "eurostat:nuts_2021_id":"1004041070606",
         "gn:id":3084069,
         "gp:id":24548046,
+        "pol-gus:code":"1004041070606",
         "qs_pg:id":203299
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865299
     ],
@@ -120,7 +131,7 @@
         }
     ],
     "wof:id":1125307667,
-    "wof:lastmodified":1684354210,
+    "wof:lastmodified":1695879041,
     "wof:name":"\u015awiecie nad Os\u0105",
     "wof:parent_id":102080127,
     "wof:placetype":"localadmin",

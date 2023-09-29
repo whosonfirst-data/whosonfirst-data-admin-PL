@@ -22,6 +22,15 @@
     "geom:latitude":50.997256,
     "geom:longitude":23.505118,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.012114,
     "lbl:longitude":23.503365,
     "mps:latitude":51.012114,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061100307",
-        "eurostat:nuts_2021_id":"1006061100307"
+        "eurostat:nuts_2021_id":"1006061100307",
+        "pol-gus:code":"1006061100307"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126007801
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752533,
-    "wof:lastmodified":1684354414,
+    "wof:lastmodified":1695879360,
     "wof:name":"Le\u015bniowice",
     "wof:parent_id":102079813,
     "wof:placetype":"localadmin",

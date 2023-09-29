@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":930,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.26858,
     "lbl:longitude":19.87092,
     "lbl:max_zoom":17.0,
@@ -109,8 +118,10 @@
         "eurostat:nuts_2021_id":"1005101190505",
         "gn:id":3096257,
         "gp:id":12618026,
+        "pol-gus:code":"1005101190505",
         "qs_pg:id":24113
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863481
     ],
@@ -130,7 +141,7 @@
         }
     ],
     "wof:id":1125324319,
-    "wof:lastmodified":1684354229,
+    "wof:lastmodified":1695879105,
     "wof:name":"Kiernozia",
     "wof:parent_id":102079923,
     "wof:placetype":"localadmin",

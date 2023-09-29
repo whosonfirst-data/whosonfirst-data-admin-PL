@@ -22,6 +22,15 @@
     "geom:latitude":51.871609,
     "geom:longitude":18.289804,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.893382,
     "lbl:longitude":18.315794,
     "mps:latitude":51.893382,
@@ -52,8 +61,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301570703",
-        "eurostat:nuts_2021_id":"1002301570703"
+        "eurostat:nuts_2021_id":"1002301570703",
+        "pol-gus:code":"1002301570703"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125821609
     ],
@@ -69,7 +80,7 @@
         }
     ],
     "wof:id":1477752467,
-    "wof:lastmodified":1684354411,
+    "wof:lastmodified":1695879357,
     "wof:name":"Cek\u00f3w-Kolonia",
     "wof:parent_id":102079841,
     "wof:placetype":"localadmin",

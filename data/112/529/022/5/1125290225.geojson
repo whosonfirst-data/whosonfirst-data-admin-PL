@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4093,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.80182,
     "lbl:longitude":15.2667,
     "lbl:max_zoom":15.0,
@@ -179,8 +188,10 @@
         "eurostat:nuts_2021_id":"1002321660504",
         "gn:id":3088788,
         "gp:id":24547652,
+        "pol-gus:code":"1002321660504",
         "qs_pg:id":1200403
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042885,
     "wof:geom_alt":[
@@ -197,7 +208,7 @@
         }
     ],
     "wof:id":1125290225,
-    "wof:lastmodified":1684354175,
+    "wof:lastmodified":1695878992,
     "wof:name":"Gmina P\u0142oty",
     "wof:parent_id":102080165,
     "wof:placetype":"localadmin",

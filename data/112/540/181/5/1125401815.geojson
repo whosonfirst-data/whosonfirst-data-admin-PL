@@ -23,6 +23,15 @@
     "geom:longitude":23.601373,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.712483,
     "lbl:longitude":23.57975,
     "lbl:max_zoom":18.0,
@@ -119,8 +128,10 @@
         "eg:gisco_id":"PL_1006201380506",
         "eurostat:nuts_2021_id":"1006201380506",
         "gp:id":24548270,
+        "pol-gus:code":"1006201380506",
         "qs_pg:id":1334615
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865155
     ],
@@ -140,7 +151,7 @@
         }
     ],
     "wof:id":1125401815,
-    "wof:lastmodified":1684354326,
+    "wof:lastmodified":1695879267,
     "wof:name":"Gmina Hajn\u00f3wka",
     "wof:parent_id":102080091,
     "wof:placetype":"localadmin",

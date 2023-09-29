@@ -22,6 +22,15 @@
     "geom:latitude":52.58272,
     "geom:longitude":23.331804,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.586337,
     "lbl:longitude":23.320577,
     "mps:latitude":52.586337,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201380507",
-        "eurostat:nuts_2021_id":"1006201380507"
+        "eurostat:nuts_2021_id":"1006201380507",
+        "pol-gus:code":"1006201380507"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"f46e9c617b7f83babf87c44b317b999b",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751367,
-    "wof:lastmodified":1684354354,
+    "wof:lastmodified":1695879296,
     "wof:name":"Gmina Kleszczele",
     "wof:parent_id":102080091,
     "wof:placetype":"localadmin",

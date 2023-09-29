@@ -22,6 +22,15 @@
     "geom:latitude":53.108965,
     "geom:longitude":22.43809,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.11468,
     "lbl:longitude":22.440498,
     "mps:latitude":53.11468,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201381403",
-        "eurostat:nuts_2021_id":"1006201381403"
+        "eurostat:nuts_2021_id":"1006201381403",
+        "pol-gus:code":"1006201381403"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1326757099
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477752833,
-    "wof:lastmodified":1684354431,
+    "wof:lastmodified":1695879377,
     "wof:name":"Rutki",
     "wof:parent_id":102080103,
     "wof:placetype":"localadmin",

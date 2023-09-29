@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":7096,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.07069,
     "lbl:longitude":21.70062,
     "lbl:max_zoom":15.0,
@@ -170,8 +179,10 @@
         "eurostat:nuts_2021_id":"1006181351504",
         "gn:id":759504,
         "gp:id":24548640,
+        "pol-gus:code":"1006181351504",
         "qs_pg:id":923478
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497046332,
     "wof:geom_alt":[
@@ -188,7 +199,7 @@
         }
     ],
     "wof:id":1125353607,
-    "wof:lastmodified":1684354259,
+    "wof:lastmodified":1695879185,
     "wof:name":"Gmina S\u0119dzisz\u00f3w Ma\u0142opolski",
     "wof:parent_id":102079547,
     "wof:placetype":"localadmin",

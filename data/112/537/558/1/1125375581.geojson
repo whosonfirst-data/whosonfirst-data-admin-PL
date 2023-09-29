@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1200,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.15066,
     "lbl:longitude":15.16946,
     "lbl:max_zoom":16.0,
@@ -99,8 +108,10 @@
         "eurostat:nuts_2021_id":"1002081140203",
         "gn:id":3101951,
         "gp:id":12617424,
+        "pol-gus:code":"1002081140203",
         "qs_pg:id":998968
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864707
     ],
@@ -120,7 +131,7 @@
         }
     ],
     "wof:id":1125375581,
-    "wof:lastmodified":1684354291,
+    "wof:lastmodified":1695879229,
     "wof:name":"Bytnica",
     "wof:parent_id":102079843,
     "wof:placetype":"localadmin",

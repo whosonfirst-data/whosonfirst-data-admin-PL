@@ -22,6 +22,15 @@
     "geom:latitude":52.561878,
     "geom:longitude":22.918669,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.551916,
     "lbl:longitude":22.920357,
     "mps:latitude":52.551916,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201381003",
-        "eurostat:nuts_2021_id":"1006201381003"
+        "eurostat:nuts_2021_id":"1006201381003",
+        "pol-gus:code":"1006201381003"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1209037281
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477751245,
-    "wof:lastmodified":1684354348,
+    "wof:lastmodified":1695879290,
     "wof:name":"Dziadkowice",
     "wof:parent_id":102080037,
     "wof:placetype":"localadmin",

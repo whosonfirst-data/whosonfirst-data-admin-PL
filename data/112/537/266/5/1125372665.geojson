@@ -23,6 +23,15 @@
     "geom:longitude":19.307636,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.008842,
     "lbl:longitude":19.280319,
     "lbl:max_zoom":18.0,
@@ -86,8 +95,10 @@
         "eg:gisco_id":"PL_1001121231307",
         "eurostat:nuts_2021_id":"1001121231307",
         "gp:id":12618749,
+        "pol-gus:code":"1001121231307",
         "qs_pg:id":987361
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824775
     ],
@@ -107,7 +118,7 @@
         }
     ],
     "wof:id":1125372665,
-    "wof:lastmodified":1684354286,
+    "wof:lastmodified":1695879224,
     "wof:name":"Polanka Wielka",
     "wof:parent_id":102079465,
     "wof:placetype":"localadmin",

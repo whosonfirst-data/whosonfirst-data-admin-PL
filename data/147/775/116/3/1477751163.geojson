@@ -22,6 +22,15 @@
     "geom:latitude":50.714919,
     "geom:longitude":21.947072,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.71886,
     "lbl:longitude":21.948893,
     "mps:latitude":50.71886,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181361804",
-        "eurostat:nuts_2021_id":"1006181361804"
+        "eurostat:nuts_2021_id":"1006181361804",
+        "pol-gus:code":"1006181361804"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101911385
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751163,
-    "wof:lastmodified":1684354344,
+    "wof:lastmodified":1695879285,
     "wof:name":"Radomy\u015bl nad Sanem",
     "wof:parent_id":102079669,
     "wof:placetype":"localadmin",

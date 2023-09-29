@@ -22,6 +22,15 @@
     "geom:latitude":49.974132,
     "geom:longitude":19.153383,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.974923,
     "lbl:longitude":19.154371,
     "mps:latitude":49.974923,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121231302",
-        "eurostat:nuts_2021_id":"1001121231302"
+        "eurostat:nuts_2021_id":"1001121231302",
+        "pol-gus:code":"1001121231302"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"5807fa7eb6f62d08e3641e0ca1bf8f75",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752425,
-    "wof:lastmodified":1684354409,
+    "wof:lastmodified":1695879355,
     "wof:name":"Gmina Brzeszcze",
     "wof:parent_id":102079465,
     "wof:placetype":"localadmin",

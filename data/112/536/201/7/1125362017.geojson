@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":11489,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.42974,
     "lbl:longitude":21.75078,
     "lbl:max_zoom":15.0,
@@ -161,8 +170,10 @@
         "eurostat:nuts_2021_id":"1006181362004",
         "gn:id":763783,
         "gp:id":24548439,
+        "pol-gus:code":"1006181362004",
         "qs_pg:id":547474
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497046858,
     "wof:geom_alt":[
@@ -179,7 +190,7 @@
         }
     ],
     "wof:id":1125362017,
-    "wof:lastmodified":1684354267,
+    "wof:lastmodified":1695879197,
     "wof:name":"Gmina Nowa D\u0119ba",
     "wof:parent_id":102079653,
     "wof:placetype":"localadmin",

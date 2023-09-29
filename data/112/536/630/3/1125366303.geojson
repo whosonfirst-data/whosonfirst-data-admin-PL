@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1024,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.25869,
     "lbl:longitude":18.31953,
     "lbl:max_zoom":16.0,
@@ -99,8 +108,10 @@
         "eurostat:nuts_2021_id":"1005101181802",
         "gn:id":3101089,
         "gp:id":12617585,
+        "pol-gus:code":"1005101181802",
         "qs_pg:id":961202
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863511
     ],
@@ -120,7 +131,7 @@
         }
     ],
     "wof:id":1125366303,
-    "wof:lastmodified":1684354275,
+    "wof:lastmodified":1695879210,
     "wof:name":"Czastary",
     "wof:parent_id":102079731,
     "wof:placetype":"localadmin",

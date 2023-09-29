@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":9822,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.21305,
     "lbl:longitude":19.11771,
     "lbl:max_zoom":15.0,
@@ -179,8 +188,10 @@
         "eurostat:nuts_2021_id":"1004221401002",
         "gn:id":3090502,
         "gp:id":24548123,
+        "pol-gus:code":"1004221401002",
         "qs_pg:id":1200718
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864217
     ],
@@ -200,7 +211,7 @@
         }
     ],
     "wof:id":1125282791,
-    "wof:lastmodified":1684354152,
+    "wof:lastmodified":1695878971,
     "wof:name":"Gmina Nowy Dw\u00f3r Gda\u0144ski",
     "wof:parent_id":102080239,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.925517,
     "geom:longitude":22.509974,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.924418,
     "lbl:longitude":22.507209,
     "mps:latitude":52.924418,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201381301",
-        "eurostat:nuts_2021_id":"1006201381301"
+        "eurostat:nuts_2021_id":"1006201381301",
+        "pol-gus:code":"1006201381301"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"be658a275fe4d66816767d94b1d7600a",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752659,
-    "wof:lastmodified":1684354421,
+    "wof:lastmodified":1695879367,
     "wof:name":"Gmina Wysokie Mazowieckie",
     "wof:parent_id":102080095,
     "wof:placetype":"localadmin",

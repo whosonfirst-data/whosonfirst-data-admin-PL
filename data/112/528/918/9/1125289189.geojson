@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1406,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.60353,
     "lbl:longitude":21.52376,
     "lbl:max_zoom":16.0,
@@ -116,8 +125,10 @@
         "eurostat:nuts_2021_id":"1006181330507",
         "gn:id":763519,
         "gp:id":12618201,
+        "pol-gus:code":"1006181330507",
         "qs_pg:id":24158
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101848003
     ],
@@ -137,7 +148,7 @@
         }
     ],
     "wof:id":1125289189,
-    "wof:lastmodified":1684354170,
+    "wof:lastmodified":1695878987,
     "wof:name":"Nowy \u017bmigr\u00f3d",
     "wof:parent_id":102079453,
     "wof:placetype":"localadmin",

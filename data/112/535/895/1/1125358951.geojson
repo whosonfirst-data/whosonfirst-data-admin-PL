@@ -23,6 +23,15 @@
     "geom:longitude":23.300778,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.893743,
     "lbl:longitude":23.293075,
     "lbl:max_zoom":18.0,
@@ -98,8 +107,10 @@
         "eg:gisco_id":"PL_1006201390106",
         "eurostat:nuts_2021_id":"1006201390106",
         "gp:id":12618528,
+        "pol-gus:code":"1006201390106",
         "qs_pg:id":1160711
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125858641
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125358951,
-    "wof:lastmodified":1684354265,
+    "wof:lastmodified":1695879195,
     "wof:name":"P\u0142aska",
     "wof:parent_id":102080221,
     "wof:placetype":"localadmin",

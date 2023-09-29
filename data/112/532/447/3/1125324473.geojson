@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1300,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.77323,
     "lbl:longitude":22.19865,
     "lbl:max_zoom":16.0,
@@ -97,8 +106,10 @@
         "eurostat:nuts_2021_id":"1006181330206",
         "gn:id":763517,
         "gp:id":12618777,
+        "pol-gus:code":"1006181330206",
         "qs_pg:id":24290
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101863307
     ],
@@ -118,7 +129,7 @@
         }
     ],
     "wof:id":1125324473,
-    "wof:lastmodified":1684354231,
+    "wof:lastmodified":1695879118,
     "wof:name":"Nozdrzec",
     "wof:parent_id":102079461,
     "wof:placetype":"localadmin",

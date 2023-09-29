@@ -23,6 +23,15 @@
     "geom:longitude":19.60069,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.298955,
     "lbl:longitude":19.593429,
     "lbl:max_zoom":18.0,
@@ -119,8 +128,10 @@
         "eg:gisco_id":"PL_1001121231205",
         "eurostat:nuts_2021_id":"1001121231205",
         "gp:id":24548350,
+        "pol-gus:code":"1001121231205",
         "qs_pg:id":1197231
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044060,
     "wof:geom_alt":[
@@ -137,7 +148,7 @@
         }
     ],
     "wof:id":1125312177,
-    "wof:lastmodified":1684354216,
+    "wof:lastmodified":1695879066,
     "wof:name":"Gmina Olkusz",
     "wof:parent_id":102079555,
     "wof:placetype":"localadmin",

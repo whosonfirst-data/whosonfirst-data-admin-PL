@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3865,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.0654,
     "lbl:longitude":20.71103,
     "lbl:max_zoom":15.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1001121240201",
         "gn:id":775423,
         "gp:id":12617600,
+        "pol-gus:code":"1001121240201",
         "qs_pg:id":1208769
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125778835
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125315041,
-    "wof:lastmodified":1684354219,
+    "wof:lastmodified":1695879070,
     "wof:name":"Borz\u0119cin",
     "wof:parent_id":102079517,
     "wof:placetype":"localadmin",

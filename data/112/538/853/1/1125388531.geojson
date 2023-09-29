@@ -23,6 +23,15 @@
     "geom:longitude":20.064028,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.987914,
     "lbl:longitude":20.04558,
     "lbl:max_zoom":18.0,
@@ -212,8 +221,10 @@
         "eg:gisco_id":"PL_1001121201905",
         "eurostat:nuts_2021_id":"1001121201905",
         "gp:id":24548588,
+        "pol-gus:code":"1001121201905",
         "qs_pg:id":954596
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864245
     ],
@@ -233,7 +244,7 @@
         }
     ],
     "wof:id":1125388531,
-    "wof:lastmodified":1684354307,
+    "wof:lastmodified":1695879248,
     "wof:name":"Gmina Wieliczka",
     "wof:parent_id":102079479,
     "wof:placetype":"localadmin",

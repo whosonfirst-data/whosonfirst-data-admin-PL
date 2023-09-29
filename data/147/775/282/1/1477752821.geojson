@@ -22,6 +22,15 @@
     "geom:latitude":52.288481,
     "geom:longitude":17.936192,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.287691,
     "lbl:longitude":17.945827,
     "mps:latitude":52.287691,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301582306",
-        "eurostat:nuts_2021_id":"1002301582306"
+        "eurostat:nuts_2021_id":"1002301582306",
+        "pol-gus:code":"1002301582306"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"ad7f06ccab6897b5da20f0b79d5b9c9e",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752821,
-    "wof:lastmodified":1684354431,
+    "wof:lastmodified":1695879377,
     "wof:name":"Gmina S\u0142upca",
     "wof:parent_id":102079941,
     "wof:placetype":"localadmin",

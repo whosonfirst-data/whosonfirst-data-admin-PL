@@ -22,6 +22,15 @@
     "geom:latitude":50.535262,
     "geom:longitude":24.007253,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.573559,
     "lbl:longitude":24.03672,
     "mps:latitude":50.573559,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061100402",
-        "eurostat:nuts_2021_id":"1006061100402"
+        "eurostat:nuts_2021_id":"1006061100402",
+        "pol-gus:code":"1006061100402"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824023
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752709,
-    "wof:lastmodified":1684354424,
+    "wof:lastmodified":1695879370,
     "wof:name":"Do\u0142hobycz\u00f3w",
     "wof:parent_id":102079743,
     "wof:placetype":"localadmin",

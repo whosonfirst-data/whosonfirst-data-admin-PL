@@ -23,6 +23,15 @@
     "geom:longitude":18.915275,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.982578,
     "lbl:longitude":18.940987,
     "lbl:max_zoom":18.0,
@@ -176,8 +185,10 @@
         "eg:gisco_id":"PL_1001241511005",
         "eurostat:nuts_2021_id":"1001241511005",
         "gp:id":24548760,
+        "pol-gus:code":"1001241511005",
         "qs_pg:id":1154606
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497046521,
     "wof:geom_alt":[
@@ -194,7 +205,7 @@
         }
     ],
     "wof:id":1125356781,
-    "wof:lastmodified":1684354264,
+    "wof:lastmodified":1695879193,
     "wof:name":"Gmina Pszczyna",
     "wof:parent_id":102079457,
     "wof:placetype":"localadmin",

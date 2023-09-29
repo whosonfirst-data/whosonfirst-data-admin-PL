@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":539,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.63901,
     "lbl:longitude":22.10183,
     "lbl:max_zoom":17.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1006061121603",
         "gn:id":763608,
         "gp:id":12617967,
+        "pol-gus:code":"1006061121603",
         "qs_pg:id":1180677
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864153
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125366839,
-    "wof:lastmodified":1684354276,
+    "wof:lastmodified":1695879211,
     "wof:name":"Nowodw\u00f3r",
     "wof:parent_id":102079869,
     "wof:placetype":"localadmin",

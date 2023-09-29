@@ -22,6 +22,15 @@
     "geom:latitude":51.594412,
     "geom:longitude":16.044052,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.590557,
     "lbl:longitude":16.049059,
     "mps:latitude":51.590557,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021020303",
-        "eurostat:nuts_2021_id":"1003021020303"
+        "eurostat:nuts_2021_id":"1003021020303",
+        "pol-gus:code":"1003021020303"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125831533
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477751595,
-    "wof:lastmodified":1684354365,
+    "wof:lastmodified":1695879308,
     "wof:name":"Jerzmanowa",
     "wof:parent_id":102079769,
     "wof:placetype":"localadmin",

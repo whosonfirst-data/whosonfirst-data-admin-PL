@@ -22,6 +22,15 @@
     "geom:latitude":51.065321,
     "geom:longitude":22.45991,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.058151,
     "lbl:longitude":22.45064,
     "mps:latitude":51.058151,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061110912",
-        "eurostat:nuts_2021_id":"1006061110912"
+        "eurostat:nuts_2021_id":"1006061110912",
+        "pol-gus:code":"1006061110912"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1360111215
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477752293,
-    "wof:lastmodified":1684354402,
+    "wof:lastmodified":1695879347,
     "wof:name":"Strzy\u017cewice",
     "wof:parent_id":102079795,
     "wof:placetype":"localadmin",

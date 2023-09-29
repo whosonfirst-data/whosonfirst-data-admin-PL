@@ -22,6 +22,15 @@
     "geom:latitude":52.570834,
     "geom:longitude":21.265812,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.582916,
     "lbl:longitude":21.311186,
     "mps:latitude":52.582916,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142263504",
-        "eurostat:nuts_2021_id":"1007142263504"
+        "eurostat:nuts_2021_id":"1007142263504",
+        "pol-gus:code":"1007142263504"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125887657
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752177,
-    "wof:lastmodified":1684354397,
+    "wof:lastmodified":1695879342,
     "wof:name":"Somianka",
     "wof:parent_id":102080045,
     "wof:placetype":"localadmin",

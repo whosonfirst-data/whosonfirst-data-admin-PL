@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1639,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.48709,
     "lbl:longitude":18.2228,
     "lbl:max_zoom":16.0,
@@ -113,8 +122,10 @@
         "eurostat:nuts_2021_id":"1004221401509",
         "gn:id":3083725,
         "gp:id":12617320,
+        "pol-gus:code":"1004221401509",
         "qs_pg:id":487626
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125867149
     ],
@@ -134,7 +145,7 @@
         }
     ],
     "wof:id":1125300441,
-    "wof:lastmodified":1684354191,
+    "wof:lastmodified":1695879015,
     "wof:name":"Szemud",
     "wof:parent_id":102080267,
     "wof:placetype":"localadmin",

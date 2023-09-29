@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3609,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.29759,
     "lbl:longitude":16.99079,
     "lbl:max_zoom":15.0,
@@ -164,8 +173,10 @@
         "eurostat:nuts_2021_id":"1002301603103",
         "gn:id":3094813,
         "gp:id":24547619,
+        "pol-gus:code":"1002301603103",
         "qs_pg:id":516352
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044937,
     "wof:geom_alt":[
@@ -182,7 +193,7 @@
         }
     ],
     "wof:id":1125328061,
-    "wof:lastmodified":1684354238,
+    "wof:lastmodified":1695879138,
     "wof:name":"Gmina Krajenka",
     "wof:parent_id":102080109,
     "wof:placetype":"localadmin",

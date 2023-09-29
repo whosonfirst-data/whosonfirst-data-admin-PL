@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2005,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.98247,
     "lbl:longitude":18.26846,
     "lbl:max_zoom":15.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1001241491104",
         "gn:id":3094400,
         "gp:id":12617647,
+        "pol-gus:code":"1001241491104",
         "qs_pg:id":1190560
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824793
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125304403,
-    "wof:lastmodified":1684354200,
+    "wof:lastmodified":1695879026,
     "wof:name":"Krzy\u017canowice",
     "wof:parent_id":102079477,
     "wof:placetype":"localadmin",

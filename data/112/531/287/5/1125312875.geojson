@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1468,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.3309,
     "lbl:longitude":22.28566,
     "lbl:max_zoom":16.0,
@@ -107,8 +116,10 @@
         "eurostat:nuts_2021_id":"1006181332101",
         "gn:id":776458,
         "gp:id":12617144,
+        "pol-gus:code":"1006181332101",
         "qs_pg:id":270797
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101780783
     ],
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1125312875,
-    "wof:lastmodified":1684354217,
+    "wof:lastmodified":1695879068,
     "wof:name":"Baligr\u00f3d",
     "wof:parent_id":102079415,
     "wof:placetype":"localadmin",

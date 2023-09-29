@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2003,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.08668,
     "lbl:longitude":18.8225,
     "lbl:max_zoom":15.0,
@@ -124,8 +133,10 @@
         "eurostat:nuts_2021_id":"1002301580904",
         "gn:id":3100880,
         "gp:id":24547856,
+        "pol-gus:code":"1002301580904",
         "qs_pg:id":59479
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045549,
     "wof:geom_alt":[
@@ -142,7 +153,7 @@
         }
     ],
     "wof:id":1125338857,
-    "wof:lastmodified":1684354245,
+    "wof:lastmodified":1695879150,
     "wof:name":"Gmina D\u0105bie",
     "wof:parent_id":102079927,
     "wof:placetype":"localadmin",

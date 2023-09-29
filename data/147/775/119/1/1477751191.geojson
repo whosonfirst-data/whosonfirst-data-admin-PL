@@ -22,6 +22,15 @@
     "geom:latitude":53.951189,
     "geom:longitude":19.311521,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.964849,
     "lbl:longitude":19.313045,
     "mps:latitude":53.964849,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221421601",
-        "eurostat:nuts_2021_id":"1004221421601"
+        "eurostat:nuts_2021_id":"1004221421601",
+        "pol-gus:code":"1004221421601"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864223
     ],
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751191,
-    "wof:lastmodified":1684354345,
+    "wof:lastmodified":1695879287,
     "wof:name":"Gmina Dzierzgo\u0144",
     "wof:parent_id":102080179,
     "wof:placetype":"localadmin",

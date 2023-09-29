@@ -23,6 +23,15 @@
     "geom:longitude":15.499338,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.161064,
     "lbl:longitude":15.415341,
     "lbl:max_zoom":18.0,
@@ -122,8 +131,10 @@
         "eg:gisco_id":"PL_1002321630804",
         "eurostat:nuts_2021_id":"1002321630804",
         "gp:id":24548110,
+        "pol-gus:code":"1002321630804",
         "qs_pg:id":1113740
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497044989,
     "wof:geom_alt":[
@@ -140,7 +151,7 @@
         }
     ],
     "wof:id":1125328763,
-    "wof:lastmodified":1684354240,
+    "wof:lastmodified":1695879140,
     "wof:name":"Gmina Ko\u0142obrzeg",
     "wof:parent_id":102080177,
     "wof:placetype":"localadmin",

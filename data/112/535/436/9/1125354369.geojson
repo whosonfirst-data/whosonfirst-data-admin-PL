@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2300,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.05108,
     "lbl:longitude":17.79399,
     "lbl:max_zoom":15.0,
@@ -105,8 +114,10 @@
         "eurostat:nuts_2021_id":"1003161310202",
         "gn:id":3102679,
         "gp:id":12617757,
+        "pol-gus:code":"1003161310202",
         "qs_pg:id":286997
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824807
     ],
@@ -126,7 +137,7 @@
         }
     ],
     "wof:id":1125354369,
-    "wof:lastmodified":1684354260,
+    "wof:lastmodified":1695879187,
     "wof:name":"Branice",
     "wof:parent_id":102079489,
     "wof:placetype":"localadmin",

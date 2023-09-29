@@ -22,6 +22,15 @@
     "geom:latitude":49.735693,
     "geom:longitude":21.082336,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.738345,
     "lbl:longitude":21.095164,
     "mps:latitude":49.738345,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001121220507",
-        "eurostat:nuts_2021_id":"1001121220507"
+        "eurostat:nuts_2021_id":"1001121220507",
+        "pol-gus:code":"1001121220507"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101841483
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477751493,
-    "wof:lastmodified":1684354360,
+    "wof:lastmodified":1695879303,
     "wof:name":"Moszczenica",
     "wof:parent_id":102079429,
     "wof:placetype":"localadmin",

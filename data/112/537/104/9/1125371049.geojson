@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1900,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.82226,
     "lbl:longitude":21.39004,
     "lbl:max_zoom":16.0,
@@ -98,8 +107,10 @@
         "eurostat:nuts_2021_id":"1006181330502",
         "gn:id":775010,
         "gp:id":12617738,
+        "pol-gus:code":"1006181330502",
         "qs_pg:id":974200
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864893
     ],
@@ -119,7 +130,7 @@
         }
     ],
     "wof:id":1125371049,
-    "wof:lastmodified":1684354283,
+    "wof:lastmodified":1695879219,
     "wof:name":"Brzyska",
     "wof:parent_id":102079453,
     "wof:placetype":"localadmin",

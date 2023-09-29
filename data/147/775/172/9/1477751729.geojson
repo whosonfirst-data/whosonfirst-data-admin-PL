@@ -22,6 +22,15 @@
     "geom:latitude":53.561986,
     "geom:longitude":17.203772,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.56936,
     "lbl:longitude":17.221779,
     "mps:latitude":53.56936,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221720304",
-        "eurostat:nuts_2021_id":"1004221720304"
+        "eurostat:nuts_2021_id":"1004221720304",
+        "pol-gus:code":"1004221720304"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"0de4f3c15c76756393f2b96b7fcf1d67",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477751729,
-    "wof:lastmodified":1684354373,
+    "wof:lastmodified":1695879316,
     "wof:name":"Gmina Debrzno",
     "wof:parent_id":102080157,
     "wof:placetype":"localadmin",

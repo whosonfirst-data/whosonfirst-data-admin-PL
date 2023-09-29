@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2060,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.35517,
     "lbl:longitude":22.32937,
     "lbl:max_zoom":15.0,
@@ -105,8 +114,10 @@
         "eurostat:nuts_2021_id":"1006061110904",
         "gn:id":772366,
         "gp:id":12617982,
+        "pol-gus:code":"1006061110904",
         "qs_pg:id":998973
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821477
     ],
@@ -126,7 +137,7 @@
         }
     ],
     "wof:id":1125375655,
-    "wof:lastmodified":1684354292,
+    "wof:lastmodified":1695879230,
     "wof:name":"Garb\u00f3w",
     "wof:parent_id":102079795,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1300,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.03378,
     "lbl:longitude":21.15735,
     "lbl:max_zoom":16.0,
@@ -119,8 +128,10 @@
         "eurostat:nuts_2021_id":"1007142261104",
         "gn:id":767608,
         "gp:id":12616797,
+        "pol-gus:code":"1007142261104",
         "qs_pg:id":1093963
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864511
     ],
@@ -140,7 +151,7 @@
         }
     ],
     "wof:id":1125285105,
-    "wof:lastmodified":1684354156,
+    "wof:lastmodified":1695878974,
     "wof:name":"Krasnosielc",
     "wof:parent_id":102080077,
     "wof:placetype":"localadmin",

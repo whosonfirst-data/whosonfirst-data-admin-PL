@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3583,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.57649,
     "lbl:longitude":21.86811,
     "lbl:max_zoom":15.0,
@@ -194,8 +203,10 @@
         "eurostat:nuts_2021_id":"1006181330708",
         "gn:id":759843,
         "gp:id":24548651,
+        "pol-gus:code":"1006181330708",
         "qs_pg:id":59629
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864513
     ],
@@ -215,7 +226,7 @@
         }
     ],
     "wof:id":1125410579,
-    "wof:lastmodified":1684354333,
+    "wof:lastmodified":1695879274,
     "wof:name":"Gmina Ryman\u00f3w",
     "wof:parent_id":102079455,
     "wof:placetype":"localadmin",

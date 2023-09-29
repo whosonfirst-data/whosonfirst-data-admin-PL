@@ -22,6 +22,15 @@
     "geom:latitude":51.79435,
     "geom:longitude":22.620993,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.831367,
     "lbl:longitude":22.611862,
     "mps:latitude":51.831367,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006061091506",
-        "eurostat:nuts_2021_id":"1006061091506"
+        "eurostat:nuts_2021_id":"1006061091506",
+        "pol-gus:code":"1006061091506"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864931
     ],
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477751567,
-    "wof:lastmodified":1684354364,
+    "wof:lastmodified":1695879307,
     "wof:name":"Gmina Radzy\u0144 Podlaski",
     "wof:parent_id":102079905,
     "wof:placetype":"localadmin",

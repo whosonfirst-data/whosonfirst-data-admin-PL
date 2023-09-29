@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1500,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.11177,
     "lbl:longitude":22.13269,
     "lbl:max_zoom":16.0,
@@ -102,8 +111,10 @@
         "eurostat:nuts_2021_id":"1006061121201",
         "gn:id":774472,
         "gp:id":12616634,
+        "pol-gus:code":"1006061121201",
         "qs_pg:id":954924
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822637
     ],
@@ -123,7 +134,7 @@
         }
     ],
     "wof:id":1125363477,
-    "wof:lastmodified":1684354269,
+    "wof:lastmodified":1695879201,
     "wof:name":"Chodel",
     "wof:parent_id":102079761,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.104083,
     "geom:longitude":22.11334,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.09764,
     "lbl:longitude":22.111596,
     "mps:latitude":52.09764,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142712609",
-        "eurostat:nuts_2021_id":"1007142712609"
+        "eurostat:nuts_2021_id":"1007142712609",
+        "pol-gus:code":"1007142712609"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863593
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125296517,
-    "wof:lastmodified":1684354187,
+    "wof:lastmodified":1695879009,
     "wof:name":"Sk\u00f3rzec",
     "wof:parent_id":102079979,
     "wof:placetype":"localadmin",

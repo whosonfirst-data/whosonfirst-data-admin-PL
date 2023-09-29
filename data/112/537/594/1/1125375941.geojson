@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3100,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.78675,
     "lbl:longitude":21.94571,
     "lbl:max_zoom":15.0,
@@ -93,8 +102,10 @@
         "eurostat:nuts_2021_id":"1006181330202",
         "gn:id":773040,
         "gp:id":12617288,
+        "pol-gus:code":"1006181330202",
         "qs_pg:id":1000173
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864923
     ],
@@ -114,7 +125,7 @@
         }
     ],
     "wof:id":1125375941,
-    "wof:lastmodified":1684354293,
+    "wof:lastmodified":1695879232,
     "wof:name":"Domaradz",
     "wof:parent_id":102079461,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":4716,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.99192,
     "lbl:longitude":17.4883,
     "lbl:max_zoom":15.0,
@@ -170,8 +179,10 @@
         "eurostat:nuts_2021_id":"1004041671001",
         "gn:id":3096385,
         "gp:id":12618614,
+        "pol-gus:code":"1004041671001",
         "qs_pg:id":1207110
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042561,
     "wof:geom_alt":[
@@ -188,7 +199,7 @@
         }
     ],
     "wof:id":1125282625,
-    "wof:lastmodified":1684354152,
+    "wof:lastmodified":1695878970,
     "wof:name":"Gmina Kcynia",
     "wof:parent_id":102080053,
     "wof:placetype":"localadmin",

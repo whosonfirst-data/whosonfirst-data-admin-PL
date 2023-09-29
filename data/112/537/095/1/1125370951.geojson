@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2300,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.46527,
     "lbl:longitude":17.67812,
     "lbl:max_zoom":15.0,
@@ -99,8 +108,10 @@
         "eurostat:nuts_2021_id":"1002301580308",
         "gn:id":3091058,
         "gp:id":12616933,
+        "pol-gus:code":"1002301580308",
         "qs_pg:id":973961
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864307
     ],
@@ -120,7 +131,7 @@
         }
     ],
     "wof:id":1125370951,
-    "wof:lastmodified":1684354281,
+    "wof:lastmodified":1695879218,
     "wof:name":"Niechanowo",
     "wof:parent_id":102079967,
     "wof:placetype":"localadmin",

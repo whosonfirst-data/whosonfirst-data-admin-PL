@@ -22,6 +22,15 @@
     "geom:latitude":54.103261,
     "geom:longitude":17.973486,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.059186,
     "lbl:longitude":17.942887,
     "mps:latitude":54.059186,
@@ -91,8 +100,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004221720604",
-        "eurostat:nuts_2021_id":"1004221720604"
+        "eurostat:nuts_2021_id":"1004221720604",
+        "pol-gus:code":"1004221720604"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"2142531aa9f3d7deab12a6bd03f07bfd",
     "wof:hierarchy":[
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477752013,
-    "wof:lastmodified":1684354387,
+    "wof:lastmodified":1695879331,
     "wof:name":"Gmina Ko\u015bcierzyna",
     "wof:parent_id":102080193,
     "wof:placetype":"localadmin",

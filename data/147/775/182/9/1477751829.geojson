@@ -22,6 +22,15 @@
     "geom:latitude":51.622146,
     "geom:longitude":15.885685,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.624304,
     "lbl:longitude":15.885696,
     "mps:latitude":51.624304,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021021602",
-        "eurostat:nuts_2021_id":"1003021021602"
+        "eurostat:nuts_2021_id":"1003021021602",
+        "pol-gus:code":"1003021021602"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125871491
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751829,
-    "wof:lastmodified":1684354378,
+    "wof:lastmodified":1695879321,
     "wof:name":"Gaworzyce",
     "wof:parent_id":102079741,
     "wof:placetype":"localadmin",

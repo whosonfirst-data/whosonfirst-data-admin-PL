@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":0,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.6499,
     "lbl:longitude":21.5487,
     "lbl:max_zoom":15.0,
@@ -167,12 +176,14 @@
         "eurostat:nuts_2021_id":"1004281551604",
         "gn:id":7533195,
         "gp:id":24547449,
+        "pol-gus:code":"1004281551604",
         "qs_pg:id":1154844
     },
     "wof:concordances_alt":{
         "gn:id":760166,
         "qs_pg:id":275690
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042107,
     "wof:geom_alt":[
@@ -189,7 +200,7 @@
         }
     ],
     "wof:id":1125270529,
-    "wof:lastmodified":1684354140,
+    "wof:lastmodified":1695878957,
     "wof:name":"Gmina Ruciane-Nida",
     "wof:parent_id":102080195,
     "wof:placetype":"localadmin",

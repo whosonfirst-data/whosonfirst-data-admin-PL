@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2200,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.10252,
     "lbl:longitude":22.31907,
     "lbl:max_zoom":15.0,
@@ -152,8 +161,10 @@
         "eurostat:nuts_2021_id":"1006181351002",
         "gn:id":776120,
         "gp:id":12617501,
+        "pol-gus:code":"1006181351002",
         "qs_pg:id":1001449
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101848029
     ],
@@ -173,7 +184,7 @@
         }
     ],
     "wof:id":1125376579,
-    "wof:lastmodified":1684354295,
+    "wof:lastmodified":1695879233,
     "wof:name":"Bia\u0142obrzegi",
     "wof:parent_id":102079565,
     "wof:placetype":"localadmin",

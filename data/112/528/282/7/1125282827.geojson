@@ -25,6 +25,15 @@
     "gn:fcode":"ADM3",
     "gn:population":3732,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.29,
     "lbl:longitude":20.30273,
     "lbl:max_zoom":15.0,
@@ -87,8 +96,10 @@
         "eg:gisco_id":"PL_1001121201404",
         "eurostat:nuts_2021_id":"1001121201404",
         "gn:id":7532618,
+        "pol-gus:code":"1001121201404",
         "qs_pg:id":691679
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126011405
     ],
@@ -108,7 +119,7 @@
         }
     ],
     "wof:id":1125282827,
-    "wof:lastmodified":1684354153,
+    "wof:lastmodified":1695878971,
     "wof:name":"Pa\u0142ecznica",
     "wof:parent_id":102079545,
     "wof:placetype":"localadmin",

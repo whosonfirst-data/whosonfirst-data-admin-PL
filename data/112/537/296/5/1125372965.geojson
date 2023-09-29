@@ -22,6 +22,15 @@
     "geom:latitude":50.690784,
     "geom:longitude":21.012661,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.68443,
     "lbl:longitude":21.052923,
     "mps:latitude":50.68443,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005261520416",
-        "eurostat:nuts_2021_id":"1005261520416"
+        "eurostat:nuts_2021_id":"1005261520416",
+        "pol-gus:code":"1005261520416"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101822847
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1125372965,
-    "wof:lastmodified":1684354287,
+    "wof:lastmodified":1695879225,
     "wof:name":"Rak\u00f3w",
     "wof:parent_id":102079693,
     "wof:placetype":"localadmin",

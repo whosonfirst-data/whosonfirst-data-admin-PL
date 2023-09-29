@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":5823,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.98473,
     "lbl:longitude":21.94528,
     "lbl:max_zoom":15.0,
@@ -161,8 +170,10 @@
         "eurostat:nuts_2021_id":"1006181351603",
         "gn:id":775717,
         "gp:id":12617856,
+        "pol-gus:code":"1006181351603",
         "qs_pg:id":332002
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497047386,
     "wof:geom_alt":[
@@ -179,7 +190,7 @@
         }
     ],
     "wof:id":1125370927,
-    "wof:lastmodified":1684354281,
+    "wof:lastmodified":1695879217,
     "wof:name":"Gmina Boguchwa\u0142a",
     "wof:parent_id":102079585,
     "wof:placetype":"localadmin",

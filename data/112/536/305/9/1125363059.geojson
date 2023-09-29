@@ -23,6 +23,15 @@
     "geom:longitude":16.40899,
     "gn:country":"PL",
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.442295,
     "lbl:longitude":16.375808,
     "lbl:max_zoom":18.0,
@@ -191,8 +200,10 @@
         "eg:gisco_id":"PL_1002321631301",
         "eurostat:nuts_2021_id":"1002321631301",
         "gp:id":24547500,
+        "pol-gus:code":"1002321631301",
         "qs_pg:id":954044
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497046915,
     "wof:geom_alt":[
@@ -209,7 +220,7 @@
         }
     ],
     "wof:id":1125363059,
-    "wof:lastmodified":1684354269,
+    "wof:lastmodified":1695879200,
     "wof:name":"Gmina Dar\u0142owo",
     "wof:parent_id":102080227,
     "wof:placetype":"localadmin",

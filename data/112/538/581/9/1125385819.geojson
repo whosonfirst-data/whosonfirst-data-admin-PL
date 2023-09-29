@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1800,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.63954,
     "lbl:longitude":14.99874,
     "lbl:max_zoom":16.0,
@@ -101,8 +110,10 @@
         "eurostat:nuts_2021_id":"1002081141105",
         "gn:id":3093315,
         "gp:id":12618031,
+        "pol-gus:code":"1002081141105",
         "qs_pg:id":1015828
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821427
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125385819,
-    "wof:lastmodified":1684354305,
+    "wof:lastmodified":1695879245,
     "wof:name":"Lipinki \u0141u\u017cyckie",
     "wof:parent_id":102079779,
     "wof:placetype":"localadmin",

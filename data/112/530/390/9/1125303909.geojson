@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":3179,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.96947,
     "lbl:longitude":15.75362,
     "lbl:max_zoom":15.0,
@@ -167,8 +176,10 @@
         "eurostat:nuts_2021_id":"1002081130601",
         "gn:id":3100400,
         "gp:id":24547571,
+        "pol-gus:code":"1002081130601",
         "qs_pg:id":1189877
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043585,
     "wof:geom_alt":[
@@ -185,7 +196,7 @@
         }
     ],
     "wof:id":1125303909,
-    "wof:lastmodified":1684354197,
+    "wof:lastmodified":1695879022,
     "wof:name":"Gmina Dobiegniew",
     "wof:parent_id":102080011,
     "wof:placetype":"localadmin",

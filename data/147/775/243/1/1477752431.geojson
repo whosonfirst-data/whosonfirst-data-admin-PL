@@ -22,6 +22,15 @@
     "geom:latitude":53.856154,
     "geom:longitude":15.930556,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.862255,
     "lbl:longitude":15.920153,
     "mps:latitude":53.862255,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002321641604",
-        "eurostat:nuts_2021_id":"1002321641604"
+        "eurostat:nuts_2021_id":"1002321641604",
+        "pol-gus:code":"1002321641604"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820629
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477752431,
-    "wof:lastmodified":1684354409,
+    "wof:lastmodified":1695879355,
     "wof:name":"R\u0105bino",
     "wof:parent_id":102080147,
     "wof:placetype":"localadmin",

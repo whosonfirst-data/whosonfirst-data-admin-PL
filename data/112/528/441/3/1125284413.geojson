@@ -23,6 +23,15 @@
     "geom:longitude":20.312403,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.735561,
     "lbl:longitude":20.30518,
     "lbl:max_zoom":18.0,
@@ -101,8 +110,10 @@
         "eg:gisco_id":"PL_1001121220712",
         "eurostat:nuts_2021_id":"1001121220712",
         "gp:id":12618798,
+        "pol-gus:code":"1001121220712",
         "qs_pg:id":1093304
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125864805
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125284413,
-    "wof:lastmodified":1684354155,
+    "wof:lastmodified":1695878973,
     "wof:name":"Tymbark",
     "wof:parent_id":102079423,
     "wof:placetype":"localadmin",

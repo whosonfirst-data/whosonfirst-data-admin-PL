@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":2000,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.69222,
     "lbl:longitude":21.55342,
     "lbl:max_zoom":15.0,
@@ -116,8 +125,10 @@
         "eurostat:nuts_2021_id":"1007142710307",
         "gn:id":765600,
         "gp:id":12616920,
+        "pol-gus:code":"1007142710307",
         "qs_pg:id":953800
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821687
     ],
@@ -137,7 +148,7 @@
         }
     ],
     "wof:id":1125282329,
-    "wof:lastmodified":1684354150,
+    "wof:lastmodified":1695878968,
     "wof:name":"Maciejowice",
     "wof:parent_id":102079901,
     "wof:placetype":"localadmin",

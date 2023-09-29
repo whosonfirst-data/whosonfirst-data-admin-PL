@@ -22,6 +22,15 @@
     "geom:latitude":52.675762,
     "geom:longitude":23.289637,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.679131,
     "lbl:longitude":23.281951,
     "mps:latitude":52.679131,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006201380306",
-        "eurostat:nuts_2021_id":"1006201380306"
+        "eurostat:nuts_2021_id":"1006201380306",
+        "pol-gus:code":"1006201380306"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1126033561
     ],
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752551,
-    "wof:lastmodified":1684354415,
+    "wof:lastmodified":1695879361,
     "wof:name":"Orla",
     "wof:parent_id":102080071,
     "wof:placetype":"localadmin",

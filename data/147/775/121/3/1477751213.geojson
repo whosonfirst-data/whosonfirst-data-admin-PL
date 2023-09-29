@@ -22,6 +22,15 @@
     "geom:latitude":51.476436,
     "geom:longitude":18.320298,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.489438,
     "lbl:longitude":18.328275,
     "mps:latitude":51.489438,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301571801",
-        "eurostat:nuts_2021_id":"1002301571801"
+        "eurostat:nuts_2021_id":"1002301571801",
+        "pol-gus:code":"1002301571801"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821349
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477751213,
-    "wof:lastmodified":1684354346,
+    "wof:lastmodified":1695879288,
     "wof:name":"Czajk\u00f3w",
     "wof:parent_id":102079747,
     "wof:placetype":"localadmin",

@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":18438,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.15595,
     "lbl:longitude":18.77924,
     "lbl:max_zoom":15.0,
@@ -146,8 +155,10 @@
         "eurostat:nuts_2021_id":"1001241510803",
         "gn:id":3089965,
         "gp:id":12618288,
+        "pol-gus:code":"1001241510803",
         "qs_pg:id":514758
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824801
     ],
@@ -167,7 +178,7 @@
         }
     ],
     "wof:id":1125302903,
-    "wof:lastmodified":1684354195,
+    "wof:lastmodified":1695879019,
     "wof:name":"Orzesze",
     "wof:parent_id":102079487,
     "wof:placetype":"localadmin",

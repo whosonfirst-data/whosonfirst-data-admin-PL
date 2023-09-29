@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1200,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.42531,
     "lbl:longitude":21.95111,
     "lbl:max_zoom":16.0,
@@ -99,8 +108,10 @@
         "eurostat:nuts_2021_id":"1006181361802",
         "gn:id":775672,
         "gp:id":12617890,
+        "pol-gus:code":"1006181361802",
         "qs_pg:id":201382
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823929
     ],
@@ -120,7 +131,7 @@
         }
     ],
     "wof:id":1125304759,
-    "wof:lastmodified":1684354204,
+    "wof:lastmodified":1695879032,
     "wof:name":"Bojan\u00f3w",
     "wof:parent_id":102079669,
     "wof:placetype":"localadmin",

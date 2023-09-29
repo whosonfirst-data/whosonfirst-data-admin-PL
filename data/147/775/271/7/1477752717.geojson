@@ -22,6 +22,15 @@
     "geom:latitude":50.919919,
     "geom:longitude":15.399738,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.923356,
     "lbl:longitude":15.418593,
     "mps:latitude":50.923356,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021011204",
-        "eurostat:nuts_2021_id":"1003021011204"
+        "eurostat:nuts_2021_id":"1003021011204",
+        "pol-gus:code":"1003021011204"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"ee1e5904880ed6aa9d7da91392129045",
     "wof:hierarchy":[
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1477752717,
-    "wof:lastmodified":1684354424,
+    "wof:lastmodified":1695879370,
     "wof:name":"Gmina Mirsk",
     "wof:parent_id":102079649,
     "wof:placetype":"localadmin",

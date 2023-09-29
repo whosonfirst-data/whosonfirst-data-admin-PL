@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1200,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.89863,
     "lbl:longitude":19.94173,
     "lbl:max_zoom":16.0,
@@ -107,8 +116,10 @@
         "eurostat:nuts_2021_id":"1005101191505",
         "gn:id":3093366,
         "gp:id":12618385,
+        "pol-gus:code":"1005101191505",
         "qs_pg:id":497942
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101821681
     ],
@@ -128,7 +139,7 @@
         }
     ],
     "wof:id":1125324761,
-    "wof:lastmodified":1684354232,
+    "wof:lastmodified":1695879119,
     "wof:name":"Lipce Reymontowskie",
     "wof:parent_id":102079895,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":49.734366,
     "geom:longitude":19.389229,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.735846,
     "lbl:longitude":19.382547,
     "mps:latitude":49.735846,
@@ -70,8 +79,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241441712",
-        "eurostat:nuts_2021_id":"1001241441712"
+        "eurostat:nuts_2021_id":"1001241441712",
+        "pol-gus:code":"1001241441712"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125982801
     ],
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1477752495,
-    "wof:lastmodified":1684354412,
+    "wof:lastmodified":1695879358,
     "wof:name":"\u015alemie\u0144",
     "wof:parent_id":102079411,
     "wof:placetype":"localadmin",

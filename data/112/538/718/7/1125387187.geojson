@@ -23,6 +23,15 @@
     "geom:longitude":19.040166,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.41477,
     "lbl:longitude":19.01081,
     "lbl:max_zoom":18.0,
@@ -101,8 +110,10 @@
         "eg:gisco_id":"PL_1001241441711",
         "eurostat:nuts_2021_id":"1001241441711",
         "gp:id":12618764,
+        "pol-gus:code":"1001241441711",
         "qs_pg:id":882755
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101824725
     ],
@@ -122,7 +133,7 @@
         }
     ],
     "wof:id":1125387187,
-    "wof:lastmodified":1684354307,
+    "wof:lastmodified":1695879247,
     "wof:name":"Rajcza",
     "wof:parent_id":102079411,
     "wof:placetype":"localadmin",

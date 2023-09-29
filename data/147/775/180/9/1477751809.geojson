@@ -22,6 +22,15 @@
     "geom:latitude":50.005178,
     "geom:longitude":18.44747,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.00886,
     "lbl:longitude":18.447456,
     "mps:latitude":50.00886,
@@ -154,8 +163,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241491504",
-        "eurostat:nuts_2021_id":"1001241491504"
+        "eurostat:nuts_2021_id":"1001241491504",
+        "pol-gus:code":"1001241491504"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101841487
     ],
@@ -171,7 +182,7 @@
         }
     ],
     "wof:id":1477751809,
-    "wof:lastmodified":1684354376,
+    "wof:lastmodified":1695879320,
     "wof:name":"Wodzis\u0142aw \u015al\u0105ski",
     "wof:parent_id":102079445,
     "wof:placetype":"localadmin",

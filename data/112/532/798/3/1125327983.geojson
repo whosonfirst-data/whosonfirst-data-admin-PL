@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":21127,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.23958,
     "lbl:longitude":20.17004,
     "lbl:max_zoom":14.0,
@@ -194,8 +203,10 @@
         "eurostat:nuts_2021_id":"1004281540301",
         "gn:id":772748,
         "gp:id":24547682,
+        "pol-gus:code":"1004281540301",
         "qs_pg:id":1229412
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101816539
     ],
@@ -215,7 +226,7 @@
         }
     ],
     "wof:id":1125327983,
-    "wof:lastmodified":1684354238,
+    "wof:lastmodified":1695879137,
     "wof:name":"Gmina Dzia\u0142dowo",
     "wof:parent_id":102080111,
     "wof:placetype":"localadmin",

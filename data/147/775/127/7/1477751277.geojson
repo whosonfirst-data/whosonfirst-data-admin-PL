@@ -22,6 +22,15 @@
     "geom:latitude":52.484631,
     "geom:longitude":22.45041,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.48127,
     "lbl:longitude":22.452077,
     "mps:latitude":52.48127,
@@ -76,8 +85,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142712904",
-        "eurostat:nuts_2021_id":"1007142712904"
+        "eurostat:nuts_2021_id":"1007142712904",
+        "pol-gus:code":"1007142712904"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125905137
     ],
@@ -93,7 +104,7 @@
         }
     ],
     "wof:id":1477751277,
-    "wof:lastmodified":1684354350,
+    "wof:lastmodified":1695879292,
     "wof:name":"Jab\u0142onna Lacka",
     "wof:parent_id":102080023,
     "wof:placetype":"localadmin",

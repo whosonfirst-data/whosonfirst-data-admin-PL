@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":1860,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.56319,
     "lbl:longitude":21.78992,
     "lbl:max_zoom":16.0,
@@ -173,8 +182,10 @@
         "eurostat:nuts_2021_id":"1006181330703",
         "gn:id":770759,
         "gp:id":24548528,
+        "pol-gus:code":"1006181330703",
         "qs_pg:id":1113158
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863427
     ],
@@ -194,7 +205,7 @@
         }
     ],
     "wof:id":1125328163,
-    "wof:lastmodified":1684354238,
+    "wof:lastmodified":1695879138,
     "wof:name":"Gmina Iwonicz-Zdr\u00f3j",
     "wof:parent_id":102079455,
     "wof:placetype":"localadmin",

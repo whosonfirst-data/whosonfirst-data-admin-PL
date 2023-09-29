@@ -23,6 +23,15 @@
     "geom:longitude":16.748519,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.506549,
     "lbl:longitude":16.719989,
     "lbl:max_zoom":18.0,
@@ -149,8 +158,10 @@
         "eg:gisco_id":"PL_1003021032401",
         "eurostat:nuts_2021_id":"1003021032401",
         "gp:id":24547526,
+        "pol-gus:code":"1003021032401",
         "qs_pg:id":1017791
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497048731,
     "wof:geom_alt":[
@@ -167,7 +178,7 @@
         }
     ],
     "wof:id":1125391397,
-    "wof:lastmodified":1684354308,
+    "wof:lastmodified":1695879249,
     "wof:name":"Gmina Bardo",
     "wof:parent_id":102079577,
     "wof:placetype":"localadmin",

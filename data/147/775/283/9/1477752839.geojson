@@ -22,6 +22,15 @@
     "geom:latitude":51.323576,
     "geom:longitude":18.01582,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.321724,
     "lbl:longitude":18.03682,
     "mps:latitude":51.321724,
@@ -82,8 +91,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002301570803",
-        "eurostat:nuts_2021_id":"1002301570803"
+        "eurostat:nuts_2021_id":"1002301570803",
+        "pol-gus:code":"1002301570803"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"f73b335fd59ee25764453289453c8c31",
     "wof:hierarchy":[
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477752839,
-    "wof:lastmodified":1684354432,
+    "wof:lastmodified":1695879378,
     "wof:name":"Gmina K\u0119pno",
     "wof:parent_id":102079713,
     "wof:placetype":"localadmin",

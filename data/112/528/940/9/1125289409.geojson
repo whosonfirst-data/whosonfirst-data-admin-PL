@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":10577,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.40496,
     "lbl:longitude":22.79791,
     "lbl:max_zoom":15.0,
@@ -215,8 +224,10 @@
         "eurostat:nuts_2021_id":"1006201390806",
         "gn:id":764421,
         "gp:id":24548285,
+        "pol-gus:code":"1006201390806",
         "qs_pg:id":129301
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042855,
     "wof:geom_alt":[
@@ -233,7 +244,7 @@
         }
     ],
     "wof:id":1125289409,
-    "wof:lastmodified":1684354173,
+    "wof:lastmodified":1695878990,
     "wof:name":"Gmina Mo\u0144ki",
     "wof:parent_id":102080175,
     "wof:placetype":"localadmin",

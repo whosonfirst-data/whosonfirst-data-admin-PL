@@ -22,6 +22,15 @@
     "geom:latitude":53.966894,
     "geom:longitude":22.047323,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.948706,
     "lbl:longitude":22.034501,
     "mps:latitude":53.948706,
@@ -67,8 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1004281550610",
-        "eurostat:nuts_2021_id":"1004281550610"
+        "eurostat:nuts_2021_id":"1004281550610",
+        "pol-gus:code":"1004281550610"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101819461
     ],
@@ -84,7 +95,7 @@
         }
     ],
     "wof:id":1477752011,
-    "wof:lastmodified":1684354387,
+    "wof:lastmodified":1695879331,
     "wof:name":"Wydminy",
     "wof:parent_id":102080235,
     "wof:placetype":"localadmin",

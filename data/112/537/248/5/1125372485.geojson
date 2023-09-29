@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":922,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.8209,
     "lbl:longitude":23.55057,
     "lbl:max_zoom":17.0,
@@ -102,8 +111,10 @@
         "eurostat:nuts_2021_id":"1006061102002",
         "gn:id":771590,
         "gp:id":12617389,
+        "pol-gus:code":"1006061102002",
         "qs_pg:id":342017
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864695
     ],
@@ -123,7 +134,7 @@
         }
     ],
     "wof:id":1125372485,
-    "wof:lastmodified":1684354286,
+    "wof:lastmodified":1695879224,
     "wof:name":"Grabowiec",
     "wof:parent_id":102079715,
     "wof:placetype":"localadmin",

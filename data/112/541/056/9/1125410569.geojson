@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":5629,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.71749,
     "lbl:longitude":21.64886,
     "lbl:max_zoom":15.0,
@@ -169,8 +178,10 @@
         "eurostat:nuts_2021_id":"1006181330704",
         "gn:id":770169,
         "gp:id":24548660,
+        "pol-gus:code":"1006181330704",
         "qs_pg:id":59623
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863659
     ],
@@ -190,7 +201,7 @@
         }
     ],
     "wof:id":1125410569,
-    "wof:lastmodified":1684354332,
+    "wof:lastmodified":1695879273,
     "wof:name":"Gmina Jedlicze",
     "wof:parent_id":102079455,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.913718,
     "geom:longitude":15.499516,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.920405,
     "lbl:longitude":15.502613,
     "mps:latitude":52.920405,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002081130604",
-        "eurostat:nuts_2021_id":"1002081130604"
+        "eurostat:nuts_2021_id":"1002081130604",
+        "pol-gus:code":"1002081130604"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"1609d83fd95664a2e215ae9b7812f45f",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477752571,
-    "wof:lastmodified":1684354416,
+    "wof:lastmodified":1695879362,
     "wof:name":"Gmina Strzelce Kraje\u0144skie",
     "wof:parent_id":102080011,
     "wof:placetype":"localadmin",

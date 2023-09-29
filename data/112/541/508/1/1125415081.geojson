@@ -23,6 +23,15 @@
     "geom:longitude":15.708135,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.8489,
     "lbl:longitude":15.646467,
     "lbl:max_zoom":18.0,
@@ -206,8 +215,10 @@
         "eg:gisco_id":"PL_1003021016101",
         "eurostat:nuts_2021_id":"1003021016101",
         "gp:id":12618518,
+        "pol-gus:code":"1003021016101",
         "qs_pg:id":248231
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477863727,
         102079603
@@ -228,7 +239,7 @@
         }
     ],
     "wof:id":1125415081,
-    "wof:lastmodified":1684354338,
+    "wof:lastmodified":1695879280,
     "wof:name":"Jelenia G\u00f3ra",
     "wof:parent_id":102079603,
     "wof:placetype":"localadmin",

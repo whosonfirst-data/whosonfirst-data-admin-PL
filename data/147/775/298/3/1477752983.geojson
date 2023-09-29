@@ -22,6 +22,15 @@
     "geom:latitude":51.396888,
     "geom:longitude":16.393054,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.40825,
     "lbl:longitude":16.393054,
     "mps:latitude":51.40825,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1003021021104",
-        "eurostat:nuts_2021_id":"1003021021104"
+        "eurostat:nuts_2021_id":"1003021021104",
+        "pol-gus:code":"1003021021104"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477865707
     ],
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1477752983,
-    "wof:lastmodified":1684354440,
+    "wof:lastmodified":1695879386,
     "wof:name":"Gmina \u015acinawa",
     "wof:parent_id":102079735,
     "wof:placetype":"localadmin",

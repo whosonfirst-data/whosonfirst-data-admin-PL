@@ -23,6 +23,15 @@
     "geom:longitude":20.055739,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.355811,
     "lbl:longitude":20.026767,
     "lbl:max_zoom":18.0,
@@ -170,8 +179,10 @@
         "eg:gisco_id":"PL_1001121200805",
         "eurostat:nuts_2021_id":"1001121200805",
         "gp:id":24548641,
+        "pol-gus:code":"1001121200805",
         "qs_pg:id":1311241
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497045391,
     "wof:geom_alt":[
@@ -188,7 +199,7 @@
         }
     ],
     "wof:id":1125335603,
-    "wof:lastmodified":1684354244,
+    "wof:lastmodified":1695879147,
     "wof:name":"Gmina Miech\u00f3w",
     "wof:parent_id":102079579,
     "wof:placetype":"localadmin",

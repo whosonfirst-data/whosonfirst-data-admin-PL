@@ -22,6 +22,15 @@
     "geom:latitude":49.560174,
     "geom:longitude":18.9062,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.560404,
     "lbl:longitude":18.904711,
     "mps:latitude":49.560404,
@@ -79,8 +88,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241440309",
-        "eurostat:nuts_2021_id":"1001241440309"
+        "eurostat:nuts_2021_id":"1001241440309",
+        "pol-gus:code":"1001241440309"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101842321
     ],
@@ -96,7 +107,7 @@
         }
     ],
     "wof:id":1477751785,
-    "wof:lastmodified":1684354375,
+    "wof:lastmodified":1695879319,
     "wof:name":"Istebna",
     "wof:parent_id":102079421,
     "wof:placetype":"localadmin",

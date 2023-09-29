@@ -22,6 +22,15 @@
     "geom:latitude":50.657077,
     "geom:longitude":19.233975,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.660083,
     "lbl:longitude":19.228018,
     "mps:latitude":50.660083,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1001241460904",
-        "eurostat:nuts_2021_id":"1001241460904"
+        "eurostat:nuts_2021_id":"1001241460904",
+        "pol-gus:code":"1001241460904"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101823707
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477751525,
-    "wof:lastmodified":1684354362,
+    "wof:lastmodified":1695879305,
     "wof:name":"Poraj",
     "wof:parent_id":102079605,
     "wof:placetype":"localadmin",

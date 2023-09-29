@@ -22,6 +22,15 @@
     "geom:latitude":51.812583,
     "geom:longitude":19.733898,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.846233,
     "lbl:longitude":19.712296,
     "mps:latitude":51.846233,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101152102",
-        "eurostat:nuts_2021_id":"1005101152102"
+        "eurostat:nuts_2021_id":"1005101152102",
+        "pol-gus:code":"1005101152102"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864041
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477751915,
-    "wof:lastmodified":1684354382,
+    "wof:lastmodified":1695879326,
     "wof:name":"Gmina Brzeziny",
     "wof:parent_id":102079853,
     "wof:placetype":"localadmin",

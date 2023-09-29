@@ -22,6 +22,15 @@
     "geom:latitude":51.074656,
     "geom:longitude":19.439685,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.075118,
     "lbl:longitude":19.440878,
     "mps:latitude":51.075118,
@@ -85,8 +94,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1005101171201",
-        "eurostat:nuts_2021_id":"1005101171201"
+        "eurostat:nuts_2021_id":"1005101171201",
+        "pol-gus:code":"1005101171201"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:geomhash":"10d8c7419b3fa9a0d02388c7a55f4824",
     "wof:hierarchy":[
@@ -99,7 +110,7 @@
         }
     ],
     "wof:id":1477751225,
-    "wof:lastmodified":1684354347,
+    "wof:lastmodified":1695879289,
     "wof:name":"Gmina Radomsko",
     "wof:parent_id":102079711,
     "wof:placetype":"localadmin",

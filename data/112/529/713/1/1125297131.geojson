@@ -23,6 +23,15 @@
     "geom:longitude":22.609015,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.454097,
     "lbl:longitude":22.609831,
     "lbl:max_zoom":18.0,
@@ -197,8 +206,10 @@
         "eg:gisco_id":"PL_1006061110801",
         "eurostat:nuts_2021_id":"1006061110801",
         "gp:id":24548338,
+        "pol-gus:code":"1006061110801",
         "qs_pg:id":469393
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497043208,
     "wof:geom_alt":[
@@ -215,7 +226,7 @@
         }
     ],
     "wof:id":1125297131,
-    "wof:lastmodified":1684354189,
+    "wof:lastmodified":1695879011,
     "wof:name":"Gmina Lubart\u00f3w",
     "wof:parent_id":102079855,
     "wof:placetype":"localadmin",

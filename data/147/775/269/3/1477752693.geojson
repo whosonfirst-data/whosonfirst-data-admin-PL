@@ -22,6 +22,15 @@
     "geom:latitude":50.117863,
     "geom:longitude":22.801094,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":50.12698,
     "lbl:longitude":22.816442,
     "mps:latitude":50.12698,
@@ -46,8 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181340411",
-        "eurostat:nuts_2021_id":"1006181340411"
+        "eurostat:nuts_2021_id":"1006181340411",
+        "pol-gus:code":"1006181340411"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125919811
     ],
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":1477752693,
-    "wof:lastmodified":1684354423,
+    "wof:lastmodified":1695879369,
     "wof:name":"Wi\u0105zownica",
     "wof:parent_id":102079573,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":52.681024,
     "geom:longitude":22.336428,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.705887,
     "lbl:longitude":22.294183,
     "mps:latitude":52.705887,
@@ -88,8 +97,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142261606",
-        "eurostat:nuts_2021_id":"1007142261606"
+        "eurostat:nuts_2021_id":"1007142261606",
+        "pol-gus:code":"1007142261606"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101913081
     ],
@@ -105,7 +116,7 @@
         }
     ],
     "wof:id":1125327479,
-    "wof:lastmodified":1684354237,
+    "wof:lastmodified":1695879135,
     "wof:name":"Nur",
     "wof:parent_id":102080057,
     "wof:placetype":"localadmin",

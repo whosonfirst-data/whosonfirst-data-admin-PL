@@ -22,6 +22,15 @@
     "geom:latitude":52.683789,
     "geom:longitude":15.094076,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":52.682174,
     "lbl:longitude":15.094045,
     "mps:latitude":52.682174,
@@ -58,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1002081130102",
-        "eurostat:nuts_2021_id":"1002081130102"
+        "eurostat:nuts_2021_id":"1002081130102",
+        "pol-gus:code":"1002081130102"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         101820419
     ],
@@ -75,7 +86,7 @@
         }
     ],
     "wof:id":1477753021,
-    "wof:lastmodified":1684354442,
+    "wof:lastmodified":1695879388,
     "wof:name":"Bogdaniec",
     "wof:parent_id":102079975,
     "wof:placetype":"localadmin",

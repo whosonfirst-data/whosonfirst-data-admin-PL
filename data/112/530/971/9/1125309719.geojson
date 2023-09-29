@@ -23,6 +23,15 @@
     "geom:longitude":22.700607,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":54.089263,
     "lbl:longitude":22.644796,
     "lbl:max_zoom":18.0,
@@ -104,8 +113,10 @@
         "eg:gisco_id":"PL_1006201391201",
         "eurostat:nuts_2021_id":"1006201391201",
         "gp:id":12617116,
+        "pol-gus:code":"1006201391201",
         "qs_pg:id":1107007
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125804431
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125309719,
-    "wof:lastmodified":1684354212,
+    "wof:lastmodified":1695879054,
     "wof:name":"Baka\u0142arzewo",
     "wof:parent_id":102080265,
     "wof:placetype":"localadmin",

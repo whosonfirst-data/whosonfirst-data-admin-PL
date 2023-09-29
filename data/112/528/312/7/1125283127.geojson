@@ -23,6 +23,15 @@
     "geom:longitude":17.567485,
     "gn:country":null,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.695696,
     "lbl:longitude":17.561291,
     "lbl:max_zoom":18.0,
@@ -203,8 +212,10 @@
         "eg:gisco_id":"PL_1004221720201",
         "eurostat:nuts_2021_id":"1004221720201",
         "gp:id":24547483,
+        "pol-gus:code":"1004221720201",
         "qs_pg:id":1092336
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:country":"PL",
     "wof:created":1497042588,
     "wof:geom_alt":[
@@ -221,7 +232,7 @@
         }
     ],
     "wof:id":1125283127,
-    "wof:lastmodified":1684354153,
+    "wof:lastmodified":1695878971,
     "wof:name":"Gmina Chojnice",
     "wof:parent_id":102080161,
     "wof:placetype":"localadmin",

@@ -22,6 +22,15 @@
     "geom:latitude":49.656895,
     "geom:longitude":22.690505,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":49.640381,
     "lbl:longitude":22.682546,
     "mps:latitude":49.640381,
@@ -64,8 +73,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1006181341303",
-        "eurostat:nuts_2021_id":"1006181341303"
+        "eurostat:nuts_2021_id":"1006181341303",
+        "pol-gus:code":"1006181341303"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1125768275
     ],
@@ -81,7 +92,7 @@
         }
     ],
     "wof:id":1477752019,
-    "wof:lastmodified":1684354388,
+    "wof:lastmodified":1695879332,
     "wof:name":"Fredropol",
     "wof:parent_id":102079513,
     "wof:placetype":"localadmin",

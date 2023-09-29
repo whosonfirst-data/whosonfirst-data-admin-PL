@@ -22,6 +22,15 @@
     "geom:latitude":51.443724,
     "geom:longitude":20.596154,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":51.434964,
     "lbl:longitude":20.58664,
     "mps:latitude":51.434964,
@@ -61,8 +70,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eg:gisco_id":"PL_1007142272307",
-        "eurostat:nuts_2021_id":"1007142272307"
+        "eurostat:nuts_2021_id":"1007142272307",
+        "pol-gus:code":"1007142272307"
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1276691631
     ],
@@ -78,7 +89,7 @@
         }
     ],
     "wof:id":1477751639,
-    "wof:lastmodified":1684354368,
+    "wof:lastmodified":1695879311,
     "wof:name":"Rusin\u00f3w",
     "wof:parent_id":102079797,
     "wof:placetype":"localadmin",

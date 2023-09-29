@@ -25,6 +25,15 @@
     "gn:fcode":"PPLA3",
     "gn:population":776,
     "iso:country":"PL",
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:pol_x_preferred_placetype":[
+        "gmina"
+    ],
     "lbl:latitude":53.05581,
     "lbl:longitude":18.92635,
     "lbl:max_zoom":17.0,
@@ -104,8 +113,10 @@
         "eurostat:nuts_2021_id":"1004041070502",
         "gn:id":3101428,
         "gp:id":12618473,
+        "pol-gus:code":"1004041070502",
         "qs_pg:id":497949
     },
+    "wof:concordances_official":"pol-gus:code",
     "wof:coterminous":[
         1477864615
     ],
@@ -125,7 +136,7 @@
         }
     ],
     "wof:id":1125324771,
-    "wof:lastmodified":1684354232,
+    "wof:lastmodified":1695879119,
     "wof:name":"Ciechocin",
     "wof:parent_id":102080067,
     "wof:placetype":"localadmin",
