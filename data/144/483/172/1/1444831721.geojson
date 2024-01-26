@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.8901076688,54.3313198868,18.8901076688,54.3313198868",
+    "geom:bbox":"18.890108,54.33132,18.890108,54.33132",
     "geom:latitude":54.33132,
     "geom:longitude":18.890108,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"2261.0",
+    "gn:admin3_code":"226101.0",
+    "gn:asciiname":"Wyspa Sobieszewska",
+    "gn:country_code":"PL",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8426051,
+    "gn:latitude":54.33263,
+    "gn:longitude":18.89065,
+    "gn:modification_date":"2012-11-21",
+    "gn:name":"Wyspa Sobieszewska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"18.8851076688,54.3263198868,18.8951076688,54.3363198868",
     "lbl:latitude":54.33132,
     "lbl:longitude":18.890108,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687267,
         102191581,
         1125359815,
         85633723,
         101752271,
-        102080225
+        102080225,
+        85687267
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8426051
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8426051
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"363c9d4bc1f9ca2b820d88aa93e12ae9",
+    "wof:geomhash":"f85222a28bebbbb6fa135077e2cb82fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444831721,
-    "wof:lastmodified":1570056765,
+    "wof:lastmodified":1706240607,
     "wof:name":"Wyspa Sobieszewska",
     "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495006559
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    18.89010766875613,
-    54.33131988679587,
-    18.89010766875613,
-    54.33131988679587
+    18.890108,
+    54.33132,
+    18.890108,
+    54.33132
 ],
-  "geometry": {"coordinates":[18.89010766875613,54.33131988679587],"type":"Point"}
+  "geometry": {"coordinates":[18.890108,54.33132],"type":"Point"}
 }

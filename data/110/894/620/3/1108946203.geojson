@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.3677190086,51.8284058861,19.3677190086,51.8284058861",
+    "geom:bbox":"19.367719,51.828406,19.367719,51.828406",
     "geom:latitude":51.828406,
     "geom:longitude":19.367719,
+    "gn:admin1_code":"74.0",
+    "gn:admin2_code":"1061.0",
+    "gn:admin3_code":"106101.0",
+    "gn:asciiname":"Sokolow",
+    "gn:country_code":"PL",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3085206,
+    "gn:latitude":51.82855,
+    "gn:longitude":19.36897,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Soko\u0142\u00f3w",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"19.3627190086,51.8234058861,19.3727190086,51.8334058861",
     "lbl:latitude":51.828406,
     "lbl:longitude":19.367719,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -34,19 +50,21 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687261,
         102191581,
         1125329169,
         85633723,
         101913783,
         1477921695,
-        102079835
+        102079835,
+        85687261
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":3085206
+    },
     "wof:country":"PL",
     "wof:created":1491365546,
-    "wof:geomhash":"8a5b4af5fb85808eb0dc318d64b9aa85",
+    "wof:geomhash":"f19da118e4beb1c9b6f0f224afa64b43",
     "wof:hierarchy":[
         {
             "borough_id":1477921695,
@@ -60,20 +78,22 @@
         }
     ],
     "wof:id":1108946203,
-    "wof:lastmodified":1570057185,
+    "wof:lastmodified":1706240603,
     "wof:name":"Sokolow",
     "wof:parent_id":1477921695,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495004559
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    19.36771900859302,
-    51.82840588614734,
-    19.36771900859302,
-    51.82840588614734
+    19.367719,
+    51.828406,
+    19.367719,
+    51.828406
 ],
-  "geometry": {"coordinates":[19.36771900859302,51.82840588614734],"type":"Point"}
+  "geometry": {"coordinates":[19.367719,51.828406],"type":"Point"}
 }

@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.0594317567,51.1113044128,17.0594317567,51.1113044128",
+    "geom:bbox":"17.059432,51.111304,17.059432,51.111304",
     "geom:latitude":51.111304,
     "geom:longitude":17.059432,
+    "gn:admin1_code":"72.0",
+    "gn:admin2_code":"264.0",
+    "gn:admin3_code":"26401.0",
+    "gn:asciiname":"Plac Grunwaldzki",
+    "gn:country_code":"PL",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425990,
+    "gn:latitude":51.11164,
+    "gn:longitude":17.06005,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Plac Grunwaldzki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"17.0544317567,51.1063044128,17.0644317567,51.1163044128",
     "lbl:latitude":51.111304,
     "lbl:longitude":17.059432,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,28 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687301,
         102191581,
         1125280577,
         85633723,
         101752181,
-        102079661
+        102079661,
+        85687301
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425990,
+        "wk:page":"Plac_Grunwaldzki"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8425990
+        ],
+        "wk:page":[
+            "Plac_Grunwaldzki"
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"60736009918013c6c9e21f6ab589f4ab",
+    "wof:geomhash":"a341a6932330c0c3b2a9665bf9ded414",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +82,22 @@
         }
     ],
     "wof:id":1444830303,
-    "wof:lastmodified":1570056711,
+    "wof:lastmodified":1706240605,
     "wof:name":"Plac Grunwaldzki",
     "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495005583
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    17.05943175674087,
-    51.1113044127833,
-    17.05943175674087,
-    51.1113044127833
+    17.059432,
+    51.111304,
+    17.059432,
+    51.111304
 ],
-  "geometry": {"coordinates":[17.05943175674087,51.1113044127833],"type":"Point"}
+  "geometry": {"coordinates":[17.059432,51.111304],"type":"Point"}
 }

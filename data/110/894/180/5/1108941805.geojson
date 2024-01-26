@@ -6,14 +6,31 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.9822184671,52.3227410316,20.9822184671,52.3227410316",
+    "geom:bbox":"20.982218,52.322741,20.982218,52.322741",
     "geom:latitude":52.322741,
     "geom:longitude":20.982218,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"1465.0",
+    "gn:admin3_code":"146501.0",
+    "gn:admin4_code":"146503_8",
+    "gn:asciiname":"Wisniewo",
+    "gn:country_code":"PL",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":755580,
+    "gn:latitude":52.32316,
+    "gn:longitude":20.98103,
+    "gn:modification_date":"2018-01-16",
+    "gn:name":"Wi\u015bniewo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"20.9772184671,52.3177410316,20.9872184671,52.3277410316",
     "lbl:latitude":52.322741,
     "lbl:longitude":20.982218,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -28,19 +45,21 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687257,
         102191581,
         1125365875,
         85633723,
         101752777,
         1477921669,
-        1477743805
+        1477743805,
+        85687257
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":755580
+    },
     "wof:country":"PL",
     "wof:created":1491362663,
-    "wof:geomhash":"1c559abd8b8ebd2a26544d29ca55a678",
+    "wof:geomhash":"3771f8d7a4ef7fdbb10a26c0bea98077",
     "wof:hierarchy":[
         {
             "borough_id":1477921669,
@@ -54,20 +73,22 @@
         }
     ],
     "wof:id":1108941805,
-    "wof:lastmodified":1570057227,
+    "wof:lastmodified":1706240602,
     "wof:name":"Wisniewo",
     "wof:parent_id":1477921669,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495006687
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    20.98221846707831,
-    52.32274103156374,
-    20.98221846707831,
-    52.32274103156374
+    20.982218,
+    52.322741,
+    20.982218,
+    52.322741
 ],
-  "geometry": {"coordinates":[20.98221846707831,52.32274103156374],"type":"Point"}
+  "geometry": {"coordinates":[20.982218,52.322741],"type":"Point"}
 }

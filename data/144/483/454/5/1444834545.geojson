@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.8170547031,52.3825492958,16.8170547031,52.3825492958",
+    "geom:bbox":"16.817055,52.382549,16.817055,52.382549",
     "geom:latitude":52.382549,
     "geom:longitude":16.817055,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"3064.0",
+    "gn:admin3_code":"306401.0",
+    "gn:asciiname":"Kwiatowe",
+    "gn:country_code":"PL",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425938,
+    "gn:latitude":52.38284,
+    "gn:longitude":16.81814,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Kwiatowe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"16.8120547031,52.3775492958,16.8220547031,52.3875492958",
     "lbl:latitude":52.382549,
     "lbl:longitude":16.817055,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -35,16 +51,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687323,
         102191581,
         1125294929,
         85633723,
         101752223,
-        102079921
+        102079921,
+        85687323
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425938
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8425938
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"870895c0f0fcd9a557a4c2a56a7dfa53",
+    "wof:geomhash":"1c048f5dd32d6ec9b50714a1b8dd13bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,20 +81,22 @@
         }
     ],
     "wof:id":1444834545,
-    "wof:lastmodified":1570056712,
+    "wof:lastmodified":1706240609,
     "wof:name":"Kwiatowe",
     "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495004097
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    16.81705470308581,
-    52.38254929583391,
-    16.81705470308581,
-    52.38254929583391
+    16.817055,
+    52.382549,
+    16.817055,
+    52.382549
 ],
-  "geometry": {"coordinates":[16.81705470308581,52.38254929583391],"type":"Point"}
+  "geometry": {"coordinates":[16.817055,52.382549],"type":"Point"}
 }

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"18.48182,54.42734,18.48182,54.42734",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wysoka"
@@ -90,19 +92,19 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687267,
         102191581,
         1125359815,
         85633723,
         101752271,
-        102080225
+        102080225,
+        85687267
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3081121
     },
     "wof:country":"PL",
-    "wof:geomhash":"fe0c3f52daf02fa6ee17af046e8a8fa4",
+    "wof:geomhash":"3998b3c860c61bff93758116e0e9ac46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,22 +117,24 @@
         }
     ],
     "wof:id":1495005577,
-    "wof:lastmodified":1570059245,
+    "wof:lastmodified":1706240606,
     "wof:name":"Wysoka",
     "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1444831021
+    ],
     "wof:supersedes":[
         1259515887
     ],
     "wof:tags":[]
 },
   "bbox": [
-    18.48182000000001,
+    18.48182,
     54.42734,
-    18.48182000000001,
+    18.48182,
     54.42734
 ],
-  "geometry": {"coordinates":[18.48182000000001,54.42734],"type":"Point"}
+  "geometry": {"coordinates":[18.48182,54.42734],"type":"Point"}
 }

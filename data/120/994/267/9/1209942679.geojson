@@ -13,6 +13,7 @@
     "gn:admin2_code":"2807.0",
     "gn:admin3_code":"280707.0",
     "gn:asciiname":"Dobrzyki",
+    "gn:cc2":"PL",
     "gn:country_code":"PL",
     "gn:dem":114,
     "gn:feature_class":"P",
@@ -46,6 +47,10 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0436\u0438\u043a\u0456"
     ],
+    "name:und_x_variant":[
+        "Weinsdorf",
+        "Win\u00f3w"
+    ],
     "name:vie_x_preferred":[
         "Dobrzyki"
     ],
@@ -59,7 +64,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":3100276
+        "gn:id":3100276,
+        "wk:page":"Dobrzyki"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3100275
+        ]
     },
     "wof:country":"PL",
     "wof:geomhash":"4b34e7bab1e6267cbd86ddc1c8607e30",
@@ -74,13 +85,15 @@
         }
     ],
     "wof:id":1209942679,
-    "wof:lastmodified":1570022131,
+    "wof:lastmodified":1706240604,
     "wof:name":"Dobrzyki",
     "wof:parent_id":1125290149,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310529495
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.9477291034,51.1247999818,16.9477291034,51.1247999818",
+    "geom:bbox":"16.947729,51.1248,16.947729,51.1248",
     "geom:latitude":51.1248,
     "geom:longitude":16.947729,
+    "gn:admin1_code":"72.0",
+    "gn:admin2_code":"264.0",
+    "gn:admin3_code":"26401.0",
+    "gn:asciiname":"Kuzniki",
+    "gn:country_code":"PL",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425962,
+    "gn:latitude":51.12487,
+    "gn:longitude":16.95092,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Ku\u017aniki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"16.9427291034,51.1197999818,16.9527291034,51.1297999818",
     "lbl:latitude":51.1248,
     "lbl:longitude":16.947729,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687301,
         102191581,
         1125280577,
         85633723,
         101752181,
-        102079661
+        102079661,
+        85687301
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425962
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8425962
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"8d4d6abce94d38ee34e3f6c7e3affddf",
+    "wof:geomhash":"2d76da30662b1c011707ea8ff7380286",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444830911,
-    "wof:lastmodified":1570056653,
+    "wof:lastmodified":1706240606,
     "wof:name":"Kuzniki",
     "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495005427
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    16.94772910336468,
-    51.1247999817679,
-    16.94772910336468,
-    51.1247999817679
+    16.947729,
+    51.1248,
+    16.947729,
+    51.1248
 ],
-  "geometry": {"coordinates":[16.94772910336468,51.1247999817679],"type":"Point"}
+  "geometry": {"coordinates":[16.947729,51.1248],"type":"Point"}
 }

@@ -6,14 +6,18 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.4924205103,54.3552705201,18.4924205103,54.3552705201",
+    "geom:bbox":"18.492421,54.355271,18.492421,54.355271",
     "geom:latitude":54.355271,
     "geom:longitude":18.492421,
+    "gn:country":"PL",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PL",
     "lbl:bbox":"18.4874205103,54.3502705201,18.4974205103,54.3602705201",
     "lbl:latitude":54.355271,
     "lbl:longitude":18.492421,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -22,6 +26,7 @@
     "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_metro":30,
     "name:csb_x_preferred":[
         "K\u00f2k\u00f2szczi"
@@ -41,19 +46,59 @@
     "name:vie_x_preferred":[
         "Kokoszki"
     ],
+    "qs_pg:aaroncc":"PL",
+    "qs_pg:gn_country":"PL",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3095856,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kokoszki",
+    "qs_pg:name_adm0":"Polska",
+    "qs_pg:name_adm1":"Pomorskie",
+    "qs_pg:photos":48,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":48,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165619,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424923,
+    "qs_pg:woe_id":499955,
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
+    "woe:adm0_id":23424923,
+    "woe:name_adm0":"Polska",
+    "woe:name_adm1":"Pomorskie",
+    "woe:placetype":"Town",
     "wof:belongsto":[
-        85687267,
         102191581,
         1125359815,
         85633723,
         101752271,
-        102080225
+        102080225,
+        85687267
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3095856,
+        "gp:id":499955,
+        "qs_pg:id":1165619
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3095856
+        ],
+        "gp:id":[
+            499955
+        ],
+        "qs_pg:id":[
+            1165619
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"c22e378a5ea1f5c8db87f49c8ddf16eb",
+    "wof:geomhash":"0f8224b9c00c8f20dba037badabe8820",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,20 +111,22 @@
         }
     ],
     "wof:id":1444831103,
-    "wof:lastmodified":1570056780,
+    "wof:lastmodified":1706240606,
     "wof:name":"Kokoszki",
     "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495005347
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    18.49242051034628,
-    54.35527052008972,
-    18.49242051034628,
-    54.35527052008972
+    18.492421,
+    54.355271,
+    18.492421,
+    54.355271
 ],
-  "geometry": {"coordinates":[18.49242051034628,54.35527052008972],"type":"Point"}
+  "geometry": {"coordinates":[18.492421,54.355271],"type":"Point"}
 }

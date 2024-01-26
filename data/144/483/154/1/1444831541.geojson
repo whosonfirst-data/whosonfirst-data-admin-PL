@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.6329397232,54.4050254522,18.6329397232,54.4050254522",
+    "geom:bbox":"18.63294,54.405025,18.63294,54.405025",
     "geom:latitude":54.405025,
     "geom:longitude":18.63294,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"2261.0",
+    "gn:admin3_code":"226101.0",
+    "gn:asciiname":"Brzezno",
+    "gn:country_code":"PL",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8426031,
+    "gn:latitude":54.40701,
+    "gn:longitude":18.63196,
+    "gn:modification_date":"2012-11-21",
+    "gn:name":"Brze\u017ano",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"18.6279397232,54.4000254522,18.6379397232,54.4100254522",
     "lbl:latitude":54.405025,
     "lbl:longitude":18.63294,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687267,
         102191581,
         1125359815,
         85633723,
         101752271,
-        102080225
+        102080225,
+        85687267
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8426031
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8426031
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"3142cda2a10f588e45b424d87a64c2f1",
+    "wof:geomhash":"6ffe78ab94416931d4bb03ec75428838",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444831541,
-    "wof:lastmodified":1570056792,
+    "wof:lastmodified":1706240607,
     "wof:name":"Brzezno",
     "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495004831
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    18.63293972319961,
-    54.40502545224418,
-    18.63293972319961,
-    54.40502545224418
+    18.63294,
+    54.405025,
+    18.63294,
+    54.405025
 ],
-  "geometry": {"coordinates":[18.63293972319961,54.40502545224418],"type":"Point"}
+  "geometry": {"coordinates":[18.63294,54.405025],"type":"Point"}
 }

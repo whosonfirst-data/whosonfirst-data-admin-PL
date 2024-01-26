@@ -11,6 +11,7 @@
     "geom:longitude":20.96815,
     "gn:id":"",
     "iso:country":"PL",
+    "lbl:bbox":"20.964869,52.315622,20.974869,52.325622",
     "lbl:latitude":52.320183,
     "lbl:longitude":20.967987,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":4,
     "mz:tier_metro":30,
     "name:ara_x_preferred":[
@@ -132,12 +134,31 @@
     "qs:woe_lau":24548810,
     "qs:woe_local":523920,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Nowy Tarchomin",
+    "qs_pg:name_adm0":"Polska",
+    "qs_pg:name_adm1":"Mazowieckie",
+    "qs_pg:photos":232,
+    "qs_pg:photos_1k":47,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":232,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":481875,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424923,
+    "qs_pg:woe_id":22724259,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mz",
     "wd:wordcount":885,
+    "woe:adm0_id":23424923,
+    "woe:name_adm0":"Polska",
+    "woe:name_adm1":"Mazowieckie",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
         1125365875,
@@ -155,7 +176,12 @@
         "wd:id":"Q855983"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1014014
+        "gp:id":[
+            22724259
+        ],
+        "qs_pg:id":[
+            481875
+        ]
     },
     "wof:country":"PL",
     "wof:geom_alt":[
@@ -178,13 +204,15 @@
     "wof:lang":[
         "pol"
     ],
-    "wof:lastmodified":1690854412,
+    "wof:lastmodified":1706240600,
     "wof:name":"Nowy Tarchomin",
     "wof:parent_id":1477921669,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126084931
+    ],
     "wof:tags":[]
 },
   "bbox": [

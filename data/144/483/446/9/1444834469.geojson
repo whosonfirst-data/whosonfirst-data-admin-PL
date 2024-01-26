@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.8820571772,52.4169037056,16.8820571772,52.4169037056",
+    "geom:bbox":"16.882057,52.416904,16.882057,52.416904",
     "geom:latitude":52.416904,
     "geom:longitude":16.882057,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"3064.0",
+    "gn:admin3_code":"306401.0",
+    "gn:asciiname":"Ogrody",
+    "gn:country_code":"PL",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425945,
+    "gn:latitude":52.41475,
+    "gn:longitude":16.88067,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Ogrody",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"16.8770571772,52.4119037056,16.8870571772,52.4219037056",
     "lbl:latitude":52.416904,
     "lbl:longitude":16.882057,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687323,
         102191581,
         1125294929,
         85633723,
         101752223,
-        102079921
+        102079921,
+        85687323
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425945
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8425945
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"bdce7d130e193ce265a1aef05028c6f5",
+    "wof:geomhash":"90130f60183a9a6413c4debc490a385a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444834469,
-    "wof:lastmodified":1570056621,
+    "wof:lastmodified":1706240609,
     "wof:name":"Ogrody",
     "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495004151
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    16.88205717719817,
-    52.41690370555656,
-    16.88205717719817,
-    52.41690370555656
+    16.882057,
+    52.416904,
+    16.882057,
+    52.416904
 ],
-  "geometry": {"coordinates":[16.88205717719817,52.41690370555656],"type":"Point"}
+  "geometry": {"coordinates":[16.882057,52.416904],"type":"Point"}
 }

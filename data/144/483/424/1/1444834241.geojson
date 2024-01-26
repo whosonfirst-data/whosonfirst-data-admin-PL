@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.983394661,52.4127504781,16.983394661,52.4127504781",
+    "geom:bbox":"16.983395,52.41275,16.983395,52.41275",
     "geom:latitude":52.41275,
     "geom:longitude":16.983395,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"3064.0",
+    "gn:admin3_code":"306401.0",
+    "gn:asciiname":"Warszawskie-Pomet-Maltanskie",
+    "gn:country_code":"PL",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425953,
+    "gn:latitude":52.41209,
+    "gn:longitude":16.98104,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Warszawskie-Pomet-Malta\u0144skie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"16.978394661,52.4077504781,16.988394661,52.4177504781",
     "lbl:latitude":52.41275,
     "lbl:longitude":16.983395,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687323,
         102191581,
         1125294929,
         85633723,
         101752223,
-        102079921
+        102079921,
+        85687323
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425953
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8425953
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"4867f786c204dfd2688f13645bb61742",
+    "wof:geomhash":"b7fb8f2f508c5645d665c7bd694d9f98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444834241,
-    "wof:lastmodified":1570056643,
+    "wof:lastmodified":1706240608,
     "wof:name":"Warszawskie-Pomet-Maltanskie",
     "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495005873
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    16.98339466104764,
-    52.41275047813429,
-    16.98339466104764,
-    52.41275047813429
+    16.983395,
+    52.41275,
+    16.983395,
+    52.41275
 ],
-  "geometry": {"coordinates":[16.98339466104764,52.41275047813429],"type":"Point"}
+  "geometry": {"coordinates":[16.983395,52.41275],"type":"Point"}
 }

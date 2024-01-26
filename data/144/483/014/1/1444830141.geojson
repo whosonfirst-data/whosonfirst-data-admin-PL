@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.0013472345,51.0663460958,17.0013472345,51.0663460958",
+    "geom:bbox":"17.001347,51.066346,17.001347,51.066346",
     "geom:latitude":51.066346,
     "geom:longitude":17.001347,
+    "gn:admin1_code":"72.0",
+    "gn:admin2_code":"264.0",
+    "gn:admin3_code":"26401.0",
+    "gn:asciiname":"Krzyki-Partynice",
+    "gn:country_code":"PL",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425972,
+    "gn:latitude":51.06413,
+    "gn:longitude":17.00186,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Krzyki-Partynice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"16.9963472345,51.0613460958,17.0063472345,51.0713460958",
     "lbl:latitude":51.066346,
     "lbl:longitude":17.001347,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687301,
         102191581,
         1125280577,
         85633723,
         101752181,
-        102079661
+        102079661,
+        85687301
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425972
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8425972
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"098615bed873f380ead135d0eeee1cc4",
+    "wof:geomhash":"07379b31b1eb3cd5f91cd788765a5fc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444830141,
-    "wof:lastmodified":1570056615,
+    "wof:lastmodified":1706240605,
     "wof:name":"Krzyki-Partynice",
     "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495005139
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    17.00134723453226,
-    51.0663460957947,
-    17.00134723453226,
-    51.0663460957947
+    17.001347,
+    51.066346,
+    17.001347,
+    51.066346
 ],
-  "geometry": {"coordinates":[17.00134723453226,51.0663460957947],"type":"Point"}
+  "geometry": {"coordinates":[17.001347,51.066346],"type":"Point"}
 }

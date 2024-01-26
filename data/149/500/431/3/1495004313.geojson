@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"18.49124,54.41172,18.49124,54.41172",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Owczarnia"
@@ -45,12 +47,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687267,
         102191581,
         1125359815,
         85633723,
         101752271,
-        102080225
+        102080225,
+        85687267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,12 +72,14 @@
         }
     ],
     "wof:id":1495004313,
-    "wof:lastmodified":1570059732,
+    "wof:lastmodified":1706240606,
     "wof:name":"Owczarnia",
     "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1444831033
+    ],
     "wof:supersedes":[
         1309742621
     ],

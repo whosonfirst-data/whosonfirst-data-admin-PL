@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.8672215667,50.0379649712,19.8672215667,50.0379649712",
+    "geom:bbox":"19.867222,50.037965,19.867222,50.037965",
     "geom:latitude":50.037965,
     "geom:longitude":19.867222,
+    "gn:admin1_code":"77.0",
+    "gn:admin2_code":"1261.0",
+    "gn:admin3_code":"126101.0",
+    "gn:asciiname":"Bodzow",
+    "gn:country_code":"PL",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3103105,
+    "gn:latitude":50.03675,
+    "gn:longitude":19.87049,
+    "gn:modification_date":"2010-09-16",
+    "gn:name":"Bodz\u00f3w",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"19.8622215667,50.0329649712,19.8722215667,50.0429649712",
     "lbl:latitude":50.037965,
     "lbl:longitude":19.867222,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -28,19 +44,21 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687291,
         102191581,
         1125342413,
         85633723,
         101752117,
         1477921667,
-        102079481
+        102079481,
+        85687291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":3103105
+    },
     "wof:country":"PL",
     "wof:created":1491365278,
-    "wof:geomhash":"b96624f0606a221f51e3872b54a5a712",
+    "wof:geomhash":"aa08069d3a9d60a536b0b27f2e73377c",
     "wof:hierarchy":[
         {
             "borough_id":1477921667,
@@ -54,20 +72,22 @@
         }
     ],
     "wof:id":1108945765,
-    "wof:lastmodified":1570057492,
+    "wof:lastmodified":1706240602,
     "wof:name":"Bodzow",
     "wof:parent_id":1477921667,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495003921
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    19.86722156671604,
-    50.03796497124567,
-    19.86722156671604,
-    50.03796497124567
+    19.867222,
+    50.037965,
+    19.867222,
+    50.037965
 ],
-  "geometry": {"coordinates":[19.86722156671604,50.03796497124567],"type":"Point"}
+  "geometry": {"coordinates":[19.867222,50.037965],"type":"Point"}
 }
