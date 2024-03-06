@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"22.71667,49.6,22.71667,49.6",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Paportno"
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":1343688425,
-    "wof:lastmodified":1570010796,
+    "wof:lastmodified":1706240604,
     "wof:name":"Paportno",
     "wof:parent_id":102088273,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293813503
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

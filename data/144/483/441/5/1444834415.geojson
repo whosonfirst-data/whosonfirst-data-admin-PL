@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.9083786016,52.4629468902,16.9083786016,52.4629468902",
+    "geom:bbox":"16.908379,52.462947,16.908379,52.462947",
     "geom:latitude":52.462947,
     "geom:longitude":16.908379,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"3064.0",
+    "gn:admin3_code":"306401.0",
+    "gn:asciiname":"Jana III Sobieskiego i Marysienki",
+    "gn:country_code":"PL",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425935,
+    "gn:latitude":52.46266,
+    "gn:longitude":16.9068,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Jana III Sobieskiego i Marysie\u0144ki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"16.9033786016,52.4579468902,16.9133786016,52.4679468902",
     "lbl:latitude":52.462947,
     "lbl:longitude":16.908379,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687323,
         102191581,
         1125294929,
         85633723,
         101752223,
-        102079921
+        102079921,
+        85687323
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425935
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8425935
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"98e93ae345fa59fa9027c6424c5593fd",
+    "wof:geomhash":"a2d1a7a198afe43d1e7355d129ee41c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444834415,
-    "wof:lastmodified":1570056630,
+    "wof:lastmodified":1706240609,
     "wof:name":"Jana III Sobieskiego i Marysienki",
     "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495006771
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    16.90837860157466,
-    52.46294689018109,
-    16.90837860157466,
-    52.46294689018109
+    16.908379,
+    52.462947,
+    16.908379,
+    52.462947
 ],
-  "geometry": {"coordinates":[16.90837860157466,52.46294689018109],"type":"Point"}
+  "geometry": {"coordinates":[16.908379,52.462947],"type":"Point"}
 }

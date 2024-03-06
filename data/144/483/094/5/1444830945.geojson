@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.590095883,54.4106203575,18.590095883,54.4106203575",
+    "geom:bbox":"18.590096,54.41062,18.590096,54.41062",
     "geom:latitude":54.41062,
     "geom:longitude":18.590096,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"2261.0",
+    "gn:admin3_code":"226101.0",
+    "gn:asciiname":"Przymorze",
+    "gn:country_code":"PL",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3230663,
+    "gn:latitude":54.41164,
+    "gn:longitude":18.58844,
+    "gn:modification_date":"2012-11-21",
+    "gn:name":"Przymorze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"18.585095883,54.4056203575,18.595095883,54.4156203575",
     "lbl:latitude":54.41062,
     "lbl:longitude":18.590096,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -24,6 +40,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
+        "Przymorze"
+    ],
+    "name:deu_x_variant":[
         "Przymorze"
     ],
     "name:eng_x_preferred":[
@@ -38,16 +57,28 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687267,
         102191581,
         1125359815,
         85633723,
         101752271,
-        102080225
+        102080225,
+        85687267
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3230663,
+        "wk:page":"Przymorze"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3230663
+        ],
+        "wk:page":[
+            "Przymorze"
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"214210fa8d355379102a3cfd92c43563",
+    "wof:geomhash":"dbcca0787fb4ab2986057e42caf4635c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,20 +91,22 @@
         }
     ],
     "wof:id":1444830945,
-    "wof:lastmodified":1570057015,
+    "wof:lastmodified":1706240606,
     "wof:name":"Przymorze",
     "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495004739
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    18.59009588297817,
-    54.41062035749927,
-    18.59009588297817,
-    54.41062035749927
+    18.590096,
+    54.41062,
+    18.590096,
+    54.41062
 ],
-  "geometry": {"coordinates":[18.59009588297817,54.41062035749927],"type":"Point"}
+  "geometry": {"coordinates":[18.590096,54.41062],"type":"Point"}
 }

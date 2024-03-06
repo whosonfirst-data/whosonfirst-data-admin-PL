@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.9473457537,52.468838341,16.9473457537,52.468838341",
+    "geom:bbox":"16.947346,52.468838,16.947346,52.468838",
     "geom:latitude":52.468838,
     "geom:longitude":16.947346,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"3064.0",
+    "gn:admin3_code":"306401.0",
+    "gn:asciiname":"Umultowo",
+    "gn:country_code":"PL",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3082809,
+    "gn:latitude":52.46856,
+    "gn:longitude":16.94957,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Umultowo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"16.9423457537,52.463838341,16.9523457537,52.473838341",
     "lbl:latitude":52.468838,
     "lbl:longitude":16.947346,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -29,19 +45,30 @@
     "name:pol_x_preferred":[
         "Umultowo"
     ],
+    "name:und_x_variant":[
+        "Um\u00f3\u0142towo"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687323,
         102191581,
         1125294929,
         85633723,
         101752223,
-        102079921
+        102079921,
+        85687323
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3082809
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3082809
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"9bd74cea5c5bd689c9e4273969701061",
+    "wof:geomhash":"6e726e019766a8b5d042535d1862ef2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +81,22 @@
         }
     ],
     "wof:id":1444834367,
-    "wof:lastmodified":1570056694,
+    "wof:lastmodified":1706240608,
     "wof:name":"Umultowo",
     "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495006325
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    16.94734575374941,
-    52.46883834099958,
-    16.94734575374941,
-    52.46883834099958
+    16.947346,
+    52.468838,
+    16.947346,
+    52.468838
 ],
-  "geometry": {"coordinates":[16.94734575374941,52.46883834099958],"type":"Point"}
+  "geometry": {"coordinates":[16.947346,52.468838],"type":"Point"}
 }

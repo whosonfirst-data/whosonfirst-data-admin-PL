@@ -11,6 +11,7 @@
     "geom:longitude":22.328293,
     "gn:population":460,
     "iso:country":"PL",
+    "lbl:bbox":"22.310398,49.193784,22.350398,49.233784",
     "lbl:latitude":49.212517,
     "lbl:longitude":22.329184,
     "lbl:max_zoom":17.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Cisna"
     ],
@@ -84,6 +86,21 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "qs_pg:name":"Cisna",
+    "qs_pg:name_adm0":"Polska",
+    "qs_pg:name_adm1":"Podkarpackie",
+    "qs_pg:photos":121,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":121,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":303123,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424923,
+    "qs_pg:woe_id":490076,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -94,6 +111,10 @@
     "wd:latitude":49.2,
     "wd:longitude":22.31667,
     "wd:wordcount":249,
+    "woe:adm0_id":23424923,
+    "woe:name_adm0":"Polska",
+    "woe:name_adm1":"Podkarpackie",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85687295,
         102191581,
@@ -111,7 +132,15 @@
         "wk:page":"Cisna"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":303123
+        "gp:id":[
+            490076
+        ],
+        "qs_pg:id":[
+            303123
+        ],
+        "wd:id":[
+            "Q2402303"
+        ]
     },
     "wof:coterminous":[
         1477751789
@@ -133,7 +162,7 @@
         }
     ],
     "wof:id":101910847,
-    "wof:lastmodified":1690855110,
+    "wof:lastmodified":1706240602,
     "wof:name":"Cisna",
     "wof:parent_id":1477751789,
     "wof:placetype":"locality",
@@ -141,7 +170,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126010535
+    ],
     "wof:tags":[]
 },
   "bbox": [

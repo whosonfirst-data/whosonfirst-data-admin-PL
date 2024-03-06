@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.0037483664,51.0968018721,17.0037483664,51.0968018721",
+    "geom:bbox":"17.003748,51.096802,17.003748,51.096802",
     "geom:latitude":51.096802,
     "geom:longitude":17.003748,
+    "gn:admin1_code":"72.0",
+    "gn:admin2_code":"264.0",
+    "gn:admin3_code":"26401.0",
+    "gn:asciiname":"Gajowice",
+    "gn:country_code":"PL",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425958,
+    "gn:latitude":51.09627,
+    "gn:longitude":17.00195,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Gajowice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"16.9987483664,51.0918018721,17.0087483664,51.1018018721",
     "lbl:latitude":51.096802,
     "lbl:longitude":17.003748,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687301,
         102191581,
         1125280577,
         85633723,
         101752181,
-        102079661
+        102079661,
+        85687301
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425958
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8425958
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"d8cb3fc1afd93135d0222b634dd58a65",
+    "wof:geomhash":"ccedfb8108c8b70e3ebf57eb17fb5b9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444830189,
-    "wof:lastmodified":1570056881,
+    "wof:lastmodified":1706240605,
     "wof:name":"Gajowice",
     "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495004943
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    17.00374836635584,
-    51.09680187211939,
-    17.00374836635584,
-    51.09680187211939
+    17.003748,
+    51.096802,
+    17.003748,
+    51.096802
 ],
-  "geometry": {"coordinates":[17.00374836635584,51.09680187211939],"type":"Point"}
+  "geometry": {"coordinates":[17.003748,51.096802],"type":"Point"}
 }

@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.6697185727,54.3361254332,18.6697185727,54.3361254332",
+    "geom:bbox":"18.669719,54.336125,18.669719,54.336125",
     "geom:latitude":54.336125,
     "geom:longitude":18.669719,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"2261.0",
+    "gn:admin3_code":"226101.0",
+    "gn:asciiname":"Olszynka",
+    "gn:country_code":"PL",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8426037,
+    "gn:latitude":54.33747,
+    "gn:longitude":18.66732,
+    "gn:modification_date":"2012-11-21",
+    "gn:name":"Olszynka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"18.6647185727,54.3311254332,18.6747185727,54.3411254332",
     "lbl:latitude":54.336125,
     "lbl:longitude":18.669718,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -41,16 +57,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687267,
         102191581,
         1125359815,
         85633723,
         101752271,
-        102080225
+        102080225,
+        85687267
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8426037
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8426037
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"7896dad5f32c56b02e2f963938e0702f",
+    "wof:geomhash":"a6d6e010da208e95b1076abaa17727d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,20 +87,22 @@
         }
     ],
     "wof:id":1444832399,
-    "wof:lastmodified":1570056973,
+    "wof:lastmodified":1706240608,
     "wof:name":"Olszynka",
     "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495006435
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    18.66971857266656,
-    54.33612543318078,
-    18.66971857266656,
-    54.33612543318078
+    18.669719,
+    54.336125,
+    18.669719,
+    54.336125
 ],
-  "geometry": {"coordinates":[18.66971857266656,54.33612543318078],"type":"Point"}
+  "geometry": {"coordinates":[18.669719,54.336125],"type":"Point"}
 }

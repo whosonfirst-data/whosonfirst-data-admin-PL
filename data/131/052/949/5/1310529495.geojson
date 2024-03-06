@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"19.58073,53.81059,19.58073,53.81059",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u0628\u0698\u06a9\u06cc"
@@ -68,7 +70,7 @@
         "wk:page":"Dobrzyki"
     },
     "wof:country":"PL",
-    "wof:geomhash":"83ea55b49ddecdea9d63144dd317fb8f",
+    "wof:geomhash":"ad9c196c942b4dc30d23b31b43dc7e9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,20 +82,22 @@
         }
     ],
     "wof:id":1310529495,
-    "wof:lastmodified":1570027327,
+    "wof:lastmodified":1706240603,
     "wof:name":"Dobrzyki",
     "wof:parent_id":1125290149,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209942679
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     19.58073,
-    53.81059000000001,
+    53.81059,
     19.58073,
-    53.81059000000001
+    53.81059
 ],
-  "geometry": {"coordinates":[19.58073,53.81059000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.58073,53.81059],"type":"Point"}
 }

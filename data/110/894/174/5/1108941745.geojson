@@ -6,14 +6,31 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.1091907295,52.1306511543,21.1091907295,52.1306511543",
+    "geom:bbox":"21.109191,52.130651,21.109191,52.130651",
     "geom:latitude":52.130651,
     "geom:longitude":21.109191,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"1465.0",
+    "gn:admin3_code":"146501.0",
+    "gn:admin4_code":"146516_8",
+    "gn:asciiname":"Zamosc",
+    "gn:country_code":"PL",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":753863,
+    "gn:latitude":52.13049,
+    "gn:longitude":21.11271,
+    "gn:modification_date":"2018-01-16",
+    "gn:name":"Zamo\u015b\u0107",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"21.1041907295,52.1256511543,21.1141907295,52.1356511543",
     "lbl:latitude":52.130651,
     "lbl:longitude":21.109191,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -28,19 +45,21 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687257,
         102191581,
         1125365875,
         85633723,
         101752777,
         1477921645,
-        1477743805
+        1477743805,
+        85687257
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":753863
+    },
     "wof:country":"PL",
     "wof:created":1491362617,
-    "wof:geomhash":"4cf2b1558d96650efea80204a38a7e87",
+    "wof:geomhash":"f0e8ed17742e6bfedcfc2cdde554ab45",
     "wof:hierarchy":[
         {
             "borough_id":1477921645,
@@ -54,20 +73,22 @@
         }
     ],
     "wof:id":1108941745,
-    "wof:lastmodified":1570057221,
+    "wof:lastmodified":1706240602,
     "wof:name":"Zamosc",
     "wof:parent_id":1477921645,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495005193
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    21.10919072945105,
-    52.13065115428275,
-    21.10919072945105,
-    52.13065115428275
+    21.109191,
+    52.130651,
+    21.109191,
+    52.130651
 ],
-  "geometry": {"coordinates":[21.10919072945105,52.13065115428275],"type":"Point"}
+  "geometry": {"coordinates":[21.109191,52.130651],"type":"Point"}
 }

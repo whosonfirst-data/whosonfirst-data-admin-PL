@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.9529533616,52.3197065805,16.9529533616,52.3197065805",
+    "geom:bbox":"16.952953,52.319707,16.952953,52.319707",
     "geom:latitude":52.319707,
     "geom:longitude":16.952953,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"3064.0",
+    "gn:admin3_code":"306401.0",
+    "gn:asciiname":"Gluszyna",
+    "gn:country_code":"PL",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3099140,
+    "gn:latitude":52.31924,
+    "gn:longitude":16.95247,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"G\u0142uszyna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"16.9479533616,52.3147065805,16.9579533616,52.3247065805",
     "lbl:latitude":52.319707,
     "lbl:longitude":16.952953,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -29,19 +45,31 @@
     "name:pol_x_preferred":[
         "G\u0142uszyna"
     ],
+    "name:und_x_variant":[
+        "Gruszyna",
+        "G\u0142uszyna"
+    ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687323,
         102191581,
         1125294929,
         85633723,
         101752223,
-        102079921
+        102079921,
+        85687323
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3099140
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3099140
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"3b0a6deefd62779879fe195375669149",
+    "wof:geomhash":"804410e59279b0ae6edc3b6d84aae55c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +82,22 @@
         }
     ],
     "wof:id":1444834639,
-    "wof:lastmodified":1570056672,
+    "wof:lastmodified":1706240609,
     "wof:name":"Gluszyna",
     "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495004433
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    16.95295336155135,
-    52.31970658046432,
-    16.95295336155135,
-    52.31970658046432
+    16.952953,
+    52.319707,
+    16.952953,
+    52.319707
 ],
-  "geometry": {"coordinates":[16.95295336155135,52.31970658046432],"type":"Point"}
+  "geometry": {"coordinates":[16.952953,52.319707],"type":"Point"}
 }

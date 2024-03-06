@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.4788020343,54.4271009085,18.4788020343,54.4271009085",
+    "geom:bbox":"18.478802,54.427101,18.478802,54.427101",
     "geom:latitude":54.427101,
     "geom:longitude":18.478802,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"2261.0",
+    "gn:admin3_code":"226101.0",
+    "gn:asciiname":"Wysoka",
+    "gn:country_code":"PL",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3081121,
+    "gn:latitude":54.42734,
+    "gn:longitude":18.48182,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Wysoka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"18.4738020343,54.4221009085,18.4838020343,54.4321009085",
     "lbl:latitude":54.427101,
     "lbl:longitude":18.478802,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -86,16 +102,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687267,
         102191581,
         1125359815,
         85633723,
         101752271,
-        102080225
+        102080225,
+        85687267
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3081121
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3081121
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"5ea54833768cf11f4775c181bf0a5ee7",
+    "wof:geomhash":"826c0c0fa2811d5456a9cb366c6af14e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,20 +132,22 @@
         }
     ],
     "wof:id":1444831021,
-    "wof:lastmodified":1570056542,
+    "wof:lastmodified":1706240606,
     "wof:name":"Wysoka",
     "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495005577
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    18.47880203425583,
-    54.42710090853035,
-    18.47880203425583,
-    54.42710090853035
+    18.478802,
+    54.427101,
+    18.478802,
+    54.427101
 ],
-  "geometry": {"coordinates":[18.47880203425583,54.42710090853035],"type":"Point"}
+  "geometry": {"coordinates":[18.478802,54.427101],"type":"Point"}
 }

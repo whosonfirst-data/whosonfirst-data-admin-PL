@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.6695608354,54.4009620069,18.6695608354,54.4009620069",
+    "geom:bbox":"18.669561,54.400962,18.669561,54.400962",
     "geom:latitude":54.400962,
     "geom:longitude":18.669561,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"2261.0",
+    "gn:admin3_code":"226101.0",
+    "gn:asciiname":"Nowy Port",
+    "gn:country_code":"PL",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8426036,
+    "gn:latitude":54.40112,
+    "gn:longitude":18.66517,
+    "gn:modification_date":"2012-11-21",
+    "gn:name":"Nowy Port",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"18.6645608354,54.3959620069,18.6745608354,54.4059620069",
     "lbl:latitude":54.400962,
     "lbl:longitude":18.669561,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -50,16 +66,28 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687267,
         102191581,
         1125359815,
         85633723,
         101752271,
-        102080225
+        102080225,
+        85687267
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8426036,
+        "wk:page":"Nowy_Port"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8426036
+        ],
+        "wk:page":[
+            "Nowy_Port"
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"371bc954b81509024b0028c431d64500",
+    "wof:geomhash":"37833b0d15edf6e32256d9e0f1da5de5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,20 +100,22 @@
         }
     ],
     "wof:id":1444831555,
-    "wof:lastmodified":1570056829,
+    "wof:lastmodified":1706240607,
     "wof:name":"Nowy Port",
     "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495004991
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    18.66956083537557,
-    54.40096200688024,
-    18.66956083537557,
-    54.40096200688024
+    18.669561,
+    54.400962,
+    18.669561,
+    54.400962
 ],
-  "geometry": {"coordinates":[18.66956083537557,54.40096200688024],"type":"Point"}
+  "geometry": {"coordinates":[18.669561,54.400962],"type":"Point"}
 }

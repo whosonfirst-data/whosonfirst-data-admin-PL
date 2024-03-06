@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.1435068241,50.0584123037,20.1435068241,50.0584123037",
+    "geom:bbox":"20.143507,50.058412,20.143507,50.058412",
     "geom:latitude":50.058412,
     "geom:longitude":20.143507,
+    "gn:admin1_code":"77.0",
+    "gn:admin2_code":"1261.0",
+    "gn:admin3_code":"126101.0",
+    "gn:asciiname":"Stryjow",
+    "gn:country_code":"PL",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":758016,
+    "gn:latitude":50.06098,
+    "gn:longitude":20.14421,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Stryj\u00f3w",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"20.1385068241,50.0534123037,20.1485068241,50.0634123037",
     "lbl:latitude":50.058412,
     "lbl:longitude":20.143507,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -28,19 +44,21 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687291,
         102191581,
         1125342413,
         85633723,
         101752117,
         1477921675,
-        102079481
+        102079481,
+        85687291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":758016
+    },
     "wof:country":"PL",
     "wof:created":1491365420,
-    "wof:geomhash":"339ffa27a45b2ec7750b1ce85443cce8",
+    "wof:geomhash":"684bb708917b0045472d86a2fbffcc69",
     "wof:hierarchy":[
         {
             "borough_id":1477921675,
@@ -54,20 +72,22 @@
         }
     ],
     "wof:id":1108946005,
-    "wof:lastmodified":1570057470,
+    "wof:lastmodified":1706240603,
     "wof:name":"Stryjow",
     "wof:parent_id":1477921675,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495004461
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    20.14350682411236,
-    50.05841230366154,
-    20.14350682411236,
-    50.05841230366154
+    20.143507,
+    50.058412,
+    20.143507,
+    50.058412
 ],
-  "geometry": {"coordinates":[20.14350682411236,50.05841230366154],"type":"Point"}
+  "geometry": {"coordinates":[20.143507,50.058412],"type":"Point"}
 }

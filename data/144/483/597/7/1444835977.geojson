@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.9667019461,52.3507546397,16.9667019461,52.3507546397",
+    "geom:bbox":"16.966702,52.350755,16.966702,52.350755",
     "geom:latitude":52.350755,
     "geom:longitude":16.966702,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"3064.0",
+    "gn:admin3_code":"306401.0",
+    "gn:asciiname":"Garaszewo",
+    "gn:country_code":"PL",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3099515,
+    "gn:latitude":52.35162,
+    "gn:longitude":16.96381,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Garaszewo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"16.9617019461,52.3457546397,16.9717019461,52.3557546397",
     "lbl:latitude":52.350755,
     "lbl:longitude":16.966702,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687323,
         102191581,
         1125294929,
         85633723,
         101752223,
-        102079921
+        102079921,
+        85687323
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3099515
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3099515
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"eb46f99f7663a4a173150017ca06617e",
+    "wof:geomhash":"48cf92a02e73733cb66b56aa58b8bfe6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444835977,
-    "wof:lastmodified":1570056818,
+    "wof:lastmodified":1706240610,
     "wof:name":"Garaszewo",
     "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495006589
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    16.96670194613186,
-    52.35075463966678,
-    16.96670194613186,
-    52.35075463966678
+    16.966702,
+    52.350755,
+    16.966702,
+    52.350755
 ],
-  "geometry": {"coordinates":[16.96670194613186,52.35075463966678],"type":"Point"}
+  "geometry": {"coordinates":[16.966702,52.350755],"type":"Point"}
 }

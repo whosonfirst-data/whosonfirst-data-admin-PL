@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"16.88333,52.36667,16.88333,52.36667",
@@ -29,19 +31,19 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "\u015awierczewo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687323,
         102191581,
         1125294929,
         85633723,
         101752223,
-        102079921
+        102079921,
+        85687323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +51,7 @@
         "wk:page":"%C5%9Awierczewo%2C_Pozna%C5%84"
     },
     "wof:country":"PL",
-    "wof:geomhash":"7761d57020e3e86d9eb044d73091427a",
+    "wof:geomhash":"f30afc21d31223db71b015b437033733",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,22 +64,24 @@
         }
     ],
     "wof:id":1495006157,
-    "wof:lastmodified":1570060471,
+    "wof:lastmodified":1706240609,
     "wof:name":"Swierczewo",
     "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1444834603
+    ],
     "wof:supersedes":[
         1293713909
     ],
     "wof:tags":[]
 },
   "bbox": [
-    16.88332999999999,
+    16.88333,
     52.36667,
-    16.88332999999999,
+    16.88333,
     52.36667
 ],
-  "geometry": {"coordinates":[16.88332999999999,52.36667],"type":"Point"}
+  "geometry": {"coordinates":[16.88333,52.36667],"type":"Point"}
 }

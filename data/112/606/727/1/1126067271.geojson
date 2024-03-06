@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.063301,52.2941865,21.063301,52.2941865",
+    "geom:bbox":"21.063301,52.294187,21.063301,52.294187",
     "geom:latitude":52.294187,
     "geom:longitude":21.063301,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":21.063301,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fra_x_preferred":[
@@ -55,13 +57,13 @@
     "woe:name_adm1":"Mazowieckie",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85687257,
         102191581,
         1125365875,
         85633723,
         101752777,
         1477921685,
-        1477743805
+        1477743805,
+        85687257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +72,7 @@
     },
     "wof:country":"PL",
     "wof:created":1497309082,
-    "wof:geomhash":"38d94890c8c9e14e168888b3c860b596",
+    "wof:geomhash":"668e6b1339affc615627bf2ff68e879e",
     "wof:hierarchy":[
         {
             "borough_id":1477921685,
@@ -84,20 +86,22 @@
         }
     ],
     "wof:id":1126067271,
-    "wof:lastmodified":1570057699,
+    "wof:lastmodified":1706240600,
     "wof:name":"Zacisze",
     "wof:parent_id":1477921685,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85906635
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     21.063301,
-    52.2941865,
+    52.294187,
     21.063301,
-    52.2941865
+    52.294187
 ],
-  "geometry": {"coordinates":[21.063301,52.2941865],"type":"Point"}
+  "geometry": {"coordinates":[21.063301,52.294187],"type":"Point"}
 }

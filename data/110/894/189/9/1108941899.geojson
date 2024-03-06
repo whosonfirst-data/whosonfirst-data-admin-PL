@@ -6,14 +6,31 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.9364992973,52.1684653014,20.9364992973,52.1684653014",
+    "geom:bbox":"20.936499,52.168465,20.936499,52.168465",
     "geom:latitude":52.168465,
     "geom:longitude":20.936499,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"1465.0",
+    "gn:admin3_code":"146501.0",
+    "gn:admin4_code":"146517_8",
+    "gn:asciiname":"Zaluski",
+    "gn:country_code":"PL",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":753911,
+    "gn:latitude":52.1703,
+    "gn:longitude":20.93861,
+    "gn:modification_date":"2018-01-16",
+    "gn:name":"Za\u0142uski",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"20.9314992973,52.1634653014,20.9414992973,52.1734653014",
     "lbl:latitude":52.168465,
     "lbl:longitude":20.936499,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -28,19 +45,21 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687257,
         102191581,
         1125365875,
         85633723,
         101752777,
         1477921681,
-        1477743805
+        1477743805,
+        85687257
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":753911
+    },
     "wof:country":"PL",
     "wof:created":1491362734,
-    "wof:geomhash":"743112178ed9f3ea3e2c289daa70d910",
+    "wof:geomhash":"45548cc0ef402a7261565d6a479b0724",
     "wof:hierarchy":[
         {
             "borough_id":1477921681,
@@ -54,20 +73,22 @@
         }
     ],
     "wof:id":1108941899,
-    "wof:lastmodified":1570057242,
+    "wof:lastmodified":1706240602,
     "wof:name":"Zaluski",
     "wof:parent_id":1477921681,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495004331
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    20.93649929734609,
-    52.16846530136115,
-    20.93649929734609,
-    52.16846530136115
+    20.936499,
+    52.168465,
+    20.936499,
+    52.168465
 ],
-  "geometry": {"coordinates":[20.93649929734609,52.16846530136115],"type":"Point"}
+  "geometry": {"coordinates":[20.936499,52.168465],"type":"Point"}
 }

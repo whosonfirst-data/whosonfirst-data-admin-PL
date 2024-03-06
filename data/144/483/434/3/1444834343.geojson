@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.9300651664,52.4394778544,16.9300651664,52.4394778544",
+    "geom:bbox":"16.930065,52.439478,16.930065,52.439478",
     "geom:latitude":52.439478,
     "geom:longitude":16.930065,
+    "gn:admin1_code":"86.0",
+    "gn:admin2_code":"3064.0",
+    "gn:admin3_code":"306401.0",
+    "gn:asciiname":"Nowe Winogrady Polnoc",
+    "gn:country_code":"PL",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425940,
+    "gn:latitude":52.44013,
+    "gn:longitude":16.93036,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Nowe Winogrady P\u00f3\u0142noc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"16.9250651664,52.4344778544,16.9350651664,52.4444778544",
     "lbl:latitude":52.439478,
     "lbl:longitude":16.930065,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687323,
         102191581,
         1125294929,
         85633723,
         101752223,
-        102079921
+        102079921,
+        85687323
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425940
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8425940
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"e4afde11e94b0738240df9e3fd49ec0a",
+    "wof:geomhash":"86b70afb46f1423862ef0a27a9ed0fea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444834343,
-    "wof:lastmodified":1570056968,
+    "wof:lastmodified":1706240608,
     "wof:name":"Nowe Winogrady Polnoc",
     "wof:parent_id":101752223,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495005593
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    16.93006516644136,
-    52.43947785437628,
-    16.93006516644136,
-    52.43947785437628
+    16.930065,
+    52.439478,
+    16.930065,
+    52.439478
 ],
-  "geometry": {"coordinates":[16.93006516644136,52.43947785437628],"type":"Point"}
+  "geometry": {"coordinates":[16.930065,52.439478],"type":"Point"}
 }

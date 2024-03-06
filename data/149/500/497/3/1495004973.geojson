@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"16.99402,51.17423,16.99402,51.17423",
@@ -29,23 +31,23 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687301,
         102191581,
         1125280577,
         85633723,
         101752181,
-        102079661
+        102079661,
+        85687301
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3093367
     },
     "wof:country":"PL",
-    "wof:geomhash":"cf4f88451409a436d7a4c706157b3823",
+    "wof:geomhash":"807edec5304b837daf6b17d5c255d9c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,22 +60,24 @@
         }
     ],
     "wof:id":1495004973,
-    "wof:lastmodified":1570059649,
+    "wof:lastmodified":1706240605,
     "wof:name":"Lipa Piotrowska",
     "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1444830465
+    ],
     "wof:supersedes":[
         1277102751
     ],
     "wof:tags":[]
 },
   "bbox": [
-    16.99402000000001,
+    16.99402,
     51.17423,
-    16.99402000000001,
+    16.99402,
     51.17423
 ],
-  "geometry": {"coordinates":[16.99402000000001,51.17423],"type":"Point"}
+  "geometry": {"coordinates":[16.99402,51.17423],"type":"Point"}
 }

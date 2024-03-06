@@ -6,14 +6,31 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.9775263871,52.3433708233,20.9775263871,52.3433708233",
+    "geom:bbox":"20.977526,52.343371,20.977526,52.343371",
     "geom:latitude":52.343371,
     "geom:longitude":20.977526,
+    "gn:admin1_code":"78.0",
+    "gn:admin2_code":"1465.0",
+    "gn:admin3_code":"146501.0",
+    "gn:admin4_code":"146503_8",
+    "gn:asciiname":"Pludy",
+    "gn:country_code":"PL",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":762002,
+    "gn:latitude":52.34213,
+    "gn:longitude":20.97724,
+    "gn:modification_date":"2018-01-16",
+    "gn:name":"P\u0142udy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"20.9725263871,52.3383708233,20.9825263871,52.3483708233",
     "lbl:latitude":52.343371,
     "lbl:longitude":20.977526,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -28,19 +45,21 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687257,
         102191581,
         1125365875,
         85633723,
         101752777,
         1477921669,
-        1477743805
+        1477743805,
+        85687257
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":762002
+    },
     "wof:country":"PL",
     "wof:created":1491362662,
-    "wof:geomhash":"896c4552d53015edfd9eac21ae35d4d4",
+    "wof:geomhash":"83d6dec4bcde2a5b98dccb1304c9fdcc",
     "wof:hierarchy":[
         {
             "borough_id":1477921669,
@@ -54,20 +73,22 @@
         }
     ],
     "wof:id":1108941803,
-    "wof:lastmodified":1570057227,
+    "wof:lastmodified":1706240602,
     "wof:name":"Pludy",
     "wof:parent_id":1477921669,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495005821
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    20.97752638708076,
-    52.34337082325189,
-    20.97752638708076,
-    52.34337082325189
+    20.977526,
+    52.343371,
+    20.977526,
+    52.343371
 ],
-  "geometry": {"coordinates":[20.97752638708076,52.34337082325189],"type":"Point"}
+  "geometry": {"coordinates":[20.977526,52.343371],"type":"Point"}
 }

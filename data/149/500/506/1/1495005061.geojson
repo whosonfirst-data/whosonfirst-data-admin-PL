@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"17.09438,51.05096,17.09438,51.05096",
@@ -29,23 +31,23 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687301,
         102191581,
         1125280577,
         85633723,
         101752181,
-        102079661
+        102079661,
+        85687301
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8425967
     },
     "wof:country":"PL",
-    "wof:geomhash":"2d38cc0e98cacd94609bb73d33b5b5f0",
+    "wof:geomhash":"1f5b687e8a208bd9dc6589be2ec94f89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,22 +60,24 @@
         }
     ],
     "wof:id":1495005061,
-    "wof:lastmodified":1570060076,
+    "wof:lastmodified":1706240605,
     "wof:name":"Bienkowice",
     "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1444830209
+    ],
     "wof:supersedes":[
         1343492041
     ],
     "wof:tags":[]
 },
   "bbox": [
-    17.09437999999999,
+    17.09438,
     51.05096,
-    17.09437999999999,
+    17.09438,
     51.05096
 ],
-  "geometry": {"coordinates":[17.09437999999999,51.05096],"type":"Point"}
+  "geometry": {"coordinates":[17.09438,51.05096],"type":"Point"}
 }

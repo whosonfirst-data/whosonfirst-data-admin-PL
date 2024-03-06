@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"19.36897,51.82855,19.36897,51.82855",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sokolow"
@@ -39,13 +41,13 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687261,
         102191581,
         1125329169,
         85633723,
         101913783,
         1477921695,
-        102079835
+        102079835,
+        85687261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":1495004559,
-    "wof:lastmodified":1570059705,
+    "wof:lastmodified":1706240603,
     "wof:name":"Sokolow",
     "wof:parent_id":1477921695,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108946203
+    ],
     "wof:supersedes":[
         1276686653
     ],

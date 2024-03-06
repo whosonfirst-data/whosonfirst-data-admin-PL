@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.59620417,54.393100429,18.59620417,54.393100429",
+    "geom:bbox":"18.596204,54.3931,18.596204,54.3931",
     "geom:latitude":54.3931,
     "geom:longitude":18.596204,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"2261.0",
+    "gn:admin3_code":"226101.0",
+    "gn:asciiname":"Zaspa-Mlyniec",
+    "gn:country_code":"PL",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8426053,
+    "gn:latitude":54.39127,
+    "gn:longitude":18.59848,
+    "gn:modification_date":"2012-11-21",
+    "gn:name":"Zaspa-M\u0142yniec",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"18.59120417,54.388100429,18.60120417,54.398100429",
     "lbl:latitude":54.3931,
     "lbl:longitude":18.596204,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -23,8 +39,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:csb_x_preferred":[
+        "Zaspa-M\u0142i\u0144c"
+    ],
     "name:eng_x_preferred":[
         "Zaspa-Mlyniec"
+    ],
+    "name:ita_x_preferred":[
+        "Zaspa-M\u0142yniec"
     ],
     "name:pol_x_preferred":[
         "Zaspa-M\u0142yniec"
@@ -35,16 +57,28 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687267,
         102191581,
         1125359815,
         85633723,
         101752271,
-        102080225
+        102080225,
+        85687267
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8426053,
+        "wk:page":"Zaspa-M%C5%82yniec"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8426053
+        ],
+        "wk:page":[
+            "Zaspa-M%C5%82yniec"
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"042b3a1174024eaec4ed7cbbe9e8b8a1",
+    "wof:geomhash":"088868b14bd424eb84ef4f6e7689c8c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,20 +91,22 @@
         }
     ],
     "wof:id":1444831529,
-    "wof:lastmodified":1570056834,
+    "wof:lastmodified":1706240607,
     "wof:name":"Zaspa-Mlyniec",
     "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495004939
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    18.5962041700481,
-    54.39310042895458,
-    18.5962041700481,
-    54.39310042895458
+    18.596204,
+    54.3931,
+    18.596204,
+    54.3931
 ],
-  "geometry": {"coordinates":[18.5962041700481,54.39310042895458],"type":"Point"}
+  "geometry": {"coordinates":[18.596204,54.3931],"type":"Point"}
 }

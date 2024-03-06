@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.9968879897,51.1760077722,16.9968879897,51.1760077722",
+    "geom:bbox":"16.996888,51.176008,16.996888,51.176008",
     "geom:latitude":51.176008,
     "geom:longitude":16.996888,
+    "gn:admin1_code":"72.0",
+    "gn:admin2_code":"264.0",
+    "gn:admin3_code":"26401.0",
+    "gn:asciiname":"Lipa Piotrowska",
+    "gn:country_code":"PL",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3093367,
+    "gn:latitude":51.17423,
+    "gn:longitude":16.99402,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Lipa Piotrowska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"16.9918879897,51.1710077722,17.0018879897,51.1810077722",
     "lbl:latitude":51.176008,
     "lbl:longitude":16.996888,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687301,
         102191581,
         1125280577,
         85633723,
         101752181,
-        102079661
+        102079661,
+        85687301
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3093367
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3093367
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"db09592d770d7b9d828f6abf76f97440",
+    "wof:geomhash":"3a68a0aadb1f78dbbc8b181b5a83bf18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444830465,
-    "wof:lastmodified":1570056594,
+    "wof:lastmodified":1706240606,
     "wof:name":"Lipa Piotrowska",
     "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495004973
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    16.99688798971703,
-    51.17600777218048,
-    16.99688798971703,
-    51.17600777218048
+    16.996888,
+    51.176008,
+    16.996888,
+    51.176008
 ],
-  "geometry": {"coordinates":[16.99688798971703,51.17600777218048],"type":"Point"}
+  "geometry": {"coordinates":[16.996888,51.176008],"type":"Point"}
 }

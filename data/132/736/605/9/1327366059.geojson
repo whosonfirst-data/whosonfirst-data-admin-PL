@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"19.63898,53.35268,19.63898,53.35268",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Sugajenko"
@@ -51,7 +53,7 @@
         "wk:page":"Sugajenko"
     },
     "wof:country":"PL",
-    "wof:geomhash":"fff4e07b95387ff9e3761fbf7b8dde4f",
+    "wof:geomhash":"29d68063c149aa08e024f3734d4edc0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1327366059,
-    "wof:lastmodified":1570005100,
+    "wof:lastmodified":1706240604,
     "wof:name":"Sugajenko",
     "wof:parent_id":1477751907,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276361065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     19.63898,
-    53.35268000000001,
+    53.35268,
     19.63898,
-    53.35268000000001
+    53.35268
 ],
-  "geometry": {"coordinates":[19.63898,53.35268000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.63898,53.35268],"type":"Point"}
 }

@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.0091223281,51.1181233492,17.0091223281,51.1181233492",
+    "geom:bbox":"17.009122,51.118123,17.009122,51.118123",
     "geom:latitude":51.118123,
     "geom:longitude":17.009122,
+    "gn:admin1_code":"72.0",
+    "gn:admin2_code":"264.0",
+    "gn:admin3_code":"26401.0",
+    "gn:asciiname":"Szczepin",
+    "gn:country_code":"PL",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425986,
+    "gn:latitude":51.11614,
+    "gn:longitude":17.01018,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Szczepin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"17.0041223281,51.1131233492,17.0141223281,51.1231233492",
     "lbl:latitude":51.118123,
     "lbl:longitude":17.009122,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687301,
         102191581,
         1125280577,
         85633723,
         101752181,
-        102079661
+        102079661,
+        85687301
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425986
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8425986
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"4e3aaec34d05ab5ae5ca5d8a1307e432",
+    "wof:geomhash":"f435250540faeb140ab16e4541ab2b1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444830243,
-    "wof:lastmodified":1570056572,
+    "wof:lastmodified":1706240605,
     "wof:name":"Szczepin",
     "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495006777
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    17.00912232805625,
-    51.1181233492275,
-    17.00912232805625,
-    51.1181233492275
+    17.009122,
+    51.118123,
+    17.009122,
+    51.118123
 ],
-  "geometry": {"coordinates":[17.00912232805625,51.1181233492275],"type":"Point"}
+  "geometry": {"coordinates":[17.009122,51.118123],"type":"Point"}
 }

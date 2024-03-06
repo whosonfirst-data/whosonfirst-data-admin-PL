@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"18.6563902862,54.3495725663,18.6563902862,54.3495725663",
+    "geom:bbox":"18.65639,54.349573,18.65639,54.349573",
     "geom:latitude":54.349573,
     "geom:longitude":18.65639,
+    "gn:admin1_code":"82.0",
+    "gn:admin2_code":"2261.0",
+    "gn:admin3_code":"226101.0",
+    "gn:asciiname":"Srodmiescie",
+    "gn:country_code":"PL",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8426045,
+    "gn:latitude":54.35048,
+    "gn:longitude":18.65556,
+    "gn:modification_date":"2012-11-21",
+    "gn:name":"\u015arodmie\u015bcie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"18.6513902862,54.3445725663,18.6613902862,54.3545725663",
     "lbl:latitude":54.349573,
     "lbl:longitude":18.65639,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687267,
         102191581,
         1125359815,
         85633723,
         101752271,
-        102080225
+        102080225,
+        85687267
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8426045
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8426045
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"2df532a714da1838e57ef42f3b64b140",
+    "wof:geomhash":"3b60b30ea3f23cf4687173848e920b50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444832187,
-    "wof:lastmodified":1570056584,
+    "wof:lastmodified":1706240608,
     "wof:name":"Srodmiescie",
     "wof:parent_id":101752271,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495005421
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    18.65639028619269,
-    54.34957256626432,
-    18.65639028619269,
-    54.34957256626432
+    18.65639,
+    54.349573,
+    18.65639,
+    54.349573
 ],
-  "geometry": {"coordinates":[18.65639028619269,54.34957256626432],"type":"Point"}
+  "geometry": {"coordinates":[18.65639,54.349573],"type":"Point"}
 }

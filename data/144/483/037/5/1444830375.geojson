@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.9540106357,51.1153958908,16.9540106357,51.1153958908",
+    "geom:bbox":"16.954011,51.115396,16.954011,51.115396",
     "geom:latitude":51.115396,
     "geom:longitude":16.954011,
+    "gn:admin1_code":"72.0",
+    "gn:admin2_code":"264.0",
+    "gn:admin3_code":"26401.0",
+    "gn:asciiname":"Nowy Dwor",
+    "gn:country_code":"PL",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425965,
+    "gn:latitude":51.1147,
+    "gn:longitude":16.95577,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Nowy Dw\u00f3r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"16.9490106357,51.1103958908,16.9590106357,51.1203958908",
     "lbl:latitude":51.115396,
     "lbl:longitude":16.954011,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687301,
         102191581,
         1125280577,
         85633723,
         101752181,
-        102079661
+        102079661,
+        85687301
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425965
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8425965
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"ab7b97c87c7e2fedd477d5c76a05c4d8",
+    "wof:geomhash":"01d8ee9a3573d5e73e5e446c71cff905",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444830375,
-    "wof:lastmodified":1570056716,
+    "wof:lastmodified":1706240605,
     "wof:name":"Nowy Dwor",
     "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495005721
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    16.95401063572445,
-    51.11539589078731,
-    16.95401063572445,
-    51.11539589078731
+    16.954011,
+    51.115396,
+    16.954011,
+    51.115396
 ],
-  "geometry": {"coordinates":[16.95401063572445,51.11539589078731],"type":"Point"}
+  "geometry": {"coordinates":[16.954011,51.115396],"type":"Point"}
 }

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"19.91002,50.0748,19.91002,50.0748",
@@ -29,24 +31,24 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85687291,
         102191581,
         1125342413,
         85633723,
         101752117,
         1477921651,
-        102079481
+        102079481,
+        85687291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3093148
     },
     "wof:country":"PL",
-    "wof:geomhash":"60b89571531f0f89b739c14f28ef1eda",
+    "wof:geomhash":"9f141e4c52d34bb95af9bea177881340",
     "wof:hierarchy":[
         {
             "borough_id":1477921651,
@@ -60,22 +62,24 @@
         }
     ],
     "wof:id":1495006343,
-    "wof:lastmodified":1570059589,
+    "wof:lastmodified":1706240602,
     "wof:name":"Lobzow",
     "wof:parent_id":1477921651,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108945709
+    ],
     "wof:supersedes":[
         1310038307
     ],
     "wof:tags":[]
 },
   "bbox": [
-    19.91002000000001,
+    19.91002,
     50.0748,
-    19.91002000000001,
+    19.91002,
     50.0748
 ],
-  "geometry": {"coordinates":[19.91002000000001,50.0748],"type":"Point"}
+  "geometry": {"coordinates":[19.91002,50.0748],"type":"Point"}
 }

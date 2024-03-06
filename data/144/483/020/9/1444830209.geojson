@@ -6,14 +6,30 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"17.0968208094,51.051254442,17.0968208094,51.051254442",
+    "geom:bbox":"17.096821,51.051254,17.096821,51.051254",
     "geom:latitude":51.051254,
     "geom:longitude":17.096821,
+    "gn:admin1_code":"72.0",
+    "gn:admin2_code":"264.0",
+    "gn:admin3_code":"26401.0",
+    "gn:asciiname":"Bienkowice",
+    "gn:country_code":"PL",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425967,
+    "gn:latitude":51.05096,
+    "gn:longitude":17.09438,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Bie\u0144kowice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Warsaw",
     "iso:country":"PL",
     "lbl:bbox":"17.0918208094,51.046254442,17.1018208094,51.056254442",
     "lbl:latitude":51.051254,
     "lbl:longitude":17.096821,
     "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -32,16 +48,24 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85687301,
         102191581,
         1125280577,
         85633723,
         101752181,
-        102079661
+        102079661,
+        85687301
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425967
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8425967
+        ]
+    },
     "wof:country":"PL",
-    "wof:geomhash":"dc5487d34ab2cfee427c735baec3b156",
+    "wof:geomhash":"172e0418e66e1ae9bae7c739184bf52e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +78,22 @@
         }
     ],
     "wof:id":1444830209,
-    "wof:lastmodified":1570056875,
+    "wof:lastmodified":1706240605,
     "wof:name":"Bienkowice",
     "wof:parent_id":101752181,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pl",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1495005061
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    17.0968208094224,
-    51.05125444203081,
-    17.0968208094224,
-    51.05125444203081
+    17.096821,
+    51.051254,
+    17.096821,
+    51.051254
 ],
-  "geometry": {"coordinates":[17.0968208094224,51.05125444203081],"type":"Point"}
+  "geometry": {"coordinates":[17.096821,51.051254],"type":"Point"}
 }

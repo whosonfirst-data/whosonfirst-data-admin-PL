@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"20.08455,49.78902,20.08455,49.78902",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lipnik"
@@ -70,14 +72,16 @@
         }
     ],
     "wof:id":1344089159,
-    "wof:lastmodified":1570009554,
+    "wof:lastmodified":1706240601,
     "wof:name":"Lipnik",
     "wof:parent_id":1125412423,
     "wof:placetype":"locality",
     "wof:population":1600,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pl",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101863245
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
